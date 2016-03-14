@@ -46,13 +46,13 @@
 
                                 {% if event.location == current %}
 
-                                {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+                                {% capture now-unix %}{{'now' | date: '%s'}}{% endcapture %}
 
-                                {% capture posttime %}{{event.date | date: '%s'}}{% endcapture %}
+                                {% capture event-time %}{{event.event-date | date: '%s'}}{% endcapture %}
 
-                                <p>Now is {{ %nowunix }} and event date is {{ %posttime }}</p>
+                                <p>Now is {{ now-unix }} and event date is {{ event-time }}</p>
 
-                                    {% if posttime < nowunix %}
+                                    {% if now-unix < event-time %}
 
                                     	<article class="listing">
 
