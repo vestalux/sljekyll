@@ -1,0 +1,68 @@
+@media screen, projection {
+
+.topbar {
+    padding: $quarter-line $half-line 0 $half-line;
+    background-color: $dark;
+    color: $light;
+    margin-bottom: $single-line;
+
+}
+
+.topbar a {
+    color: $light;
+}
+
+.topbar a:hover,
+.topbar a:active,
+.topbar a:focus {
+    text-decoration: underline;
+}
+
+.topbar-title {
+    font-size: $size-4;
+    line-height: $single-line;
+    display: inline;
+}
+
+.topbar form {
+    display: inline !important;
+    white-space: nowrap;
+}
+
+.topbar #s {
+
+    width: 12em;
+
+    @media #{$nbp} {
+        width: 16em;
+    }
+
+}
+
+.topbar-purple {
+    background-color: $corporate;
+
+    @media #{$bp} {
+        border-bottom: $quarter-line solid $corporate;
+    }
+
+}
+
+.topbar-nav {
+    font-size: $size-3;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    columns: 2;
+    padding-bottom: $half-line;
+
+    @media #{$nbp} {
+        font-size: $size-3;
+        -webkit-columns: auto;
+        -moz-columns: auto;
+        columns: auto;
+        padding-bottom: $quarter-line;
+    }
+
+}
+
+}

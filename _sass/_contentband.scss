@@ -1,0 +1,22 @@
+@media screen, projection {
+
+.content-band {
+    padding: $half-line 0;
+}
+
+.content-band-title,
+.content-band h1 {
+    font-size: $size-5;
+    margin-bottom: $quarter-line;
+}
+
+.content-band .content-band .content-band-title {
+    font-size: $size-4;
+}
+
+.content-band .content-band .content-band .content-band-title {
+    font-size: $size-3;
+}
+
+
+}

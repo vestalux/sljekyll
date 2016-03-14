@@ -1,0 +1,34 @@
+@media screen, projection {
+
+.slot {
+    margin-bottom: $line-and-a-half;
+    padding: $half-line 0;
+    border-top: 1px dotted $midgrey;
+}
+
+// Add some bleed if there's a background applied and width >nbp
+
+.bg .slot {
+
+    @media #{$nbp} {
+        margin-left: -$double-line;
+        margin-right: -$double-line;
+        padding: $half-line $double-line;
+    }
+
+}
+
+.slot-title {
+    font-size: $size-6;
+    margin-bottom: $eighth-line;
+}
+
+.slot-meta {
+    padding-bottom: $half-line;
+}
+
+.slot-pic {
+    margin-bottom: $quarter-line;
+}
+
+}

@@ -1,0 +1,91 @@
+---
+# You need the dashes to convert this to a CSS file
+---
+@charset "utf-8";
+
+// Variables
+
+// Fonts
+$main-font: 'Source Sans Pro', sans-serif;
+$secondary-font: 'Source Sans Pro', sans-serif;
+
+// Breakpoints
+$bp: "screen and (min-width: 800px)";
+$nbp: "screen and (min-width: 1150px)";
+
+// Line heights, widths and margins
+$base-line-height: 1.45;
+$single-line: 1.45em;
+$line-and-a-half: ($single-line * 1.5);
+$double-line: ($single-line * 2);
+$treble-line: ($single-line * 3);
+$quadruple-line: ($single-line * 4);
+$three-quarter-line: ($single-line * 0.75);
+$half-line: ($single-line / 2);
+$quarter-line: ($single-line / 4);
+$eighth-line: ($single-line / 8);
+$base-font-size: 106.75%;
+$widescreen-font-size: 125%;
+$min-wrapper-width: 1100px;
+$max-width: 1400px;
+$wrapper-width: 75%;
+$inner-wrapper-width: 66.66666%;
+$inner-inner-wrapper-width: 50%;
+
+// Type scale (see http://type-scale.com/ minor third)
+$size-1: 0.579em;
+$size-2: 0.694em;
+$size-3: 0.833em;
+$size-4: 1em;
+$size-5: 1.2em;
+$size-6: 1.44em;
+$size-7: 1.728em;
+$size-8: 2.074em;
+
+// Colours
+$black: #000;
+$dark: #444;
+$light: #FFF;
+$highlight: #265A8E;
+$grey: #AAA;
+$lgrey: #F1F1F1;
+$midgrey: #DFDFDF;
+$link: #0282F9;
+$visited: #46A4FC;
+$active: #02CAF7;
+$hover: #02CAF7;
+$code: #FCDF02;
+$background: #F7F7F7;
+$corporate: #3B1B53;
+$secondary-blue: #0E82C0;
+
+// Import partials
+@import
+"base",
+"entry",
+"search",
+"nav",
+"utils",
+"topbar",
+"grid",
+"layout",
+"hero",
+"vbox",
+"iconography",
+"form",
+"button",
+"typography",
+"pure",
+"nib",
+"slot",
+"contentband",
+"reversed",
+"wp",
+"panel",
+"microsites",
+"table",
+"background",
+"wp-navigation",
+"wp-caption",
+"wp-nav-breadcrumbs",
+"subnav"
