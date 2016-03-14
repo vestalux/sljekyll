@@ -36,8 +36,6 @@
 
                             <h2>Upcoming events</h2>
 
-                            <p>The current formatted time is {{'now' | date: "%s" | date: "%b %d, %Y %I:%M %p" | uri_encode | replace:"+","%20"}}</p>
-
                             {% assign current = page.unique-id %}
 
                         	{% assign events = site.events %}
@@ -48,15 +46,29 @@
 
                                 {% capture now-unix %}{{'now' | date: '%s'}}{% endcapture %}
 
-                                {% capture event-time %}{{event.event-date | date: '%s'}}{% endcapture %}
-
-                                <p>Now is {{ now-unix }} and event date is {{ event-time }}</p>
+                                {% capture event-time %}{{event.event-start-date | date: '%s'}}{% endcapture %}
 
                                     {% if now-unix < event-time %}
 
                                     	<article class="listing">
 
-                                    		<h1 class="listing-title"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+                                            <header class="listing-header">
+
+                                    		    <h1 class="listing-title"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+                                                <p class="listing-meta secondary">
+
+                                                {% if event.event-end-date %}
+
+                                                     <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-date | date: "%a %-d %b" }}</span> <span>{{ event.event-end-time }}</span>
+
+                                                {% else %}
+
+                                                     <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-time }}</span>
+
+                                                {% endif %}
+
+                                            </header>
 
                                     	</article>
 

@@ -1,9 +1,9 @@
 ---
-id: an-example-past-event
-name: An example past event
-location: ipswich-county-library
-location-text: Ipswich County Library
-event-start-date: 2016-03-15
+id: another-lowestoft-event
+name: Another Lowestoft event
+location: lowestoft-library
+location-text: Lowestoft Library
+event-start-date: 2020-01-01
 event-start-time: 1300
 event-end-time: 1400
 ---

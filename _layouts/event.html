@@ -30,9 +30,23 @@
 
                         <div class="entry-content">
 
-                            <p>Location: {{ page.location-text }}</p>
+                            <p class="secondary">
+
+                                <span>{{ page.location-text }}</span>,
+
+                                {% if page.event-end-date %}
+
+                                     <span>{{ page.event-start-date | date: "%a %-d %b" }}</span> <span>{{ page.event-start-time }}</span> &#8211; <span>{{ page.event-end-date | date: "%a %-d %b" }}</span> <span>{{ page.event-end-time }}</span>
+
+                                {% else %}
+
+                                     <span>{{ page.event-start-date | date: "%a %-d %b" }}</span> <span>{{ page.event-start-time }}</span> &#8211; <span>{{ page.event-end-time }}</span>
+
+                                {% endif %}
 
                             {{ content }}
+
+                        </p>
 
                         </div>
 

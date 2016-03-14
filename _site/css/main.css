@@ -1258,9 +1258,6 @@ https://github.com/yahoo/pure/blob/master/LICENSE.md
     background-color: #FFF;
     color: #444; } }
 @media screen, projection {
-  .listing {
-    padding-bottom: 1.45em; }
-
   .listing li,
   .entry-content .listing li {
     list-style-type: none; }
