@@ -1,0 +1,49 @@
+{% include header.html %}
+
+{% if page.hero-image %}
+
+    <figure class="hero-splash">
+
+        <img src="/images/{{ page.hero-image }}" {% if page.hero-alt %}alt="{{ page.hero-alt }}"{% endif %}>
+
+        {% if page.hero-caption %}<figcaption class="hero-splash-text"><p>{{ page.hero-caption }}</p></figcaption>{% endif %}
+
+    </figure>
+
+{% endif %}
+
+    <div class="g-row">
+
+        <div class="g-w-right g-w-col12">
+
+            <main id="content" class="clearfix bg bg-white" role="main">
+
+                <article class="entry">
+
+                    <div class="inner-wrapper">
+
+                        <div class="entry-header">
+
+                            <h1 class="entry-title">{{ page.name }}</h1>
+
+                        </div>
+
+                        <div class="entry-content">
+
+                            <p>Location: {{ page.location-text }}</p>
+
+                            {{ content }}
+
+                        </div>
+
+                    </div>
+
+                </article>
+
+            </main>
+
+        </div>
+
+    </div> <!-- end .g-row -->
+
+{% include footer.html %}

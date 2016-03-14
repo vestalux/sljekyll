@@ -1257,3 +1257,15 @@ https://github.com/yahoo/pure/blob/master/LICENSE.md
   .sub-nav li a:hover {
     background-color: #FFF;
     color: #444; } }
+@media screen, projection {
+  .listing {
+    padding-bottom: 1.45em; }
+
+  .listing li,
+  .entry-content .listing li {
+    list-style-type: none; }
+
+  .listing-title,
+  .entry-content .listing-title {
+    font-size: 1em;
+    font-weight: bold; } }

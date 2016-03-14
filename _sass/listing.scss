@@ -1,0 +1,19 @@
+@media screen, projection {
+
+.listing {
+    padding-bottom: $single-line;
+}
+
+.listing li,
+.entry-content .listing li {
+    list-style-type: none;
+}
+
+.listing-title,
+.entry-content .listing-title {
+    font-size: $size-4;
+    font-weight: bold;
+}
+
+
+}
