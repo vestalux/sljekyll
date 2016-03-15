@@ -1,5 +1,15 @@
 {% include header.html %}
 
-{{ content }}
+<main id="content" class="clearfix bg bg-white" role="main">
+
+    <div class="content-band">
+
+        {% include breadcrumb.html %}
+
+        {{ content }}
+
+    </div> <!-- end .content-band -->
+
+</main>
 
 {% include footer.html %}
