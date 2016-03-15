@@ -1266,3 +1266,9 @@ https://github.com/yahoo/pure/blob/master/LICENSE.md
   .entry-content .listing-title {
     font-size: 1em;
     font-weight: bold; } }
+@media screen, projection {
+  .breadcrumb {
+    padding-bottom: 0.725em; }
+
+  .breadcrumb p {
+    font-size: 0.833em; } }

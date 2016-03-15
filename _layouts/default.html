@@ -4,7 +4,11 @@
 
     <div class="content-band">
 
-        {% include breadcrumb.html %}
+        {% if page.breadcrumb %}
+
+            {% include breadcrumb.html %}
+
+        {% endif %}
 
         {{ content }}
 
