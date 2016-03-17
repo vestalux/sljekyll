@@ -20,6 +20,10 @@ github_username:  suffolklibraries
 # Build settings
 markdown: kramdown
 
+# SASS settings
+sass:
+    style: compressed
+
 # Collections
 collections:
     branches:
