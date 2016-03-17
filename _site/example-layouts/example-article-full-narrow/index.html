@@ -4,6 +4,9 @@
 
 <head>
 
+	<!-- LEON GET RID OF THIS LINE ON LIVE -->
+	<meta name='robots' content='noindex,nofollow' />
+
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -13,7 +16,7 @@
 
     <link rel="stylesheet" href="/css/main.css">
 
-    <title>An example full width article &#8211; Suffolk Libraries</title>
+    <title>An example full width article narrow inner &#8211; Suffolk Libraries</title>
 
 	<script type="text/javascript">
 		WebFontConfig = {
@@ -45,15 +48,15 @@
 
 	</div>
 
-	<header class="topbar topbar-purple" id="site-header">
+	<header class="topbar topbar-purple clearfix" id="site-header">
 
 		<div class="g-row">
 
 			<nav id="uni-nav">
 
-				<ul class="h-nav topbar-nav clearfix">
+				<h1 class="topbar-title"><a rel="home" href="/"><span class="weight-semib">Suffolk</span> <span class="weight-normal">Libraries</span></a></h1>
 
-					<li class="h-nav-item"><h1 class="topbar-title"><a class="h-nav-link" href="/"><span class="weight-semib">Suffolk</span> <span class="weight-normal">Libraries</span></a></h1></li>
+				<ul class="h-nav topbar-nav clearfix">
 
 					
 
@@ -65,18 +68,14 @@
 
 					
 
-					<li class="h-nav-item">
-
-						<form id="searchform" class="pure-form pure-form-custom" action="<?php echo esc_url( home_url( '/' ) ); ?>" method="get">
-
-							<input id="s" type="search" name="s" value=""></input>
-							<input id="searchsubmit" type="submit" class="pure-button pure-button-custom" value="Search"></input>
-
-						</form>
-
-					</li>
-
 				</ul>
+
+				<form id="searchform" class="pure-form pure-form-custom" action="<?php echo esc_url( home_url( '/' ) ); ?>" method="get">
+
+					<input id="s" type="search" name="s" value=""></input>
+					<input id="searchsubmit" type="submit" class="pure-button pure-button-custom" value="Search"></input>
+
+				</form>
 
 			</nav> <!-- end #uni-nav -->
 
@@ -93,22 +92,28 @@
 
             <main id="content" class="clearfix bg bg-white" role="main">
 
+                
+
                 <article class="entry">
 
-                    <div class="entry-header">
+                    <div class="inner-wrapper">
 
-                        <h1 class="entry-title">An example full width article</h1>
+                        <div class="entry-header">
 
-                    </div>
+                            <h1 class="entry-title">An example full width article narrow inner</h1>
 
-                    <div class="entry-content">
+                        </div>
 
-                        <p>Bacon ipsum dolor amet porchetta picanha doner pork chop, beef ribs ribeye capicola pork sausage t-bone kielbasa. Cupim bacon pastrami landjaeger tail frankfurter boudin pork belly chicken ribeye shoulder tongue. Doner landjaeger ham, venison frankfurter bresaola meatball fatback biltong short loin tongue chicken strip steak tail ham hock. Drumstick shankle fatback andouille jowl, porchetta short loin flank jerky landjaeger. Tri-tip tenderloin bresaola, biltong jerky porchetta chuck sausage. Pork belly alcatra ribeye strip steak tri-tip. Pig andouille prosciutto, hamburger tail alcatra sirloin leberkas sausage.</p>
+                        <div class="entry-content">
+
+                            <p>Bacon ipsum dolor amet porchetta picanha doner pork chop, beef ribs ribeye capicola pork sausage t-bone kielbasa. Cupim bacon pastrami landjaeger tail frankfurter boudin pork belly chicken ribeye shoulder tongue. Doner landjaeger ham, venison frankfurter bresaola meatball fatback biltong short loin tongue chicken strip steak tail ham hock. Drumstick shankle fatback andouille jowl, porchetta short loin flank jerky landjaeger. Tri-tip tenderloin bresaola, biltong jerky porchetta chuck sausage. Pork belly alcatra ribeye strip steak tri-tip. Pig andouille prosciutto, hamburger tail alcatra sirloin leberkas sausage.</p>
 
 <p>Chuck turducken pig chicken ball tip. Picanha cupim biltong cow. Cow ribeye drumstick bresaola. Tri-tip tenderloin ham chuck t-bone short loin, meatball fatback ball tip filet mignon. Short loin hamburger tenderloin pig tongue shank, ham hock sirloin pork loin pancetta shoulder bacon tri-tip andouille shankle. Andouille pork belly pancetta chuck bresaola turducken short loin capicola swine pork loin spare ribs.</p>
 
 <p>Hamburger tail leberkas prosciutto jerky. Filet mignon capicola rump ribeye t-bone venison pork chop fatback turkey drumstick cow landjaeger beef. Boudin pastrami cupim bacon corned beef. Pork belly t-bone drumstick ham hock, ball tip ground round frankfurter tongue alcatra. Porchetta chicken andouille bacon alcatra t-bone jerky sirloin fatback capicola bresaola sausage ham hamburger. Alcatra tri-tip pancetta ball tip, cupim short ribs ribeye porchetta pig bresaola. Turkey ham salami beef ribs jerky, shank ground round boudin kielbasa cupim bresaola venison short loin.</p>
 
+
+                        </div>
 
                     </div>
 
@@ -146,9 +151,9 @@
 
                             <ul>
 
-                                <li><a href="/branches/lowestoft-library">Lowestoft Library</a></li>
-                                <li><a href="/events/a-past-event">A past event</a></li>
-                                <li><a href="/events/a-test-event">A test event</a></li>
+                                <li><a href="/branches/lowestoft-library.html">Lowestoft Library</a></li>
+                                <li><a href="/events/a-past-event.html">A past event</a></li>
+                                <li><a href="/events/a-test-event.html">A test event</a></li>
 
                             </ul>
 
@@ -164,10 +169,10 @@
 
                             <ul>
 
-                                <li><a href="/example-sidebar-left">Example sidebar left</a></li>
-                                <li><a href="/example-sidebar-right">Example sidebar right</a></li>
-                                <li><a href="/example-article-full">Example full width page</a></li>
-                                <li><a href="/example-article-full-narrow">Example full width page with narrow inner</a></li>
+                                <li><a href="/example-layouts/example-sidebar-left">Example sidebar left</a></li>
+                                <li><a href="/example-layouts/example-sidebar-right">Example sidebar right</a></li>
+                                <li><a href="/example-layouts/example-article-full">Example full width page</a></li>
+                                <li><a href="/example-layouts/example-article-full-narrow">Example full width page with narrow inner</a></li>
 
                             </ul>
 

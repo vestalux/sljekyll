@@ -19,22 +19,36 @@
 }
 
 .topbar-title {
-    font-size: $size-4;
+    font-size: $size-3;
     line-height: $single-line;
-    display: inline;
+    margin-bottom: $half-line;
+
+    @media #{$nbp} {
+        float: left;
+        margin-right: $single-line;
+        margin-bottom: 0;
+    }
+
 }
 
 .topbar form {
-    display: inline !important;
-    white-space: nowrap;
+    padding-bottom: $half-line;
+
+    @media #{$nbp} {
+        float: right;
+        font-size: $size-3;
+        padding-bottom: 0;
+    }
+
 }
 
 .topbar #s {
 
-    width: 12em;
+    width: 15em;
 
     @media #{$nbp} {
-        width: 16em;
+
+        width: 15em;
     }
 
 }
@@ -56,11 +70,13 @@
     padding-bottom: $half-line;
 
     @media #{$nbp} {
+        float: left;
+        margin-right: $single-line;
         font-size: $size-3;
         -webkit-columns: auto;
         -moz-columns: auto;
         columns: auto;
-        padding-bottom: $quarter-line;
+        padding-bottom: 0;
     }
 
 }
