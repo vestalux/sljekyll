@@ -460,7 +460,9 @@
 @media screen, projection {
   .icon {
     padding-left: 1.4em;
-    background-repeat: no-repeat; }
+    background-repeat: no-repeat;
+    background-size: 1.2em;
+    vertical-align: text-bottom; }
 
   /* White icons with purple fill */
   .icon-home-white {
