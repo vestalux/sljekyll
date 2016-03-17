@@ -1,0 +1,30 @@
+@media screen, projection {
+
+	.toggle-button {
+		position: absolute;
+		top: $quarter-line;
+		right: $half-line;
+	}
+
+	.toggle-button:after {
+		content: " \25BC";
+	}
+
+	.toggle-button.open:after {
+		content: " \25B2";
+	}
+
+}
+
+
+@media #{$nbp} {
+
+	.toggle.hide {
+		position: relative !important;
+		clip: 0;
+	}
+
+	.toggle-button {
+		display: none;
+	}
+}

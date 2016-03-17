@@ -11,7 +11,7 @@ $secondary-font: 'Source Sans Pro', sans-serif;
 
 // Breakpoints
 $bp: "screen and (min-width: 800px)";
-$nbp: "screen and (min-width: 1150px)";
+$nbp: "screen and (min-width: 960px)";
 
 // Line heights, widths and margins
 $base-line-height: 1.45;
@@ -90,4 +90,5 @@ $secondary-blue: #0E82C0;
 "wp-nav-breadcrumbs",
 "subnav",
 "listing",
-"breadcrumb"
+"breadcrumb",
+"toggle"

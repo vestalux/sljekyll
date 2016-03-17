@@ -19,14 +19,14 @@
 }
 
 .topbar-title {
-    font-size: $size-3;
+    font-size: $size-5;
     line-height: $single-line;
-    margin-bottom: $half-line;
+    padding-bottom: $half-line;
+
 
     @media #{$nbp} {
-        float: left;
-        margin-right: $single-line;
-        margin-bottom: 0;
+        margin-bottom: $quarter-line;
+        padding-bottom: 0;
     }
 
 }
@@ -36,6 +36,7 @@
 
     @media #{$nbp} {
         float: right;
+        text-align: right;
         font-size: $size-3;
         padding-bottom: 0;
     }
@@ -47,8 +48,7 @@
     width: 15em;
 
     @media #{$nbp} {
-
-        width: 15em;
+        width: 20em;
     }
 
 }
@@ -63,19 +63,13 @@
 }
 
 .topbar-nav {
-    font-size: $size-3;
-    -webkit-columns: 2;
-    -moz-columns: 2;
-    columns: 2;
+    font-size: $size-4;
     padding-bottom: $half-line;
 
     @media #{$nbp} {
         float: left;
         margin-right: $single-line;
         font-size: $size-3;
-        -webkit-columns: auto;
-        -moz-columns: auto;
-        columns: auto;
         padding-bottom: 0;
     }
 
