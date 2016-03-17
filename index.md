@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reserve, renew, branches and eLibrary
+title: Suffolk Libraries reserve, renew, branches and eLibrary
 ---
 
 <nav id="nav">
@@ -93,9 +93,9 @@ title: Reserve, renew, branches and eLibrary
 
             <section class="vbox">
 
-                <h1 class="vbox-title"><a class="icon icon-library" href="<?php echo get_site_url(); ?>/information-resources">Information resources</a></h1>
+                <h1 class="vbox-title"><a class="icon icon-accessibility" href="/">Health &amp; wellbeing</a></h1>
 
-                <p class="vbox-text">Free access to Ancestry, Find My Past, Access to Research and many other resources.</p>
+                <p class="vbox-text">Mental health information and resources, books on prescription.</p>
 
             </section>
 
@@ -117,7 +117,7 @@ title: Reserve, renew, branches and eLibrary
 
             <section class="vbox">
 
-                <h1 class="vbox-title"><a class="icon icon-bus" href="<?php echo get_site_url(); ?>/community-services">Schools &amp; literacy</a></h1>
+                <h1 class="vbox-title"><a class="icon icon-bus" href="<?php echo get_site_url(); ?>/community-services">Mobiles &amp; home service</a></h1>
 
                 <p class="vbox-text">Mobile libraries, home library service &amp; Literacy, Books and Reading Team for Schools.</p>
 
@@ -148,6 +148,34 @@ title: Reserve, renew, branches and eLibrary
                 <h1 class="vbox-title"><a class="icon icon-pen" href="<?php echo get_site_url(); ?>/news">News &amp; blog</a></h1>
 
                 <p class="vbox-text">Announcements, press releases and our behind the scenes blog.</p>
+
+            </section>
+
+        </div>
+
+        <div class="g-w-col4 g-w-left">
+
+            <section class="vbox">
+
+                <h1 class="vbox-title"><a class="icon icon-school" href="/">Literacy &amp; schools</a></h1>
+
+                <p class="vbox-text">Literacy resources and schools service.</p>
+
+            </section>
+
+        </div>
+
+    </div> <!-- end .g-row -->
+
+    <div class="g-row">
+
+        <div class="g-w-col4 g-w-left">
+
+            <section class="vbox">
+
+                <h1 class="vbox-title"><a class="icon icon-library" href="<?php echo get_site_url(); ?>/information-resources">History &amp; reference</a></h1>
+
+                <p class="vbox-text">Free access to Ancestry, Find My Past, Access to Research and many other resources.</p>
 
             </section>
 
