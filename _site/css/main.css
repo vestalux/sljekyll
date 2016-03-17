@@ -186,21 +186,28 @@
     text-decoration: underline; }
 
   .topbar-title {
-    font-size: 1em;
+    font-size: 0.833em;
     line-height: 1.45em;
-    display: inline; }
-
-  .topbar form {
-    display: inline !important;
-    white-space: nowrap; }
-
-  .topbar #s {
-    width: 12em; } }
+    margin-bottom: 0.725em; } }
   @media screen and (min-width: 1150px) {
-    .topbar #s {
-      width: 16em; } }
+    .topbar-title {
+      float: left;
+      margin-right: 1.45em;
+      margin-bottom: 0; } }
 
 @media screen, projection {
+  .topbar form {
+    padding-bottom: 0.725em; } }
+  @media screen and (min-width: 1150px) {
+    .topbar form {
+      float: right;
+      font-size: 0.833em;
+      padding-bottom: 0; } }
+
+@media screen, projection {
+  .topbar #s {
+    width: 15em; }
+
   .topbar-purple {
     background-color: #3B1B53; } }
   @media screen and (min-width: 800px) {
@@ -216,11 +223,13 @@
     padding-bottom: 0.725em; } }
   @media screen and (min-width: 1150px) {
     .topbar-nav {
+      float: left;
+      margin-right: 1.45em;
       font-size: 0.833em;
       -webkit-columns: auto;
       -moz-columns: auto;
       columns: auto;
-      padding-bottom: 0.3625em; } }
+      padding-bottom: 0; } }
 
 @media screen, projection {
   .g-row {
@@ -555,9 +564,6 @@
   .icon-twitter {
     background-image: url("/images/twitter.svg"); } }
 @media screen, projection {
-  .pure-form-custom {
-    margin-bottom: 0.725em; }
-
   .pure-form-custom input {
     -webkit-appearance: none; }
 

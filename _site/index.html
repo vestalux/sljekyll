@@ -48,15 +48,15 @@
 
 	</div>
 
-	<header class="topbar topbar-purple" id="site-header">
+	<header class="topbar topbar-purple clearfix" id="site-header">
 
 		<div class="g-row">
 
 			<nav id="uni-nav">
 
-				<ul class="h-nav topbar-nav clearfix">
+				<h1 class="topbar-title"><a rel="home" href="/"><span class="weight-semib">Suffolk</span> <span class="weight-normal">Libraries</span></a></h1>
 
-					<li class="h-nav-item"><h1 class="topbar-title"><a class="h-nav-link" href="/"><span class="weight-semib">Suffolk</span> <span class="weight-normal">Libraries</span></a></h1></li>
+				<ul class="h-nav topbar-nav clearfix">
 
 					
 
@@ -67,18 +67,14 @@
 
 					
 
-					<li class="h-nav-item">
-
-						<form id="searchform" class="pure-form pure-form-custom" action="<?php echo esc_url( home_url( '/' ) ); ?>" method="get">
-
-							<input id="s" type="search" name="s" value=""></input>
-							<input id="searchsubmit" type="submit" class="pure-button pure-button-custom" value="Search"></input>
-
-						</form>
-
-					</li>
-
 				</ul>
+
+				<form id="searchform" class="pure-form pure-form-custom" action="<?php echo esc_url( home_url( '/' ) ); ?>" method="get">
+
+					<input id="s" type="search" name="s" value=""></input>
+					<input id="searchsubmit" type="submit" class="pure-button pure-button-custom" value="Search"></input>
+
+				</form>
 
 			</nav> <!-- end #uni-nav -->
 
