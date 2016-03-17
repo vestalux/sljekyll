@@ -1,6 +1,7 @@
 ---
 layout: full-width
 title: An example full width article
+breadcrumb: y
 ---
 
 Bacon ipsum dolor amet porchetta picanha doner pork chop, beef ribs ribeye capicola pork sausage t-bone kielbasa. Cupim bacon pastrami landjaeger tail frankfurter boudin pork belly chicken ribeye shoulder tongue. Doner landjaeger ham, venison frankfurter bresaola meatball fatback biltong short loin tongue chicken strip steak tail ham hock. Drumstick shankle fatback andouille jowl, porchetta short loin flank jerky landjaeger. Tri-tip tenderloin bresaola, biltong jerky porchetta chuck sausage. Pork belly alcatra ribeye strip steak tri-tip. Pig andouille prosciutto, hamburger tail alcatra sirloin leberkas sausage.

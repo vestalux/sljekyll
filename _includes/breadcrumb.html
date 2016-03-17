@@ -1,5 +1,35 @@
-<div class="breadcrumb panel">
+{% assign url_parts = page.url | split: '/' %}
+{% assign url_parts_size = url_parts | size %}
+{% assign rm = url_parts | last %}
+{% assign base_url = page.url | replace: rm %}
+{% assign clean_base_url = base_url | remove: '//' %}
 
-    <p><a href="/" class="icon icon-home">Home</a> &rarr; Current page</p>
+{% if clean_base_url == "" %}
 
-</div>
+    <div class="breadcrumb panel">
+
+        <p><a href="/" class="icon icon-home">Home</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% else %}
+
+    {% for node in site.pages %}
+
+        {% if node.url contains clean_base_url %}
+
+            <div class="breadcrumb panel">
+
+                <p><a href="/" class="icon icon-home">Home</a> &rarr; <a href="..{{ clean_base_url }}">{{ page.parent }}</a> &rarr; {{ page.title }}</p>
+
+            </div>
+
+            {% break %}
+
+        {% endif %}
+
+    {% endfor %}
+
+{% endif %}
+
+</ul>

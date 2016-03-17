@@ -12,13 +12,19 @@
 
 {% endif %}
 
-    <div class="bg bg-white content-band">
+    <div class="bg bg-white">
 
         <div class="g-row">
 
-            <div class="g-w-right g-w-col12">
+            <div class="g-w-col12">
 
                 <main id="content" class="clearfix" role="main">
+
+                    {% if page.breadcrumb %}
+
+                        {% include breadcrumb.html %}
+
+                    {% endif %}
 
                     <article class="entry">
 

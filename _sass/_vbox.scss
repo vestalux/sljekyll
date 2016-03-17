@@ -7,7 +7,7 @@
 
 .vbox-title {
     font-size: $size-4 !important;
-    padding: $quarter-line $half-line;
+    padding: $quarter-line $half-line !important ;
     border-bottom: 1px solid $midgrey;
     background-color: $lgrey;
 }

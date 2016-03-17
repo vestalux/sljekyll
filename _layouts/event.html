@@ -18,6 +18,12 @@
 
             <main id="content" class="clearfix bg bg-white" role="main">
 
+                {% if page.breadcrumb %}
+
+                    {% include breadcrumb.html %}
+
+                {% endif %}
+
                 <article class="entry">
 
                     <div class="inner-wrapper">

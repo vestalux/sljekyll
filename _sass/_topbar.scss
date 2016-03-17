@@ -46,6 +46,11 @@
 
     width: 15em;
 
+    @media #{$nbp} {
+
+        width: 15em;
+    }
+
 }
 
 .topbar-purple {

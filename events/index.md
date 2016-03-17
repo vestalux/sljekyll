@@ -1,20 +1,10 @@
 ---
-layout: default
+layout: full-width
 title: Events and activities
 breadcrumb: y
 ---
 
 <nav id="nav">
-
-    <div class="entry-header g-row">
-
-        <div class="g-w-col12">
-
-            <h1 class="entry-title">Events &amp; activities</h1>
-
-        </div>
-
-    </div>
 
     <div class="g-row">
 
