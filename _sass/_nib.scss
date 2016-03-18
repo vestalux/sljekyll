@@ -15,8 +15,10 @@
 }
 
 .nib-box-title {
-    font-size: $size-4;
-    margin-bottom: $quarter-line;
+    font-size: $size-4 !important;
+    margin-bottom: $eighth-line;
+    padding-bottom: $eighth-line;
+    border-bottom: 1px solid $midgrey;
 }
 
 .nib-box p,

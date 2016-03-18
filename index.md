@@ -145,9 +145,9 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
             <section class="vbox">
 
-                <h1 class="vbox-title"><a class="icon icon-pen" href="<?php echo get_site_url(); ?>/news">News &amp; blog</a></h1>
+                <h1 class="vbox-title"><a class="icon icon-library" href="<?php echo get_site_url(); ?>/information-resources">History &amp; reference</a></h1>
 
-                <p class="vbox-text">Announcements, press releases and our behind the scenes blog.</p>
+                <p class="vbox-text">Free access to Ancestry, Find My Past, Access to Research and many other resources.</p>
 
             </section>
 
@@ -171,11 +171,17 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
         <div class="g-w-col4 g-w-left">
 
-            <section class="vbox">
+            <section class="nib-box">
 
-                <h1 class="vbox-title"><a class="icon icon-library" href="<?php echo get_site_url(); ?>/information-resources">History &amp; reference</a></h1>
+                <h1 class="nib-box-title">More links</h1>
 
-                <p class="vbox-text">Free access to Ancestry, Find My Past, Access to Research and many other resources.</p>
+                <ul>
+
+                    <li><a href="#">About us</a></li>
+                    <li><a href="#">Jobs</a></li>
+                    <li><a href="#">Documents</a></li>
+
+               </ul>
 
             </section>
 
@@ -183,15 +189,53 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
         <div class="g-w-col4 g-w-left">
 
-            <section class="vbox">
+            <section class="nib-box">
 
-                <h1 class="vbox-title"><a class="icon icon-people" href="<?php echo get_site_url(); ?>/about">About us</a></h1>
+                <h1 class="nib-box-title">Latest news</h1>
 
-                <p class="vbox-text">Governance, board members, jobs and documents.</p>
+                <article class="slot">
 
-            </section>
+                    <h1 class="slot-title"><a href="#">Latest news title</a></h1>
 
-        </div>
+                    <p class="secondary slot-meta">18 Jan 2016</p>
+
+                    <div class="slot-content">
+
+                        <p>An excerpt for a news story.</p>
+
+                        <p><a href="#">All news stories &rarr;</a></p>
+
+                   </div>
+
+               </article>
+
+           </section>
+
+       </div>
+
+       <div class="g-w-col4 g-w-left">
+
+           <section class="nib-box">
+
+               <h1 class="nib-box-title">From the blog</h1>
+
+               <article class="slot">
+
+                   <h1 class="slot-title"><a href="#">Latest blog title</a></h1>
+
+                   <p class="secondary slot-meta">18 Jan 2016</p>
+
+                   <div class="slot-content">
+
+                       <p>An excerpt for a blog post.</p>
+
+                       <p><a href="#">All blog posts &rarr;</a></p>
+
+                  </div>
+
+              </article>
+
+          </section>
 
     </div> <!-- end .g-row -->
 
