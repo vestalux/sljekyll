@@ -1,6 +1,7 @@
 ---
 layout: full-width
 title: Branches
+breadcrumb: 1
 ---
 
 <table>
@@ -23,9 +24,9 @@ title: Branches
 
         <tr>
 
-            <td><a href="{{ branch.url }}">{{ branch.name}}</a></td>
-            <td>{{ branch.address }}, {{ branch.post-code }}</td>
-            <td>{{ branch.tel }}</td>
+            <td><a href="{{ branch.url }}">{{ branch.branch-name}}</a></td>
+            <td>{{ branch.branch-address }}, {{ branch.branch-post-code }}</td>
+            <td>{{ branch.branch-tel }}</td>
 
         </tr>
 

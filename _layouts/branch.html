@@ -30,19 +30,19 @@
 
                         <div class="entry-header">
 
-                            <h1 class="entry-title">{{ page.name }}</h1>
+                            <h1 class="entry-title">{{ page.branch-name }}</h1>
 
                         </div>
 
                         <div class="entry-content">
 
-                            <p>Tel: {{ page.tel}}<br>
-                            Address: {{ page.address }}<br>
-                            Postcode: {{ page.post-code}}<br></p>
+                            <p>Tel: {{ page.branch-tel}}<br>
+                            Address: {{ page.branch-address }}<br>
+                            Postcode: {{ page.branch-post-code}}<br></p>
 
                             <h2>Upcoming events</h2>
 
-                            {% assign current = page.unique-id %}
+                            {% assign current = page.branch-unique-id %}
 
                         	{% assign events = site.events %}
 

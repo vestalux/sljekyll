@@ -1,7 +1,7 @@
 ---
 layout: full-width
 title: Events and activities
-breadcrumb: y
+breadcrumb: 1
 ---
 
 <nav id="nav">
@@ -76,7 +76,7 @@ breadcrumb: y
 
             <section class="vbox">
 
-                <h1 class="vbox-title"><a href="/events-activities/building-wellness-through-reading">Building Wellness through Reading</a></h1>
+                <h1 class="vbox-title"><a href="building-wellness-through-reading">Building Wellness through Reading</a></h1>
 
                 <p class="vbox-text">One day conference for education professionals to help promote reading as a therapeutic activity.</p>
 

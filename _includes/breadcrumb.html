@@ -1,33 +1,25 @@
-{% assign url_parts = page.url | split: '/' %}
-{% assign url_parts_size = url_parts | size %}
-{% assign rm = url_parts | last %}
-{% assign base_url = page.url | replace: rm %}
-{% assign clean_base_url = base_url | remove: '//' %}
+{% if page.breadcrumb == 1 %}
 
-{% if clean_base_url == "" %}
+    <div class="panel breadcrumb">
 
-    <div class="breadcrumb panel">
-
-        <p><a href="/" class="icon icon-home">Home</a> &rarr; {{ page.title }}</p>
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; {{ page.title }}</p>
 
     </div>
 
-{% else %}
+{% elsif page.breadcrumb == 2 or page.event-start-date %}
 
-    {% for node in site.pages %}
+    <div class="panel breadcrumb">
 
-        {% if node.url contains clean_base_url %}
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/events">Events</a> &rarr; {{ page.title }}</p>
 
-            <div class="breadcrumb panel">
+    </div>
 
-                <p><a href="/" class="icon icon-home">Home</a> &rarr; <a href="..{{ clean_base_url }}">{{ page.parent }}</a> &rarr; {{ page.title }}</p>
+{% elsif page.breadcrumb == 3 or page.branch-name %}
 
-            </div>
+    <div class="panel breadcrumb">
 
-            {% break %}
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/branches">Branches</a> &rarr; {{ page.title }}</p>
 
-        {% endif %}
-
-    {% endfor %}
+    </div>
 
 {% endif %}

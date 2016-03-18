@@ -1,6 +1,6 @@
 ---
 id: an-example-event
-name: An example event
+name: A test event
 location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2018-01-08
