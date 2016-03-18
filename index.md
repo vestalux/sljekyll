@@ -77,7 +77,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
             <section class="vbox">
 
-                <h1 class="vbox-title"><a href="#" class="icon icon-card">Apply for a card</a></h1>
+                <h1 class="vbox-title"><a href="#" class="icon icon-card">Apply for or renew a card</a></h1>
 
                 <p class="vbox-text">Apply online to access books, music, CDs, research resources and the eLibrary.</p>
 

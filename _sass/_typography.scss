@@ -55,6 +55,10 @@
     margin-right: $single-line;
 }
 
+.no-bullet li {
+    list-style-type: none;
+}
+
 .columnar {
 
     @media #{$bp} {
