@@ -38,26 +38,30 @@
 
 	<header class="topbar topbar-purple clearfix" id="site-header">
 
-		<div class="g-row">
+		<nav id="uni-nav">
 
-			<nav id="uni-nav">
+			<div class="g-row">
 
-				<h1 class="topbar-title"><a rel="home" href="/" class="icon icon-home-white"><span class="weight-semib">Suffolk</span> <span class="weight-normal">Libraries</span></a></h1>
+				<div class="g-w-left g-w-col4">
 
-				<button class="pure-button toggle-button">Search</button>
+					<h1 class="topbar-title"><a rel="home" href="/" class="icon icon-home-white"><span class="weight-semib">Suffolk</span> <span class="weight-normal">Libraries</span></a></h1>
 
-				<ul class="h-nav topbar-nav toggle hide">
+				</div>
 
-					
+				<div><a class="toggle-button icon icon-search-white" href="#">Search</a></div>
 
-						<li class="h-nav-item"><a href="tel:01473263838" class="h-nav-link icon icon-phone-white">01473 263838</a></li>
-						<li class="h-nav-item"><a href="mailto:help@suffolklibraries.co.uk" class="h-nav-link icon icon-email-white">help@suffolklibraries.co.uk</a></li>
-						<li class="h-nav-item"><a href="http://twitter.com/suffolklibrary" class="h-nav-link icon icon-twitter-white">Twitter</a></li>
-						<li class="h-nav-item"><a href="http://facebook.com/suffolklibraries" class="h-nav-link icon icon-facebook-white">Facebook</a></li>
+				<div class="toggle hide">
 
-					
+				<!-- 
 
-					<li class="h-nav-item">
+					<li class="h-nav-item"><a href="tel:01473263838" class="h-nav-link icon icon-phone-white">01473 263838</a></li>
+					<li class="h-nav-item"><a href="mailto:help@suffolklibraries.co.uk" class="h-nav-link icon icon-email-white">help@suffolklibraries.co.uk</a></li>
+					<li class="h-nav-item"><a href="http://twitter.com/suffolklibrary" class="h-nav-link icon icon-twitter-white">Twitter</a></li>
+					<li class="h-nav-item"><a href="http://facebook.com/suffolklibraries" class="h-nav-link icon icon-facebook-white">Facebook</a></li>
+
+				 -->
+
+					<div class="g-w-right g-w-align-right g-w-col8">
 
 						<form id="searchform" class="pure-form pure-form-custom" action="<?php echo esc_url( home_url( '/' ) ); ?>" method="get">
 
@@ -66,13 +70,13 @@
 
 						</form>
 
-					</li>
+					</div>
 
-				</ul>
+				</div>
 
-			</nav> <!-- end #uni-nav -->
+			</div> <!-- end .g-row -->
 
-		</div> <!-- end .g-row -->
+		</nav> <!-- end #uni-nav -->
 
 	</header>
 

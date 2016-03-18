@@ -19,7 +19,7 @@
 }
 
 .topbar-title {
-    font-size: $size-5;
+    font-size: $size-4;
     line-height: $single-line;
     padding-bottom: $half-line;
 
@@ -35,8 +35,6 @@
     padding-bottom: $half-line;
 
     @media #{$nbp} {
-        float: right;
-        text-align: right;
         font-size: $size-3;
         padding-bottom: 0;
     }

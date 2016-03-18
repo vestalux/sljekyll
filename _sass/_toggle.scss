@@ -4,15 +4,8 @@
 		position: absolute;
 		top: $quarter-line;
 		right: $half-line;
-		font-size: $size-3;
-	}
+		font-size: $size-4;
 
-	.toggle-button:after {
-		content: " \25BC";
-	}
-
-	.toggle-button.open:after {
-		content: " \25B2";
 	}
 
 }
