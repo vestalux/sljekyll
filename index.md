@@ -184,73 +184,67 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
     <div class="g-row">
 
-        <div class="g-w-col4 g-w-left">
+        <div class="secondary">
 
-            <section class="nib-box">
+                <div class="g-w-col4 g-w-left">
 
-                <h1 class="nib-box-title">More links</h1>
+                    <section class="nib-box">
 
-                <ul>
+                        <h1 class="nib-box-title">More links</h1>
 
-                    <li><a href="#">About us</a></li>
-                    <li><a href="#">Jobs</a></li>
-                    <li><a href="#">Documents</a></li>
+                        <ul>
 
-               </ul>
+                            <li><a href="#">About us</a></li>
+                            <li><a href="#">Jobs</a></li>
+                            <li><a href="#">Documents</a></li>
 
-            </section>
+                       </ul>
 
-        </div>
+                    </section>
 
-        <div class="g-w-col4 g-w-left">
+                </div>
 
-            <section class="nib-box">
+                <div class="g-w-col4 g-w-left">
 
-                <h1 class="nib-box-title">Latest news</h1>
+                    <section class="nib-box">
 
-                <article class="slot">
+                        <h1 class="nib-box-title">Latest news</h1>
 
-                    <h1 class="slot-title"><a href="#">Latest news title</a></h1>
+                        <ul>
 
-                    <p class="secondary slot-meta">18 Jan 2016</p>
+                            <li><a href="#">Latest news title</a> &#8211; 18 Mar 2016</li>
+                            <li><a href="#">Another news title</a> &#8211; 13 Mar 2016</li>
+                            <li><a href="#">Yet another news title</a> &#8211; 01 Mar 2016</li>
 
-                    <div class="slot-content">
+                        </ul>
 
-                        <p>An excerpt for a news story.</p>
+                        <p><strong><a href="#">All news stories &rarr;</a></strong></p>
 
-                        <p><a href="#">All news stories &rarr;</a></p>
+                   </section>
 
-                   </div>
+               </div>
 
-               </article>
+               <div class="g-w-col4 g-w-left">
 
-           </section>
+                   <section class="nib-box">
 
-       </div>
+                       <h1 class="nib-box-title">Blog</h1>
 
-       <div class="g-w-col4 g-w-left">
+                       <ul>
 
-           <section class="nib-box">
+                           <li><a href="#">Latest blog post</a> &#8211; 18 Mar 2016</li>
+                           <li><a href="#">Another blog post</a> &#8211; 13 Mar 2016</li>
+                           <li><a href="#">Yet another blog post</a> &#8211; 01 Mar 2016</li>
 
-               <h1 class="nib-box-title">From the blog</h1>
+                       </ul>
 
-               <article class="slot">
+                       <p><strong><a href="#">All blog posts &rarr;</a></strong></p>
 
-                   <h1 class="slot-title"><a href="#">Latest blog title</a></h1>
+                  </section>
 
-                   <p class="secondary slot-meta">18 Jan 2016</p>
+              </div>
 
-                   <div class="slot-content">
-
-                       <p>An excerpt for a blog post.</p>
-
-                       <p><a href="#">All blog posts &rarr;</a></p>
-
-                  </div>
-
-              </article>
-
-          </section>
+          </div>
 
     </div> <!-- end .g-row -->
 
