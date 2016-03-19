@@ -1,7 +1,10 @@
 @media screen, projection {
 
 .breadcrumb {
-    padding-bottom: $half-line;
+    background-color: $lgrey;
+    padding: $half-line;
+    margin-bottom: $single-line;
+    border: 1px solid $midgrey;
 }
 
 

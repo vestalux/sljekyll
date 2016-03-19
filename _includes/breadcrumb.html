@@ -1,6 +1,6 @@
 {% if page.breadcrumb == 1 %}
 
-    <div class="panel breadcrumb">
+    <div class="breadcrumb">
 
         <p><a class="icon icon-home" href="/">Home</a> &rarr; {{ page.title }}</p>
 
@@ -8,7 +8,7 @@
 
 {% elsif page.breadcrumb == 2 or page.event-start-date %}
 
-    <div class="panel breadcrumb">
+    <div class="breadcrumb">
 
         <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/events">Events</a> &rarr; {{ page.title }}</p>
 
@@ -16,9 +16,17 @@
 
 {% elsif page.breadcrumb == 3 or page.branch-name %}
 
-    <div class="panel breadcrumb">
+    <div class="breadcrumb">
 
         <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/branches">Branches</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% elsif page.breadcrumb == 4 %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/elibrary">eLibrary</a> &rarr; {{ page.title }}</p>
 
     </div>
 

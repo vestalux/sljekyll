@@ -3,6 +3,13 @@
 .panel {
     background-color: $lgrey;
     padding: $half-line $single-line 0 $single-line;
+
+    @media #{$bp} {
+
+        padding: $half-line $double-line 0 $double-line;
+
+    }
+
     margin: $half-line 0 $single-line 0;
     border: 1px solid $midgrey;
 }
