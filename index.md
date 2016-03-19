@@ -9,6 +9,23 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
     <div class="g-row">
 
+        <div class="g-left g-col12">
+
+            <ul class="h-nav secondary breadcrumb">
+
+                <li><a class="icon icon-phone" href="tel:01473351249">01473 351249</a></li>
+                <li><a class="icon icon-email" href="mailto:help@suffolklibraries.co.uk">help@suffolklibraries.co.uk</a></li>
+                <li><a href="http://twitter.com/suffolklibrary" class="icon icon-twitter">Twitter</a></li>
+                <li><a href="http://facebook.com/suffolklibraries" class="icon icon-facebook">Facebook</a></li>
+
+            </ul>
+
+        </div>
+
+    </div>
+
+    <div class="g-row">
+
         <div class="g-w-col4 g-w-left">
 
             <section class="vbox">

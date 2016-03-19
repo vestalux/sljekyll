@@ -1,7 +1,8 @@
 @media screen, projection {
 
-.h-nav-item {
-    padding: $half-line 0;
+.h-nav-item,
+.h-nav li  {
+    padding: $eighth-line 0;
     list-style-type: none;
 
     @media #{$nbp} {
