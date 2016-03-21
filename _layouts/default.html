@@ -1,5 +1,17 @@
 {% include header.html %}
 
+{% if page.hero-image %}
+
+    <figure class="hero-splash">
+
+        <img src="/images/hero/{{ page.hero-image }}" {% if page.hero-alt %}alt="{{ page.hero-alt }}"{% endif %}>
+
+        {% if page.hero-caption %}<figcaption class="hero-splash-text"><p>{{ page.hero-caption }}</p></figcaption>{% endif %}
+
+    </figure>
+
+{% endif %}
+
 <main id="content" class="clearfix bg bg-white" role="main">
 
     <div class="content-band">
