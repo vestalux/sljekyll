@@ -4,7 +4,24 @@
 
         <div class="secondary">
 
-            {% if page.breadcrumb == 4 %}
+            {% if page.sidebar == 1 %}
+
+                <section class="vbox">
+
+                    <h1 class="vbox-title">In this section</h1>
+
+                    <ul class="vbox-text">
+
+                        <li><a href="/branches/">List of branches</a></li>
+                        <li><a href="/branches/hub/">Ipswich Enterprise + Innovation Hub</a></li>
+                        <li><a href="/branches/rooms-for-hire/">Branches with rooms for hire</a></li>
+                        <li><a href="/branches/ceremonies/">Hire Ipswich County Library Northgate room for weddings and other ceremonies</a></li>
+
+                    </ul>
+
+                </section>
+
+            {% elsif page.breadcrumb == 4 %}
 
                 <section class="vbox">
 
@@ -23,14 +40,6 @@
                 </section>
 
             {% endif %}
-
-            <section class="vbox">
-
-                <h1 class="vbox-title">Sidebar section title</h1>
-
-                <p>Sidebar text.</p>
-
-            </section>
 
         </div> <!-- end .secondary -->
 

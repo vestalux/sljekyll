@@ -1,7 +1,8 @@
 ---
-layout: full-width
+layout: sidebar-right
 title: Branches
 breadcrumb: 1
+sidebar: 1
 ---
 
 <table>
