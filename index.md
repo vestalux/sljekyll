@@ -11,10 +11,11 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
         <div class="g-left g-col12">
 
-            <ul class="h-nav secondary breadcrumb">
+            <ul class="h-nav breadcrumb">
 
-                <li><a class="icon icon-phone" href="tel:01473351249">01473 351249</a></li>
-                <li><a class="icon icon-email" href="mailto:help@suffolklibraries.co.uk">help@suffolklibraries.co.uk</a></li>
+                <li><a href="https://suffolk.spydus.co.uk" class="icon icon-search">Search &amp; reserve &rarr;</a></li>
+                <li><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/LOGINB" class="icon icon-lock">Login &amp; renew &rarr;</a></li>
+                <li><a href="#" class="icon icon-card">Apply for or renew a card &rarr;</a></li>
 
             </ul>
 
@@ -28,30 +29,6 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
             <section class="vbox">
 
-                <h1 class="vbox-title"><a href="https://suffolk.spydus.co.uk" class="icon icon-search">Search &amp; reserve</a></h1>
-
-                <p class="vbox-text">Search for books, CDs &amp; DVDs and reserve for collection from your library.</p>
-
-            </section>
-
-        </div>
-
-        <div class="g-w-col4 g-w-left">
-
-            <section class="vbox">
-
-                <h1 class="vbox-title"><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/LOGINB" class="icon icon-lock">Login &amp; renew</a></h1>
-
-                <p class="vbox-text">See your loans &amp; fines, renew titles and update your details.</p>
-
-            </section>
-
-        </div>
-
-        <div class="g-w-col4 g-w-left">
-
-            <section class="vbox">
-
                 <h1 class="vbox-title"><a class="icon icon-tablet" href="/elibrary">eLibrary</a></h1>
 
                 <p class="vbox-text">Free eBooks, eAudio, downloads, magazines &amp; streaming.</p>
@@ -59,10 +36,6 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
             </section>
 
         </div>
-
-    </div> <!-- end .g-row -->
-
-    <div class="g-row">
 
         <div class="g-w-col4 g-w-left">
 
@@ -88,18 +61,6 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
         </div>
 
-        <div class="g-w-col4 g-w-left">
-
-            <section class="vbox">
-
-                <h1 class="vbox-title"><a href="#" class="icon icon-card">Apply for or renew a card</a></h1>
-
-                <p class="vbox-text">Apply online to access books, music, CDs, research resources and the eLibrary.</p>
-
-            </section>
-
-        </div>
-
     </div> <!-- end .g-row -->
 
     <div class="g-row">
@@ -108,9 +69,9 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
             <section class="vbox">
 
-                <h1 class="vbox-title"><a class="icon icon-accessibility" href="/">Health &amp; wellbeing</a></h1>
+                <h1 class="vbox-title"><a class="icon icon-bus" href="<?php echo get_site_url(); ?>/community-services">Mobiles &amp; home service</a></h1>
 
-                <p class="vbox-text">Mental health information and resources, books on prescription.</p>
+                <p class="vbox-text">Mobile libraries, home library service &amp; Literacy, Books and Reading Team for Schools.</p>
 
             </section>
 
@@ -132,9 +93,9 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
             <section class="vbox">
 
-                <h1 class="vbox-title"><a class="icon icon-bus" href="<?php echo get_site_url(); ?>/community-services">Mobiles &amp; home service</a></h1>
+                <h1 class="vbox-title"><a class="icon icon-accessibility" href="/">Health &amp; wellbeing</a></h1>
 
-                <p class="vbox-text">Mobile libraries, home library service &amp; Literacy, Books and Reading Team for Schools.</p>
+                <p class="vbox-text">Mental health information and resources, books on prescription.</p>
 
             </section>
 
@@ -182,70 +143,56 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
     </div> <!-- end .g-row -->
 
-    <div class="g-row">
+        <div class="g-row">
 
-        <div class="secondary">
+            <div class="g-w-col4 g-w-left">
 
-                <div class="g-w-col4 g-w-left">
+                <section class="vbox">
 
-                    <section class="nib-box">
+                    <h1 class="vbox-title"><a href="/about" class="icon icon-people">About us</a></h1>
 
-                        <h1 class="nib-box-title">More links</h1>
+                    <p class="vbox-text">Governance, board members, documents &amp; jobs.</p>
 
-                        <ul>
+                </section>
 
-                            <li><a href="#">About us</a></li>
-                            <li><a href="#">Jobs</a></li>
-                            <li><a href="#">Documents</a></li>
+            </div>
 
-                       </ul>
+            <div class="g-w-col4 g-w-left">
 
-                    </section>
+                <section class="vbox">
 
-                </div>
+                    <h1 class="vbox-title"><a href="/news" class="icon icon-newspaper">News</a></h1>
 
-                <div class="g-w-col4 g-w-left">
+                    <ul class="vbox-text">
 
-                    <section class="nib-box">
+                        <li><a href="#">Latest news title</a> &#8211; 18 Mar 2016</li>
+                        <li><a href="#">Another news title</a> &#8211; 13 Mar 2016</li>
+                        <li><a href="#">Yet another news title</a> &#8211; 01 Mar 2016</li>
 
-                        <h1 class="nib-box-title">Latest news</h1>
+                    </ul>
 
-                        <ul>
+               </section>
 
-                            <li><a href="#">Latest news title</a> &#8211; 18 Mar 2016</li>
-                            <li><a href="#">Another news title</a> &#8211; 13 Mar 2016</li>
-                            <li><a href="#">Yet another news title</a> &#8211; 01 Mar 2016</li>
+           </div>
 
-                        </ul>
+           <div class="g-w-col4 g-w-left">
 
-                        <p><strong><a href="#">All news stories &rarr;</a></strong></p>
+               <section class="vbox">
 
-                   </section>
+                   <h1 class="vbox-title"><a href="/blog" class="icon icon-pen">Blog</a></h1>
 
-               </div>
+                   <ul class="vbox-text">
 
-               <div class="g-w-col4 g-w-left">
+                       <li><a href="#">Latest blog post</a> &#8211; 18 Mar 2016</li>
+                       <li><a href="#">Another blog post</a> &#8211; 13 Mar 2016</li>
+                       <li><a href="#">Yet another blog post</a> &#8211; 01 Mar 2016</li>
 
-                   <section class="nib-box">
+                   </ul>
 
-                       <h1 class="nib-box-title">Blog</h1>
-
-                       <ul>
-
-                           <li><a href="#">Latest blog post</a> &#8211; 18 Mar 2016</li>
-                           <li><a href="#">Another blog post</a> &#8211; 13 Mar 2016</li>
-                           <li><a href="#">Yet another blog post</a> &#8211; 01 Mar 2016</li>
-
-                       </ul>
-
-                       <p><strong><a href="#">All blog posts &rarr;</a></strong></p>
-
-                  </section>
-
-              </div>
+              </section>
 
           </div>
 
-    </div> <!-- end .g-row -->
+      </div> <!-- end .g-row -->
 
 </nav>
