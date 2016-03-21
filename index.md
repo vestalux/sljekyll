@@ -43,7 +43,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
                 <h1 class="vbox-title"><a class="icon icon-map" href="/branches">Branches, venues, room hire</a></h1>
 
-                <p class="vbox-text">Branch contact details, Ipswich Enterprise + Innovation hub &amp; mobile library schedules</p>
+                <p class="vbox-text">Branch contact details, Ipswich Enterprise + Innovation hub &amp; hiring rooms &amp; venues</p>
 
             </section>
 
@@ -71,7 +71,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
                 <h1 class="vbox-title"><a class="icon icon-bus" href="<?php echo get_site_url(); ?>/community-services">Mobiles &amp; home service</a></h1>
 
-                <p class="vbox-text">Mobile libraries, home library service &amp; Literacy, Books and Reading Team for Schools.</p>
+                <p class="vbox-text">Mobile library timetables and books delivered to your home</p>
 
             </section>
 
@@ -183,7 +183,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
                    <ul class="vbox-text">
 
-                       <li><a href="#">Latest blog post</a> &#8211; 18 Mar 2016</li>
+                       <li><a href="#">Looking at building new library self-service software</a> &#8211; 18 Mar 2016</li>
                        <li><a href="#">Another blog post</a> &#8211; 13 Mar 2016</li>
                        <li><a href="#">Yet another blog post</a> &#8211; 01 Mar 2016</li>
 
