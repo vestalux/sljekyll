@@ -6,7 +6,7 @@ breadcrumb: 1
 
 <div class="panel">
 
-    <p>Download and stream eBooks, eAudio, MP3s and magazines for free. All you need is a library card. <strong><a href="/elibrary/help">Find out how to set up your device &rarr;</a></strong></p>
+    <p>Download and stream eBooks, eAudio, MP3s and magazines for free. All you need is a library card. If you don't have one, <strong><a href="/help/apply">apply for a library card  &rarr;</a></strong></p>
 
 </div>
 
@@ -14,15 +14,20 @@ breadcrumb: 1
 
     <div class="g-w-left g-w-col4">
 
-        <section class="nib-box" id="overdrive">
+        <section class="vbox" id="overdrive">
 
-            <h1 class="nib-box-title">Overdrive eBooks &amp; eAudio</h1>
+            <h1 class="vbox-title">Overdrive eBooks &amp; eAudio</h1>
 
             <a href="#"><img src="/images/od-screenshot.jpg" alt="Screenshot of the OverDrive website"></a>
 
             <p>Borrow from a large range of eBooks and eAudio. Use the OverDrive website with your library card, or download apps for Android and iOS.</p>
 
-            <p><a href="#">OverDrive website &rarr;</a></p>
+            <ul>
+
+                <li><a href="/elibrary/overdrive">Set up Overdrive on your device</a></li>
+                <li><a href="#">OverDrive website</a></li>
+
+            </ul>
 
         </section>
 
@@ -30,15 +35,20 @@ breadcrumb: 1
 
     <div class="g-w-left g-w-col4">
 
-        <section class="nib-box" id="3m">
+        <section class="vbox" id="3m">
 
-            <h1 class="nib-box-title">3M eBooks</h1>
+            <h1 class="vbox-title">3M Cloud Library eBooks</h1>
 
             <a href="#"><img src="/images/3m.jpg" alt="Screenshot of the 3M website"></a>
 
             <p>Borrow from hundreds of high quality eBooks. Use the 3M website with your library card, or download apps for Android and iOS.</p>
 
-            <p><a href="#">3M website &rarr;</a></p>
+            <ul>
+
+                <li><a href="/elibrary/3m">Set up 3M Cloud Library on your device</a></li>
+                <li><a href="#">3M Cloud Library website</a></li>
+
+            </ul>
 
         </section>
 
@@ -46,15 +56,20 @@ breadcrumb: 1
 
     <div class="g-w-left g-w-col4">
 
-        <section class="nib-box" id="borrowbox">
+        <section class="vbox" id="borrowbox">
 
-            <h1 class="nib-box-title">BorrowBox eAudio</h1>
+            <h1 class="vbox-title">BorrowBox eAudio</h1>
 
             <a href="#"><img src="/images/borrowbox.jpg" alt="Screenshot of the BorrowBox website"></a>
 
             <p>Choose from a wide range of eAudio books. Use the OverDrive website with your library card, or download apps for Android and iOS.</p>
 
-            <p><a href="#">BorrowBox website &rarr;</a></p>
+            <ul>
+
+                <li><a href="/elibrary/borrowbox/">Set up BorrowBox on your device</a></li>
+                <li><a href="#">BorrowBox website</a></li>
+
+            </ul>
 
         </section>
 
@@ -66,15 +81,20 @@ breadcrumb: 1
 
     <div class="g-w-left g-w-col4">
 
-        <section class="nib-box" id="zinio">
+        <section class="vbox" id="zinio">
 
-            <h1 class="nib-box-title">Zinio magazines</h1>
+            <h1 class="vbox-title">Zinio magazines</h1>
 
             <a href="#"><img src="/images/zinio.jpg" alt="Screenshot of the Zinio website"></a>
 
             <p>Download titles like <cite>Top Gear Magazine</cite> and <cite>Good Food</cite> to your device to keep forever.</p>
 
-            <p><a href="#">Zinio website &rarr;</a></p>
+            <ul>
+
+                <li><a href="/elibrary/zinio/">Set up 3M Cloud Library on your device</a></li>
+                <li><a href="#">Zinio website</a></li>
+
+            </ul>
 
         </section>
 
@@ -82,15 +102,20 @@ breadcrumb: 1
 
     <div class="g-w-left g-w-col4">
 
-        <section class="nib-box" id="freegal">
+        <section class="vbox" id="freegal">
 
-            <h1 class="nib-box-title">Freegal streaming &amp; downloads</h1>
+            <h1 class="vbox-title">Freegal streaming &amp; downloads</h1>
 
             <a href="#"><img src="/images/freegal.jpg" alt="Screenshot of the Freegal website"></a>
 
             <p>Download or stream from a choice of hundreds of thousands of songs, including the entire Sony back catalogue.</p>
 
-            <p><a href="#">Freegal website &rarr;</a></p>
+            <ul>
+
+                <li><a href="/elibrary/freegal/">Set up Freegal on your device</a></li>
+                <li><a href="#">Freegal website</a></li>
+
+            </ul>
 
         </section>
 
