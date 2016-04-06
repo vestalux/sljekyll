@@ -1,7 +1,8 @@
 ---
 title: Documents
 layout: sidebar-left
-breadcrumb: 1
+sidebar: about
+breadcrumb: about
 ---
 
 <h2>Annual Reviews</h2>

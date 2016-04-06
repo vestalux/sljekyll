@@ -1,7 +1,8 @@
 ---
 title: Board meeting minutes
 layout: sidebar-left
-breadcrumb: 1
+sidebar: about
+breadcrumb: about
 ---
 
 You can download copies of our board meeting minutes. We redact information from minutes when:

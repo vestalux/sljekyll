@@ -1,7 +1,8 @@
 ---
 title: Board members
 layout: sidebar-left
-breadcrumb: 1
+sidebar: about
+breadcrumb: about
 ---
 
 Our member organisations elect our board.

@@ -6,42 +6,61 @@
 
             {% if page.sidebar == 1 %}
 
+              <section class="vbox">
+
+                  <h1 class="vbox-title">In this section</h1>
+
+                  <ul class="vbox-text">
+
+                      <li><a href="/branches/">List of branches</a></li>
+                      <li><a href="/branches/hub/">Ipswich Enterprise + Innovation Hub</a></li>
+                      <li><a href="/branches/rooms-for-hire/">Branches with rooms for hire</a></li>
+                      <li><a href="/branches/ceremonies/">Hire Ipswich County Library Northgate room for weddings and other ceremonies</a></li>
+
+                  </ul>
+
+              </section>
+
+            {% endif %}
+
+            {% if page.sidebar == 'about' %}
+
+              <section class="vbox">
+
+                  <h1 class="vbox-title">In this section</h1>
+
+                  <ul class="vbox-text">
+
+                      <li><a href="/about/">About us</a></li>
+                      <li><a href="/about/board-members">Board members</a></li>
+                      <li><a href="/about/documents">Documents (including board meeting minutes)</a></li>
+                      <li><a href="/about/member-organisations">Member organisations</a></li>
+
+                  </ul>
+
+              </section>
+
+            {% endif %}
+
+            {% if page.breadcrumb == 'elibrary' %}
+
                 <section class="vbox">
 
-                    <h1 class="vbox-title">In this section</h1>
+                    <h1 class="vbox-title">Instructions for:</h1>
 
                     <ul class="vbox-text">
 
-                        <li><a href="/branches/">List of branches</a></li>
-                        <li><a href="/branches/hub/">Ipswich Enterprise + Innovation Hub</a></li>
-                        <li><a href="/branches/rooms-for-hire/">Branches with rooms for hire</a></li>
-                        <li><a href="/branches/ceremonies/">Hire Ipswich County Library Northgate room for weddings and other ceremonies</a></li>
+                        <li><a href="/elibrary/overdrive/">OverDrive</a></li>
+                        <li><a href="/elibrary/borrowbox/">BorrowBox</a></li>
+                        <li><a href="/elibrary/freegal/">Freegal</a></li>
+                        <li><a href="/elibrary/zinio/">Zinio</a></li>
+                        <li><a href="/elibrary/3m/">3M Cloud Library</a></li>
 
                     </ul>
 
                 </section>
 
-              {% endif %}
-
-              {% if page.breadcrumb == 'elibrary' %}
-
-                  <section class="vbox">
-
-                      <h1 class="vbox-title">Instructions for:</h1>
-
-                      <ul class="vbox-text">
-
-                          <li><a href="/elibrary/overdrive/">OverDrive</a></li>
-                          <li><a href="/elibrary/borrowbox/">BorrowBox</a></li>
-                          <li><a href="/elibrary/freegal/">Freegal</a></li>
-                          <li><a href="/elibrary/zinio/">Zinio</a></li>
-                          <li><a href="/elibrary/3m/">3M Cloud Library</a></li>
-
-                      </ul>
-
-                  </section>
-
-              {% endif %}
+            {% endif %}
 
         </div> <!-- end .secondary -->
 
