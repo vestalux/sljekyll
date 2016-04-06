@@ -1,7 +1,7 @@
 ---
 title: eLibrary
 layout: full-width
-breadcrumb: 1
+breadcrumb: home
 ---
 
 <div class="panel">
