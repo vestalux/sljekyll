@@ -1,7 +1,7 @@
 ---
 title: Setting up Freegal on your device
 layout: sidebar-left
-breadcrumb: 4
+breadcrumb: elibrary
 ---
 
 <p>Freegal allows you to download and stream MP3 files of music and MP4 files of music videos. This service is available on a tablet, smartphone or web browser such as Chrome, Firefox, Opera, Safari or Internet Explorer.</p>

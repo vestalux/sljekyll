@@ -1,7 +1,7 @@
 ---
 title: Setting up your device to use our eLibrary services
 layout: sidebar-left
-breadcrumb: 4
+breadcrumb: elibrary
 ---
 
 <div class="panel"><h2 id="overdrive">OverDrive – eBooks and eAudio books</h2>

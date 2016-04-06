@@ -1,7 +1,7 @@
 ---
 title: Setting up Zinio on your device
 layout: sidebar-left
-breadcrumb: 4
+breadcrumb: elibrary
 ---
 
 <p>Zinio allows you to download PDF files of magazines for an unlimited time.&nbsp;This service is available through a web browser such as Chrome, Firefox, Opera, Safari or Internet Explorer. A read-only app called Zinio for Libraries is also available.</p>

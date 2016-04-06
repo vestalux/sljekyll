@@ -1,7 +1,7 @@
 ---
 title: Setting up 3M Cloud Library on your device
 layout: sidebar-left
-breadcrumb: 4
+breadcrumb: elibrary
 ---
 
 <h2>Setting up your device to download eBooks with 3M Cloud Library</h2>

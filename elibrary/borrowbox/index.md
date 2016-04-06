@@ -1,7 +1,7 @@
 ---
 title: Setting up BorrowBox on your device
 layout: sidebar-left
-breadcrumb: 4
+breadcrumb: elibrary
 ---
 
 <p>BorrowBox allows you to download MP3 files of eAudio&nbsp;books.&nbsp;This service is available on a tablet, smartphone or web browser such as Chrome, Firefox, Opera, Safari or Internet Explorer.</p>
