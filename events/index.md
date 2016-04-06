@@ -1,7 +1,7 @@
 ---
 layout: full-width
 title: Events and activities
-breadcrumb: 1
+breadcrumb: home
 ---
 
 <nav id="nav">

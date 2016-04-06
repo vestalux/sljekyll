@@ -1,7 +1,7 @@
 ---
 title: Building Wellness through Reading
 layout: full-width-narrow
-breadcrumb: 2
+breadcrumb: events
 ---
 
 <div class="entry-content">
