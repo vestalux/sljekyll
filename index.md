@@ -164,11 +164,11 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
                     <h1 class="vbox-title"><a href="/news" class="icon icon-newspaper">News</a></h1>
 
                     <ul class="vbox-text">
-
-                        <li><a href="#">Latest news title</a> &#8211; 18 Mar 2016</li>
-                        <li><a href="#">Another news title</a> &#8211; 13 Mar 2016</li>
-                        <li><a href="#">Yet another news title</a> &#8211; 01 Mar 2016</li>
-
+                      {% for post in site.categories.['news'] limit:3 %}
+                        <li>
+                          <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> {{ post.date | date: "%b %-d, %Y" }}</p>
+                        </li>
+                      {% endfor %}
                     </ul>
 
                </section>
@@ -182,11 +182,11 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
                    <h1 class="vbox-title"><a href="/blog" class="icon icon-pen">Blog</a></h1>
 
                    <ul class="vbox-text">
-
-                       <li><a href="#">Looking at building new library self-service software</a> &#8211; 18 Mar 2016</li>
-                       <li><a href="#">Another blog post</a> &#8211; 13 Mar 2016</li>
-                       <li><a href="#">Yet another blog post</a> &#8211; 01 Mar 2016</li>
-
+                     {% for post in site.categories.['blog'] limit:3 %}
+                       <li>
+                         <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> {{ post.date | date: "%b %-d, %Y" }}</p>
+                       </li>
+                     {% endfor %}
                    </ul>
 
               </section>
