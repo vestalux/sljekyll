@@ -1,0 +1,12 @@
+{% if page.excerpt %}
+  <p>{{ page.excerpt }}</p>
+{% endif %}
+<ul class="listing">
+  {% for post in site.categories.[page.category] %}
+    <li>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <p>Written by (author) on {{ post.date | date: "%b %-d, %Y" }}</p>
+      <p>{{ post.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
