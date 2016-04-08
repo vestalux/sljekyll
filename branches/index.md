@@ -21,13 +21,13 @@ sidebar: 1
 
     <tbody>
 
-        {% for branch in site.branches %}
+        {% for branch in site.data.branches %}
 
         <tr>
 
-            <td><a href="{{ branch.url }}">{{ branch.branch-name}}</a></td>
-            <td>{{ branch.branch-address }}, {{ branch.branch-post-code }}</td>
-            <td>{{ branch.branch-tel }}</td>
+            <td><a href="{{ branch.url }}">{{ branch.name}}</a></td>
+            <td>{{ branch.address }}</td>
+            <td>{{ branch.phone }}</td>
 
         </tr>
 

@@ -93,7 +93,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
             <section class="vbox">
 
-                <h1 class="vbox-title"><a class="icon icon-accessibility" href="/">Health &amp; wellbeing</a></h1>
+                <h1 class="vbox-title"><a class="icon icon-accessibility" href="/health">Health &amp; wellbeing</a></h1>
 
                 <p class="vbox-text">Mental health information and resources, books on prescription.</p>
 
