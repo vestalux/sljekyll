@@ -2,6 +2,7 @@
 layout: post
 title:  Introducing Sarah, our new mental health and wellbeing coordinator
 date:   2016-04-07 10:59:08 +0100
+author: sarah-lungley
 category: blog
 ---
 
