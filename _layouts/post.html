@@ -12,7 +12,7 @@ layout: default
       {% if page.author %} •
       <span itemprop="author" itemscope itemtype="http://schema.org/Person">
         <span itemprop="name">
-          {{ page.author }}
+          {% assign author = site.data.authors[page.author] %}{{ author.name }}
         </span>
       </span>
       {% endif %}
