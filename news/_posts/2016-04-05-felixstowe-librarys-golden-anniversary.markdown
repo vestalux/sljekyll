@@ -2,6 +2,7 @@
 layout: post
 title:  Felixstowe Library’s Golden Anniversary
 date:   2016-04-05 10:59:08 +0100
+author: james-powell
 category: news
 excerpt: This April marks 50 years since Felixstowe Library opened for the first time.
 ---

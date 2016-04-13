@@ -2,6 +2,7 @@
 layout: post
 title:  Suffolk Libraries – an update on our budget for 2016/2017
 date:   2016-04-06 10:59:08 +0100
+author: james-powell
 category: news
 excerpt: Suffolk County Council approved their budget proposals at February’s full council meeting which included a reduction to the library service budget of £650,000 over two years. Suffolk Libraries Board have since agreed to the reduction of £350,000 for 2016/17.
 ---
