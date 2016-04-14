@@ -1,0 +1,1 @@
+/_site # ignore the _site directory so Netlify can build it
