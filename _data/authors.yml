@@ -26,6 +26,10 @@ james-powell:
     name: James Powell
     job: marketing manager
 
+jo-dixon:
+    name: Jo Dixon
+    job: stock team
+
 leon-paternoster:
     name: Leon Paternoster
     job: deputy head of IT
@@ -33,6 +37,10 @@ leon-paternoster:
 matt-shenton:
     name: Matt Shenton
     job: literacy ambassador
+
+sarah-jenkins:
+    name: Sarah Jenkins
+    job: Lesley's Readers contributor
 
 sarah-lungley:
     name: Sarah Lungley
