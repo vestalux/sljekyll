@@ -5,7 +5,14 @@
   {% for post in site.categories.[page.category] %}
     <li>
       <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      <p>Written by (author) on {{ post.date | date: "%b %-d, %Y" }}</p>
+      <p>Written by
+        {% if post.author %}
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <span itemprop="name">
+            {% assign author = site.data.authors[post.author] %}{{ author.name }}
+          </span>
+        </span>
+        {% endif %} on {{ post.date | date: "%b %-d, %Y" }}</p>
       <p>{{ post.excerpt }}</p>
     </li>
   {% endfor %}
