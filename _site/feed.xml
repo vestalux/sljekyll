@@ -6,10 +6,10 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Apr 2016 14:38:01 +0100</pubDate>
-    <lastBuildDate>Fri, 08 Apr 2016 14:38:01 +0100</lastBuildDate>
+    <pubDate>Fri, 08 Apr 2016 14:42:11 +0100</pubDate>
+    <lastBuildDate>Fri, 08 Apr 2016 14:42:11 +0100</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
-
+    
       <item>
         <title>Introducing Sarah, our new mental health and wellbeing coordinator</title>
         <description>&lt;p&gt;My name is Sarah and I’m the new &lt;a href=&quot;http://suffolklibraries.co.uk/community-services/mental-health-information-services&quot;&gt;mental health and wellbeing&lt;/a&gt; coordinator for Suffolk Libraries. Here is a little bit about me to introduce myself.&lt;/p&gt;
@@ -33,12 +33,12 @@
         <pubDate>Thu, 07 Apr 2016 10:59:08 +0100</pubDate>
         <link>/blog/2016/04/07/welcome-to-jekyll.html</link>
         <guid isPermaLink="true">/blog/2016/04/07/welcome-to-jekyll.html</guid>
-
-
+        
+        
         <category>blog</category>
-
+        
       </item>
-
+    
       <item>
         <title>Suffolk Libraries – an update on our budget for 2016/2017</title>
         <description>&lt;p&gt;Suffolk County Council approved their budget proposals at February’s full council meeting which included a reduction to the library service budget of £650,000 over two years. Suffolk Libraries Board have since agreed to the reduction of £350,000 for 2016/17.&lt;/p&gt;
@@ -54,12 +54,12 @@
         <pubDate>Wed, 06 Apr 2016 10:59:08 +0100</pubDate>
         <link>/news/2016/04/06/suffolk-libraries-an-update-on-our-budget-for-20162017.html</link>
         <guid isPermaLink="true">/news/2016/04/06/suffolk-libraries-an-update-on-our-budget-for-20162017.html</guid>
-
-
+        
+        
         <category>news</category>
-
+        
       </item>
-
+    
       <item>
         <title>Open Space – New Timetable</title>
         <description>&lt;p&gt;Here is the new timetable for Open Space! Lots of exciting things coming up and some great discussions.&lt;/p&gt;
@@ -140,12 +140,12 @@ Discussion: What is compassion and how can we develop it for ourselves? (Steerin
         <pubDate>Tue, 05 Apr 2016 14:31:00 +0100</pubDate>
         <link>/health/2016/04/05/open-space-new-timetable.html</link>
         <guid isPermaLink="true">/health/2016/04/05/open-space-new-timetable.html</guid>
-
-
+        
+        
         <category>health</category>
-
+        
       </item>
-
+    
       <item>
         <title>Felixstowe Library’s Golden Anniversary</title>
         <description>&lt;p&gt;This April marks 50 years since &lt;a href=&quot;http://suffolklibraries.co.uk/branches/felixstowe-library&quot;&gt;Felixstowe Library&lt;/a&gt; opened for the first time.&lt;/p&gt;
@@ -168,11 +168,11 @@ Discussion: What is compassion and how can we develop it for ourselves? (Steerin
         <pubDate>Tue, 05 Apr 2016 10:59:08 +0100</pubDate>
         <link>/news/2016/04/05/felixstowe-librarys-golden-anniversary.html</link>
         <guid isPermaLink="true">/news/2016/04/05/felixstowe-librarys-golden-anniversary.html</guid>
-
-
+        
+        
         <category>news</category>
-
+        
       </item>
-
+    
   </channel>
 </rss>
