@@ -3,6 +3,7 @@ layout: post
 title: Moodboosting books for adults
 date: 2015-02-20 12:26:36+00:00
 author: sarah-lungley
+category: health
 excerpt: Books for adults from our <cite>Moodboosting</cite> collection.
 ---
   * [_Bee Journal_](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9613627?QRY=CTIBIB%3C%20IRN(575036)&QRYTEXT=Bee%20journal) by Sean Borodale
