@@ -3,14 +3,14 @@ layout: post
 title: Suffolk Writes – an exciting new opportunity to get your work published through Suffolk Libraries
 date: 2016-02-03 09:25:42+00:00
 author: helen-haynes
-category: news
+category: blog
 excerpt: Helen Haynes introduces a way for you to get your novel, short story, non-fiction or poetry in front of Suffolk Libraries customers.
+breadcrumb: blog
 ---
-Self publishing became a phenomenon with the surprise popularity of <cite>50 Shades of Grey</cite>. It’s the book we have all heard so much about, but it is not the only self published book to be a hit. Authors are increasingly reaping the benefits of being in control of their own work and making it available directly to their readers with little to no cost.<figure class="figure alignleft">
+Self publishing became a phenomenon with the surprise popularity of <cite>50 Shades of Grey</cite>. It’s the book we have all heard so much about, but it is not the only self published book to be a hit. Authors are increasingly reaping the benefits of being in control of their own work and making it available directly to their readers with little to no cost.
 
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2016/02/alisonbruce.jpg" alt="Alison Bruce" width="200" height="133" /><figcaption>Popular local crime author Alison Bruce  
-has contributed unpublished short stories  
-to Suffolk Writes</figcaption></figure>
+![Alison Bruce](http://suffolklibraries.co.uk/wp-content/uploads/2016/02/alisonbruce.jpg)
+*Popular local crime author Alison Bruce has contributed unpublished short stories to Suffolk Writes*
 
 For many self publishing is part of the process of becoming a published author and eventually being taken on by a traditional publisher. Suffolk Libraries can now be a part of this and offer a service that will benefit both aspiring authors and readers in Suffolk.
 

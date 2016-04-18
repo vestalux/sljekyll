@@ -25,114 +25,15 @@ I’m keen to make sure Suffolk stays in the top 10 so if you would be intereste
 
 Just for a flavour here’s the top 10 search terms used in October this year, an eclectic mix I think you’ll agree:
 
-<table>
-  <tr>
-    <th>
-      Rank
-    </th>
-
-    <th>
-      Search term
-    </th>
-  </tr>
-
-  <tr>
-    <td>
-      1
-    </td>
-
-    <td>
-      Paramedic learning styles
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      2
-    </td>
-
-    <td>
-      Interpreting services
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      3
-    </td>
-
-    <td>
-      Model relapse addiction
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      4
-    </td>
-
-    <td>
-      Alcoholism nature nuture
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      5
-    </td>
-
-    <td>
-      Chinese oracle bones
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      6
-    </td>
-
-    <td>
-      Graphene
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      7
-    </td>
-
-    <td>
-      Leadhills
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      8
-    </td>
-
-    <td>
-      Victorian tuberulosis
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      9
-    </td>
-
-    <td>
-      <cite>New Scientist</cite> magazine
-    </td>
-
-    <tr>
-      <td>
-        10
-      </td>
-
-      <td>
-        Process theology
-      </td>
-    </tr>
-  </tr>
-</table>
+| Rank  | Search term                         |
+| ----- |:-----------------------------------:|
+| 1.    | Paramedic learning styles           |
+| 2.    | Interpreting services               |
+| 3.    | Model relapse addiction             |
+| 4.    | Alcoholism nature nurture           |
+| 5.    | Chinese oracle bones                |
+| 6.    | Graphene                            |
+| 7.    | Leadhills                           |
+| 8.    | Victorian tuberulosis               |
+| 9.    | <cite>New Scientist</cite> magazine |
+| 10.   | Process theology                    |

@@ -15,17 +15,19 @@ We had 21 events at 12 locations across the county which all took place in just 
 
 As you can imagine this involved a great deal of co-ordinating and managing. I was in touch with authors, publishers, external venues and library staff on a daily basis from months before the festival begin.
 
-I was amazed by the amount of emails co-ordinating this project created, from confirming the authors attending each event, to ensuring we had the correct publicity information for our programme and website, to arranging refreshments, alcohol licences, staffing and book sellers for events.<figure class="figure aligncenter">
+I was amazed by the amount of emails co-ordinating this project created, from confirming the authors attending each event, to ensuring we had the correct publicity information for our programme and website, to arranging refreshments, alcohol licences, staffing and book sellers for events.
 
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2015/04/kate-hamer.png" alt="Lisa Brennan and Kate Hamer" width="441" height="329" /><figcaption>Me (left) interviewing Kate Hamer</figcaption></figure>
+![Lisa Brennan and Kate Hamer](http://suffolklibraries.co.uk/wp-content/uploads/2015/04/kate-hamer.png)
+*Me (left) interviewing Kate Hamer.*
 
 I also contacted local and national companies to ask them if they would be interested in becoming sponsors of Bookfest and was delighted and grateful that several of them replied offering their sponsorship as well as helping us promote the festival in the county.
 
 Once the festival begun, I spent my evenings travelling around Suffolk to help deliver the events at the libraries and external venues. I had the wonderful opportunity to meet and interview Kate Hamer at Bungay Library, who has recently release her brilliant debut novel <cite>The Girl in the Red Coat</cite>.
 
-What an amazing few weeks!<figure class="figure aligncenter">
+What an amazing few weeks!
 
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2015/04/nicola-upson.png" alt="Nicola Upson" width="255" height="394" /><figcaption>Nicola Upson</figcaption></figure>
+![Nicola Upson](http://suffolklibraries.co.uk/wp-content/uploads/2015/04/nicola-upson.png)
+*Nicola Upson*
 
 It was fantastic for us to welcome such a superb selection of authors to the county and we are thrilled that so many of you enjoyed the events we organised.
 

@@ -13,17 +13,12 @@ Laura Wigby from [Volunteering Matters](http://volunteeringmatters.org.uk/) and
 
 The word was put out to Ipswich County Library groups, staff, volunteers and people who have taken part in previous happiness workshops. They share with us on camera, to answer questions such as “How does the library make you happy?” Here is the result.
 
-<div class="flex-video">
-</div>
+https://www.youtube.com/watch?v=V8CFiesLJbA
 
-<div class="flex-video">
-</div>
+https://www.youtube.com/watch?v=e4lTZSwzhgc
 
-<div class="flex-video">
-</div>
+https://www.youtube.com/watch?v=vNB4Dl4h7NI
 
-<div class="flex-video">
-</div>
+https://www.youtube.com/watch?v=VKYU8fKg50s
 
-<div class="flex-video">
-</div>
+https://www.youtube.com/watch?v=WOtGu7ougcw

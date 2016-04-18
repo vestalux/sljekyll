@@ -13,18 +13,20 @@ Formerly the home of the arts library, the hub will be located in the soon to be
 
 With the help of our partners, the [Suffolk Chamber of Commerce](http://www.suffolkchamber.co.uk/), the [New Anglia Growth Hub](http://www.newangliagrowthhub.co.uk/), and the [Eastern Enterprise Hub](http://www.eehub.co.uk/), we will be hosting workshops, drop-ins, and one-to-ones on topics of interest to the local Suffolk business community.
 
-Opening this spring, we hope the Enterprise + Innovation Hub will become a thriving centre for ideas and innovation and not just in the meeting room.<figure class="figure alignnone">
+Opening this spring, we hope the Enterprise + Innovation Hub will become a thriving centre for ideas and innovation and not just in the meeting room.
 
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2015/03/hub.jpg" alt="Ipswich County Library 2nd floor" width="753" height="502" /><figcaption>Ipswich County Library 2nd floor. Soon to be an innovation and enterprise centre.</figcaption></figure>
+![Ipswich County Library second floor](http://suffolklibraries.co.uk/wp-content/uploads/2015/03/hub.jpg)
+*Ipswich County Library second floor, soon to be an innovation and enterprise centre.*
 
 We’re also investing in our very own ‘MakerSpace’, The Lab, a fully equipped fabrication studio with state of the art technology and equipment, including 3D printers, Raspberry Pi B+ boards and professional sewing machines.
 
 The Lab is designed with both the novice and the expert in mind: from child to student, professional to grandparent – anyone is welcome.
 
-On Saturdays The Lab will be taken over by the popular [Creative Computing Club](http://www.creativecomputingclub.com/), a social enterprise teaching 11-16 year olds digital skills in a fun and informal learning environment.<figure class="figure aligncenter">
+On Saturdays The Lab will be taken over by the popular [Creative Computing Club](http://www.creativecomputingclub.com/), a social enterprise teaching 11-16 year olds digital skills in a fun and informal learning environment.
 
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2015/03/proposed-hub-pods.png" alt="proposed-hub-pods" width="740" height="370" /><figcaption>Pods 1 and 2 in the Carnegie Room.</figcaption></figure>
+![Hub pods sketch](http://suffolklibraries.co.uk/wp-content/uploads/2015/03/proposed-hub-pods.png)
+*Pods 1 and 2 in the Carnegie Room.*
 
-If you think that you might have something to offer in regards to business and management or design and technology, or if you are looking for hireable function and meeting rooms, then email Pippa Geaves at hub@suffolklibraries.co.uk
+If you think that you might have something to offer in regards to business and management or design and technology, or if you are looking for hireable function and meeting rooms, then email hub@suffolklibraries.co.uk
 
 We’ll be sharing project news and photos so keep your eyes peeled for further updates and information.
