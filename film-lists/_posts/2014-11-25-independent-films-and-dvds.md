@@ -29,95 +29,30 @@ Fascinating documentary examining the life and photography of former nanny Vivi
 
 ## [<cite>Leviathan</cite>](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/15554306?QRY=CTIBIB%3C%20IRN(16111601)&QRYTEXT=Leviathan%20%5Bvideorecording%5D)
 
-[![]()]()
-<div class="row">
-  <div class="medium-2 columns">
-    <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/15554306?QRY=CTIBIB%3C%20IRN(16111601)&QRYTEXT=Leviathan%20%5Bvideorecording%5D"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2014/11/leviathandvd.jpg" alt="Leviathan" /></a>
-  </div>
+[![Leviathan](http://suffolklibraries.co.uk/wp-content/uploads/2014/11/leviathandvd.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/15554306?QRY=CTIBIB%3C%20IRN(16111601)&QRYTEXT=Leviathan%20%5Bvideorecording%5D)
 
-  <div class="medium-10 columns">
-    <p>
-      Critically-acclaimed Russian drama follows Nikolai (Aleksey Serebryakov) land and career are under threat from the town mayor Vadim (Roman Madyanov). Nikolai enlists help from his respected lawyer friend, Dmitriy (Vladimir Vdovichenkov) to fight the corrupt government.
-    </p>
-
-    <p>
-      &nbsp;
-    </p>
-  </div>
-</div>
+Critically-acclaimed Russian drama follows Nikolai (Aleksey Serebryakov) land and career are under threat from the town mayor Vadim (Roman Madyanov). Nikolai enlists help from his respected lawyer friend, Dmitriy (Vladimir Vdovichenkov) to fight the corrupt government.
 
 ## [<cite>Northern Soul</cite>](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/15554904?QRY=CTIBIB%3C%20IRN(42388055)&QRYTEXT=Northern%20soul%20%5Bvideorecording%5D)
 
-[![]()]()
-<div class="row">
-  <div class="medium-2 columns">
-    <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/15554904?QRY=CTIBIB%3C%20IRN(42388055)&QRYTEXT=Northern%20soul%20%5Bvideorecording%5D"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2014/11/northernsoulfilm.jpg" alt="Northern Soul" /></a>
-  </div>
+[![Northern Soul](http://suffolklibraries.co.uk/wp-content/uploads/2014/11/northernsoulfilm.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/15554904?QRY=CTIBIB%3C%20IRN(42388055)&QRYTEXT=Northern%20soul%20%5Bvideorecording%5D)
 
-  <div class="medium-10 columns">
-    <p>
-      British music drama shows the effect of the Northern Soul movement on two young, disillusioned friends in early 1970&#8217;s North West England. Featuring an excellent, authentic soundtrack. Director Elaine Constantine re-mortgaged her house to complete the film.
-    </p>
-
-    <p>
-      &nbsp;
-    </p>
-  </div>
-</div>
+British music drama shows the effect of the Northern Soul movement on two young, disillusioned friends in early 1970&#8217;s North West England. Featuring an excellent, authentic soundtrack. Director Elaine Constantine re-mortgaged her house to complete the film.
 
 ## [<cite>Broken Circle Breakdown</cite>](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/15555860?QRY=CTIBIB%3C%20IRN(19765815)&QRYTEXT=The%20broken%20circle%20breakdown%20%5Bvideorecording%5D)
 
-[![]()]()
-<div class="row">
-  <div class="medium-2 columns">
-    <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/15555860?QRY=CTIBIB%3C%20IRN(19765815)&QRYTEXT=The%20broken%20circle%20breakdown%20%5Bvideorecording%5D"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2014/11/brokencircle.jpg" alt="Broken Circle Breakdown" /></a>
-  </div>
+[![Broken Circle Breakdown](http://suffolklibraries.co.uk/wp-content/uploads/2014/11/brokencircle.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/15555860?QRY=CTIBIB%3C%20IRN(19765815)&QRYTEXT=The%20broken%20circle%20breakdown%20%5Bvideorecording%5D)
 
-  <div class="medium-10 columns">
-    <p>
-      This Academy Award-winning drama follows a Belgian couple&#8217;s relationship thrown into turmoil after their daughter becomes gravely ill.
-    </p>
-
-    <p>
-      &nbsp;
-    </p>
-  </div>
-</div>
+This Academy Award-winning drama follows a Belgian couple&#8217;s relationship thrown into turmoil after their daughter becomes gravely ill.
 
 ## [<cite>The Great Beauty</cite>](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/15556676?QRY=CTIBIB%3C%20IRN(27790566)&QRYTEXT=The%20great%20beauty%20%5Bvideorecording%5D)
 
-[![]()]()
-<div class="row">
-  <div class="medium-2 columns">
-    <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/15556676?QRY=CTIBIB%3C%20IRN(27790566)&QRYTEXT=The%20great%20beauty%20%5Bvideorecording%5D"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2014/11/greatbeauty.jpg" alt="The Great Beauty" /></a>
-  </div>
+[![The Great Beauty](http://suffolklibraries.co.uk/wp-content/uploads/2014/11/greatbeauty.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/15556676?QRY=CTIBIB%3C%20IRN(27790566)&QRYTEXT=The%20great%20beauty%20%5Bvideorecording%5D)
 
-  <div class="medium-10 columns">
-    <p>
-      Award-winning Italian drama. Jep Gambardella (Toni Servillo), successful journalist and hedonistic bachelor contemplates on the fragility of life after he learns that his former loved has died.
-    </p>
-
-    <p>
-      &nbsp;
-    </p>
-  </div>
-</div>
+Award-winning Italian drama. Jep Gambardella (Toni Servillo), successful journalist and hedonistic bachelor contemplates on the fragility of life after he learns that his former loved has died.
 
 ## [<cite>Cinema Paradiso</cite>](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/15557705?QRY=CTIBIB%3C%20IRN(23532006)&QRYTEXT=Cinema%20Paradiso%20%5Bvideorecording%5D)
 
-[![]()]()
-<div class="row">
-  <div class="medium-2 columns">
-    <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/15557705?QRY=CTIBIB%3C%20IRN(23532006)&QRYTEXT=Cinema%20Paradiso%20%5Bvideorecording%5D"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2014/11/cinemaparadiso.jpg" alt="Cinema Paradiso" /></a>
-  </div>
+[![Cinema Paradiso](http://suffolklibraries.co.uk/wp-content/uploads/2014/11/cinemaparadiso.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/15557705?QRY=CTIBIB%3C%20IRN(23532006)&QRYTEXT=Cinema%20Paradiso%20%5Bvideorecording%5D)
 
-  <div class="medium-10 columns">
-    <p>
-      A well-known classic, this bittersweet, Oscar-winning film focuses on a famous movie director who returns to his childhood home, a small Sicilian village, after 30 years. In flashback, he recalls his fatherless childhood, his fascination with the films he saw at the local cinema and his adventures with Alfredo, the cinema&#8217;s projectionist. Perfection.
-    </p>
-
-    <p>
-      &nbsp;
-    </p>
-  </div>
-</div>
+A well-known classic, this bittersweet, Oscar-winning film focuses on a famous movie director who returns to his childhood home, a small Sicilian village, after 30 years. In flashback, he recalls his fatherless childhood, his fascination with the films he saw at the local cinema and his adventures with Alfredo, the cinema&#8217;s projectionist. Perfection.
