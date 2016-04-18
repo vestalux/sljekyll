@@ -5,7 +5,7 @@ date: 2016-02-08 10:14:08+00:00
 author: matt-shenton
 category: staff-picks
 excerpt: Literacy ambassador Matt Shenton reviews a YA novel addressing OCD.
-
+breadcrumb: staff-picks
 ---
 <cite>Am I Normal Yet?</cite> Wow, what a title. A title that has your head buzzing with ideas from the start. It’s the ‘yet’ that got me. Little word, for sure, and one I hadn’t really thought about before. One little word signifying that whoever had said it felt that; firstly they did not presently consider themselves ‘normal’ and secondly that they were trying, perhaps desperately, to get to that point of being considered ‘normal’.
 
@@ -15,4 +15,4 @@ The book soon blew away my own ignorance of OCD and made me think about other co
 
 By the end of the book and after rollercoaster ride involving first relationships, a revolving door of friends, parties, a terrible heavy metal band and a lot of fun you realise that there is no ‘yet’. Not for the main character of Evie, nor anyone else.
 
-[Order <cite>Am I normal yet?</cite> from our catalogue →](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6176020?QRY=CTIBIB%3C%20IRN(51020055)&QRYTEXT=Am%20I%20normal%20yet%3F){.button}
+[Order <cite>Am I normal yet?</cite> from our catalogue →](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6176020?QRY=CTIBIB%3C%20IRN(51020055)&QRYTEXT=Am%20I%20normal%20yet%3F)

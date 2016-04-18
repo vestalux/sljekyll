@@ -5,6 +5,7 @@ date: 2015-06-22 08:55:08+00:00
 author: Kate Ashton
 category: staff-picks
 excerpt: Haverhill Library assistant manager Kate Ashton reviews <cite>Jurassic Park</cite>.
+breadcrumb: staff-picks
 ---
 With the release of <cite>Jurassic World</cite>, it seems an ideal time to revisit <cite>Jurassic Park</cite>. Crichton’s novel is a very different beast to Spielberg’s film; however, the basic plot is still the same. Multimillionaire philanthropist John Hammond has built a dinosaur theme park on a remote island off Costa Rica and invites an eclectic group of experts and his grandchildren to assess and experience the park before it opens. As we all know before too long, the security system fails, there’s “running and screaming”, dinosaurs on the loose and our group are fighting to survive.
 
@@ -12,4 +13,4 @@ With the release of <cite>Jurassic World</cite>, it seems an ideal time to revis
 
 For me, Crichton’s novel explores questions as diverse as are animals brought back from extinction property or animals in their own right? Is it right to use science to exploit the undoubted “wow factor” of dinosaurs to make money? Who are the real monsters, dinosaurs or humans? Do not be fooled into thinking that just because you’ve seen the film, you know what happens to the characters.
 
-[Order <cite>Jurassic Park</cite> from our catalogue →](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/32709861?QRY=CTIBIB%3C%20IRN(538547)&QRYTEXT=Jurassic%20Park){.button}
+[Order <cite>Jurassic Park</cite> from our catalogue →](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/32709861?QRY=CTIBIB%3C%20IRN(538547)&QRYTEXT=Jurassic%20Park)

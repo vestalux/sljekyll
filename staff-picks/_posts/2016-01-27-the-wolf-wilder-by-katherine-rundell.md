@@ -5,6 +5,7 @@ date: 2016-01-27 09:35:58+00:00
 author: debra-rowe
 category: staff-picks
 excerpt: Debra Rowe, a Library and Information Advisor from Felixstowe Library reviews this wintery novel for young people.
+breadcrumb: staff-picks
 ---
 Does the first sign of a cold snap leave you longing for a white winter? Like nothing more than curling up with a sparkling story set in a snowy landscape? Look no further than Katherine Rundell’s <cite>The wolf wilder</cite>. The stunning cover alone was enough to propel me to the fireside. Lured by the warm glow emanating from the cottage in the woods and intrigued by the solitary figure clutching a lantern with her canine companion I was eager to snuggle up with this book. But, this is no cosy read. Herein lies a hard Russian winter and a community living under the icy grip of Rakov, a sadistic officer of the Tsar’s Army. This is the tale of how 12 year old Feo stands up to him.
 
@@ -20,4 +21,4 @@ Other wolfish wonders for young readers I recommend:
   * [<cite>The wolves of Willoughby Chase</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20129545?QRY=CTIBIB%3C%20IRN(544391)&QRYTEXT=The%20wolves%20of%20Willoughby%20Chase) by Joan Aiken
   * [<cite>The wolf princess</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20130354?QRY=CTIBIB%3C%20IRN(12979331)&QRYTEXT=The%20wolf%20princess) by Cathryn Constable
 
-[Order <cite>The wolf wilder</cite> from our catalogue →](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16058358?QRY=CTIBIB%3C%20IRN(51021646)&QRYTEXT=The%20wolf%20wilder){.button}
+[Order <cite>The wolf wilder</cite> from our catalogue →](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16058358?QRY=CTIBIB%3C%20IRN(51021646)&QRYTEXT=The%20wolf%20wilder)

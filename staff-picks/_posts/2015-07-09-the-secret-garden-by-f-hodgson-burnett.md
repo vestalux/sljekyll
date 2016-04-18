@@ -5,6 +5,7 @@ date: 2015-07-09 12:07:43+00:00
 author: Anna Hradsky
 category: staff-picks
 excerpt: Library and information advisor Anna Hradsky talks about how her family loves this classic.
+breadcrumb: staff-picks
 ---
 This is a children’s classic that has stood the test of time.
 
@@ -16,4 +17,4 @@ Mary is a disagreeable orphan from India who moves to a remote house on the blea
 
 The love of this story is shared by my 17 year old son, who saw me with my copy in my hand: “That’s a brilliant story, the film is brilliant too,” was his verdict. For a child with dyslexia I take that as a compliment to the author. He used to listen to it as a child on tape and CD over and over again. He has only started to enjoy reading in the last few years &#8211; so I take my hat off to F. Hodgson Burnett and her skill as an author.
 
-[Order <cite>The secret garden</cite> from our catalogue →](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6141090?QRY=CTIBIB%3C%20IRN(41595)&QRYTEXT=The%20secret%20garden){.button}
+[Order <cite>The secret garden</cite> from our catalogue →](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6141090?QRY=CTIBIB%3C%20IRN(41595)&QRYTEXT=The%20secret%20garden)

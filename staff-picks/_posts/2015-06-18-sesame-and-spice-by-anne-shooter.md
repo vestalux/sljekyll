@@ -5,6 +5,7 @@ date: 2015-06-18 13:39:53+00:00
 author: debra-rowe
 category: staff-picks
 excerpt: Debra Rowe, a library and information advisor at Felixstowe Library, reviews Anne Shooter's exploration of international recipes.
+breadcrumb: staff-picks
 ---
 “Apples, honey, almonds, figs, pomegranates, cinnamon, orange zest, sesame, lemons and vanilla. These are the scents that filled the kitchen when I was growing up.”
 
@@ -14,4 +15,4 @@ We read that pomegranates — those ruby-like fruits on the stunning book cover 
 
 There are also breads, biscuits, a smattering of savoury bakes and a section called baking for passover, which includes a number of gluten-free options. Aimed at the busy home cook none of the recipes require a huge number of ingredients and the photographs alone will leave you drooling.
 
-[Order <cite>Sesame & spice: baking from the East End to the Middle East</cite> from our catalogue →](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/30047011?QRY=CTIBIB%3C%20IRN(45907150)&QRYTEXT=Sesame%20%26%20spice%20%3A%20baking%20from%20the%20East%20End%20to%20the%20Middle%20East){.button}
+[Order <cite>Sesame & spice: baking from the East End to the Middle East</cite> from our catalogue →](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/30047011?QRY=CTIBIB%3C%20IRN(45907150)&QRYTEXT=Sesame%20%26%20spice%20%3A%20baking%20from%20the%20East%20End%20to%20the%20Middle%20East)

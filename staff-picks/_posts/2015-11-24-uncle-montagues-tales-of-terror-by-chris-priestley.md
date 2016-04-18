@@ -5,6 +5,7 @@ date: 2015-11-24 16:04:51+00:00
 author: Chris Howard
 category: staff-picks
 excerpt: Lakenheath Library manager Chris Howard reviews <cite>Uncle Montague’s tales of terror</cite> by Chris Priestley.
+breadcrumb: staff-picks
 ---
 Cambridge illustrator-turned-author Chris Priestley has carved quite the name for himself in the last decade as a modern &#8216;Master of the Macabre&#8217; with his burgeoning canon of ghoulish stories for young adults.
 
@@ -14,4 +15,4 @@ Twisted trees, haunted doll houses, possessed church bench-ends, deformed creatu
 
 Although designed for the 8-12 demographic, I still found myself entranced and chilled by this ghostly anthology filled with monsters and menace – and I’m 31! Paired with some stylishly surreal line drawings by David Roberts, <cite>Uncle Montague’s tales of terror</cite> is a superb and handsome book which can be dipped into and returned to for years after your first foray.
 
-[Order <cite>Uncle Montague’s tales of terror</cite> from our catalogue →](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/26686573?QRY=CTIBIB%3C%20IRN(115226)&QRYTEXT=Uncle%20Montague%27s%20tales%20of%20terror){.button}
+[Order <cite>Uncle Montague’s tales of terror</cite> from our catalogue →](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/26686573?QRY=CTIBIB%3C%20IRN(115226)&QRYTEXT=Uncle%20Montague%27s%20tales%20of%20terror)
