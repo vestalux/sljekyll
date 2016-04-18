@@ -4,7 +4,8 @@ title: 'Book club favourites #1'
 date: 2014-03-14 15:41:36+00:00
 author: brandon-king
 category: book-club-lists
-excerpt: Our stock unit selects some great reads for your book club.
+excerpt: Featuring books by Geraldine Brooks and Graeme Simison.
+breadcrumb: book-club-lists
 ---
 ## [<cite>Caleb&#8217;s crossing</cite> by Geraldine Brooks](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13555877?QRY=CTIBIB%3C%20IRN(257733)&QRYTEXT=Caleb%27s%20crossing)
 
