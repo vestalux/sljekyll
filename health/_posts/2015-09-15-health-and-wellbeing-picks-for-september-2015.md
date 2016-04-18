@@ -5,6 +5,7 @@ date: 2015-09-15T15:46:27+00:00
 author: david-grimmer
 category: health
 excerpt: David Grimmer chooses <cite>The silver linings playbook</cite> by Matthew Quick this month.
+breadcrumb: health
 ---
 ## [<cite>The silver linings playbook</cite> by Matthew Quick](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5629832?QRY=CTIBIB%3C%20IRN(102204)&QRYTEXT=The%20silver%20linings%20playbook)
 

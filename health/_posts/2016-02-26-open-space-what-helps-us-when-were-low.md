@@ -5,6 +5,7 @@ date: 2016-02-26 10:25:17+00:00
 author: sarah-lungley
 category: health
 excerpt: With the aid of lots of post-it notes, great chats and plenty of tea, the Open Space group came up with this list of things which can help us when we’re low.
+breadcrumb: health
 ---
 Over the past few weeks the Open Space group have been exploring different themes around mental health and wellbeing and we would like to share their work with you!
 

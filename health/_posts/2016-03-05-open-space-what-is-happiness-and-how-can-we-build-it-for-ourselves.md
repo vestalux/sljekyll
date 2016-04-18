@@ -5,6 +5,7 @@ date: 2016-03-05 10:00:05+00:00
 author: sarah-lungley
 category: health
 excerpt: Feedback from an Open Space session about what happiness is and how we can build and create it for ourselves.
+breadcrumb: health
 ---
 Here&#8217;s feedback from another great Open Space session &#8211; This time we looked at what happiness is and how we can build and create it for ourselves.
 

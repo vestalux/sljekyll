@@ -5,6 +5,7 @@ date: 2016-02-12 16:53:45+00:00
 author: sarah-lungley
 category: health
 excerpt: Open Space has been running weekly in Ipswich County Library for almost a year now, and since it is so successful we thought we would start to share some of what we do with you!
+breadcrumb: health
 ---
 Open Space has been running weekly in Ipswich County Library for almost a year now, and since it is so successful we thought we would start to share some of what we do with you!
 

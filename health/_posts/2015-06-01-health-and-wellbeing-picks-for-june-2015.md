@@ -5,6 +5,7 @@ date: 2015-06-01 08:11:53+00:00
 author: david-grimmer
 category: health
 excerpt: This month we have recommendations from Sara at Bury St Edmunds Library and Tracey at Haverhill Library.
+breadcrumb: health
 ---
 Our [mental health information services](http://suffolklibraries.co.uk/community-services/mental-health-information-services) information coordinator David Grimmer picks books that deal with health and wellbeing issues. This month we have recommendations from Sara at Bury St Edmunds Library and Tracey at Haverhill Library.
 

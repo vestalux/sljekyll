@@ -5,6 +5,7 @@ date: 2015-02-20 12:22:43+00:00
 author: sarah-lungley
 category: health
 excerpt: Books for older people from our <cite>Moodboosting</cite> collection.
+breadcrumb: health
 ---
   * <cite><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=BS&ENTRY=The+Alchemist+Paulo+Coelho+&ENTRY_TYPE=K">The Alchemist</a></cite> by Paulo Coelho
   * <cite><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=BS&ENTRY=All+Passion+Spent+Vita+Sackville-West+&ENTRY_TYPE=K">All Passion Spent</a></cite> by Vita Sackville-West

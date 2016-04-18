@@ -5,6 +5,7 @@ date: 2015-02-18 15:32:31+00:00
 author: sarah-lungley
 category: health
 excerpt: <cite>Reading Well Books on Prescription</cite> helps you manage your well–being using self–help reading.
+breadcrumb: health
 ---
 _Reading Well Books on Prescription_ helps you manage your well–being using self–help reading.
 
@@ -14,7 +15,7 @@ These books are all available from our libraries.
 
 ### Anger
 
-  * <cite><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10690978?QRY=CTIBIB%3C%20IRN(1413998)&QRYTEXT=Overcoming%20anger%20and%20irritability%20%3A%20a%20self-help%20guide%20using%20cognitive%20behavioral%20techniques">Overcoming anger and irritability</a></cite> by William Davies
+  * <cite>[Overcoming anger and irritability](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10690978?QRY=CTIBIB%3C%20IRN(1413998)&QRYTEXT=Overcoming%20anger%20and%20irritability%20%3A%20a%20self-help%20guide%20using%20cognitive%20behavioral%20techniques)</cite> by William Davies
 
 ### Anxiety
 

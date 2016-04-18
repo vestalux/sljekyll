@@ -5,6 +5,7 @@ date: 2015-04-28 08:51:06+00:00
 author: david-grimmer
 category: health
 excerpt: Costa-award winning fiction tackling mental health issues.
+breadcrumb: health
 ---
 Our [mental health information services](http://suffolklibraries.co.uk/community-services/mental-health-information-services) information coordinator David Grimmer picks books that deal with health and wellbeing issues. This month it&#8217;s two modern novels, one about a man tackling the mental health system, the other a 90 year old detective with dementia. Both won the Costa award.
 

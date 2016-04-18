@@ -5,6 +5,7 @@ date: 2016-03-21 13:51:29+00:00
 author: sarah-lungley
 category: health
 excerpt: 'An interview with the local organisation <a href="http://www.insideoutcommunity.com/">Inside Out Community</a>.'
+breadcrumb: health
 ---
 **Hi there! Which organisation/project are you from?
 
