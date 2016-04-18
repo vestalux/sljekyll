@@ -5,6 +5,7 @@ date: 2015-03-25 11:49:09+00:00
 author: alison-wheeler
 category: blog
 excerpt: Our general manager looks back to when Suffolk's library service was under threat, the creation of the IPS and to the future with some optimism.
+breadcrumb: blog
 ---
 ## 2011: Suffolk&#8217;s libraries under threat
 

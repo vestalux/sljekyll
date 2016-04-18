@@ -5,6 +5,7 @@ date: 2015-08-20 12:12:53+00:00
 author: Kate Ashton
 category: blog
 excerpt: Kate shares how dispersing teenage books throughout the library has made them more popular among teenagers and adults.
+breadcrumb: blog
 ---
 **Kate shares how dispersing teenage books throughout the library has made them more popular among teenagers and adults.**
 

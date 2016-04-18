@@ -5,6 +5,7 @@ date: 2015-04-14 12:50:20+00:00
 author: lisa-brennan
 category: blog
 excerpt: Lisa shares her experience of planning and running a book festival of 21 events across 12 locations in a large county.
+breadcrumb: blog
 ---
 March was an exciting month with our first ever countywide book festival, which I had the privilege of co-ordinating.
 

@@ -5,6 +5,7 @@ date: 2015-08-07 08:55:51+00:00
 author: henry-evans
 category: blog
 excerpt: Henry discusses how a combination of wifi and Minecraft is getting children into Thurston Library.
+breadcrumb: blog
 ---
 When we replaced our public computers last year we thought about what the public wants to do on them. We also ran a survey asking what software they’d like.
 

@@ -5,6 +5,7 @@ date: 2015-09-21 10:38:21+00:00
 author: matt-shenton
 category: blog
 excerpt: Matt shares the new project being rolled out across Suffolk Libraries to encourage young people's literacy.
+breadcrumb: blog
 ---
 **In August, education secretary Nicky Morgan announced that [“improving children’s literacy should be a national mission.”](http://www.gov.uk/government/news/nicky-morgan-and-david-walliams-launch-child-literacy-campaign)** Suffolk Libraries has preceded Ms Morgan on this mission for many years and now is ensuring that every young person in Suffolk is reaching their potential and achieving positive outcomes.
 

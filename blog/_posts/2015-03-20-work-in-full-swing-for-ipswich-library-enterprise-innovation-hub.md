@@ -5,6 +5,7 @@ date: 2015-03-20 13:17:27+00:00
 author: sarah-watt
 category: blog
 excerpt: Work's beginning on our Enterprise + Innovation Hub, a business and &#8216;maker&#8217; space. Take advantage of some expert business advice &#8211; and our 3D printers.
+breadcrumb: blog
 ---
 Last week our brand new Enterprise + Innovation Hub at Ipswich County Library began to take shape with the start of an extensive refurbishment of the library’s second floor.
 

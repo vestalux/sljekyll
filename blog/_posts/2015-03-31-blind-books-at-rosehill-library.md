@@ -5,6 +5,7 @@ date: 2015-03-31 12:19:39+00:00
 author: sarah-watt
 category: blog
 excerpt: Sarah tells us how Rosehill Library is using an inventive technique to get readers interested in new books and genres.
+breadcrumb: blog
 ---
 Our new display at [Rosehill](http://suffolklibraries.co.uk/branches/rosehill-library "Rosehill Library") draws attention to the fact that we&#8217;re closed over the Easter weekend, by encouraging our readers to try something different.
 

@@ -5,6 +5,7 @@ date: 2015-11-30 11:54:55+00:00
 author: germaine-bates
 category: blog
 excerpt: More Suffolk children than ever took part in the Summer Reading Challenge this year, increasing children's library membership.
+breadcrumb: blog
 ---
 Suffolk saw numbers rise again this year as 8227 children signed up to read six books over the summer. This year’s Record Breakers theme in partnership with Guinness World Records features on page 8 of the 2016 edition.
 

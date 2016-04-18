@@ -5,6 +5,7 @@ date:   2015-10-30 10:59:08 +0100
 author: sarah-lungley
 category: blog
 excerpt: In a time where health services are facing cuts and increasing pressure to deliver more, I believe the community is a great place to start when it comes to empowering and encouraging people to improve their wellbeing.
+breadcrumb: blog
 ---
 
 My name is Sarah and I'm the new <a href="http://suffolklibraries.co.uk/community-services/mental-health-information-services">mental health and wellbeing</a> coordinator for Suffolk Libraries. Here is a little bit about me to introduce myself.

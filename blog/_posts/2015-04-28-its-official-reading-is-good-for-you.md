@@ -5,6 +5,7 @@ date: 2015-04-28 09:10:20+00:00
 author: david-grimmer
 category: blog
 excerpt: Reading is one of the best ways to relax and relieve stress.
+breadcrumb: blog
 ---
 <div class="panel">
   <p>

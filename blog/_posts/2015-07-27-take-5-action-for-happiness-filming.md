@@ -5,6 +5,7 @@ date: 2015-07-27 10:07:41+00:00
 author: david-grimmer
 category: blog
 excerpt: 'Ipswich County Library staff and volunteers have made videos for the Take 5 project, answering the question: “How does the library make you happy?”'
+breadcrumb: blog
 ---
 When Suffolk Libraries was awarded funding for [Action for Happiness](http://www.actionforhappiness.org/) workshops, I never thought I would be involved in putting together a film on how Ipswich County Library makes people happy.
 

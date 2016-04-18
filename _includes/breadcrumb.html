@@ -46,4 +46,12 @@
 
     </div>
 
+{% elsif page.breadcrumb == 'blog' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/blog">Blog</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
 {% endif %}

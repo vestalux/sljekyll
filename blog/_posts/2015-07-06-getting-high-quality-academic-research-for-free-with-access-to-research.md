@@ -5,6 +5,7 @@ date: 2015-07-06 09:51:32+00:00
 author: helen-haynes
 category: blog
 excerpt: Our information and content librarian Helen Haynes discusses a project that aims to bring high quality academic research to everyone - for free
+breadcrumb: blog
 ---
 Our information and content librarian Helen Haynes discusses a project that aims to bring high quality academic research to everyone &#8211; for free.
 

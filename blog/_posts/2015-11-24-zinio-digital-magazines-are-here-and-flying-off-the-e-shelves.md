@@ -5,6 +5,7 @@ date: 2015-11-24 15:55:25+00:00
 author: helen-haynes
 category: blog
 excerpt: Take a look at our new, free digital magazine service.
+breadcrumb: blog
 ---
 If you haven’t had a look at [our new digital magazine service](https://www.rbdigital.com/Suffolk/service/zinio/landing) you really must. We have such a great collection of magazines available and the best bit is, they are free and you can keep them forever.
 
