@@ -4,15 +4,10 @@ title: New films and DVDs for April 2014
 date: 2014-04-03 09:55:20+00:00
 author: brandon-king
 category: film-lists
-excerpt: Some great titles this month, including <cite>12 years a slave</cite>, <cite>The wolf of Wall Street</cite> and <cite>47 Ronin</cite>.
+excerpt: Featuring <cite>12 years a slave</cite> and <cite>The wolf of Wall Street</cite>.
+breadcrumb: film-lists
 ---
-<div class="panel">
-  <p>
-    Reserve and collect from any branch or pop into your local library to see what&#8217;s on the shelves. Here are the best of April&#8217;s films:
-  </p>
-</div>
-
-## [The wolf of Wall Street](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21266319?QRY=CTIBIB%3C%20IRN(35745645)&QRYTEXT=The%20wolf%20of%20Wall%20Street%20%5Bvideorecording%5D)
+## [<cite>The wolf of Wall Street</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21266319?QRY=CTIBIB%3C%20IRN(35745645)&QRYTEXT=The%20wolf%20of%20Wall%20Street%20%5Bvideorecording%5D)
 
 Martin Scorsese directs this award-winning account of 1980s New York stockbroker Jordan Belfort&#8217;s pursuit of wealth.
 
@@ -22,7 +17,7 @@ Heading a committed team at his Stratton Oakmont brokerage house in Long Island,
 
 The supporting cast includes Matthew McConaughey, Jonah Hill and Jon Bernthal. The film was nominated for five Academy Awards, including Best Picture, Best Actor (DiCaprio) and Best Director (Scorsese), and saw DiCaprio pick up the Golden Globe for Best Actor – Music Or Comedy.
 
-## [12 years a slave](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21267708?QRY=CTIBIB%3C%20IRN(37213347)&QRYTEXT=12%20years%20a%20slave%20%5Bvideorecording%5D)
+## [<cite>12 years a slave</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21267708?QRY=CTIBIB%3C%20IRN(37213347)&QRYTEXT=12%20years%20a%20slave%20%5Bvideorecording%5D)
 
 Award-winning historical slave-narrative drama directed by Steve McQueen and starring Chiwetel Ejiofor.
 
@@ -34,7 +29,7 @@ Believing the only hope of regaining his freedom is to remain passive for the ti
 
 The film was nominated for nine Academy Awards and won three including Best Picture and Best Supporting Actress (Lupita Nyong&#8217;o). It also won the Golden Globe for Best Motion Picture – Drama and BAFTAs for Best Leading Actor (Ejiofor) and Best Film.
 
-## [The railway man](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21269062?QRY=CTIBIB%3C%20IRN(26250279)&QRYTEXT=The%20railway%20man%20%5Bvideorecording%5D)
+## [<cite>The railway man</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21269062?QRY=CTIBIB%3C%20IRN(26250279)&QRYTEXT=The%20railway%20man%20%5Bvideorecording%5D)
 
 Colin Firth, Nicole Kidman and Stellan Skarsgård star in this war drama adapted from Eric Lomax&#8217;s memoirs about his experiences in a POW camp.
 
@@ -42,7 +37,7 @@ While serving in the Second World War, British Army officer Eric Lomax (Jeremy I
 
 Many years later an older Lomax (Firth) is still traumatised by the experience. Supported by his wife Patti (Kidman) and friend Finlay (Skarsgård), he decides to track down one of his torturers, Takashi Nagase (Hiroyuki Sanada), hoping to find the answers that will enable him to finally let go of the hatred he has held for so long.
 
-## [August: Osage County](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21270566?QRY=CTIBIB%3C%20IRN(37691388)&QRYTEXT=August%3A%20Osage%20county%20%5Bvideorecording%5D)
+## [<cite>August: Osage County</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21270566?QRY=CTIBIB%3C%20IRN(37691388)&QRYTEXT=August%3A%20Osage%20county%20%5Bvideorecording%5D)
 
 Academy Award–nominated drama directed by John Wells.
 
@@ -52,7 +47,7 @@ Leaving his outspoken and drug-addicted wife Violet (Meryl Streep) behind, the r
 
 The ensemble cast includes Julia Roberts, Ewan McGregor, Juliette Lewis, Chris Cooper and Benedict Cumberbatch. Streep and Roberts received Oscar nominations for their performances in the Best Actress and Best Supporting Actress categories, respectively.
 
-## [47 Ronin](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21283277?QRY=CTIBIB%3C%20IRN(5629665)&QRYTEXT=47%20Ronin%20%5Bvideorecording%5D)
+## [<cite>47 Ronin</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21283277?QRY=CTIBIB%3C%20IRN(5629665)&QRYTEXT=47%20Ronin%20%5Bvideorecording%5D)
 
 Carl Rinsch directs this reimagining of the Japanese tale about the revenge of the 47 Ronin, starring Keanu Reeves.
 
@@ -60,7 +55,7 @@ With the underhand machinations of their rival Lord Kira (Tadanobu Asano) blamed
 
 Vastly outnumbered, but inspired by the teachings of Kuranosuke Oishi (Hiroyuki Sanada), Kai and the other ronin engage in a bloody battle with forces under the command of Kira&#8217;s loyal subordinate Mizuki (Rinko Kikuchi).
 
-## [Inside Llewyn Davis](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21288293?QRY=CTIBIB%3C%20IRN(20249080)&QRYTEXT=Inside%20Llewyn%20Davis%20%5Bvideorecording%5D)
+## [<cite>Inside Llewyn Davis</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21288293?QRY=CTIBIB%3C%20IRN(20249080)&QRYTEXT=Inside%20Llewyn%20Davis%20%5Bvideorecording%5D)
 
 Joel and Ethan Coen&#8217;s award–winning drama follows a week in the life of a struggling young singer-songwriter as he tries to make it big in New York&#8217;s folk scene of the early 1960s.
 

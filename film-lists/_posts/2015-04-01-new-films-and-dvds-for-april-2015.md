@@ -5,6 +5,7 @@ date: 2015-04-01 08:23:58+00:00
 author: brandon-king
 category: film-lists
 excerpt: 'New DVDs in our catalogue, including <cite>The Hobbit: The Battle of the Five Armies</cite>, <cite>Annie</cite> and <cite>Exodus: Gods and kings</cite>.'
+breadcrumb: film-lists
 ---
 ## [<cite>The Hobbit: The Battle of the Five Armies</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/27177866?QRY=CTIBIB%3C%20IRN(5622891)&QRYTEXT=The%20Hobbit%3A%20The%20Battle%20of%20the%20five%20armies%20%5Bvideorecording%5D)
 

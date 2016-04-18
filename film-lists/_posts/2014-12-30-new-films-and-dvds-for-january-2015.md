@@ -5,6 +5,7 @@ date: 2014-12-30 15:09:27+00:00
 author: brandon-king
 category: film-lists
 excerpt: New films and DVDs featuring <cite>The Boxtrolls</cite>, <cite>Lucy</cite> and <cite>The Equalizer</cite>.
+breadcrumb: film-lists
 ---
 ## [<cite>Lucy</cite>](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13409048?QRY=CTIBIB%3C%20IRN(27170857)&QRYTEXT=Lucy%20%5Bvideorecording%5D)
 

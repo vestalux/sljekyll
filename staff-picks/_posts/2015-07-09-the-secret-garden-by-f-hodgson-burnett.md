@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The secret garden by F. Hodgson Burnett
+title: The secret garden by F Hodgson Burnett
 date: 2015-07-09 12:07:43+00:00
-author: Anna Hradsky
+author: anna-hradsky
 category: staff-picks
 excerpt: Library and information advisor Anna Hradsky talks about how her family loves this classic.
 breadcrumb: staff-picks

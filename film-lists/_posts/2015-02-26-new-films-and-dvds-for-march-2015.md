@@ -5,6 +5,7 @@ date: 2015-02-26 15:29:12+00:00
 author: brandon-king
 category: film-lists
 excerpt: 'Our newly stocked DVDs, including <cite>The Hunger Games: Mockingjay Part 1</cite>, <cite>The Imitation Game</cite> and <cite>Pride</cite>.'
+breadcrumb: film-lists
 ---
 ## [<cite>Paddington</cite>](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5339284?QRY=CTIBIB%3C%20IRN(46650871)&QRYTEXT=Paddington%20%5Bvideorecording%5D)
 

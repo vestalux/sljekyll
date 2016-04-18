@@ -5,6 +5,7 @@ date: 2015-01-30 14:24:14+00:00
 author: brandon-king
 category: film-lists
 excerpt: Our newest films in stock, including <cite>Gone Girl</cite> and <cite>Mr. Turner</cite>.
+breadcrumb: film-lists
 ---
 ## [<cite>Gone girl</cite>](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3340878?QRY=CTIBIB%3C%20IRN(47113565)&QRYTEXT=Gone%20girl%20%5Bvideorecording%5D)
 

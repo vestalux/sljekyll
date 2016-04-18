@@ -2,7 +2,7 @@
 layout: post
 title: Jurassic Park by Michael Crichton
 date: 2015-06-22 08:55:08+00:00
-author: Kate Ashton
+author: kate-ashton
 category: staff-picks
 excerpt: Haverhill Library assistant manager Kate Ashton reviews <cite>Jurassic Park</cite>.
 breadcrumb: staff-picks

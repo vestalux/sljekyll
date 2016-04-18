@@ -2,7 +2,7 @@
 id: 43958
 title: Recording Booked Out, our monthly books podcast
 date: 2015-04-29T08:29:49+00:00
-author: Sophie Green
+author: sophie-green
 excerpt: Sophie Green explains how we put together a regular books podcast, and the benefits it brings the library and community. You can also get involved.
 layout: post
 breadcrumb: blog

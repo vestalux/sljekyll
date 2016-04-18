@@ -5,6 +5,7 @@ date: 2015-05-01 07:59:11+00:00
 author: brandon-king
 category: film-lists
 excerpt: 'DVDs including <cite>The Theory of Everything</cite>, <cite>Birdman</cite> and <cite>Testament of Youth</cite>.'
+breadcrumb: film-lists
 ---
 ## [<cite>The Theory of Everything</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/1313099?QRY=CTIBIB%3C%20IRN(47618964)&QRYTEXT=The%20theory%20of%20everything%20%5Bvideorecording%5D)
 
