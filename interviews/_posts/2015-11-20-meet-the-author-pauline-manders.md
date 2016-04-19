@@ -5,16 +5,12 @@ date: 2015-11-20 11:54:41+00:00
 author: brandon-king
 category: interviews
 excerpt: Brandon interviews local crime author Pauline Manders about her <cite>Utterly</cite> series.
+breadcrumb: interviews
 ---
-<div class="panel">
-  <p>
-    Pauline Manders was born in London. She trained as an ENT surgeon and moved to East Anglia with her husband and two children, where she worked for over thirty years in the NHS. Since retiring, she lives in a converted barn deep in rural Suffolk and at last has time to write, share her husband’s interest in classic cars and take Otto, her Weimaraner for long walks while thinking up plots for her crime novels. She is an enthusiastic member of a local carpentry group, and is currently carving three diving ducks to serve as legs to support a small table — this is proving quite a challenge!
-  </p>
 
-  <p>
-    For those who have not read her books, they are all set in Suffolk based around the fictional Utterly Academy in Stowmarket. They are cosy murder stories and readers will recognise a lot of the locations. Find out more on Pauline&#8217;s <a href="http://paulinemanders.com/home/">website</a> and <a href="http://paulinemandersauthor.blogspot.co.uk/">blog</a>.
-  </p>
-</div>
+Pauline Manders was born in London. She trained as an ENT surgeon and moved to East Anglia with her husband and two children, where she worked for over thirty years in the NHS. Since retiring, she lives in a converted barn deep in rural Suffolk and at last has time to write, share her husband’s interest in classic cars and take Otto, her Weimaraner for long walks while thinking up plots for her crime novels. She is an enthusiastic member of a local carpentry group, and is currently carving three diving ducks to serve as legs to support a small table — this is proving quite a challenge!
+
+For those who have not read her books, they are all set in Suffolk based around the fictional Utterly Academy in Stowmarket. They are cosy murder stories and readers will recognise a lot of the locations. Find out more on Pauline&#8217;s [website](http://paulinemanders.com/home/) and [blog](http://paulinemandersauthor.blogspot.co.uk/).
 
 **What inspired you to start writing?**
 
@@ -48,20 +44,6 @@ I suppose a hardworking, resilient, perfectionist.
 
 My next book! I have worked out the climax ending with the mode of death/killing. (It would spoil it if I spilled the beans here.) Now I have turned my mind to the plot. Currently I am researching ‘filming on location in Suffolk’ and have the opening chapter in my mind — they use set carpenters, which is perfect for my characters. I now have to think up/work out the secondary threads to the plot. I enjoy this part of the challenge — devising some unusual, whacky, off-beat twists and themes.
 
-<div class="panel">
-  <div class="row">
-    <div class="medium-2 columns">
-      <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10396490?QRY=CAUBIB%3C%20IRN(23528902)&QRYTEXT=Manders%2C%20Pauline"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2015/11/utterly-knotted.jpg" alt="Utterly knotted by Pauline Manders" /></a>
-    </div>
+[![Utterly knotted by Pauline Manders](http://suffolklibraries.co.uk/wp-content/uploads/2015/11/utterly-knotted.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10396490?QRY=CAUBIB%3C%20IRN(23528902)&QRYTEXT=Manders%2C%20Pauline)
 
-    <div class="medium-10 columns">
-      <h3>
-        <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10396490?QRY=CAUBIB%3C%20IRN(23528902)&QRYTEXT=Manders%2C%20Pauline">Reserve Pauline Manders&#8217; books from our catalogue.</a>
-      </h3>
-
-      <p>
-        Want to meet Pauline? She will be appearing at Hadleigh library on 28 November.
-      </p>
-    </div>
-  </div>
-</div>
+[Reserve Pauline Manders&#8217; books from our catalogue.](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10396490?QRY=CAUBIB%3C%20IRN(23528902)&QRYTEXT=Manders%2C%20Pauline)

@@ -5,6 +5,7 @@ date: 2016-03-07 15:48:35+00:00
 author: brandon-king
 category: interviews
 excerpt: Brandon interviews prolific novelist Anna Jacobs, the author of the <cite>Rivenshaw</cite> series.
+breadcrumb: interviews
 ---
 Anna Jacobs is one of the most borrowed authors of adult fiction in the UK library system. She has had over 70 novels published. <cite>A time to remember</cite> is her most recent which is the first in a new series called <cite>Rivenshaw</cite> after the imaginary Lancashire town in which it is set. These stories take place just after World War 2. <cite>A time to rejoice</cite> will be the next UK title, due in May. We already have it on order and a waiting list developing. Anna is published mainly as Anna Jacobs, writing historical sagas and modern novels alternately, and she used to write fantasy novels as Shannah Jay.
 
@@ -34,16 +35,6 @@ Please tell your readers that I’m delighted they’re enjoying my stories. I l
 
 Addicted to stories.
 
-<div class="panel">
-  <div class="row">
-    <div class="medium-2 columns">
-      <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12593336?QRY=CTIBIB%3C%20IRN(17634662)&QRYTEXT=A%20time%20to%20remember" rel="attachment wp-att-55287"><img src="http://suffolklibraries.co.uk/wp-content/uploads/2016/03/a-time-to-remember.jpg" alt="A time to remember by Anna Jacobs" class="alignnone" /></a>
-    </div>
+[![A time to remember by Anna Jacobs](http://suffolklibraries.co.uk/wp-content/uploads/2016/03/a-time-to-remember.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12593336?QRY=CTIBIB%3C%20IRN(17634662)&QRYTEXT=A%20time%20to%20remember)
 
-    <div class="medium-10 columns">
-      <h3>
-        <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12593336?QRY=CTIBIB%3C%20IRN(17634662)&#038;QRYTEXT=A%20time%20to%20remember">Reserve <cite>A time to remember</cite> by Anna Jacobs from our catalogue.</a>
-      </h3>
-    </div>
-  </div>
-</div>
+[RReserve <cite>A time to remember</cite> by Anna Jacobs from our catalogue.](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12593336?QRY=CTIBIB%3C%20IRN(17634662)&QRYTEXT=A%20time%20to%20remember)

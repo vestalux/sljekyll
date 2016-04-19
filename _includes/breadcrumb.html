@@ -86,4 +86,20 @@
 
     </div>
 
+{% elsif page.breadcrumb == 'interviews' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/interviews">Author interviews</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% elsif page.breadcrumb == 'local-interest' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/local-interest">Local interest</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
 {% endif %}

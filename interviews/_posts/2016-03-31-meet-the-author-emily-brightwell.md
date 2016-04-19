@@ -5,6 +5,7 @@ date: 2016-03-31 09:30:04+00:00
 author: brandon-king
 excerpt: 'Brandon King interviews author of the <cite>Mrs Jeffries</cite> series, Emily Brightwell.'
 category: interviews
+breadcrumb: interviews
 ---
 Emily Brightwell is the author of the series of Victorian crime mysteries featuring the mild-mannered Inspector Witherspoon of Scotland Yard and, more importantly, his housekeeper Mrs Jeffries. A policeman&#8217;s widow herself, her quick wits allow her to nudge the Inspector in the right direction to solve the crime. Emily is currently writing number 35 of the Mrs Jeffries mysteries.
 
@@ -24,7 +25,7 @@ I like that label. A ‘cosy’ description and/or a ‘cosy’ cover is one of 
 
 Some readers don’t like mysteries with crude language, graphic violence or certain kinds of crimes &#8211; and I respect those tastes. Remember, just because it’s a cosy doesn’t mean it’s filled with sweetness and light – mine certainly aren’t. I’m a thematic writer and every book I write has an underlying social, political or spiritual statement that I think is important. It’s my pulpit!<figure class="figure alignnone">
 
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2016/03/featured-emily-brightwell-display-southwold.jpg" alt="Display of Emily Brightwell books at Southwold Library" width="740" height="370" />
+![Display of Emily Brightwell books at Southwold Library](http://suffolklibraries.co.uk/wp-content/uploads/2016/03/featured-emily-brightwell-display-southwold.jpg)
 
 Display of Emily Brightwell books at Southwold Library
 
@@ -44,4 +45,4 @@ Not yet. I’ve got fingers crossed that someone, somewhere (in Suffolk perhaps)
 
 My perfect day would be getting up early on Saturday morning to watch my beloved football team, Everton FC on TV &#8211; as this is a perfect day, they win. After that, I’d love to go to lunch at my favorite Japanese restaurant with family and friends. In the afternoon, I’d find a comfy chair, make a pot of PG Tips tea and settle in for a nice, long read of one of my favorite authors. A walk along the bay with my husband would be nice before dinner (I live in the San Francisco Bay area) and after a great meal, some entertainment on television before bed. As you can probably tell, I’m a homebody!
 
-<a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/15504431?QRY=CTIBIB%3C%20IRN(62542560)&QRYTEXT=Mrs.%20Jeffries%20Wins%20the%20Prize%20%3A%20A%20Victorian%20Mystery">Reserve Emily Brightwell&#8217;s latest instalment in the <cite>Mrs Jeffries</cite> series, <cite>Mrs Jeffries Wins the Prize</cite>, from our catalogue.</a>
+[Reserve Emily Brightwell&#8217;s latest instalment in the <cite>Mrs Jeffries</cite> series, <cite>Mrs Jeffries Wins the Prize</cite>, from our catalogue.](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/15504431?QRY=CTIBIB%3C%20IRN(62542560)&QRYTEXT=Mrs.%20Jeffries%20Wins%20the%20Prize%20%3A%20A%20Victorian%20Mystery)
