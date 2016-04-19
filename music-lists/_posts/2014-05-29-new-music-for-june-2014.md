@@ -5,6 +5,7 @@ date: 2014-05-29 11:50:12+00:00
 author: brandon-king
 category: music-lists
 excerpt: Our pick of new, freely available downloads, streaming and CDs. Includes releases from Michael Jackson, First Aid Kit, Celine Dion and Bellowhead.
+breadcrumb: music-lists
 ---
 ## [Lazaretto by Jack White](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14521134?QRY=CTIBIB%3C%20IRN(38864961)&QRYTEXT=Lazaretto%20%5Bsound%20recording%5D)
 

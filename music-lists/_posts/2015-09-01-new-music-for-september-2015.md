@@ -5,6 +5,7 @@ date: 2015-09-01 08:22:23+00:00
 author: brandon-king
 category: music-lists
 excerpt: New albums from The Libertines, New Order, Duran Duran, David Gilmour, Chvrches and Rudimental.
+breadcrumb: music-lists
 ---
 ## [<cite>Anthems for Doomed Youth</cite> by The Libertines](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/31095977?QRY=CTIBIB%3C%20IRN(40361703)&QRYTEXT=Anthems%20for%20doomed%20youth%20%5Bsound%20recording%5D)
 

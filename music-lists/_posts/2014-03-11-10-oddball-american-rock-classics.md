@@ -5,6 +5,7 @@ date: 2014-03-11 09:56:14+00:00
 author: richard-baker
 category: music-lists
 excerpt: Download or stream classics from Captain Beefheart, Iron Butterfly and the 13th Floor Elevators. All you'll need is your library card and PIN.
+breadcrumb: music-lists
 
 ---
 Download or stream these psychedelic classics for free. All you&#8217;ll need is you library card and PIN.

@@ -5,6 +5,7 @@ date: 2014-06-26 15:41:34+00:00
 author: leon-paternoster
 category: music-lists
 excerpt: Download or stream these Glastonbury 2014 artists, including the Manic Street Preachers, Beth Orton and Dolly Parton.
+breadcrumb: music-lists
 ---
 Download or stream these Glastonbury 2014 artists for free from our Freegal service. All you need is your library card and PIN:
 

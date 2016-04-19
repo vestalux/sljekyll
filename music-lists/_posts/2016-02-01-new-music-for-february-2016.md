@@ -5,6 +5,7 @@ date: 2016-02-01 09:10:43+00:00
 author: brandon-king
 category: music-lists
 excerpt: New albums from Jack Garratt, Elton John, Foxes and Lucinda Williams.
+breadcrumb: music-lists
 ---
 ## [<cite>Phase</cite> by Jack Garratt](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13842969?QRY=CTIBIB%3C%20IRN(57600243)&QRYTEXT=Phase%20%5Bsound%20recording%5D)
 

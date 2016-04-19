@@ -5,6 +5,7 @@ date: 2014-07-30 16:07:03+00:00
 author: brandon-king
 category: music-lists
 excerpt: Including albums from Royal Blood, Judas Priest and a children's pop compilation.
+breadcrumb: music-lists
 ---
 ## CDs – reserve and collect from your library
 

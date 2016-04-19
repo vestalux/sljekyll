@@ -5,6 +5,7 @@ date: 2015-07-31 13:18:15+00:00
 author: brandon-king
 category: music-lists
 excerpt: New albums from Jess Glynne, Frank Turner, Mac DeMarco, Motorhead, Foals and Richard Thompson.
+breadcrumb: music-lists
 ---
 ## [<cite>I cry when I laugh</cite> by Jess Glynne](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16769691?QRY=CTIBIB%3C%20IRN(50741997)&QRYTEXT=I%20cry%20when%20I%20laugh%20%5Bsound%20recording%5D)
 

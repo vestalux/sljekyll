@@ -5,6 +5,7 @@ date: 2014-04-07 12:26:27+00:00
 author: richard-baker
 category: music-lists
 excerpt: Woodbridge Library's Richard Baker selects some funky Hammond organ classics you can download for free from our Freegal service.
+breadcrumb: music-lists
 ---
 Freegal is our free music download and streaming service. Each month Richard Baker highlights some of the more unusual and obscure recordings. This month he casts his eye over some funky Hammond organ greats.
 

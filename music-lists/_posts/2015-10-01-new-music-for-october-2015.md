@@ -5,6 +5,7 @@ date: 2015-10-01 08:17:10+00:00
 author: brandon-king
 category: music-lists
 excerpt: New albums from Jean Michel Jarre, Lana Del Rey, John Grant, Editors, Squeeze and Faithless.
+breadcrumb: music-lists
 ---
 ## [<cite>Electronica 1: The time machine</cite> by Jean Michel Jarre](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10330005?QRY=CTIBIB%3C%20IRN(56500869)&QRYTEXT=Electronica%201%3A%20The%20time%20machine%20%5Bsound%20recording%5D)
 

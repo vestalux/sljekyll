@@ -5,6 +5,7 @@ date: 2014-05-20 11:30:33+00:00
 author: leon-paternoster
 category: music-lists
 excerpt: Our round up of the newest MP3s available for download and streaming for free. Includes Foo Fighters, Frankie Knuckles, Hilary Hahn and Barry Manilow.
+breadcrumb: music-lists
 ---
 Freegal is our free, legal MP3 downloading and streaming service. You&#8217;ll just need your library card number and PIN to use it.
 

@@ -5,6 +5,7 @@ date: 2016-03-29 14:20:56+00:00
 author: brandon-king
 category: music-lists
 excerpt: Our round up of the best new CDs for you to reserve and collect from your library.
+breadcrumb: music-lists
 ---
 ## [Last Shadow Puppets: Everything You’ve Come to Expect](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/25750238?QRY=CTIBIB%3C%20IRN%2861027135%29&QRYTEXT=Everything%20you%27ve%20come%20to%20expect%20[sound%20recording])
 

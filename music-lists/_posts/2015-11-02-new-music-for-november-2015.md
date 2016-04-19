@@ -5,6 +5,7 @@ date: 2015-11-02 09:25:18+00:00
 author: brandon-king
 category: music-lists
 excerpt: New CDs from Jeff Lynne's ELO, Adele, Ellie Goulding, Enya, Kurt Cobain and Bob Dylan.
+breadcrumb: music-lists
 ---
 ## [<cite>Alone in the universe</cite> by Jeff Lynne&#8217;s ELO](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/24231182?QRY=CTIBIB%3C%20IRN(56735875)&QRYTEXT=Alone%20in%20the%20universe%20%5Bsound%20recording%5D)
 

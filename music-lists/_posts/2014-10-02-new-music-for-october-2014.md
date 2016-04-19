@@ -5,6 +5,7 @@ date: 2014-10-02 10:57:00+00:00
 author: brandon-king
 category: music-lists
 excerpt: Including new albums from Neil Diamond, Ben Howard, Diana Krall and Jessie Ware.
+breadcrumb: music-lists
 ---
 Reserve and collect the latest CDs from your local library.
 

@@ -5,6 +5,7 @@ date: 2015-05-01 08:01:03+00:00
 author: brandon-king
 category: music-lists
 excerpt: Music releases from Mumford & Sons, Kendrick Lamar and Sufjan Stevens.
+breadcrumb: music-lists
 ---
 ## [<cite>Saturns pattern</cite> by Paul Weller](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2183902?QRY=CTIBIB%3C%20IRN(49812920)&QRYTEXT=Saturns%20pattern%20%5Bsound%20recording%5D)
 

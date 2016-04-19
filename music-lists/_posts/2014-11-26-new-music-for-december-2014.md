@@ -5,6 +5,7 @@ date: 2014-11-26 09:57:05+00:00
 author: brandon-king
 category: music-lists
 excerpt: New music this December from She & Him, Leonard Cohen and The BBC Philharmonic Orchestra.
+breadcrumb: music-lists
 ---
 ## [<cite>Classics</cite> by She & Him](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3502131?QRY=CTIBIB%3C%20IRN(12527953)&QRYTEXT=Classics%20%5Bsound%20recording%5D)
 

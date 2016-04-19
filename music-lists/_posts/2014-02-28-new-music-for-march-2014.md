@@ -5,10 +5,11 @@ date: 2014-02-28 16:12:43+00:00
 author: brandon-king
 category: music-lists
 excerpt: Including Elbow's new album and a compilation of lost Johnny Cash songs.
+breadcrumb: music-lists
 ---
 ## Search and reserve for collection from any branch
 
-### [Bob Dylan: The 30th anniversary concert celebration](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/11133861?QRY=CTIBIB%3C%20IRN(1682475)&QRYTEXT=30th%20anniversary%20concert%20celebration)
+### [<cite>The 30th anniversary concert celebration</cite> by Bob Dylan](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/11133861?QRY=CTIBIB%3C%20IRN(1682475)&QRYTEXT=30th%20anniversary%20concert%20celebration)
 
 The talent on this CD is a snapshot and Who&#8217;s Who of rock and country legends&#8230;from 1992. Legends who were great then and are still great now. It&#8217;s not just Dylan … it&#8217;s Dylan sung live by Neil Young, Eric Clapton, George Harrison, Willie Nelson, Ron Wood, June Carter & Johnny Cash, John Mellencamp, Stevie Wonder, Lou Reed, Eddie Vedder, Tracy Chapman, Tom Petty, Johnny Winter, Richie Havens etc., etc.
 
@@ -16,39 +17,39 @@ This recording is a classic, a virtual museum of music greats at the top of thei
 
 [Download or stream for free from Freegal](http://suffolklibraries.freegalmusic.com/artists/view/VmFyaW91cw==/28849941/c29ueQ==).
 
-### [Elbow: The take off and landing of everything](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/11134727?QRY=CTIBIB%3C%20IRN(12527979)&QRYTEXT=The%20take%20off%20and%20landing%20of%20everything%20%5Bsound%20recording%5D)
+### [<cite>The take off and landing of everything</cite> by Elbow](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/11134727?QRY=CTIBIB%3C%20IRN(12527979)&QRYTEXT=The%20take%20off%20and%20landing%20of%20everything%20%5Bsound%20recording%5D)
 
 The sixth studio album from Guy Garvey and Elbow. Few bands can lay claim to a career that encompasses over twenty years. Even fewer can make that claim without changes to personnel, and, yet, Elbow in 2014 are the same as Elbow in 1992. Expect more beautifully crafted music, full of passion and melancholic tenderness. Q magazine claims this is their best album to date.
 
-### [Johnny Cash: Out among the stars](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/11135192?QRY=CTIBIB%3C%20IRN(35039762)&QRYTEXT=Out%20among%20the%20stars%20%5Bsound%20recording%5D)
+### [<cite>Out among the stars</cite> by Johnny Cash](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/11135192?QRY=CTIBIB%3C%20IRN(35039762)&QRYTEXT=Out%20among%20the%20stars%20%5Bsound%20recording%5D)
 
 On March 25, a lost Johnny Cash album will be released via Columbia/Legacy. Titled Out Among the Stars, its 12 “forgotten” recordings are not demos or outtakes. They were unearthed by the label and Cash&#8217;s son John Carter Cash in 2012, and include duets with both Waylon Jennings and June Carter Cash. Two tracks are credited as being written by Johnny Cash, <cite>Call Your Mother</cite> and <cite>I Came to Believe</cite>.
 
 Produced by Billy Sherrill, the material was recorded at Nashville&#8217;s Columbia Studios in 1981 and 1111 Sound Studios in 1984. The restoration of the album was handled by John Carter Cash with co-producer/archivist Steve Berkowitz along with Carlene Carter, Cash collaborator Marty Stuart, Buddy Miller, and other musicians.
 
-### [Drive By Truckers: English oceans](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/11135739?QRY=CTIBIB%3C%20IRN(33426864)&QRYTEXT=English%20oceans)
+### [<cite>English oceans</cite> by Drive By Truckers](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/11135739?QRY=CTIBIB%3C%20IRN(33426864)&QRYTEXT=English%20oceans)
 
 After an uncharacteristically long pause, the band from Athens, Georgia return with <cite>English Oceans,</cite> their first new LP since <cite>Go-Go Boots</cite> in 2011. Also uncharacteristic is the fact that singer Mike Cooley, never the most prolific of the band’s primary songwriters, wrote six of the 13 tunes on the album, including <cite>Made Up English Oceans.</cite> If you haven’t discovered DBT yet they are certainly worth a listen.
 
-### [Wilko Johnson & Roger Daltrey: Going back home](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/11136118?QRY=CTIBIB%3C%20IRN(36216891)&QRYTEXT=Going%20back%20home%20%5Bsound%20recording%5D)
+### [<cite>Going back home</cite> by Wilko Johnson & Roger Daltrey](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/11136118?QRY=CTIBIB%3C%20IRN(36216891)&QRYTEXT=Going%20back%20home%20%5Bsound%20recording%5D)
 
 The former Dr Feelgood guitarist re-records blues classics with the The Who frontman.
 
 ## Download or stream for free from our Freegal service
 
-### [G I R L by Pharrell Williams](http://suffolklibraries.freegalmusic.com/artists/view/UGhhcnJlbGwgV2lsbGlhbXM=/29019221/c29ueQ==)
+### [<cite>G I R L</cite> by Pharrell Williams](http://suffolklibraries.freegalmusic.com/artists/view/UGhhcnJlbGwgV2lsbGlhbXM=/29019221/c29ueQ==)
 
 G I R L is the second studio album by American recording artist and record producer Pharrell Williams and features the number one single <cite>Happy</cite>, nominated for an Academy Award thanks to its inclusion on the Despicable Me 2 soundtrack.
 
-### [Hellios by The Fray](http://suffolklibraries.freegalmusic.com/artists/view/VGhlIEZyYXk=/28713225/c29ueQ==)
+### [<cite>Hellios</cite> by The Fray](http://suffolklibraries.freegalmusic.com/artists/view/VGhlIEZyYXk=/28713225/c29ueQ==)
 
 By pitching their music somewhere between the arena-friendly style of U2 and the mature pop/rock of bands like Maroon 5 and Counting Crows, the Fray rose to commercial prominence with their 2005 debut, How to Save a Life. This new album continues in their familiar style and features the single Love Don’t Die
 
-### [Guilty of Everything by Nothing](http://suffolklibraries.freegalmusic.com/artists/view/Tm90aGluZw==/781676724727/aW9kYQ==)
+### [<cite>Guilty of Everything</cite> by Nothing](http://suffolklibraries.freegalmusic.com/artists/view/Tm90aGluZw==/781676724727/aW9kYQ==)
 
 Philadelphia’s NOTHING, formed in 2011 by Domenic Palermo, have been destroying the eardrums of audiences throughout North America for the past 2 years with a magnetic blend of captivatingly dark and beautiful vocals and explosive, blown out, in the red guitar fuzz.
 
-### [Vagabond by Eddi reader](http://suffolklibraries.freegalmusic.com/artists/view/RWRkaSBSZWFkZXI=/609224287206/aW9kYQ==)
+### [<cite>Vagabond</cite> by Eddi Reader](http://suffolklibraries.freegalmusic.com/artists/view/RWRkaSBSZWFkZXI=/609224287206/aW9kYQ==)
 
 Eddi Reader&#8217;s first new studio album for 5 years. Featuring the single <cite>Baby&#8217;s Boat</cite>. Recorded by Mark Freegard in Eddi&#8217;s hometown of Glasgow with a cast of well chosen musicians and friends eager to play their part in this, most captivating, deeply personal yet universal sounding album.
 

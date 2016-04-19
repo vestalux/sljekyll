@@ -5,6 +5,7 @@ date: 2014-07-01 12:15:19+00:00
 author: brandon-king
 category: music-lists
 excerpt: Including new albums from Tom Petty and the Heartbreakers, Dolly Parton and Morrissey.
+breadcrumb: music-lists
 ---
 ## CDs
 

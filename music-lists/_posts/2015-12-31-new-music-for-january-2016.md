@@ -5,6 +5,7 @@ date: 2015-12-31 09:28:09+00:00
 author: brandon-king
 category: music-lists
 excerpt: New albums from David Bowie, Sia, Suede, Savages, Daughter and Hinds.
+breadcrumb: music-lists
 ---
 ## [<cite>Blackstar</cite> by David Bowie](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/23933597?QRY=CTIBIB%3C%20IRN(58865235)&QRYTEXT=Blackstar%20%5Bsound%20recording%5D)
 

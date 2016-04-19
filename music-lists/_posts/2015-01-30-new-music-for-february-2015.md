@@ -5,6 +5,7 @@ date: 2015-01-30 14:22:56+00:00
 author: brandon-king
 category: music-lists
 excerpt: Our latest music from Bob Dylan, Diana Krall and Panda Bear.
+breadcrumb: music-lists
 ---
 ## [<cite>Shadows in the night</cite> by Bob Dylan](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4478201?QRY=CTIBIB%3C%20IRN(47619334)&QRYTEXT=Shadows%20in%20the%20night%20%5Bsound%20recording%5D)
 

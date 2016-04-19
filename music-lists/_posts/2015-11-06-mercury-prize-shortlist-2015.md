@@ -5,6 +5,7 @@ date: 2015-11-06 16:34:54+00:00
 author: brandon-king
 category: music-lists
 excerpt: BBC's Mercury Prize covers the best of new British music — and we have all of the albums in stock!
+breadcrumb: music-lists
 ---
 ## [<cite>Syro</cite> by Aphex Twin](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/22552947?QRY=CTIBIB%3C%20IRN(43957642)&QRYTEXT=Syro%20%5Bsound%20recording%5D)
 

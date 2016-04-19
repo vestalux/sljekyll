@@ -5,6 +5,7 @@ date: 2015-11-30 09:27:21+00:00
 author: brandon-king
 category: music-lists
 excerpt: New releases from Coldplay, The Kooks, Cass McCombs and Tinariwen.
+breadcrumb: music-lists
 ---
 ## [<cite>A head full of dreams</cite> by Coldplay](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12802638?QRY=CTIBIB%3C%20IRN(58481883)&QRYTEXT=A%20head%20full%20of%20dreams%20%5Bsound%20recording%5D)
 
