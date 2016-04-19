@@ -5,6 +5,7 @@ date: 2014-08-13 16:31:33+00:00
 author: james-powell
 category: news
 excerpt: Ipswich County Library is marking 90 years since opening this week.
+breadcrumb: news
 ---
 [Ipswich County Library](http://suffolklibraries.co.uk/branches/ipswich-county-library/ "Ipswich County Library") is marking 90 years since opening this week. It is also 20 years since the library was reopened following the building of a new extension and major refurbishment.
 

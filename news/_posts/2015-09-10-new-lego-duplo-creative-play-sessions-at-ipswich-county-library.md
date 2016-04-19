@@ -5,6 +5,7 @@ date: 2015-09-10 08:23:38+00:00
 author: james-powell
 category: news
 excerpt: Ipswich County Library is holding several free creative play sessions with Lego Duplo next week.
+breadcrumb: news
 ---
 Ipswich County Library is holding several free creative play sessions with Lego Duplo next week.
 

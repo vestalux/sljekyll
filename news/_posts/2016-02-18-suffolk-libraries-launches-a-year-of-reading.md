@@ -5,6 +5,7 @@ date: 2016-02-18 15:56:16+00:00
 author: james-powell
 category: news
 excerpt: Suffolk Libraries has launched a campaign to celebrate and promote reading across the county.
+breadcrumb: news
 ---
 Suffolk Libraries has launched a campaign to celebrate and promote reading across the county.
 

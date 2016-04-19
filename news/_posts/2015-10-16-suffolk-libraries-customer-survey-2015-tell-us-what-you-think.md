@@ -5,6 +5,7 @@ date: 2015-10-16 12:24:34+00:00
 author: james-powell
 category: news
 excerpt: We’re launching a new customer survey to ask everyone what they think of Suffolk’s public library services.
+breadcrumb: news
 ---
 [Complete the survey online](http://www.surveymonkey.com/r/suffolklibraries2015).
 

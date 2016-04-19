@@ -5,6 +5,7 @@ date: 2015-07-06 14:56:59+00:00
 author: james-powell
 category: news
 excerpt: Felixstowe Library will be getting ready for this year’s summer reading challenge by hosting a record attempt and demonstration by Dean Gould, founder and president of Record Holders Republic tomorrow (Tuesday 7 July) at 10am.
+breadcrumb: news
 ---
 Felixstowe Library will be getting ready for this year’s summer reading challenge by hosting a record attempt and demonstration by Dean Gould, founder and president of Record Holders Republic tomorrow (Tuesday 7 July) at 10am.
 

@@ -5,6 +5,7 @@ date: 2015-04-14 12:25:04+00:00
 author: james-powell
 category: news
 excerpt: A series of events are taking place to mark World Book Night on 23 April.
+breadcrumb: news
 ---
 A series of events are taking place to mark World Book Night next week.
 

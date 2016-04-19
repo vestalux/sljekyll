@@ -5,6 +5,7 @@ date: 2015-10-23 13:50:37+00:00
 author: james-powell
 category: news
 excerpt: Lavenham Library will be undergoing refurbishment work next month ready for its involvement in Lavenham Literary Festival.
+breadcrumb: news
 ---
 Lavenham Library will be undergoing refurbishment work next month ready for its involvement in Lavenham Literary Festival.
 

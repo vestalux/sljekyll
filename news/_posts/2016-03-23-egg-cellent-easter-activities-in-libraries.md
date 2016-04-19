@@ -5,6 +5,7 @@ date: 2016-03-23 12:38:22+00:00
 author: james-powell
 category: news
 excerpt: Suffolk Libraries have lined up some cracking activities over the Easter holidays for families to enjoy.
+breadcrumb: news
 ---
 We&#8217;ve lined up some cracking activities over the Easter holidays for families to enjoy:
 

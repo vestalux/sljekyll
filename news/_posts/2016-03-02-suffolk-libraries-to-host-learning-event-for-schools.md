@@ -5,6 +5,7 @@ date: 2016-03-02 10:48:14+00:00
 author: james-powell
 category: news
 excerpt: Suffolk Libraries is holding a learning event for schools and education professionals in the region to help them promote reading as a way of tackling mental health or crisis in young people.
+breadcrumb: news
 ---
 Suffolk Libraries is holding a learning event for schools and education professionals in the region to help them promote reading as a way of tackling mental health or crisis in young people.
 

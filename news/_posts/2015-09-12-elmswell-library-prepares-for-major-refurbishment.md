@@ -5,6 +5,7 @@ date: 2015-09-12 13:40:14+00:00
 author: james-powell
 category: news
 excerpt: Elmswell Library will be closing for two weeks from Monday 5 October in preparation for a major refurbishment.
+breadcrumb: news
 ---
 Elmswell Library will be closing for two weeks from Monday 5 October in preparation for a major refurbishment.
 

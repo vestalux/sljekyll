@@ -5,6 +5,7 @@ date: 2016-02-23 12:30:45+00:00
 author: james-powell
 category: news
 excerpt: Suffolk Libraries is one of a handful of English library services chosen to pilot a new eBook service.
+breadcrumb: news
 ---
 Suffolk Libraries is one of a handful of English library services chosen to pilot a new eBook service.
 

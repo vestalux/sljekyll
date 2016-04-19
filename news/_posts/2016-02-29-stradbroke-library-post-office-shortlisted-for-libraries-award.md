@@ -5,6 +5,7 @@ date: 2016-02-29 10:32:52+00:00
 author: james-powell
 category: news
 excerpt: Suffolk Libraries has been shortlisted for a national libraries award for the new post office in Stradbroke Library.
+breadcrumb: news
 ---
 Suffolk Libraries has been shortlisted for a national libraries award for the new post office in Stradbroke Library.
 

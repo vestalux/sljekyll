@@ -5,6 +5,7 @@ date: 2015-06-30 08:50:03+00:00
 author: james-powell
 category: news
 excerpt: 'Suffolk Trading Standards, in partnership with BBC Radio Suffolk’s Mark Murphy Show, has launched Scamnesty; a month long initiative that encourages people to report potential scams and help prevent others from falling victim.'
+breadcrumb: news
 ---
 Every year, more than three million people in the UK fall victim to scams, losing hundreds and sometimes thousands of pounds to fraudsters. To raise awareness of this increasing problem, Suffolk Trading Standards, in partnership with BBC Radio Suffolk’s Mark Murphy Show, has launched Scamnesty; a month long initiative that encourages people to report potential scams and help prevent others from falling victim.
 

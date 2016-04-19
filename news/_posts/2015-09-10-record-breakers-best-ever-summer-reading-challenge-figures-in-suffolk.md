@@ -5,6 +5,7 @@ date: 2015-09-10 08:27:30+00:00
 author: james-powell
 category: news
 excerpt: Suffolk Libraries are celebrating breaking the record for the number of children taking part in the Summer Reading Challenge across the county.
+breadcrumb: news
 ---
 Suffolk Libraries are celebrating breaking the record for the number of children taking part in the Summer Reading Challenge across the county.
 

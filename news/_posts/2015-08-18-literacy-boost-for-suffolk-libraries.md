@@ -5,6 +5,7 @@ date: 2015-08-18 08:35:17+00:00
 author: james-powell
 category: news
 excerpt: Suffolk Libraries is aiming to increase the positive impact that the county’s library service has on children’s literacy thanks to the arrival of a new member of staff who will be working directly with schools.
+breadcrumb: news
 ---
 Suffolk Libraries is aiming to increase the positive impact that the county’s library service has on children’s literacy thanks to the arrival of a new member of staff who will be working directly with schools.
 
@@ -20,8 +21,7 @@ Suffolk Libraries’ Literacy Project has been funded by a grant of £30,000 fro
 
 Literacy levels in Suffolk remain a key challenge and one person in six struggles with poor literacy skills. Suffolk Libraries is also part of the new South East Ipswich Literacy Partnership.
 
-Matt has joined Suffolk Libraries from the Four Dwellings Academy in Quinton, Birmingham where he was School Librarian and Head of Key Stage 3.<figure class="figure aligncenter">
+Matt has joined Suffolk Libraries from the Four Dwellings Academy in Quinton, Birmingham where he was School Librarian and Head of Key Stage 3.
 
-[<img src="http://suffolklibraries.co.uk/wp-content/uploads/2015/08/matt-shenton-in-the-library-683x1024.jpg" alt="Literacy Ambassador Matt Shenton in the children’s library at Ipswich County Library." width="683" height="1024" />](http://suffolklibraries.co.uk/wp-content/uploads/2015/08/matt-shenton-in-the-library.jpg)<figcaption>Literacy Ambassador Matt Shenton in the children’s library at Ipswich County Library.</figcaption></figure>
-
-&nbsp;
+[Literacy Ambassador Matt Shenton in the children’s library at Ipswich County Library.](http://suffolklibraries.co.uk/wp-content/uploads/2015/08/matt-shenton-in-the-library.jpg)
+Literacy Ambassador Matt Shenton in the children’s library at Ipswich County Library.

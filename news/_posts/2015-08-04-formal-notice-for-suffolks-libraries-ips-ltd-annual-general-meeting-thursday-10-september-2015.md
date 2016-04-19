@@ -4,6 +4,7 @@ title: Formal notice for Suffolk’s Libraries IPS Ltd Annual General Meeting, T
 date: 2015-08-04 14:09:38+00:00
 author: leon-paternoster
 category: news
+breadcrumb: news
 ---
 The Cookhouse
 

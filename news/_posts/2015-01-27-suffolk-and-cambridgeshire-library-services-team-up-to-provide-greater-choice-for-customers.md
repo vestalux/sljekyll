@@ -5,6 +5,7 @@ date: 2015-01-27 08:59:59+00:00
 author: leon-paternoster
 category: news
 excerpt: Library customers from Suffolk and Cambridgeshire can now reserve and borrow items from both library services.
+breadcrumb: news
 ---
 Library customers from Suffolk and Cambridgeshire can now reserve and borrow items from both library services.
 

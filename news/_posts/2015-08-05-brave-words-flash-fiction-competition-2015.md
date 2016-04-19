@@ -5,6 +5,7 @@ date: 2015-08-05T12:55:36+00:00
 author: james-powell
 category: news
 excerpt: "We're pleased to announce the winning stories from our Brave New Reads inspired Flash Fiction competition, ‘Brave Words’."
+breadcrumb: news
 ---
 We&#8217;re pleased to announce the winning stories from our Brave New Reads inspired Flash Fiction competition, ‘Brave Words’. Flash fiction is a style of fiction of extreme brevity. In this instance the story had to be told in 250 words or less.
 

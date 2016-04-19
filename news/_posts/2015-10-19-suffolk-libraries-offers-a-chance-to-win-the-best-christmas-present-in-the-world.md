@@ -5,6 +5,7 @@ date: 2015-10-19 11:54:54+00:00
 author: james-powell
 category: news
 excerpt: Suffolk Libraries is running a fantastic festive children’s competition to meet Michael Morpurgo. Competition closes on 5 November.
+breadcrumb: news
 ---
 Suffolk Libraries is running a fantastic festive children’s competition and has two family tickets up for grabs for a special concert on 18 November hosted by Waterstones Bookshops at St Edmundsbury Cathedral in Bury St Edmunds. The concert will feature War Horse author Michael Morpurgo reading from his short story <cite>The Best Christmas Present in the World</cite>.
 

@@ -5,6 +5,7 @@ date: 2015-07-31 07:36:18+00:00
 author: james-powell
 category: news
 excerpt: A summary of the last 3 years at Suffolk Libraries.
+breadcrumb: news
 ---
 Saturday 1 August 2015 marks the third birthday of Suffolk Libraries, as it is three years since we took on the running of Suffolk’s public library service.
 

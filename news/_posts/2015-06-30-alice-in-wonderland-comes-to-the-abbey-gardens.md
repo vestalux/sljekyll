@@ -5,6 +5,7 @@ date: 2015-06-30 08:36:39+00:00
 author: james-powell
 category: news
 excerpt: Bury St Edmunds Library are celebrating 150 years since the publication of Alice’s Adventures in Wonderland by providing a free fun day of activities in the Abbey Gardens this Saturday (4 July).
+breadcrumb: news
 ---
 Bury St Edmunds Library are celebrating 150 years since the publication of Alice’s Adventures in Wonderland by providing a free fun day of activities in the Abbey Gardens this Saturday (4 July).
 

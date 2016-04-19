@@ -5,6 +5,7 @@ date: 2014-02-05 09:15:09+00:00
 author: leon-paternoster
 category: news
 excerpt: Recently a customer complained they couldn&#8217;t access the <a href="http://www.jesusandmo.net/">Jesus and Mo website</a> from one of our public PCs. Several people also contacted us on Twitter.
+breadcrumb: news
 ---
 Recently a customer complained they couldn&#8217;t access the [Jesus and Mo website](http://www.jesusandmo.net/) from one of our public PCs. Several people also contacted us on Twitter.
 

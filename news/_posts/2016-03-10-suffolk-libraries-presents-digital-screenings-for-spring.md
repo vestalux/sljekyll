@@ -5,6 +5,7 @@ date: 2016-03-10 10:05:52+00:00
 author: james-powell
 category: news
 excerpt: More events have been added to the Suffolk Libraries Presents digital screenings programme for the next two months.
+breadcrumb: news
 ---
 More events have been added to the Suffolk Libraries Presents digital screenings programme for the next two months.
 

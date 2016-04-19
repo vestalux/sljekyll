@@ -4,6 +4,7 @@ title: Raspberry Jam at Ipswich County Library’s new Innovation + Enterprise H
 date: 2015-07-21 12:10:25+00:00
 author: james-powell
 excerpt: A ‘Raspberry Jam’ event showcasing what the Raspberry Pi computer can offer is being held at Ipswich County Library’s new Enterprise and Innovation Hub on Saturday 8 August.
+breadcrumb: news
 ---
 A ‘Raspberry Jam’ event showcasing what the Raspberry Pi computer can offer is being held at Ipswich County Library’s new Enterprise and Innovation Hub on Saturday 8 August.
 

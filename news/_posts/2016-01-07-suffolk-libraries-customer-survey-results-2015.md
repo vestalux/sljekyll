@@ -5,6 +5,7 @@ date: 2016-01-07 12:50:14+00:00
 author: james-powell
 category: news
 excerpt: Our recent customer survey suggests satisfaction levels with the county’s library service have improved since the last survey in 2013.
+breadcrumb: news
 ---
 Our recent customer survey suggests satisfaction levels with the county’s library service have improved since the last survey in 2013. Nearly 1,700 people replied to the survey which was carried out in October to November last year, compared to 1,500 who took part in 2013. Here are some of the results:
 

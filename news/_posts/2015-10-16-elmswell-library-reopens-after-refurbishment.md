@@ -5,6 +5,7 @@ date: 2015-10-16 12:08:10+00:00
 author: james-powell
 category: news
 excerpt: Elmswell Library is set to reopen Tuesday 20 October following a massive refurbishment funded by generous fundraisers and local businesses.
+breadcrumb: news
 ---
 Elmswell Library is set to reopen Tuesday 20 October following a massive refurbishment funded by generous fundraisers and local businesses.
 

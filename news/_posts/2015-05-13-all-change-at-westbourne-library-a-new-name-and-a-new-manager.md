@@ -5,6 +5,7 @@ date: 2015-05-13 08:18:39+00:00
 author: james-powell
 category: news
 excerpt: Westbourne Library in Ipswich will be changing its name to Broomhill Library after a consultation with local people.
+breadcrumb: news
 ---
 Westbourne Library in Ipswich will be changing its name to Broomhill Library after a consultation with local people.
 

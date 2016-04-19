@@ -5,6 +5,7 @@ date: 2016-03-15 12:25:28+00:00
 author: james-powell
 category: news
 excerpt: Ipswich County Library’s Northgate Room is now licensed to hold weddings, civil ceremonies and other celebrations.
+breadcrumb: news
 ---
 Suffolk Libraries is launching a wedding venue with a difference.
 

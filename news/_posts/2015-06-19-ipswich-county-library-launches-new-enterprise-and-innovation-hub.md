@@ -5,6 +5,7 @@ date: 2015-06-19 15:00:05+00:00
 author: james-powell
 category: news
 excerpt: Suffolk Libraries has launched its new Enterprise + Innovation Hub in Ipswich County Library.
+breadcrumb: news
 ---
 Suffolk Libraries has launched its new Enterprise + Innovation Hub in Ipswich County Library.
 
@@ -28,6 +29,10 @@ Digby Chacksfield, CEO of the Eastern Enterprise Hub, said “We are pleased to 
 
 The new environment has been created to cater for the diverse needs of businesses, organisations and individuals. Larger businesses may be looking for neutral locations to meet with clients, smaller businesses and start-ups may not have their own professional premises and require economical and central meeting space for group work and interviews.
 
-The hub aims to provide somewhere to suit all these needs with three meeting rooms, a presentation suite, a hot-desk space, a large breakout area and a dedicated kitchen. Suffolk Libraries will also be working with local schools and academies to explore the potential benefits the space could provide for their students.<figure class="figure aligncenter">
+The hub aims to provide somewhere to suit all these needs with three meeting rooms, a presentation suite, a hot-desk space, a large breakout area and a dedicated kitchen. Suffolk Libraries will also be working with local schools and academies to explore the potential benefits the space could provide for their students.
 
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2015/06/hub-launch-lab-1024x683.jpg" alt="In the Lab: (L-R) Peter Callaghan, Henry Evans, Alison Wheeler, Jonathan Ogden and Tony Brown." width="1024" height="683" /><figcaption>In the Lab: (L-R) Peter Callaghan, Henry Evans, Alison Wheeler, Jonathan Ogden and Tony Brown.</figcaption></figure> <figure class="figure aligncenter"><img src="http://suffolklibraries.co.uk/wp-content/uploads/2015/06/hub-launch-2-683x1024.jpg" alt="In the Carnegie Room: (L-R) Sarah Stamp, Tony Brown, Alison Wheeler, Brian Ashley and John Stenhouse." width="683" height="1024" /><figcaption>In the Carnegie Room: (L-R) Sarah Stamp, Tony Brown, Alison Wheeler, Brian Ashley and John Stenhouse.</figcaption></figure>
+[![In the Lab: (L-R) Peter Callaghan, Henry Evans, Alison Wheeler, Jonathan Ogden and Tony Brown.](http://suffolklibraries.co.uk/wp-content/uploads/2015/06/hub-launch-lab-1024x683.jpg)]
+*In the Lab: (L-R) Peter Callaghan, Henry Evans, Alison Wheeler, Jonathan Ogden and Tony Brown.*
+
+[![In the Carnegie Room: (L-R) Sarah Stamp, Tony Brown, Alison Wheeler, Brian Ashley and John Stenhouse.](http://suffolklibraries.co.uk/wp-content/uploads/2015/06/hub-launch-2-683x1024.jpg)]
+*In the Carnegie Room: (L-R) Sarah Stamp, Tony Brown, Alison Wheeler, Brian Ashley and John Stenhouse.*

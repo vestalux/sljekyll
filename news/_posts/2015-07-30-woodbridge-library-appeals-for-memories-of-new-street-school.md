@@ -5,6 +5,7 @@ date: 2015-07-30 12:09:43+00:00
 author: james-powell
 category: news
 excerpt: Woodbridge Library is looking for staff or pupils of New Street School – which now houses the town’s library – to come forward with any memories or photographs.
+breadcrumb: news
 ---
 Woodbridge Library is looking for staff or pupils of New Street School – which now houses the town’s library – to come forward with any memories or photographs.
 

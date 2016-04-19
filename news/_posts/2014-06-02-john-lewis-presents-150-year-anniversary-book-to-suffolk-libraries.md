@@ -5,6 +5,7 @@ date: 2014-06-02 12:29:08+00:00
 author: james-powell
 category: news
 excerpt: Representatives from the Ipswich branch of John Lewis have presented Suffolk Libraries with a copy of their special 150 anniversary book on Monday.
+breadcrumb: news
 ---
 Representatives from the Ipswich branch of John Lewis have presented Suffolk Libraries with a copy of their special 150 anniversary book.
 

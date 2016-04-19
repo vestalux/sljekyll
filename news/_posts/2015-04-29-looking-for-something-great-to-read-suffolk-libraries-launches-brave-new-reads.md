@@ -5,6 +5,7 @@ date: 2015-04-29 14:31:09+00:00
 author: james-powell
 category: news
 excerpt: 'Suffolk Libraries is launching Brave New Reads on Friday 1 May &#8211; a list of six brilliant books and a series of related events aimed at readers who are looking for something different.'
+breadcrumb: news
 ---
 Suffolk Libraries is launching ‘Brave New Reads’ on Friday 1 May &#8211; a list of six brilliant books and a series of related events aimed at readers who are looking for something different.
 

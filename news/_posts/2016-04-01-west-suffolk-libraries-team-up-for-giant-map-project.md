@@ -5,6 +5,7 @@ date: 2016-04-01 12:40:04+00:00
 author: james-powell
 category: news
 excerpt: Several libraries in the west of the county have teamed up to launch a project to turn April into MAPril!
+breadcrumb: news
 ---
 Several libraries in the west of the county have teamed up to launch a project to turn April into MAPril!
 

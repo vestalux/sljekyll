@@ -5,6 +5,7 @@ date: 2015-06-04 08:33:19+00:00
 author: james-powell
 category: news
 excerpt: Leiston Library is hosting a celebration event on Tuesday 9 June to mark the library’s recent reopening and refurbishment.
+breadcrumb: news
 ---
 Leiston Library is hosting a celebration event on Tuesday 9 June to mark the library’s recent reopening and refurbishment.
 

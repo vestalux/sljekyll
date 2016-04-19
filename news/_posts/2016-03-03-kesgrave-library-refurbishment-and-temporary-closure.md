@@ -5,6 +5,7 @@ date: 2016-03-03 11:27:03+00:00
 author: james-powell
 category: news
 excerpt: Kesgrave Library will be closing for a week in April to enable extensive redecoration to take place. The library will be closed from Monday 18 April to Friday 22 April and reopening on Saturday 23 April at 10am.
+breadcrumb: news
 ---
 Kesgrave Library will be closing for a week in April to enable extensive redecoration to take place. The library will be closed from Monday 18 April to Friday 22 April and reopening on Saturday 23 April at 10am.
 

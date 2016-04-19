@@ -5,6 +5,7 @@ date: 2015-12-22 10:27:34+00:00
 author: james-powell
 category: news
 excerpt: Work at Sudbury Library is coming to an end, but there will be some changes to how you'll access the building in January.
+breadcrumb: news
 ---
 Extensive redecoration and refurbishment work at Sudbury Library is due to end in January, but there will be temporary changes to access while the final work is completed.
 

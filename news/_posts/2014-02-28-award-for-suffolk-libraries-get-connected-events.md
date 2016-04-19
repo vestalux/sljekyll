@@ -5,6 +5,7 @@ date: 2014-02-28 09:41:48+00:00
 author: leon-paternoster
 category: news
 excerpt: We won the Digital category award at this year's EDGE conference for our events that help you access our online services.
+breadcrumb: news
 ---
 We won the Digital category award at this year’s [EDGE library conference](http://edgeconference.co.uk/) in Edinburgh for our series of “Get Connected” events.
 

@@ -5,6 +5,7 @@ date: 2016-01-25 12:28:16+00:00
 author: alison-wheeler
 category: news
 excerpt: Remind government of their statutory duty to provide library services.
+breadcrumb: news
 ---
 [Sign the petition](http://www.cilip.org.uk/advocacy-campaigns-awards/advocacy-campaigns/my-library-right)
 

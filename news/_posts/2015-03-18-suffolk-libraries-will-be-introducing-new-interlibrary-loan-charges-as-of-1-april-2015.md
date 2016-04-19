@@ -5,6 +5,7 @@ date: 2015-03-18 14:51:11+00:00
 author: leon-paternoster
 category: news
 excerpt: 'Interlibrary loans will cost &pound;3 from April 2015. British Library interlibrary loans will cost &pound;13.80.'
+breadcrumb: news
 ---
 Interlibrary loans are a way of sourcing more specialist titles from other library services.
 

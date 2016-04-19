@@ -5,6 +5,7 @@ date: 2016-02-11 12:45:58+00:00
 author: james-powell
 category: news
 excerpt: Work to develop and upgrade Suffolk Coastal District Council’s Customer Services presence in the library is due to start on Monday 22 February and should be complete by the end of March.
+breadcrumb: news
 ---
 Work to develop and upgrade Suffolk Coastal District Council’s Customer Services presence in the library is due to start on Monday 22 February and should be complete by the end of March.
 

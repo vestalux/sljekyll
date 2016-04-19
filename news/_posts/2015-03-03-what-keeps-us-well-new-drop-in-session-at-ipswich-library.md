@@ -4,7 +4,8 @@ title: What keeps us well? New drop-in session at Ipswich Library
 date: 2015-03-03 14:46:58+00:00
 author: james-powell
 category: news
-excerpt: A new weekly drop in session at Ipswich County Library is offers a chance to chat and discuss ‘what it is to be well’.
+excerpt: "A new weekly drop in session at Ipswich County Library is offers a chance to chat and discuss ‘what it is to be well’."
+breadcrumb: news
 ---
 A new weekly drop in session at Ipswich County Library is offering a chance to chat to other people and discuss ‘what it is to be well’.
 

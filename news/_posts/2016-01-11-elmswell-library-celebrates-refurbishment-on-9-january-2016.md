@@ -5,14 +5,15 @@ date: 2016-01-11 15:08:24+00:00
 author: james-powell
 category: news
 excerpt: The Friends of Elmswell Library and Suffolk Libraries celebrated the recent refurbishment of the library at a special event on Saturday 9 January.
+breadcrumb: news
 ---
 The Friends of Elmswell Library and Suffolk Libraries celebrated the recent refurbishment of the library at a special event on Saturday 9 January.
 
 The event was a chance to thank everyone who helped to raise around £15,000 for the refurbishment project and involved the unveiling of a plaque listing everyone who has given their support.
 
-The library reopened in November after extensive work which involved decorating the library, installing new moveable shelving to create more space for community events, new furniture and improvements to the children and young people’s areas. There were also some small modifications to make the library ‘dementia friendly’.<figure>
+The library reopened in November after extensive work which involved decorating the library, installing new moveable shelving to create more space for community events, new furniture and improvements to the children and young people’s areas. There were also some small modifications to make the library ‘dementia friendly’.
 
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2016/01/featured-elmswell-refurb-3.jpg" alt="Elmswell Library refurbishment" class="alignnone" /></figure>
+[Elmswell Library refurbishment](http://suffolklibraries.co.uk/wp-content/uploads/2016/01/featured-elmswell-refurb-3.jpg)
 
 Emma Yarrow, Elmswell Library Manager, said:
 
@@ -26,4 +27,4 @@ Jimmy Jewell, Chair of the Elmswell Library Friends (ELF) said:
 
 > ELF is delighted to have raised the money which made this work possible. Grateful thanks are extended to all those who kindly donated towards the appeal and to all those who have helped in making the various fund raising events such a success. Refurbishing the library was a massive team effort, and the response from customers has been incredible. We believe it is the pride of Elmswell. <figure>
 
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2016/01/featured-elmswell-refurb-2.jpg" alt="Elmswell Library refurbishment" class="alignnone" /></figure>
+[Elmswell Library refurbishment](http://suffolklibraries.co.uk/wp-content/uploads/2016/01/featured-elmswell-refurb-2.jpg)

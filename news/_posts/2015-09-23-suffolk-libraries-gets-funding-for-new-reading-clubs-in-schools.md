@@ -5,6 +5,7 @@ date: 2015-09-23 07:50:27+00:00
 author: james-powell
 category: news
 excerpt: Suffolk Libraries will be working with ten of the county’s primary schools to set up new Chatterbooks reading clubs to support reading for pleasure and encourage more year three pupils to join the library.
+breadcrumb: news
 ---
 Suffolk Libraries will be working with ten of the county’s primary schools to set up new Chatterbooks reading clubs to support reading for pleasure and encourage more year three pupils to join the library.
 

@@ -5,6 +5,7 @@ date: 2015-10-14 09:09:54+00:00
 author: james-powell
 category: news
 excerpt: On Saturday 7 November, Suffolk Libraries will be showcasing its free digital music service across all 44 of the county’s libraries.
+breadcrumb: news
 ---
 On Saturday 7 November, Suffolk Libraries will be showcasing its free digital music service across all 44 of the county’s libraries.
 

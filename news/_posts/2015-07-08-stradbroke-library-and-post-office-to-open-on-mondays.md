@@ -5,6 +5,7 @@ date: 2015-07-08 08:33:33+00:00
 author: james-powell
 category: news
 excerpt: Following a consultation with customers, Stradbroke Library and Post Office is changing its opening hours from Monday 3 August.
+breadcrumb: news
 ---
 Following a consultation with customers, Stradbroke Library and Post Office is changing its opening hours from Monday 3 August.
 

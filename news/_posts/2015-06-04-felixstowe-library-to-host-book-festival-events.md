@@ -5,6 +5,7 @@ date: 2015-06-04 08:55:48+00:00
 author: james-powell
 category: news
 excerpt: Felixstowe Library will again be one of the key venues for the third Felixstowe Book Festival.
+breadcrumb: news
 ---
 Felixstowe Library will again be one of the key venues for the third Felixstowe Book Festival.
 

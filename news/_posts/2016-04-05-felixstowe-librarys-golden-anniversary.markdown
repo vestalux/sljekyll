@@ -5,6 +5,7 @@ date:   2016-04-05 13:22:16 +0100
 author: james-powell
 category: news
 excerpt: This April marks 50 years since Felixstowe Library opened for the first time.
+breadcrumb: news
 ---
 
 This April marks 50 years since [Felixstowe Library](http://suffolklibraries.co.uk/branches/felixstowe-library) opened for the first time.

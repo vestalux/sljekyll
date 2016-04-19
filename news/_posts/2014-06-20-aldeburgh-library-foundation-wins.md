@@ -5,6 +5,7 @@ date: 2014-06-20 15:33:18+00:00
 author: james-powell
 category: news
 excerpt: The Aldeburgh Library Foundation has won 'Learning Project of the Year' at the Suffolk Adult Learners Awards 2014!
+breadcrumb: news
 ---
 The Aldeburgh Library Foundation has won &#8216;Learning Project of the Year&#8217; at the Suffolk Adult Learners Awards 2014!
 

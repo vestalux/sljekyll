@@ -4,6 +4,7 @@ title: Suffolk Libraries AGM 2014
 date: 2014-09-12 10:30:09+00:00
 author: leon-paternoster
 excerpt: 'Report on our 2014 annual general meeting. Download the 2013&#8211;2014 accounts and annual review and the 2013 AGM minutes.'
+breadcrumb: news
 ---
 Our AGM took place on Thursday 11 September at the Suffolk Food Hall, just outside Ipswich. Around 100 people attended, including membership group representatives from all over the county.
 

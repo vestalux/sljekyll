@@ -5,6 +5,7 @@ date: 2015-06-26 09:20:27+00:00
 author: james-powell
 category: news
 excerpt: Westbourne Library in Ipswich will be officially changing its name to Broomhill Library next Saturday (4 July) at the annual Broomhill Summer Fete.
+breadcrumb: news
 ---
 Westbourne Library in Ipswich will be officially changing its name to [Broomhill Library](http://suffolklibraries.co.uk/branches/broomhill-library) next Saturday (4 July) at the annual Broomhill Summer Fete.
 

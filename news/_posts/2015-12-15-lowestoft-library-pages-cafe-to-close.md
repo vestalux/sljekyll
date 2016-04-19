@@ -5,6 +5,7 @@ date: 2015-12-15 08:35:11+00:00
 author: james-powell
 category: news
 excerpt: Lowestoft Library Pages cafe will close on December 24.
+breadcrumb: news
 ---
 Lowestoft Library Pages cafe will close on December 24.
 

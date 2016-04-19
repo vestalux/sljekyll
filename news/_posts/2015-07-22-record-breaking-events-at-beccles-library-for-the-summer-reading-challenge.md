@@ -5,6 +5,7 @@ date: 2015-07-22 12:41:29+00:00
 author: james-powell
 category: news
 excerpt: Beccles Library is holding two Record Breaking Challenge afternoon events as part of this year’s Summer Reading Challenge.
+breadcrumb: news
 ---
 Beccles Library is holding two Record Breaking Challenge afternoon events as part of this year’s Summer Reading Challenge.
 

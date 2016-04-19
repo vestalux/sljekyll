@@ -10,8 +10,7 @@ Mr B the Gentleman Rhymer is to return to Ipswich next year. The dapper rapper w
 
 The world’s leading exponent of chap-hop, the musical marriage of civility and street, where Edwardian manners meet lyrical mastery, said, “It is wonderful to be returning to Ipswich, where I played many of my early shows and to be playing at a seat of learning such as the County Library will be quite an honour.”
 
-<div class="flex-video">
-</div>
+https://www.youtube.com/watch?v=6t28COxEp2k
 
 Support comes from Cambridge’s celebrated electronic musical artist Pete Um, who recently supported Hot Chip on their UK arena tour to great acclaim.
 

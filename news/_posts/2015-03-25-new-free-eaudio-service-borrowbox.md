@@ -5,6 +5,7 @@ date: 2015-03-25 15:10:58+00:00
 author: leon-paternoster
 category: news
 excerpt: "We're launching a new eAudio book service on 1 April where you'll be able to download eAudio by top authors like John le Carre, David Baldacci, Ian McEwan, Patrick Ness and Jacqueline Wilson."
+breadcrumb: news
 ---
 We&#8217;re launching a new eAudio book service on 1 April to improve customers’ choice and enjoyment.
 

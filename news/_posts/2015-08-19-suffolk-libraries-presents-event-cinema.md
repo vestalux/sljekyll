@@ -5,6 +5,7 @@ date: 2015-08-19 11:19:50+00:00
 author: james-powell
 category: news
 excerpt: 'Suffolk Libraries, in partnership with <a href="http://www.creativeartseast.co.uk/">Creative Arts East</a>, is launching an innovative new project which brings quality theatre and exhibition events to Suffolk communities using the latest digital screening equipment. The first events have now been confirmed at Gainsborough and Hadleigh libraries.'
+breadcrumb: news
 ---
 Suffolk Libraries, in partnership with [Creative Arts East](http://www.creativeartseast.co.uk/), has announced new events as part of the innovative new project which is bringing quality theatre and exhibition events to Suffolk communities using the latest digital screening equipment.
 

@@ -5,6 +5,7 @@ date: 2015-09-29 08:31:47+00:00
 author: leon-paternoster
 category: news
 excerpt: Enter the Ipswich County Library Reading Championship of 2015 and win a Kobo!
+breadcrumb: news
 ---
 We&#8217;re excited to be running a new competition for younger readers at Ipswich County Library.
 

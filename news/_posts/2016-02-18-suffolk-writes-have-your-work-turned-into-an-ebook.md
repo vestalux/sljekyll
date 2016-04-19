@@ -5,6 +5,7 @@ date: 2016-02-18 15:42:15+00:00
 author: james-powell
 category: news
 excerpt: Suffolk Libraries are launching Suffolk Writes, an exciting new pilot project giving up and coming writers the opportunity to have their written work turned into a library eBook.
+breadcrumb: news
 ---
 Suffolk Libraries are launching ‘Suffolk Writes’, an exciting new pilot project giving up and coming writers the opportunity to have their written work turned into a library eBook.
 

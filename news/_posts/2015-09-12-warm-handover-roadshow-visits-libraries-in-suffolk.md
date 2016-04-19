@@ -5,6 +5,7 @@ date: 2015-09-12 14:14:13+00:00
 author: james-powell
 category: news
 excerpt: Several libraries in Suffolk will be hosting more Warm Handover Roadshows on Thursday 17 September, Friday 18 September and Thursday 24 September.
+breadcrumb: news
 ---
 Several libraries in Suffolk will be hosting more Warm Handover Roadshows from next week.
 

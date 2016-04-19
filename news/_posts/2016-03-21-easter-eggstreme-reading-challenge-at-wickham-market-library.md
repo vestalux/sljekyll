@@ -5,6 +5,7 @@ date: 2016-03-21 13:44:31+00:00
 author: leon-paternoster
 category: news
 excerpt: 'Under 12s: enter the 3rd Wickham Market Easter reading challenge and get a free Lindt chocolate egg.'
+breadcrumb: news
 ---
 [Wickham Market Library](http://suffolklibraries.co.uk/branches/wickham-market-library) are holding their Easter Eggstreme Reading Challenge again this year.
 

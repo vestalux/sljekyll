@@ -5,6 +5,7 @@ date: 2015-12-10 14:50:17+00:00
 author: james-powell
 category: news
 excerpt: Suffolk Coastal and Suffolk Libraries are sharing plans for the new customer service facility at Woodbridge Library.
+breadcrumb: news
 ---
 Suffolk Coastal and Suffolk Libraries are sharing plans for the new customer service facility at Woodbridge Library.
 

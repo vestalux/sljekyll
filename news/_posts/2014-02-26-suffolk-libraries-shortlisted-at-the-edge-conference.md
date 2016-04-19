@@ -5,6 +5,7 @@ date: 2014-02-26 18:01:52+00:00
 author: james-powell
 category: news
 excerpt: For the second year running Suffolk Libraries has been shortlisted for an award at this week’s EDGE library conference in Edinburgh.
+breadcrumb: news
 ---
 For the second year running Suffolk Libraries has been shortlisted for an award at this week’s EDGE library conference in Edinburgh.
 

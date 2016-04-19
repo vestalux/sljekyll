@@ -5,6 +5,7 @@ date: 2015-05-01 09:01:18+00:00
 author: james-powell
 category: news
 excerpt: Leiston Library is reopening Tuesday 5 May after extensive refurbishment and improvement works.
+breadcrumb: news
 ---
 Leiston Library is reopening next Tuesday (5 May) after extensive refurbishment and improvement works.
 

@@ -5,6 +5,7 @@ date: 2016-02-16 12:38:23+00:00
 author: leon-paternoster
 category: news
 excerpt: You can now pay your library fines over the phone. Call our payment line on 01473 351249 with your card details and we’ll take your payment.
+breadcrumb: news
 ---
 You can now pay your library fines over the phone. Call our payment line on 01473 351249 with your card details and we’ll take your payment.
 

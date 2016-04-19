@@ -5,6 +5,7 @@ date: 2015-08-03 12:43:22+00:00
 author: james-powell
 category: news
 excerpt: From August 2015, Suffolk Libraries customers can access free downloadable electronic magazines as well as eBooks, eAudio books and music.
+breadcrumb: news
 ---
 From August 2015, Suffolk Libraries customers can access free downloadable electronic magazines as well as eBooks, eAudio books and music.
 

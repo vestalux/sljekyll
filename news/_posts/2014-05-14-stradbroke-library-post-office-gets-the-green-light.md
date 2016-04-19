@@ -5,6 +5,7 @@ date: 2014-05-14 08:53:46+00:00
 author: james-powell
 category: news
 excerpt: Stradbroke Library will be hosting a new post office later this year.
+breadcrumb: news
 ---
 It has been confirmed this week that [Stradbroke Librar](http://suffolklibraries.co.uk/branches/stradbroke-library/ "Stradbroke Library")<span style="text-decoration: underline;"><a title="Stradbroke Library" href="http://suffolklibraries.co.uk/branches/stradbroke-library/">y</a> </span>will host a new Post Office &#8211; meaning that Suffolk Libraries may be one of the first library services in the country to run a post office.
 

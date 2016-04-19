@@ -5,6 +5,7 @@ date: 2016-03-30 14:40:48+00:00
 author: james-powell
 category: news
 excerpt: Beccles Library will be increasing its opening hours next month thanks to additional funding from the Beccles Library Community Trust.
+breadcrumb: news
 ---
 Beccles Library will be increasing its opening hours next month thanks to additional funding from the Beccles Library Community Trust.
 

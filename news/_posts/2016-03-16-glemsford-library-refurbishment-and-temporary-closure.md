@@ -5,6 +5,7 @@ date: 2016-03-16 13:31:31+00:00
 author: leon-paternoster
 category: news
 excerpt: Glemsford Library will be closing temporarily for just over a week next month to enable refurbishment to take place. The library will be closed from Tuesday 12 April and reopening on Thursday 21 April.
+breadcrumb: news
 ---
 Glemsford Library will be closing temporarily for just over a week next month to enable refurbishment to take place. The library will be closed from Tuesday 12 April and reopening on Thursday 21 April.
 

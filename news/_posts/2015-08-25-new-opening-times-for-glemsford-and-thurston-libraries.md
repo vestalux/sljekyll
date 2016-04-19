@@ -5,6 +5,7 @@ date: 2015-08-25 10:32:11+00:00
 author: james-powell
 category: news
 excerpt: Glemsford and Thurston libraries are changing their opening hours from Monday 14 September.
+breadcrumb: news
 ---
 Glemsford and Thurston libraries are changing their opening hours from Monday 14 September.
 

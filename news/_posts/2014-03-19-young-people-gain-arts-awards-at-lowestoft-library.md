@@ -5,6 +5,7 @@ date: 2014-03-19 13:47:55+00:00
 author: james-powell
 category: news
 excerpt: Eight young people will be receiving their arts award at Lowestoft Library on Saturday 22 March.
+breadcrumb: news
 ---
 Eight young people will be receiving their arts award at Lowestoft Library this Saturday (22 March).
 

@@ -5,6 +5,7 @@ date: 2014-12-18 12:00:39+00:00
 author: leon-paternoster
 category: news
 excerpt: We welcome the Independent Library Report for England on the future of public libraries. Read our full comment.
+breadcrumb: news
 ---
 Suffolk Libraries has welcomed the [Independent Library Report for England on the future of public libraries](https://www.gov.uk/government/publications/independent-library-report-for-england) which has been published today (Thursday 18 December).
 

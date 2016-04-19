@@ -5,6 +5,7 @@ date: 2015-07-08 13:21:15+00:00
 author: james-powell
 category: news
 excerpt: In what may be the first scheme of its kind in the country, Halesworth Library is launching a new iPad lending service to customers.
+breadcrumb: news
 ---
 In what may be the first scheme of its kind in the country, Halesworth Library is launching a new iPad lending service to customers.
 

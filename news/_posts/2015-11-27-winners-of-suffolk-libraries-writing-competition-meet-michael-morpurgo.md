@@ -5,6 +5,7 @@ date: 2015-11-27 10:01:25+00:00
 author: james-powell
 category: news
 excerpt: Two lucky children met children’s author Michael Morpurgo at St Edmundsbury Cathedral recently and presented him with their winning entries to Suffolk Libraries ‘Best Christmas Present in the World’ competition.
+breadcrumb: news
 ---
 Two lucky children met children’s author Michael Morpurgo at St Edmundsbury Cathedral recently and presented him with their winning entries to Suffolk Libraries ‘Best Christmas Present in the World’ competition.
 

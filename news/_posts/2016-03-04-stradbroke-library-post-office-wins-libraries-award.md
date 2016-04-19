@@ -5,6 +5,7 @@ date: 2016-03-04 11:45:02+00:00
 author: james-powell
 category: news
 excerpt: Stradbroke Library’s post office has won a national libraries award. The library’s post office was announced as the winner of the ‘Social’ category in the EDGE library conference awards in Edinburgh on the evening of Thursday 3 March.
+breadcrumb: news
 ---
 Stradbroke Library’s post office has won a national libraries award. The library’s post office was announced as the winner of the ‘Social’ category in the EDGE library conference awards in Edinburgh on the evening of Thursday 3 March.
 

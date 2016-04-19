@@ -5,6 +5,7 @@ date: 2015-09-11 11:00:03+00:00
 author: leon-paternoster
 category: news
 excerpt: We held the 3rd Suffolk Libraries Annual General Meeting last night at Suffolk Food Hall in Wherstead, Ipswich.
+breadcrumb: news
 ---
 We held the 3rd Suffolk Libraries Annual General Meeting last night at Suffolk Food Hall in Wherstead, Ipswich.
 
@@ -28,12 +29,14 @@ The vote for chair, vice-chair and honorary secretary will take place at the fir
 
 * * *
 
-Joanna Trollope gave a speech about the her role in the Library Task Force, noting how impressed she is with Suffolk Libraries and how the Suffolk Libraries model is a benchmark for other authorities. Her words were ‘Suffolk has got it!’<figure class="figure aligncenter">
+Joanna Trollope gave a speech about the her role in the Library Task Force, noting how impressed she is with Suffolk Libraries and how the Suffolk Libraries model is a benchmark for other authorities. Her words were ‘Suffolk has got it!’
 
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2015/09/wheeler-trollope.jpg" alt="General manager Alison Wheeler and Joanna Trollope" width="720" height="556" /><figcaption>General manager Alison Wheeler and Joanna Trollope</figcaption></figure>
+[General manager Alison Wheeler and Joanna Trollope](http://suffolklibraries.co.uk/wp-content/uploads/2015/09/wheeler-trollope.jpg)
+*General manager Alison Wheeler and Joanna Trollope*
 
-The evening, sponsored by Birketts Solicitors, Blue Star HR and Eclipse Office Furniture, was attended by just over 115 people.<figure class="figure aligncenter">
+The evening, sponsored by Birketts Solicitors, Blue Star HR and Eclipse Office Furniture, was attended by just over 115 people.
 
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2015/09/gleave-rowling.jpg" alt="Library managers Liz Gleave and Gayla Rowling" width="740" height="323" /><figcaption>Library managers Liz Gleave and Gayla Rowling</figcaption></figure>
+[Library managers Liz Gleave and Gayla Rowling](http://suffolklibraries.co.uk/wp-content/uploads/2015/09/gleave-rowling.jpg)
+*Library managers Liz Gleave and Gayla Rowling*
 
 Download a copy of our [Annual Review](http://suffolklibraries.co.uk/wp-content/uploads/2015/09/SLAnnualReview2014-2015.pdf).

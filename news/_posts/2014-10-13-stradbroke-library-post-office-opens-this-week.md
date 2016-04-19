@@ -5,6 +5,7 @@ date: 2014-10-13 10:44:23+00:00
 author: james-powell
 category: news
 excerpt: Suffolk’s newest post office will open in Stradbroke Library this week.
+breadcrumb: news
 ---
 Suffolk’s newest post office has opened in Stradbroke Library.
 

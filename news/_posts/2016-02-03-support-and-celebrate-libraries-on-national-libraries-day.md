@@ -5,6 +5,7 @@ date: 2016-02-03 11:59:16+00:00
 author: james-powell
 category: news
 excerpt: Suffolk Libraries are calling on people to show their support for libraries as National Libraries Day approaches by signing a national petition.
+breadcrumb: news
 ---
 Suffolk Libraries are calling on people to show their support for libraries as National Libraries Day approaches by signing a national petition.
 

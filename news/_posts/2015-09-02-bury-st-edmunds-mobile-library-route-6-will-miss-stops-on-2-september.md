@@ -4,6 +4,7 @@ title: Bury St Edmunds Mobile Library Route 6 will miss stops on 2 September
 date: 2015-09-02 08:22:38+00:00
 author: james-powell
 category: news
+breadcrumb: news
 ---
 The Bury St Edmunds mobile library will not be running today due to the vehicle currently being off the road.
 

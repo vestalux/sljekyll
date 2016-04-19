@@ -5,6 +5,7 @@ date: 2014-06-05 17:03:07+00:00
 author: james-powell
 category: news
 excerpt: Following our recent launch of a pilot project to lend eReaders to library customers at Thurston Library, we've already had some great feedback from a customer.
+breadcrumb: news
 ---
 Following our recent launch of a pilot project to lend eReaders to library customers at [Thurston Library](http://suffolklibraries.co.uk/branches/thurston-library/ "Thurston Library"), we&#8217;ve already had some great feedback from a customer.
 

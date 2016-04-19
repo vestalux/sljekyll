@@ -5,6 +5,7 @@ date: 2014-08-01 08:22:06+00:00
 author: leon-paternoster
 category: news
 excerpt: Suffolk Libraries celebrates 2 year anniversary and all 44 libraries setting up community group member organisations.
+breadcrumb: news
 ---
 Suffolk’s Libraries Industrial & Provident Society (Suffolk Libraries) is celebrating its second birthday with the news that it now has 44 members representing all of the county’s libraries.
 

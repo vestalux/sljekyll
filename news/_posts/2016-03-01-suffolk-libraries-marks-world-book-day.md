@@ -5,6 +5,7 @@ date: 2016-03-01 14:56:08+00:00
 author: james-powell
 category: news
 excerpt: This Thursday (3 March) is World Book Day and Suffolk Libraries is marking the date by launching a competition to encourage people to get involved with its Year of Reading campaign.
+breadcrumb: news
 ---
 This Thursday (3 March) is World Book Day and Suffolk Libraries is marking the date by launching a competition to encourage people to get involved with its Year of Reading campaign.
 

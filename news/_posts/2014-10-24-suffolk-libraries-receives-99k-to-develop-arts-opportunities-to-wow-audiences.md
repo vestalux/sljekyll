@@ -5,6 +5,7 @@ date: 2014-10-24 14:47:14+00:00
 author: james-powell
 category: news
 excerpt: "Arts Council England has funded Suffolk Libraries over £99,000 through their 'Grants for the Arts' scheme."
+breadcrumb: news
 ---
 Suffolk Libraries has been awarded just over £99,000 by Arts Council England (ACE) to develop new arts opportunities. The money will be used to help establish an initial eight libraries as spaces where the arts can be enjoyed and experienced with a focus on projecting high quality recorded performances in the library. The eight libraries involved are **Ixworth**, **Felixstowe**, **Gainsborough**, **Glemsford**, **Hadleigh**, **Lowestoft**, **Capel St Mary** and **Stradbroke**, representing a range of libraries and locations across the county.
 

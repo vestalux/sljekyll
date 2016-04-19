@@ -5,6 +5,7 @@ date: 2014-05-13 16:05:07+00:00
 author: james-powell
 category: news
 excerpt: Waveney District Council's new Customer Services facility at Beccles Library has had its official launch.
+breadcrumb: news
 ---
 Waveney District Council&#8217;s new Customer Services facility at [Beccles Library](http://suffolklibraries.co.uk/branches/beccles-library/ "Beccles Library") has had its official launch.
 

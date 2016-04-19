@@ -5,6 +5,7 @@ date: 2015-11-18 19:42:54+00:00
 author: james-powell
 category: news
 excerpt: "Our response to Suffolk County Council's budget proposals."
+breadcrumb: news
 ---
 The county council’s budget proposals include a reduction of 11% to Suffolk’s library service over the next two years &#8211; £350,000 each year in 2016/17 and 2017/18 (see [the Council&#8217;s proposals: Agenda Item 05 Evidence Set 1, Scrutiny Committee meeting 26 November 2015](http://committeeminutes.suffolkcc.gov.uk/searchResult.aspx?qry=c_committee~~Scrutiny%20Committee)).
 

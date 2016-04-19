@@ -5,6 +5,7 @@ date: 2015-11-05 13:26:54+00:00
 author: james-powell
 category: news
 excerpt: Suffolk Libraries is supporting the launch of a new addition to the National Learning Offers available from libraries.
+breadcrumb: news
 ---
 Suffolk Libraries is supporting the launch of a new addition to the National Learning Offers available from libraries.
 
@@ -14,11 +15,7 @@ Suffolk Libraries already offers four core Universal Learning Offers – Health,
 
 Suffolk Libraries also features in a new short film ‘Lightbulb Moments – Learning in Libraries’ which has been created to highlight the impact that learning in libraries has had on customers across the country. The film features the successful Adult Learning Courses held at Aldeburgh Library and will be available on the SCL website [www.goscl.com](http://www.goscl.com).
 
-<div class="flex-video">
-  <p>
-    <a href="https://vimeo.com/144646119">LM01_Community_FC_HD_H264</a> from <a href="https://vimeo.com/user45283601">Elizabeth Elford</a> on <a href="https://vimeo.com">Vimeo</a>.
-  </p>
-</div>
+https://vimeo.com/144646119
 
 The Universal Learning Offer is available in all library services across England and brings together hundreds of unique self-directed learning opportunities for library users, and broadens the range of learning opportunities on offer in local libraries.
 

@@ -5,18 +5,11 @@ date: 2015-10-06 08:26:03+00:00
 author: leon-paternoster
 category: news
 excerpt: Americana legends play the library on Saturday 7 November.
+breadcrumb: news
 ---
 After a summer playing festivals including Port Eliot, Cornbury and Larmer Tree, and a year that saw airplay on Radio 2, BBC 6Music, BBC Scotland, BBC London and BBC Wales, [Police Dog Hogan](http://www.policedoghogan.com/) are back on the road with a string of live dates for late 2015 and early 2016.
 
-<div class="panel">
-  <p>
-    The band play Ipswich County Library on Saturday 7 November, and will be supported by local duo <a href="http://www.honeyandthebear.co.uk">Honey and the Bear</a>.
-  </p>
-
-  <p>
-    Tickets available from Ipswich County Library or <a href="https://www.ticketsource.co.uk/date/161592">buy tickets online</a>. Doors 7.30 for 8.00 start.
-  </p>
-</div>
+The band play Ipswich County Library on Saturday 7 November, and will be supported by local duo [Honey and the Bear](http://www.honeyandthebear.co.uk).
 
 There are 8 members in the line-up, including <cite>the Guardian’s</cite> Tim Dowling, who often writes about their gigs and the ‘band that I’m in’. Instruments include guitar, accordion, banjo, mandolin, fiddle and trumpet.
 
@@ -24,10 +17,9 @@ Police Dog Hogan draw their influences from many different wells. You could call
 
 Their most recent CD, the uniformly well-received <cite>Westward Ho!</cite>, was praised for its “wit, passion, eccentricity and unrelenting excellence”. Their live shows are no less passionate or unrelenting. “At Maverick they huffed and puffed and blew the house down, leaving a trail of destruction in their wake,” said Louise Rogers of <cite>Americana UK</cite>.
 
-## Praise for Westward Ho!
+## Praise for Westward Ho
 
-<div class="flex-video">
-</div>
+https://www.youtube.com/watch?v=4il5cpldI0Y
 
 “…an intelligence and maturity behind the songs here… bold infectious and affecting” &#8211; <cite>R2 Magazine</cite>
 

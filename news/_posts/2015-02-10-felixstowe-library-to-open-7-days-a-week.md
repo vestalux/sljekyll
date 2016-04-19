@@ -5,6 +5,7 @@ date: 2015-02-10 12:44:31+00:00
 author: leon-paternoster
 category: news
 excerpt: From Monday 16 February Felixstowe Library will open 7 days a week and provide Suffolk Coastal District Council's customer and information services.
+breadcrumb: news
 ---
 From Monday 16 February Felixstowe Library will be open 7 days a week.
 
