@@ -5,6 +5,7 @@ date: 2015-11-02 09:30:02+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: Latest children's books featuring the new Judith Kerr book, <cite>Mister Cleghorn's seal</cite>.
+breadcrumb: childrens-book-lists
 ---
 ## Picture books
 

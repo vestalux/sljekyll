@@ -5,6 +5,7 @@ date: 2016-04-05 09:38:26+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: 116 new releases and new editions of children’s and YA books published on "Super Thursday" 7 April.
+breadcrumb: childrens-book-lists
 ---
 Over 120 children’s titles are being published on just this one day, 7 April 2016 for one of the biggest “Super Thursday” in years.
 

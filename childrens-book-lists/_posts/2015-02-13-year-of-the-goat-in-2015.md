@@ -5,6 +5,7 @@ date: 2015-02-13 09:39:35+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: Goat-themed books to celebrate the Chinese new year.
+breadcrumb: childrens-book-lists
 ---
 ## Junior non-fiction
 

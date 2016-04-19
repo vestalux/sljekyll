@@ -5,6 +5,7 @@ date: 2015-07-31 13:23:13+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: Brand new selection of board books, picture books, junior and YA books.
+breadcrumb: childrens-book-lists
 ---
 ## Board books
 

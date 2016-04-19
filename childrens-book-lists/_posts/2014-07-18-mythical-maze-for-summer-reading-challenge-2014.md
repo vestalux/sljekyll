@@ -5,6 +5,7 @@ date: 2014-07-18 12:43:27+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: Myth and monster books to keep your children reading over the summer. Ideal for the Summer Reading Challenge.
+breadcrumb: childrens-book-lists
 ---
 # Summer Reading Challenge reading list
 

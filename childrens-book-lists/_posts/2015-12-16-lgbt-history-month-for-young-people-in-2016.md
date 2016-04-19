@@ -5,6 +5,7 @@ date: 2015-12-16 15:47:55+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: Celebrate LGBT History Month this February with books aimed at ages ranging from young children to young adults.
+breadcrumb: childrens-book-lists
 ---
 ## Picture books
 

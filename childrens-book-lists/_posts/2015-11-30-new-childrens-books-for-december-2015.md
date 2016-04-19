@@ -5,6 +5,7 @@ date: 2015-11-30 11:35:28+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: New releases from Jacqueline Wilson, Christ Priestley, Rainbow Rowell, Sandi Toksvig and more.
+breadcrumb: childrens-book-lists
 ---
 ## Board books
 

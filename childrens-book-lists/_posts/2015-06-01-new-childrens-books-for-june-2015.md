@@ -5,6 +5,7 @@ date: 2015-06-01 08:23:50+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: This month offers a range of books about troublesome toddler gorillas to successful vloggers.
+breadcrumb: childrens-book-lists
 ---
 ## Picture books
 

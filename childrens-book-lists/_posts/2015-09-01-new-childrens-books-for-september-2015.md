@@ -5,6 +5,7 @@ date: 2015-09-01 08:50:24+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: Books, eBooks and eAudiobooks for children and teens, including new titles from Terry Pratchett and Louis Sachar.
+breadcrumb: childrens-book-lists
 ---
 ## Picture books
 

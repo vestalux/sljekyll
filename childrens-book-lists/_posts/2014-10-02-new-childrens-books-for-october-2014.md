@@ -5,6 +5,7 @@ date: 2014-10-02T09:11:25+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: Including an alien abduction, <cite>This Book Just Ate my Dog</cite> and a thriller at the Burghley horse trials.
+breadcrumb: childrens-book-lists
 ---
 ## Picture books
 

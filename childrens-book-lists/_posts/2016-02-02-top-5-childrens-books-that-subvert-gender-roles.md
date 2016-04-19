@@ -5,6 +5,7 @@ date: 2016-02-02 12:51:39+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: In honour of LGBT month, here are 5 great books that challenge gender stereotypes.
+breadcrumb: childrens-book-lists
 ---
 ## [<cite>Princess Smartypants</cite> by Babette Cole](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16361811?QRY=CTIBIB%3C%20IRN(77646)&QRYTEXT=Princess%20Smartypants)
 

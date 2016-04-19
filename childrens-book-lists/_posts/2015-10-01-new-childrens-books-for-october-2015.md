@@ -5,6 +5,7 @@ date: 2015-10-01 09:05:47+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: Curl up this autumn with one of our top new books, with topics covering beasts and bears to bobble hats.
+breadcrumb: childrens-book-lists
 ---
 ## Board books
 

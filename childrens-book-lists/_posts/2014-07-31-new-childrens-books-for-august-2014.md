@@ -5,9 +5,8 @@ date: 2014-07-31 10:56:07+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: Books to reserve and download, including a Michael Morpurgo Great War anthology, a new Julia Donaldson and Axel Scheffler picturebook about a scarecrow wedding and a choose your own adventure. Perfect for the Summer Reading Challenge.
+breadcrumb: childrens-book-lists
 ---
-Perfect for the Summer Reading Challenge… our stock unit picks the best children&#8217;s fiction for the summer holidays.
-
 ## Books to reserve and collect from your library
 
 ### Picture books

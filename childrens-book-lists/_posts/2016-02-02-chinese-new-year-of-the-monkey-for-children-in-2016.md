@@ -5,6 +5,7 @@ date: 2016-02-02 09:09:39+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: Celebrate the Chinese New Year with our monkey-themed children's books.
+breadcrumb: childrens-book-lists
 ---
 ## Board books about monkeys
 

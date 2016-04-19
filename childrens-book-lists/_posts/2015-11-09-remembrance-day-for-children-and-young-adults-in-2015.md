@@ -5,6 +5,7 @@ date: 2015-11-09 09:22:58+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: Books for children and teenagers about growing up in World War One and World War Two.
+breadcrumb: childrens-book-lists
 ---
 ## Short chapter books
 

@@ -5,6 +5,7 @@ date: 2015-02-06 12:46:22+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: Celebrate Valentine's day with books about love - and chocolate.
+breadcrumb: childrens-book-lists
 ---
 ## Board books
 

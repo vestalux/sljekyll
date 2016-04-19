@@ -5,6 +5,7 @@ date: 2015-02-24 15:58:35+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: New books, eBooks and eAudiobooks with authors such as Julia Jarman, Rebecca Ashdown and James Campbell.
+breadcrumb: childrens-book-lists
 ---
 ## Picture books
 

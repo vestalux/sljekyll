@@ -5,6 +5,7 @@ date: 2015-11-06 16:06:05+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: There are so many fab information books for children. Here are a few, new recommended choices you can borrow.
+breadcrumb: childrens-book-lists
 ---
 ## [<cite>Picturepedia: an encyclopedia on every page</cite> by Ann Baggaley](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3758022?QRY=CTIBIB%3C%20IRN(53892098)&QRYTEXT=Picturepedia%20%3A%20an%20encyclopedia%20on%20every%20page)
 

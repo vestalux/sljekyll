@@ -5,6 +5,7 @@ date: 2015-04-01 08:24:59+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: New children's books, from picture books up to younger teens.
+breadcrumb: childrens-book-lists
 ---
 ## Picture books
 

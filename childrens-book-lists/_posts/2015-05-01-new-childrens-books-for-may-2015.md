@@ -5,6 +5,7 @@ date: 2015-05-01 08:03:05+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: All the best new books for young children, older children and teenagers.
+breadcrumb: childrens-book-lists
 ---
 ## Picture books
 

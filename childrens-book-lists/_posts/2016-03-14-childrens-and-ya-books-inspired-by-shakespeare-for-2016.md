@@ -5,6 +5,7 @@ date: 2016-03-14 09:52:02+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: Young people's books to celebrate <a href="http://shakespeareweek.org.uk/">Shakespeare Week</a>, which runs from 14-20 March.
+breadcrumb: childrens-book-lists
 ---
 ## Junior novels
 

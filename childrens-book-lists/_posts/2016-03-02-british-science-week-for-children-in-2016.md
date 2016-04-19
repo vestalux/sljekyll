@@ -5,6 +5,7 @@ date: 2016-03-02 11:12:56+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: '<a href="https://www.britishscienceweek.org/">British Science Week</a> runs from 11-20 March. The theme this year covers all types of space: Open, Outer, Digital, Built and Personal.'
+breadcrumb: childrens-book-lists
 ---
 [British Science Week](https://www.britishscienceweek.org/) runs from 11-20 March. The theme this year covers all types of &#8216;space&#8217;: Open, Outer, Digital, Built and Personal.
 

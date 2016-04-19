@@ -5,6 +5,7 @@ date: 2016-03-31 09:02:53+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: New young people's books from Jarvis, Abi Elphinstone and Eugene Lambert.
+breadcrumb: childrens-book-lists
 ---
 ## Board books
 

@@ -5,6 +5,7 @@ date: 2015-11-23 15:45:33+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: Lots of festive books to share with your children this Christmas.
+breadcrumb: childrens-book-lists
 ---
 ## Board books
 

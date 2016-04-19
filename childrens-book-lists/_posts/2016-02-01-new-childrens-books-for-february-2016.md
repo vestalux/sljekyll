@@ -5,6 +5,7 @@ date: 2016-02-01 09:22:15+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: New children's books from Emily Gravett, Jeremy Strong and Hayley Long.
+breadcrumb: childrens-book-lists
 ---
 ## Board books
 

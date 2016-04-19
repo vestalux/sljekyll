@@ -5,6 +5,7 @@ date: 2015-08-04 09:20:59+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: Record-breaking themed books for children to read for the Summer Reading Challenge.
+breadcrumb: childrens-book-lists
 ---
 ## Picture books
 

@@ -5,6 +5,7 @@ date: 2015-10-13 12:02:50+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: Halloween celebratory reads for little spooky skeletons.
+breadcrumb: childrens-book-lists
 ---
 ## Board books
 

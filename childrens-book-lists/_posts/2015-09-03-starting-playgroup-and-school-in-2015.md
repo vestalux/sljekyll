@@ -5,6 +5,7 @@ date: 2015-09-03 13:59:42+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: Picture books and junior novels for starting or returning to playgroup and school.
+breadcrumb: childrens-book-lists
 ---
 ## Starting playgroup
 

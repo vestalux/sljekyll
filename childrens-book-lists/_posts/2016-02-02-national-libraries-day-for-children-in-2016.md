@@ -5,6 +5,7 @@ date: 2016-02-02 09:27:39+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: Stories about libraries to celebrate National Libraries Day on 6 February.
+breadcrumb: childrens-book-lists
 ---
 ## Picture books
 

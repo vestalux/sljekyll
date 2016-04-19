@@ -5,6 +5,7 @@ date: 2014-11-26T10:16:58+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: Our stock unit's top picks for Christmas children's books.
+breadcrumb: childrens-book-lists
 ---
 ## Board books for babies and toddlers
 

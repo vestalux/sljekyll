@@ -5,6 +5,7 @@ date: 2015-01-09 11:57:44+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: Recommended literary diaries and journals for older children and teens.
+breadcrumb: childrens-book-lists
 ---
 ## Literary diaries for 8 – 12 year olds
 

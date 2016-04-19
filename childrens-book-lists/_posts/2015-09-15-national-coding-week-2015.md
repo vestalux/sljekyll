@@ -5,6 +5,7 @@ date: 2015-09-15 09:29:44+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: <a href="http://codingweek.org/">National Coding Week</a> launches 21 September. Here are some great books to teach children how to program.
+breadcrumb: childrens-book-lists
 ---
 ## [<cite>Coding for kids for dummies</cite> by Camille McCue](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/17618924?QRY=CTIBIB%3C%20IRN(46363887)&QRYTEXT=Coding%20for%20kids%20for%20dummies)
 

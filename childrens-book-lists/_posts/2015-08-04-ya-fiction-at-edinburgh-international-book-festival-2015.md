@@ -5,6 +5,7 @@ date: 2015-08-04T09:34:32+00:00
 author: emma-raindle
 category: childrens-book-lists
 excerpt: <a href="https://www.edbookfest.co.uk/">Edinburgh International Book Festival</a> is the largest bookfest in the world, running 15-31 August 2015. Here are a selection of YA authors appearing at the festival.
+breadcrumb: childrens-book-lists
 ---
 ## [<cite>The ghosts of heaven</cite> by Marcus Sedgwick](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8840300?QRY=CTIBIB%3C%20IRN(41339434)&QRYTEXT=The%20ghosts%20of%20heaven)
 
