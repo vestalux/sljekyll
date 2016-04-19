@@ -4,7 +4,7 @@ title: New music for April 2014
 date: 2014-03-31 14:03:20+00:00
 author: brandon-king
 category: music-lists
-excerpt: Including Damon Albarn's <cite>Everyday Robots</cite>, Eels' latest and Future Islands' <cite>Singles</cite>.
+excerpt: Featuring Damon Albarn, Eels and Future Islands.
 breadcrumb: music-lists
 ---
 ## [<cite>Singles</cite> by Future Islands](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19964924?QRY=CTIBIB%3C%20IRN(16112012)&QRYTEXT=Singles%20%5Bsound%20recording%5D)
@@ -31,22 +31,22 @@ At the age of 70, Jack Bruce has been a musician for more than 50 years. His rec
 
 Everyday Robots is the solo debut studio album by former Blur frontman Damon Albarn. The album features guest contributions from Brian Eno, Natasha Khan (Bat for Lashes) and The Leytonstone City Mission Choir.
 
-## [<cite>Shakira</cite> by Shakira](http://suffolklibraries.freegalmusic.com/artists/view/U2hha2lyYQ==/28964023/c29ueQ)
+## [<cite>Shakira</cite> by Shakira (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/U2hha2lyYQ==/28964023/c29ueQ)
 
 Essentially a pop and Latin album, Shakira&#8217;s diverse style also incorporates reggae, rock, dance and country.
 
-## [<cite>Supermodel</cite> by Foster the People](http://suffolklibraries.freegalmusic.com/artists/view/Rm9zdGVyIFRoZSBQZW9wbGU=/28825384/c29ueQ)
+## [<cite>Supermodel</cite> by Foster the People (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/Rm9zdGVyIFRoZSBQZW9wbGU=/28825384/c29ueQ)
 
 Supermodel is the follow-up to the group’s critically acclaimed 2011 debut Torches which sold over 2 million copies worldwide.
 
-## [<cite>She&#8217;s so unusual: A 30th anniversary celebration</cite> by Cyndi Lauper](http://suffolklibraries.freegalmusic.com/artists/view/Q3luZGkgTGF1cGVy/28858765/c29ueQ)
+## [<cite>She&#8217;s so unusual: A 30th anniversary celebration</cite> by Cyndi Lauper (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/Q3luZGkgTGF1cGVy/28858765/c29ueQ)
 
 30 years on, this reissue of Cyndi Lauper’s debut album features the tracks which made her famous &#8211; Girls Just Wanna Have Fun, She Bop and Time After Time.
 
-## [<cite>Better days</cite> by The Harmed Brothers](http://suffolklibraries.freegalmusic.com/artists/view/VGhlIEhhcm1lZCBCcm90aGVycw==/857674003192/aW9kYQ)
+## [<cite>Better days</cite> by The Harmed Brothers (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/VGhlIEhhcm1lZCBCcm90aGVycw==/857674003192/aW9kYQ)
 
 <cite>Better days</cite> showcases a band at the height of their powers as they combine blissful harmonies with their trademark banjo/guitar shuffling.
 
-## [<cite>Inspirato</cite> by Yanni](http://suffolklibraries.freegalmusic.com/artists/view/WWFubmk=/28852748/c29ueQ)
+## [<cite>Inspirato</cite> by Yanni (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/WWFubmk=/28852748/c29ueQ)
 
 On this album Yanni adds lyrics to his beautiful instrumental melodies. Working with Plácido Domingo, he&#8217;s assembled a stellar line-up of the greatest opera singers in the world, including Katherine Jenkins, Russell Watson and many more.

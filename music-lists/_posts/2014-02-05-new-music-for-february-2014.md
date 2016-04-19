@@ -27,29 +27,27 @@ BBC release their fourth album in 5 years which is described as their most exper
 
 Shins singer James Mercer and producer Brian Burton aka Danger Mouse return with their second album, a combination of vintage techniques and minimal instrumentation.
 
-[Stream or download from Freegal](http://suffolklibraries.freegalmusic.com/artists/view/QnJva2VuIEJlbGxz/28278272/c29ueQ==).
-
 ## [<cite>St Vincent</cite> by St Vincent](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7210315?QRY=CAUBIB<%20IRN(35042093)&QRYTEXT=St.%20Vincent)
 
 St Vincent – aka Annie Clark – releases her fourth album on 24 February, the follow up to her critically acclaimed collaboration _Love this Giant_ with David Byrne of Talking Heads in 2012. Expect more unusual lyrics and infectious rhythms.
 
-## [<cite>I’m Every Woman</cite> by Various Artists](http://suffolklibraries.freegalmusic.com/artists/view/VmFyaW91cw==/28737485/c29ueQ==)
+## [<cite>I’m Every Woman</cite> by Various Artists (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/VmFyaW91cw==/28737485/c29ueQ==)
 
 Pop Queens of the Seventies: A collection of the decade’s biggest pop hits, from a golden era of female artists that defined a generation, including 14 UK number 1s.
 
 Artists include Diana Ross, The Three Degrees, Suzi Quatro, Gloria Gaynor, Chaka Khan, Blondie, Dolly Parton, Lulu, Gladys Knight & The Pips – plus many more
 
-## [<cite>Drowners</cite> by Drowners](http://suffolklibraries.freegalmusic.com/artists/view/RHJvd25lcnM=/888003385146/aW9kYQ==)
+## [<cite>Drowners</cite> by Drowners (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/RHJvd25lcnM=/888003385146/aW9kYQ==)
 
 In the late summer of 2011, Drowners frontman Matthew Hitt found himself in New York City. He’s from a small town in rural Wales but New York is where Hitt feels most at home.
 
 “I just like the way things look here. I like the way things are done here. I like how late everything happens,” he says. New York’s signature up-all-night energy courses through Drowners’ self–titled debut, but there’s a sweet melancholy to the album as well.
 
-## [<cite>The Age of Fracture</cite> by Cymbals](http://suffolklibraries.freegalmusic.com/artists/view/Q1lNQkFMUw==/888003414594/aW9kYQ==)
+## [<cite>The Age of Fracture</cite> by Cymbals (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/Q1lNQkFMUw==/888003414594/aW9kYQ==)
 
 London-based electro-pop outfit Cymbals describe themselves as downtown disco, and say they want to “make music that makes people want to dance and feel joy.”
 
-## [<cite>Cello Suites: Sonatas</cite> by Anner Bylsma](http://suffolklibraries.freegalmusic.com/search/index?q=Anner%20Bylsma%20plays%20Concertos%20and%20Ensemble%20Works&type=all)
+## [<cite>Cello Suites: Sonatas</cite> by Anner Bylsma (Freegal)](http://suffolklibraries.freegalmusic.com/search/index?q=Anner%20Bylsma%20plays%20Concertos%20and%20Ensemble%20Works&type=all)
 
 Sony Classical celebrates the 80th birthday of distinguished Dutch cellist Anner Bylsma with a special survey of his finest recordings. On this collection Bylsma plays pieces by Bach, Vivaldi, Boccherini and others.
 

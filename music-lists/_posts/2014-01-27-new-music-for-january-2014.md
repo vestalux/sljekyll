@@ -29,7 +29,7 @@ Although Oldfield has worked with some of the world&#8217;s most famous vocalist
 
 They&#8217;ve supported the likes of Biffy Clyro, The Rolling Stones, Miles Kane and Jake Bugg. Their debut album was recorded with Jim Abbiss (Arctic Monkeys) and includes the singles <em>Pushing It</em>, <em>Reason To Die</em>, <em>Feel Better (Frank)</em> and <em>Trust Me… (I’m A Genius)</em>. Definitely a band to watch in 2014.
 
-## [<cite>Cursing the sea</cite> by September Girls](http://suffolklibraries.freegalmusic.com/artists/view/U2VwdGVtYmVyIEdpcmxz/888003905740/aW9kYQ==) (mp3)
+## [<cite>Cursing the sea</cite> by September Girls (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/U2VwdGVtYmVyIEdpcmxz/888003905740/aW9kYQ==)
 
 The debut album from Ireland&#8217;s September Girls is a dark kaleidoscope of echoey drums, buzzsaw bass, angular guitars and reverb-drenched vocals that blends garage rock and post-punk to extraordinary effect.
 

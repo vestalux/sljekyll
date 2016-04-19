@@ -4,7 +4,7 @@ title: New music for May 2014
 date: 2014-04-28 12:30:39+00:00
 author: brandon-king
 category: music-lists
-excerpt: Including releases from Coldplay, The Black Keys, Sam Bailey and Lily Allen.
+excerpt: Featuring Coldplay, The Black Keys and Lily Allen.
 breadcrumb: music-lists
 ---
 ## [<cite>Turn blue</cite> by The Black Keys](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/32471005?QRY=CTIBIB%3C%20IRN(37689697)&QRYTEXT=Turn%20blue%20%5Bsound%20recording%5D)
@@ -45,18 +45,18 @@ The absolute stand out track is <cite>Change Your Mind</cite> – it&#8217;ll ha
 
 Fascinating collaboration between sometime Woodbridge resident Eno and Underworld frontman Karl Hyde. 9 songs, composed and sung by Eno & Hyde, with a highly distinguished cast of supporting musicians.
 
-## [<cite>Pulses</cite> by Karmin](http://suffolklibraries.freegalmusic.com/artists/view/S2FybWlu/28455583/c29ueQ)
+## [<cite>Pulses</cite> by Karmin (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/S2FybWlu/28455583/c29ueQ)
 
 Debut full-length album from the platinum selling duo of Amy Heidemann & Nick Noonan. They first ignited the blogosphere in April 2011 after posting a cover of Chris Brown&#8217;s <cite>Look at me now</cite> to YouTube and getting over 88 million views. Includes hit singles <cite>Acapella</cite> and <cite>I want it all</cite>.
 
-## [<cite>Pure… Acoustic</cite> by Various Artists](http://suffolklibraries.freegalmusic.com/artists/view/VmFyaW91cw==/28881367/c29ueQ)
+## [<cite>Pure… Acoustic</cite> by Various Artists (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/VmFyaW91cw==/28881367/c29ueQ)
 
 Four CDs in this album of the greatest acoustic music. Featuring Bob Dylan, Leonard Cohen, Alicia Keys, Billy Joel, The Fray, Tom Odell, Jeff Buckley and many more.
 
-## [<cite>II</cite> by Death Destruction](http://suffolklibraries.freegalmusic.com/artists/view/RGVhdGggRGVzdHJ1Y3Rpb24=/29002386/c29ueQ==)
+## [<cite>II</cite> by Death Destruction (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/RGVhdGggRGVzdHJ1Y3Rpb24=/29002386/c29ueQ==)
 
 The band nominated for a Bandit Rock Award as best newcomer are back with a new album. With the new singer Tony Jelencovich behind the microphone and producer Roberto Laghi (In Flames etc.)
 
-## [<cite>Now that’s what I call feel good</cite> by Various Artists](http://suffolklibraries.freegalmusic.com/artists/view/VmFyaW91cw==/28896861/c29ueQ)
+## [<cite>Now that’s what I call feel good</cite> by Various Artists (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/VmFyaW91cw==/28896861/c29ueQ)
 
 Kick off your spring with this 3 disc compilation of the best uplifting tracks of recent times. From Katy Perry to Mcfly, Carly Rae Jepson to James Morrison, these catchy pop tunes will get you singing along and ready for the (hopefully) warm months ahead.
