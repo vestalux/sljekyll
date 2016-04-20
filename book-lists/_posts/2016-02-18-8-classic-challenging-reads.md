@@ -3,7 +3,7 @@ layout: post
 title: 8 classic challenging reads
 date: 2016-02-18 12:52:26+00:00
 author: brandon-king
-category: news
+category: book-lists
 excerpt: "The recent BBC TV adaptation of Leo Tolstoy’s <cite>War and peace</cite> has led to a surge of interest in classic titles. If you enjoyed <cite>War and peace</cite> why not try one of the following ‘challenging’ reads?"
 ---
 The recent BBC TV adaptation of Leo Tolstoy’s <cite>War and peace</cite> has led to a surge of interest in classic titles. If you enjoyed <cite>War and peace</cite> why not try one of the following ‘challenging’ reads?

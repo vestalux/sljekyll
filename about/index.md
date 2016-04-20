@@ -4,7 +4,6 @@ layout: sidebar-left
 sidebar: about
 breadcrumb: about
 ---
-
 Suffolk’s Libraries Industrial and Provident Society Limited is our formally registered name. We call ourselves <strong>Suffolk Libraries</strong>.
 
 We are an <a href="http://www.fca.org.uk/firms/firm-types/mutual-societies/industrial">Industrial and Provident Society</a>, a not for profit, independent and charitable organisation set up in August 2012 to run the service for the benefit of the people of Suffolk.
