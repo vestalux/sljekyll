@@ -6,7 +6,7 @@ author: james-powell
 category: news
 excerpt: Suffolk Libraries is getting behind a national scheme to support young people with mental health issues.
 breadcrumb: news
----
+--- 
 Suffolk Libraries is getting behind a national scheme to support young people with mental health issues.
 
 ‘Reading Well for young people’ is a new scheme which provides expert information and a recommended reading list to help tackle some of the mental health and wellbeing issues that young people face.

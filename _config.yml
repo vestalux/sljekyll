@@ -20,6 +20,8 @@ github_username:  suffolklibraries
 # Build settings
 markdown: kramdown
 
+gems: [jekyll-youtube]
+
 # SASS settings
 sass:
     style: compressed
