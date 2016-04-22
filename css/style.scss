@@ -1,0 +1,28 @@
+---
+# You need the dashes to convert this to a CSS file
+---
+@charset "utf-8";
+
+// Variables
+
+// Fonts
+$main-font: 'Source Sans Pro', sans-serif;
+$secondary-font: 'Source Sans Pro', sans-serif;
+$lh-title: 1.2;
+$lh-copy: 1.45;
+
+
+// Colours
+$link: #0282F9;
+$visited: #46A4FC;
+$active: #02CAF7;
+$hover: #02CAF7;
+$corporate: #3B1B53;
+
+// Import partials
+@import
+"tachyons.4.0.0-beta.12",
+"custom-sans-serif",
+"custom-lh",
+"custom-colours"
+;
