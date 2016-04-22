@@ -4,6 +4,7 @@ title: Northgate Room weddings and other ceremonies
 hero-image: hero-ceremonies.jpg
 hero-alt: A couple getting married in the Northgate Room
 hero-caption: A couple getting married in the Northgate Room
+breadcrumb: events
 ---
 <strong>Ipswich County Library’s Northgate Room is now licensed to hold weddings, civil ceremonies and other celebrations.</strong>
 

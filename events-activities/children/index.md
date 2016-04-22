@@ -4,6 +4,7 @@ title: "Children's activities"
 hero-image: hero-children.jpg
 hero-alt: A girl reading in the library
 hero-caption: A girl reading in the library
+breadcrumb: events
 ---
 Most Suffolk libraries run activity sessions and events for children:
 
