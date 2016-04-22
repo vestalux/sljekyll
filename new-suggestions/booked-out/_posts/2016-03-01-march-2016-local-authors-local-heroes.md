@@ -2,7 +2,7 @@
 layout: post
 title: 'March 2016: Local authors, local heroes'
 date: 2016-03-01 09:33:10+00:00
-author: sophie-green
+author: booked-out-team
 category: booked-out
 excerpt: 'Sheila and guests discuss their favourite local authors including Ruth Dugdall and Delia Smith and featuring special guest star, author Robin Herne.'
 breadcrumb: booked-out
