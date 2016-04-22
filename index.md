@@ -109,7 +109,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
             <section class="vbox">
 
-                <h1 class="vbox-title"><a class="icon icon-book" href="<?php echo get_site_url(); ?>/reading-lists-groups-advice">New in &amp; suggestions</a></h1>
+                <h1 class="vbox-title"><a class="icon icon-book" href="/new-suggestions/">New in &amp; suggestions</a></h1>
 
                 <p class="vbox-text">Latest titles, reading lists, author interviews.</p>
 

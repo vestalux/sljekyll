@@ -134,4 +134,20 @@
 
     </div>
 
+{% elsif page.breadcrumb == 'booked-out' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/new-suggestions">New in and suggestions</a> &rarr; <a href="/new-suggestions/booked-out">Booked out podcast</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% elsif page.breadcrumb == 'new-suggestions' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/new-suggestions">New in and suggestions</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
 {% endif %}
