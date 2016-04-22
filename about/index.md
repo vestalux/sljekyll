@@ -1,6 +1,6 @@
 ---
 title: About us
-layout: sidebar-left
+layout: sidebar-right
 sidebar: about
 breadcrumb: about
 ---

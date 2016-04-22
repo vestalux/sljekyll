@@ -1,6 +1,6 @@
 ---
 title: Documents
-layout: sidebar-left
+layout: sidebar-right
 sidebar: about
 breadcrumb: about
 ---

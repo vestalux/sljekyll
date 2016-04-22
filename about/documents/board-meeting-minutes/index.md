@@ -1,6 +1,6 @@
 ---
 title: Board meeting minutes
-layout: sidebar-left
+layout: sidebar-right
 sidebar: about
 breadcrumb: about
 ---
