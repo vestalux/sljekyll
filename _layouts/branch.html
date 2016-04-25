@@ -50,7 +50,9 @@
 
                                 {% if event.location == current %}
 
-                                {% capture now-unix %}{{'now' | date: '%s'}}{% endcapture %}
+                                {% capture now-unix-seconds %}{{'now' | date: '%s'}}{% endcapture %}
+
+                                {% assign now-unix = now-unix-seconds / 86400 }
 
                                 {% capture event-time %}{{event.event-start-date | date: '%s'}}{% endcapture %}
 
