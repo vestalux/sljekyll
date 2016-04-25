@@ -7,6 +7,8 @@ category: film-lists
 excerpt: Featuring <cite>12 years a slave</cite> and <cite>The wolf of Wall Street</cite>.
 breadcrumb: film-lists
 ---
+![12 years a slave](/images/featured/featured-12-years-a-slave.jpg)
+
 ## [<cite>The wolf of Wall Street</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21266319?QRY=CTIBIB%3C%20IRN(35745645)&QRYTEXT=The%20wolf%20of%20Wall%20Street%20%5Bvideorecording%5D)
 
 Martin Scorsese directs this award-winning account of 1980s New York stockbroker Jordan Belfort&#8217;s pursuit of wealth.

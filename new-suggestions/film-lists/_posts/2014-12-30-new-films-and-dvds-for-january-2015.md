@@ -7,6 +7,8 @@ category: film-lists
 excerpt: Featuring <cite>The Boxtrolls</cite> and <cite>The Equalizer</cite>.
 breadcrumb: film-lists
 ---
+![The Boxtrolls](/images/featured/featured-the-boxtrolls.jpg)
+
 ## [<cite>Lucy</cite>](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13409048?QRY=CTIBIB%3C%20IRN(27170857)&QRYTEXT=Lucy%20%5Bvideorecording%5D)
 
 [![Lucy](http://suffolklibraries.co.uk/wp-content/uploads/2014/12/lucy.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13409048?QRY=CTIBIB%3C%20IRN(27170857)&QRYTEXT=Lucy%20%5Bvideorecording%5D)

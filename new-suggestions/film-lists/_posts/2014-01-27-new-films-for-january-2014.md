@@ -7,6 +7,8 @@ category: film-lists
 excerpt: Featuring <cite>Captain Phillips</cite> and <cite>About Time</cite>.
 breadcrumb: film-lists
 ---
+![Captain Phillips](/images/featured/featured-captain-phillips.jpg)
+
 ## [<cite>Thor: The Dark World</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7138837?QRY=CTIBIB%3C%20IRN(34790384)&QRYTEXT=Thor%3A%20The%20dark%20world%20%5Bvideorecording%5D)
 
 Action adventure sequel which sees Chris Hemsworth reprise his role as the Marvel Comics superhero Thor, based on the mythical Norse God of Thunder.

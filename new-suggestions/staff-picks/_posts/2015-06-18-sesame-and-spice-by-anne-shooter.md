@@ -7,6 +7,8 @@ category: staff-picks
 excerpt: Debra Rowe, a library and information advisor at Felixstowe Library, reviews Anne Shooter's exploration of international recipes.
 breadcrumb: staff-picks
 ---
+![Sesame and spice](/images/featured/featured-sesame-and-spice.jpg)
+
 “Apples, honey, almonds, figs, pomegranates, cinnamon, orange zest, sesame, lemons and vanilla. These are the scents that filled the kitchen when I was growing up.”
 
 This one comment in Anne’s introduction was enough to send me delving into her book of baked delights. Inspired by her Jewish heritage, Anne’s recipes have their roots in various countries and some are handed down by family members. All the recipes begin with a little background information or personal link. Take the dessert saucy botty lemon sponge &#8211; this became a family favourite after they first sampled it in a Suffolk restaurant.

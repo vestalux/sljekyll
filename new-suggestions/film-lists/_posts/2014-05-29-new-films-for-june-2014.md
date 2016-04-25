@@ -7,6 +7,8 @@ category: film-lists
 excerpt: Including <cite>Dallas Buyers Club</cite> and <cite>Tinkerbell and the Pirate Fairy</cite>.
 breadcrumb: film-lists
 ---
+![Dallas buyers club](/images/featured/featured-dallas-buyers-club.jpg)
+
 ## [<cite>Non–stop</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14660428?QRY=CTIBIB%3C%20IRN(1967327)&QRYTEXT=Non-Stop%20%5Bvideorecording%5D)
 
 Liam Neeson, Julianne Moore and Michelle Dockery star in this action drama set on board an aeroplane from director Jaume Collet-Serra.

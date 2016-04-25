@@ -7,6 +7,8 @@ category: film-lists
 excerpt: Featuring <cite>Philomena</cite> and <cite>Ender's Game</cite>.
 breadcrumb: film-lists
 ---
+![Philomena](/images/featured/featured-philomena.jpg)
+
 ## [<cite>Frozen</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6564538?QRY=CAUBIB%3C%20IRN(12319679)&QRYTEXT=Buck%2C%20Chris%2C%20director)
 
 Award winning CGI animated adventure from Disney inspired by Hans Christian Andersen&#8217;s _The Snow Queen_ and featuring the voice talents of Kristen Bell and Idina Menzel.

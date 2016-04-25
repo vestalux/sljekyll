@@ -7,6 +7,8 @@ category: film-lists
 excerpt: Featuring <cite>The Amazing Spiderman 2</cite> and <cite>Maleficent</cite>.
 breadcrumb: film-lists
 ---
+![Maleficent](/images/featured/featured-maleficent.jpg)
+
 ## [<cite>The Amazing Spiderman 2</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/64462991?QRY=CTIBIB%3C%20IRN%285561715%29&QRYTEXT=The%20amazing%20Spider-Man%202%20[videorecording])
 
 Andrew Garfield reprises his role as Peter Parker/Spider-Man in this superhero sequel based on the Marvel Comics characters.

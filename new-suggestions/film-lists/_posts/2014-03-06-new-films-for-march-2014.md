@@ -6,6 +6,8 @@ author: brandon-king
 excerpt: 'Featuring <cite>Mandela: Long Walk to Freedom</cite> and <cite>The Hobbit: The Desolation of Smaug</cite>.'
 breadcrumb: film-lists
 ---
+![Mandela: Long Walk to Freedom](/images/featured/featured-mandela-long-walk-to-freedom.jpg)
+
 ## [<cite>The Hobbit: The Desolation of Smaug</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10616021?QRY=CTIBIB%3C%20IRN(34562408)&QRYTEXT=The%20Hobbit%3A%20The%20desolation%20of%20Smaug%20%5Bvideorecording%5D)
 
 The second of 3 epic instalments in director Peter Jackson&#8217;s blockbuster prequel to <cite>The Lord of the Rings</cite> trilogy.

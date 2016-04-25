@@ -7,6 +7,8 @@ category: film-lists
 excerpt: Featuring <cite>Minions</cite> and <cite>Inside out</cite>.
 breadcrumb: film-lists
 ---
+![Inside Out](/images/featured/featured-inside-out.jpg)
+
 ## [<cite>Minions</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/188845?QRY=CTIBIB%3C%20IRN(52926468)&QRYTEXT=Minions%20%5Bvideorecording%5D)
 
 [![Minions](http://suffolklibraries.co.uk/wp-content/uploads/2015/10/minions.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/188845?QRY=CTIBIB%3C%20IRN(52926468)&QRYTEXT=Minions%20%5Bvideorecording%5D)

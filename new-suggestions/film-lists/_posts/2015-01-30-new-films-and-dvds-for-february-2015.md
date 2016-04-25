@@ -7,6 +7,8 @@ category: film-lists
 excerpt: Featuring <cite>Gone Girl</cite> and <cite>Mr Turner</cite>.
 breadcrumb: film-lists
 ---
+![Mr Turner](/images/featured/featured-mr-turner.jpg)
+
 ## [<cite>Gone girl</cite>](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3340878?QRY=CTIBIB%3C%20IRN(47113565)&QRYTEXT=Gone%20girl%20%5Bvideorecording%5D)
 
 [![Gone girl](http://suffolklibraries.co.uk/wp-content/uploads/2015/01/gonegirl.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3340878?QRY=CTIBIB%3C%20IRN(47113565)&QRYTEXT=Gone%20girl%20%5Bvideorecording%5D)

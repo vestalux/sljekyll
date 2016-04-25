@@ -7,6 +7,8 @@ category: film-lists
 excerpt: Featuring <cite>Guardians of the Galaxy</cite> and <cite>The Fault in Our Stars</cite>.
 breadcrumb: film-lists
 ---
+![Guardians of the Galaxy](/images/featured/featured-guardians-of-the-galaxy.jpg)
+
 ## [<cite>The Dawn of the Planet of The Apes</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3768234?QRY=CTIBIB%3C%20IRN(23031217)&QRYTEXT=Dawn%20of%20the%20planet%20of%20the%20apes%20%5Bvideorecording%5D)
 
 Andy Serkis reprises his role in the sequel to <cite>Rise of the Planets of the Apes</cite>. 10 years on from a deadly global virus, human and hyper-intelligent ape survivors battle in order to become the surviving dominant species.

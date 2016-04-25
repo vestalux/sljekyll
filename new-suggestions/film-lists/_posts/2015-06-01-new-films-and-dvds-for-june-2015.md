@@ -7,6 +7,8 @@ category: film-lists
 excerpt: Featuring <cite>Fifty Shades of Grey</cite> and <cite>Shaun the Sheep</cite>.
 breadcrumb: film-lists
 ---
+![The second best exotic Marigold Hotel](/images/featured/featured-the-second-best-exotic-marigold-hotel.jpg)
+
 ## [<cite>The second best exotic Marigold Hotel</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/17251590?QRY=CTIBIB%3C%20IRN(51336860)&QRYTEXT=The%20second%20best%20exotic%20Marigold%20Hotel%20%5Bvideorecording%5D)
 
 [![The second best exotic Marigold Hotel](http://suffolklibraries.co.uk/wp-content/uploads/2015/05/2ndmarigold.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/17251590?QRY=CTIBIB%3C%20IRN(51336860)&QRYTEXT=The%20second%20best%20exotic%20Marigold%20Hotel%20%5Bvideorecording%5D)

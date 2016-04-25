@@ -7,6 +7,8 @@ category: film-lists
 excerpt: 'Featuring <cite>45 years</cite> and <cite>Straight Outta Compton</cite>.'
 breadcrumb: film-lists
 ---
+![Legend](/images/featured/featured-legend.jpg)
+
 ## [<cite>Legend</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/962614?QRY=CTIBIB%3C%20IRN(9982199)&QRYTEXT=Legend%20%5Bvideorecording%5D)
 
 [![Legend](http://suffolklibraries.co.uk/wp-content/uploads/2015/12/legend.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/962614?QRY=CTIBIB%3C%20IRN(9982199)&QRYTEXT=Legend%20%5Bvideorecording%5D)

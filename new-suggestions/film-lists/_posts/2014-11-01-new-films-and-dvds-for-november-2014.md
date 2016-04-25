@@ -7,6 +7,8 @@ category: film-lists
 excerpt: Featuring <cite>The Inbetweeners 2</cite> and <cite>Hercules</cite>.
 breadcrumb: film-lists
 ---
+![Hercules](/images/featured/featured-hercules.jpg)
+
 ## [<cite>The Inbetweeners 2</cite>](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7661506?QRY=CTIBIB%3C%20IRN(5600571)&QRYTEXT=The%20inbetweeners%20movie%202%20%5Bvideorecording%5D)
 
 [![The Inbetweeners 2](http://suffolklibraries.co.uk/wp-content/uploads/2014/10/inbetweeners2.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7661506?QRY=CTIBIB%3C%20IRN(5600571)&QRYTEXT=The%20inbetweeners%20movie%202%20%5Bvideorecording%5D)

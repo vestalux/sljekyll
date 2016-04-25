@@ -7,6 +7,8 @@ category: film-lists
 excerpt: 'Featuring <cite>Jurassic World</cite> and <cite>Mad Max: Fury road</cite>.'
 breadcrumb: film-lists
 ---
+![Mad Max: Fury road](/images/featured/featured-mad-max-fury-road.jpg)
+
 ## [<cite>Jurassic World</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10839309?QRY=CTIBIB%3C%20IRN(53236417)&QRYTEXT=Jurassic%20world%20%5Bvideorecording%5D)
 
 [![Jurassic World](http://suffolklibraries.co.uk/wp-content/uploads/2015/09/jurassicworld.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10839309?QRY=CTIBIB%3C%20IRN(53236417)&QRYTEXT=Jurassic%20world%20%5Bvideorecording%5D)
@@ -15,7 +17,7 @@ Rising from the ashes of the original park, events turn to disaster as a newly g
 
 ## [<cite>Mad Max: Fury road</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10840731?QRY=CTIBIB%3C%20IRN(54305132)&QRYTEXT=Mad%20Max%3A%20Fury%20road%20%5Bvideorecording%5D)
 
-[![Mad Max: Fury road](http://suffolklibraries.co.uk/wp-content/uploads/2015/09/madmaxfuryroad.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10840731?QRY=CTIBIB%3C%20IRN(54305132)&QRYTEXT=Mad%20Max%3A%20Fury%20road%20%5Bvideorecording%5D)
+[![Mad Max: Fury road](/images/article/mad-max-fury-road.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10840731?QRY=CTIBIB%3C%20IRN(54305132)&QRYTEXT=Mad%20Max%3A%20Fury%20road%20%5Bvideorecording%5D)
 
 The future of post-apocalyptic Australia is in the hands of Furiosa (Charlize Theron) and Max (Tom Hardy).
 

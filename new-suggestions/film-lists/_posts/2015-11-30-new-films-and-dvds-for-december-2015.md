@@ -7,6 +7,8 @@ category: film-lists
 excerpt: 'Featuring <cite>Mission impossible: Rogue nation</cite> and <cite>Paper towns</cite>.'
 breadcrumb: film-lists
 ---
+![Mission impossible: Rogue nation](/images/featured/featured-mission-impossible-rogue-nation.jpg)
+
 ## [<cite>Mission impossible: Rogue nation</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13024464?QRY=CTIBIB%3C%20IRN(54807686)&QRYTEXT=Mission%20impossible%3A%20Rogue%20nation%20%5Bvideorecording%5D)
 
 [![Mission impossible: Rogue nation](http://suffolklibraries.co.uk/wp-content/uploads/2015/11/mission-impossible-rogue-nation.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13024464?QRY=CTIBIB%3C%20IRN(54807686)&QRYTEXT=Mission%20impossible%3A%20Rogue%20nation%20%5Bvideorecording%5D)

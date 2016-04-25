@@ -7,6 +7,8 @@ category: film-lists
 excerpt: Featuring <cite>Spectre</cite> and <cite>The Martian</cite>.
 breadcrumb: film-lists
 ---
+![Spectre](/images/featured/featured-spectre.jpg)
+
 ## [<cite>Spectre</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/17497330?QRY=CTIBIB%3C%20IRN(22903754)&QRYTEXT=Spectre%20%5Bvideorecording%5D)
 
 [![Spectre](http://suffolklibraries.co.uk/wp-content/uploads/2016/01/spectre.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/17497330?QRY=CTIBIB%3C%20IRN(22903754)&QRYTEXT=Spectre%20%5Bvideorecording%5D)

@@ -7,6 +7,8 @@ category: staff-picks
 excerpt: Southwold Library manager Charlotte Clark reviews the thriller, <cite>Blue Monday</cite> by crime-writing couple Nicci French.
 breadcrumb: staff-picks
 ---
+![Blue Monday](/images/featured/featured-blue-monday.jpg)
+
 <cite>Blue Monday</cite> is the first in a series of crime novels featuring the psychotherapist Frieda Klein. Klein is drawn into a present day missing child case which echoes a similar unsolved child disappearance some twenty years before. When one of Klein&#8217;s patients describes his dreams of a child matching the description of missing Matthew Faraday, she feels she cannot ignore the feeling there is more to them than meets the eye.
 
 The novel paints vivid characters who draw you in and make you care about them. The plot is gripping, with dark twists and turns and the pace of the action is faster than having a psychotherapist as the main protagonist would suggest. Loose ends and a great cast of characters are well set up for the next in the series <cite>Tuesday&#8217;s gone</cite>.

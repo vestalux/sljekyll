@@ -7,6 +7,8 @@ category: film-lists
 excerpt: Featuring <cite>Cinderella</cite> and <cite>Insurgent</cite>.
 breadcrumb: film-lists
 ---
+![Cinderella](/images/featured/featured-cinderella-2015.jpg)
+
 ## [<cite>Cinderella</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16320336?QRY=CTIBIB%3C%20IRN(124500)&QRYTEXT=Cinderella)
 
 [![Cinderella](http://suffolklibraries.co.uk/wp-content/uploads/2015/07/cinderella.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16320336?QRY=CTIBIB%3C%20IRN(124500)&QRYTEXT=Cinderella)

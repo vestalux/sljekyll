@@ -7,6 +7,8 @@ category: film-lists
 excerpt: 'Featuring <cite>Avengers: Age of Ultron</cite> and <cite>Pitch Perfect 2</cite>.'
 breadcrumb: film-lists
 ---
+![Avengers: Age of Ultron](/images/featured/featured-avengers-age-of-ultron.jpg)
+
 ## [<cite>Avengers: Age of Ultron</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/29131047?QRY=CTIBIB%3C%20IRN(50449883)&QRYTEXT=Avengers%3A%20Age%20of%20Ultron%20%5Bvideorecording%5D)
 
 [![Avengers: Age of Ultron](http://suffolklibraries.co.uk/wp-content/uploads/2015/08/avengersageofultron.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/29131047?QRY=CTIBIB%3C%20IRN(50449883)&QRYTEXT=Avengers%3A%20Age%20of%20Ultron%20%5Bvideorecording%5D)

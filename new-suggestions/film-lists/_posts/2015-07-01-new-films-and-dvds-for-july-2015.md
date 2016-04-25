@@ -7,6 +7,8 @@ category: film-lists
 excerpt: Featuring <cite>Still Alice</cite> and <cite>Home</cite>.
 breadcrumb: film-lists
 ---
+![Still Alice](/images/featured/featured-still-alice.jpg)
+
 ## [<cite>Home</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/32724805?QRY=CTIBIB%3C%20IRN(9629039)&QRYTEXT=Home%20%5Bvideorecording%5D)
 
 [![Home](http://suffolklibraries.co.uk/wp-content/uploads/2015/06/home.png)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/32724805?QRY=CTIBIB%3C%20IRN(9629039)&QRYTEXT=Home%20%5Bvideorecording%5D)

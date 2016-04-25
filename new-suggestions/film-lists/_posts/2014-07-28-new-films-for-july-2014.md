@@ -7,6 +7,8 @@ category: film-lists
 excerpt: Featuring <cite>The Lego Movie</cite> and <cite>The Grand Budapest Hotel</cite>.
 breadcrumb: film-lists
 ---
+![The Lego movie](/images/featured/featured-the-lego-movie.jpg)
+
 ## [<cite>The Lego Movie</cite>](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/43258080?QRY=CTIBIB%3C%20IRN(39260262)&QRYTEXT=The%20Grand%20Budapest%20Hotel%20%5Bvideorecording%5D)
 
 The wicked Lord Business (Will Ferrell) is determined to destroy the Lego universe and rebuild it using glue – which goes against the very nature of Lego. Mistaken as the ‘Special’, the only surviving Master Builder, the rather ordinary Emmet (Chris Pratt) is selected to lead a group of figures on a mission to put a stop to Lord Business&#8217;s evil plan.

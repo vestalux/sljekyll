@@ -7,6 +7,8 @@ category: film-lists
 excerpt: 'Featuring <cite>The Theory of Everything</cite> and <cite>Birdman</cite>'
 breadcrumb: film-lists
 ---
+![Testament of Youth](/images/featured/featured-testament-of-youth.jpg)
+
 ## [<cite>The Theory of Everything</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/1313099?QRY=CTIBIB%3C%20IRN(47618964)&QRYTEXT=The%20theory%20of%20everything%20%5Bvideorecording%5D)
 
 [![The Theory of Everything](http://suffolklibraries.co.uk/wp-content/uploads/2015/04/theoryofeverything.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/1313099?QRY=CTIBIB%3C%20IRN(47618964)&QRYTEXT=The%20theory%20of%20everything%20%5Bvideorecording%5D)

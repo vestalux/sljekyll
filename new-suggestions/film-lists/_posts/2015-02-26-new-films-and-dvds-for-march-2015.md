@@ -7,6 +7,8 @@ category: film-lists
 excerpt: 'Featuring <cite>The Hunger Games: Mockingjay Part 1</cite> and <cite>The Imitation Game</cite>.'
 breadcrumb: film-lists
 ---
+![The imitation game](/images/featured/featured-the-imitation-game.jpg)
+
 ## [<cite>Paddington</cite>](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5339284?QRY=CTIBIB%3C%20IRN(46650871)&QRYTEXT=Paddington%20%5Bvideorecording%5D)
 
 [![Paddington](http://suffolklibraries.co.uk/wp-content/uploads/2015/02/paddington.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5339284?QRY=CTIBIB%3C%20IRN(46650871)&QRYTEXT=Paddington%20%5Bvideorecording%5D)
