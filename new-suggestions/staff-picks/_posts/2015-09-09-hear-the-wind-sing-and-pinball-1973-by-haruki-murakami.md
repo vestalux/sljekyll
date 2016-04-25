@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Hear the wind sing and Pinball, 1973 by Haruki Murakami
 date: 2015-09-09 12:46:21+00:00
 author: matt-shenton
@@ -7,6 +7,8 @@ category: staff-picks
 excerpt: Literacy ambassador Matt Shenton reviews <cite>Hear the wind sing and Pinball, 1973</cite> by Haruki Murakami - two newly translated stories from over 30 years ago.
 breadcrumb: staff-picks
 ---
+![Hear the wind sing and Pinball, 1973 by Haruki Murakami](/images/featured/featured-hear-the-wind-sing-and-pinball-1973.jpg)
+
 You get the feeling Haruki Murakami doesn’t particularly want you to read <cite>Hear the wind sing and Pinball, 1973</cite>. He pretty much tells you so in his introduction. He seems a little embarrassed that, more than thirty years after their original Japanese release, his first two stories have finally received a proper English translation. Yet both feature characters familiar to his readers in the unnamed narrator and ‘the Rat’ – characters who would become more fleshed out (and even stranger) in the later <cite>A wild sheep chase</cite>.
 
 When considering the technical skills of writing, <cite>Hear the wind sing</cite> is the stronger of the two. The nameless narrator struggles to fit back into the groove of his hometown whilst returning from college for the summer break. Hanging out in a local dive bar drinking endless ice cold beers offers little solace as events from his past catch up with him &#8211; often leading him into despairing ruminations on life and the universe. His third girlfriend took her own life and his current girlfriend, one that the author is keen to point out only has nine fingers, looks set to abandon him before the summer is over. There are shades of Salinger’s <cite>Catcher in the rye</cite> throughout the novel in that the success of <cite>Hear the wind sing</cite> lies in the unique and honest voice of the narrator.

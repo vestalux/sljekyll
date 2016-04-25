@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: The kind worth killing by Peter Swanson
 date: 2015-11-04 12:52:36+00:00
 author: amanda-king
@@ -7,6 +7,8 @@ category: staff-picks
 excerpt: Bungay Library manager Amanda King reviews a compelling thriller.
 breadcrumb: staff-picks
 ---
+![The kind worth killing by Peter Swanson](/images/featured/featured-the-kind-worth-killing.jpg)
+
 Narrated in chapters by each of the main characters, <cite>The kind worth killing</cite> starts with what appears to be a chance meeting at Heathrow airport.
 
 Ted and Lily are both about to fly home to Boston. Their flight is delayed and they share a couple of drinks together. Ted, rich, lonely, drunk and depressed, confesses to Lily about the problems in his marriage and says, half seriously, that he&#8217;d like to kill his wife. Lily&#8217;s response is &#8220;I think you should&#8221;.

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: A monster calls by Patrick Ness
 date: 2015-12-30 10:06:57+00:00
 author: kate-ashton
@@ -7,6 +7,8 @@ category: staff-picks
 excerpt: Haverhill Library assistant manager Kate Ashton reviews young adult novel, <cite>A monster calls</cite>.
 breadcrumb: staff-picks
 ---
+![A monster calls by Patrick Ness](/images/featured/featured-a-monster-calls.jpg)
+
 I still get goosebumps thinking about this book. The idea originally came from Siobhan Dowd who unfortunately died of cancer before she could write it, and Patrick Ness picked up the idea and weaves a most wonderful narrative.
 
 Connor’s mother is extremely ill and receiving treatment for an undisclosed but life shortening illness. One night, a monster turns up just after midnight and there begins the tale and a stunning allegory. Like Connor, we are never sure whether the monster is real or an imagined manifestation of Connor’s mother’s symptoms. It does not matter since this novel works on so many levels. Whether you read it as a legend of a boy who must do battle with a monster to try and save his mother, or you interpret the monster as Connor’s fears about his mother’s health and illness, or even if you read it as the monster being his mother’s illness, it does not matter. It’s not a very long novel but it can certainly carry all three readings simultaneously.

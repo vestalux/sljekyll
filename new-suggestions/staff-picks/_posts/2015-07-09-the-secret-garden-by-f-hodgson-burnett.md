@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: The secret garden by F Hodgson Burnett
 date: 2015-07-09 12:07:43+00:00
 author: anna-hradsky
@@ -7,6 +7,8 @@ category: staff-picks
 excerpt: Library and information advisor Anna Hradsky talks about how her family loves this classic.
 breadcrumb: staff-picks
 ---
+![The secret garden by F Hodgson Burnett](/images/featured/featured-the-secret-garden.jpg)
+
 This is a children’s classic that has stood the test of time.
 
 It was first published in 1911, but the story is as fresh and emotional as when the author put pen to paper.

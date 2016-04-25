@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: The wolf wilder by Katherine Rundell
 date: 2016-01-27 09:35:58+00:00
 author: debra-rowe
@@ -7,6 +7,8 @@ category: staff-picks
 excerpt: Debra Rowe, a Library and Information Advisor from Felixstowe Library reviews this wintery novel for young people.
 breadcrumb: staff-picks
 ---
+![The wolf wilder by Katherine Rundell](/images/featured/featured-the-wolf-wilder.jpg)
+
 Does the first sign of a cold snap leave you longing for a white winter? Like nothing more than curling up with a sparkling story set in a snowy landscape? Look no further than Katherine Rundell’s <cite>The wolf wilder</cite>. The stunning cover alone was enough to propel me to the fireside. Lured by the warm glow emanating from the cottage in the woods and intrigued by the solitary figure clutching a lantern with her canine companion I was eager to snuggle up with this book. But, this is no cosy read. Herein lies a hard Russian winter and a community living under the icy grip of Rakov, a sadistic officer of the Tsar’s Army. This is the tale of how 12 year old Feo stands up to him.
 
 Feo has a simple life, learning from her mother how to retrain wolves to be wild. These wolves refuse to be pets and have been cast out by rich people who have tired of them. Feo has befriended a small pack of these fearless creatures. Strong and determined, Feo will stop at nothing to protect them and they are fiercely loyal to her. So when her mother is taken and imprisoned, Feo must rescue her and protect her pack who are under orders to be shot.

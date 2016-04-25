@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: The quickening maze by Adam Foulds
 date: 2015-06-18 11:57:27+00:00
 author: helen-scrivener
@@ -7,6 +7,8 @@ category: staff-picks
 excerpt: Woodbridge Library manager Helen Scrivener reviews <cite>The quickening maze</cite>, a novel about the poets John Clare and Alfred Tennyson.
 breadcrumb: staff-picks
 ---
+![The quickening maze by Adam Foulds](/images/featured/featured-the-quickening-maze.jpg)
+
 <cite>The quickening maze</cite> is a novel set in a Victorian asylum run by Dr Matthew Allen where the poets John Clare and Alfred Tennyson both resided during the 1840s. Based on real life events, Clare was an inmate while Tennyson lived nearby with his brother who was also being treated by Allen.
 
 While the novel focuses on Clare’s descent into madness, it also follows the lives of other inmates and members of the Allen family. Increasingly the boundaries between the family and the inmates becomes blurred as Matthew Allen feverishly pursues a financial scheme and Hannah Allen her romantic ideals through the cool and aloof Tennyson.

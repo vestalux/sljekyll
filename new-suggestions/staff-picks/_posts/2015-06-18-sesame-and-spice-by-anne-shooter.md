@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Sesame and spice by Anne Shooter
 date: 2015-06-18 13:39:53+00:00
 author: debra-rowe

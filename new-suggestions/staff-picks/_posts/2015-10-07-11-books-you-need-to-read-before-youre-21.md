@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: '11 books you need to read before you&#8217;re 21'
 date: 2015-10-07 08:30:51+00:00
 author: henry-golding
@@ -7,6 +7,8 @@ category: staff-picks
 excerpt: Bury St Edmunds Library and information advisor Henry Golding recommends essential books for young adults to read.
 breadcrumb: staff-picks
 ---
+![11 books you need to read before you&#8217;re 21](/images/featured/featured-eleven-books-you-need-to-read-before-youre-21.jpg)
+
 ## [<cite>The outsider</cite> by Albert Camus](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9004424?QRY=CTIBIB%3C%20IRN(8800)&QRYTEXT=The%20outsider)
 
 [![The outsider by Albert Camus](http://suffolklibraries.co.uk/wp-content/uploads/2015/07/theoutsider.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9004424?QRY=CTIBIB%3C%20IRN(8800)&QRYTEXT=The%20outsider)

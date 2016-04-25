@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Sawbones by Catherine Johnson
 date: 2015-08-26 11:59:07+00:00
 author: sophie-green
@@ -7,6 +7,8 @@ category: staff-picks
 excerpt: Woodbridge Library assistant manager Sophie Green reviews <cite>Sawbones</cite>, a historical thriller aimed at young teens.
 breadcrumb: staff-picks
 ---
+![Sawbones by Catherine Johnson](/images/featured/featured-sawbones.jpg)
+
 Jars of preserved body parts, grave robbers and grisly operating theatres, gangrene and withered hearts &#8211; there is so much to love about this historical crime thriller, set amongst the London teaching hospitals at the dawn of the new science of surgery.
 
 Ezra McAdam is methodical and studious. Once a slave with a tumour the size of a second head on his face, Ezra was saved and then apprenticed to a well-regarded London surgeon. When the surgeon is murdered, Ezra must use all his anatomical and forensic skills to solve the crime with the help of Loveday Finch; a freshly orphaned magician’s assistant and adventurist.

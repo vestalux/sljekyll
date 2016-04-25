@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Uncle Montague’s tales of terror by Chris Priestley
 date: 2015-11-24 16:04:51+00:00
 author: Chris Howard
@@ -7,6 +7,8 @@ category: staff-picks
 excerpt: Lakenheath Library manager Chris Howard reviews <cite>Uncle Montague’s tales of terror</cite> by Chris Priestley.
 breadcrumb: staff-picks
 ---
+![Uncle Montague’s tales of terror by Chris Priestley](/images/featured/featured-uncle-montagues-tales-of-terror.jpg)
+
 Cambridge illustrator-turned-author Chris Priestley has carved quite the name for himself in the last decade as a modern &#8216;Master of the Macabre&#8217; with his burgeoning canon of ghoulish stories for young adults.
 
 <cite>Uncle Montague’s tales of terror</cite> is the first in a trilogy of hauntingly riveting reads in the gothic vein of M.R. James and Edgar Allen Poe. Priestley successfully integrates a series of spooky short stories into the body of a framing narrative involving eager young Edgar and his yarn-spinning Uncle. Therefore each &#8216;chapter&#8217; can be read independently (best by candlelight just before bedtime) or in succession, building to a spine-chilling conclusion.

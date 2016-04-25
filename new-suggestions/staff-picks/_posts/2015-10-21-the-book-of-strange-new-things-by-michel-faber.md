@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: The book of strange new things by Michel Faber
 date: 2015-10-21 10:05:10+00:00
 author: helen-scrivener
@@ -7,6 +7,8 @@ category: staff-picks
 excerpt: Woodbridge Library manager Helen Scrivener reviews <cite>The book of strange new things</cite>, a futuristic sci-fi novel.
 breadcrumb: staff-picks
 ---
+![The book of strange new things by Michel Faber](/images/featured/featured-the-book-of-strange-new-things.jpg)
+
 <cite>The book of strange new things</cite> is a compelling science fiction novel. Set in the not too distant future, it tells the story of Peter Leigh, a Christian minister who is recruited by a dubious and mysterious corporation called USIC to travel to a recently colonised planet to work with the native population.
 
 This seemingly benign world slowly reveals itself through Peter’s inquisitive and trusting nature as he struggles to fit in with the indifferent human personnel who are almost as unknowable as the secretive natives. This creates a constant sense of foreboding and makes it such a compulsive and addictive read throughout.

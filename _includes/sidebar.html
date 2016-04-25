@@ -197,6 +197,28 @@
 
             {% endif %}
 
+            {% if page.breadcrumb == 'staff-picks' %}
+
+                <section class="vbox">
+
+                    <h1 class="vbox-title"><a href="/new-suggestions/film-lists">More staff picks</a></h1>
+
+                    <ul class="vbox-text">
+
+                      <ul class="listing">
+                        {% for post in site.categories.['staff-picks'] limit:5 %}
+                          <li>
+                            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                          </li>
+                        {% endfor %}
+                      </ul>
+
+                    </ul>
+
+                </section>
+
+            {% endif %}
+
         </div> <!-- end .secondary -->
 
     </aside>
