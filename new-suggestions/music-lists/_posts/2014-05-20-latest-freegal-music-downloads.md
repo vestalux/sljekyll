@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Latest Freegal music downloads
 date: 2014-05-20 11:30:33+00:00
 author: leon-paternoster
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: The newest MP3s available for download and streaming for free, featuring Foo Fighters, Frankie Knuckles and Barry Manilow.
 breadcrumb: music-lists
 ---
+![Foo Fighters](/images/featured/featured-foo-fighters.jpg)
+
 Freegal is our free, legal MP3 downloading and streaming service. You&#8217;ll just need your library card number and PIN to use it.
 
 Here&#8217;s our pick of the best newly available downloads:

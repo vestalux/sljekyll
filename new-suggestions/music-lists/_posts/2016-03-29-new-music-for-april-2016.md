@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New music for April 2016
 date: 2016-03-29 14:20:56+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: Featuring The Last Shadow Puppets and Travis.
 breadcrumb: music-lists
 ---
+![The Last Shadow Puppets](/images/featured/featured-the-last-shadow-puppets.jpg)
+
 ## [<cite>Everything You’ve Come to Expect</cite> by The Last Shadow Puppets](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/25750238?QRY=CTIBIB%3C%20IRN%2861027135%29&QRYTEXT=Everything%20you%27ve%20come%20to%20expect%20[sound%20recording])
 
 Alex Turner and Miles Kane return with their follow up to 2008’s <cite>The Age Of The Understatement</cite>. This time round their songwriting was influenced by Isaac Hayes and The Style Council, as opposed to the Scott Walker influences of their first album.

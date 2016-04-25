@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New music for June 2014
 date: 2014-05-29 11:50:12+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: Featuring Jack White and Paul Weller.
 breadcrumb: music-lists
 ---
+![First Aid Kit](/images/featured/featured-first-aid-kit.jpg)
+
 ## [<cite>Lazaretto</cite> by Jack White](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14521134?QRY=CTIBIB%3C%20IRN(38864961)&QRYTEXT=Lazaretto%20%5Bsound%20recording%5D)
 
 Born the youngest of 10 children, raised in Southwest Detroit and a resident of Nashville since 2005, Jack White is one of the most prolific and renowned artists of the past fifteen years.

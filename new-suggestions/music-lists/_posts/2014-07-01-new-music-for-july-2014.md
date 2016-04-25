@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New music for July 2014
 date: 2014-07-01 12:15:19+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: Featuring Tom Petty and the Heartbreakers, Dolly Parton and Morrissey.
 breadcrumb: music-lists
 ---
+![Dolly Parton](/images/featured/featured-dolly-parton.jpg)
+
 ## [<cite>World Peace is None Of Your Business</cite> by Morrissey](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/30302969?QRY=CTIBIB%3C%20IRN(40610022)&QRYTEXT=World%20peace%20is%20none%20of%20your%20business%20%5Bsound%20recording%5D)
 
 <cite>World Peace is None of Your Business</cite> finds Morrissey in classic form, bitterly crooning about social inequality over lush orchestration.

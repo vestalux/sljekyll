@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New music for November 2014
 date: 2014-11-01 07:57:59+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: Featuring Pink Floyd, Foo Fighters and Damien Rice.
 breadcrumb: music-lists
 ---
+![My Favourite Faded Fantasy](/images/featured/featured-damien-rice.jpg)
+
 ## [<cite>The Endless River</cite> by Pink Floyd](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9049964?QRY=CTIBIB%3C%20IRN(44977344)&QRYTEXT=The%20endless%20river%20%5Bsound%20recording%5D)
 
 [![The Endless River by Pink Floyd](http://suffolklibraries.co.uk/wp-content/uploads/2014/10/endlessriver.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9049964?QRY=CTIBIB%3C%20IRN(44977344)&QRYTEXT=The%20endless%20river%20%5Bsound%20recording%5D)

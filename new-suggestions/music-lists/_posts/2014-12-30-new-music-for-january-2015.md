@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New music for January 2015
 date: 2014-12-30 15:10:46+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: Featuring Belle & Sebastian, Mark Ronson and Pixies.
 breadcrumb: music-lists
 ---
+![Another day, Another time. Celebrating the Music of Inside Llewyn Davis by Various Artists](/images/featured/featured-another-day-another-time.jpg)
+
 ## [<cite>Another day, Another time. Celebrating the Music of Inside Llewyn Davis</cite> by Various Artists (Freegal)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/17754687?QRY=CTIBIB%3C%20IRN(26251247)&QRYTEXT=Another%20day%2C%20another%20time%20%5Bsound%20recording%5D)
 
 [![Another day, Another time. Celebrating the Music of Inside Llewyn Davis by Various Artists](http://suffolklibraries.co.uk/wp-content/uploads/2014/12/anotherdaytime.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/17754687?QRY=CTIBIB%3C%20IRN(26251247)&#038;QRYTEXT=Another%20day%2C%20another%20time%20%5Bsound%20recording%5D)

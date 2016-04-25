@@ -219,6 +219,160 @@
 
             {% endif %}
 
+            {% if page.breadcrumb == 'local-interest' %}
+
+                <section class="vbox">
+
+                    <h1 class="vbox-title"><a href="/new-suggestions/film-lists">More local interest</a></h1>
+
+                    <ul class="vbox-text">
+
+                      <ul class="listing">
+                        {% for post in site.categories.['local-interest'] limit:5 %}
+                          <li>
+                            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                          </li>
+                        {% endfor %}
+                      </ul>
+
+                    </ul>
+
+                </section>
+
+            {% endif %}
+
+            {% if page.breadcrumb == 'booked-out' %}
+
+                <section class="vbox">
+
+                    <h1 class="vbox-title"><a href="/new-suggestions/film-lists">More Booked Out episodes</a></h1>
+
+                    <ul class="vbox-text">
+
+                      <ul class="listing">
+                        {% for post in site.categories.['booked-out'] limit:5 %}
+                          <li>
+                            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                          </li>
+                        {% endfor %}
+                      </ul>
+
+                    </ul>
+
+                </section>
+
+            {% endif %}
+
+            {% if page.breadcrumb == 'book-club-lists' %}
+
+                <section class="vbox">
+
+                    <h1 class="vbox-title"><a href="/new-suggestions/film-lists">More book club ideas</a></h1>
+
+                    <ul class="vbox-text">
+
+                      <ul class="listing">
+                        {% for post in site.categories.['book-club-lists'] limit:5 %}
+                          <li>
+                            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                          </li>
+                        {% endfor %}
+                      </ul>
+
+                    </ul>
+
+                </section>
+
+            {% endif %}
+
+            {% if page.breadcrumb == 'music-lists' %}
+
+                <section class="vbox">
+
+                    <h1 class="vbox-title"><a href="/new-suggestions/music-lists">More music</a></h1>
+
+                    <ul class="vbox-text">
+
+                      <ul class="listing">
+                        {% for post in site.categories.['music-lists'] limit:5 %}
+                          <li>
+                            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                          </li>
+                        {% endfor %}
+                      </ul>
+
+                    </ul>
+
+                </section>
+
+            {% endif %}
+
+            {% if page.breadcrumb == 'childrens-book-lists' %}
+
+                <section class="vbox">
+
+                    <h1 class="vbox-title"><a href="/new-suggestions/childrens-book-lists">More children's books</a></h1>
+
+                    <ul class="vbox-text">
+
+                      <ul class="listing">
+                        {% for post in site.categories.['childrens-book-lists'] limit:5 %}
+                          <li>
+                            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                          </li>
+                        {% endfor %}
+                      </ul>
+
+                    </ul>
+
+                </section>
+
+            {% endif %}
+
+            {% if page.breadcrumb == 'book-lists' %}
+
+                <section class="vbox">
+
+                    <h1 class="vbox-title"><a href="/new-suggestions/book-lists">More fiction books</a></h1>
+
+                    <ul class="vbox-text">
+
+                      <ul class="listing">
+                        {% for post in site.categories.['book-lists'] limit:5 %}
+                          <li>
+                            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                          </li>
+                        {% endfor %}
+                      </ul>
+
+                    </ul>
+
+                </section>
+
+            {% endif %}
+
+            {% if page.breadcrumb == 'non-fiction-lists' %}
+
+                <section class="vbox">
+
+                    <h1 class="vbox-title"><a href="/new-suggestions/non-fiction-lists">More non-fiction books</a></h1>
+
+                    <ul class="vbox-text">
+
+                      <ul class="listing">
+                        {% for post in site.categories.['non-fiction-lists'] limit:5 %}
+                          <li>
+                            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                          </li>
+                        {% endfor %}
+                      </ul>
+
+                    </ul>
+
+                </section>
+
+            {% endif %}
+
         </div> <!-- end .secondary -->
 
     </aside>

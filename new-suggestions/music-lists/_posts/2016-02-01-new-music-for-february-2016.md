@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New music for February 2016
 date: 2016-02-01 09:10:43+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: Featuring Jack Garratt and Elton John.
 breadcrumb: music-lists
 ---
+![Phase by Jack Garratt](/images/featured/featured-phase.jpg)
+
 ## [<cite>Phase</cite> by Jack Garratt](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13842969?QRY=CTIBIB%3C%20IRN(57600243)&QRYTEXT=Phase%20%5Bsound%20recording%5D)
 
 [![Phase by Jack Garratt](http://suffolklibraries.co.uk/wp-content/uploads/2016/01/phase.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13842969?QRY=CTIBIB%3C%20IRN(57600243)&QRYTEXT=Phase%20%5Bsound%20recording%5D)

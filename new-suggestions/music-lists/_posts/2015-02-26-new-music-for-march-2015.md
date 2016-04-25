@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New music for March 2015
 date: 2015-02-26 15:30:11+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: Featuring Laura Marling, Mark Knopfler and Bjork.
 breadcrumb: music-lists
 ---
+![BBC Introducing Presents... Volume 1 by Various Artists](/images/featured/featured-bbc-introducing-presents-volume-1.jpg)
+
 ## [<cite>Short movie</cite> by Laura Marling](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12779490?QRY=CTIBIB%3C%20IRN(47843516)&QRYTEXT=Short%20movie%20%5Bsound%20recording%5D)
 
 [![Short movie by Laura Marling](http://suffolklibraries.co.uk/wp-content/uploads/2015/02/shortmovie.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12779490?QRY=CTIBIB%3C%20IRN(47843516)&QRYTEXT=Short%20movie%20%5Bsound%20recording%5D)

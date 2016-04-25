@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New music for September 2015
 date: 2015-09-01 08:22:23+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: Featuring The Libertines and New Order.
 breadcrumb: music-lists
 ---
+![Anthems for Doomed Youth by The Libertines](/images/featured/featured-anthems-for-doomed-youth.jpg)
+
 ## [<cite>Anthems for Doomed Youth</cite> by The Libertines](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/31095977?QRY=CTIBIB%3C%20IRN(40361703)&QRYTEXT=Anthems%20for%20doomed%20youth%20%5Bsound%20recording%5D)
 
 [![Anthems for Doomed Youth by The Libertines](http://suffolklibraries.co.uk/wp-content/uploads/2015/08/anthemsfordoomedyouth.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/31095977?QRY=CTIBIB%3C%20IRN(40361703)&QRYTEXT=Anthems%20for%20doomed%20youth%20%5Bsound%20recording%5D)

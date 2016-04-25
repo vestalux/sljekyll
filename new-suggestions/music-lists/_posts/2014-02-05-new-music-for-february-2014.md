@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New music for February 2014
 date: 2014-02-05 12:52:30+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: Including releases from Katy B, Cymbals and a compilation of Cello sonatas performed by Anner Bylsma.
 breadcrumb: music-lists
 ---
+![Drowners](/images/featured/featured-drowners.jpg)
+
 ## [<cite>X</cite> by Ed Sheeran](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7208441?QRY=CAUBIB%3C%20IRN(13613979)&QRYTEXT=Sheeran%2C%20Ed%2C%201991-)
 
 Ed said recently in an interview that his new album would appear on February 17. We know that he has been working with Pharrell Williams and Rick Rubin, so that and his recent contribution to _The Hobbit_ movie suggest it will be one of the musical highlights of 2014.

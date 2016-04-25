@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New music for August 2015
 date: 2015-07-31 13:18:15+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: Featuring Jess Glynne, Mac DeMarco and Motorhead.
 breadcrumb: music-lists
 ---
+![Another one by Mac DeMarco](/images/featured/featured-another-one.jpg)
+
 ## [<cite>I cry when I laugh</cite> by Jess Glynne](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16769691?QRY=CTIBIB%3C%20IRN(50741997)&QRYTEXT=I%20cry%20when%20I%20laugh%20%5Bsound%20recording%5D)
 
 [![I cry when I laugh by Jess Glynne](http://suffolklibraries.co.uk/wp-content/uploads/2015/07/icrywhenilaugh.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16769691?QRY=CTIBIB%3C%20IRN(50741997)&QRYTEXT=I%20cry%20when%20I%20laugh%20%5Bsound%20recording%5D)

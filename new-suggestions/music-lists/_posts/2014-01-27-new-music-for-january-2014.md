@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New music for January 2014
 date: 2014-01-27 12:28:48+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: New releases from Bruce Springsteen, September Girls and others.
 breadcrumb: music-lists
 ---
+![High hopes by Bruce Springsteen](/images/featured/featured-high-hopes.jpg)
+
 ## [<cite>High hopes</cite> by Bruce Springsteen](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6375815?QRY=CTIBIB%3C%20IRN(51269)&QRYTEXT=High%20hopes)
 
 Any new release by Springsteen is always worth investigating. <cite>High Hopes</cite> is unlike any other release in his catalogue in that half of the songs have been heard before, either on record or onstage. Three of those tracks are covers from acts that have not received much mainstream exposure, while the other nine are Springsteen originals. [Download from Freegal.](http://suffolklibraries.freegalmusic.com/artists/view/QnJ1Y2UgU3ByaW5nc3RlZW4=/28696220/c29ueQ==)

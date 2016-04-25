@@ -1,13 +1,14 @@
 ---
-layout: post
+layout: sidebar-right
 title: 10 oddball American rock classics
 date: 2014-03-11 09:56:14+00:00
 author: richard-baker
 category: music-lists
 excerpt: Download or stream classics from Captain Beefheart, Iron Butterfly and the 13th Floor Elevators. All you'll need is your library card and PIN.
 breadcrumb: music-lists
-
 ---
+![Captain Beefheart](/images/featured/featured-captain-beefheart.jpg)
+
 Download or stream these psychedelic classics for free. All you&#8217;ll need is you library card and PIN.
 
   1. <cite><a href="http://suffolklibraries.freegalmusic.com/artists/view/RHIgSm9obg==/243243/aW9kYQ==">Looser for you Baby</a></cite>: Dr John from <cite>American Legend Vol. 1</cite>

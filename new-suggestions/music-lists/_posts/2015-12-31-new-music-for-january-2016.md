@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New music for January 2016
 date: 2015-12-31 09:28:09+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: New albums from David Bowie, Sia and Suede.
 breadcrumb: music-lists
 ---
+![Blackstar by David Bowie](/images/featured/featured-blackstar-video.jpg)
+
 ## [<cite>Blackstar</cite> by David Bowie](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/23933597?QRY=CTIBIB%3C%20IRN(58865235)&QRYTEXT=Blackstar%20%5Bsound%20recording%5D)
 
 [![Blackstar by David Bowie](http://suffolklibraries.co.uk/wp-content/uploads/2015/12/blackstar.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/23933597?QRY=CTIBIB%3C%20IRN(58865235)&QRYTEXT=Blackstar%20%5Bsound%20recording%5D)

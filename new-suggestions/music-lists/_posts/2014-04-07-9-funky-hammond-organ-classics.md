@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 9 funky Hammond organ classics
 date: 2014-04-07 12:26:27+00:00
 author: richard-baker
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: Woodbridge Library's Richard Baker selects some funky Hammond organ classics you can download for free from our Freegal service.
 breadcrumb: music-lists
 ---
+![Jimmy McGriff](/images/featured/featured-jimmy-mcgriff.jpg)
+
 Freegal is our free music download and streaming service. Each month Richard Baker highlights some of the more unusual and obscure recordings. This month he casts his eye over some funky Hammond organ greats.
 
   * <cite>Putting on the Ritz</cite> by Joey DeFrancesco. From [The Street Of Dreams](http://suffolklibraries.freegalmusic.com/artists/view/Sm9leSBEZUZyYW5jZXNjbw==/113679/aW9kYQ==)

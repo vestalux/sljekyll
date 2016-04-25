@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New music for April 2014
 date: 2014-03-31 14:03:20+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: Featuring Damon Albarn, Eels and Future Islands.
 breadcrumb: music-lists
 ---
+![Everyday robots by Damon Albarn](/images/featured/featured-everyday-robots.jpg)
+
 ## [<cite>Singles</cite> by Future Islands](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19964924?QRY=CTIBIB%3C%20IRN(16112012)&QRYTEXT=Singles%20%5Bsound%20recording%5D)
 
 If you haven’t had a chance to catch their performance on US television’s Late Show with David Letterman last month take a look. In an era of bland music on talk shows this was an extraordinary spectacle. Singer Sam Herring sings every note as though his life depends on it. Even Letterman – for whom most musical performances pass like commercials – exclaimed: “I’ll take all of what you got!”

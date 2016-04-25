@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New music for March 2014
 date: 2014-02-28 16:12:43+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: Including Elbow's new album and a compilation of lost Johnny Cash songs.
 breadcrumb: music-lists
 ---
+![Elbow](/images/featured/featured-elbow.jpg)
+
 ## [<cite>The 30th anniversary concert celebration</cite> by Bob Dylan](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/11133861?QRY=CTIBIB%3C%20IRN(1682475)&QRYTEXT=30th%20anniversary%20concert%20celebration)
 
 The talent on this CD is a snapshot and Who&#8217;s Who of rock and country legends&#8230;from 1992. Legends who were great then and are still great now. It&#8217;s not just Dylan … it&#8217;s Dylan sung live by Neil Young, Eric Clapton, George Harrison, Willie Nelson, Ron Wood, June Carter & Johnny Cash, John Mellencamp, Stevie Wonder, Lou Reed, Eddie Vedder, Tracy Chapman, Tom Petty, Johnny Winter, Richie Havens etc., etc.

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New music for March 2016
 date: 2016-03-01 09:14:53+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: Featuring Jeff Buckley and Primal Scream.
 breadcrumb: music-lists
 ---
+![You & I by Jeff Buckley](/images/featured/featured-you-and-i.jpg)
+
 ## [<cite>You & I</cite> by Jeff Buckley](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/1449868?QRY=CTIBIB%3C%20IRN(9658821)&QRYTEXT=You%20%26%20I%20%5Bsound%20recording%5D)
 
 [![You & I by Jeff Buckley](http://suffolklibraries.co.uk/wp-content/uploads/2016/02/you-and-i.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/1449868?QRY=CTIBIB%3C%20IRN(9658821)&QRYTEXT=You%20%26%20I%20%5Bsound%20recording%5D)

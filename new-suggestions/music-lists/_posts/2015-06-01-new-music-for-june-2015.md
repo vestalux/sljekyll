@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New music for June 2015
 date: 2015-06-01 08:05:46+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: Featuring Muse, Florence + the Machine and Of Monsters and Men.
 breadcrumb: music-lists
 ---
+![Drones by Muse](/images/featured/featured-drones.jpg)
+
 ## [<cite>Drones</cite> by Muse](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/18196551?QRY=CTIBIB%3C%20IRN(37822348)&QRYTEXT=Drones%20%5Bsound%20recording%5D)
 
 [![Drones by Muse](http://suffolklibraries.co.uk/wp-content/uploads/2015/05/drones.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/18196551?QRY=CTIBIB%3C%20IRN(37822348)&QRYTEXT=Drones%20%5Bsound%20recording%5D)

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New music for February 2015
 date: 2015-01-30 14:22:56+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: Featuring Bob Dylan, Diana Krall and Panda Bear.
 breadcrumb: music-lists
 ---
+![Shadows in the night by Bob Dylan](/images/featured/featured-shadows-in-the-night.jpg)
+
 ## [<cite>Shadows in the night</cite> by Bob Dylan](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4478201?QRY=CTIBIB%3C%20IRN(47619334)&QRYTEXT=Shadows%20in%20the%20night%20%5Bsound%20recording%5D)
 
 [![Shadows in the night by Bob Dylan](http://suffolklibraries.co.uk/wp-content/uploads/2015/01/shadowsinthenight.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4478201?QRY=CTIBIB%3C%20IRN(47619334)&QRYTEXT=Shadows%20in%20the%20night%20%5Bsound%20recording%5D)

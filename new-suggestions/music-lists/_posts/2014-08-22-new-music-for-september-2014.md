@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New music for September 2014
 date: 2014-08-22 09:47:44+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: Featuring Interpol, Queen and Hozier.
 breadcrumb: music-lists
 ---
+![Hozier](/images/featured/featured-hozier.jpg)
+
 ## [<cite>Hozier</cite> by Hozier](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/55930766?QRY=CTIBIB%3C%20IRN%2841681776%29&QRYTEXT=Hozier%20[sound%20recording])
 
 Irish singer/songwriter on the fast track to success after releasing his single <cite>Take Me To The Church</cite>. Island Records have global plans for him. Find out what all the fuss is about.

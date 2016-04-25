@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New music for July 2015
 date: 2015-07-01 08:18:45+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: Featuring Pick Floyd's Roger Waters and Years & Years.
 breadcrumb: music-lists
 ---
+![Communion by Years & Years](/images/featured/featured-communion.jpg)
+
 ## [<cite>Communion</cite> by Years & Years](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/33349438?QRY=CTIBIB%3C%20IRN(15584039)&QRYTEXT=Communion%20%5Bsound%20recording%5D)
 
 [![Communion by Years & Years](http://suffolklibraries.co.uk/wp-content/uploads/2015/06/communion.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/33349438?QRY=CTIBIB%3C%20IRN(15584039)&QRYTEXT=Communion%20%5Bsound%20recording%5D)

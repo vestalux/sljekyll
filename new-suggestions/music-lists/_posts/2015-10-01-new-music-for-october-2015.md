@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New music for October 2015
 date: 2015-10-01 08:17:10+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: Featuring Jean Michel Jarre, Lana Del Rey and Faithless.
 breadcrumb: music-lists
 ---
+![Electronica 1: The time machine by Jean Michel Jarre](/images/featured/featured-electronica-1-the-time-machine.jpg)
+
 ## [<cite>Electronica 1: The time machine</cite> by Jean Michel Jarre](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10330005?QRY=CTIBIB%3C%20IRN(56500869)&QRYTEXT=Electronica%201%3A%20The%20time%20machine%20%5Bsound%20recording%5D)
 
 [![Electronica 1: The time machine by Jean Michel Jarre](http://suffolklibraries.co.uk/wp-content/uploads/2015/09/electronica1.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10330005?QRY=CTIBIB%3C%20IRN(56500869)&QRYTEXT=Electronica%201%3A%20The%20time%20machine%20%5Bsound%20recording%5D)

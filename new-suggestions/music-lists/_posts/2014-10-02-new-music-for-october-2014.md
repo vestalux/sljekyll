@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New music for October 2014
 date: 2014-10-02 10:57:00+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: Featuring Neil Diamond and Jessie Ware.
 breadcrumb: music-lists
 ---
+![Ben Howard](/images/featured/featured-ben-howard.jpg)
+
 ## [<cite>Hozier</cite> by Hozier](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3199538?QRY=CTIBIB%3C%20IRN%2841681776%29&QRYTEXT=Hozier%20[sound%20recording])
 
 Hozier, the 23-year-old singer-songwriter Andrew Hozier-Byrne, debuts his highly anticipated album. Hozier&#8217;s poetic lyrics are set to music that balances burning indignation with lilting tenderness, delivered in a voice with the spiritual passion of gospel and blues. There is a real buzz about this artist. Listen to his music before he becomes a household name.
@@ -19,7 +21,7 @@ By the time ABBA played Wembley Arena in November 1979, they had spent five year
 
 Produced by the acclaimed Don Was and Jacknife Lee, <cite>Melody Road</cite> is Neil Diamond&#8217;s first original studio release in six years. These are beautiful and heartfelt songs imbued with the wisdom of a man reflecting on his life experiences while still looking forward on the road ahead of him.
 
-## [<cite>I Forget Where We Were</cite> by Beh Howard](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3202722?QRY=CTIBIB%3C%20IRN%2843957628%29&QRYTEXT=I%20forgot%20where%20we%20were%20[sound%20recording])
+## [<cite>I Forget Where We Were</cite> by Ben Howard](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3202722?QRY=CTIBIB%3C%20IRN%2843957628%29&QRYTEXT=I%20forgot%20where%20we%20were%20[sound%20recording])
 
 Ben Howard, a shy surfer boy from Devon, went from writing confessional ditties in his bedroom to winning two Brit Awards, selling out stadiums and building a huge audience with his debut album. <cite>I Forget Where We Were</cite> broke new ground as the first entire performance of an album to be broadcast on BBC Radio 1.
 

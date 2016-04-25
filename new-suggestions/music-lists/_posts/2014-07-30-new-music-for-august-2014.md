@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New music for August 2014
 date: 2014-07-30 16:07:03+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: Featuring Royal Blood and Judas Priest.
 breadcrumb: music-lists
 ---
+![Royal Blood](/images/featured/featured-royal-blood.jpg)
+
 ## [<cite>Royal Blood</cite> by Royal Blood](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44464255?QRY=CTIBIB%3C%20IRN%2841681775%29&QRYTEXT=Royal%20Blood%20[sound%20recording])
 
 One of the standouts on the BBC Sound of 2014 list, this Brighton based duo are played on Radio 1 but do not fit in with the singer-songwriters and electronic acts. They share some similarities with Arctic Monkeys, who have championed them, but Royal Blood are more similar to White Stripes or Queens of the Stone Age.

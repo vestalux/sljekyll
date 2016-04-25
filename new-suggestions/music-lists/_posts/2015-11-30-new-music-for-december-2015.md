@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New music for December 2015
 date: 2015-11-30 09:27:21+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: Featuring Coldplay, The Kooks and Tinariwen.
 breadcrumb: music-lists
 ---
+![A head full of dreams by Coldplay](/images/featured/featured-a-head-full-of-dreams.jpg)
+
 ## [<cite>A head full of dreams</cite> by Coldplay](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12802638?QRY=CTIBIB%3C%20IRN(58481883)&QRYTEXT=A%20head%20full%20of%20dreams%20%5Bsound%20recording%5D)
 
 [![A head full of dreams by Coldplay](http://suffolklibraries.co.uk/wp-content/uploads/2015/11/a-head-full-of-dreams.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12802638?QRY=CTIBIB%3C%20IRN(58481883)&QRYTEXT=A%20head%20full%20of%20dreams%20%5Bsound%20recording%5D)

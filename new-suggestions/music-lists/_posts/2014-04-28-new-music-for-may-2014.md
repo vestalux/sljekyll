@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New music for May 2014
 date: 2014-04-28 12:30:39+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: Featuring Coldplay, The Black Keys and Lily Allen.
 breadcrumb: music-lists
 ---
+![The Black Keys](/images/featured/featured-the-black-keys.jpg)
+
 ## [<cite>Turn blue</cite> by The Black Keys](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/32471005?QRY=CTIBIB%3C%20IRN(37689697)&QRYTEXT=Turn%20blue%20%5Bsound%20recording%5D)
 
 Following their Grammy-scoring, arena-touring <cite>El Camino</cite>, <cite>Turn Blue</cite> has some pretty stiff competition. Dan Auerbach and Patrick Carney’s new album features their now regular collaborator Danger Mouse on production duties alongside the band and was recorded last year at Los Angeles’ historic Sunset Sound, with smaller stints in Benton Harbor, Michigan and Dan’s own Easy Eye Sound studio in Nashville. Hear the new album ahead of their headlining slot at Latitude.

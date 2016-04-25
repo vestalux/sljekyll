@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Music at Glastonbury 2015
 date: 2015-06-24 10:15:32+00:00
 author: emma-raindle
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: Glastonbury's headliners and some of our favourite acts.
 breadcrumb: music-lists
 ---
+![Glastonbury 2015 logo](/images/featured/featured-glastonbury-2015.jpg)
+
 ## The headliners
 
 ### [<cite>How big, how blue, how beautiful</cite> by Florence + the Machine](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/31728329?QRY=CTIBIB%3C%20IRN(49561754)&QRYTEXT=How%20big%2C%20how%20blue%2C%20how%20beautiful%20%5Bsound%20recording%5D)

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New music for November 2015
 date: 2015-11-02 09:25:18+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: Featuring Jeff Lynne's ELO and Adele.
 breadcrumb: music-lists
 ---
+![Alone in the universe by Jeff Lynne's ELO](/images/featured/featured-alone-in-the-universe.jpg)
+
 ## [<cite>Alone in the universe</cite> by Jeff Lynne&#8217;s ELO](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/24231182?QRY=CTIBIB%3C%20IRN(56735875)&QRYTEXT=Alone%20in%20the%20universe%20%5Bsound%20recording%5D)
 
 [![Alone in the universe by Jeff Lynne's ELO](http://suffolklibraries.co.uk/wp-content/uploads/2015/10/aloneintheuniverse.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/24231182?QRY=CTIBIB%3C%20IRN(56735875)&QRYTEXT=Alone%20in%20the%20universe%20%5Bsound%20recording%5D)

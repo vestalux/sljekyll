@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New music for April 2015
 date: 2015-04-01 08:09:57+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: Featuring Brian Wilson, Blur and Alabama Shakes.
 breadcrumb: music-lists
 ---
+![No pier pressure by Brian Wilson](/images/featured/featured-no-pier-pressure.jpg)
+
 ## [<cite>No pier pressure</cite> by Brian Wilson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/27199109?QRY=CTIBIB%3C%20IRN(49737552)&QRYTEXT=No%20pier%20pressure%20%5Bsound%20recording%5D)
 
 [![No pier pressure by Brian Wilson](http://suffolklibraries.co.uk/wp-content/uploads/2015/03/nopierpressure.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/27199109?QRY=CTIBIB%3C%20IRN(49737552)&QRYTEXT=No%20pier%20pressure%20%5Bsound%20recording%5D)

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Mercury Prize shortlist 2015
 date: 2015-11-06 16:34:54+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: music-lists
 excerpt: BBC's Mercury Prize covers the best of new British music — and we have all of the albums in stock!
 breadcrumb: music-lists
 ---
+![Mercury Prize shortlist 2015](/images/featured/featured-in-colour.jpg)
+
 ## [<cite>Syro</cite> by Aphex Twin](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/22552947?QRY=CTIBIB%3C%20IRN(43957642)&QRYTEXT=Syro%20%5Bsound%20recording%5D)
 
 [![Syro by Aphex Twin](http://suffolklibraries.co.uk/wp-content/uploads/2015/10/syro.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/22552947?QRY=CTIBIB%3C%20IRN(43957642)&QRYTEXT=Syro%20%5Bsound%20recording%5D)
