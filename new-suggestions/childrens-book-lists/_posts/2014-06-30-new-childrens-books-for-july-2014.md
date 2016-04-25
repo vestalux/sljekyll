@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'New children&#8217;s books for July 2014'
 date: 2014-06-30 14:03:11+00:00
 author: jo-dixon
@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: Featuring books by Ed Vere and Cameron McAllister.
 breadcrumb: childrens-book-lists
 ---
+![The Tin Snail by Cameron McAllister](/images/featured/featured-the-tin-snail.jpg)
+
 ## Picture Books
 
 ### [<cite>Why?</cite>](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/29708523?QRY=CTIBIB%3C%20IRN(116087)&QRYTEXT=Why%3F) by Tracey Corderoy

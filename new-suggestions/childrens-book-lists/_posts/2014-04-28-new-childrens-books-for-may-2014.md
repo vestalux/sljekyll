@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: sidebar-right
 title: New children’s books for May 2014
-date: 2014-04-28T12:40:45+00:00
+date: 2014-04-28 12:40:45+00:00
 author: jo-dixon
 category: childrens-book-lists
 excerpt: Fantastic new titles, including picture books, teen reads and short chapter books.
 breadcrumb: childrens-book-lists
 ---
+![Abigail by Catherine Rayner](/images/featured/featured-abigail.jpg)
+
 ## Picture books
 
 ### [<cite>Baby beats</cite>](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/32359560?QRY=CTIBIB%3C%20IRN(33163574)&QRYTEXT=Baby%20beats) by Karen Blair

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Year of the Goat in 2015
 date: 2015-02-13 09:39:35+00:00
 author: jo-dixon
@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: Goat-themed books to celebrate the Chinese new year.
 breadcrumb: childrens-book-lists
 ---
+![Goat](/images/featured/featured-chinese-new-year-of-the-goat.jpg)
+
 ## Junior non-fiction
 
 ### [<cite>We love Chinese New Year</cite> by Katie Dicker](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4948281?QRY=CTIBIB%3C%20IRN(329630)&QRYTEXT=Chinese%20New%20Year)

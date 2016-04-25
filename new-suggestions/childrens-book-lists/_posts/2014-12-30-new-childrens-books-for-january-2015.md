@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'New children&#8217;s books for January 2015'
 date: 2014-12-30 15:13:32+00:00
 author: jo-dixon
@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: Including titles from Russell Brand, B. J. Novak and Zoe Sugg.
 breadcrumb: childrens-book-lists
 ---
+![Girl Online by Zoe Sugg](/images/featured/featured-girl-online.jpg)
+
 ## Board books for babies and toddlers
 
 ### [<cite>Busy Bookshop</cite> by Marion Billot](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13186880?QRY=CTIBIB%3C%20IRN(37689775)&QRYTEXT=Busy%20bookshop)

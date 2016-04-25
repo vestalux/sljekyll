@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'New children&#8217;s books for March 2014'
 date: 2014-03-04T10:42:11+00:00
 author: jo-dixon
@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: Including an hilarious book about a frog who hates phonics, a rerelease of 90's classic <cite>How to Eat Fried Worms</cite> and a new teen detective novel <cite>Running Girl</cite>, by Simon Mason.
 breadcrumb: childrens-book-lists
 ---
+![How to eat fried worms by Thomas Rockwell](/images/featured/featured-how-to-eat-fried-worms.jpg)
+
 ## Picture Books
 
 ### [<cite>Millie shares</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7065798?QRY=CTIBIB%3C%20IRN(32815215)&QRYTEXT=Millie%20shares) by Claire Alexander

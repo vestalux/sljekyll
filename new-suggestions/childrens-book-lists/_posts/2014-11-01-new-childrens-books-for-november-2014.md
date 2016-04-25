@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'New children&#8217;s books for November 2014'
 date: 2014-11-01 07:59:28+00:00
 author: jo-dixon
@@ -7,6 +7,7 @@ category: childrens-book-lists
 excerpt: November's new additions bring not only crime thrillers to rival Guy Fawkes' story in the form of Harlan Coben's new teen novel <cite>Found</cite>, but also a generous amount of heart-warming picture books like <cite>Sam & Dave Dig a Hole</cite> and trivia to stir up laughs such as <cite>The Beano Joke Book</cite>.
 breadcrumb: childrens-book-lists
 ---
+![Here Be Monsters by Jonathan Emmett](/images/featured/featured-here-be-monsters.jpg)
 
 ## Board books for babies and toddlers
 

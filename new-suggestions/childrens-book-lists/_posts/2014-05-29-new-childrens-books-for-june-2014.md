@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'New children&#8217;s books for June 2014'
 date: 2014-05-29T12:20:37+00:00
 author: jo-dixon
@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: Including a picture book starring a dog in a garage, a pacy series of 4 books set in wartime Norfolk and an astonishing story of a 15 year old's struggle to come to terms with her mum's death.
 breadcrumb: childrens-book-lists
 ---
+![Paradise Barn by Victor Watson](/images/featured/featured-paradise-barn.jpg)
+
 ## Picture books
 
 ### [<cite>Baby’s Got the Blues</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14466714?QRY=CTIBIB%3C%20IRN(34005211)&QRYTEXT=Baby%27s%20got%20the%20blues) by Carol Diggory Shields

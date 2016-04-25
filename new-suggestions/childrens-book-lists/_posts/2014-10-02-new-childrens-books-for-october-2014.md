@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'New children&#8217;s books for October 2014'
 date: 2014-10-02T09:11:25+00:00
 author: jo-dixon
@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: Including an alien abduction, <cite>This Book Just Ate my Dog</cite> and a thriller at the Burghley horse trials.
 breadcrumb: childrens-book-lists
 ---
+![Alien Abduction by Tim Healey and Chris Mould](/images/featured/featured-alien-abduction.jpg)
+
 ## Picture books
 
 ### [Steve Antony: Betty goes bananas](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3951951?QRY=CTIBIB%3C%20IRN%2839647624%29&QRYTEXT=Betty%20goes%20bananas)

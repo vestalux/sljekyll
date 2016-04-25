@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Best children&#8217;s books of 2014'
 date: 2014-12-10 14:41:51+00:00
 author: jo-dixon
@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: Summary of our favourite children's books of 2014.
 breadcrumb: childrens-book-lists
 ---
+![Counting by 7s by Holly Goldberg Sloane](/images/featured/featured-counting-by-sevens.jpg)
+
 ## Best board books for babies
 
 ### [<cite>Where is Maisy?</cite> by Lucy Cousins](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6025789?QRY=CTIBIB%3C%20IRN(696621)&QRYTEXT=Where%20is%20Maisy%3F)

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Valentine&#8217;s Day 2015'
 date: 2015-02-06 12:46:22+00:00
 author: jo-dixon
@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: Celebrate Valentine's day with books about love - and chocolate.
 breadcrumb: childrens-book-lists
 ---
+![Love hurts by Malorie Blackman](/images/featured/featured-love-hurts.jpg)
+
 ## Board books
 
 ### [<cite>Love monster</cite> by Rachel Bright](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/1541058?QRY=CTIBIB%3C%20IRN(284674)&QRYTEXT=Love%20monster)

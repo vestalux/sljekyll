@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'New children&#8217;s books for February 2014'
 date: 2014-02-05 13:03:36+00:00
 author: jo-dixon
@@ -7,7 +7,7 @@ category: childrens-book-lists
 excerpt: Featuring books by Jeff Kinney and Pamela Butchart.
 breadcrumb: childrens-book-lists
 ---
-Some funny titles to cheer children through February, selected by our stock unit&#8217;s Jo Dixon. You can reserve and collect these from any Suffolk library.
+![Baby aliens got my teacher! by Pamela Butchart](/images/featured/featured-baby-aliens-got-my-teacher.jpg)
 
 ## Picture books
 

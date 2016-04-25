@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Christmas children&#8217;s books for 2014'
 date: 2014-11-26T10:16:58+00:00
 author: jo-dixon
@@ -7,9 +7,9 @@ category: childrens-book-lists
 excerpt: Our stock unit's top picks for Christmas children's books.
 breadcrumb: childrens-book-lists
 ---
-## Board books for babies and toddlers
+![Children's Christmas books](/images/featured/featured-christmas-childrens-books-2014.jpg)
 
-&nbsp;
+## Board books for babies and toddlers
 
 ### [<cite>The Very Hungry Caterpillar’s Christmas 123</cite> by Eric Carle](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12258619?QRY=CTIBIB%3C%20IRN(44978468)&QRYTEXT=The%20very%20hungry%20caterpillar%27s%20Christmas%20123)
 

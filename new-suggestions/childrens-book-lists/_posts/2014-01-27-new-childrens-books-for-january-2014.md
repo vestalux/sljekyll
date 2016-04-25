@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'New children&#8217;s books for January 2014'
 date: 2014-01-27 12:41:43+00:00
 author: jo-dixon
@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: Featuring books by Michael Rosen and Malorie Blackman.
 breadcrumb: childrens-book-lists
 ---
+![Noble Conflict by Malorie Blackman](/images/featured/featured-noble-conflict.jpg)
+
 ## Picture books for pre school age
 
 ### [<cite>That dog!</cite>](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6518249?QRY=CTIBIB%3C%20IRN(1391765)&QRYTEXT=That%20dog!) by Gillian Shields

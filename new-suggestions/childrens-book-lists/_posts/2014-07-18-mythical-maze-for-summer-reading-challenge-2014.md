@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Mythical Maze for Summer Reading Challenge 2014
 date: 2014-07-18 12:43:27+00:00
 author: jo-dixon
@@ -7,14 +7,16 @@ category: childrens-book-lists
 excerpt: Myth and monster books to keep your children reading over the summer. Ideal for the Summer Reading Challenge.
 breadcrumb: childrens-book-lists
 ---
+![Bedtime for Monsters by Ed Vere](/images/featured/featured-bedtime-for-monsters.jpg)
+
 # Summer Reading Challenge reading list
 
 Stuck for reading inspiration over the summer? Try this myths and legends list when you take the Summer Reading Challenge &#8211; reserve and collect from your library:
 
 ## Picture books
 
-  * Giles Andrea & Korky Paul <cite><a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/38695010?QRY=CTIBIB%3C%20IRN%2837212010%29&QRYTEXT=Sir%20Scallywag%20and%20the%20deadly%20dragon%20poo">Sir Scallywag and the Deadly Dragon Poo</a></cite>
-  * Tracey Corderoy <cite><a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/38697605?QRY=CTIBIB%3C%20IRN%2835744479%29&QRYTEXT=The%20Very%20Messy%20Mermaid">The Very Messy Mermaid</a></cite>
+  * [<cite>Sir Scallywag and the Deadly Dragon Poo</cite> by Giles Andrea & Korky Paul](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/38695010?QRY=CTIBIB%3C%20IRN%2837212010%29&QRYTEXT=Sir%20Scallywag%20and%20the%20deadly%20dragon%20poo)
+  * [<cite>The Very Messy Mermaid</cite> by Tracey Corderoy](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/38697605?QRY=CTIBIB%3C%20IRN%2835744479%29&QRYTEXT=The%20Very%20Messy%20Mermaid)
   * Julia Donaldson <cite><a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/38697985?QRY=CTIBIB%3C%20IRN%28602932%29&QRYTEXT=The%20troll">The Troll</a></cite>
   * John Fardell <cite><a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/38698553?QRY=CTIBIB%3C%20IRN%281461729%29&QRYTEXT=The%20day%20Louis%20got%20eaten">The Day Louis Got Eaten</a></cite>
   * Caryl Hart <cite><a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/38700666?QRY=CTIBIB%3C%20IRN%2838358320%29&QRYTEXT=How%20To%20Catch%20a%20Dragon">How to Catch a Dragon</a></cite>

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'New children&#8217;s books for April 2014'
 date: 2014-03-31 13:46:00+00:00
 author: jo-dixon
@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: Including a beautiful new picture book by Chris Haughton, a gripping time slip novel and <cite>the Giver</cite>, a 1994 dystopian classic by Lois Lowry.
 breadcrumb: childrens-book-lists
 ---
+![Shh! We have a plan by Chris Haughton](/images/featured/featured-shh-we-have-a-plan.jpg)
+
 ## Picture books
 
 ### [<cite>Shouty Arthur</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19979084?QRY=CTIBIB%3C%20IRN(32816838)&QRYTEXT=Shouty%20Arthur) by Angie Morgan

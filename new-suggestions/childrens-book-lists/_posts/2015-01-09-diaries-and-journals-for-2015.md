@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Diaries and Journals for 2015
 date: 2015-01-09 11:57:44+00:00
 author: jo-dixon
@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: Recommended literary diaries and journals for older children and teens.
 breadcrumb: childrens-book-lists
 ---
+![The secret diary of Lizzie Bennet by Bernie Su & Kate Rorick](/images/featured/featured-the-secret-diary-of-lizzie-bennet.jpg)
+
 ## Literary diaries for 8 – 12 year olds
 
 ### [<cite>The Diary of Dorkius Maximus in Pompeii</cite> by Tim Collins](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2877520?QRY=CTIBIB%3C%20IRN(36545532)&QRYTEXT=Diary%20of%20Dorkius%20Maximus%20in%20Pompeii)

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'New children&#8217;s books for August 2014'
 date: 2014-07-31 10:56:07+00:00
 author: jo-dixon
@@ -7,27 +7,27 @@ category: childrens-book-lists
 excerpt: Books to reserve and download, including a Michael Morpurgo Great War anthology, a new Julia Donaldson and Axel Scheffler picturebook about a scarecrow wedding and a choose your own adventure. Perfect for the Summer Reading Challenge.
 breadcrumb: childrens-book-lists
 ---
-## Books to reserve and collect from your library
+![Cheesemares by Ross Collins](/images/featured/featured-cheesemares.jpg)
 
-### Picture books
+## Picture books
 
-#### [Giles Andreae & Korky Paul: Sir Scallywag and the dreadful dragon poo](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44130475?QRY=CTIBIB%3C%20IRN%2837212010%29&QRYTEXT=Sir%20Scallywag%20and%20the%20deadly%20dragon%20poo)
+### [Giles Andreae & Korky Paul: Sir Scallywag and the dreadful dragon poo](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44130475?QRY=CTIBIB%3C%20IRN%2837212010%29&QRYTEXT=Sir%20Scallywag%20and%20the%20deadly%20dragon%20poo)
 
 The consequences of a cabbage diet, have been written about elsewhere, so I won’t bore you with the details. If you’d rather, try Sir Scallywag and the Golden Underpants.
 
-#### [Helene Boudreau: I dare you not to yawn](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44134815?QRY=CTIBIB%3C%20IRN%2818767738%29&QRYTEXT=I%20dare%20you%20not%20to%20yawn)
+### [Helene Boudreau: I dare you not to yawn](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44134815?QRY=CTIBIB%3C%20IRN%2818767738%29&QRYTEXT=I%20dare%20you%20not%20to%20yawn)
 
 In effect, it’s an instruction manual for toddlers on how to avoid being put to bed. And a very funny instruction manual it is too.
 
-#### [Benji Davies: The Storm Whale](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44135831?QRY=CTIBIB%3C%20IRN%2823532195%29&QRYTEXT=The%20storm%20whale)
+### [Benji Davies: The Storm Whale](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44135831?QRY=CTIBIB%3C%20IRN%2823532195%29&QRYTEXT=The%20storm%20whale)
 
 If you like pictures of the sea, boats and fishermen’s huts this melancholic picture book is for you. The illustrations in soft blue-greys are atmospheric and the story heart-warming. After a huge storm which washes a baby whale onto the shore, little Noi keeps it in the bath till his fisherman father comes home. Together they return the whale to the sea.
 
-#### [Richard Dungworthy: Five minutes to bed](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44136649?QRY=CTIBIB%3C%20IRN%2838544510%29&QRYTEXT=Five%20minutes%20to%20bed!)
+### [Richard Dungworthy: Five minutes to bed](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44136649?QRY=CTIBIB%3C%20IRN%2838544510%29&QRYTEXT=Five%20minutes%20to%20bed!)
 
 There’s a catchy refrain in this rhyming countdown to bedtime, with pirates swabbing decks, checking the rigging, coiling ropes and mending nets. Eventually there are no minutes more.
 
-#### [Julia Donaldson & Axel Scheffler: The Scarecrow’s wedding](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44137343?QRY=CTIBIB%3C%20IRN%2838544047%29&QRYTEXT=The%20scarecrows%27%20wedding)
+### [Julia Donaldson & Axel Scheffler: The Scarecrow’s wedding](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44137343?QRY=CTIBIB%3C%20IRN%2838544047%29&QRYTEXT=The%20scarecrows%27%20wedding)
 
 Planning a wedding? Want some tips? Look no further. There’s a list and everything:
 
@@ -39,43 +39,43 @@ Planning a wedding? Want some tips? Look no further. There’s a list and everyt
 
 What more could you need? (Apart from the Gruffalo hiding on the back cover.)
 
-#### [Michelle Robinson & Jim Field: There’s a Lion in my cornflakes](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44138860?QRY=CTIBIB%3C%20IRN%2838544550%29&QRYTEXT=There%27s%20a%20lion%20in%20my%20cornflakes)
+### [Michelle Robinson & Jim Field: There’s a Lion in my cornflakes](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44138860?QRY=CTIBIB%3C%20IRN%2838544550%29&QRYTEXT=There%27s%20a%20lion%20in%20my%20cornflakes)
 
 Two little boys collect 100 free lion coupons, wait aaaaages for it to turn up, and then …it’s a bear. And that’s just the start of it. Hilarious riot of a book, with an unexpected ending, which I won’t spoil by telling you. Oh and the pictures are just right too.
 
-### Short chapter and Beginner Reads
+## Short chapter and Beginner Reads
 
-#### [Ross Collins: Cheesemares](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44139891?QRY=CTIBIB%3C%20IRN%2816352110%29&QRYTEXT=Cheesemares)
+### [Ross Collins: Cheesemares](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44139891?QRY=CTIBIB%3C%20IRN%2816352110%29&QRYTEXT=Cheesemares)
 
 Hal has nightmares after eating cheese (hence the tile), pork pies with teeth after Edam, 16 eyed kittens after Cheddar. It can’t go on, so Hal sets out to investigate. Published by Barrington Stoke who specialise in books for dyslexic children, the book is printed on creamy yellow paper with double spacing between the lines.
 
-#### Cornelia Funke: Moonshine Dragons
+### Cornelia Funke: Moonshine Dragons
 
 Aimed at children of 6–8 years old, this is a fantasy about what happens when stories escape from books, from the writer of Inkspell.
 
-### Junior novels
+## Junior novels
 
-#### [Mary Hooper: Petals in the ashes](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44141986?QRY=CTIBIB%3C%20IRN%2893615%29&QRYTEXT=Petals%20in%20the%20ashes)
+### [Mary Hooper: Petals in the ashes](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44141986?QRY=CTIBIB%3C%20IRN%2893615%29&QRYTEXT=Petals%20in%20the%20ashes)
 
 It can be hard to find a book for avid 10–14 year olds to really get their teeth into so we’ve bought more copies of this super novel about the Great Fire of London. First published ten years ago, it continues the tale of the sisters who owned The Sugared Plum sweetshop in the City at the time the plague was sweeping through London. It’s packed full of historical detail including recipes for rose water and pomanders. As a family read for the summer, you can’t go wrong.
 
-#### [Francesca Simon: The Lost gods](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44142556?QRY=CTIBIB%3C%20IRN%2824790943%29&QRYTEXT=The%20lost%20gods)
+### [Francesca Simon: The Lost gods](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44142556?QRY=CTIBIB%3C%20IRN%2824790943%29&QRYTEXT=The%20lost%20gods)
 
 Freya, was an ordinary schoolgirl then some Norse Gods arrived on a mission to save the world. Pity they got tempted by fame, fortune and celebrity.
 
-### Young Teen
+## Young Teen
 
-#### [Natasha Farrant: Flora in love](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44143543?QRY=CTIBIB%3C%20IRN%2835038866%29&QRYTEXT=Flora%20in%20love)
+### [Natasha Farrant: Flora in love](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44143543?QRY=CTIBIB%3C%20IRN%2835038866%29&QRYTEXT=Flora%20in%20love)
 
 The second of the Diaries of Bluebell Gadsby reminds me of Dodie Smith’s I Capture the castle. Not in the setting, so utterly metropolitan, but in the dynamics of family relationships on which the diaries are based, and the age and personality of the central character. Another good read for the summer.
 
-#### [Morris Gleitzman: Loyal Creatures](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44144338?QRY=CTIBIB%3C%20IRN%2839182904%29&QRYTEXT=Loyal%20creatures)
+### [Morris Gleitzman: Loyal Creatures](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44144338?QRY=CTIBIB%3C%20IRN%2839182904%29&QRYTEXT=Loyal%20creatures)
 
 Due out later this month, Loyal Creatures tells the story of a war horse, Daisy sent from the Australian outback to the campaign in the Middle East along with 16 year old Will. Together they search the desert for the water that will keep their colleagues alive.
 
-### Junior Non fiction
+## Junior Non-fiction
 
-#### [Michael Morpurgo: Only Remembered](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44145759?QRY=CTIBIB%3C%20IRN%2838357825%29&QRYTEXT=Only%20remembered)
+### [Michael Morpurgo: Only Remembered](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44145759?QRY=CTIBIB%3C%20IRN%2838357825%29&QRYTEXT=Only%20remembered)
 
 Morpurgo has edited this diverse anthology of memories about the Great War from contributors as diverse as Simon Mayo and the Duchess of Cornwall. It is beautifully produced and includes facsimiles of primary source materials; letters, postcards, photos newspaper articles and more.
 

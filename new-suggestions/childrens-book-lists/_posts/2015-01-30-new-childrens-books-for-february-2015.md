@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New children’s books for February 2015
 date: 2015-01-30 14:20:42+00:00
 author: jo-dixon
@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: A wide range of new children's books in our libraries this month.
 breadcrumb: childrens-book-lists
 ---
+![Romans on the rampage by Jeremy Strong](/images/featured/featured-romans-on-the-rampage.jpg)
+
 ## Board books for babies
 
 ### [<cite>One little baby birthday</cite> by Richard Dungworth](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4594736?QRY=CTIBIB%3C%20IRN(31448167)&QRYTEXT=One%20little%20baby%20birthday)

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'New children&#8217;s books for September 2014'
 date: 2014-08-21 14:54:04+00:00
 author: jo-dixon
@@ -7,7 +7,7 @@ category: childrens-book-lists
 excerpt: Including Dutch classic <cite>The cat who came in off the roof</cite>, an Antoine de Saint–Exupery biography and a picture book about Enormouse, who returns to the welcome companionship of his friends, the mice.
 breadcrumb: childrens-book-lists
 ---
-## Reserve online and collect from your library
+![Enormouse by Angie Morgan](/images/featured/featured-enormouse.jpg)
 
 ### Picture books
 
