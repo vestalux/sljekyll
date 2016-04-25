@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'June 2015: Brave New Reads'
 date: 2015-06-01 09:33:10+00:00
 author: booked-out-team

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'January 2016: Books that have made a difference'
 date: 2016-01-01 09:33:10+00:00
 author: booked-out-team

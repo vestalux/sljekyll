@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'March 2016: Local authors, local heroes'
 date: 2016-03-01 09:33:10+00:00
 author: booked-out-team

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'March 2015: Irish writers'
 date: 2015-03-01 09:33:10+00:00
 author: booked-out-team

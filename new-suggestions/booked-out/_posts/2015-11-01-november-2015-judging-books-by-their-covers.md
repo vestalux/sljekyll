@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'November 2015: Judging books by their covers'
 date: 2015-11-01 09:33:10+00:00
 author: booked-out-team

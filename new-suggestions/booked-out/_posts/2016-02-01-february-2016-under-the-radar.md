@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'February 2016: Under the radar'
 date: 2016-02-01 09:33:10+00:00
 author: booked-out-team

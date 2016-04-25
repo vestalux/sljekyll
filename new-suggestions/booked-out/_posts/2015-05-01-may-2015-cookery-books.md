@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'May 2015: Cookery books'
 date: 2015-05-01 09:33:10+00:00
 author: booked-out-team

@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'January 2015: Graphic novels'
-date: 2015-03-01 09:33:10+00:00
+date: 2015-01-01 09:33:10+00:00
 author: booked-out-team
 category: booked-out
 excerpt: "Richard Baker and guests discuss Graphic Novels available through Suffolk Libraries including DC Comics, <cite>Minutemen/Silk Spectre</cite>, Alan Moore's <cite>V for Vendetta</cite> and <cite>Watchmen</cite> and <cite>Ordinary Victories</cite> by Manu Larcenet."

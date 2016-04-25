@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'July 2015: Books in translation'
 date: 2015-07-01 09:33:10+00:00
 author: booked-out-team

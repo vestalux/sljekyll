@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'September 2015: The natural world'
 date: 2015-09-01 09:33:10+00:00
 author: booked-out-team

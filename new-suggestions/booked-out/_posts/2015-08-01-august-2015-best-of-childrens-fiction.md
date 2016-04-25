@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: "August 2015: Best of children's fiction"
 date: 2015-08-01 09:33:10+00:00
 author: booked-out-team

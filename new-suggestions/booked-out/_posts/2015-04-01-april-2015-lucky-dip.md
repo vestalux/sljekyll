@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'April 2015: Lucky dip'
 date: 2015-04-01 09:33:10+00:00
 author: booked-out-team
