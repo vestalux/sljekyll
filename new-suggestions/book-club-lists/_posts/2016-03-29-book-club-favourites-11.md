@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Book club favourites #11'
 date: 2016-03-29 12:09:22+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: book-club-lists
 excerpt: Featuring books by Lewis Grassic Gibbon and Laura Barnett.
 breadcrumb: book-club-lists
 ---
+![City on Fire by Garth Risk Hallberg](/images/featured/featured-city-on-fire.jpg)
+
 ## [<cite>Sunset Song</cite> by Lewis Grassic Gibbon](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/25582289?QRY=CTIBIB%3C%20IRN%28873004%29&QRYTEXT=Sunset%20song)
 
 <cite>Sunset Song</cite> is a powerful story of a land and people in turmoil, seen through the life and struggles of the heroine Chris Guthrie who comes of age in a rural community, torn between her love of the land and the brutal harshness of farming life. But as the First World War and the social and economic upheaval that follow thrust the community into a new age, and the days of the small crofter are over, Chris continues to endure the devastating impact on her life. This book was filmed recently starring Agyness Deyn.

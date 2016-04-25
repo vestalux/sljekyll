@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Book club favourites #6'
 date: 2015-06-05 10:12:50+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: book-club-lists
 excerpt: Featuring books by Hilary Mantel and David Sedaris.
 breadcrumb: book-club-lists
 ---
+![The ruby slippers by Alexander Keir](/images/featured/featured-the-ruby-slippers.jpg)
+
 ## [<cite>Beyond black</cite> by Hilary Mantel](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/24458222?QRY=CTIBIB%3C%20IRN(168472)&QRYTEXT=Beyond%20black)
 
 [![Beyond black by Hilary Mantel](http://suffolklibraries.co.uk/wp-content/uploads/2015/06/beyondblack.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/24458222?QRY=CTIBIB%3C%20IRN(168472)&QRYTEXT=Beyond%20black)

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Book club favourites #10'
 date: 2016-01-28T11:54:37+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: book-club-lists
 excerpt: Featuring books by Elena Ferrante and Ian McEwan.
 breadcrumb: book-club-lists
 ---
+![My brilliant friend by Elena Ferrante](/images/featured/featured-my-brilliant-friend.jpg)
+
 ## [<cite>My brilliant friend</cite> by Elena Ferrante](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14489409?QRY=CTIBIB%3C%20IRN(46364704)&QRYTEXT=My%20brilliant%20friend)
 
 [![My brilliant friend by Elena Ferrante](http://suffolklibraries.co.uk/wp-content/uploads/2016/01/my-brilliant-friend.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14489409?QRY=CTIBIB%3C%20IRN(46364704)&QRYTEXT=My%20brilliant%20friend)

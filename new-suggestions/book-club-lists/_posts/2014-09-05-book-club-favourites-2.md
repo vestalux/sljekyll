@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Book club favourites #2'
 date: 2014-09-05 14:15:58+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: book-club-lists
 excerpt: Featuring books by Karen Joy Fowler and Chimamanda Ngozi Adichie.
 breadcrumb: book-club-lists
 ---
+![We are all completely beside ourselves by Karen Joy Fowler](/images/featured/featured-we-are-all-completely-beside-ourselves.jpg)
+
 ## [<cite>The pure gold baby</cite> by Margaret Drabble](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/62989292?QRY=CTIBIB%3C%20IRN%2826582582%29&QRYTEXT=The%20pure%20gold%20baby)
 
 Spanning a period of fifty years from the 1960s to the present day, Margaret Drabble&#8217;s latest novel tells the story of Jess Speight, an anthropologist, who becomes pregnant during an affair with a married professor.

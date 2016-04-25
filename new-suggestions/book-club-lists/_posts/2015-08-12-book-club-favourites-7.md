@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Book club favourites #7'
 date: 2015-08-12 12:04:57+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: book-club-lists
 excerpt: Featuring books by Ali Smith and Colm Toibin.
 breadcrumb: book-club-lists
 ---
+![How to be both by Ali Smith](/images/featured/featured-how-to-be-both.jpg)
+
 ## [<cite>How to be both</cite> by Ali Smith](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/24242116?QRY=CTIBIB%3C%20IRN(39182909)&QRYTEXT=How%20to%20be%20both)
 
 [![How to be both by Ali Smith](http://suffolklibraries.co.uk/wp-content/uploads/2015/08/howtobeboth.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/24242116?QRY=CTIBIB%3C%20IRN(39182909)&QRYTEXT=How%20to%20be%20both)

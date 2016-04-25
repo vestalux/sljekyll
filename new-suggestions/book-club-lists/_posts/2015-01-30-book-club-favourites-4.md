@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Book club favourites #4'
 date: 2015-01-30 15:15:29+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: book-club-lists
 excerpt: Featuring books from Claire North and David Mitchell.
 breadcrumb: book-club-lists
 ---
+![The first fifteen lives of Harry August by Claire North](/images/featured/featured-the-first-fifteen-lives-of-harry-august.jpg)
+
 ## [<cite>The awakening of Miss Prim</cite> by Natalia Sanmartin Fenollera](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/1070796?QRY=CTIBIB%3C%20IRN(37212004)&QRYTEXT=The%20awakening%20of%20Miss%20Prim)
 
 [![The awakening of Miss Prim by Natalia Sanmartin Fenollera](http://suffolklibraries.co.uk/wp-content/uploads/2015/01/awakeningmissprim.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/1070796?QRY=CTIBIB%3C%20IRN(37212004)&QRYTEXT=The%20awakening%20of%20Miss%20Prim)

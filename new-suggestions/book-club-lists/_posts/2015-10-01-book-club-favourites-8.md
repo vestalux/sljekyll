@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Book club favourites #8'
 date: 2015-10-01 09:20:42+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: book-club-lists
 excerpt: Featuring books by Nicola Upson and Penny Hancock.
 breadcrumb: book-club-lists
 ---
+![The bookshop by Penelope Fitzgerald](/images/featured/featured-the-bookshop.jpg)
+
 ## [<cite>The bookshop</cite> by Penelope Fitzgerald](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10768241?QRY=CTIBIB%3C%20IRN(114036)&QRYTEXT=The%20bookshop)
 
 [![The bookshop by Penelope Fitzgerald](http://suffolklibraries.co.uk/wp-content/uploads/2015/09/thebookshop.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10768241?QRY=CTIBIB%3C%20IRN(114036)&QRYTEXT=The%20bookshop)

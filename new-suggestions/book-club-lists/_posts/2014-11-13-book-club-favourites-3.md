@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Book club favourites #3'
 date: 2014-11-13 15:26:36+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: book-club-lists
 excerpt: Featuring books by Paul Auster, David Mitchell and Emma Healey.
 breadcrumb: book-club-lists
 ---
+![David Nicholls](/images/featured/featured-david-nicholls.jpg)
+
 ## [<cite>Leviathan</cite> by Paul Auster](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/15507419?QRY=CTIBIB%3C%20IRN(153355)&QRYTEXT=Leviathan)
 
 [![Leviathan by Paul Auster](http://suffolklibraries.co.uk/wp-content/uploads/2014/11/leviathan.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/15507419?QRY=CTIBIB%3C%20IRN(153355)&QRYTEXT=Leviathan)

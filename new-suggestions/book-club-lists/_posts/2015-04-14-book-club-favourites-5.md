@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Book club favourites #5'
 date: 2015-04-14 09:52:52+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: book-club-lists
 excerpt: Featuring books by Vera Brittain and Liane Moriarty.
 breadcrumb: book-club-lists
 ---
+![The End of Your Life Book Club: a mother, a son and a world of books by Will Schwalbe](/images/featured/featured-the-end-of-your-life-book-club.jpg)
+
 ## [<cite>The elegance of the hedgehog</cite> by Muriel Barbery](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/27384204?QRY=CTIBIB%3C%20IRN(735172)&QRYTEXT=The%20elegance%20of%20the%20hedgehog)
 
 [![The elegance of the hedgehog by Muriel Barbery](http://suffolklibraries.co.uk/wp-content/uploads/2015/03/eleganceofthehedgehog.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/27384204?QRY=CTIBIB%3C%20IRN(735172)&QRYTEXT=The%20elegance%20of%20the%20hedgehog)

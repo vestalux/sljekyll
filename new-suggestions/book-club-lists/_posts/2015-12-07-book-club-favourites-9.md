@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Book club favourites #9'
 date: 2015-12-07T15:19:22+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: book-club-lists
 excerpt: Featuring books by Charity Norman and Donna Tartt.
 breadcrumb: book-club-lists
 ---
+![The goldfinch by Donna Tartt](/images/featured/featured-the-goldfinch.jpg)
+
 ## [<cite>After the fall</cite> by Charity Norman](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19589719?QRY=CTIBIB%3C%20IRN(184628)&QRYTEXT=After%20the%20fall)
 
 [![After the fall by Charity Norman](http://suffolklibraries.co.uk/wp-content/uploads/2015/12/after-the-fall.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19589719?QRY=CTIBIB%3C%20IRN(184628)&QRYTEXT=After%20the%20fall)
