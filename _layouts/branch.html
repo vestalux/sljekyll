@@ -44,19 +44,23 @@
 
                             {% assign current = page.branch-unique-id %}
 
-                        	{% assign events = site.events %}
+                        	{% assign events = site.events | sort: 'event-start-date'%}
 
                         	{% for event in events %}
 
                                 {% if event.location == current %}
 
-                                {% capture now-unix-seconds %}{{'now' | date: '%s'}}{% endcapture %}
+                                {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
 
-                                {% assign now-unix = now-unix-seconds / 86400 }
+                                {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
 
-                                {% capture event-time %}{{event.event-start-date | date: '%s'}}{% endcapture %}
+                                {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
 
-                                    {% if now-unix < event-time %}
+                                {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+
+                                <p>Evaluating {{ event.name }}: Unix days is {{ now-unix }}, the event time in days is {{ event-time }}</p>
+
+                                    {% if now-unix <= event-time %}
 
                                     	<article class="listing">
 
@@ -68,11 +72,11 @@
 
                                                 {% if event.event-end-date %}
 
-                                                     <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-date | date: "%a %-d %b" }}</span> <span>{{ event.event-end-time }}</span>
+                                                     <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-date | date: "%a %-d %b" }}</span> <span>{{ event.event-end-time }}</span>
 
                                                 {% else %}
 
-                                                     <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-time }}</span>
+                                                     <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-time }}</span>
 
                                                 {% endif %}
 
