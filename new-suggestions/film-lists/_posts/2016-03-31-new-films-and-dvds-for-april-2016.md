@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New films and DVDs for April 2016
 date: 2016-03-31 08:51:39+00:00
 author: brandon-king
@@ -7,6 +7,9 @@ category: film-lists
 excerpt: 'Featuring <cite>Star wars: Episode VII - The force awakens</cite> and <cite>Joy</cite>.'
 breadcrumb: film-lists
 ---
+
+![Star Wars](/images/featured/featured-star-wars-the-force-awakens.jpg)
+
 ## [<cite>Star wars episode VII &#8211; The force awakens</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/25594629?QRY=CTIBIB%3C%20IRN(62311457)&QRYTEXT=Star%20wars%20episode%20VII%20-%20The%20force%20awakens%20%5Bvideorecording%5D)
 
 [![Star wars: Episode VII - The force awakens](http://suffolklibraries.co.uk/wp-content/uploads/2016/03/star-wars-the-force-awakens.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/25594629?QRY=CTIBIB%3C%20IRN(62311457)&QRYTEXT=Star%20wars%20episode%20VII%20-%20The%20force%20awakens%20%5Bvideorecording%5D)

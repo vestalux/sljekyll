@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New films and DVDs for February 2015
 date: 2015-01-30 14:24:14+00:00
 author: brandon-king

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New films and DVDs for November 2015
 date: 2015-11-02 10:13:30+00:00
 author: brandon-king

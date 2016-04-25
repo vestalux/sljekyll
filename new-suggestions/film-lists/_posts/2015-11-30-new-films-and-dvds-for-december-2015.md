@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New films and DVDs for December 2015
 date: 2015-11-30 09:43:29+00:00
 author: brandon-king

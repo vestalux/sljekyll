@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New films and DVDs for May 2015
 date: 2015-05-01 07:59:11+00:00
 author: brandon-king

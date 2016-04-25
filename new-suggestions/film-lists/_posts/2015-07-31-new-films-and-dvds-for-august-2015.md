@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New films and DVDs for August 2015
 date: 2015-07-31 13:21:30+00:00
 author: brandon-king

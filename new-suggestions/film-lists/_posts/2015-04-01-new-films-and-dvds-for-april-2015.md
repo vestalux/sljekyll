@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New films and DVDs for April 2015
 date: 2015-04-01 08:23:58+00:00
 author: brandon-king

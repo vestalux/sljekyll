@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New films and DVDs for September 2014
 date: 2014-09-09 10:00:32+00:00
 author: brandon-king

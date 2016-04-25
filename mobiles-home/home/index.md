@@ -1,7 +1,7 @@
 ---
-layout: full-width
+layout: full-width-narrow
 title: Home library service
-breadcrumb: home
+breadcrumb: mobiles-home
 ---
 The Home Library Service can be provided for anyone whose physical or mental health prevents them from visiting the branch or mobile library.
 

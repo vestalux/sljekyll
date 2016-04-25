@@ -158,4 +158,20 @@
 
     </div>
 
+{% elsif page.breadcrumb == 'hub' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/branches">Branches</a> &rarr; <a href="/branches/hub">Enterprise + Innovation Hub</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% elsif page.breadcrumb == 'mobiles-home' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/mobiles-home">Mobile libraries and home library service</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
 {% endif %}

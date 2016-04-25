@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New films and DVDs for March 2014
 date: 2014-03-06 10:15:10+00:00
 author: brandon-king

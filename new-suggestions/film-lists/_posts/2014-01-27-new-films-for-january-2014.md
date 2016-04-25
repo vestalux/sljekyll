@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New films and DVDs for January 2014
 date: 2014-01-27 12:48:34+00:00
 author: brandon-king

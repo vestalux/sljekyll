@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New films and DVDs for June 2014
 date: 2014-05-29 13:04:47+00:00
 author: brandon-king

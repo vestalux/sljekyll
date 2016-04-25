@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New films and DVDs for October 2014
 date: 2014-10-02 09:33:58+00:00
 author: brandon-king
