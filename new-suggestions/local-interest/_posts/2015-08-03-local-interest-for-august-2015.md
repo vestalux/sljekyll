@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Local interest for August 2015
 date: 2015-08-03 12:12:18+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: local-interest
 excerpt: Books about Ipswich Town FC, East Anglian railways and the Elveden estate.
 breadcrumb: local-interest
 ---
+![Got, not got: the lost world of Ipswich Town by Derek Hammond and Gary Silke](/images/featured/featured-got-not-got.jpg)
+
 ## [<cite>Got, not got: the lost world of Ipswich Town</cite> by Derek Hammond and Gary Silke](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19780211?QRY=CTIBIB%3C%20IRN(52718115)&QRYTEXT=Got%2C%20not%20got%20%3A%20the%20lost%20world%20of%20Ipswich%20Town)
 
 [![Got, not got: the lost world of Ipswich Town by Derek Hammond and Gary Silke](http://suffolklibraries.co.uk/wp-content/uploads/2015/08/gotnotgot.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19780211?QRY=CTIBIB%3C%20IRN(52718115)&QRYTEXT=Got%2C%20not%20got%20%3A%20the%20lost%20world%20of%20Ipswich%20Town)

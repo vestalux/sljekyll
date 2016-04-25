@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Local interest for December 2015
 date: 2015-11-27 11:39:32+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: local-interest
 excerpt: The latest books about Suffolk history, recipes and celebrities.
 breadcrumb: local-interest
 ---
+![Of love and desire by Louis de Bernières](/images/featured/featured-of-love-and-desire.jpg)
+
 ## [<cite>Bury St Edmunds memories</cite> by Martyn Taylor](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7525353?QRY=CTIBIB%3C%20IRN(55040957)&QRYTEXT=Bury%20St%20Edmunds%20memories)
 
 [![Bury St Edmunds memories by Martyn Taylor](http://suffolklibraries.co.uk/wp-content/uploads/2015/11/bury-st-edmunds-memories.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7525353?QRY=CTIBIB%3C%20IRN(55040957)&QRYTEXT=Bury%20St%20Edmunds%20memories)

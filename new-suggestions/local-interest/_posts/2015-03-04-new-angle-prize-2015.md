@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New Angle Prize 2015
 date: 2015-03-04 11:33:11+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: local-interest
 excerpt: The New Angle Prize 2015 shortlist, which celebrates fiction set in East Anglia.
 breadcrumb: local-interest
 ---
+![Mr Mac and Me by Esther Freud](/images/featured/featured-mr-mac-and-me.jpg)
+
 ## [<cite>The Time by the Sea</cite> by Ronald Blythe](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16223113?QRY=CTIBIB%3C%20IRN(434412)&QRYTEXT=The%20time%20by%20the%20sea%20%3A%20Aldeburgh%201955-58)
 
 [![The Time by the Sea by Ronald Blythe](http://suffolklibraries.co.uk/wp-content/uploads/2015/03/timebythesea.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16223113?QRY=CTIBIB%3C%20IRN(434412)&QRYTEXT=The%20time%20by%20the%20sea%20%3A%20Aldeburgh%201955-58)

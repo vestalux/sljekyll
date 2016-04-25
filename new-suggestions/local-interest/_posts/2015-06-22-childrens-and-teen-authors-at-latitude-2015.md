@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Children&#8217;s and teen authors at Latitude 2015'
 date: 2015-06-22 09:48:44+00:00
 author: jo-dixon
@@ -7,6 +7,8 @@ category: local-interest
 excerpt: Latitude Festival is held 16-19 July this year at Henham Park, Southwold. Here are some highlights from the children's authors appearing at the festival.
 breadcrumb: local-interest
 ---
+![The Dreamsnatcher by Abi Elphinstone](/images/featured/featured-the-dreamsnatcher.jpg)
+
 ## [<cite>The Dreamsnatcher</cite> by Abi Elphinstone](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/31056287?QRY=CTIBIB%3C%20IRN(45622699)&QRYTEXT=The%20dreamsnatcher)
 
 [![The Dreamsnatcher by Abi Elphinstone](http://suffolklibraries.co.uk/wp-content/uploads/2015/06/dreamsnatcher.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/31056287?QRY=CTIBIB%3C%20IRN(45622699)&QRYTEXT=The%20dreamsnatcher)

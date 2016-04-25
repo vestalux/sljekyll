@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Local interest for October 2014
 date: 2014-10-08 15:52:17+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: local-interest
 excerpt: Including titles from Nicola Upson and Esther Freud.
 breadcrumb: local-interest
 ---
+![Detectorists](/images/featured/featured-detectorists.jpg)
+
 ## [<cite>The death of Lucy Kyte</cite> by Nicola Upson](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7633736?QRY=CTIBIB%3C%20IRN(23266958)&QRYTEXT=The%20death%20of%20Lucy%20Kyte)
 
 When bestselling crime author Josephine Tey inherits a Suffolk cottage, she becomes intrigued by the local Red Barn murders from almost a century before. The close-knit community of her village appears to hold dark secrets that she seeks to uncover.

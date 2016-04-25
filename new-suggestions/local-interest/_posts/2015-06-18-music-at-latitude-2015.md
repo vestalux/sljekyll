@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Music at Latitude 2015
 date: 2015-06-18 12:56:12+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: local-interest
 excerpt: Latitude Festival is held 16-19 July this year at Henham Park, Southwold. Here are some music highlights in our catalogue from the acts appearing at the festival.
 breadcrumb: local-interest
 ---
+![This is all yours by Alt-J](/images/featured/featured-this-is-all-yours.jpg)
+
 ## [<cite>This is all yours</cite> by Alt-J](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/27577123?QRY=CTIBIB%3C%20IRN(40991929)&QRYTEXT=This%20is%20all%20yours%20%5Bsound%20recording%5D)
 
 [![This is all yours by Alt-J](http://suffolklibraries.co.uk/wp-content/uploads/2015/06/thisisallyours.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/27577123?QRY=CTIBIB%3C%20IRN(40991929)&QRYTEXT=This%20is%20all%20yours%20%5Bsound%20recording%5D)

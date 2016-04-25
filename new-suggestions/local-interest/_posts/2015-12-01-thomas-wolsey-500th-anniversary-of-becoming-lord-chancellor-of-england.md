@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Thomas Wolsey: 500th anniversary of becoming Lord Chancellor of England'
 date: 2015-12-01 15:32:41+00:00
 author: emma-raindle
@@ -7,6 +7,8 @@ category: local-interest
 excerpt: 500 years ago, on 24 December 1515, Thomas Wolsey was appointed Lord Chancellor of England. Learn more about the local man with these books and DVDs.
 breadcrumb: local-interest
 ---
+![Stained-glass window depicting Thomas Wolsey](/images/featured/featured-thomas-wolsey-northgate-room.jpg)
+
 500 years ago, on 24 December 1515, Thomas Wolsey was appointed Lord Chancellor of England. Learn more about the local man with these books and DVDs.
 
 ## [<cite>Wolf hall</cite> by Hilary Mantel](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9288451?QRY=CTIBIB%3C%20IRN(210726)&QRYTEXT=Wolf%20Hall)

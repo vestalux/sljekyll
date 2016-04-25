@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Suffolk interest for 2015
 date: 2015-02-26 15:33:40+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: local-interest
 excerpt: Check out our Suffolk-based book and DVD picks.
 breadcrumb: local-interest
 ---
+![Hangar 10](/images/featured/featured-hangar-10.jpg)
+
 ## [<cite>Ipswich through time</cite> by Caleb Howgego](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9189963?QRY=CTIBIB%3C%20IRN(45907122)&QRYTEXT=Ipswich%20through%20time)
 
 [![Ipswich through time by Caleb Howgego](http://suffolklibraries.co.uk/wp-content/uploads/2015/01/ipswichthroughtime.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9189963?QRY=CTIBIB%3C%20IRN(45907122)&QRYTEXT=Ipswich%20through%20time)

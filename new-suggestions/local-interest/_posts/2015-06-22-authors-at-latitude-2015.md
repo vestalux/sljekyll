@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Authors at Latitude 2015
 date: 2015-06-22 09:40:47+00:00
 author: brandon-king
@@ -7,6 +7,8 @@ category: local-interest
 excerpt: Latitude Festival is held 16-19 July this year at Henham Park, Southwold. Here are some highlights from the authors appearing at the festival.
 breadcrumb: local-interest
 ---
+![Edith Bowman&#8217;s Great British music festivals by Edith Bowman](/images/featured/featured-great-british-music-festivals.jpg)
+
 ## [<cite>Edith Bowman&#8217;s Great British music festivals</cite> by Edith Bowman](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/27635008?QRY=CTIBIB%3C%20IRN(48511571)&QRYTEXT=Edith%20Bowman%27s%20Great%20British%20music%20festivals)
 
 [![Edith Bowman's Great British music festivals by Edith Bowman](http://suffolklibraries.co.uk/wp-content/uploads/2015/06/greatbritishmusicfests.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/27635008?QRY=CTIBIB%3C%20IRN(48511571)&QRYTEXT=Edith%20Bowman%27s%20Great%20British%20music%20festivals)
