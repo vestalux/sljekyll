@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: eReader pilot in Thurston having an impact
 date: 2014-06-05 17:03:07+00:00
 author: james-powell

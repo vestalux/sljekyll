@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Ipswich County Library’s multicultural celebration returns
 date: 2015-06-01 09:10:56+00:00
 author: james-powell

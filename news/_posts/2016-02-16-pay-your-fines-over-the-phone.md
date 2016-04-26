@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Pay your fines over the phone
 date: 2016-02-16 12:38:23+00:00
 author: leon-paternoster

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Literacy boost for Suffolk Libraries
 date: 2015-08-18 08:35:17+00:00
 author: james-powell

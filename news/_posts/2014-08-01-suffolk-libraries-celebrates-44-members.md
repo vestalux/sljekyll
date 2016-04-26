@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Suffolk Libraries celebrates 44 members
 date: 2014-08-01 08:22:06+00:00
 author: leon-paternoster

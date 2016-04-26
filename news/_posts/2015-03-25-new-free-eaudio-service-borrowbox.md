@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'New free eAudio service: BorrowBox'
 date: 2015-03-25 15:10:58+00:00
 author: leon-paternoster

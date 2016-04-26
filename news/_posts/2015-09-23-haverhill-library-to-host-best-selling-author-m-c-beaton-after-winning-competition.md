@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Haverhill Library to host best-selling author M.C. Beaton after winning competition
 date: 2015-09-23 10:55:56+00:00
 author: james-powell

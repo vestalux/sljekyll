@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Looking for something great to read? Suffolk Libraries launches Brave New Reads
 date: 2015-04-29 14:31:09+00:00
 author: james-powell

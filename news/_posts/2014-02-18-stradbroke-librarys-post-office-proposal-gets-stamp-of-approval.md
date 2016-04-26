@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Stradbroke Library’s post office proposal gets stamp of approval
 date: 2014-02-18 10:02:22+00:00
 author: james-powell

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Elmswell Library reopens after refurbishment
 date: 2015-10-16 12:08:10+00:00
 author: james-powell

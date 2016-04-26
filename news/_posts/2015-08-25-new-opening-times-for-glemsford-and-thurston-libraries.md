@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New opening times for Glemsford and Thurston libraries
 date: 2015-08-25 10:32:11+00:00
 author: james-powell

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: All change at Westbourne Library – A new name and a new manager!
 date: 2015-05-13 08:18:39+00:00
 author: james-powell

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Suffolk Libraries offers a chance to win ‘The Best Christmas Present in the World’
 date: 2015-10-19 11:54:54+00:00
 author: james-powell

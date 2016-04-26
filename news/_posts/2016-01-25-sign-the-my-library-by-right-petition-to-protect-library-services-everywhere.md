@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Sign the ‘My Library by Right’ petition to support library services everywhere
 date: 2016-01-25 12:28:16+00:00
 author: alison-wheeler

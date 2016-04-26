@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: full-width-narrow
 title: Teenage library books – or how we made a mostly static collection more vibrant and popular
 date: 2015-08-20 12:12:53+00:00
 author: kate-ashton

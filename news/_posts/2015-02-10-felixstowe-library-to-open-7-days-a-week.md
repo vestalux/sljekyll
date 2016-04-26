@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Felixstowe Library to open 7 days a week
 date: 2015-02-10 12:44:31+00:00
 author: leon-paternoster

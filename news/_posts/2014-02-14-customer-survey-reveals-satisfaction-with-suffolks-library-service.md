@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Customer survey reveals satisfaction with Suffolk’s library service
 date: 2014-02-14 17:09:52+00:00
 author: james-powell

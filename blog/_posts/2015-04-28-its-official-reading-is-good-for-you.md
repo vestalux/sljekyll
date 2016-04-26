@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: full-width-narrow
 title: 'It&#8217;s official: reading is good for you'
 date: 2015-04-28 09:10:20+00:00
 author: david-grimmer

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New customer services development at Woodbridge Library
 date: 2015-12-10 14:50:17+00:00
 author: james-powell

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: full-width-narrow
 title: 'Remembrance Day: activities and reading to get your child thinking'
 date: 2015-11-09 11:32:05+00:00
 author: matt-shenton

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Suffolk Libraries Customer Survey 2015 — tell us what you think!
 date: 2015-10-16 12:24:34+00:00
 author: james-powell

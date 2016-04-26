@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Suffolk Libraries to host learning event for schools
 date: 2016-03-02 10:48:14+00:00
 author: james-powell

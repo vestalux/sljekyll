@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: All libraries closed bank holiday Monday 31 Aug 2015
 date: 2015-08-30 19:40:23+00:00
 author: leon-paternoster

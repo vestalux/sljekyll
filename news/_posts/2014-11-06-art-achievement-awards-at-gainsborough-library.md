@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Art Achievement Awards at Gainsborough Library
 date: 2014-11-06 11:45:50+00:00
 author: james-powell

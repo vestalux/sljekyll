@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Formal notice for Suffolk’s Libraries IPS Ltd Annual General Meeting, Thursday, 10 September 2015
 date: 2015-08-04 14:09:38+00:00
 author: leon-paternoster

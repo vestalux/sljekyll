@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Development at Woodbridge Library to start on 22 February
 date: 2016-02-11 12:45:58+00:00
 author: james-powell

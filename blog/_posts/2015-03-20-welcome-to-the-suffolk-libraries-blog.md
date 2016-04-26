@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: full-width-narrow
 title: Welcome to the Suffolk Libraries blog
 date: 2015-03-20 09:26:10+00:00
 author: leon-paternoster

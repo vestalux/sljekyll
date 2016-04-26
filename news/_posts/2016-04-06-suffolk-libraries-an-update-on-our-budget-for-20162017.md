@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title:  Suffolk Libraries – an update on our budget for 2016/2017
 date:   2016-04-06 09:09:19 +0100
 author: james-powell

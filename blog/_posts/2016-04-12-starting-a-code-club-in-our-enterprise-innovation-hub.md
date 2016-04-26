@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: full-width-narrow
 title: Starting a Code Club in our Enterprise + Innovation Hub
 date: 2016-04-12 11:04:41+00:00
 author: charmain-osborne

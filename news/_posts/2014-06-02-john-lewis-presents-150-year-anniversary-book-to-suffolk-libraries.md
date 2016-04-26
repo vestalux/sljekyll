@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: John Lewis presents 150 year anniversary book to Suffolk Libraries
 date: 2014-06-02 12:29:08+00:00
 author: james-powell

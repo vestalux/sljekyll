@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Suffolk and Cambridgeshire library services team up to provide greater choice for customers
 date: 2015-01-27 08:59:59+00:00
 author: leon-paternoster

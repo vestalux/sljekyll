@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Ipswich Library announces Mr B the Gentleman Rhymer gig
 date: 2015-12-04 11:13:33+00:00
 author: leon-paternoster

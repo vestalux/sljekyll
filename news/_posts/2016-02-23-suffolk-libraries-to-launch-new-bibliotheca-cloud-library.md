@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Suffolk Libraries to launch new Bibliotheca Cloud Library
 date: 2016-02-23 12:30:45+00:00
 author: james-powell

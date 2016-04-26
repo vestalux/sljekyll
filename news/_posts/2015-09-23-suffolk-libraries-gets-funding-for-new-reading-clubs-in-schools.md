@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Suffolk Libraries gets funding for new reading clubs in schools
 date: 2015-09-23 07:50:27+00:00
 author: james-powell

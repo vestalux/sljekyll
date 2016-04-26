@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Ipswich Library celebrates 90th birthday!
 date: 2014-08-13 16:31:33+00:00
 author: james-powell

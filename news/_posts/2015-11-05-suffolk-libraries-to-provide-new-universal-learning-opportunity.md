@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Suffolk Libraries to provide new universal learning opportunity
 date: 2015-11-05 13:26:54+00:00
 author: james-powell

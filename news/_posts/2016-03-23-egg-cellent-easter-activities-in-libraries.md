@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Egg-cellent Easter activities in libraries!
 date: 2016-03-23 12:38:22+00:00
 author: james-powell

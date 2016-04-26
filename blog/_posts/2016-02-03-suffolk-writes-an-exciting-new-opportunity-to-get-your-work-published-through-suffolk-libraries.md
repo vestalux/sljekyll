@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: full-width-narrow
 title: Suffolk Writes – an exciting new opportunity to get your work published through Suffolk Libraries
 date: 2016-02-03 09:25:42+00:00
 author: helen-haynes

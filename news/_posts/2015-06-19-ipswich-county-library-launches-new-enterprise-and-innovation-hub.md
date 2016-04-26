@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Ipswich County Library launches new Enterprise and Innovation Hub
 date: 2015-06-19 15:00:05+00:00
 author: james-powell

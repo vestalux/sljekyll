@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 3rd Suffolk Libraries AGM September 10 2015
 date: 2015-09-11 11:00:03+00:00
 author: leon-paternoster

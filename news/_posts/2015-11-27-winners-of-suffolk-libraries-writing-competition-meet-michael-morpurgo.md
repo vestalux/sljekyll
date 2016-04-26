@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Winners of Suffolk Libraries writing competition meet Michael Morpurgo
 date: 2015-11-27 10:01:25+00:00
 author: james-powell

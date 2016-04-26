@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Stradbroke Library Post Office shortlisted for libraries award
 date: 2016-02-29 10:32:52+00:00
 author: james-powell

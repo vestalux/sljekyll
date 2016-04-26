@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: What keeps us well? New drop-in session at Ipswich Library
 date: 2015-03-03 14:46:58+00:00
 author: james-powell

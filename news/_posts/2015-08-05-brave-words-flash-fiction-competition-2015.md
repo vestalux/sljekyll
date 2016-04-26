@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Brave Words Flash Fiction Competition 2015 &#8211; the winners'
 date: 2015-08-05T12:55:36+00:00
 author: james-powell

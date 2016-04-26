@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Suffolk Libraries AGM 2014
 date: 2014-09-12 10:30:09+00:00
 author: leon-paternoster

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: full-width-narrow
 title: Looking at building new library self-service software
 date: 2016-03-02 11:51:27+00:00
 author: leon-paternoster

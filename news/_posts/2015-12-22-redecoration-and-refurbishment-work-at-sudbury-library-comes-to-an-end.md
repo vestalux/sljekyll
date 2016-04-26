@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Redecoration and refurbishment work at Sudbury Library comes to an end
 date: 2015-12-22 10:27:34+00:00
 author: james-powell

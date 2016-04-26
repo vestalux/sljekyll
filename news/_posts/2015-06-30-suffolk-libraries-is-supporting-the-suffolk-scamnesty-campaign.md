@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Suffolk Libraries is supporting the Suffolk Scamnesty Campaign!
 date: 2015-06-30 08:50:03+00:00
 author: james-powell

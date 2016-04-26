@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Lavenham Library gets refurbishment ready for Literary Festival
 date: 2015-10-23 13:50:37+00:00
 author: james-powell

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Felixstowe Library makes a record breaking start to this year’s Summer Reading Challenge
 date: 2015-07-06 14:56:59+00:00
 author: james-powell

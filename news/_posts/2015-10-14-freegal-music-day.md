@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Freegal music day: Suffolk’s libraries get musical on 7 November'
 date: 2015-10-14 09:09:54+00:00
 author: james-powell

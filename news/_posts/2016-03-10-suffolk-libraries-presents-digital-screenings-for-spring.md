@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Suffolk Libraries Presents… digital screenings for Spring
 date: 2016-03-10 10:05:52+00:00
 author: james-powell

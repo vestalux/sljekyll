@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Halesworth Library to launch iPad lending scheme
 date: 2015-07-08 13:21:15+00:00
 author: james-powell

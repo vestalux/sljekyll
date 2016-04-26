@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Raspberry Jam at Ipswich County Library’s new Innovation + Enterprise Hub
 date: 2015-07-21 12:10:25+00:00
 author: james-powell

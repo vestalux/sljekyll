@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Record Breakers! Best ever Summer Reading Challenge figures in Suffolk
 date: 2015-09-10 08:27:30+00:00
 author: james-powell

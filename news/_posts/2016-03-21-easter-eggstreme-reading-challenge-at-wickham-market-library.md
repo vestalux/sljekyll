@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Easter Eggstreme Reading Challenge at Wickham Market Library
 date: 2016-03-21 13:44:31+00:00
 author: leon-paternoster

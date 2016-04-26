@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Felixstowe Library to host book festival events
 date: 2015-06-04 08:55:48+00:00
 author: james-powell

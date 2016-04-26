@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Alice in Wonderland comes to The Abbey Gardens
 date: 2015-06-30 08:36:39+00:00
 author: james-powell

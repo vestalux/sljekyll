@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Suffolk Libraries marks World Book Day
 date: 2016-03-01 14:56:08+00:00
 author: james-powell

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Suffolk Libraries Customer Survey results 2015
 date: 2016-01-07 12:50:14+00:00
 author: james-powell

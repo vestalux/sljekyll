@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Warm Handover roadshow visits libraries in east Suffolk
 date: 2015-07-24 10:30:46+00:00
 author: james-powell

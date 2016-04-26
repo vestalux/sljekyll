@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Leiston Library launch
 date: 2015-06-04 08:33:19+00:00
 author: james-powell

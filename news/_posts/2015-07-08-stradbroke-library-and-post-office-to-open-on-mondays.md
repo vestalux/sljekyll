@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Stradbroke Library and Post Office to open on Mondays
 date: 2015-07-08 08:33:33+00:00
 author: james-powell

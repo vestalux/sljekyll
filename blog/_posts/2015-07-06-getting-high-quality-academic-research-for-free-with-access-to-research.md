@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: full-width-narrow
 title: Getting high quality academic research for free with Access to Research
 date: 2015-07-06 09:51:32+00:00
 author: helen-haynes

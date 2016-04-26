@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Elmswell Library prepares for major refurbishment
 date: 2015-09-12 13:40:14+00:00
 author: james-powell

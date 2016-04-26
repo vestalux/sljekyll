@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: West Suffolk libraries team up for giant map project
 date: 2016-04-01 12:40:04+00:00
 author: james-powell

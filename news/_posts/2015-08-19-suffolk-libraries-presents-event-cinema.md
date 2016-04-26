@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Suffolk Libraries presents&hellip; Event Cinema!'
 date: 2015-08-19 11:19:50+00:00
 author: james-powell

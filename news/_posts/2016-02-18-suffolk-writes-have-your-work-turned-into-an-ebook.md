@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Suffolk Writes &#8211; have your work turned into an eBook!'
 date: 2016-02-18 15:42:15+00:00
 author: james-powell

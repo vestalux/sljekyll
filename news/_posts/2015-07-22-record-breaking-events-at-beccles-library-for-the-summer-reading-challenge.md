@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Record-breaking events at Beccles Library for the Summer Reading Challenge
 date: 2015-07-22 12:41:29+00:00
 author: james-powell

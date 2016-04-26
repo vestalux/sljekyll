@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Suffolk Libraries shortlisted at the EDGE conference
 date: 2014-02-26 18:01:52+00:00
 author: james-powell

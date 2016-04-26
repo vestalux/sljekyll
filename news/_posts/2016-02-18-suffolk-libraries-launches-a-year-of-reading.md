@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Suffolk Libraries launches a year of reading!
 date: 2016-02-18 15:56:16+00:00
 author: james-powell

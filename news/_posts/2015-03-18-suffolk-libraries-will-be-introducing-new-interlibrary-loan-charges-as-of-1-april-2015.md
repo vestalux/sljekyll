@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Suffolk Libraries will be introducing new interlibrary loan charges as of 1 April 2015
 date: 2015-03-18 14:51:11+00:00
 author: leon-paternoster

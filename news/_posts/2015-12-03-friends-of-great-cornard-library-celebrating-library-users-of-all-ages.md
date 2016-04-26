@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Friends of Great Cornard Library celebrating library users of all ages!
 date: 2015-12-03 13:29:56+00:00
 author: leon-paternoster

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Suffolk County Council budget review: 2016/17 and 2017/18'
 date: 2015-11-18 19:42:54+00:00
 author: james-powell

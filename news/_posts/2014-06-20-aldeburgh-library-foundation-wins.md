@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Aldeburgh Library Foundation wins Learning Project of the Year!
 date: 2014-06-20 15:33:18+00:00
 author: james-powell

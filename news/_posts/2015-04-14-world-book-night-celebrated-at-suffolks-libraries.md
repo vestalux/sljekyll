@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: World Book night celebrated at Suffolk’s libraries
 date: 2015-04-14 12:25:04+00:00
 author: james-powell

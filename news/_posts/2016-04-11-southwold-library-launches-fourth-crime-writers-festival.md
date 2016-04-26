@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Southwold Library launches fourth Crime Writers Festival
 date: 2016-04-11 14:17:38 +00:00
 author: james-powell

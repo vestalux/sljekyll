@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Suffolk Libraries receives £99k to develop arts opportunities to ‘wow’ audiences
 date: 2014-10-24 14:47:14+00:00
 author: james-powell

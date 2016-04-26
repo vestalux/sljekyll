@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Elmswell Library celebrates refurbishment on 9 January 2016
 date: 2016-01-11 15:08:24+00:00
 author: james-powell

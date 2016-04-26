@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Write your own love story at Ipswich County Library!
 date: 2016-03-15 12:25:28+00:00
 author: james-powell

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Suffolk Libraries supports weather watchers
 date: 2015-11-10 11:38:39+00:00
 author: james-powell

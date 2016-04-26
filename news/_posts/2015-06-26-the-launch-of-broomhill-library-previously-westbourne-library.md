@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: The launch of Broomhill Library (previously Westbourne Library)
 date: 2015-06-26 09:20:27+00:00
 author: james-powell

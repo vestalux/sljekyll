@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Bury St Edmunds Mobile Library Route 6 will miss stops on 2 September
 date: 2015-09-02 08:22:38+00:00
 author: james-powell

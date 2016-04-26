@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Jesus and Mo website and filtering internet websites and pages
 date: 2014-02-05 09:15:09+00:00
 author: leon-paternoster

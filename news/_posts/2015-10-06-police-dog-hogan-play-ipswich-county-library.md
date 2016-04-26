@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Police Dog Hogan play Ipswich County Library
 date: 2015-10-06 08:26:03+00:00
 author: leon-paternoster

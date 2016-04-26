@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Support and celebrate libraries on National Libraries Day
 date: 2016-02-03 11:59:16+00:00
 author: james-powell

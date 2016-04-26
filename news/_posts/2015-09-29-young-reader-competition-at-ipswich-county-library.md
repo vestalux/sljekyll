@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Young reader competition at Ipswich County Library
 date: 2015-09-29 08:31:47+00:00
 author: leon-paternoster

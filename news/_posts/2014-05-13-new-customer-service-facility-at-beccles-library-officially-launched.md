@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New customer service facility at Beccles Library officially launched
 date: 2014-05-13 16:05:07+00:00
 author: james-powell

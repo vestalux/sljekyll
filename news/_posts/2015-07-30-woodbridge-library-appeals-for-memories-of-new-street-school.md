@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Woodbridge Library appeals for memories of New Street School
 date: 2015-07-30 12:09:43+00:00
 author: james-powell

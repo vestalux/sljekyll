@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: full-width-narrow
 title: Blind books at Rosehill Library
 date: 2015-03-31 12:19:39+00:00
 author: sarah-watt

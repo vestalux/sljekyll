@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New Lego Duplo creative play sessions at Ipswich County Library
 date: 2015-09-10 08:23:38+00:00
 author: james-powell

@@ -1,5 +1,5 @@
 ---
-id: 48025
+post: sidebar-right
 title: Library tutor cards consultation
 date: 2015-08-24 10:46:21+00:00
 author: james-powell

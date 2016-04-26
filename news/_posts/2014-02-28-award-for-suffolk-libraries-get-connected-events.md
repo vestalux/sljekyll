@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Award for Suffolk Libraries Get Connected events
 date: 2014-02-28 09:41:48+00:00
 author: leon-paternoster

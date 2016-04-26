@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: full-width-narrow
 title: 'In celebration of libraries (for me, it&#8217;s personal)'
 date: 2016-02-05 13:32:18+00:00
 author: alison-wheeler

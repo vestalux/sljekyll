@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: full-width-narrow
 title: Using Access to Research to support A level students
 date: 2015-12-22 09:27:05+00:00
 author: helen-haynes

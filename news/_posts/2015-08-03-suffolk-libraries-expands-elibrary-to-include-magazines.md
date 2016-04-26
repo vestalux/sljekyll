@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Suffolk Libraries expands eLibrary to include magazines
 date: 2015-08-03 12:43:22+00:00
 author: james-powell

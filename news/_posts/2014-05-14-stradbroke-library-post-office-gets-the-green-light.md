@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Stradbroke Library Post Office gets the green light!
 date: 2014-05-14 08:53:46+00:00
 author: james-powell

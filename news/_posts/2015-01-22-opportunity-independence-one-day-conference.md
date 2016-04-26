@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Opportunity &amp; Independence one day conference'
 date: 2015-01-22T10:29:34+00:00
 author: leon-paternoster

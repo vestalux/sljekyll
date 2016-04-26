@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: full-width-narrow
 title: Minecraft and children’s LAN parties at Thurston Library
 date: 2015-08-07 08:55:51+00:00
 author: henry-evans

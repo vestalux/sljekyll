@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Glemsford Library refurbishment and temporary closure
 date: 2016-03-16 13:31:31+00:00
 author: leon-paternoster

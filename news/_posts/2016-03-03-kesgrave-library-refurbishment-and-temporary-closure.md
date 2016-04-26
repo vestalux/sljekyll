@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Kesgrave Library refurbishment and temporary closure
 date: 2016-03-03 11:27:03+00:00
 author: james-powell

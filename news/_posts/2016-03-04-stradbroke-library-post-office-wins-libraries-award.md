@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Stradbroke Library Post Office wins libraries award!
 date: 2016-03-04 11:45:02+00:00
 author: james-powell

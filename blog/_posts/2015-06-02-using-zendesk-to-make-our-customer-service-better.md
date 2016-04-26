@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: full-width-narrow
 title: Using Zendesk to make our customer service better
 date: 2015-06-02 10:53:19+00:00
 author: maddie-smith

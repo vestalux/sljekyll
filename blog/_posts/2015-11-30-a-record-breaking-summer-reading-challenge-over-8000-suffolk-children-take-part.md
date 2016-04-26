@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: full-width-narrow
 title: 'A record-breaking Summer Reading Challenge: over 8,000 Suffolk children take part'
 date: 2015-11-30 11:54:55+00:00
 author: germaine-bates

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Beccles Library to increase opening hours and launch new Reading Hack project
 date: 2016-03-30 14:40:48+00:00
 author: james-powell

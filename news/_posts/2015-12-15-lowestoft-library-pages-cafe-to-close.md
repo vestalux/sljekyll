@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Lowestoft Library Pages café to close
 date: 2015-12-15 08:35:11+00:00
 author: james-powell

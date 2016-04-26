@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Young people gain arts awards at Lowestoft Library
 date: 2014-03-19 13:47:55+00:00
 author: james-powell

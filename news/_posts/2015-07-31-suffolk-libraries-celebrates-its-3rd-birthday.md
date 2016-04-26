@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Suffolk Libraries celebrates its 3rd birthday
 date: 2015-07-31 07:36:18+00:00
 author: james-powell

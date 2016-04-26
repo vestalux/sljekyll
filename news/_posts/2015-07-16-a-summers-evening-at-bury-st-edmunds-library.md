@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: A Summer’s Evening at Bury St Edmunds Library
 date: 2015-07-16 08:50:13+00:00
 author: james-powell

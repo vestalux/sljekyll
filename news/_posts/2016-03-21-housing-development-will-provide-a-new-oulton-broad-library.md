@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Housing development will provide a new Oulton Broad Library
 date: 2016-03-21 13:19:30+00:00
 author: james-powell

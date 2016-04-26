@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Suffolk Libraries&#8217; comment on the Independent Library Report for England'
 date: 2014-12-18 12:00:39+00:00
 author: leon-paternoster
