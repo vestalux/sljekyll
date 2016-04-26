@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Christmas children&#8217;s books for 2015'
 date: 2015-11-23 15:45:33+00:00
 author: jo-dixon

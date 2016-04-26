@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: LGBT History Month for young people in 2016
 date: 2015-12-16 15:47:55+00:00
 author: jo-dixon

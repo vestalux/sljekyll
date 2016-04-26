@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Super Thursday: 7 April 2016'
 date: 2016-04-05 09:38:26+00:00
 author: jo-dixon

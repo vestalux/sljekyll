@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Chinese New Year of the Monkey for children in 2016
 date: 2016-02-02 09:09:39+00:00
 author: jo-dixon

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: National Libraries Day for children in 2016
 date: 2016-02-02 09:27:39+00:00
 author: jo-dixon

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New children’s books for October 2015
 date: 2015-10-01 09:05:47+00:00
 author: jo-dixon

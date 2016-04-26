@@ -4,12 +4,10 @@ title: Mythical Maze for Summer Reading Challenge 2014
 date: 2014-07-18 12:43:27+00:00
 author: jo-dixon
 category: childrens-book-lists
-excerpt: Myth and monster books to keep your children reading over the summer. Ideal for the Summer Reading Challenge.
+excerpt: Myth and monster books to keep your children reading over the summer, ideal for the Summer Reading Challenge.
 breadcrumb: childrens-book-lists
 ---
 ![Bedtime for Monsters by Ed Vere](/images/featured/featured-bedtime-for-monsters.jpg)
-
-# Summer Reading Challenge reading list
 
 Stuck for reading inspiration over the summer? Try this myths and legends list when you take the Summer Reading Challenge &#8211; reserve and collect from your library:
 

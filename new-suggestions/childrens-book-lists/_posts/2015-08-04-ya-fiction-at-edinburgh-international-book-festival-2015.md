@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: YA fiction at Edinburgh International Book Festival 2015
 date: 2015-08-04T09:34:32+00:00
 author: emma-raindle

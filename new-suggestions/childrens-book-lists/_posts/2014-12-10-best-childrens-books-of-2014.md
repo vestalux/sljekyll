@@ -9,7 +9,91 @@ breadcrumb: childrens-book-lists
 ---
 ![Counting by 7s by Holly Goldberg Sloane](/images/featured/featured-counting-by-sevens.jpg)
 
-## Best board books for babies
+## Board books
+
+### [<cite>Where is Maisy?</cite> by Lucy Cousins](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6025789?QRY=CTIBIB%3C%20IRN(696621)&QRYTEXT=Where%20is%20Maisy%3F)
+
+<div class="row">
+  <div class="medium-2 columns">
+    <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6025789?QRY=CTIBIB%3C%20IRN(696621)&QRYTEXT=Where%20is%20Maisy%3F"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2014/12/whereismaisy.jpg" alt="Where is Maisy? by Lucy Cousins" /></a>
+  </div>
+
+  <div class="medium-10 columns">
+    <p>
+      A lift-the-flap book with clear illustrations and sturdy flaps.
+    </p>
+  </div>
+</div>
+
+&nbsp;
+
+### [<cite>Wibbly Pig likes Bananas</cite> by Mick Inkpen](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6029000?QRY=CTIBIB%3C%20IRN(9058)&QRYTEXT=Wibbly%20Pig%20likes%20bananas)
+
+<div class="row">
+  <div class="medium-2 columns">
+    <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6029000?QRY=CTIBIB%3C%20IRN(9058)&QRYTEXT=Wibbly%20Pig%20likes%20bananas"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2014/12/wibblypigbananas.jpg" alt="Wibbly Pig likes Bananas by Mick Inkpen" /></a>
+  </div>
+
+  <div class="medium-10 columns">
+    <p>
+      Poses important questions to the discerning baby such as, “Which bear would you choose?”
+    </p>
+  </div>
+</div>
+
+&nbsp;
+
+### [<cite>Clip-Clop</cite> by Nicola Smee](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6032673?QRY=CTIBIB%3C%20IRN(930410)&QRYTEXT=Clip-clop)
+
+<div class="row">
+  <div class="medium-2 columns">
+    <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6035748?QRY=CTIBIB%3C%20IRN(930410)&QRYTEXT=Clip-clop"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2014/12/clipclop.jpg" alt="Clip-Clop by Nicola Smee" /></a>
+  </div>
+
+  <div class="medium-10 columns">
+    <p>
+      The animals gather on Mr Horse’s back as he trots along, until they cry “Whoa!” with inevitable consequences.
+    </p>
+  </div>
+</div>
+
+&nbsp;
+
+### [<cite>Flip Flop Farm</cite> by Axel Scheffler](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9486728?QRY=CTIBIB%3C%20IRN(22125051)&QRYTEXT=Axel%20Scheffler%27s%20Flip%20Flap%20Farm)
+
+<div class="row">
+  <div class="medium-2 columns">
+    <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9486728?QRY=CTIBIB%3C%20IRN(22125051)&QRYTEXT=Axel%20Scheffler%27s%20Flip%20Flap%20Farm"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2014/12/flipflapfarm.jpg" alt="Flip Flap Farm by Axel Scheffler" /></a>
+  </div>
+
+  <div class="medium-10 columns">
+    <p>
+      We love the new Flip Flap series where you turn the top and bottom of each page independently to create the most unusual animals. I think my favourite animal in this book is the Hirrel (horse/goat) or perhaps the Chow (chicken/cow).
+    </p>
+  </div>
+</div>
+
+&nbsp;
+
+## Picture books
+
+### [<cite>The Queen&#8217;s Hat</cite> by Steve Antony](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6037980?QRY=CTIBIB%3C%20IRN(35038424)&QRYTEXT=The%20Queen%27s%20hat)
+
+<div class="row">
+  <div class="medium-2 columns">
+    <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6037980?QRY=CTIBIB%3C%20IRN(35038424)&QRYTEXT=The%20Queen%27s%20hat"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2014/12/queenhat.jpg" alt="The Queen's Hat by Steve Antony" /></a>
+  </div>
+
+  <div class="medium-10 columns">
+    <p>
+      Capturing the essence of London and Englishness, a troop of guardsmen follow the Queen on a windy day as she chases around London’s famous landmarks in pursuit of her hat. If you look closely you might notice her butler running through the book carrying a tray set for afternoon tea.
+    </p>
+  </div>
+</div>
+
+&nbsp;
+
+### Best board books for babies
 
 ### [<cite>Where is Maisy?</cite> by Lucy Cousins](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6025789?QRY=CTIBIB%3C%20IRN(696621)&QRYTEXT=Where%20is%20Maisy%3F)
 
@@ -95,95 +179,7 @@ breadcrumb: childrens-book-lists
 
 &nbsp;
 
-### [## Best board books for babies
-
-&nbsp;
-
-### [<cite>Where is Maisy?</cite> by Lucy Cousins](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6025789?QRY=CTIBIB%3C%20IRN(696621)&QRYTEXT=Where%20is%20Maisy%3F)
-
-<div class="row">
-  <div class="medium-2 columns">
-    <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6025789?QRY=CTIBIB%3C%20IRN(696621)&QRYTEXT=Where%20is%20Maisy%3F"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2014/12/whereismaisy.jpg" alt="Where is Maisy? by Lucy Cousins" /></a>
-  </div>
-
-  <div class="medium-10 columns">
-    <p>
-      A lift-the-flap book with clear illustrations and sturdy flaps.
-    </p>
-  </div>
-</div>
-
-&nbsp;
-
-### [<cite>Wibbly Pig likes Bananas</cite> by Mick Inkpen](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6029000?QRY=CTIBIB%3C%20IRN(9058)&QRYTEXT=Wibbly%20Pig%20likes%20bananas)
-
-<div class="row">
-  <div class="medium-2 columns">
-    <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6029000?QRY=CTIBIB%3C%20IRN(9058)&QRYTEXT=Wibbly%20Pig%20likes%20bananas"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2014/12/wibblypigbananas.jpg" alt="Wibbly Pig likes Bananas by Mick Inkpen" /></a>
-  </div>
-
-  <div class="medium-10 columns">
-    <p>
-      Poses important questions to the discerning baby such as, “Which bear would you choose?”
-    </p>
-  </div>
-</div>
-
-&nbsp;
-
-### [<cite>Clip-Clop</cite> by Nicola Smee](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6032673?QRY=CTIBIB%3C%20IRN(930410)&QRYTEXT=Clip-clop)
-
-<div class="row">
-  <div class="medium-2 columns">
-    <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6035748?QRY=CTIBIB%3C%20IRN(930410)&QRYTEXT=Clip-clop"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2014/12/clipclop.jpg" alt="Clip-Clop by Nicola Smee" /></a>
-  </div>
-
-  <div class="medium-10 columns">
-    <p>
-      The animals gather on Mr Horse’s back as he trots along, until they cry “Whoa!” with inevitable consequences.
-    </p>
-  </div>
-</div>
-
-&nbsp;
-
-### [<cite>Flip Flop Farm</cite> by Axel Scheffler](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9486728?QRY=CTIBIB%3C%20IRN(22125051)&QRYTEXT=Axel%20Scheffler%27s%20Flip%20Flap%20Farm)
-
-<div class="row">
-  <div class="medium-2 columns">
-    <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9486728?QRY=CTIBIB%3C%20IRN(22125051)&QRYTEXT=Axel%20Scheffler%27s%20Flip%20Flap%20Farm"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2014/12/flipflapfarm.jpg" alt="Flip Flap Farm by Axel Scheffler" /></a>
-  </div>
-
-  <div class="medium-10 columns">
-    <p>
-      We love the new Flip Flap series where you turn the top and bottom of each page independently to create the most unusual animals. I think my favourite animal in this book is the Hirrel (horse/goat) or perhaps the Chow (chicken/cow).
-    </p>
-  </div>
-</div>
-
-&nbsp;
-
-## Best picture books for 2-4 year olds
-
-&nbsp;
-
-### [<cite>The Queen&#8217;s Hat</cite> by Steve Antony](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6037980?QRY=CTIBIB%3C%20IRN(35038424)&QRYTEXT=The%20Queen%27s%20hat)
-
-<div class="row">
-  <div class="medium-2 columns">
-    <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6037980?QRY=CTIBIB%3C%20IRN(35038424)&QRYTEXT=The%20Queen%27s%20hat"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2014/12/queenhat.jpg" alt="The Queen's Hat by Steve Antony" /></a>
-  </div>
-
-  <div class="medium-10 columns">
-    <p>
-      Capturing the essence of London and Englishness, a troop of guardsmen follow the Queen on a windy day as she chases around London’s famous landmarks in pursuit of her hat. If you look closely you might notice her butler running through the book carrying a tray set for afternoon tea.
-    </p>
-  </div>
-</div>
-
-&nbsp;
-
-###](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6072630?QRY=CTIBIB%3C%20IRN(19768479)&QRYTEXT=Open%20very%20carefully)
+### [Open Very Carefully by Nick Bromley & Nicola O’Byrne](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6072630?QRY=CTIBIB%3C%20IRN(19768479)&QRYTEXT=Open%20very%20carefully)
 
 <div class="row">
   <div class="medium-2 columns">
@@ -297,8 +293,6 @@ breadcrumb: childrens-book-lists
 
 ## Best books for young readers
 
-&nbsp;
-
 ### [<cite>Betsy Biggelow is here</cite> by Malorie Blackman](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8099739?QRY=CTIBIB%3C%20IRN(36215225)&QRYTEXT=Betsey%20Biggalow%20is%20here!)
 
 <div class="row">
@@ -395,9 +389,7 @@ breadcrumb: childrens-book-lists
 
 &nbsp;
 
-## Best novels for 8-12 year olds
-
-&nbsp;
+## Junior novels
 
 ### [<cite>The Parent Agency</cite> by David Baddiel](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9215225?QRY=CTIBIB%3C%20IRN(41339396)&QRYTEXT=The%20parent%20agency)
 
@@ -527,9 +519,7 @@ breadcrumb: childrens-book-lists
 
 &nbsp;
 
-## Best novels for young teens
-
-&nbsp;
+## Young teen
 
 ### [<cite>The Apple tart of hope</cite> by Sarah Moore Fitzgerald](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9422658?QRY=CTIBIB%3C%20IRN(37213544)&QRYTEXT=The%20apple%20tart%20of%20hope)
 
@@ -577,11 +567,7 @@ breadcrumb: childrens-book-lists
   </div>
 </div>
 
-&nbsp;
-
-## Best information books
-
-&nbsp;
+## Junior non-fiction
 
 ### [<cite>Amazing jobs: with over 50 flaps to lift!</cite> by Lonely Planet](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9437367?QRY=CTIBIB%3C%20IRN(32457732)&QRYTEXT=Amazing%20jobs%20%3A%20explore%20real%20jobs%20around%20the%20world%20%3A%20with%20over%2050%20flaps%20to%20lift!)
 
@@ -644,5 +630,3 @@ breadcrumb: childrens-book-lists
     </p>
   </div>
 </div>
-
-&nbsp;

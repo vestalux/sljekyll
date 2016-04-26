@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: National Coding Week 2015
 date: 2015-09-15 09:29:44+00:00
 author: jo-dixon

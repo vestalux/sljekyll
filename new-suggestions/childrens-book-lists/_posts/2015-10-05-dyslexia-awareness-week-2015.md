@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Dyslexia Awareness Week 2015
 date: 2015-10-05 19:36:56+00:00
 author: jo-dixon

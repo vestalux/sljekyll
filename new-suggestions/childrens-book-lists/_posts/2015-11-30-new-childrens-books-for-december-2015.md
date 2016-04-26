@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New children’s books for December 2015
 date: 2015-11-30 11:35:28+00:00
 author: jo-dixon

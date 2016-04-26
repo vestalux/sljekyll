@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Halloween for children 2015
 date: 2015-10-13 12:02:50+00:00
 author: jo-dixon

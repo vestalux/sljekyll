@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New children’s books for April 2015
 date: 2015-04-01 08:24:59+00:00
 author: jo-dixon

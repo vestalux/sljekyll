@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Record Breakers for Summer Reading Challenge 2015
 date: 2015-08-04 09:20:59+00:00
 author: jo-dixon

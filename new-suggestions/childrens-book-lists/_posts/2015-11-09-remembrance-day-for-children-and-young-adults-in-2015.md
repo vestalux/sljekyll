@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Remembrance Day for children and young adults in 2015
 date: 2015-11-09 09:22:58+00:00
 author: jo-dixon

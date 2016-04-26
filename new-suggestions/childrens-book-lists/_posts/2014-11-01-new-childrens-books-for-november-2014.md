@@ -4,12 +4,12 @@ title: 'New children&#8217;s books for November 2014'
 date: 2014-11-01 07:59:28+00:00
 author: jo-dixon
 category: childrens-book-lists
-excerpt: November's new additions bring not only crime thrillers to rival Guy Fawkes' story in the form of Harlan Coben's new teen novel <cite>Found</cite>, but also a generous amount of heart-warming picture books like <cite>Sam & Dave Dig a Hole</cite> and trivia to stir up laughs such as <cite>The Beano Joke Book</cite>.
+excerpt: Featuring books by Harlan Coben and Marc Burnett.
 breadcrumb: childrens-book-lists
 ---
 ![Here Be Monsters by Jonathan Emmett](/images/featured/featured-here-be-monsters.jpg)
 
-## Board books for babies and toddlers
+## Board books
 
 ### [<cite>Night Time</cite> by Anna Milbourne](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9498370?QRY=CTIBIB%3C%20IRN(785271)&QRYTEXT=Night%20time)
 
@@ -17,7 +17,7 @@ breadcrumb: childrens-book-lists
 
 This lovely hardback board book has flaps to pick at and cut outs to peep through. For the more discerning toddler it’s brimming with interesting facts too.
 
-## Picture books for pre-school children
+## Picture books
 
 ### [<cite>Sam & Dave Dig a Hole</cite> by Marc Burnett](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9501505?QRY=CTIBIB%3C%20IRN(38546183)&QRYTEXT=Sam%20%26%20Dave%20dig%20a%20hole)
 
@@ -43,7 +43,7 @@ If you’re looking for an exciting rhyming story to read aloud, you can’t go 
 
 Another brilliantly clever picture book from Nicola O’Byrne, this time featuring a wicked librarian wolf who tries to outwit a delightfully innocent rabbit. With beautiful illustrations that will enliven any child&#8217;s imagination, this picture book provides laughs from start to finish and morals akin to one of Aesop&#8217;s Fables.
 
-## Junior novels for 8 &#8211; 12 year olds
+## Junior novels
 
 ### [<cite>The Parent Agency</cite> by David Baddiel](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9509723?QRY=CTIBIB%3C%20IRN(44635641)&QRYTEXT=The%20parent%20agency)
 

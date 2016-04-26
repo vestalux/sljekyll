@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Young Adult Literature Convention 2015
 date: 2015-06-30 11:43:31+00:00
 author: emma-raindle

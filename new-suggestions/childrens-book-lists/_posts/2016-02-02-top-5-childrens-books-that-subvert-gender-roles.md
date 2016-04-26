@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Top 5 children&#8217;s books that subvert gender roles'
 date: 2016-02-02 12:51:39+00:00
 author: jo-dixon

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New children’s books for July 2015
 date: 2015-07-01 08:15:45+00:00
 author: jo-dixon

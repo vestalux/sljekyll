@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Starting playgroup and school in 2015
 date: 2015-09-03 13:59:42+00:00
 author: jo-dixon

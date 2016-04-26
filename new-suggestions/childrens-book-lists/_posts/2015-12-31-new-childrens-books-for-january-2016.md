@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New children’s books for January 2016
 date: 2015-12-31 10:04:46+00:00
 author: jo-dixon

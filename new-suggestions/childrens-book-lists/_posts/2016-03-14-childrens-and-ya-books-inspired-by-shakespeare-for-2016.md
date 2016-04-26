@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Children’s and YA books inspired by Shakespeare for 2016
 date: 2016-03-14 09:52:02+00:00
 author: jo-dixon

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'British Science Week for children in 2016'
 date: 2016-03-02 11:12:56+00:00
 author: jo-dixon

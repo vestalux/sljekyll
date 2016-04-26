@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: National Non-Fiction November 2015
 date: 2015-11-06 16:06:05+00:00
 author: jo-dixon
