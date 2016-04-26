@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Lesley’s Readers: We are all completely beside ourselves by Karen Joy Fowler'
 date: 2014-11-03 15:35:55+00:00
 author: sarah-jenkins

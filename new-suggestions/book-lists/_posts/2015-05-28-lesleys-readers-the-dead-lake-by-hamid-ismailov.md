@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Lesley&#8217;s Readers: The dead lake by Hamid Ismailov'
 date: 2015-05-28 13:51:17+00:00
 author: maddie-smith

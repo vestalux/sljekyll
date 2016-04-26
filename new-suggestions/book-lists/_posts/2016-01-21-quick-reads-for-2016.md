@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Quick Reads for 2016
 date: 2016-01-21 09:28:22+00:00
 author: brandon-king

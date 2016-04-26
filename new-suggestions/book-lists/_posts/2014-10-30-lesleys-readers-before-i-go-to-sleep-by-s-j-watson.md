@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Lesley&#8217;s Readers: Before I go to sleep by S. J. Watson'
 date: 2014-10-30 16:49:45+00:00
 author: sarah-jenkins

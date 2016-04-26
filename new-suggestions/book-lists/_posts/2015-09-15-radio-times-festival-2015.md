@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Radio Times Festival 2015
 date: 2015-09-15 08:57:03+00:00
 author: emma-raindle

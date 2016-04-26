@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Lesley&#8217;s Readers: Us by David Nicholls'
 date: 2015-04-23 12:46:19+00:00
 author: maddie-smith

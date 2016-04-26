@@ -9,7 +9,7 @@ breadcrumb: non-fiction-lists
 ---
 ![H is for Hawk by Helen MacDonald](/images/featured/featured-h-is-for-hawk.jpg)
 
-## [H is for Hawk by Helen MacDonald](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44411098?QRY=CTIBIB%3C%20IRN%2842637682%29&QRYTEXT=H%20is%20for%20hawk)
+## [<cite>H is for Hawk</cite> by Helen MacDonald](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44411098?QRY=CTIBIB%3C%20IRN%2842637682%29&QRYTEXT=H%20is%20for%20hawk)
 
 > In real life, goshawks resemble sparrowhawks the way leopards resemble housecats. Bigger, yes. But bulkier, bloodier, deadlier, scarier, and much, much harder to see. Birds of deep woodland, not gardens, they&#8217;re the birdwatchers&#8217; dark grail.
 
@@ -19,7 +19,7 @@ When her father dies and she is knocked sideways by grief, she becomes obsessed 
 
 A record of a spiritual journey – an unflinchingly honest account of Macdonald&#8217;s struggle with grief during the difficult process of the hawk&#8217;s taming and her own untaming.
 
-### [The lost Pre-Raphaelite: The secret life & loves of Robert Bateman by Nigel Daly](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44430294?QRY=CTIBIB%3C%20IRN%2839259531%29&QRYTEXT=The%20lost%20Pre-Raphaelite%20%3A%20the%20secret%20life%20%26%20loves%20of%20Robert%20Bateman)
+## [<cite>The lost Pre-Raphaelite: The secret life & loves of Robert Bateman</cite> by Nigel Daly](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44430294?QRY=CTIBIB%3C%20IRN%2839259531%29&QRYTEXT=The%20lost%20Pre-Raphaelite%20%3A%20the%20secret%20life%20%26%20loves%20of%20Robert%20Bateman)
 
 When the author bought a falling down fortified house on the Staffordshire moorlands, he had no reason to anticipate the astonishing tale that would unfold as it was restored.
 
@@ -27,7 +27,7 @@ An increasingly mysterious set of relationships emerged amongst its former owner
 
 Moving from Staffordshire to India, to Canada and Wyoming, this is an astonishing and deeply moving story of love and loss, art and family.
 
-### [The greatest escape: How one French community saved thousands of lives from the Nazis by Peter Grose](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44431048?QRY=CTIBIB%3C%20IRN%2839260567%29&QRYTEXT=The%20greatest%20escape%20%3A%20how%20one%20French%20community%20saved%20thousands%20of%20lives%20from%20the%20Nazis)
+## [<cite>The greatest escape: How one French community saved thousands of lives from the Nazis</cite> by Peter Grose](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44431048?QRY=CTIBIB%3C%20IRN%2839260567%29&QRYTEXT=The%20greatest%20escape%20%3A%20how%20one%20French%20community%20saved%20thousands%20of%20lives%20from%20the%20Nazis)
 
 In the upper reaches of the Loire lies an isolated plateau and the secluded village of Le Chambon–sur–Lignon. Their whole village was honoured not just by the French state, but with the extremely rare distinction of Righteous Among Nations by the people of Israel.
 
@@ -35,11 +35,11 @@ How they earned this is one of the great modern stories of heroism and courage. 
 
 Of those saved approximately 3500 were of Jewish descent. This title tells the story of how one French community saved these lives.
 
-### [Buster: The dog who saved a thousand lives by Will Barrow](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44431523?QRY=CTIBIB%3C%20IRN%2839261200%29&QRYTEXT=Buster%20%3A%20the%20dog%20who%20saved%20a%20thousand%20lives)
+## [<cite>Buster: The dog who saved a thousand lives</cite> by Will Barrow](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44431523?QRY=CTIBIB%3C%20IRN%2839261200%29&QRYTEXT=Buster%20%3A%20the%20dog%20who%20saved%20a%20thousand%20lives)
 
 The story of Buster and Will, told by Will himself, describing how each came to save the other&#8217;s life. This is a relationship that produced some heroic feats in the dust and desert heat of Afghanistan – and the most decorated dog in military history.
 
-### [The final season by Nigel McCrery](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44432021?QRY=CTIBIB%3C%20IRN%2839260550%29&QRYTEXT=The%20final%20season)
+## [<cite>The final season</cite> by Nigel McCrery](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44432021?QRY=CTIBIB%3C%20IRN%2839260550%29&QRYTEXT=The%20final%20season)
 
 In 1914, as today, professional footballers were heroes and role models. They were the sporting superstars of their time; symbols of youth, health and vigour. And naturally enough, when war broke out they felt it was their duty to join up.
 
@@ -47,13 +47,11 @@ Between 1914 and 1918, 213 professional players fell in action. Some teams lost 
 
 A moving account of the young men who swapped the turf of the pitch and the cheers of the fans for the freezing mud of the battlefield and the scream of shell fire.
 
-## eBooks to download
-
-### [Anzac Girls: The Extraordinary Story of our World War 1 Nurses by Peter Rees](http://suffolklibraries.lib.overdrive.com/98FA403D-E3F4-4098-BB2E-950BEAF63253/10/50/en/ContentDetails.htm?id=9A383503-69E5-4B57-B19A-8B6973681F63)
+## [<cite>Anzac Girls: The Extraordinary Story of our World War 1 Nurses</cite> by Peter Rees](http://suffolklibraries.lib.overdrive.com/98FA403D-E3F4-4098-BB2E-950BEAF63253/10/50/en/ContentDetails.htm?id=9A383503-69E5-4B57-B19A-8B6973681F63) (eBook)
 
 By the end of the Great War, forty-five Australian and New Zealand nurses had died on overseas service and over two hundred had been decorated. These were the women who left for war looking for adventure and romance but were soon confronted with challenges for which their civilian lives could never have prepared them. Their strength and dignity were remarkable.
 
-### [101 Amazing Facts about Castles by Jack Goldstein](http://suffolklibraries.lib.overdrive.com/98FA403D-E3F4-4098-BB2E-950BEAF63253/10/50/en/ContentDetails.htm?id=9C25390A-EA46-43E5-9BF1-3EAEBB1BA550)
+## [<cite>101 Amazing Facts about Castles</cite> by Jack Goldstein](http://suffolklibraries.lib.overdrive.com/98FA403D-E3F4-4098-BB2E-950BEAF63253/10/50/en/ContentDetails.htm?id=9C25390A-EA46-43E5-9BF1-3EAEBB1BA550) (eBook)
 
 Did you know that the world&#8217;s oldest football was found in a room at Stirling Castle? Do you know what the person in charge of a castle&#8217;s buttery is called? What is the difference between a trebuchet and a mangonel? And what is an oubliette?
 

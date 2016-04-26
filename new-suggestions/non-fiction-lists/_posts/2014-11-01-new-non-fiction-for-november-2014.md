@@ -11,21 +11,9 @@ breadcrumb: non-fiction-lists
 
 ## [<cite>Thinking About It Only Makes It Worse</cite> by David Mitchell](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13263151?QRY=CTIBIB%3C%20IRN(46363063)&QRYTEXT=Thinking%20about%20it%20only%20makes%20it%20worse%20and%20other%20lessons%20from%20modern%20life)
 
-<div class="row">
-  <div class="medium-2 columns">
-    <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13263151?QRY=CTIBIB%3C%20IRN(46363063)&#038;QRYTEXT=Thinking%20about%20it%20only%20makes%20it%20worse%20and%20other%20lessons%20from%20modern%20life"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2014/10/thinkingmakesitworse.jpg" alt="Thinking About It Only Makes It Worse by David Mitchell" /></a>
-  </div>
+![](/images/article/.jpg)
 
-  <div class="medium-10 columns">
-    <p>
-      David Mitchell makes comic observations on the absurdities of modern life &#8211; from Ryanair to Downton Abbey, sports day to smoking, nuclear weapons to phone etiquette, UKIP to hotdogs made of cats.
-    </p>
-
-    <p>
-      &nbsp;
-    </p>
-  </div>
-</div>
+David Mitchell makes comic observations on the absurdities of modern life &#8211; from Ryanair to Downton Abbey, sports day to smoking, nuclear weapons to phone etiquette, UKIP to hotdogs made of cats.
 
 ## [<cite>Jerry Lee Lewis: His Own Story</cite> by Rick Bragg](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5576971?QRY=CTIBIB%3C%20IRN(42385063)&QRYTEXT=Jerry%20Lee%20Lewis%20%3A%20his%20own%20story)
 

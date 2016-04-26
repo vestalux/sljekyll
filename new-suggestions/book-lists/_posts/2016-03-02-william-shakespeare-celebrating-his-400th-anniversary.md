@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'William Shakespeare: Celebrating his 400th anniversary'
 date: 2016-03-02 10:32:03+00:00
 author: brandon-king

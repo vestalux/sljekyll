@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New fiction for August 2015
 date: 2015-07-31 13:20:23+00:00
 author: brandon-king

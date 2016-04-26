@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Lesley&#8217;s Readers: The dust that falls from dreams by Louis de Bernières'
 date: 2015-10-05 11:16:28+00:00
 author: nicky-evans

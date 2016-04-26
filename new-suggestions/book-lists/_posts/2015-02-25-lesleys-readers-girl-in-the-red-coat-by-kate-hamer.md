@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Lesley&#8217;s Readers: The girl in the red coat by Kate Hamer'
 date: 2015-02-25 11:01:15+00:00
 author: maddie-smith

@@ -9,7 +9,7 @@ breadcrumb: non-fiction-lists
 ---
 ![Sour by Tracey Miller and Lucy Bannerman](/images/featured/featured-sour.jpg)
 
-## [Princess Matilda comes home by Shane Spall](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/30263396?QRY=CTIBIB%3C%20IRN(38357763)&QRYTEXT=Princess%20Matilda%20comes%20home)
+## [<cite>Princess Matilda comes home</cite> by Shane Spall](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/30263396?QRY=CTIBIB%3C%20IRN(38357763)&QRYTEXT=Princess%20Matilda%20comes%20home)
 
 Shane and Tim Spall are on the second leg of a very big adventure, taking their Dutch barge The Princess Matilda around the coast of Britain.
 
@@ -19,7 +19,7 @@ Along the way they cross Cardigan Bay in the company of a pod of dolphins, meet 
 
 Emerging into the North Sea at Inverness, they set a course down the east coast for London, back where their journey began. Tim and Shane aren&#8217;t the amateur sailors they once were, but things still don&#8217;t always go to plan.
 
-## [Rendezvous at the Russian Tea Rooms: The spy, the lover and the man called ‘M’ by Paul Willetts](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/30264745?QRY=CTIBIB%3C%20IRN(36544266)&QRYTEXT=Rendezvous%20at%20the%20Russian%20Tea%20Rooms%20%3A%20the%20spy%2C%20the%20lover%20and%20the%20man%20called%20%27M%27)
+## [<cite>Rendezvous at the Russian Tea Rooms: The spy, the lover and the man called ‘M’</cite> by Paul Willetts](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/30264745?QRY=CTIBIB%3C%20IRN(36544266)&QRYTEXT=Rendezvous%20at%20the%20Russian%20Tea%20Rooms%20%3A%20the%20spy%2C%20the%20lover%20and%20the%20man%20called%20%27M%27)
 
 Set in blacked–out London during the ominous lull before the Blitz, this true story centres on Tyler Kent, a debonair encryption specialist at the US Embassy – who also happens to be a Soviet mole.
 
@@ -27,19 +27,19 @@ He becomes romantically entangled with Anna Wolkoff, a Russian fashion designer 
 
 Hot on the trail of Kent and Wolkoff comes the brilliant but eccentric British spymaster Maxwell Knight. He infiltrates the glamorous circle of fascist conspirators gathering in the Russian Tea Rooms, just a stone&#8217;s throw from South Kensington tube station.
 
-## [You can learn to remember: Change your thinking, change your life by Dominic O&#8217;Brien](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/30266304?QRY=CTIBIB%3C%20IRN(38039604)&QRYTEXT=You%20can%20learn%20to%20remember%20%3A%20change%20your%20thinking%2C%20change%20your%20life)
+## [<cite>You can learn to remember: Change your thinking, change your life</cite> by Dominic O&#8217;Brien](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/30266304?QRY=CTIBIB%3C%20IRN(38039604)&QRYTEXT=You%20can%20learn%20to%20remember%20%3A%20change%20your%20thinking%2C%20change%20your%20life)
 
 How could this possibly help me? Well, the author is eight-times World Memory Champion Dominic O&#8217;Brien. This guide provides an invaluable repertoire of proven ways to enhance your memory &#8211; from memorising a speech, a shopping list and directions, to never forgetting names, dates and faces.
 
 In 2002 O’Brien committed to memory a random sequence of 2808 playing cards (54 packs) after looking at each card only once.
 
-## [Silence your mind: Improve your happiness in 10 minutes a day by Ramesh Manocha](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/30268294?QRY=CTIBIB%3C%20IRN(38358050)&QRYTEXT=Silence%20your%20mind%20%3A%20improve%20your%20happiness%20in%2010%20minutes%20a%20day)
+## [<cite>Silence your mind: Improve your happiness in 10 minutes a day</cite> by Ramesh Manocha](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/30268294?QRY=CTIBIB%3C%20IRN(38358050)&QRYTEXT=Silence%20your%20mind%20%3A%20improve%20your%20happiness%20in%2010%20minutes%20a%20day)
 
 Can&#8217;t sleep because your thoughts won&#8217;t switch off? Does a constant stream of unnecessary chatter run through your head?
 
 Meditation is a simple practice that can help you address these common experiences. Through scientifically based research this text shows how meditation can fit into your busy schedule to improve your sense of wellbeing, help you reach your potential in sport, work and creative pursuits and increase the quality of your life.
 
-## [Sour by Tracey Miller and Lucy Bannerman](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/30272505?QRY=CTIBIB%3C%20IRN(32815707)&QRYTEXT=Sour)
+## [<cite>Sour</cite> by Tracey Miller and Lucy Bannerman](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/30272505?QRY=CTIBIB%3C%20IRN(32815707)&QRYTEXT=Sour)
 
 This is the true story of a former Brixton gang girl, drug dealer and full–time criminal.
 
@@ -51,7 +51,7 @@ Miller said Sour does not attempt to justify her past, but it aims to “give pe
 
 Miller, who is now a passionate campaigner, is working with an anti-knife/anti-gang organisation to raise awareness of these issues.
 
-## [When Fraser met Billy by Louise Booth](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/30274352?QRY=CTIBIB%3C%20IRN(33163783)&QRYTEXT=When%20Fraser%20met%20Billy)
+## [<cite>When Fraser met Billy</cite> by Louise Booth](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/30274352?QRY=CTIBIB%3C%20IRN(33163783)&QRYTEXT=When%20Fraser%20met%20Billy)
 
 Fraser was a two year old autistic child with a multitude of problems when he first met Billy at the cat protection shelter. Billy purred, laid his paws across Fraser and they have been inseparable ever since.
 
@@ -61,13 +61,13 @@ In their home on the Balmoral Estate, Billy acts as Fraser&#8217;s guardian – 
 
 ## New eBooks
 
-### [Grumpy Cat: A Grumpy Book by Grumpy Cat](http://suffolklibraries.lib.overdrive.com/F31D4283-7DC0-4F15-A915-E25431B2D382/10/50/en/ContentDetails.htm?id=53575AF5-F926-4403-A018-669DBD407753)
+### [<cite>Grumpy Cat: A Grumpy Book</cite> by Grumpy Cat](http://suffolklibraries.lib.overdrive.com/F31D4283-7DC0-4F15-A915-E25431B2D382/10/50/en/ContentDetails.htm?id=53575AF5-F926-4403-A018-669DBD407753)
 
 Internet sensation Grumpy Cat&#8217;s epic feline frown has inspired legions of devoted fans. Celebrating the grouch in everyone, the Grumpy Cat book teaches the fine art of grumpiness and includes enough bad attitude to cast a dark cloud over the whole world.
 
 Featuring brand new as well as classic photos, and including grump–inspiring activities and games, Grumpy Cat delivers unmatched, hilarious grumpiness that puts any bad mood in perspective.
 
-### [Anthem for Doomed Youth: Twelve Soldier Poets of the First World War by Jon Stallworthy](http://suffolklibraries.lib.overdrive.com/F31D4283-7DC0-4F15-A915-E25431B2D382/10/50/en/ContentDetails.htm?id=40D1A78D-E126-4CA9-B830-808906D8E752#descExpand)
+### [<cite>Anthem for Doomed Youth: Twelve Soldier Poets of the First World War</cite> by Jon Stallworthy](http://suffolklibraries.lib.overdrive.com/F31D4283-7DC0-4F15-A915-E25431B2D382/10/50/en/ContentDetails.htm?id=40D1A78D-E126-4CA9-B830-808906D8E752#descExpand)
 
 Leading poet and former professor of English Literature Jon Stallworthy tells the story of the lives and work of 12 major poets of the First World War and provides selections of their best work.
 

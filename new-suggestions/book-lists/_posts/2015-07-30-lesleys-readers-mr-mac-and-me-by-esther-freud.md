@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Lesley&#8217;s Readers: Mr Mac and me by Esther Freud'
 date: 2015-07-30 08:55:33+00:00
 author: maddie-smith

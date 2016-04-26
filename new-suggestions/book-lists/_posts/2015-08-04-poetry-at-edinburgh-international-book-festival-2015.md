@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Poetry at Edinburgh International Book Festival 2015
 date: 2015-08-04 12:36:35+00:00
 author: emma-raindle

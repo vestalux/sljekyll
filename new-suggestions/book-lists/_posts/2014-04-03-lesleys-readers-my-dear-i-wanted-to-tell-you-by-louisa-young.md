@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Lesley&#8217;s Readers: My dear I wanted to tell you by Louisa Young'
 date: 2014-04-03 15:53:44+00:00
 author: sarah-jenkins

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New fiction for February 2015
 date: 2015-01-30 14:17:00+00:00
 author: brandon-king

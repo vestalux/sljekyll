@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Blockbusters for 2016
 date: 2015-12-01 09:59:30+00:00
 author: brandon-king

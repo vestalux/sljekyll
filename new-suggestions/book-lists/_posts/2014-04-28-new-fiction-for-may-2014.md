@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New fiction for May 2014
 date: 2014-04-28 13:00:47+00:00
 author: brandon-king

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Brave New Reads 2015
 date: 2015-05-01 11:18:06+00:00
 author: emma-raindle

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Lesley&#8217;s Readers: The Rosie project by Graeme Simsion'
 date: 2014-06-30 12:03:41+00:00
 author: sarah-jenkins

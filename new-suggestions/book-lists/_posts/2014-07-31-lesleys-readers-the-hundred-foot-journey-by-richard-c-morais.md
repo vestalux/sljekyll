@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Lesley&#8217;s Readers: The hundred-foot journey by Richard C. Morais'
 date: 2014-07-31 12:02:12+00:00
 author: sarah-jenkins

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 8 classic challenging reads
 date: 2016-02-18 12:52:26+00:00
 author: brandon-king

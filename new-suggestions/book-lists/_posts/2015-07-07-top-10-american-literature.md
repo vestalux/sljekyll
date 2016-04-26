@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Top 10: American literature'
 date: 2015-07-07 14:21:22+00:00
 author: brandon-king

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Lesley&#8217;s Readers: Mad about the Boy by Helen Fielding'
 date: 2014-01-27T17:18:25+00:00
 author: sarah-jenkins

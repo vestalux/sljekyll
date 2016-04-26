@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: National Poetry Day 2015
 date: 2015-10-08 08:02:18+00:00
 author: brandon-king

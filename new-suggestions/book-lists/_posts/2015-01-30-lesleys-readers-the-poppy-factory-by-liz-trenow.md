@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Lesley&#8217;s Readers: The Poppy Factory by Liz Trenow'
 date: 2015-01-30 12:27:47+00:00
 author: maddie-smith

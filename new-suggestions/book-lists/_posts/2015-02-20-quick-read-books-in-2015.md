@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Quick Read books in 2015
 date: 2015-02-20 11:49:32+00:00
 author: brandon-king

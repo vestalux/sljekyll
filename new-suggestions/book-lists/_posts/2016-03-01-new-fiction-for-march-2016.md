@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New fiction for March 2016
 date: 2016-03-01 09:08:35+00:00
 author: brandon-king

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Bailey&#8217;s Women&#8217;s Prize for Fiction 2014'
 date: 2014-03-07 15:07:51+00:00
 author: leon-paternoster

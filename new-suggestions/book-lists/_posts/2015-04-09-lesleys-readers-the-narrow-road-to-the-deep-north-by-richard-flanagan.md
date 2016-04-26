@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Lesley&#8217;s Readers: The narrow road to the deep north by Richard Flanagan'
 date: 2015-04-09T10:20:46+00:00
 author: maddie-smith

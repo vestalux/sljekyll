@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Lesley&#8217;s Readers: The girl on the train by Paula Hawkins'
 date: 2015-07-02 10:40:29+00:00
 author: maddie-smith

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Lesley&#8217;s Readers: The monogram murders by Sophie Hannah'
 date: 2015-01-02 12:44:38+00:00
 author: maddie-smith

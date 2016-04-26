@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Summer Reads: 8 new and challenging texts for 2014'
 date: 2014-05-13 13:19:31+00:00
 author: leon-paternoster
@@ -10,7 +10,7 @@ excerpt: A collection of 8 new novels, poetry collections and short story anthol
   <p>
     <em>Summer Reads</em> is a collection of 8 new novels, poetry collections and short story anthologies, specially chosen to get you out of your comfort zone and reading different literature and authors. Ideal for book groups and readers looking for a new challenge.
   </p>
-  
+
   <p>
     We&#8217;re also running events and workshops at Bury and Haverhill Libraries where you can meet the authors and other readers.
   </p>

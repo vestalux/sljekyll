@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New fiction for October 2015
 date: 2015-10-01 08:44:07+00:00
 author: brandon-king

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Lesley&#8217;s Readers: The fault in our stars by John Green'
 date: 2014-05-12 13:46:19+00:00
 author: sarah-jenkins

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Lesley&#8217;s Readers: Doctor Sleep by Stephen King'
 date: 2014-05-09 11:00:36+00:00
 author: sarah-jenkins

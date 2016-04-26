@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Lesley’s Readers: The twins by Saskia Sarginson'
 date: 2014-02-28 11:21:46+00:00
 author: sarah-jenkins

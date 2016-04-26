@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New fiction for September 2014
 date: 2014-08-21 11:00:56+00:00
 author: brandon-king

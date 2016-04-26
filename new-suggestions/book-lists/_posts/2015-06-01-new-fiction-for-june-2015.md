@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New fiction for June 2015
 date: 2015-06-01 08:31:24+00:00
 author: brandon-king
