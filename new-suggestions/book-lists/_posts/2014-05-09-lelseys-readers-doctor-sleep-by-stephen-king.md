@@ -5,6 +5,7 @@ date: 2014-05-09 11:00:36+00:00
 author: sarah-jenkins
 category: book-lists
 excerpt: 'In the sequel to <cite>The Shining</cite>, find out what happened to the little boy on the tricycle, Danny Torrance! <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5647784?QRY=CTIBIB%3C%20IRN(796844)&QRYTEXT=Doctor%20Sleep">Reserve a copy.</a>'
+breadcrumb: book-lists
 ---
 I read many Stephen King books in my twenties. I still remember the chill I felt reading <cite>Christine</cite>, about the demonic car, and indeed <cite>The Shining</cite> which, to be honest wasn&#8217;t my favourite, which was <cite>Pet Sematary</cite>. I do not remember being as scared of any of those books as I have been reading <cite>Doctor Sleep</cite>! Within the first few chapters I am thinking twice about visiting the bathroom in the middle of the night incase I meet the same woman that Dan meets. The description of her is wonderful, I actually said &#8216;yuck&#8217; out loud.
 

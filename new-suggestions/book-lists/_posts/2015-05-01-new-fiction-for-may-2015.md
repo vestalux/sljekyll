@@ -5,6 +5,7 @@ date: 2015-05-01 08:05:12+00:00
 author: brandon-king
 category: book-lists
 excerpt: The best new fiction from Kate Atkinson and Mason Cross.
+breadcrumb: book-lists
 ---
 ## [<cite>A god in ruins</cite> by Kate Atkinson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/1985532?QRY=CTIBIB%3C%20IRN(103556)&QRYTEXT=A%20god%20in%20ruins)
 

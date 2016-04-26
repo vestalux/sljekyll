@@ -5,7 +5,10 @@ date: 2014-02-05 12:58:55+00:00
 author: brandon-king
 category: book-lists
 excerpt: Including a forensic crime thriller, Joanna Trollope's latest and a novel featuring Baudelaire.
+breadcrumb: book-lists
 ---
+![The outcast dead by Elly Griffiths](/images/featured/featured-the-outcast-dead.jpg)
+
 ## [The outcast dead](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4199002?QRY=CTIBIB%3C%20IRN(1485101)&QRYTEXT=The%20outcast%20dead) by Elly Griffiths
 
 Forensic archaeologist Ruth Galloway has excavated a body from the grounds of Norwich Castle, a forbidding edifice that was once a prison.

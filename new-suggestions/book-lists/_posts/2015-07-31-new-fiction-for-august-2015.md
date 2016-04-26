@@ -5,6 +5,7 @@ date: 2015-07-31 13:20:23+00:00
 author: brandon-king
 category: book-lists
 excerpt: Top thrillers and historical fiction for August, including Sophie Hannah and Philippa Gregory.
+breadcrumb: book-lists
 ---
 ## [<cite>Splinter the silence</cite> by Val McDermid](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16254892?QRY=CTIBIB%3C%20IRN(51338036)&QRYTEXT=Splinter%20the%20silence)
 

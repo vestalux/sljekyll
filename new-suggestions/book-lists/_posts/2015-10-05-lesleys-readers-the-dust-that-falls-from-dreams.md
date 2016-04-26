@@ -5,6 +5,7 @@ date: 2015-10-05 11:16:28+00:00
 author: nicky-evans
 category: book-lists
 excerpt: Nicky's review of Louis de Bernières' latest book. <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/15583807?QRY=CTIBIB%3C%20IRN(50447908)&QRYTEXT=The%20dust%20that%20falls%20from%20dreams">Reserve your copy.</a>
+breadcrumb: book-lists
 ---
 Hamilton McCosh is an adventurous businessman inventor with four grown-up daughters: Rosie, Christabel, Sophie and Ottlie. Along with Mrs McCosh and a staff of servants, they live an idyllic upper middle-class lifestyle before World War One. As children, the girls live next door to the Perdennis family and the Pitts. They are best friends with the sons of each family, and together they make up “The Pals”. Through de Bernières&#8217; writing the reader is taken on an epic journey before, during and after World War One, from the genteel town of Eltham to the skies of France and the hills of Sri Lanka.
 

@@ -5,6 +5,7 @@ date: 2015-10-08 08:02:18+00:00
 author: brandon-king
 category: book-lists
 excerpt: 8 October 2015 is <a href="http://www.forwardartsfoundation.org/national-poetry-day/">National Poetry Day</a>. Here are some recommended and latest collections of poetry in our catalogue.
+breadcrumb: book-lists
 ---
 ## [<cite>40 Sonnets</cite> by Don Paterson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5895224?QRY=CTIBIB%3C%20IRN(52717798)&QRYTEXT=40%20sonnets)
 

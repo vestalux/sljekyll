@@ -4,7 +4,10 @@ title: Blockbusters for 2016
 date: 2015-12-01 09:59:30+00:00
 author: brandon-king
 excerpt: This time last year the buzz was all about something called <cite>The girl on the train</cite> by Paula Hawkins, which went on to become a runaway bestseller. Here are a few first novels due in early 2016 that their publishers have high hopes for.
+breadcrumb: book-lists
 ---
+![The widow by Fiona Barton, Love me back by Merritt Tierce, The trouble with goats and sheep by Joanna Cannon and Look at me by Sarah Duguid](/images/featured/featured-blockbusters-2016.jpg)
+
 ## [<cite>The widow</cite> by Fiona Barton](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5033003?QRY=CTIBIB%3C%20IRN(1009545)&QRYTEXT=The%20widow)
 
 <div class="row">

@@ -5,7 +5,10 @@ date: 2014-02-28 11:21:46+00:00
 author: sarah-jenkins
 category: book-lists
 excerpt: A tale of childhood secrets and the bond between twins. <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5627784?QRY=CTIBIB%3C%20IRN(9467)&QRYTEXT=The%20twins">Reserve a copy.</a>
+breadcrumb: book-lists
 ---
+![The twins by Saskia Sarginson](/images/featured/featured-the-twins.jpg)
+
 <cite>The twins</cite> is a really gripping read that keeps you guessing until nearly the end about what happens in the twins&#8217; childhood that affects the rest of their lives. The characters of Isolte and Viola are extremely well drawn and I really felt as though I knew them, in childhood in the 1970s and in adulthood in the 1980s.
 
 It is not always an easy read as the themes are sometimes quite dark but it keeps you hooked. The hairs on the back of my neck stood up when I was reading about &#8216;the incident&#8217; in their childhood.

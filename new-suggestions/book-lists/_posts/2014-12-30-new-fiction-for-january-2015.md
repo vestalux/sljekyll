@@ -5,6 +5,7 @@ date: 2014-12-30 15:55:00+00:00
 author: brandon-king
 category: book-lists
 excerpt: New novels by Stuart MacBride, Jill Mansell and Susanna Gregory.
+breadcrumb: book-lists
 ---
 ## [<cite>The missing and the dead</cite> by Stuart MacBride](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12841568?QRY=CTIBIB%3C%20IRN(45624738)&QRYTEXT=The%20missing%20and%20the%20dead)
 

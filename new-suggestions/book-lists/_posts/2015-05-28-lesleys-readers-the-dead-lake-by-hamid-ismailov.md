@@ -5,6 +5,7 @@ date: 2015-05-28 13:51:17+00:00
 author: maddie-smith
 category: book-lists
 excerpt: We're discussing <cite>The Dead Lake</cite> by Hamid Ismailov with Lesley Dolphin on BBC Radio Suffolk at 2.30pm on Monday 1 June.
+breadcrumb: book-lists
 ---
 <div class="panel">
   <p>

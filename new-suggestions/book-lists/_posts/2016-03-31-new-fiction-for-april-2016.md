@@ -5,7 +5,10 @@ date: 2016-03-31 09:09:46+00:00
 author: brandon-king
 category: book-lists
 excerpt: New novels from Joanne Harris, David Baldacci and Irvine Welsh.
+breadcrumb: book-lists
 ---
+![Different class by Joanne Harris](/images/featured/featured-different-class.jpg)
+
 ## [<cite>Different class</cite> by Joanne Harris](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/25385954?QRY=CTIBIB%3C%20IRN(194579)&QRYTEXT=Different%20class)
 
 <div class="row">

@@ -5,6 +5,7 @@ date: 2014-07-30 14:24:22+00:00
 author: brandon-king
 category: book-lists
 excerpt: Reserve and collect or download the best of August's fiction, including books by Lee Child, Ruth Rendell and a new Sherlock Holmes collection.
+breadcrumb: book-lists
 ---
 ## Books to reserve and collect from your local library
 

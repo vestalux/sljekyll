@@ -5,6 +5,7 @@ date: 2015-08-04 12:36:35+00:00
 author: emma-raindle
 category: book-lists
 excerpt: <a href="https://www.edbookfest.co.uk/">Edinburgh International Book Festival</a> is the largest bookfest in the world, running 15-31 August 2015. Here are a selection of poets appearing at the festival.
+breadcrumb: book-lists
 ---
 ## [<cite>Search party</cite> by George the Poet](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5993725?QRY=CTIBIB%3C%20IRN(45906493)&QRYTEXT=Search%20party)
 

@@ -5,6 +5,7 @@ date: 2014-06-02 14:56:11+00:00
 author: sarah-jenkins
 category: book-lists
 excerpt: 'Maud is losing her memory and figuring out why her friend has gone missing. <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5891202?QRY=CTIBIB%3C%20IRN(36545180)&QRYTEXT=Elizabeth%20is%20missing">Reserve a copy.</a>'
+breadcrumb: book-lists
 ---
 I was hooked by the main character of Maud as soon as I started to read this book. Maud is gradually starting to forget lots of things but she does keep remembering that her dear friend Elizabeth is missing but no one will take her concerns seriously.
 

@@ -5,6 +5,7 @@ date: 2015-02-25 11:01:15+00:00
 author: maddie-smith
 category: book-lists
 excerpt: '<a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5909948?QRY=CTIBIB%3C%20IRN(736459)&QRYTEXT=The%20girl%20in%20the%20red%20coat">Reserve a copy.</a>'
+breadcrumb: book-lists
 ---
 Having to acknowledge the abduction of your child will remain for most parents no more than a latent fear, but it also a fear that threatens to be catastrophic if it is awakened. This is the premise to Kate Hamer’s debut novel, <cite>The Girl in the Red Coat</cite>, which tells the chilling story of the abduction of 8 year old Carmel Wakeford and the suffering her mother, Beth, endures in the wake of her disappearance.
 

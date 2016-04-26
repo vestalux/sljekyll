@@ -5,6 +5,7 @@ date: 2014-05-13 13:19:31+00:00
 author: leon-paternoster
 category: book-lists
 excerpt: A collection of 8 new novels, poetry collections and short story anthologies, specially chosen to get you out of your comfort zone and reading different literature and authors.
+breadcrumb: book-lists
 ---
 <div class="panel">
   <p>

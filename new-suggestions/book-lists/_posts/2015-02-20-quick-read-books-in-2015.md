@@ -5,6 +5,7 @@ date: 2015-02-20 11:49:32+00:00
 author: brandon-king
 category: book-lists
 excerpt: The 2015 collection is guaranteed to entertain as well as help emergent readers on their reading journey.
+breadcrumb: book-lists
 ---
 _With one in six adults still struggling to read, Quick Reads continues its work to break down the barriers to reading. There are six short, plot-filled books, written by well-known authors published every year, designed to help people who have lost the reading habit, or struggle with aspects of reading._
 

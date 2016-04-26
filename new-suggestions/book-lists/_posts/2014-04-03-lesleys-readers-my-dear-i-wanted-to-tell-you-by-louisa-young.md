@@ -5,6 +5,7 @@ date: 2014-04-03 15:53:44+00:00
 author: sarah-jenkins
 category: book-lists
 excerpt: A World War I story of a letter between two lovers and a terrible lie. <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5635193?QRY=CTIBIB%3C%20IRN(267382)&QRYTEXT=My%20dear%20I%20wanted%20to%20tell%20you">Reserve a copy.</a>
+breadcrumb: book-lists
 ---
 Set at home and on the Western front during World War I, <cite>My dear I wanted to tell you</cite> is a book about love and war. However, it is so much more. When I first started to read this book I did get slightly irritated by its concentration on the art world and some rather stereotypical characters and their sexual tastes. At points it seemed to be trying to shock. However, on reflection this does set up the characters in pre-war England and leads directly to the reason why Riley Purefoy, the main character, joins up.
 

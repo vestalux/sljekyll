@@ -5,7 +5,10 @@ date: 2016-02-18 12:52:26+00:00
 author: brandon-king
 category: book-lists
 excerpt: "The recent BBC TV adaptation of Leo Tolstoy’s <cite>War and peace</cite> has led to a surge of interest in classic titles. If you enjoyed <cite>War and peace</cite> why not try one of the following ‘challenging’ reads?"
+breadcrumb: book-lists
 ---
+![Madame Bovary by Gustave Flaubert, 2666 by Roberto Bolano and The Great Gatsby by F Scott Fitzgerald](/images/featured/featured-8-classic-challenging-reads.jpg)
+
 The recent BBC TV adaptation of Leo Tolstoy’s <cite>War and peace</cite> has led to a surge of interest in classic titles. If you enjoyed <cite>War and peace</cite> why not try one of the following ‘challenging’ reads?
 
 ## [<cite>Anna Karenina</cite> by Leo Tolstoy](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/1250626?QRY=CTIBIB%3C%20IRN(66943)&QRYTEXT=Anna%20Karenina%20%3A%20a%20novel%20in%20eight%20parts)

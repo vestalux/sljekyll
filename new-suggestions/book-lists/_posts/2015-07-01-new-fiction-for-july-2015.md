@@ -5,6 +5,7 @@ date: 2015-07-01 08:13:12+00:00
 author: brandon-king
 category: book-lists
 excerpt: New fiction featuring Harper Lee's eagerly anticipated second book, <cite>Go set a watchman</cite>.
+breadcrumb: book-lists
 ---
 ## [<cite>Go set a watchman</cite> by Harper Lee](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/32897877?QRY=CTIBIB%3C%20IRN(49290900)&QRYTEXT=Go%20set%20a%20watchman)
 

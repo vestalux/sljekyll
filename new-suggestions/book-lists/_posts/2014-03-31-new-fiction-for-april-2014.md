@@ -5,7 +5,10 @@ date: 2014-03-31 13:51:27+00:00
 author: brandon-king
 category: book-lists
 excerpt: Including John Connolly's latest New England mystery, the 22nd Brunetti novel and Sophie Hannah's latest, <cite>The Telling Error</cite>.
+breadcrumb: book-lists
 ---
+![The Strangler Vine by M J Carter](/images/featured/featured-the-strangler-vine.jpg)
+
 ## [The temporary gentleman, by Sebastian Barry](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19934005?QRY=CTIBIB%3C%20IRN(38358297)&QRYTEXT=The%20temporary%20gentleman%20%3A%20a%20novel)
 
 Jack McNulty is a temporary gentleman, an Irishman whose commission in the British army in the Second World War was never permanent. In 1957, sitting in his lodgings in Accra, he urgently sets out to write his story.

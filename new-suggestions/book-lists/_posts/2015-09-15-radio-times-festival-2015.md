@@ -5,6 +5,7 @@ date: 2015-09-15 08:57:03+00:00
 author: emma-raindle
 category: book-lists
 excerpt: New books from TV journalists, writers and broadcasters featured at the Radio Times Festival.
+breadcrumb: book-lists
 ---
 ## [<cite>We British: the poetry of a people</cite> by Andrew Marr](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21300338?QRY=CTIBIB%3C%20IRN(53435186)&QRYTEXT=We%20British%20%3A%20the%20poetry%20of%20a%20people)
 

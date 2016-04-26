@@ -5,6 +5,7 @@ date: 2014-06-30 12:03:41+00:00
 author: sarah-jenkins
 category: book-lists
 excerpt: 'A light-hearted look at living with autism. <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5803860?QRY=CTIBIB%3C%20IRN(18443914)&QRYTEXT=The%20Rosie%20project">Reserve a copy.</a>'
+breadcrumb: book-lists
 ---
 This is an ideal summer read. I loved the humour in it. The underlying plot is that a lecturer in genetics, Don Tillman, hits 40 and decides that the logical thing to do is to find a wife, as married men live longer. Whereas most people would look for love, Don looks for as many ticks as possible on his ‘wife’ questionnaire. The story is told through Don’s matter-of-fact Asperger&#8217;s point of view, which makes for a refreshingly different and insightful read.
 

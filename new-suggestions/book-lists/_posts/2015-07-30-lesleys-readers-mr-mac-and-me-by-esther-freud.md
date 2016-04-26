@@ -5,6 +5,7 @@ date: 2015-07-30 08:55:33+00:00
 author: maddie-smith
 category: book-lists
 excerpt: We’re discussing <cite>Mr Mac and Me</cite> by Esther Freud with Lesley Dolphin on BBC Radio Suffolk at 2.30pm on Monday 3 August. <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/17932537?QRY=CTIBIB%3C%20IRN(40362836)&QRYTEXT=Mr%20Mac%20and%20me">Reserve a copy.</a>
+breadcrumb: book-lists
 ---
 Split between acting as a biography, eulogy and fictional tale is Esther Freud’s newest novel, <cite>Mr Mac and Me</cite>. Based on the life of the artist and architect Charles Rennie Mackintosh, Freud’s novel follows Mackintosh’s life after his move to Suffolk in 1914. With beautiful descriptions of the Suffolk coastline and quaint depictions of the seaside towns of Walberswick and Southwold, [<cite>Mr Mac and Me</cite> has earned itself a New Angle Prize nomination](http://www.ipswichinstitute.org.uk/NAP.html).
 

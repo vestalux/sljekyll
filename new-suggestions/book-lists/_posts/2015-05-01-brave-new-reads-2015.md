@@ -5,6 +5,7 @@ date: 2015-05-01 11:18:06+00:00
 author: emma-raindle
 category: book-lists
 excerpt: 6 books chosen by the Readers’ Circle (a dedicated group of almost 100 readers), who spent 6 months reading and reviewing over 150 titles, as the most enjoyable, stimulating and thought-provoking.
+breadcrumb: book-lists
 ---
 ## [<cite>Any other mouth</cite> by Anneliese Mackintosh](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6358903?QRY=CTIBIB%3C%20IRN(37444891)&QRYTEXT=Any%20other%20mouth)
 

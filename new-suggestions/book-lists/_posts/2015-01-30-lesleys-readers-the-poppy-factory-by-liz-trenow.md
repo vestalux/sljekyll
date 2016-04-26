@@ -5,6 +5,7 @@ date: 2015-01-30 12:27:47+00:00
 author: maddie-smith
 category: book-lists
 excerpt: Tune in to BBC Radio Suffolk on Monday 2 February at 1400-1430 where we'll discuss <cite>The Poppy Factory</cite> by Liz Trenow with Lesley Dolphin. <a href="http://suffolklibraries.co.uk/lesleys-readers/lesleys-readers-the-poppy-factory-by-liz-trenow">Watch our preview</a>.
+breadcrumb: book-lists
 ---
 <div class="panel">
   <ul>

@@ -4,6 +4,7 @@ title: 'Lesley&#8217;s Readers: The hundred-foot journey by Richard C. Morais'
 date: 2014-07-31 12:02:12+00:00
 author: sarah-jenkins
 excerpt: 'International bestseller about an Indian restaurant in rural France. <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5781331?QRY=CTIBIB%3C%20IRN(1178392)&QRYTEXT=The%20hundred-foot%20journey">Reserve a copy.</a>'
+breadcrumb: book-lists
 ---
 The story starts in the heat of West Bombay, two decades before it became Mumbai. Hassan Haji is the second of six children and grows up surrounded by the intense smells and tastes of Indian cuisine in his family’s restaurants. After a family tragedy, they move to London where Hassan grows up and his teenage years are beautifully and sometimes humorously depicted. The next move for the family is to France and the village of Lumiere. There, Hassan is discovered by Madame Mallory who realises, to her horror, that he is a naturally talented chef who is destined for greatness.
 

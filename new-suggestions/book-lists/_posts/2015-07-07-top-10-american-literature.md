@@ -5,6 +5,7 @@ date: 2015-07-07 14:21:22+00:00
 author: brandon-king
 category: book-lists
 excerpt: If Harper Lee’s <cite>Go set a Watchman</cite> has ignited your interest in American literature, here are some other great American novels you might like to read.
+breadcrumb: book-lists
 ---
 ## [<cite>To kill a mockingbird</cite> by Harper Lee](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/27701468?QRY=CTIBIB%3C%20IRN(184995)&QRYTEXT=To%20kill%20a%20mockingbird)
 

@@ -5,12 +5,12 @@ date: 2016-01-21 09:28:22+00:00
 author: brandon-king
 category: book-lists
 excerpt: '<a href="http://www.quickreads.org.uk/">Quick Reads</a>, the publisher of short accessible titles written by popular authors, celebrates its 10th anniversary this year.'
+breadcrumb: book-lists
 ---
-<div class="panel">
-  <p>
-    <a href="http://www.quickreads.org.uk/">Quick Reads</a>, the publisher of short accessible titles written by popular authors, celebrates its 10th anniversary this year. Quick Reads aims to break down barriers to reading, since 1 in 6 adults in the UK struggle with reading, and 1 in 3 do not read for pleasure. Suffolk Libraries has supported Quick Reads for many years and will stock all the titles in 2016 as we have in previous years. There is an excellent selection of titles this year — why not give one a go?
-  </p>
-</div>
+![Too good to be true by Ann Cleeves, The anniversary by Various authors and The double clue and other Hercule Poirot stories by Agatha Christie](/images/featured/featured-quick-reads-2016.jpg)
+
+
+<a href="http://www.quickreads.org.uk/">Quick Reads</a>, the publisher of short accessible titles written by popular authors, celebrates its 10th anniversary this year. Quick Reads aims to break down barriers to reading, since 1 in 6 adults in the UK struggle with reading, and 1 in 3 do not read for pleasure. Suffolk Libraries has supported Quick Reads for many years and will stock all the titles in 2016 as we have in previous years. There is an excellent selection of titles this year — why not give one a go?
 
 ## [<cite>The anniversary</cite> by Various authors](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4880969?QRY=CTIBIB%3C%20IRN(53243)&QRYTEXT=The%20anniversary)
 

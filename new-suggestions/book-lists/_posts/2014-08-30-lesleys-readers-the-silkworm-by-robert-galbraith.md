@@ -5,6 +5,7 @@ date: 2014-08-30 21:46:12+00:00
 author: sarah-jenkins
 category: book-lists
 excerpt: Detective novel under J. K. Rowling's pseudonym, Robert Galbraith. <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5901801?QRY=CTIBIB%3C%20IRN(37444855)&QRYTEXT=The%20silkworm">Reserve a copy.</a>
+breadcrumb: book-lists
 ---
 I wasn’t sure what to expect with this book. It was billed as an English Philip Marlowe and I have always been a fan of those black and white Humphrey Bogart films. Also, it is now a well known fact that J. K. Rowling writes these private detective books and as I didn’t much like her first non-Harry Potter, I was a little unsure about reading <cite>The silkworm</cite>.
 

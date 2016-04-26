@@ -5,6 +5,7 @@ date: 2015-07-02 10:40:29+00:00
 author: maddie-smith
 category: book-lists
 excerpt: <cite>The Girl on the Train</cite> by Paula Hawkins.
+breadcrumb: book-lists
 ---
 Paula Hawkins’ debut novel, <cite>The Girl on the Train</cite>, has been acclaimed as one of 2015’s most enthralling thrillers. The novel follows Rachel Watson’s struggle to overcome her marital breakdown and the devastating series of events that enveloped by her alcoholism. Rachel turns to alcohol to numb the pain caused by her husband’s infidelity, but the repercussions of this obsession regularly leave her blacking out and forgetting the trouble she has left in her wake.
 

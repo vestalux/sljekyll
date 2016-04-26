@@ -4,8 +4,11 @@ title: New fiction for January 2016
 date: 2015-12-31 09:11:07+00:00
 author: brandon-king
 category: book-lists
-excerpt: New novels from Julian Barnes, Stuart MacBride and Clive Cussler.
+excerpt: Featuring books by Julian Barnes, Stuart MacBride and Clive Cussler.
+breadcrumb: book-lists
 ---
+![The noise of time by Julian Barnes](/images/featured/featured-the-noise-of-time.jpg)
+
 ## [<cite>The noise of time</cite> by Julian Barnes](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/23874770?QRY=CTIBIB%3C%20IRN(56500671)&QRYTEXT=The%20noise%20of%20time)
 
 <div class="row">

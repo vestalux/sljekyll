@@ -5,6 +5,7 @@ date: 2015-09-01 08:17:33+00:00
 author: brandon-king
 category: book-lists
 excerpt: Thrillers and novels from authors such as Lee Child, Salman Rushie and Sebastian Faulks.
+breadcrumb: book-lists
 ---
 ## [<cite>Make me</cite> by Lee Child](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/28940721?QRY=CTIBIB%3C%20IRN(52649808)&QRYTEXT=Make%20me)
 

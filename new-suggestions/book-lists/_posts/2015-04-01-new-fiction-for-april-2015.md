@@ -5,6 +5,7 @@ date: 2015-04-01 08:20:44+00:00
 author: brandon-king
 category: book-lists
 excerpt: New books in our catalogue from T. R. Richmond, Jo Nesbo and more.
+breadcrumb: book-lists
 ---
 ## [<cite>What she left</cite> by T. R. Richmond](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/27414134?QRY=CTIBIB%3C%20IRN(47356202)&QRYTEXT=What%20she%20left)
 

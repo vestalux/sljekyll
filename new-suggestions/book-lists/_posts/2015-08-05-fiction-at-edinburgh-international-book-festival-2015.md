@@ -5,6 +5,7 @@ date: 2015-08-05 08:20:19+00:00
 author: emma-raindle
 category: book-lists
 excerpt: <a href="https://www.edbookfest.co.uk/">Edinburgh International Book Festival</a> is the largest bookfest in the world, running 15-31 August 2015. Here are a selection of fiction authors appearing at the festival.'
+breadcrumb: book-lists
 ---
 ## [<cite>Craving</cite> by Esther Gerritsen](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8414132?QRY=CTIBIB%3C%20IRN(42636206)&QRYTEXT=Craving)
 

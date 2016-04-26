@@ -5,6 +5,7 @@ date: 2015-02-26 15:31:21+00:00
 author: brandon-king
 category: book-lists
 excerpt: New books, eBooks and eAudiobooks from Kazuo Ishiguro, Michael Bussi and Kate Hamer.
+breadcrumb: book-lists
 ---
 ## [<cite>The buried giant</cite> by Kazuo Ishiguro](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12147112?QRY=CTIBIB%3C%20IRN(46865689)&QRYTEXT=The%20buried%20giant)
 

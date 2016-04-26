@@ -5,7 +5,10 @@ date: 2016-02-01 09:35:46+00:00
 author: brandon-king
 category: book-lists
 excerpt: Novels from Elly Griffiths, M C Beaton and Sophie Hannah.
+breadcrumb: book-lists
 ---
+![The woman in blue by Elly Griffiths](/images/featured/featured-the-woman-in-blue.jpg)
+
 ## [<cite>The woman in blue</cite> by Elly Griffiths](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13919727?QRY=CTIBIB%3C%20IRN(60138274)&QRYTEXT=The%20woman%20in%20blue)
 
 <div class="row">

@@ -5,6 +5,7 @@ date: 2014-06-30 14:45:11+00:00
 author: brandon-king
 category: book-lists
 excerpt: New books for July, including the latest DCI Banks case <cite>Abattoir Blues</cite>, Graham Swift's <cite>England and Other Stories</cite> and Sheila O'Flanagan's romance <cite>If You Were Me</cite>.
+breadcrumb: book-lists
 ---
 The pick of July&#8217;s new titles:
 

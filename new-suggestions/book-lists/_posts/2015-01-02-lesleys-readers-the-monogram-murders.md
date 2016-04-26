@@ -5,6 +5,7 @@ date: 2015-01-02 12:44:38+00:00
 author: maddie-smith
 category: book-lists
 excerpt: Listen to Lesley’s Readers on Monday 5 January 2015, 1400-1430 on BBC Radio Suffolk. We will be discussing <cite>The Monogram Murders</cite> by Sophie Hannah.
+breadcrumb: book-lists
 ---
 <div class="panel">
   <p>

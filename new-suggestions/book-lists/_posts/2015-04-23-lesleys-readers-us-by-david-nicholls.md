@@ -5,6 +5,7 @@ date: 2015-04-23 12:46:19+00:00
 author: maddie-smith
 category: book-lists
 excerpt: We're discussing <cite>Us</cite> by David Nicholls with Lesley Dolphin on BBC Radio Suffolk at 2.30pm on Monday 11 May.
+breadcrumb: book-lists
 ---
 <div class="panel">
   <p>

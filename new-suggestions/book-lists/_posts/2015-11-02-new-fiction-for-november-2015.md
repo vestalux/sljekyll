@@ -5,6 +5,7 @@ date: 2015-11-02 09:40:24+00:00
 author: brandon-king
 category: book-lists
 excerpt: Latest novels and short stories including Ian Rankin's return of John Rebus, the follow up to <cite><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/24852815?QRY=CTIBIB%3C%20IRN(42385521)&amp;QRYTEXT=The%20zig%20zag%20girl">The zig zag girl</a></cite> and a collection of Christmas stories.
+breadcrumb: book-lists
 ---
 ## [<cite>Even dogs in the wild</cite> by Ian Rankin](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20518503?QRY=CTIBIB%3C%20IRN(54578937)&QRYTEXT=Even%20dogs%20in%20the%20wild)
 

@@ -5,6 +5,7 @@ date: 2014-08-21 11:00:56+00:00
 author: brandon-king
 category: book-lists
 excerpt: Including new novels from David Mitchell, Hilary Mantel and Susan Hill.
+breadcrumb: book-lists
 ---
 ## Reserve and collect from your local library
 

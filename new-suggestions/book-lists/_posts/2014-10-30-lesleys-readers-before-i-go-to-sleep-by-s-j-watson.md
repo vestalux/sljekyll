@@ -5,6 +5,7 @@ date: 2014-10-30 16:49:45+00:00
 author: sarah-jenkins
 category: book-lists
 excerpt: 'Thriller about a woman with amnesia. <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5788837?QRY=CTIBIB%3C%20IRN(266856)&QRYTEXT=Before%20I%20go%20to%20sleep">Reserve a copy.</a>'
+breadcrumb: book-lists
 ---
 I read this book before I went to the cinema to see it and I would suggest that you carefully consider which you want to do first, as there is a big twist that may spoil the enjoyment of one or the other for you!
 

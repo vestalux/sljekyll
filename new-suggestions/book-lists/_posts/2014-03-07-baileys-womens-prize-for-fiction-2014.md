@@ -5,7 +5,10 @@ date: 2014-03-07 15:07:51+00:00
 author: leon-paternoster
 category: book-lists
 excerpt: This year's longlist includes 6 debuts as well as novels from superstar authors. Reserve and collect from your library.
+breadcrumb: book-lists
 ---
+![The Strangler Vine by M J Carter](/images/featured/featured-the-strangler-vine.jpg)
+
 This year&#8217;s [Bailey&#8217;s Women&#8217;s Prize for Fiction](http://www.thebookseller.com/news/catton-tartt-and-atwood-baileys-womens-prize-longlist.html) (formerly known as the Orange Prize) longlist includes 6 debut novels, as well as books from Donna Tartt and Margaret Atwood.
 
 Reserve for collection from your library:

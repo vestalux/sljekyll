@@ -5,6 +5,7 @@ date: 2014-11-26 10:09:21+00:00
 author: brandon-king
 category: book-lists
 excerpt: New books this month from Haruki Murakami, Nick Oldham and Mari Hannah.
+breadcrumb: book-lists
 ---
 ## [<cite>The Strange Library</cite> by Haruki Murakami](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/1190602?QRY=CTIBIB%3C%20IRN(44255847)&QRYTEXT=The%20strange%20library)
 

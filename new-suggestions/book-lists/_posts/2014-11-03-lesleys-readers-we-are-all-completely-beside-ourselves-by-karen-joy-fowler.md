@@ -5,6 +5,7 @@ date: 2014-11-03 15:35:55+00:00
 author: sarah-jenkins
 category: book-lists
 excerpt: 'The book with the big twist. <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10742101?QRY=CTIBIB%3C%20IRN(32043156)&QRYTEXT=We%20are%20all%20completely%20beside%20ourselves">Reserve a copy.</a>'
+breadcrumb: book-lists
 ---
 You know something is amiss when you are part of the way through this book. You realise that the sisterly bond between the narrator, Rosemary, and her sibling Fern is somehow unusual. It is a credit to the author that you do not realise what this unusual thing is much before the revelation itself, about a third of the way through the book &#8211; unless you have seen the spoilers that abound on the internet.
 

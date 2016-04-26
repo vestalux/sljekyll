@@ -5,6 +5,7 @@ date: 2014-05-12 13:46:19+00:00
 author: sarah-jenkins
 category: book-lists
 excerpt: 'Bestselling book about teenage cancer patients. <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5654681?QRY=CTIBIB%3C%20IRN(218872)&QRYTEXT=The%20fault%20in%20our%20stars">Reserve a copy.</a>'
+breadcrumb: book-lists
 ---
 My hand had often hovered over this book, but I always changed my mind due to the central theme of teenagers and cancer. I was never sure whether I would have a box of tissues large enough to get me through to the end.
 

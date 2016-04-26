@@ -5,6 +5,7 @@ date: 2015-04-09T10:20:46+00:00
 author: maddie-smith
 category: book-lists
 excerpt: We're discussing the Man Booker Prizer 2014 winning novel with Lesley Dolphin on BBC Radio Suffolk at 2pm on Monday 13 April.
+breadcrumb: book-lists
 ---
 Flanagan’s Man Booker Prize winning novel is an exploration of human relationships and the limits they are pushed to amid the atrocities of warfare. Set chiefly around the Japanese enslavement of Australian POWs and their suffering in building the impossible Burma-Siam railway, <cite>The Narrow Road to the Deep North</cite> is as much a story about camaraderie and compassion in war as it is about loss and tribulation.<figure class="figure alignnone">
 

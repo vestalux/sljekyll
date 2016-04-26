@@ -5,6 +5,7 @@ date: 2014-10-02 10:47:03+00:00
 author: brandon-king
 category: book-lists
 excerpt: Including a new collection of Rebus short stories, a Virgil Flowers blockbuster and a Swedish noir crime thriller about the assassination of PM Olof Palme.
+breadcrumb: book-lists
 ---
 ## Reserve and collect from your local library
 

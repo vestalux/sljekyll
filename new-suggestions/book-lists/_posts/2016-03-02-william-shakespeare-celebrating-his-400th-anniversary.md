@@ -5,7 +5,10 @@ date: 2016-03-02 10:32:03+00:00
 author: brandon-king
 category: book-lists
 excerpt: '<a href="http://shakespeareweek.org.uk/">Shakespeare Week</a> runs from 14-20 March. Take a look at how the Bard has influenced books, film and music until the modern day.'
+breadcrumb: book-lists
 ---
+![William Shakespeare](/images/featured/featured-william-shakespeare.jpg)
+
 His influence is everywhere. If you&#8217;ve ever been &#8220;in a pickle&#8221;, waited &#8220;with bated breath&#8221; or gone on &#8220;a wild goose chase&#8221;, then you’ve been quoting from <cite>The Tempest</cite>, <cite>The Merchant of Venice</cite> and <cite>Romeo and Juliet</cite> respectively.
 
 If you “gossip”, the word comes from <cite>A Midsummer Night’s Dream</cite>. &#8220;The be-all and end-all&#8221; is uttered by Macbeth, and &#8220;fair play&#8221; comes from Miranda in <cite>The Tempest</cite>. &#8220;A heart of gold&#8221;? No, not Neil Young, you’ll find it in <cite>Henry V</cite>, while “the world’s mine oyster” is in <cite>The Merry Wives of Windsor</cite>. Elvis Presley in <cite>Are you Lonesome Tonight</cite> says &#8220;someone said the world’s a stage&#8221;. Yes, that was him too, from <cite>As You Like It</cite>.

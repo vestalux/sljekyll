@@ -5,6 +5,7 @@ date: 2014-04-28 13:00:47+00:00
 author: brandon-king
 category: book-lists
 excerpt: Including books from Sadie Jones, Louisa Young and Colm Toibin and a Tudor thriller with the young Queen Elizabeth.
+breadcrumb: book-lists
 ---
 ## [Lost for words by Edward St Aubyn](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/32391598?QRY=CTIBIB%3C%20IRN(185336)&QRYTEXT=Lost%20for%20words)
 

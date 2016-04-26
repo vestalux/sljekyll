@@ -5,6 +5,7 @@ date: 2014-05-29 12:27:20+00:00
 author: brandon-king
 category: book-lists
 excerpt: Including Robert Galbraith's latest, a tale of infatuation turning to terror from Peter James and Terry Pratchett's new scifi novel <cite>The Long Mars</cite>.
+breadcrumb: book-lists
 ---
 ## Download to your eReader
 

@@ -5,7 +5,10 @@ date: 2016-03-01 09:08:35+00:00
 author: brandon-king
 category: book-lists
 excerpt: Anticipated new novels from L. S. Hilton, Wilbur Smith and Tracy Chevalier.
+breadcrumb: book-lists
 ---
+![Maestra by L S Hilton](/images/featured/featured-maestra.jpg)
+
 ## [<cite>Maestra</cite> by L S Hilton](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/30055716?QRY=CTIBIB%3C%20IRN(58864188)&QRYTEXT=Maestra)
 
 <div class="row">
