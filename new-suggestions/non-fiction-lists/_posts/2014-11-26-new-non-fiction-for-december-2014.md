@@ -5,6 +5,7 @@ date: 2014-11-26 10:13:23+00:00
 author: brandon-king
 category: non-fiction-lists
 excerpt: New releases from Jane Hawking, Simon Hoggart and Dan Jones.
+breadcrumb: non-fiction-lists
 ---
 ## [<cite>Travelling to Infinity: The True Story Behind the Theory of Everything</cite> by Jane Hawking](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16508826?QRY=CTIBIB%3C%20IRN(1178205)&QRYTEXT=Travelling%20to%20infinity%20%3A%20my%20life%20with%20Stephen)
 

@@ -5,6 +5,7 @@ date: 2014-09-30T15:08:38+00:00
 author: brandon-king
 category: non-fiction-lists
 excerpt: "Including Roy Keane's biography (co&#8211;written with Roddy Doyle), John Cleese's autobiography and a fantastic new history of Joan of Arc."
+breadcrumb: non-fiction-lists
 ---
 <div class="panel">
   <p>

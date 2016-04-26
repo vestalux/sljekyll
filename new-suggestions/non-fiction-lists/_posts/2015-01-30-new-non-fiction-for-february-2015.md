@@ -5,6 +5,7 @@ date: 2015-01-30 14:19:04+00:00
 author: brandon-king
 category: non-fiction-lists
 excerpt: New non-fiction from authors Anne Shooter, Caleb Howgego and Robert Crawford.
+breadcrumb: non-fiction-lists
 ---
 ## [<cite>My dear Bessie: a love story in letters</cite> edited by Simon Garfield](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4560374?QRY=CTIBIB%3C%20IRN(45906768)&QRYTEXT=My%20dear%20Bessie%20%3A%20a%20love%20story%20in%20letters)
 

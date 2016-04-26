@@ -5,6 +5,7 @@ date: 2015-07-31 13:45:13+00:00
 author: brandon-king
 category: non-fiction-lists
 excerpt: Recipes, travel guides, sporting autobiographies and more this August.
+breadcrumb: non-fiction-lists
 ---
 ## [<cite>Latest readings</cite> by Clive James](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16153541?QRY=CTIBIB%3C%20IRN(52484589)&QRYTEXT=Latest%20readings)
 

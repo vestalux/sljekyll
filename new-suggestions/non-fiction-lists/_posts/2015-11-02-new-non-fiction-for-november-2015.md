@@ -5,6 +5,7 @@ date: 2015-11-02 09:23:30+00:00
 author: brandon-king
 category: non-fiction-lists
 excerpt: Latest non-fiction including Poldark's Cornwall, Roman treasures and the newest Ben Elton book.
+breadcrumb: non-fiction-lists
 ---
 ## [<cite>The world of Poldark</cite> by Emma Marriott](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20559041?QRY=CTIBIB%3C%20IRN(54809336)&QRYTEXT=The%20world%20of%20Poldark)
 

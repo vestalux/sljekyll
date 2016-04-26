@@ -5,6 +5,7 @@ date: 2014-07-01 11:42:40+00:00
 author: brandon-king
 category: non-fiction-lists
 excerpt: "Including the story of a Brixton girl gang member, Sam Spall's barge journey around the British Isles and a great study of the First World War poets."
+breadcrumb: non-fiction-lists
 ---
 ## [Princess Matilda comes home by Shane Spall](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/30263396?QRY=CTIBIB%3C%20IRN(38357763)&QRYTEXT=Princess%20Matilda%20comes%20home)
 

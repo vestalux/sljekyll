@@ -5,6 +5,7 @@ date: 2014-03-31 13:59:26+00:00
 author: brandon-king
 category: non-fiction-lists
 excerpt: Including parliamentary legend Dennis Skinner's autobiography, a study of how thought can drive us to obsession and soap star Michelle Collin's autobiography.
+breadcrumb: non-fiction-lists
 ---
 ![Sailing close to the wind: reminiscences by Dennis Skinner](/images/featured/featured-sailing-close-to-the-wind.jpg)
 

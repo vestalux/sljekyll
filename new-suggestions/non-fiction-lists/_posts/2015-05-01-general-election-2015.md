@@ -5,6 +5,7 @@ date: 2015-05-01 08:10:46+00:00
 author: emma-raindle
 category: non-fiction-lists
 excerpt: Swot up for the general election with our political picks.
+breadcrumb: non-fiction-lists
 ---
 <div class="bf-teaser">
   <h2>

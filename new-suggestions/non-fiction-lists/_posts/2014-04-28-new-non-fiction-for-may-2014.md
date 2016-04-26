@@ -5,6 +5,7 @@ date: 2014-04-28 13:10:07+00:00
 author: brandon-king
 category: non-fiction-lists
 excerpt: Including a memoir from Jonathan Meades and a lovely meditation on collecting.
+breadcrumb: non-fiction-lists
 ---
 ![An encyclopaedia of myself by Jonathan Meades](/images/featured/featured-an-encyclopaedia-of-myself.jpg)
 

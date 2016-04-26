@@ -5,6 +5,7 @@ date: 2015-10-01 14:39:52+00:00
 author: emma-raindle
 category: non-fiction-lists
 excerpt: A selection of books and films for <a href="http://www.blackhistorymonth.org.uk/">Black History Month</a>.
+breadcrumb: non-fiction-lists
 ---
 ## [<cite>Belle</cite>, a film by Amma Asante](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10187942?QRY=CTIBIB%3C%20IRN(5566887)&QRYTEXT=Belle%20%5Bvideorecording%5D)
 

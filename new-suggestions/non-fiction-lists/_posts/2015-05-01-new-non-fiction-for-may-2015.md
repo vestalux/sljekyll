@@ -5,6 +5,7 @@ date: 2015-05-01 08:04:20+00:00
 author: brandon-king
 category: non-fiction-lists
 excerpt: New memoirs, history and non-fiction about modern culture.
+breadcrumb: non-fiction-lists
 ---
 ## [<cite>Confessions of a Tinderella</cite> by Rosy Edwards](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2029973?QRY=CTIBIB%3C%20IRN(48742776)&QRYTEXT=Confessions%20of%20a%20Tinderella)
 

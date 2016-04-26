@@ -5,6 +5,7 @@ date: 2014-08-21 13:57:49+00:00
 author: brandon-king
 category: non-fiction-lists
 excerpt: Including Stephen Fry's 80s diary entries in <cite>More fool me</cite>, and Charlotte Green and Clare Balding's autobiographies.
+breadcrumb: non-fiction-lists
 ---
 <div class="panel">
   <p>

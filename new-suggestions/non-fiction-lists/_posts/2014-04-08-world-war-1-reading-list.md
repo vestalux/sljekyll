@@ -5,6 +5,7 @@ date: 2014-04-08 11:09:07+00:00
 author: brandon-king
 category: non-fiction-lists
 excerpt: Our extensive reading list will help you get to grips with the causes of the war, its events and its meaning. Includes non&#8211;fiction, fiction and poetry.
+breadcrumb: non-fiction-lists
 ---
 ![The fateful year: England 1914 by Mark Bostridge](/images/featured/featured-the-fateful-year-england-1914.jpg)
 
