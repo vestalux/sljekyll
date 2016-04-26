@@ -39,7 +39,7 @@ Planning a wedding? Want some tips? Look no further. There’s a list and everyt
 
 What more could you need? (Apart from the Gruffalo hiding on the back cover.)
 
-### [Michelle Robinson & Jim Field: <cite>There’s a Lion in my cornflakes</cite>](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44138860?QRY=CTIBIB%3C%20IRN%2838544550%29&QRYTEXT=There%27s%20a%20lion%20in%20my%20cornflakes)
+### [<cite>There’s a Lion in my cornflakes</cite> by Michelle Robinson & Jim Field](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44138860?QRY=CTIBIB%3C%20IRN%2838544550%29&QRYTEXT=There%27s%20a%20lion%20in%20my%20cornflakes)
 
 Two little boys collect 100 free lion coupons, wait aaaaages for it to turn up, and then …it’s a bear. And that’s just the start of it. Hilarious riot of a book, with an unexpected ending, which I won’t spoil by telling you. Oh and the pictures are just right too.
 

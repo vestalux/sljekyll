@@ -19,17 +19,17 @@ Big sister Edith, a kind and studious child, tries patiently to introduce her br
 
 And there’s more wildlife-hunting-in-the-dark in the latest picture book by Chris Haughton. With few words, this tale of feckless hunters would be good fun to read aloud.
 
-[<cite>The way to the zoo</cite> by John Burningham](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19980628?QRY=CTIBIB%3C%20IRN(34790950)&QRYTEXT=The%20way%20to%20the%20zoo)
+### [<cite>The way to the zoo</cite> by John Burningham](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19980628?QRY=CTIBIB%3C%20IRN(34790950)&QRYTEXT=The%20way%20to%20the%20zoo)
 
-[<cite>Happy Birthday, Hugless Douglas</cite> by David Melling](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19981174?QRY=CTIBIB%3C%20IRN(35038888)&QRYTEXT=Happy%20birthday%2C%20Hugless%20Douglas)
+### [<cite>Happy Birthday, Hugless Douglas</cite> by David Melling](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19981174?QRY=CTIBIB%3C%20IRN(35038888)&QRYTEXT=Happy%20birthday%2C%20Hugless%20Douglas)
 
-[<cite>Elmer and the monster</cite> by David McKee](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19981551?QRY=CTIBIB%3C%20IRN(35039957)&QRYTEXT=Elmer%20and%20the%20monster)
+### [<cite>Elmer and the monster</cite> by David McKee](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19981551?QRY=CTIBIB%3C%20IRN(35039957)&QRYTEXT=Elmer%20and%20the%20monster)
 
-[<cite>Maisy plays football</cite> by Lucy Cousins](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19982148?QRY=CTIBIB%3C%20IRN(35038412)&QRYTEXT=Maisy%20plays%20football)
+### [<cite>Maisy plays football</cite> by Lucy Cousins](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19982148?QRY=CTIBIB%3C%20IRN(35038412)&QRYTEXT=Maisy%20plays%20football)
 
 And the latest <cite>Willow Valley</cite> title should land on our shelves in time for Easter, for children who like their chapters short:
 
-[<cite>The Great Egg Hunt</cite> by Tracey Corderoy](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19982773?QRY=CTIBIB%3C%20IRN(34789883)&QRYTEXT=The%20great%20egg%20hunt)
+### [<cite>The Great Egg Hunt</cite> by Tracey Corderoy](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19982773?QRY=CTIBIB%3C%20IRN(34789883)&QRYTEXT=The%20great%20egg%20hunt)
 
 ## Junior novels
 
@@ -47,7 +47,7 @@ If you missed this “utopian dystopia” novel back in 1994, read it now, befor
 
 A film version of this is due out later this year too. Described as “a gutsy version of Hogwarts, fairy tales and the supernatural”, it&#8217;s been nominated for Waterstones Children’s book Prize 2014.
 
-[<cite>The Johnstone Twins</cite> by Philip Kelleway](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19985941?QRY=CTIBIB%3C%20IRN(25771204)&QRYTEXT=The%20Johnstone%20twins%20%3A%20an%20appreciation%20of%20Janet%20Johnstone%20(1928-1979)%20%26%20Anne%20Grahame%20Johnstone%20(1928-1998)%20together%20with%20a%20selection%20of%20their%20illustrations)
+### [<cite>The Johnstone Twins</cite> by Philip Kelleway](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19985941?QRY=CTIBIB%3C%20IRN(25771204)&QRYTEXT=The%20Johnstone%20twins%20%3A%20an%20appreciation%20of%20Janet%20Johnstone%20(1928-1979)%20%26%20Anne%20Grahame%20Johnstone%20(1928-1998)%20together%20with%20a%20selection%20of%20their%20illustrations)
 
 An appreciation of the twin sisters who illustrated hundreds of children’s books, including Dodie Smith’s <cite>Hundred and One Dalmatians</cite>. If you’re quick, you can still catch Ipswich Art College’s exhibition featuring their work.
 
