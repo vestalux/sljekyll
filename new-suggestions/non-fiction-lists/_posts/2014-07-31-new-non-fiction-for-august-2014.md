@@ -7,9 +7,9 @@ category: non-fiction-lists
 excerpt: 'Reserve or download new non&#8211;fiction, Including a moving account of footballers on the frontline in the Great War, <cite>H is for Hawk</cite> by Helen MacDonald and an A&#8211;Z of castles.'
 breadcrumb: non-fiction-lists
 ---
-## Books to reserve and collect from your local library
+![H is for Hawk by Helen MacDonald](/images/featured/featured-h-is-for-hawk.jpg)
 
-### [H is for Hawk by Helen MacDonald](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44411098?QRY=CTIBIB%3C%20IRN%2842637682%29&QRYTEXT=H%20is%20for%20hawk)
+## [H is for Hawk by Helen MacDonald](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44411098?QRY=CTIBIB%3C%20IRN%2842637682%29&QRYTEXT=H%20is%20for%20hawk)
 
 > In real life, goshawks resemble sparrowhawks the way leopards resemble housecats. Bigger, yes. But bulkier, bloodier, deadlier, scarier, and much, much harder to see. Birds of deep woodland, not gardens, they&#8217;re the birdwatchers&#8217; dark grail.
 

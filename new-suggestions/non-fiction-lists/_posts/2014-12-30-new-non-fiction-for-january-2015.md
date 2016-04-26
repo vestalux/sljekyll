@@ -7,6 +7,8 @@ category: non-fiction-lists
 excerpt: New historical non-fiction books from Antonia Fraser, Kelly Hart and Douglas Boyd.
 breadcrumb: non-fiction-lists
 ---
+![My history: a memoir of growing up](/images/featured/featured-antonia-fraser.jpg)
+
 ## [<cite>The seventh wife of Henry VIII: the woman who almost became his last queen</cite> by Kelly Hart](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12870228?QRY=CTIBIB%3C%20IRN(47843015)&QRYTEXT=The%20seventh%20wife%20of%20Henry%20VIII%20%3A%20Katherine%20Willoughby%3Athe%20woman%20who%20almost%20became%20his%20last%20Queen)
 
 <div class="row">

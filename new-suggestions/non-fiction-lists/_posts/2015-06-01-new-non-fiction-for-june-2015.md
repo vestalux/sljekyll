@@ -7,6 +7,8 @@ category: non-fiction-lists
 excerpt: Including a book about Joseph Kennedy Jr's tragic link with Suffolk.
 breadcrumb: non-fiction-lists
 ---
+![Lost destiny: Joe Kennedy Jr. and the doomed WWII mission to save London by Alan Axelrod](/images/featured/featured-lost-destiny.jpg)
+
 ## [<cite>Lost destiny: Joe Kennedy Jr. and the doomed WWII mission to save London</cite> by Alan Axelrod](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/18082345?QRY=CTIBIB%3C%20IRN(51849129)&QRYTEXT=Lost%20destiny%20%3A%20Joe%20Kennedy%20Jr.%20and%20the%20doomed%20WWII%20mission%20to%20save%20London)
 
 <div class="row">

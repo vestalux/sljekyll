@@ -7,11 +7,7 @@ category: non-fiction-lists
 excerpt: "Including Roy Keane's biography (co&#8211;written with Roddy Doyle), John Cleese's autobiography and a fantastic new history of Joan of Arc."
 breadcrumb: non-fiction-lists
 ---
-<div class="panel">
-  <p>
-    Our stock unit picks through the latest non–fiction titles. Reserve and collect from your local library.
-  </p>
-</div>
+![The second half by Roy Keane & Roddy Doyle](/images/featured/featured-roy-keane.jpg)
 
 ## [Claxton: field notes from a small planet, by Mark Cocker](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3204774?QRY=CTIBIB%3C%20IRN%2840991280%29&QRYTEXT=Claxton%20%3A%20field%20notes%20from%20a%20small%20planet)
 

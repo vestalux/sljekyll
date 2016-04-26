@@ -7,9 +7,9 @@ category: non-fiction-lists
 excerpt: Including a tale of a superstar footballer working on the river Kwai, the story of women on the First World War front and the truth about sugar.
 breadcrumb: non-fiction-lists
 ---
-## Download to your device
+![A Curious Career by Lynn Barber](/images/featured/featured-a-curious-career.jpg)
 
-### [A Curious Career by Lynn Barber](http://suffolklibraries.lib.overdrive.com/95846DAC-4B32-41EC-BBF0-95806874BE8A/10/50/en/ContentDetails.htm?id=0FAC2031-96A5-4569-8EBE-B4592C8B5411)
+### [A Curious Career by Lynn Barber](http://suffolklibraries.lib.overdrive.com/95846DAC-4B32-41EC-BBF0-95806874BE8A/10/50/en/ContentDetails.htm?id=0FAC2031-96A5-4569-8EBE-B4592C8B5411) (eBook)
 
 Lynn Barber, by her own admission, has always suffered from a compelling sense of nosiness. An exceptionally inquisitive child she constantly questioned everyone she knew about imitate details of their lives.
 
@@ -17,7 +17,7 @@ This talent for nosiness, coupled with her unusual lack of the very English fear
 
 Barber takes us through her early career at Penthouse where she started out interviewing foot fetishists, voyeurs, dominatrices and men who liked wearing nappies, through her later more eminent career at the Telegraph, Sunday Express, Vanity Fair, Observer and Sunday Times
 
-### [Pies & Puds by Paul Hollywood](http://suffolklibraries.lib.overdrive.com/95846DAC-4B32-41EC-BBF0-95806874BE8A/10/50/en/ContentDetails.htm?id=2F51B91F-CE3B-4426-B233-533FD085A390)
+### [Pies & Puds by Paul Hollywood](http://suffolklibraries.lib.overdrive.com/95846DAC-4B32-41EC-BBF0-95806874BE8A/10/50/en/ContentDetails.htm?id=2F51B91F-CE3B-4426-B233-533FD085A390) (eBook)
 
 There is nothing quite like the smell of a scrumptious steak and ale pie cooking in the oven.
 

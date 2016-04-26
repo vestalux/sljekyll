@@ -7,6 +7,8 @@ category: non-fiction-lists
 excerpt: New memoirs, history and non-fiction about modern culture.
 breadcrumb: non-fiction-lists
 ---
+![The diet myth: the new science of the microbiome by T. D. Spector](/images/featured/featured-the-diet-myth.jpg)
+
 ## [<cite>Confessions of a Tinderella</cite> by Rosy Edwards](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2029973?QRY=CTIBIB%3C%20IRN(48742776)&QRYTEXT=Confessions%20of%20a%20Tinderella)
 
 <div class="row">

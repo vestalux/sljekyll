@@ -7,11 +7,7 @@ category: non-fiction-lists
 excerpt: Including Stephen Fry's 80s diary entries in <cite>More fool me</cite>, and Charlotte Green and Clare Balding's autobiographies.
 breadcrumb: non-fiction-lists
 ---
-<div class="panel">
-  <p>
-    September is a big month for blockbuster non&#8211;fiction &#8211; the titles that top the Christmas bestsellers start their journey now. We&#8217;ve also included a few you may have missed. Reserve for collection online, or download to your tablet, phone or eReader.
-  </p>
-</div>
+![Stephen Fry](/images/featured/featured-stephen-fry.jpg)
 
 ## [The news is read by &hellip; by Charlotte Green](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/55712356?QRY=CTIBIB%3C%20IRN%2840361443%29&QRYTEXT=The%20news%20is%20read%20by)
 

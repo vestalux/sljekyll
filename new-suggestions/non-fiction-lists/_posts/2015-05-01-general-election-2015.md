@@ -7,6 +7,8 @@ category: non-fiction-lists
 excerpt: Swot up for the general election with our political picks.
 breadcrumb: non-fiction-lists
 ---
+![Who governs Britain? by Anthony King](/images/featured/featured-who-governs-britain.jpg)
+
 <div class="bf-teaser">
   <h2>
     <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6273704?QRY=CTIBIB%3C%20IRN(47618437)&QRYTEXT=Who%20governs%20Britain%3F"><cite>Who Governs Britain?</cite> by Anthony King</a>

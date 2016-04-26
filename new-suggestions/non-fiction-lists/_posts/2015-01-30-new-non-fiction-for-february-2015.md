@@ -7,6 +7,8 @@ category: non-fiction-lists
 excerpt: New non-fiction from authors Anne Shooter, Caleb Howgego and Robert Crawford.
 breadcrumb: non-fiction-lists
 ---
+![Sesame & spice: baking from the East End to the Middle East by Anne Shooter](/images/featured/featured-sesame-and-spice.jpg)
+
 ## [<cite>My dear Bessie: a love story in letters</cite> edited by Simon Garfield](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4560374?QRY=CTIBIB%3C%20IRN(45906768)&QRYTEXT=My%20dear%20Bessie%20%3A%20a%20love%20story%20in%20letters)
 
 <div class="row">
@@ -59,7 +61,7 @@ breadcrumb: non-fiction-lists
 
 <div class="row">
   <div class="medium-2 columns">
-    <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4562918?QRY=CTIBIB%3C%20IRN(45907150)&QRYTEXT=Sesame%20%26%20spice%20%3A%20baking%20from%20the%20East%20End%20to%20the%20Middle%20East"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2015/01/sesamespice.jpg" alt="Sesame & spice: baking from the East End to the Middle East by Anne Shooter<" /></a>
+    <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4562918?QRY=CTIBIB%3C%20IRN(45907150)&QRYTEXT=Sesame%20%26%20spice%20%3A%20baking%20from%20the%20East%20End%20to%20the%20Middle%20East"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2015/01/sesamespice.jpg" alt="Sesame & spice: baking from the East End to the Middle East by Anne Shooter" /></a>
   </div>
 
   <div class="medium-10 columns">

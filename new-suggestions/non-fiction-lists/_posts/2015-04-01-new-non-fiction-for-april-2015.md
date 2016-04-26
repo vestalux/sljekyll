@@ -7,6 +7,8 @@ category: non-fiction-lists
 excerpt: New books from J. K. Rowling, Julia Blackburn and Marlene De Blasi.
 breadcrumb: non-fiction-lists
 ---
+![Very good lives: the fringe benefits of failure and the importance of imagination by J. K. Rowling](/images/featured/featured-very-good-lives.jpg)
+
 ## [<cite>Suffolk, East: the buildings of England</cite> by James Bettley](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/27369682?QRY=CTIBIB%3C%20IRN(48741755)&QRYTEXT=Suffolk%2C%20East%20%3A%20the%20buildings%20of%20England)
 
 <div class="row">

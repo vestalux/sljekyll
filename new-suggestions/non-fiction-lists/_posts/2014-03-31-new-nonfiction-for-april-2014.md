@@ -25,12 +25,6 @@ The daughter of an officer in the Bengal Lancers and an American heiress, she be
 
 After the war she worked first in Paris and then in New York, on Madison Avenue, with advertising&#8217;s ‘mad men’. At 91 she is still a formidable force.
 
-## <cite>Midnight mother: Mrs Meyrick – the most notorious nightclub owner in 1920s London</cite> by Lindy Woodhead
-
-Against the backdrop of a country recovering from the horrific consequences of the Great War, this book goes behind the popular facade of 1920s fast–living and frivolous partying to explore the darker side of the tormented generation who ‘danced to forget’.
-
-Lindy Woodhead follows up <cite>Shopping, Seduction & Mr Selfridge</cite> with the story of a character not unlike Delphine Day in the TV adaptation.
-
 ## [<cite>The man who couldn&#8217;t stop: OCD and the true story of a life lost in thought</cite> by David Adam](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19957387?QRY=CTIBIB%3C%20IRN(24549072)&QRYTEXT=The%20man%20who%20couldn%27t%20stop%20%3A%20OCD%20and%20the%20true%20story%20of%20a%20life%20lost%20in%20thought)
 
 Have you ever had a strange urge to jump from a tall building, or steer your car into oncoming traffic? You are not alone. In this captivating fusion of science, history and personal memoir, writer David Adam explores the weird thoughts that exist within every mind, and how they drive millions of us towards obsessions and compulsions.
