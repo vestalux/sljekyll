@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: General Election 2015
 date: 2015-05-01 08:10:46+00:00
 author: emma-raindle

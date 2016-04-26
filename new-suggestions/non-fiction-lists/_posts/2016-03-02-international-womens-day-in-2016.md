@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'International Women&#8217;s Day in 2016'
 date: 2016-03-02T09:00:11+00:00
 author: emma-raindle

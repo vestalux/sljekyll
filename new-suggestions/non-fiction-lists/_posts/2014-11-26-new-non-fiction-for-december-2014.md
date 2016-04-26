@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New non-fiction for December 2014
 date: 2014-11-26 10:13:23+00:00
 author: brandon-king

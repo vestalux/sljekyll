@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New non-fiction for January 2016
 date: 2015-12-31 09:30:00+00:00
 author: brandon-king

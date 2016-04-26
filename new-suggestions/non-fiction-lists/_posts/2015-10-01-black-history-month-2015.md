@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Black History Month 2015
 date: 2015-10-01 14:39:52+00:00
 author: emma-raindle

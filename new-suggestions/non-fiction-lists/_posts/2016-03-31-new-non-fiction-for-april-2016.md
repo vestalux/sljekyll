@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New non-fiction for April 2016
 date: 2016-03-31 09:06:50+00:00
 author: brandon-king

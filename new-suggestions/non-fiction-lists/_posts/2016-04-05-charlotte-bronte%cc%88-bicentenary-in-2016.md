@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Charlotte Brontë bicentenary in 2016
 date: 2016-04-05T15:20:16+00:00
 author: emma-raindle

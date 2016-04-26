@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New non-fiction for November 2015
 date: 2015-11-02 09:23:30+00:00
 author: brandon-king

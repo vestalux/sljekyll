@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: New non–fiction for July 2014
 date: 2014-07-01 11:42:40+00:00
 author: brandon-king

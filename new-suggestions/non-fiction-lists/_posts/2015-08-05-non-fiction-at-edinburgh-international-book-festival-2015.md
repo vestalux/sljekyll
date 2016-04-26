@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Non-fiction at Edinburgh International Book Festival 2015
 date: 2015-08-05 08:17:38+00:00
 author: emma-raindle
