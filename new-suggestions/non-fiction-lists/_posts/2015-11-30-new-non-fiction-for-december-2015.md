@@ -7,6 +7,8 @@ category: non-fiction-lists
 excerpt: New releases covering diets, history and extraordinary lives.
 breadcrumb: non-fiction-lists
 ---
+![Alive, alive oh!: and other things that matter by Diana Athill](/images/featured/featured-alive-alive-oh.jpg)
+
 ## [<cite>Alive, alive oh!: and other things that matter</cite> by Diana Athill](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14674168?QRY=CTIBIB%3C%20IRN(56126280)&QRYTEXT=Alive%2C%20alive%20oh!%20%3A%20and%20other%20things%20that%20matter)
 
 <div class="row">

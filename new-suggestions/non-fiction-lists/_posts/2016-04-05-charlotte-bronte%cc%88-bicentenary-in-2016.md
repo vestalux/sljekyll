@@ -7,6 +7,8 @@ category: non-fiction-lists
 excerpt: 21 April 2016 marks the bicentenary of Charlotte Brontë's birth. Here's a collection of biographies, fiction and children's books to celebrate Charlotte's legacy.
 breadcrumb: non-fiction-lists
 ---
+![The Brontës: scenes from the childhood of Charlotte, Branwell, Emily, and Anne by Catherine Brighton](/images/featured/featured-the-brontes-scenes-from-the-childhood.jpg)
+
 ## [<cite>Reader, I married him</cite> by Tracy Chevalier](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/27169333?QRY=CTIBIB%3C%20IRN(362108)&QRYTEXT=Reader%2C%20I%20married%20him)
 
 <div class="row">

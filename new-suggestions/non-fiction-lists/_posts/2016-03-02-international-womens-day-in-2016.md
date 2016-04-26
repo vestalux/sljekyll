@@ -7,6 +7,8 @@ category: non-fiction-lists
 excerpt: This year's theme for <a href="http://www.internationalwomensday.com/">International Women's Day</a> is <a href="https://twitter.com/hashtag/pledgeforparity">#PledgeForParity</a>, recognising the need to accelerate gender quality across all cultures in education and the workplace.
 breadcrumb: non-fiction-lists
 ---
+![Girl Up by Laura Bates, I Am Malala by Malala Yousafzai and We should all be feminists by Chimamanda Ngozi Adichie](/images/featured/featured-iwd-2016.jpg)
+
 This year&#8217;s theme is [#PledgeForParity](https://twitter.com/hashtag/pledgeforparity), recognising the need to accelerate gender quality across all cultures in education and the workplace.
 
 ## [<cite>Girl up</cite> by Laura Bates](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/26553064?QRY=CTIBIB%3C%20IRN(59884658)&QRYTEXT=Girl%20up)

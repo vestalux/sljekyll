@@ -7,6 +7,8 @@ category: non-fiction-lists
 excerpt: <a href="https://www.edbookfest.co.uk/">Edinburgh International Book Festival</a> is the largest bookfest in the world, running 15-31 August 2015. Here are a selection of non-fiction authors appearing at the festival.
 breadcrumb: non-fiction-lists
 ---
+![The story of Alice: Lewis Carroll and the secret history of Wonderland by Robert Douglas-Fairhurst](/images/featured/featured-the-story-of-alice.jpg)
+
 ## [<cite>Sophia: princess, suffragette, revolutionary</cite> by Anita Anand](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8311472?QRY=CTIBIB%3C%20IRN(42635681)&QRYTEXT=Sophia%20%3A%20princess%2C%20suffragette%2C%20revolutionary)
 
 <div class="row">

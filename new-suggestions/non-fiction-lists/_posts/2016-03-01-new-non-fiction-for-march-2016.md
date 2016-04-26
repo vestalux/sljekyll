@@ -7,6 +7,8 @@ category: non-fiction-lists
 excerpt: New non-fiction including vegetarian and Mediterranean recipes and biographies of Anne Bronte and Quentin Blake.
 breadcrumb: non-fiction-lists
 ---
+![In search of Anne Brontë by Nick Holland](/images/featured/featured-in-search-of-anne-bronte.jpg)
+
 ## [<cite>In search of Anne Brontë</cite> by Nick Holland](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/30083846?QRY=CTIBIB%3C%20IRN(54806906)&QRYTEXT=In%20search%20of%20Anne%20Bronte%CC%88)
 
 <div class="row">

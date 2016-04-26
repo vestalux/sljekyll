@@ -7,6 +7,8 @@ category: non-fiction-lists
 excerpt: Mindfulness from Ruby Wax to cookbooks from Ella Woodward and Amelia Freer.
 breadcrumb: non-fiction-lists
 ---
+![A mindfulness guide to the frazzled by Ruby Wax](/images/featured/featured-a-mindfulness-guide-for-the-frazzled.jpg)
+
 ## [<cite>A mindfulness guide for the frazzled</cite> by Ruby Wax](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/1586931?QRY=CTIBIB%3C%20IRN(60138295)&QRYTEXT=A%20mindfulness%20guide%20for%20the%20frazzled)
 
 <div class="row">

@@ -7,6 +7,8 @@ category: non-fiction-lists
 excerpt: A selection of books and films for <a href="http://www.blackhistorymonth.org.uk/">Black History Month</a>.
 breadcrumb: non-fiction-lists
 ---
+![Dido Elizabeth Belle, Toussaint Louverture, Nelson Mandela, Chimamanda Ngozi Adichie](/images/featured/featured-black-history-month-2015.jpg)
+
 ## [<cite>Belle</cite>, a film by Amma Asante](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10187942?QRY=CTIBIB%3C%20IRN(5566887)&QRYTEXT=Belle%20%5Bvideorecording%5D)
 
 <div class="row">

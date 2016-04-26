@@ -7,6 +7,8 @@ category: non-fiction-lists
 excerpt: New non-fiction in our catalogue, from recipes to the RAF.
 breadcrumb: non-fiction-lists
 ---
+![Brick wheels: amazing air, land & sea machines to build from LEGO by Warren Elsmore](/images/featured/featured-brick-wheels.jpg)
+
 ## [<cite>Brick wheels: amazing air, land & sea machines to build from LEGO</cite> by Warren Elsmore](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/32799924?QRY=CTIBIB%3C%20IRN(50741911)&QRYTEXT=Brick%20wheels%20%3A%20amazing%20air%2C%20land%20%26%20sea%20machines%20to%20build%20from%20LEGO)
 
 <div class="row">

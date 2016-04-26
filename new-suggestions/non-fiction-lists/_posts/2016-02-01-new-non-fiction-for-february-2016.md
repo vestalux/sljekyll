@@ -7,6 +7,8 @@ category: non-fiction-lists
 excerpt: Recipes from Mary Berry, essays from Marian Keyes and local history.
 breadcrumb: non-fiction-lists
 ---
+![Foolproof cooking by Mary Berry](/images/featured/featured-foolproof-cooking.jpg)
+
 ## [<cite>Foolproof cooking</cite> by Mary Berry](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20312775?QRY=CTIBIB%3C%20IRN(61300068)&QRYTEXT=Foolproof%20cooking)
 
 <div class="row">

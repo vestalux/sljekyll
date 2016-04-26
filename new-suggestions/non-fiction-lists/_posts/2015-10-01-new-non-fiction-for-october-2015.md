@@ -7,6 +7,8 @@ category: non-fiction-lists
 excerpt: Top new picks including Bill Bryson's follow up to <cite>Notes from a Small Island</cite>, memoirs and history books.
 breadcrumb: non-fiction-lists
 ---
+![The road to Little Dribbling: more notes from a small island by Bill Bryson](/images/featured/featured-the-road-to-little-dribbling.jpg)
+
 ## [<cite>The road to Little Dribbling: more notes from a small island</cite> by Bill Bryson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10680174?QRY=CTIBIB%3C%20IRN(53434811)&QRYTEXT=The%20road%20to%20Little%20Dribbling%20%3A%20more%20notes%20from%20a%20small%20island)
 
 <div class="row">

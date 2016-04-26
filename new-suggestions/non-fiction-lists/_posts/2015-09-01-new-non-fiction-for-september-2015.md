@@ -7,6 +7,8 @@ category: non-fiction-lists
 excerpt: Memoirs covering rock stardom to gardening, speedway racing to World War II.
 breadcrumb: non-fiction-lists
 ---
+![Reckless by Chrissie Hynde](/images/featured/featured-reckless.jpg)
+
 ## [<cite>Reckless</cite> by Chrissie Hynde](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/28915959?QRY=CTIBIB%3C%20IRN(35638)&QRYTEXT=Reckless)
 
 <div class="row">

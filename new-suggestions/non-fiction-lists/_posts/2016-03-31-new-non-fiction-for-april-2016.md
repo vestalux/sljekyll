@@ -7,6 +7,8 @@ category: non-fiction-lists
 excerpt: New non-fiction books including food intolerance-friendly recipes and a biography of Lemmy.
 breadcrumb: non-fiction-lists
 ---
+![The foodie teen by Alessandra Peters](/images/featured/featured-the-foodie-teen.jpg)
+
 ## [<cite>The foodie teen</cite> by Alessandra Peters](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/25453318?QRY=CTIBIB%3C%20IRN(51019595)&QRYTEXT=The%20foodie%20teen)
 
 <div class="row">
