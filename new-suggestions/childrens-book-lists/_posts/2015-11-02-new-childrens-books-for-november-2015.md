@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: Latest children's books featuring the new Judith Kerr book, <cite>Mister Cleghorn's seal</cite>.
 breadcrumb: childrens-book-lists
 ---
+![Mister Cleghorn’s seal by Judith Kerr](/images/featured/featured-mister-cleghorns-seal.jpg)
+
 ## Picture books
 
 ### [<cite>The Queen&#8217;s handbag</cite> by Steve Antony](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/23264784?QRY=CTIBIB%3C%20IRN(47619052)&QRYTEXT=The%20Queen%27s%20handbag)

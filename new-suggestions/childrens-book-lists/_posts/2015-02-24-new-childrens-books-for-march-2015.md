@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: New books, eBooks and eAudiobooks with authors such as Julia Jarman, Rebecca Ashdown and James Campbell.
 breadcrumb: childrens-book-lists
 ---
+![The Time-Travelling Cat and the Viking Terror by Julia Jarman](/images/featured/featured-the-time-travelling-cat-and-the-viking-terror.jpg)
+
 ## Picture books
 
 ### [<cite>The missing bucket</cite> by Rebecca Ashdown](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12696328?QRY=CTIBIB%3C%20IRN(46120051)&QRYTEXT=The%20missing%20bucket)

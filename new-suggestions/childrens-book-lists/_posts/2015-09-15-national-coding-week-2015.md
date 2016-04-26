@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: <a href="http://codingweek.org/">National Coding Week</a> launches 21 September. Here are some great books to teach children how to program.
 breadcrumb: childrens-book-lists
 ---
+![Computer coding for kids: a unique step-by-step visual guide, from binary code to building games by Carol Vorderman](/images/featured/featured-computer-coding-for-kids.jpg)
+
 ## [<cite>Coding for kids for dummies</cite> by Camille McCue](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/17618924?QRY=CTIBIB%3C%20IRN(46363887)&QRYTEXT=Coding%20for%20kids%20for%20dummies)
 
 <div class="row">

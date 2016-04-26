@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: Young people's books to celebrate <a href="http://shakespeareweek.org.uk/">Shakespeare Week</a>, which runs from 14-20 March.
 breadcrumb: childrens-book-lists
 ---
+![srsly Hamlet by Brett Wright](/images/featured/featured-srsly-hamlet.jpg)
+
 ## Junior novels
 
 ### [<cite>The Shakespeare stealer</cite> by Gary Blackwood](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9963374?QRY=CTIBIB%3C%20IRN(988496)&QRYTEXT=The%20Shakespeare%20stealer)

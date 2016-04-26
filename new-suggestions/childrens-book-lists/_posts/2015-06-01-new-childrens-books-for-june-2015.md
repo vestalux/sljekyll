@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: This month offers a range of books about troublesome toddler gorillas to successful vloggers.
 breadcrumb: childrens-book-lists
 ---
+![Betty goes bananas in her pyjamas by Steve Antony](/images/featured/featured-betty-goes-bananas-in-her-pyjamas.jpg)
+
 ## Picture books
 
 ### [<cite>Betty goes bananas in her pyjamas</cite> by Steve Antony](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19589680?QRY=CTIBIB%3C%20IRN(49561805)&QRYTEXT=Betty%20goes%20bananas%20in%20her%20pyjamas)

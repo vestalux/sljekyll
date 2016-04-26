@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: Picture books and junior novels for starting or returning to playgroup and school.
 breadcrumb: childrens-book-lists
 ---
+![Dinosaurs in my school by Timothy Knapman](/images/featured/featured-dinosaurs-in-my-school.jpg)
+
 ## Starting playgroup
 
 ### [<cite>I&#8217;m not ready!</cite> by Jonathan Allen](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/35672579?QRY=CTIBIB%3C%20IRN(1076963)&QRYTEXT=I%27m%20not%20ready)

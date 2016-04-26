@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: New children's books, from picture books up to younger teens.
 breadcrumb: childrens-book-lists
 ---
+![A tiny bit lucky by Liz Pichon](/images/featured/featured-a-tiny-bit-lucky.jpg)
+
 ## Picture books
 
 ### [<cite>A cat is chasing me through this book!</cite> by Benjamin Bird](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/27216187?QRY=CTIBIB%3C%20IRN(45622298)&QRYTEXT=A%20cat%20is%20chasing%20me%20through%20this%20book!)

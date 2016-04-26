@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: There are so many fab information books for children. Here are a few, new recommended choices you can borrow.
 breadcrumb: childrens-book-lists
 ---
+![Stuff you should know! by John Farndon & Rob Beattie](/images/featured/featured-stuff-you-should-know.jpg)
+
 ## [<cite>Picturepedia: an encyclopedia on every page</cite> by Ann Baggaley](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3758022?QRY=CTIBIB%3C%20IRN(53892098)&QRYTEXT=Picturepedia%20%3A%20an%20encyclopedia%20on%20every%20page)
 
 <div class="row">

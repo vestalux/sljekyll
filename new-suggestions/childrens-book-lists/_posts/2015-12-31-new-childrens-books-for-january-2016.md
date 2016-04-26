@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: Children's books from Judith Kerr, Terry Deary and Steve Antony.
 breadcrumb: childrens-book-lists
 ---
+![Top 50 villains by Terry Deary](/images/featured/featured-top-50-villains.jpg)
+
 ## Board books
 
 ### [<cite>Snowball fight!</cite> by Peter Rabbit Animation](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/970138?QRY=CTIBIB%3C%20IRN(35746171)&QRYTEXT=Snowball%20fight!)

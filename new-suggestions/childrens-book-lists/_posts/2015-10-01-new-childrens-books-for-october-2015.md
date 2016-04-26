@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: Curl up this autumn with one of our top new books, with topics covering beasts and bears to bobble hats.
 breadcrumb: childrens-book-lists
 ---
+![The wolf wilder by Katherine Rundell](/images/featured/featured-the-wolf-wilder.jpg)
+
 ## Board books
 
 ### [<cite>Boo! A book of spooky surprises</cite> by Jonathan Litton](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10784523?QRY=CTIBIB%3C%20IRN(51850102)&QRYTEXT=Boo!%20%3A%20a%20book%20of%20spooky%20surprises)

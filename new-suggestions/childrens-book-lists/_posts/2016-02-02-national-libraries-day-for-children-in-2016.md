@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: Stories about libraries to celebrate National Libraries Day on 6 February.
 breadcrumb: childrens-book-lists
 ---
+![A library book for Bear by Bonny Becker](/images/featured/featured-a-library-book-for-bear.jpg)
+
 ## Picture books
 
 ### [<cite>The Snatchabook</cite> by Helen and Thomas Doherty](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16076680?QRY=CTIBIB%3C%20IRN(26581592)&QRYTEXT=The%20Snatchabook)

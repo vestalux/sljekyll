@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: YALC holds a series of talks, workshops and signings on the subject of young adult literature on 17-19 July. We've selected a few author highlights from the convention.
 breadcrumb: childrens-book-lists
 ---
+![Being a girl by Hayley Long, In the unlikely event by Judy Blume and Half bad by Sally Green](/images/featured/featured-yalc-2015.jpg)
+
 ## [<cite>Being a girl</cite> by Hayley Long](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/1821670?QRY=CTIBIB%3C%20IRN(49291008)&QRYTEXT=Being%20a%20girl)
 
 <div class="row">

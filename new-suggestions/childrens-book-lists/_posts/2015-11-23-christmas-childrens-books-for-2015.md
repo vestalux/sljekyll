@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: Lots of festive books to share with your children this Christmas.
 breadcrumb: childrens-book-lists
 ---
+![Staff members Kate Bacon and Sherryl Goldsmith with our festive books](/images/featured/featured-festive-childrens-books-2015.jpg)
+
 ## Board books
 
 ### [<cite>Happy Christmas Spot!</cite> by Eric Hill](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9418178?QRY=CTIBIB%3C%20IRN(531369)&QRYTEXT=Happy%20Christmas%2C%20Spot!)

@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: 116 new releases and new editions of children’s and YA books published on "Super Thursday" 7 April.
 breadcrumb: childrens-book-lists
 ---
+![Where’s the starfish? by Barroux, RSPB wildlife in your garden by Mike Dilger and Hot pterodactyl boyfriend by Alan Cumyn](/images/featured/featured-super-thursday-2016.jpg)
+
 Over 120 children’s titles are being published on just this one day, 7 April 2016 for one of the biggest “Super Thursday” in years.
 
 “Super Thursdays” have happened in September for some time, for both adult and children’s books. They used to be in readiness for the run up to Christmas best seller lists, but April started to be a very big month too for children’s books a couple of years ago, and now it has just exploded!

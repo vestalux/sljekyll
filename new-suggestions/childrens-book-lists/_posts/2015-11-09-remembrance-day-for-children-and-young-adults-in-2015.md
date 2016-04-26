@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: Books for children and teenagers about growing up in World War One and World War Two.
 breadcrumb: childrens-book-lists
 ---
+![Carrie's war by Nina Bawden](/images/featured/featured-carries-war.jpg)
+
 ## Short chapter books
 
 ### [<cite>The Apple Spy</cite> by Terry Deary](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/252655?QRY=CTIBIB%3C%20IRN(44635342)&QRYTEXT=The%20apple%20spy)

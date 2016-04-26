@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: New young people's books from Jarvis, Abi Elphinstone and Eugene Lambert.
 breadcrumb: childrens-book-lists
 ---
+![Alan’s big scary teeth by Jarvis](/images/featured/featured-alans-big-scary-teeth.jpg)
+
 ## Board books
 
 ### [<cite>Baby’s first colours</cite> by Aimée Chapman and Penny Worms](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/25632475?QRY=CTIBIB%3C%20IRN(55838954)&QRYTEXT=Baby%27s%20first%20colours)

@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: Record-breaking themed books for children to read for the Summer Reading Challenge.
 breadcrumb: childrens-book-lists
 ---
+![The hundred-mile-an-hour dog goes for gold! by Jeremy Strong](/images/featured/featured-the-hundred-mile-an-hour-dog-goes-for-gold.jpg)
+
 ## Picture books
 
 ### [<cite>Superhero Dad</cite> by Joe Berger](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7169777?QRY=CTIBIB%3C%20IRN(48513331)&QRYTEXT=Superhero%20dad)

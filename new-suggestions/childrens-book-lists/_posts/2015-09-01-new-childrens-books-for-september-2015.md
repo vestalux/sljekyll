@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: Books, eBooks and eAudiobooks for children and teens, including new titles from Terry Pratchett and Louis Sachar.
 breadcrumb: childrens-book-lists
 ---
+![The secret throne by Peter Hamilton](/images/featured/featured-the-secret-throne.jpg)
+
 ## Picture books
 
 ### [<cite>Lion practice</cite> by Emma Carlisle](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/24657510?QRY=CTIBIB%3C%20IRN(51021074)&QRYTEXT=Lion%20practice)

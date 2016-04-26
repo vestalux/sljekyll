@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: All the best new books for young children, older children and teenagers.
 breadcrumb: childrens-book-lists
 ---
+![Lily and Bear by Lisa Stubbs](/images/featured/featured-lily-and-bear.jpg)
+
 ## Picture books
 
 ### [<cite>The Princess and the Giant</cite> by Caryl Hart & Sarah Warburton](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2227399?QRY=CTIBIB%3C%20IRN(46868208)&QRYTEXT=The%20princess%20and%20the%20giant)

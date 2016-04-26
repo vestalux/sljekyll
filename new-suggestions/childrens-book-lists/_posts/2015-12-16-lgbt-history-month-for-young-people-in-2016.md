@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: Celebrate LGBT History Month this February with books aimed at ages ranging from young children to young adults.
 breadcrumb: childrens-book-lists
 ---
+![Will Grayson, Will Grayson by John Green and David Levithan, Stella brings the family by Miriam Schiffer and The art of being normal by Lisa Williamson](/images/featured/featured-lgbt-history-month-young-people.jpg)
+
 ## Picture books
 
 ### [<cite>Who&#8217;s in my family?: all about our families</cite> by Robie Harris](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/24555285?QRY=CTIBIB%3C%20IRN(14212289)&QRYTEXT=Who%27s%20in%20my%20family%3F%20%3A%20all%20about%20our%20families)

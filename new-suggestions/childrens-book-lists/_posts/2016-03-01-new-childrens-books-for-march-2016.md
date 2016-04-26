@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: Books for children and young adults including titles from Ruth Fitzgerald, Steve Antony and K M Peyton.
 breadcrumb: childrens-book-lists
 ---
+![A river by Marc Martin](/images/featured/featured-a-river.jpg)
+
 ## Board books
 
 ### [<cite>Usborne baby&#8217;s very first fingertrail play book &#8211; garden</cite> by Stella Baggott](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4696822?QRY=CTIBIB%3C%20IRN(57017364)&QRYTEXT=Usborne%20baby%27s%20very%20first%20fingertrail%20play%20book%20-%20garden)

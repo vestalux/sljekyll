@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: Halloween celebratory reads for little spooky skeletons.
 breadcrumb: childrens-book-lists
 ---
+![The haunted house by Kazuno Kohara](/images/featured/featured-the-haunted-house.jpg)
+
 ## Board books
 
 ### [<cite>Peppa&#8217;s pumpkin party</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19578126?QRY=CTIBIB%3C%20IRN(57016298)&QRYTEXT=Peppa%27s%20pumpkin%20party)

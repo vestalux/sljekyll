@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: Celebrate the Chinese New Year with our monkey-themed children's books.
 breadcrumb: childrens-book-lists
 ---
+![Monkey puzzle by Julia Donaldson and Axel Scheffler](/images/featured/featured-monkey-puzzle.jpg)
+
 ## Board books about monkeys
 
 ### [<cite>Hug</cite> by Jez Alborough](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9124483?QRY=CTIBIB%3C%20IRN(697201)&QRYTEXT=Hug)

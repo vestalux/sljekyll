@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: New releases from Jacqueline Wilson, Christ Priestley, Rainbow Rowell, Sandi Toksvig and more.
 breadcrumb: childrens-book-lists
 ---
+![Have you seen elephant? by David Barrow](/images/featured/featured-have-you-seen-elephant.jpg)
+
 ## Board books
 
 ### [<cite>The snowball</cite> by Giuliano Ferri](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12567868?QRY=CTIBIB%3C%20IRN(52717324)&QRYTEXT=The%20snowball)

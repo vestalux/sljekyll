@@ -7,6 +7,8 @@ category: non-fiction-lists
 excerpt: October 5-11 is <a href="http://www.bdadyslexia.org.uk/fundraising/dyslexia-awareness-week">Dyslexia Awareness Week</a>. Picture books, joke books, poetry, and non-fiction can all help dyslexic children improve their literacy. <a href="http://suffolklibraries.co.uk/reading-lists-groups-advice/dyslexia-and-irlen-syndrome">Find out more about dyslexia.</a>
 breadcrumb: childrens-book-lists
 ---
+![I spy a great reader by Jackie French](/images/featured/featured-i-spy-a-great-reader.jpg)
+
 ## Ludicrous delightful picture books for any age, from 3 to 83!
 
 Both these brilliant books are packed full of phonic silliness, perfect to laugh at and relax with!

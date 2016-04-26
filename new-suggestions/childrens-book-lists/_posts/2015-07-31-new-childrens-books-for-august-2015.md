@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: Brand new selection of board books, picture books, junior and YA books.
 breadcrumb: childrens-book-lists
 ---
+![The unlikely adventures of Mabel Jones by Will Mabbitt and Ross Collins](/images/featured/featured-the-unlikely-adventures-of-mabel-jones.jpg)
+
 ## Board books
 
 ### [<cite>Where&#8217;s Bear?</cite> by Emily Gravett](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16313086?QRY=CTIBIB%3C%20IRN(46118962)&QRYTEXT=Where%27s%20Bear%3F)

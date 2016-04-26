@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: New children's books from Emily Gravett, Jeremy Strong and Hayley Long.
 breadcrumb: childrens-book-lists
 ---
+![Wolfie the bunny by Ame Dyckman & Zachariah O'Hora](/images/featured/featured-wolfie-the-bunny.jpg)
+
 ## Board books
 
 ### [<cite>Where’s Teddy?</cite> by Rod Campbell](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/17614499?QRY=CTIBIB%3C%20IRN(55565013)&QRYTEXT=Where%27s%20teddy%3F)

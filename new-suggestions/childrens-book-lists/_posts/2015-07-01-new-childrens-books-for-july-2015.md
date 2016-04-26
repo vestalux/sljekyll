@@ -7,6 +7,8 @@ category: childrens-book-lists
 excerpt: From dodgy hamburgers to adventures at the Metropolitan Museum of Art, there are plenty of choices for children and teenagers.
 breadcrumb: childrens-book-lists
 ---
+![The hamburgers of doom by Malcolm Judge](/images/featured/featured-the-hamburgers-of-doom.jpg)
+
 ## Board books
 
 ### [<cite>Arf! Arf!</cite> by Sebastien Braun](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/33225267?QRY=CTIBIB%3C%20IRN(51022076)&QRYTEXT=Arf%3F%20Arf%3F%20%3A%20with%20big%20flaps%20to%20lift!)
