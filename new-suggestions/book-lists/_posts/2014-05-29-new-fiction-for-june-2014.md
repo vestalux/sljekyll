@@ -7,15 +7,13 @@ category: book-lists
 excerpt: Including Robert Galbraith's latest, a tale of infatuation turning to terror from Peter James and Terry Pratchett's new scifi novel <cite>The Long Mars</cite>.
 breadcrumb: book-lists
 ---
-## Download to your eReader
-
-### [Denial of Murder by Peter Turnbull](http://suffolklibraries.lib.overdrive.com/95846DAC-4B32-41EC-BBF0-95806874BE8A/10/50/en/ContentDetails.htm?id=C0673BB4-E32E-429E-8760-9DFEC4667A23)
+## [<cite>Denial of Murder</cite> by Peter Turnbull](http://suffolklibraries.lib.overdrive.com/95846DAC-4B32-41EC-BBF0-95806874BE8A/10/50/en/ContentDetails.htm?id=C0673BB4-E32E-429E-8760-9DFEC4667A23) (eBook)
 
 When the bodies of two murder victims are discovered within 24 hours of each other at the same location, each with a similar cause of death, the Murder and Serious Crime Squad of New Scotland Yard realise they must be linked. But how?
 
 Vicary and his team are drawn into a complex investigation – one which will take them from remote cottages in rural Hampshire to the dark world of inner city sex workers, child abuse within north London suburbia, and the injustice of a long-standing wrongful conviction.
 
-### [Backwoods by Jill Sorenson](http://suffolklibraries.lib.overdrive.com/95846DAC-4B32-41EC-BBF0-95806874BE8A/10/50/en/ContentDetails.htm?id=556C1502-F1C5-4175-AD34-8447F6B8D102)
+## [<cite>Backwoods</cite> by Jill Sorenson](http://suffolklibraries.lib.overdrive.com/95846DAC-4B32-41EC-BBF0-95806874BE8A/10/50/en/ContentDetails.htm?id=556C1502-F1C5-4175-AD34-8447F6B8D102) (eBook)
 
 The more you trust, the more you risk…
 
@@ -27,9 +25,7 @@ Nathan&#8217;s wild-card reputation lost him his career and his family. After ye
 
 When Brooke goes missing, Nathan knows he&#8217;s her best and only hope of rescue. But the deeper into the rugged mountains they go, the more dangerous the territory will prove-for their safety and for their hearts.
 
-## Reserve for collection from your local library
-
-### [The silkworm by Robert Galbraith](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14573057?QRY=CTIBIB%3C%20IRN(37444855)&QRYTEXT=The%20silkworm)
+## [<cite>The silkworm</cite> by Robert Galbraith](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14573057?QRY=CTIBIB%3C%20IRN(37444855)&QRYTEXT=The%20silkworm)
 
 There is one standout fiction title in June. JK Rowling’s alter ego Robert Galbraith publishes another Cormoran Strike book.
 
@@ -39,7 +35,7 @@ But as Strike investigates, it becomes clear that there is more to Quine&#8217;s
 
 If the novel were published it would ruin lives – so there are a lot of people who might want to silence him. And when Quine is found brutally murdered in bizarre circumstances, it becomes a race against time to understand the motivation of a ruthless killer, a killer unlike any he has encountered before.
 
-### [Death of a scholar: The twentieth chronicle of Matthew Bartholomew by Susanna Gregory](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14573780?QRY=CTIBIB%3C%20IRN(36824850)&QRYTEXT=Death%20of%20a%20scholar%20%3A%20the%20twentieth%20chronicle%20of%20Matthew%20Bartholomew)
+## [<cite>Death of a scholar: The twentieth chronicle of Matthew Bartholomew</cite> by Susanna Gregory](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14573780?QRY=CTIBIB%3C%20IRN(36824850)&QRYTEXT=Death%20of%20a%20scholar%20%3A%20the%20twentieth%20chronicle%20of%20Matthew%20Bartholomew)
 
 In the summer of 1358 the physician Matthew Bartholomew returns to Cambridge to find his beloved sister in mourning after the unexpected death of her husband, Oswald Stanmore.
 
@@ -47,7 +43,7 @@ Aware that his son has no interest in the cloth trade that made his fortune and 
 
 As well as the theft of irreplaceable items from Michaelhouse, which threatens its very survival, a new foundation, Winwick Hall, is causing consternation amongst Matthew&#8217;s colleagues.
 
-### [Elizabeth is missing by Emma Healey](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14574889?QRY=CTIBIB%3C%20IRN(36545180)&QRYTEXT=Elizabeth%20is%20missing)
+## [<cite>Elizabeth is missing</cite> by Emma Healey](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14574889?QRY=CTIBIB%3C%20IRN(36545180)&QRYTEXT=Elizabeth%20is%20missing)
 
 A mystery, an unsolved crime and one of the most unforgettable characters since Mark Haddon&#8217;s Christopher. Meet Maud…
 
@@ -59,7 +55,7 @@ But Maud is determined to discover what has happened to her friend, Elizabeth, a
 
 A fast-paced mystery, an unforgettable voice: you will laugh and cry but you&#8217;ll never forget Maud. There is a lot of buzz around this title. Emma Healey is yet another graduate of the UEA Creative Writing Course.
 
-### [Want you dead by Peter James](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14576691?QRY=CTIBIB%3C%20IRN(36824837)&QRYTEXT=Want%20you%20dead)
+## [<cite>Want you dead</cite> by Peter James](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14576691?QRY=CTIBIB%3C%20IRN(36824837)&QRYTEXT=Want%20you%20dead)
 
 When Red Cameron meets handsome, charming and rich Bryce Laurent through an online dating agency, there is an instant attraction. But as their love blossoms, the truth about his past, and his dark side, begins to emerge.
 
@@ -69,11 +65,11 @@ Within a year, and under police protection, she evicts him from her flat and her
 
 A new title from the author of the bestselling Roy Grace series.
 
-### [Inspector Colbeck&#8217;s casebook: Thirteen tales from the railway detective by Edward Marston](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14577455?QRY=CTIBIB%3C%20IRN(37214622)&QRYTEXT=Inspector%20Colbeck%27s%20casebook%20%3A%20thirteen%20tales%20from%20the%20railway%20detective)
+## [<cite>Inspector Colbeck&#8217;s casebook: Thirteen tales from the railway detective</cite> by Edward Marston](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14577455?QRY=CTIBIB%3C%20IRN(37214622)&QRYTEXT=Inspector%20Colbeck%27s%20casebook%20%3A%20thirteen%20tales%20from%20the%20railway%20detective)
 
 An eagerly awaited collection of brand new, specially commissioned short stories from Edward Marston, featuring his quick witted railway detective Inspector Colbeck.
 
-### [The Long Mars by Terry Pratchett and Stephen Baxter](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14578157?QRY=CTIBIB%3C%20IRN(37444850)&QRYTEXT=The%20Long%20Mars)
+## [<cite>The Long Mars</cite> by Terry Pratchett and Stephen Baxter](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14578157?QRY=CTIBIB%3C%20IRN(37444850)&QRYTEXT=The%20Long%20Mars)
 
 2040-2045: In the years after the cataclysmic Yellowstone eruption there is massive economic dislocation as populations flee Datum Earth to myriad Long Earth worlds.
 
