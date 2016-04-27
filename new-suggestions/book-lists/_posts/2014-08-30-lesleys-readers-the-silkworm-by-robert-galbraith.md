@@ -27,7 +27,7 @@ It’s typical of the detective genre in that it features a duo, but that’s wh
 
 I wonder if J. K. has already planned out the other books in the series as she did with the Harry Potter books? I hope so — I enjoyed this book so much I’ve gone back to read the first and can’t wait for the third!
 
-**If you enjoyed <cite>The silkworm</cite> by Robert Galbraith you might like:**
+## If you enjoyed <cite>The silkworm</cite> by Robert Galbraith you might like:
 
 * [<cite>The cuckoo&#8217;s calling</cite> by Robert Galbraith](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5902163?QRY=CTIBIB%3C%20IRN(18766561)&QRYTEXT=The%20cuckoo%27s%20calling)
 * [<cite>Sycamore Row</cite> by John Grisham](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5902653?QRY=CTIBIB%3C%20IRN(25522032)&QRYTEXT=Sycamore%20Row)

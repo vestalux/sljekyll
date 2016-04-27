@@ -4,9 +4,11 @@ title: New fiction for March 2015
 date: 2015-02-26 15:31:21+00:00
 author: brandon-king
 category: book-lists
-excerpt: New books, eBooks and eAudiobooks from Kazuo Ishiguro, Michael Bussi and Kate Hamer.
+excerpt: Featuring Kazuo Ishiguro, Michael Bussi and Kate Hamer.
 breadcrumb: book-lists
 ---
+![The buried giant by Kazuo Ishiguro](/images/featured/featured-the-buried-giant.jpg)
+
 ## [<cite>The buried giant</cite> by Kazuo Ishiguro](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12147112?QRY=CTIBIB%3C%20IRN(46865689)&QRYTEXT=The%20buried%20giant)
 
 <div class="row">
@@ -99,11 +101,7 @@ breadcrumb: book-lists
   </div>
 </div>
 
-&nbsp;
-
-##
-
-## [<cite>The Girl in the Red Coat</cite> by Kate Hamer (eBook)](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=FE6976F5-EBB8-4CA3-ADF9-6616B448C54D)
+## [<cite>The Girl in the Red Coat</cite> by Kate Hamer](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=FE6976F5-EBB8-4CA3-ADF9-6616B448C54D) (eBook)
 
 <div class="row">
   <div class="medium-2 columns">
@@ -119,7 +117,7 @@ breadcrumb: book-lists
 
 &nbsp;
 
-## [<cite>By a Spider&#8217;s Thread</cite> by Laura Lippman (eBook)](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=1A4D3AF9-C68B-4D34-A5D2-7887BC210408)
+## [<cite>By a Spider&#8217;s Thread</cite> by Laura Lippman](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=1A4D3AF9-C68B-4D34-A5D2-7887BC210408) (eBook)
 
 <div class="row">
   <div class="medium-2 columns">
@@ -135,7 +133,7 @@ breadcrumb: book-lists
 
 &nbsp;
 
-## [<cite>Shadow of the Hangman</cite> by Edward Marston (eBook)](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=AFB7E276-35DD-4F87-AAA1-13A6B14B1F39)
+## [<cite>Shadow of the Hangman</cite> by Edward Marston](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=AFB7E276-35DD-4F87-AAA1-13A6B14B1F39) (eBook)
 
 <div class="row">
   <div class="medium-2 columns">
@@ -151,7 +149,7 @@ breadcrumb: book-lists
 
 &nbsp;
 
-## [<cite>Still Alice</cite> by Lisa Genova (eAudio)](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=71E0996E-6A7A-452C-9286-C1043698D419)
+## [<cite>Still Alice</cite> by Lisa Genova](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=71E0996E-6A7A-452C-9286-C1043698D419) (eAudio)
 
 <div class="row">
   <div class="medium-2 columns">
@@ -167,7 +165,7 @@ breadcrumb: book-lists
 
 &nbsp;
 
-## [<cite>Her Mother&#8217;s Shadow</cite> by Diane Chamberlain (eAudio)](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=5BD0C650-A036-49FE-A19D-787D02238A5F)
+## [<cite>Her Mother&#8217;s Shadow</cite> by Diane Chamberlain](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=5BD0C650-A036-49FE-A19D-787D02238A5F) (eAudio)
 
 <div class="row">
   <div class="medium-2 columns">

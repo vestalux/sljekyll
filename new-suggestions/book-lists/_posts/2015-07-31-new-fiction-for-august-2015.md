@@ -4,9 +4,11 @@ title: New fiction for August 2015
 date: 2015-07-31 13:20:23+00:00
 author: brandon-king
 category: book-lists
-excerpt: Top thrillers and historical fiction for August, including Sophie Hannah and Philippa Gregory.
+excerpt: Featuring Sophie Hannah and Philippa Gregory.
 breadcrumb: book-lists
 ---
+![A game for all the family by Sophie Hannah](/images/featured/featured-a-game-for-all-the-family.jpg)
+
 ## [<cite>Splinter the silence</cite> by Val McDermid](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16254892?QRY=CTIBIB%3C%20IRN(51338036)&QRYTEXT=Splinter%20the%20silence)
 
 <div class="row">
@@ -119,7 +121,7 @@ breadcrumb: book-lists
 
 &nbsp;
 
-## [<cite>Badlands</cite> by C. J. Box (eBook)](http://suffolklibraries.lib.overdrive.com/65939961-F610-44CC-89DC-559DA6BE8146/10/50/en/ContentDetails.htm?id=722C1737-BF28-4CDD-A173-46DD4AA7864D)
+## [<cite>Badlands</cite> by C J Box](http://suffolklibraries.lib.overdrive.com/65939961-F610-44CC-89DC-559DA6BE8146/10/50/en/ContentDetails.htm?id=722C1737-BF28-4CDD-A173-46DD4AA7864D) (eBook)
 
 <div class="row">
   <div class="medium-2 columns">
@@ -135,7 +137,7 @@ breadcrumb: book-lists
 
 &nbsp;
 
-## [<cite>Tremaine&#8217;s True Love (True Gentlemen Series, Book 2)</cite> by Grace Burrowes (eBook)](http://suffolklibraries.lib.overdrive.com/65939961-F610-44CC-89DC-559DA6BE8146/10/50/en/ContentDetails.htm?id=FAAF0EE7-472F-4A43-BC04-54FF3002DF89)
+## [<cite>Tremaine&#8217;s True Love (True Gentlemen Series, Book 2)</cite> by Grace Burrowes](http://suffolklibraries.lib.overdrive.com/65939961-F610-44CC-89DC-559DA6BE8146/10/50/en/ContentDetails.htm?id=FAAF0EE7-472F-4A43-BC04-54FF3002DF89) (eBook)
 
 <div class="row">
   <div class="medium-2 columns">
@@ -151,7 +153,7 @@ breadcrumb: book-lists
 
 &nbsp;
 
-## [<cite>Betrayed in Cornwall (Rose Trevelyan Series, Book 4)</cite> by Janie Bolitho (eBook)](http://suffolklibraries.lib.overdrive.com/65939961-F610-44CC-89DC-559DA6BE8146/10/50/en/ContentDetails.htm?id=EB11AFFF-4295-45E6-8CC1-CF8B9E2D6F50)
+## [<cite>Betrayed in Cornwall (Rose Trevelyan Series, Book 4)</cite> by Janie Bolitho](http://suffolklibraries.lib.overdrive.com/65939961-F610-44CC-89DC-559DA6BE8146/10/50/en/ContentDetails.htm?id=EB11AFFF-4295-45E6-8CC1-CF8B9E2D6F50) (eBook)
 
 <div class="row">
   <div class="medium-2 columns">
@@ -167,7 +169,7 @@ breadcrumb: book-lists
 
 &nbsp;
 
-## [<cite>The No. 2 Feline Detective Agency (Hettie Bagshot Mystery Series, Book 1)</cite> by Mandy Morton (eBook)](http://suffolklibraries.lib.overdrive.com/65939961-F610-44CC-89DC-559DA6BE8146/10/50/en/ContentDetails.htm?id=AA55E9C2-BB1A-4B96-B150-9E1730BFD1BD)
+## [<cite>The No. 2 Feline Detective Agency (Hettie Bagshot Mystery Series, Book 1)</cite> by Mandy Morton](http://suffolklibraries.lib.overdrive.com/65939961-F610-44CC-89DC-559DA6BE8146/10/50/en/ContentDetails.htm?id=AA55E9C2-BB1A-4B96-B150-9E1730BFD1BD) (eBook)
 
 <div class="row">
   <div class="medium-2 columns">

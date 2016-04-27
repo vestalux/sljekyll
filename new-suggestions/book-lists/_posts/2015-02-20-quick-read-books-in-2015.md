@@ -7,6 +7,8 @@ category: book-lists
 excerpt: The 2015 collection is guaranteed to entertain as well as help emergent readers on their reading journey.
 breadcrumb: book-lists
 ---
+![A street cat named Bob: how one man and a cat saved each other's lives by James Bowen](/images/featured/featured-a-street-cat-named-bob.jpg)
+
 _With one in six adults still struggling to read, Quick Reads continues its work to break down the barriers to reading. There are six short, plot-filled books, written by well-known authors published every year, designed to help people who have lost the reading habit, or struggle with aspects of reading._
 
 ## [<cite>Paris for one</cite> by Jojo Moyes](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2573537?QRY=CTIBIB%3C%20IRN(44977824)&QRYTEXT=Paris%20for%20one)

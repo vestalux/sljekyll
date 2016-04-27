@@ -7,11 +7,9 @@ category: book-lists
 excerpt: We're discussing <cite>The Dead Lake</cite> by Hamid Ismailov with Lesley Dolphin on BBC Radio Suffolk at 2.30pm on Monday 1 June.
 breadcrumb: book-lists
 ---
-<div class="panel">
-  <p>
-    This month, we are tying into the <a href="http://suffolklibraries.co.uk/book-lists/brave-new-reads-2015">Brave New Reads</a>’ reading programme. Brave New Reads is a regional reading initiative set up by the Writers’ Centre Norwich, that has six books it challenges its participants to read. These books are focussed on promoting world literature and encourage readers to explore more unconventional texts and genres.
-  </p>
-</div>
+![The dead lake by Hamid Ismailov](/images/featured/featured-the-dead-lake.jpg)
+
+This month, we are tying into the Brave New Reads reading programme. Brave New Reads is a regional reading initiative set up by the Writers’ Centre Norwich, that has six books it challenges its participants to read. These books are focussed on promoting world literature and encourage readers to explore more unconventional texts and genres.
 
 <cite>The Dead Lake</cite> is one of the chosen books. It is about the devastating effects of the cold-war on a Kazakh boy, with mystery and magic woven into the narration. The protagonist, Yerhzan, is twenty-seven years old but stuck within the body of a twelve-year old. The story of how and why Yerzhan stopped ageing is the premise to Ismailov’s novella, a story that carries with it symbolic meaning of what physical and emotional damage nuclear war wreaked on the citizens of Kazakhstan. It is after meeting the nameless narrator on a commuter train that Yerzhan begins to relate the story of his life so far. Born at the Kara-Shagan station nearby an atomic test site in Kazakhstan, Yerzhan is brought up by his mute mother and grandparents. He does not know his father, since his mother became pregnant after an encounter with an “alien”.
 

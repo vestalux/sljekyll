@@ -7,6 +7,8 @@ category: book-lists
 excerpt: We’re discussing <cite>Mr Mac and Me</cite> by Esther Freud with Lesley Dolphin on BBC Radio Suffolk at 2.30pm on Monday 3 August. <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/17932537?QRY=CTIBIB%3C%20IRN(40362836)&QRYTEXT=Mr%20Mac%20and%20me">Reserve a copy.</a>
 breadcrumb: book-lists
 ---
+![Mr Mac and me by Esther Freud](/images/featured/featured-mr-mac-and-me.jpg)
+
 Split between acting as a biography, eulogy and fictional tale is Esther Freud’s newest novel, <cite>Mr Mac and Me</cite>. Based on the life of the artist and architect Charles Rennie Mackintosh, Freud’s novel follows Mackintosh’s life after his move to Suffolk in 1914. With beautiful descriptions of the Suffolk coastline and quaint depictions of the seaside towns of Walberswick and Southwold, [<cite>Mr Mac and Me</cite> has earned itself a New Angle Prize nomination](http://www.ipswichinstitute.org.uk/NAP.html).
 
 The novel is narrated by 12 year old Thomas Maggs, the only surviving son of six before him. He lives with his parents and two older sisters at their pub, The Blue Inn, and obtains work making rope with a local craftsman. However, Thomas is uninterested with his work or education; he is whimsical and idealistic and far more interested in adventure than mundane chores. The opportunity for adventure arises when Charles Rennie Mackintosh arrives in Walberswick. Mackintosh comes to Suffolk for artistic inspiration and to develop his skills as a painter, activities that captivate Thomas’ creativity and spur him to strike up a friendship with Mackintosh.

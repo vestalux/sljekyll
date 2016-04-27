@@ -4,9 +4,11 @@ title: New fiction for October 2015
 date: 2015-10-01 08:44:07+00:00
 author: brandon-king
 category: book-lists
-excerpt: Brand new adult novels including Ruth Rendall's last, another instalment in Robert Galbraith's <cite>Cormoran Strike</cite> series and M.C. Beaton's latest.
+excerpt: Featuring Ruth Rendall, Robert Galbraith and M C Beaton.
 breadcrumb: book-lists
 ---
+![Dark corners by Ruth Rendell](/images/featured/featured-dark-corners.jpg)
+
 ## [<cite>Dark corners</cite> by Ruth Rendell](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10642032?QRY=CTIBIB%3C%20IRN(996824)&QRYTEXT=Dark%20corners)
 
 <div class="row">

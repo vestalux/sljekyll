@@ -29,7 +29,7 @@ It’s a really easy read and I loved the underlying humour and although I&#8217
 
 A great read, I read it in one day. Thank you for recommending it! I really enjoyed reading it and the observations on relationships.
 
-**If you enjoyed <cite>The Rosie Project</cite> by Graeme Simsion you might like:**
+## If you enjoyed <cite>The Rosie Project</cite> by Graeme Simsion you might like:
 
 * [<cite>Perfect</cite> by Rachel Joyce](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5895525?QRY=CTIBIB%3C%20IRN(564729)&QRYTEXT=Perfect)
 * [<cite>The knot</cite> by Mark Watson](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5895419?QRY=CTIBIB%3C%20IRN(199853)&QRYTEXT=The%20knot)

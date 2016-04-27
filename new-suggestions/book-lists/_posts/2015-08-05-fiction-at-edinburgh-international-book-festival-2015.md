@@ -7,6 +7,8 @@ category: book-lists
 excerpt: <a href="https://www.edbookfest.co.uk/">Edinburgh International Book Festival</a> is the largest bookfest in the world, running 15-31 August 2015. Here are a selection of fiction authors appearing at the festival.'
 breadcrumb: book-lists
 ---
+![Galina Petrovna's three-legged dog story by Andrea Bennett](/images/featured/featured-galina-petrovnas-three-legged-dog-story.jpg)
+
 ## [<cite>Craving</cite> by Esther Gerritsen](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8414132?QRY=CTIBIB%3C%20IRN(42636206)&QRYTEXT=Craving)
 
 <div class="row">

@@ -23,7 +23,7 @@ It’s a fascinating and horrifying thought that someone could forget all that�
 
 I knew there had to be a twist at the end but didn’t see this one coming!
 
-**If you enjoyed <cite>Before I go to sleep</cite> by S J Watson you might like:**
+## If you enjoyed <cite>Before I go to sleep</cite> by S J Watson you might like:
 
 * [<cite>Gone girl</cite> by Gillian Flynn](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5906736?QRY=CTIBIB%3C%20IRN(185983)&QRYTEXT=Gone%20girl)
 * [<cite>The husband&#8217;s secret</cite> by Liane Moriarty](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5907031?QRY=CTIBIB%3C%20IRN(22822024)&QRYTEXT=The%20husband%27s%20secret)

@@ -4,9 +4,11 @@ title: New fiction for February 2015
 date: 2015-01-30 14:17:00+00:00
 author: brandon-king
 category: book-lists
-excerpt: New fiction for February featuring Erica James, Anne Tyler and S. J. Watson.
+excerpt: Featuring Erica James, Anne Tyler and S J Watson.
 breadcrumb: book-lists
 ---
+![The dandelion years by Erica James](/images/featured/featured-the-dandelion-years.jpg)
+
 ## [<cite>The dandelion years</cite> by Erica James](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4571827?QRY=CTIBIB%3C%20IRN(45623269)&QRYTEXT=The%20dandelion%20years)
 
 <div class="row">

@@ -4,9 +4,11 @@ title: 'Lesley&#8217;s Readers: The girl in the red coat by Kate Hamer'
 date: 2015-02-25 11:01:15+00:00
 author: maddie-smith
 category: book-lists
-excerpt: '<a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5909948?QRY=CTIBIB%3C%20IRN(736459)&QRYTEXT=The%20girl%20in%20the%20red%20coat">Reserve a copy.</a>'
+excerpt: Maddie and Lesley review this exciting thriller about a kidnapped girl.
 breadcrumb: book-lists
 ---
+![The girl in the red coat by Kate Hamer](/images/featured/featured-the-girl-in-the-red-coat.jpg)
+
 Having to acknowledge the abduction of your child will remain for most parents no more than a latent fear, but it also a fear that threatens to be catastrophic if it is awakened. This is the premise to Kate Hamer’s debut novel, <cite>The Girl in the Red Coat</cite>, which tells the chilling story of the abduction of 8 year old Carmel Wakeford and the suffering her mother, Beth, endures in the wake of her disappearance.
 
 Set in rural Norfolk, Carmel and Beth lead a stable family life, despite Beth being separated from Carmel’s father, Paul. Carmel is acknowledged by those who surround her as a daydreamer and a maverick; she sparks attention with family friends and her teachers as a girl who holds an air of mystery and is indisputably clever for her age.
@@ -32,3 +34,5 @@ That aside, <cite>The Girl in the Red Coat</cite> is a beautifully written story
 ## Lesley Dolphin&#8217;s review:
 
 A gripping read. This is cleverly told — the story alternates between the mum and the daughter and it’s told by them so we feel the absolute desperation of a mother who’s child is lost and the confusion of the little girl who’s taken. I couldn’t put it down — everything had to wait until I’d got to the end to see if it has a happy ending. Obviously I’m not going to tell you, but it’s left me wanting to know more, which means everyone will be talking about <cite>The Girl In The Red Coat</cite>!
+
+[Reserve a copy of <cite>The girl in the red coat</cite> by Kate Hamer](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5909948?QRY=CTIBIB%3C%20IRN(736459)&QRYTEXT=The%20girl%20in%20the%20red%20coat)

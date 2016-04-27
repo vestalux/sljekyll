@@ -31,7 +31,7 @@ Hazel and Augustus meet at a Cancer Kid Support Group where they form a deep fri
 
 This is a story about love, living the life you’re given and making the most of every moment, the experiences we share with those that love us the most and the friendships we develop. What John Green creates in Hazel and Augustus along with their friends and families is a set of characters we come to care deeply about. I experienced a whole spectrum of emotions while reading this book; I cried as well as laughing out loud. <cite>The fault in our stars</cite> is one book I recommend to others.
 
-**If you enjoyed <cite>The fault in our stars</cite> by John Green you might like:**
+## If you enjoyed <cite>The fault in our stars</cite> by John Green you might like:
 
 * [<cite>The perks of being a wallflower</cite> by Stephen Chbosky](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5887986?QRY=CTIBIB%3C%20IRN(704656)&QRYTEXT=The%20perks%20of%20being%20a%20wallflower)
 * [<cite>Me before you</cite> by Jojo Moyes](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5887999?QRY=CTIBIB%3C%20IRN(961372)&QRYTEXT=Me%20before%20you)

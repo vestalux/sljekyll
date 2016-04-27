@@ -4,9 +4,11 @@ title: New fiction for January 2015
 date: 2014-12-30 15:55:00+00:00
 author: brandon-king
 category: book-lists
-excerpt: New novels by Stuart MacBride, Jill Mansell and Susanna Gregory.
+excerpt: Featuring Stuart MacBride, Jill Mansell and Susanna Gregory.
 breadcrumb: book-lists
 ---
+![The missing and the dead</cite> by Stuart MacBride](/images/featured/featured-stuart-macbride.jpg)
+
 ## [<cite>The missing and the dead</cite> by Stuart MacBride](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12841568?QRY=CTIBIB%3C%20IRN(45624738)&QRYTEXT=The%20missing%20and%20the%20dead)
 
 <div class="row">
@@ -103,9 +105,7 @@ breadcrumb: book-lists
 
 &nbsp;
 
-## New for OverDrive
-
-### [<cite>Stella Mia</cite> by Rosanna Chiofalo](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=9BF0E64D-E234-4445-A75C-EADECF9A5C1D)
+## [<cite>Stella Mia</cite> by Rosanna Chiofalo](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=9BF0E64D-E234-4445-A75C-EADECF9A5C1D) (eBook)
 
 <div class="row">
   <div class="medium-2 columns">
@@ -121,7 +121,7 @@ breadcrumb: book-lists
 
 &nbsp;
 
-### [<cite>Crunch Time: Henry Christie Series, Book 12</cite> by Nick Oldham](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=08506238-CE14-422D-B9F9-F7CA36481B81)
+## [<cite>Crunch Time: Henry Christie Series, Book 12</cite> by Nick Oldham](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=08506238-CE14-422D-B9F9-F7CA36481B81) (eBook)
 
 <div class="row">
   <div class="medium-2 columns">
@@ -137,7 +137,7 @@ breadcrumb: book-lists
 
 &nbsp;
 
-### [<cite>The Firebird&#8217;s Feather</cite> by Majorie Eccles](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=331F1649-229C-4CB4-9472-74922FB948AA)
+## [<cite>The Firebird&#8217;s Feather</cite> by Majorie Eccles](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=331F1649-229C-4CB4-9472-74922FB948AA) (eBook)
 
 <div class="row">
   <div class="medium-2 columns">

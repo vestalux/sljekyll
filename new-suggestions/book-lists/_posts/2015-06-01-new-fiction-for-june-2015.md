@@ -7,6 +7,8 @@ category: book-lists
 excerpt: Including fiction from the late, great Terry Pratchett.
 breadcrumb: book-lists
 ---
+![The long utopia by Terry Pratchett and Stephen Baxter](/images/featured/featured-the-long-utopia.jpg)
+
 ## [<cite>The long utopia</cite> by Terry Pratchett and Stephen Baxter](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/18117335?QRY=CTIBIB%3C%20IRN(49561911)&QRYTEXT=The%20long%20utopia)
 
 <div class="row">

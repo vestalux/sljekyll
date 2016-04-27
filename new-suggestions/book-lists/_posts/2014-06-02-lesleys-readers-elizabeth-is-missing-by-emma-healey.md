@@ -39,7 +39,7 @@ This is not the sort of book I usually pick up, but I really enjoyed it. Maud re
 
 Really enjoyed this book. The confusion caused by dementia was sensitively handled and the mystery surrounding Elizabeth’s disappearance was intertwined in the story in a clever manner. The characters were very believable, especially the daughter whose frustration with her Mum was very understandable. I have bought a copy for my friend for her birthday.
 
-**If you enjoyed <cite>Elizabeth is missing</cite> by Emma Healey you might like:**
+## If you enjoyed <cite>Elizabeth is missing</cite> by Emma Healey you might like:
 
 * [<cite>The thing about December</cite> by Donal Ryan](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5891183?QRY=CTIBIB%3C%20IRN(24546332)&QRYTEXT=The%20thing%20about%20December)
 * [<cite>The goldfinch</cite> by Donna Tartt](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5890919?QRY=CTIBIB%3C%20IRN(24790609)&QRYTEXT=The%20goldfinch)

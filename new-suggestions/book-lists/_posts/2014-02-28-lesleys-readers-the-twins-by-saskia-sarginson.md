@@ -4,7 +4,7 @@ title: 'Lesley’s Readers: The twins by Saskia Sarginson'
 date: 2014-02-28 11:21:46+00:00
 author: sarah-jenkins
 category: book-lists
-excerpt: A tale of childhood secrets and the bond between twins. <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5627784?QRY=CTIBIB%3C%20IRN(9467)&QRYTEXT=The%20twins">Reserve a copy.</a>
+excerpt: A tale of childhood secrets and the bond between twins.
 breadcrumb: book-lists
 ---
 ![The twins by Saskia Sarginson](/images/featured/featured-the-twins.jpg)
@@ -21,7 +21,7 @@ The ending is abrupt and I had to reread the last 2 pages to get a handle on it.
 
 An enjoyable book, with good twists both in the Polly story and in the death of Michael. Being a twin myself, I can say that Saskia has got a good grip on the twin relationship — like Issy and Viola, we were always being asked if we could tell what the other twin was thinking or doing, and her description of the twins meeting Michael and John for the first time took me back to my school days when we met another pair of twins for the first time – quite a shock to the system when you are used to being unique! I would have liked the book to have finished with Viola meeting John again, but perhaps that is best left to the imagination! Overall, I enjoyed reading the book, and the story kept me captivated right to the end.
 
-**If you enjoyed <cite>The twins</cite> by Saskia Sarginson you might like:**
+## If you enjoyed <cite>The twins</cite> by Saskia Sarginson you might like:
 
 * [<cite>Never coming back</cite> by Tim Weaver](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5875553?QRY=CTIBIB%3C%20IRN(22822002)&QRYTEXT=Never%20coming%20back)
 * [<cite>The shining girls</cite> by Lauren Beukes](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5876822?QRY=CTIBIB%3C%20IRN(19767893)&QRYTEXT=The%20shining%20girls)

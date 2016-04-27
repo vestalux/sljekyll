@@ -19,7 +19,7 @@ I really didn’t like Karen Joy Fowler’s first novel, <cite>The Jane Austen B
 
 You must add this book to your &#8216;books to read&#8217; list.
 
-**If you enjoyed <cite>We Are All Completely Beside Ourselves</cite> by Karen Joy Fowler you might like:**
+## If you enjoyed <cite>We Are All Completely Beside Ourselves</cite> by Karen Joy Fowler you might like:
 
 * [<cite>To Rise Again at a Decent Hour</cite> by Joshua Ferris](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=TI&ENTRY=to+rise+again+at+a+decent+hour&ENTRY1_OPER=%2B&ENTRY2_NAME=AU&ENTRY2=&ENTRY2_TYPE=K&ENTRY3_NAME=SU&ENTRY3=&ENTRY_TYPE=K&ENTRY3_OPER=%2B&NRECS=20&SORTS=HBT.SOVR&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FOPAC%2FBSEARCH&CF=GEN&GQ=to+rise+again+at+a+decent+hour)
 * [<cite>The Girl with All the Gifts</cite> by M R Carey](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=TI&ENTRY=the+girl+with+all+the+gifts&ENTRY1_OPER=%2B&ENTRY2_NAME=AU&ENTRY2=&ENTRY2_TYPE=K&ENTRY3_NAME=SU&ENTRY3=&ENTRY_TYPE=K&ENTRY3_OPER=%2B&NRECS=20&SORTS=HBT.SOVR&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FOPAC%2FBSEARCH&CF=GEN&GQ=the+girl+with+all+the+gifts)

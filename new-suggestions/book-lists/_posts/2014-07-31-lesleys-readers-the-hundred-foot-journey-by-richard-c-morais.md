@@ -14,7 +14,7 @@ The author is brilliant at creating truly quirky characters such as Hassan’s p
 
 If you enjoy an intelligent read with a fast paced narrative and you want to feed your senses with the sights, tastes and smells of wonderful cuisine, then this is the book for you. I loved it.
 
-**If you enjoyed <cite>The Hundred-Foot Journey</cite> by Richard C Morais you might like:**
+## If you enjoyed <cite>The Hundred-Foot Journey</cite> by Richard C Morais you might like:
 
 * [<cite>The little coffee shop of Kabul</cite> by Deborah Rodriguez](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5899504?QRY=CTIBIB%3C%20IRN(18766553)&QRYTEXT=The%20little%20coffee%20shop%20of%20Kabul)
 * [<cite>Amore and amaretti: a tale of love and food in Italy</cite> by Victoria Cosford](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5899321?QRY=CTIBIB%3C%20IRN(1479004)&QRYTEXT=Amore%20and%20amaretti%20%3A%20a%20tale%20of%20love%20and%20food%20in%20Italy)

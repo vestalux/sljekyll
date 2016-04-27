@@ -4,9 +4,11 @@ title: New fiction for December 2015
 date: 2015-11-23 14:11:16+00:00
 author: brandon-king
 category: book-lists
-excerpt: New releases from Tom Clancy's collaborator Mark Greaney, Robert Thorogood and Danielle Steel.
+excerpt: Featuring Tom Clancy's collaborator Mark Greaney, Robert Thorogood and Danielle Steel.
 breadcrumb: book-lists
 ---
+![Tom Clancy's commander-in-chief by Mark Greaney](/images/featured/featured-tom-clancy-commander-in-chief.jpg)
+
 ## [<cite>Tom Clancy&#8217;s commander-in-chief</cite> by Mark Greaney](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12831079?QRY=CTIBIB%3C%20IRN(54089896)&QRYTEXT=Tom%20Clancy%27s%20commander-in-chief)
 
 <div class="row">

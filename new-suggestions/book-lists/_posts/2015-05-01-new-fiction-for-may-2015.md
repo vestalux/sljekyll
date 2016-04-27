@@ -4,9 +4,11 @@ title: New fiction for May 2015
 date: 2015-05-01 08:05:12+00:00
 author: brandon-king
 category: book-lists
-excerpt: The best new fiction from Kate Atkinson and Mason Cross.
+excerpt: Featuring Kate Atkinson and Mason Cross.
 breadcrumb: book-lists
 ---
+![A god in ruins by Kate Atkinson](/images/featured/featured-a-god-in-ruins.jpg)
+
 ## [<cite>A god in ruins</cite> by Kate Atkinson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/1985532?QRY=CTIBIB%3C%20IRN(103556)&QRYTEXT=A%20god%20in%20ruins)
 
 <div class="row">
@@ -105,7 +107,7 @@ breadcrumb: book-lists
   </div>
 </div>
 
-## [<cite>Brides of War</cite> by June Tate (eBook)](http://suffolklibraries.lib.overdrive.com/B30781EB-584C-415F-8D62-ED2D3D691CFA/10/50/en/ContentDetails.htm?id=745C7545-E47F-45E5-B227-3FAAE3EA39C1)
+## [<cite>Brides of War</cite> by June Tate](http://suffolklibraries.lib.overdrive.com/B30781EB-584C-415F-8D62-ED2D3D691CFA/10/50/en/ContentDetails.htm?id=745C7545-E47F-45E5-B227-3FAAE3EA39C1) (eBook)
 
 <div class="row">
   <div class="medium-2 columns">
@@ -123,7 +125,7 @@ breadcrumb: book-lists
   </div>
 </div>
 
-## [<cite>Death Wears a Beauty Mask and Other Stories</cite> by Mary Higgins Clark (eBook)](http://suffolklibraries.lib.overdrive.com/B30781EB-584C-415F-8D62-ED2D3D691CFA/10/50/en/ContentDetails.htm?id=BBDE1DDF-2ED1-470C-B182-AC035DDBEC37)
+## [<cite>Death Wears a Beauty Mask and Other Stories</cite> by Mary Higgins Clark](http://suffolklibraries.lib.overdrive.com/B30781EB-584C-415F-8D62-ED2D3D691CFA/10/50/en/ContentDetails.htm?id=BBDE1DDF-2ED1-470C-B182-AC035DDBEC37) (eBook)
 
 <div class="row">
   <div class="medium-2 columns">
@@ -141,7 +143,7 @@ breadcrumb: book-lists
   </div>
 </div>
 
-## [<cite>The Devilish Mr. Danvers</cite> by Vivienne Lorret (eBook)](http://suffolklibraries.lib.overdrive.com/B30781EB-584C-415F-8D62-ED2D3D691CFA/10/50/en/ContentDetails.htm?id=EF5BA90C-FA4E-4BE8-8CEC-F1288EC54B77)
+## [<cite>The Devilish Mr. Danvers</cite> by Vivienne Lorret](http://suffolklibraries.lib.overdrive.com/B30781EB-584C-415F-8D62-ED2D3D691CFA/10/50/en/ContentDetails.htm?id=EF5BA90C-FA4E-4BE8-8CEC-F1288EC54B77) (eBook)
 
 <div class="row">
   <div class="medium-2 columns">

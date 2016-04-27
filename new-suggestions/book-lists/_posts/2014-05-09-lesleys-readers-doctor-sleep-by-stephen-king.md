@@ -17,7 +17,7 @@ King&#8217;s descriptions of what the &#8216;evil&#8217; True Knot get up to, wh
 
 King has produced a worthy successor to <cite>The Shining</cite> and writes better than ever. If you have the nerve then I can&#8217;t recommend this book highly enough. (I am now only drinking one cup of tea prior to bedtime!)
 
-**If you enjoyed <cite>Doctor Sleep</cite> by Stephen King you might like:**
+## If you enjoyed <cite>Doctor Sleep</cite> by Stephen King you might like:
 
 * [<cite>The shining</cite> by Stephen King](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5882525?QRY=CTIBIB%3C%20IRN(651244)&QRYTEXT=The%20shining)
 * [<cite>Innocence</cite> by Dean Koontz](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5882407?QRY=CTIBIB%3C%20IRN(113993)&QRYTEXT=Innocence)

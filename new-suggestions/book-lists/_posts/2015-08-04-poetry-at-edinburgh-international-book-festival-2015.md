@@ -7,6 +7,8 @@ category: book-lists
 excerpt: <a href="https://www.edbookfest.co.uk/">Edinburgh International Book Festival</a> is the largest bookfest in the world, running 15-31 August 2015. Here are a selection of poets appearing at the festival.
 breadcrumb: book-lists
 ---
+![Shingle street by Blake Morrison](/images/featured/featured-shingle-street.jpg)
+
 ## [<cite>Search party</cite> by George the Poet](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5993725?QRY=CTIBIB%3C%20IRN(45906493)&QRYTEXT=Search%20party)
 
 <div class="row">

@@ -25,7 +25,7 @@ The first part of the book introduces us to the characters including young Riley
 
 I’ve already heard that this period in our history was when society changed and that becomes clear as the wife Julia tries to find a reason for her life rather than just being a wife, Rose loves working (as a nurse) and Nadine breaks all the rules by sleeping with Riley.
 
-**If you enjoyed <cite>My dear I wanted to tell you</cite> by Louisa Young you might like:**
+## If you enjoyed <cite>My dear I wanted to tell you</cite> by Louisa Young you might like:
 
 * [<cite>The return of the soldier</cite> by Rebecca West](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5877789?QRY=CTIBIB%3C%20IRN(704958)&QRYTEXT=The%20return%20of%20the%20soldier)
 * [<cite>The Great War</cite> by Peter Hart](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5877715?QRY=CTIBIB%3C%20IRN(181614)&QRYTEXT=The%20Great%20War)

@@ -7,11 +7,9 @@ category: book-lists
 excerpt: We're discussing <cite>Us</cite> by David Nicholls with Lesley Dolphin on BBC Radio Suffolk at 2.30pm on Monday 11 May.
 breadcrumb: book-lists
 ---
-<div class="panel">
-  <p>
-    <cite>Us</cite> is the 2014 Man Booker longlisted novel by author David Nicholls. It&#8217;s a tragi-comedy that tells the poignant story of a couple&#8217;s last ditch attempt to reconcile their relationship by taking one incredible trip around Europe.
-  </p>
-</div>
+![Us by David Nicholls](/images/featured/featured-us.jpg)
+
+<cite>Us</cite> is the 2014 Man Booker longlisted novel by author David Nicholls. It&#8217;s a tragi-comedy that tells the poignant story of a couple&#8217;s last ditch attempt to reconcile their relationship by taking one incredible trip around Europe.
 
 She’s the artistic, free-willed bohemian and he’s the regimented man of reason. While they are complete opposites, their marriage has remained content. However, irreconcilable differences are starting to emerge that threaten to end their time together. This is what prompts them to plan a ‘Grand Tour’ of Europe with their seventeen year old son. A trip through France, Amsterdam, Italy and Spain that has the aim of reconciling and reigniting their relationship. It’s hailed to be an unforgettable trip for the family – which it is, in more ways than one.
 

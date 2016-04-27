@@ -7,6 +7,8 @@ category: book-lists
 excerpt: 8 October 2015 is <a href="http://www.forwardartsfoundation.org/national-poetry-day/">National Poetry Day</a>. Here are some recommended and latest collections of poetry in our catalogue.
 breadcrumb: book-lists
 ---
+![Paper aeroplane: selected poems 1989-2014 by Simon Armitage](/images/featured/featured-paper-aeroplane.jpg)
+
 ## [<cite>40 Sonnets</cite> by Don Paterson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5895224?QRY=CTIBIB%3C%20IRN(52717798)&QRYTEXT=40%20sonnets)
 
 <div class="row">
