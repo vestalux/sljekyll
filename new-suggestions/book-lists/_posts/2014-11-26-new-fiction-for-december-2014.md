@@ -4,9 +4,11 @@ title: New fiction for December 2014
 date: 2014-11-26 10:09:21+00:00
 author: brandon-king
 category: book-lists
-excerpt: New books this month from Haruki Murakami, Nick Oldham and Mari Hannah.
+excerpt: Featuring Haruki Murakami, Nick Oldham and Mari Hannah.
 breadcrumb: book-lists
 ---
+![The Strange Library by Haruki Murakami](/images/featured/featured-the-strange-library.jpg)
+
 ## [<cite>The Strange Library</cite> by Haruki Murakami](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/1190602?QRY=CTIBIB%3C%20IRN(44255847)&QRYTEXT=The%20strange%20library)
 
 <div class="row">
@@ -79,13 +81,7 @@ breadcrumb: book-lists
   </div>
 </div>
 
-&nbsp;
-
-# OverDrive e-books
-
-&nbsp;
-
-## [<cite>Disclosures</cite> by Bill James](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=C3D4BEFE-F566-4E20-99CF-39E4CA8A5DAD)
+## [<cite>Disclosures</cite> by Bill James](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=C3D4BEFE-F566-4E20-99CF-39E4CA8A5DAD) (eBook)
 
 <div class="row">
   <div class="medium-2 columns">
@@ -101,7 +97,7 @@ breadcrumb: book-lists
 
 &nbsp;
 
-## [<cite>The Tea Rose</cite> by Jennifer Donnelly](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=424E740A-9BF6-4538-B9DE-95E85BB540EE)
+## [<cite>The Tea Rose</cite> by Jennifer Donnelly](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=424E740A-9BF6-4538-B9DE-95E85BB540EE) (eBook)
 
 <div class="row">
   <div class="medium-2 columns">
@@ -117,7 +113,7 @@ breadcrumb: book-lists
 
 &nbsp;
 
-## [<cite>A Fugitive Englishman</cite> by Roy Lewis](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=013D1854-BF34-440E-B279-62564752A8F7)
+## [<cite>A Fugitive Englishman</cite> by Roy Lewis](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=013D1854-BF34-440E-B279-62564752A8F7) (eBook)
 
 <div class="row">
   <div class="medium-2 columns">

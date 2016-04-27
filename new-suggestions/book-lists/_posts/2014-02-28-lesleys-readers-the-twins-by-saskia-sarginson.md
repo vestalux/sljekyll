@@ -23,7 +23,7 @@ An enjoyable book, with good twists both in the Polly story and in the death of 
 
 **If you enjoyed <cite>The twins</cite> by Saskia Sarginson you might like:**
 
-  * <cite><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5875553?QRY=CTIBIB%3C%20IRN(22822002)&QRYTEXT=Never%20coming%20back">Never coming back</a></cite> by Tim Weaver
-  * <cite><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5876822?QRY=CTIBIB%3C%20IRN(19767893)&QRYTEXT=The%20shining%20girls">The shining girls</a> </cite>by Lauren Beukes
-  * <cite><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5876528?QRY=CTIBIB%3C%20IRN(158892)&QRYTEXT=Sister">Sister</a></cite> by Rosamund Lupton
-  * <cite><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5876361?QRY=CTIBIB%3C%20IRN(22387649)&QRYTEXT=Snow%20White%20must%20die">Snow White must die</a></cite> by Nele Neuhaus
+* [<cite>Never coming back</cite> by Tim Weaver](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5875553?QRY=CTIBIB%3C%20IRN(22822002)&QRYTEXT=Never%20coming%20back)
+* [<cite>The shining girls</cite> by Lauren Beukes](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5876822?QRY=CTIBIB%3C%20IRN(19767893)&QRYTEXT=The%20shining%20girls)
+* [<cite>Sister</cite> by Rosamund Lupton](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5876528?QRY=CTIBIB%3C%20IRN(158892)&QRYTEXT=Sister)
+* [<cite>Snow White must die</cite> by Nele Neuhaus](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5876361?QRY=CTIBIB%3C%20IRN(22387649)&QRYTEXT=Snow%20White%20must%20die)

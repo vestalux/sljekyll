@@ -4,7 +4,7 @@ title: New fiction for February 2014
 date: 2014-02-05 12:58:55+00:00
 author: brandon-king
 category: book-lists
-excerpt: Including a forensic crime thriller, Joanna Trollope's latest and a novel featuring Baudelaire.
+excerpt: Featuring Elly Griffiths and Joanna Trollope.
 breadcrumb: book-lists
 ---
 ![The outcast dead by Elly Griffiths](/images/featured/featured-the-outcast-dead.jpg)

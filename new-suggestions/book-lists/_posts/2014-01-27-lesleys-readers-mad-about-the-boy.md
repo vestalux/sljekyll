@@ -4,7 +4,7 @@ title: "Lesley&#8217;s Readers: Mad about the Boy by Helen Fielding"
 date: 2014-01-27T17:18:25+00:00
 author: sarah-jenkins
 category: book-lists
-excerpt: Helen Fielding's eponymous heroine tumbles through the challenges of single-motherhood, tweeting and texting. <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5613496?QRY=CTIBIB%3C%20IRN(46866416)&QRYTEXT=Bridget%20Jones%20-%20mad%20about%20the%20boy">Reserve a copy.</a>
+excerpt: Helen Fielding's eponymous heroine tumbles through the challenges of single-motherhood, tweeting and texting.
 breadcrumb: book-lists
 ---
 ![Mad about the Boy by Helen Fielding](/images/featured/featured-mad-about-the-boy.jpg)
@@ -13,6 +13,6 @@ What do you do when a girlfriend&#8217;s 60th birthday party is the same day as 
 
 **If you enjoyed <cite>Bridget Jones: Mad about the Boy</cite> by Helen Fielding you might like:**
 
-  * <cite><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5873474?QRY=CTIBIB%3C%20IRN(26583386)&QRYTEXT=How%20to%20fall%20in%20love">How to fall in love</a></cite> by Cecelia Ahern
-  * <cite><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5873741?QRY=CTIBIB%3C%20IRN(1343550)&QRYTEXT=Sense%20%26%20sensibility">Sense & sensibility</a></cite> by Joanna Trollope
-  * <cite><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5874241?QRY=CTIBIB%3C%20IRN(51499)&QRYTEXT=The%20proposal">The proposal</a></cite> by Tasmina Perry
+* [<cite>How to fall in love</cite> by Cecelia Ahern](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5873474?QRY=CTIBIB%3C%20IRN(26583386)&QRYTEXT=How%20to%20fall%20in%20love)
+* [<cite>Sense & sensibility</cite> by Joanna Trollope](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5873741?QRY=CTIBIB%3C%20IRN(1343550)&QRYTEXT=Sense%20%26%20sensibility)
+* [<cite>The proposal</cite> by Tasmina Perry](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5874241?QRY=CTIBIB%3C%20IRN(51499)&QRYTEXT=The%20proposal)

@@ -4,9 +4,11 @@ title: New fiction for May 2014
 date: 2014-04-28 13:00:47+00:00
 author: brandon-king
 category: book-lists
-excerpt: Including books from Sadie Jones, Louisa Young and Colm Toibin and a Tudor thriller with the young Queen Elizabeth.
+excerpt: Featuring Sadie Jones, Louisa Young and Colm Toibin.
 breadcrumb: book-lists
 ---
+![Fallout by Sadie Jones](/images/featured/featured-fallout.jpg)
+
 ## [<cite>Lost for words</cite> by Edward St Aubyn](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/32391598?QRY=CTIBIB%3C%20IRN(185336)&QRYTEXT=Lost%20for%20words)
 
 Each of the judges of the Elysian Prize for literature has a reason for accepting the job. For the chairman, MP Malcolm Craig, it is backbench boredom, media personality Jo Cross is on the hunt for a relevant novel and Oxbridge academic Vanessa Shaw is determined to discover good writing.

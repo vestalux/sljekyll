@@ -4,7 +4,7 @@ title: New fiction for January 2014
 date: 2014-01-05T09:33:10+00:00
 author: brandon-king
 category: book-lists
-excerpt: Featuring books by John-Henri Holmberg, Peter May and Louise Mensch.
+excerpt: Featuring John-Henri Holmberg, Peter May and Louise Mensch.
 breadcrumb: book-lists
 ---
 ![A darker shade: An anthology of Swedish crime writers edited by John-Henri Holmberg](/images/featured/featured-a-darker-shade.jpg)

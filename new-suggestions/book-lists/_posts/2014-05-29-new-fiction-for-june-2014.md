@@ -4,9 +4,11 @@ title: New fiction for June 2014
 date: 2014-05-29 12:27:20+00:00
 author: brandon-king
 category: book-lists
-excerpt: Including Robert Galbraith's latest, a tale of infatuation turning to terror from Peter James and Terry Pratchett's new scifi novel <cite>The Long Mars</cite>.
+excerpt: Featuring Robert Galbraith, Peter James and Terry Pratchett.
 breadcrumb: book-lists
 ---
+![The silkworm by Robert Galbraith](/images/featured/featured-the-silkworm.jpg)
+
 ## [<cite>Denial of Murder</cite> by Peter Turnbull](http://suffolklibraries.lib.overdrive.com/95846DAC-4B32-41EC-BBF0-95806874BE8A/10/50/en/ContentDetails.htm?id=C0673BB4-E32E-429E-8760-9DFEC4667A23) (eBook)
 
 When the bodies of two murder victims are discovered within 24 hours of each other at the same location, each with a similar cause of death, the Murder and Serious Crime Squad of New Scotland Yard realise they must be linked. But how?

@@ -4,9 +4,11 @@ title: 'Lesley&#8217;s Readers: The Rosie project by Graeme Simsion'
 date: 2014-06-30 12:03:41+00:00
 author: sarah-jenkins
 category: book-lists
-excerpt: 'A light-hearted look at living with autism. <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5803860?QRY=CTIBIB%3C%20IRN(18443914)&QRYTEXT=The%20Rosie%20project">Reserve a copy.</a>'
+excerpt: A light-hearted look at living with autism.
 breadcrumb: book-lists
 ---
+![The Rosie project by Graeme Simsion](/images/featured/featured-the-rosie-project.jpg)
+
 This is an ideal summer read. I loved the humour in it. The underlying plot is that a lecturer in genetics, Don Tillman, hits 40 and decides that the logical thing to do is to find a wife, as married men live longer. Whereas most people would look for love, Don looks for as many ticks as possible on his ‘wife’ questionnaire. The story is told through Don’s matter-of-fact Asperger&#8217;s point of view, which makes for a refreshingly different and insightful read.
 
 Don’s wife project gets put on the back burner when Rosie enters his life and the new project becomes to find out who Rosie’s father is by collecting DNA from all the possible suspects from her mother’s college class! The ways they come up with for doing this gives us the most belly laughs and place Don well and truly outside his comfort zone.
@@ -29,6 +31,6 @@ A great read, I read it in one day. Thank you for recommending it! I really enjo
 
 **If you enjoyed <cite>The Rosie Project</cite> by Graeme Simsion you might like:**
 
-  * <cite><a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5895525?QRY=CTIBIB%3C%20IRN(564729)&QRYTEXT=Perfect">Perfect</a></cite> by Rachel Joyce
-  * <cite><a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5895419?QRY=CTIBIB%3C%20IRN(199853)&QRYTEXT=The%20knot">The knot</a></cite> by Mark Watson
-  * <cite><a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5895237?QRY=CTIBIB%3C%20IRN(15826550)&QRYTEXT=The%20universe%20versus%20Alex%20Woods">The universe versus Alex Woods</a></cite> by Gavin Extence
+* [<cite>Perfect</cite> by Rachel Joyce](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5895525?QRY=CTIBIB%3C%20IRN(564729)&QRYTEXT=Perfect)
+* [<cite>The knot</cite> by Mark Watson](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5895419?QRY=CTIBIB%3C%20IRN(199853)&QRYTEXT=The%20knot)
+* [<cite>The universe versus Alex Woods</cite> by Gavin Extence](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5895237?QRY=CTIBIB%3C%20IRN(15826550)&QRYTEXT=The%20universe%20versus%20Alex%20Woods)

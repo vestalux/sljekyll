@@ -7,15 +7,11 @@ category: book-lists
 excerpt: A collection of 8 new novels, poetry collections and short story anthologies, specially chosen to get you out of your comfort zone and reading different literature and authors.
 breadcrumb: book-lists
 ---
-<div class="panel">
-  <p>
-    <em>Summer Reads</em> is a collection of 8 new novels, poetry collections and short story anthologies, specially chosen to get you out of your comfort zone and reading different literature and authors. Ideal for book groups and readers looking for a new challenge.
-  </p>
+![William Letford with his book Bevel](/images/featured/featured-william-letford-bevel.jpg)
 
-  <p>
-    We&#8217;re also running events and workshops at Bury and Haverhill Libraries where you can meet the authors and other readers.
-  </p>
-</div>
+<cite>Summer Reads</cite> is a collection of 8 new novels, poetry collections and short story anthologies, specially chosen to get you out of your comfort zone and reading different literature and authors. Ideal for book groups and readers looking for a new challenge.
+
+We&#8217;re also running events and workshops at Bury and Haverhill Libraries where you can meet the authors and other readers.
 
 ## [<cite>Strange weather in Tokyo</cite> by Hiromi Kawakami](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4655109?QRY=CTIBIB%3C%20IRN(22387659)&QRYTEXT=Strange%20weather%20in%20Tokyo)
 

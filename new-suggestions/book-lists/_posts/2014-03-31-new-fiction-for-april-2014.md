@@ -4,10 +4,10 @@ title: New fiction for April 2014
 date: 2014-03-31 13:51:27+00:00
 author: brandon-king
 category: book-lists
-excerpt: Including John Connolly's latest New England mystery, the 22nd Brunetti novel and Sophie Hannah's latest, <cite>The Telling Error</cite>.
+excerpt: Featuring John Connolly and Sophie Hannah.
 breadcrumb: book-lists
 ---
-![](/images/featured/.jpg)
+![The telling error by Sophie Hannah](/images/featured/featured-the-telling-error.jpg)
 
 ## [<cite>The temporary gentleman</cite> by Sebastian Barry](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19934005?QRY=CTIBIB%3C%20IRN(38358297)&QRYTEXT=The%20temporary%20gentleman%20%3A%20a%20novel)
 
@@ -33,13 +33,13 @@ Nicki can&#8217;t answer any of the questions detectives fire at her. She has no
 
 And she can&#8217;t explain why she avoided Elmhirst Road that day without revealing the secret that could ruin her life. Because although Nicki is not guilty of murder, she is far from innocent.
 
-## [<cite>A god in every stone</cite> by Kamila Shamsie]()
+## [<cite>A god in every stone</cite> by Kamila Shamsie](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12105996?QRY=CTIBIB%3C%20IRN(35039278)&QRYTEXT=A%20god%20in%20every%20stone)
 
 July 1914. Young Englishwoman Vivian Rose Spencer is running up a mountainside in an ancient land, surrounded by figs and cypresses. Soon she will discover the Temple of Zeus, the call of adventure and the ecstasy of love. Thousands of miles away a 20-year old Pathan, Qayyum Gul, is learning about brotherhood and loyalty in the British Indian army.
 
 July 1915. Qayyum Gul is returning home after losing an eye at Ypres, his allegiances in tatters. Viv is following the mysterious trail of her beloved. They meet on a train to Peshawar, unaware that a connection is about to be forged between their lives – one that will reveal itself 15 years later, on the Street of Storytellers, when a brutal fight for freedom, an ancient artefact and a mysterious green-eyed woman will bring them together again.
 
-## [<cite>The fortune hunter</cite> by Daisy Goodwin]()
+## [<cite>The fortune hunter</cite> by Daisy Goodwin](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12106412?QRY=CTIBIB%3C%20IRN(34300397)&QRYTEXT=The%20fortune%20hunter)
 
 In 1875, Sisi, the Empress of Austria is the woman that every man desires and every woman envies. Beautiful, athletic and intelligent, Sisi has everything – except happiness.
 

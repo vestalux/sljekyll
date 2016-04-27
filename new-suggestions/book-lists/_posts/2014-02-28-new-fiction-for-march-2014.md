@@ -4,7 +4,7 @@ title: New fiction for March 2014
 date: 2014-02-28 16:28:05+00:00
 author: brandon-king
 category: book-lists
-excerpt: Including a modern <cite>Northanger Abbey</cite> and <cite>Shotgun Lovesongs</cite>, a reunion story set in a Bon Iver&#8211;esque Wisconsin.
+excerpt: Featuring Lynne Truss and Val McDermid.
 breadcrumb: book-lists
 ---
 ![Cat out of Hell by Lynne Truss](/images/featured/featured-cat-out-of-hell.jpg)

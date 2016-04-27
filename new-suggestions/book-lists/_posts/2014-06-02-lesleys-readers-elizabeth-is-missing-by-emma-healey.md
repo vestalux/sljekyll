@@ -4,9 +4,11 @@ title: 'Lesley&#8217;s Readers: Elizabeth is missing by Emma Healey'
 date: 2014-06-02 14:56:11+00:00
 author: sarah-jenkins
 category: book-lists
-excerpt: 'Maud is losing her memory and figuring out why her friend has gone missing. <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5891202?QRY=CTIBIB%3C%20IRN(36545180)&QRYTEXT=Elizabeth%20is%20missing">Reserve a copy.</a>'
+excerpt: Maud is losing her memory and figuring out why her friend has gone missing.
 breadcrumb: book-lists
 ---
+![Elizabeth is missing by Emma Healey](/images/featured/featured-elizabeth-is-missing.jpg)
+
 I was hooked by the main character of Maud as soon as I started to read this book. Maud is gradually starting to forget lots of things but she does keep remembering that her dear friend Elizabeth is missing but no one will take her concerns seriously.
 
 I love the way the author describes Maud’s attempts to keep her thoughts in order by writing lots of notes that tumble out of bags and pockets. I love the way Maud is always buying tinned peaches to add to the enormous amount she already has in her kitchen cupboard. I love how we are able to see inside Maud’s mind as we are privy to her internal dialogue, especially when she is confused by what is going on around her. Inevitably, Maud’s memory deteriorates during the course of the book and the description of Maud seeing her own daughter as a stranger broke my heart.
@@ -39,6 +41,6 @@ Really enjoyed this book. The confusion caused by dementia was sensitively handl
 
 **If you enjoyed <cite>Elizabeth is missing</cite> by Emma Healey you might like:**
 
-  * <cite><a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5891183?QRY=CTIBIB%3C%20IRN(24546332)&QRYTEXT=The%20thing%20about%20December">The thing about December</a></cite> by Donal Ryan
-  * <cite><a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5890919?QRY=CTIBIB%3C%20IRN(24790609)&QRYTEXT=The%20goldfinch">The goldfinch</a></cite> by Donna Tartt
-  * <cite><a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5890588?QRY=CTIBIB%3C%20IRN(126015)&QRYTEXT=What%20Alice%20forgot">What Alice forgot</a></cite> by Liane Moriarty
+* [<cite>The thing about December</cite> by Donal Ryan](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5891183?QRY=CTIBIB%3C%20IRN(24546332)&QRYTEXT=The%20thing%20about%20December)
+* [<cite>The goldfinch</cite> by Donna Tartt](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5890919?QRY=CTIBIB%3C%20IRN(24790609)&QRYTEXT=The%20goldfinch)
+* [<cite>What Alice forgot</cite> by Liane Moriarty](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5890588?QRY=CTIBIB%3C%20IRN(126015)&QRYTEXT=What%20Alice%20forgot)

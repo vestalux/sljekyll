@@ -4,9 +4,11 @@ title: New fiction for July 2014
 date: 2014-06-30 14:45:11+00:00
 author: brandon-king
 category: book-lists
-excerpt: New books for July, including the latest DCI Banks case <cite>Abattoir Blues</cite>, Graham Swift's <cite>England and Other Stories</cite> and Sheila O'Flanagan's romance <cite>If You Were Me</cite>.
+excerpt: Featuring Peter Robinson, Graham Swift and Sheila O'Flanagan.
 breadcrumb: book-lists
 ---
+![Abattoir blues by Peter Robinson](/images/featured/featured-abattoir-blues.jpg)
+
 ## [<cite>Abattoir blues</cite> by Peter Robinson](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/29749923?QRY=CTIBIB%3C%20IRN(38040190)&QRYTEXT=Abattoir%20blues)
 
 DCI Banks returns in the hugely popular crime series.

@@ -4,7 +4,7 @@ title: 'Bailey&#8217;s Women&#8217;s Prize for Fiction 2014'
 date: 2014-03-07 15:07:51+00:00
 author: leon-paternoster
 category: book-lists
-excerpt: This year's longlist includes 6 debuts as well as novels from superstar authors. Reserve and collect from your library.
+excerpt: This year's longlist includes 6 debuts as well as novels from superstar authors.
 breadcrumb: book-lists
 ---
 ![The Strangler Vine by M J Carter](/images/featured/featured-the-strangler-vine.jpg)

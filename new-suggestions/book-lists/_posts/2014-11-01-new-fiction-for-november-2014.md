@@ -4,9 +4,11 @@ title: New fiction for November 2014
 date: 2014-11-01 07:56:50+00:00
 author: brandon-king
 category: book-lists
-excerpt: New books from Nick Hornby, Peter James and Elly Griffiths.
+excerpt: Featuring Nick Hornby, Peter James and Elly Griffiths.
 breadcrumb: book-lists
 ---
+![Elly Griffiths](/images/featured/featured-elly-griffiths.jpg)
+
 ## [<cite>The Zig Zag Girl</cite> by Elly Griffiths](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5550853?QRY=CTIBIB%3C%20IRN(42385521)&QRYTEXT=The%20zig%20zag%20girl)
 
 <div class="row">

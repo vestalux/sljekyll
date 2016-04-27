@@ -4,9 +4,11 @@ title: New fiction for August 2014
 date: 2014-07-30 14:24:22+00:00
 author: brandon-king
 category: book-lists
-excerpt: Reserve and collect or download the best of August's fiction, including books by Lee Child, Ruth Rendell and a new Sherlock Holmes collection.
+excerpt: Featuring Lee Child and Ruth Rendell.
 breadcrumb: book-lists
 ---
+![Personal by Lee Child](/images/featured/featured-personal.jpg)
+
 ## [<cite>Personal</cite> by Lee Child](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44205202?QRY=CTIBIB%3C%20IRN%2838865022%29&QRYTEXT=Personal)
 
 Undoubtedly the most popular title this month will be the new Lee Child title, <cite>Personal</cite>.
