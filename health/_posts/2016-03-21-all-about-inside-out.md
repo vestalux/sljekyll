@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'All About&#8230; Inside Out'
 date: 2016-03-21 13:51:29+00:00
 author: sarah-lungley

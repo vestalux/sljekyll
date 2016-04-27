@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Moodboosting books for children
 date: 2015-02-20 12:24:53+00:00
 author: sarah-lungley

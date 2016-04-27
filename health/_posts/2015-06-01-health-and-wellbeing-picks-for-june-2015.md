@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Health and wellbeing picks for June 2015
 date: 2015-06-01 08:11:53+00:00
 author: david-grimmer

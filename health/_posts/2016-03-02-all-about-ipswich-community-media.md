@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: All About… Ipswich Community Media
 date: 2016-03-02 10:49:30+00:00
 author: sarah-lungley

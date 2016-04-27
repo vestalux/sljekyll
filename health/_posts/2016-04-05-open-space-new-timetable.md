@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Open Space &#8211; New Timetable'
 date: 2016-04-05 14:31:07+00:00
 author: sarah-lungley

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Introducing our new feature &#8216;All About&#8230;&#8217;'
 date: 2016-02-16 13:59:44+00:00
 author: sarah-lungley

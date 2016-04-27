@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Books on prescription: Self help reading'
 date: 2015-02-18 15:32:31+00:00
 author: sarah-lungley

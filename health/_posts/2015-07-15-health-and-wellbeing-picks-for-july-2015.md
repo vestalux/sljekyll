@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Health and wellbeing picks for July 2015
 date: 2015-07-15T10:20:33+00:00
 author: david-grimmer

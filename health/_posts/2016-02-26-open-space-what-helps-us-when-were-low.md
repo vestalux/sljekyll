@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Open Space &#8211; What helps us when we&#8217;re low?'
 date: 2016-02-26 10:25:17+00:00
 author: sarah-lungley

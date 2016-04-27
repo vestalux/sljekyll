@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'All About&#8230; Richmond Fellowship (Suffolk Recovery)'
 date: 2016-02-17T14:06:53+00:00
 author: sarah-lungley

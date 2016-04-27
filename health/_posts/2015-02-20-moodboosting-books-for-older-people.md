@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Moodboosting books for older people
 date: 2015-02-20 12:22:43+00:00
 author: sarah-lungley

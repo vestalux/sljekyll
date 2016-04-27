@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Reading Well for young people'
 date: 2016-04-20 14:31:07+00:00
 author: sarah-lungley
@@ -85,7 +85,7 @@ breadcrumb: health
 
 ## Mood swings
 
-* <cite>Don’t Let Your Emotions Run Your Life for Teens</cite> by Sheri van Dijk
+* [<cite>Don’t Let Your Emotions Run Your Life for Teens</cite> by Sheri van Dijk](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12495881?QRY=CTIBIB%3C%20IRN(902846)&QRYTEXT=Don%27t%20let%20your%20emotions%20run%20your%20life%20for%20teens%20%3A%20dialectical%20behavior%20therapy%20skills%20for%20helping%20teens%20manage%20mood%20swings%2C%20control%20angry%20outbursts%2C%20and%20get%20along%20with%20others)
 
 ## OCD
 

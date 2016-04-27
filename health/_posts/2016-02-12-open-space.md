@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Open Space
 date: 2016-02-12 16:53:45+00:00
 author: sarah-lungley

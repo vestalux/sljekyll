@@ -6,8 +6,8 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Apr 2016 12:59:16 +0100</pubDate>
-    <lastBuildDate>Wed, 27 Apr 2016 12:59:16 +0100</lastBuildDate>
+    <pubDate>Wed, 27 Apr 2016 17:01:32 +0100</pubDate>
+    <lastBuildDate>Wed, 27 Apr 2016 17:01:32 +0100</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -19,75 +19,160 @@
 &lt;h2 id=&quot;general&quot;&gt;General&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2484221?QRY=CTIBIB%3C%20IRN(53719364)&amp;amp;QRYTEXT=Stuff%20that%20sucks%20%3A%20accepting%20what%20you%20can%27t%20change%20and%20committing%20to%20what%20you%20can&quot;&gt;Stuff That Sucks: Accepting What You Can’t Change and Committing to What You Can&lt;/a&gt;&lt;/cite&gt; by Ben Sedley&amp;lt;/li&amp;gt;
- 	&amp;lt;li&amp;gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2484664?QRY=CTIBIB%3C%20IRN(57962502)&amp;amp;QRYTEXT=Mind%20your%20head&quot;&gt;Mind Your Head&lt;/a&gt;&lt;/cite&gt; by Juno Dawson&amp;lt;/li&amp;gt;
- 	&amp;lt;li&amp;gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3535900?QRY=CTIBIB%3C%20IRN(55306896)&amp;amp;QRYTEXT=The%20Self-Esteem%20Team%27s%20guide%20to%20sex%2C%20drugs%20%26%20WTFs%3F!!&quot;&gt;The Self-Esteem Team’s Guide to Sex, Drugs and WTFs?!!&lt;/a&gt;&lt;/cite&gt; by The Self-Esteem Team&amp;lt;/li&amp;gt;
- 	&amp;lt;li&amp;gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2485524?QRY=CTIBIB%3C%20IRN(698397)&amp;amp;QRYTEXT=Blame%20my%20brain%20%3A%20the%20amazing%20teenage%20brain%20revealed&quot;&gt;Blame My Brain: The Amazing Teenage Brain Revealed&lt;/a&gt;&lt;/cite&gt; by Nicola Morgan&amp;lt;/li&amp;gt;
- 	&amp;lt;li&amp;gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2485956?QRY=CTIBIB%3C%20IRN(1333080)&amp;amp;QRYTEXT=Quiet%20the%20mind&quot;&gt;Quiet the Mind&lt;/a&gt;&lt;/cite&gt; by Matthew Johnstone&amp;lt;/li&amp;gt;
- 	&amp;lt;li&amp;gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2486359?QRY=CTIBIB%3C%20IRN(47356484)&amp;amp;QRYTEXT=I%27ll%20give%20you%20the%20sun&quot;&gt;I’ll Give You the Sun&lt;/a&gt;&lt;/cite&gt; by Jandy Nelson&amp;lt;/li&amp;gt;
- 	&amp;lt;li&amp;gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2486629?QRY=CTIBIB%3C%20IRN(20248644)&amp;amp;QRYTEXT=Kite%20spirit&quot;&gt;Kite Spirit&lt;/a&gt;&lt;/cite&gt; by Sita Brahmachari&amp;lt;/li&amp;gt;
- 	&amp;lt;li&amp;gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2487044?QRY=CTIBIB%3C%20IRN(1092139)&amp;amp;QRYTEXT=House%20of%20windows&quot;&gt;House of Windows&lt;/a&gt;&lt;/cite&gt; by Alexia Casale&amp;lt;/li&amp;gt;
- 	&amp;lt;li&amp;gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2490757?QRY=CTIBIB%3C%20IRN(235225)&amp;amp;QRYTEXT=Every%20day&quot;&gt;Every Day&lt;/a&gt;&lt;/cite&gt; by David Levithan&amp;lt;/li&amp;gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2484221?QRY=CTIBIB%3C%20IRN(53719364)&amp;amp;QRYTEXT=Stuff%20that%20sucks%20%3A%20accepting%20what%20you%20can%27t%20change%20and%20committing%20to%20what%20you%20can&quot;&gt;&lt;cite&gt;Stuff That Sucks: Accepting What You Can’t Change and Committing to What You Can&lt;/cite&gt; by Ben Sedley&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2484664?QRY=CTIBIB%3C%20IRN(57962502)&amp;amp;QRYTEXT=Mind%20your%20head&quot;&gt;&lt;cite&gt;Mind Your Head&lt;/cite&gt; by Juno Dawson&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3535900?QRY=CTIBIB%3C%20IRN(55306896)&amp;amp;QRYTEXT=The%20Self-Esteem%20Team%27s%20guide%20to%20sex%2C%20drugs%20%26%20WTFs%3F!!&quot;&gt;&lt;cite&gt;The Self-Esteem Team’s Guide to Sex, Drugs and WTFs?!!&lt;/cite&gt; by The Self-Esteem Team&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2485524?QRY=CTIBIB%3C%20IRN(698397)&amp;amp;QRYTEXT=Blame%20my%20brain%20%3A%20the%20amazing%20teenage%20brain%20revealed&quot;&gt;&lt;cite&gt;Blame My Brain: The Amazing Teenage Brain Revealed&lt;/cite&gt; by Nicola Morgan&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2485956?QRY=CTIBIB%3C%20IRN(1333080)&amp;amp;QRYTEXT=Quiet%20the%20mind&quot;&gt;&lt;cite&gt;Quiet the Mind&amp;lt;/a&amp;gt;&lt;/cite&gt; by Matthew Johnstone&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2486359?QRY=CTIBIB%3C%20IRN(47356484)&amp;amp;QRYTEXT=I%27ll%20give%20you%20the%20sun&quot;&gt;&lt;cite&gt;I’ll Give You the Sun&amp;lt;/a&amp;gt;&lt;/cite&gt; by Jandy Nelson&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2486629?QRY=CTIBIB%3C%20IRN(20248644)&amp;amp;QRYTEXT=Kite%20spirit&quot;&gt;&lt;cite&gt;Kite Spirit&lt;/cite&gt; by Sita Brahmachari&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2487044?QRY=CTIBIB%3C%20IRN(1092139)&amp;amp;QRYTEXT=House%20of%20windows&quot;&gt;&lt;cite&gt;House of Windows&lt;/cite&gt; by Alexia Casale&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2490757?QRY=CTIBIB%3C%20IRN(235225)&amp;amp;QRYTEXT=Every%20day&quot;&gt;&lt;cite&gt;Every Day&lt;/cite&gt; by David Levithan&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&amp;lt;/ul&amp;gt;
-## ADHD&lt;/p&gt;
+
+&lt;h2 id=&quot;adhd&quot;&gt;ADHD&lt;/h2&gt;
+
 &lt;ul&gt;
- 	&lt;li&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7429915?QRY=CTIBIB%3C%20IRN(63831256)&amp;amp;QRYTEXT=Putting%20on%20the%20brakes%20%3A%20understanding%20and%20taking%20control%20of%20your%20ADD%20or%20ADHD&quot;&gt;&lt;cite&gt;Putting on the Brakes: Understanding and Taking Control of Your ADD or ADHD&lt;/cite&gt;&lt;/a&gt; by Patricia Quinn and Judith Stern&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7429915?QRY=CTIBIB%3C%20IRN(63831256)&amp;amp;QRYTEXT=Putting%20on%20the%20brakes%20%3A%20understanding%20and%20taking%20control%20of%20your%20ADD%20or%20ADHD&quot;&gt;&lt;cite&gt;Putting on the Brakes: Understanding and Taking Control of Your ADD or ADHD&lt;/cite&gt; by Patricia Quinn and Judith Stern&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Anxiety, worry and panic&lt;/h2&gt;
+
+&lt;h2 id=&quot;anxiety-worry-and-panic&quot;&gt;Anxiety, worry and panic&lt;/h2&gt;
+
 &lt;ul&gt;
- 	&lt;li&gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2494215?QRY=CTIBIB%3C%20IRN(1241917)&amp;amp;QRYTEXT=My%20anxious%20mind%20%3A%20a%20teen%27s%20guide%20to%20managing%20anxiety%20and%20panic&quot;&gt;My Anxious Mind: A Teen’s Guide to Managing Anxiety and Panic&lt;/a&gt;&lt;/cite&gt; by Michael Tompkins and Katherine Martinez (Magination Press, American Psychological Association)&lt;/li&gt;
- 	&lt;li&gt;&lt;a href=&quot;http://suffolklibraries.lib.overdrive.com/11CAD647-0210-4285-BF0F-8B900F964402/10/50/en/ContentDetails.htm?id=3405E646-659F-4030-915F-F429D55BFCFA&quot;&gt;&lt;cite&gt;The Anxiety Survival Guide for Teens: CBT Skills to Overcome Fear, Worry and Panic&lt;/cite&gt;&lt;/a&gt; by Jennifer Shannon (eBook)&lt;/li&gt;
- 	&lt;li&gt;&lt;cite&gt;&lt;a href=&quot;http://suffolklibraries.lib.overdrive.com/11CAD647-0210-4285-BF0F-8B900F964402/10/50/en/ContentDetails.htm?id=848B4D8B-3479-4E60-976A-213BFEB78BD3&quot;&gt;The Shyness and Social Anxiety Workbook for Teens&lt;/a&gt;&lt;/cite&gt; by Jennifer Shannon (eBook)&lt;/li&gt;
- 	&lt;li&gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2491887?QRY=CTIBIB%3C%20IRN(704656)&amp;amp;QRYTEXT=The%20perks%20of%20being%20a%20wallflower&quot;&gt;The Perks of Being a Wallflower&lt;/a&gt;&lt;/cite&gt; by Stephen Chbosky&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2494215?QRY=CTIBIB%3C%20IRN(1241917)&amp;amp;QRYTEXT=My%20anxious%20mind%20%3A%20a%20teen%27s%20guide%20to%20managing%20anxiety%20and%20panic&quot;&gt;&lt;cite&gt;My Anxious Mind: A Teen’s Guide to Managing Anxiety and Panic&lt;/cite&gt; by Michael Tompkins and Katherine Martinez&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://suffolklibraries.lib.overdrive.com/11CAD647-0210-4285-BF0F-8B900F964402/10/50/en/ContentDetails.htm?id=3405E646-659F-4030-915F-F429D55BFCFA&quot;&gt;&lt;cite&gt;The Anxiety Survival Guide for Teens: CBT Skills to Overcome Fear, Worry and Panic&lt;/cite&gt; by Jennifer Shannon&lt;/a&gt; (eBook)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://suffolklibraries.lib.overdrive.com/11CAD647-0210-4285-BF0F-8B900F964402/10/50/en/ContentDetails.htm?id=848B4D8B-3479-4E60-976A-213BFEB78BD3&quot;&gt;&lt;cite&gt;The Shyness and Social Anxiety Workbook for Teens&lt;/cite&gt; by Jennifer Shannon&lt;/a&gt; (eBook)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2491887?QRY=CTIBIB%3C%20IRN(704656)&amp;amp;QRYTEXT=The%20perks%20of%20being%20a%20wallflower&quot;&gt;&lt;cite&gt;The Perks of Being a Wallflower&lt;/cite&gt; by Stephen Chbosky&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;## Autism and Asperger syndrome&lt;/p&gt;
+
+&lt;h2 id=&quot;autism-and-asperger-syndrome&quot;&gt;Autism and Asperger syndrome&lt;/h2&gt;
+
 &lt;ul&gt;
- 	&lt;li&gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2491489?QRY=CTIBIB%3C%20IRN(20750620)&amp;amp;QRYTEXT=The%20reason%20I%20jump&quot;&gt;The Reason I Jump&lt;/a&gt;&lt;/cite&gt; by Naoki Higashida&lt;/li&gt;
- 	&lt;li&gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2490097?QRY=CTIBIB%3C%20IRN(1603771)&amp;amp;QRYTEXT=Freaks%2C%20geeks%20and%20Asperger%20syndrome%20%3A%20a%20user%20guide%20to%20adolescence&quot;&gt;Freaks, Geeks and Asperger Syndrome: A User’s Guide to Adolescence&lt;/a&gt;&lt;/cite&gt; by Luke Jackson&lt;/li&gt;
- 	&lt;li&gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2491190?QRY=CTIBIB%3C%20IRN(133590)&amp;amp;QRYTEXT=The%20curious%20incident%20of%20the%20dog%20in%20the%20night-time&quot;&gt;The Curious Incident of the Dog in the Night-Time&lt;/a&gt;&lt;/cite&gt; by Mark Haddon&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2491489?QRY=CTIBIB%3C%20IRN(20750620)&amp;amp;QRYTEXT=The%20reason%20I%20jump&quot;&gt;&lt;cite&gt;The Reason I Jump&lt;/cite&gt; by Naoki Higashida&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2490097?QRY=CTIBIB%3C%20IRN(1603771)&amp;amp;QRYTEXT=Freaks%2C%20geeks%20and%20Asperger%20syndrome%20%3A%20a%20user%20guide%20to%20adolescence&quot;&gt;&lt;cite&gt;Freaks, Geeks and Asperger Syndrome: A User’s Guide to Adolescence&lt;/cite&gt; by Luke Jackson&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2491190?QRY=CTIBIB%3C%20IRN(133590)&amp;amp;QRYTEXT=The%20curious%20incident%20of%20the%20dog%20in%20the%20night-time&quot;&gt;&lt;cite&gt;The Curious Incident of the Dog in the Night-Time&lt;/cite&gt; by Mark Haddon&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;## Body image and eating disorders&lt;/p&gt;
+
+&lt;h2 id=&quot;body-image-and-eating-disorders&quot;&gt;Body image and eating disorders&lt;/h2&gt;
+
 &lt;ul&gt;
- 	&lt;li&gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2494855?QRY=CTIBIB%3C%20IRN(42024786)&amp;amp;QRYTEXT=Can%20I%20tell%20you%20about%20eating%20disorders%3F%20%3A%20a%20guide%20for%20friends%2C%20family%20and%20professionals&quot;&gt;Can I Tell You About Eating Disorders?&lt;/a&gt;&lt;/cite&gt; by Bryan Lask and Lucy Watson&lt;/li&gt;
- 	&lt;li&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3555535?QRY=CTIBIB%3C%20IRN(34004251)&amp;amp;QRYTEXT=Banish%20your%20body%20image%20thief%20%3A%20a%20cognitive%20behavioural%20therapy%20workbook%20on%20building%20positive%20body%20image%20for%20young%20people&quot;&gt;&lt;cite&gt;Banish Your Body Image Thief: &lt;/cite&gt;a cognitive behavioural therapy workbook on building positive body image for young people&lt;/a&gt; by Kate Collins-Donnelly&lt;/li&gt;
- 	&lt;li&gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2493423?QRY=CTIBIB%3C%20IRN(891186)&amp;amp;QRYTEXT=Tyranny&quot;&gt;Tyranny&lt;/a&gt;&lt;/cite&gt; by Lesley Fairfield&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2494855?QRY=CTIBIB%3C%20IRN(42024786)&amp;amp;QRYTEXT=Can%20I%20tell%20you%20about%20eating%20disorders%3F%20%3A%20a%20guide%20for%20friends%2C%20family%20and%20professionals&quot;&gt;&lt;cite&gt;Can I Tell You About Eating Disorders?&lt;/cite&gt; by Bryan Lask and Lucy Watson&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3555535?QRY=CTIBIB%3C%20IRN(34004251)&amp;amp;QRYTEXT=Banish%20your%20body%20image%20thief%20%3A%20a%20cognitive%20behavioural%20therapy%20workbook%20on%20building%20positive%20body%20image%20for%20young%20people&quot;&gt;&lt;cite&gt;Banish Your Body Image Thief: a cognitive behavioural therapy workbook on building positive body image for young people&lt;/cite&gt; by Kate Collins-Donnelly&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2493423?QRY=CTIBIB%3C%20IRN(891186)&amp;amp;QRYTEXT=Tyranny&quot;&gt;&lt;cite&gt;Tyranny&amp;lt;/a&amp;gt;&lt;/cite&gt; by Lesley Fairfield&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;## Bullying&lt;/p&gt;
+
+&lt;h2 id=&quot;bullying&quot;&gt;Bullying&lt;/h2&gt;
+
 &lt;ul&gt;
- 	&lt;li&gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2495226?QRY=CTIBIB%3C%20IRN(14734474)&amp;amp;QRYTEXT=Bullies%2C%20cyberbullies%20and%20frenemies&quot;&gt;Teen Life Confidential: Bullies, Cyberbullies and Frenemies&lt;/a&gt;&lt;/cite&gt; by Michele Elliott&lt;/li&gt;
- 	&lt;li&gt;&lt;cite&gt;&lt;a href=&quot;http://suffolklibraries.lib.overdrive.com/11CAD647-0210-4285-BF0F-8B900F964402/10/50/en/ContentDetails.htm?id=8F6151FA-91CF-4F08-AD79-ECD78D60E59E&quot;&gt;Vicious: True Stories by Teens about Bullying&lt;/a&gt;&lt;/cite&gt; edited by Hope Vanderberg (eBook)&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2495226?QRY=CTIBIB%3C%20IRN(14734474)&amp;amp;QRYTEXT=Bullies%2C%20cyberbullies%20and%20frenemies&quot;&gt;&lt;cite&gt;Teen Life Confidential: Bullies, Cyberbullies and Frenemies&lt;/cite&gt; by Michele Elliott&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://suffolklibraries.lib.overdrive.com/11CAD647-0210-4285-BF0F-8B900F964402/10/50/en/ContentDetails.htm?id=8F6151FA-91CF-4F08-AD79-ECD78D60E59E&quot;&gt;&lt;cite&gt;Vicious: True Stories by Teens about Bullying&lt;/cite&gt; edited by Hope Vanderberg (eBook)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Confidence and self-esteem&lt;/h2&gt;
+
+&lt;h2 id=&quot;confidence-and-self-esteem&quot;&gt;Confidence and self-esteem&lt;/h2&gt;
+
 &lt;ul&gt;
- 	&lt;li&gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2495422?QRY=CTIBIB%3C%20IRN(36215422)&amp;amp;QRYTEXT=Banish%20your%20self-esteem%20thief%20%3A%20a%20cognitive%20behavioural%20therapy%20workbook%20on%20building%20positive%20self-esteem%20for%20young%20people&quot;&gt;Banish Your Self-Esteem Thief: A Cognitive Behavioural Therapy Workbook on Building Positive Self-Esteem for Young People&lt;/a&gt;&lt;/cite&gt; by Kate Collins-Donnelly&lt;/li&gt;
- 	&lt;li&gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2490510?QRY=CTIBIB%3C%20IRN(20247141)&amp;amp;QRYTEXT=Self%20esteem%20and%20being%20you&quot;&gt;Teen Life Confidential: Self-Esteem and Being You&lt;/a&gt;&lt;/cite&gt; by Anita Naik&lt;/li&gt;
- 	&lt;li&gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2489537?QRY=CTIBIB%3C%20IRN(28342)&amp;amp;QRYTEXT=Face&quot;&gt;Face&lt;/a&gt;&lt;/cite&gt; by Benjamin Zephaniah&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2495422?QRY=CTIBIB%3C%20IRN(36215422)&amp;amp;QRYTEXT=Banish%20your%20self-esteem%20thief%20%3A%20a%20cognitive%20behavioural%20therapy%20workbook%20on%20building%20positive%20self-esteem%20for%20young%20people&quot;&gt;&lt;cite&gt;Banish Your Self-Esteem Thief: A Cognitive Behavioural Therapy Workbook on Building Positive Self-Esteem for Young People&lt;/cite&gt; by Kate Collins-Donnelly&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2490510?QRY=CTIBIB%3C%20IRN(20247141)&amp;amp;QRYTEXT=Self%20esteem%20and%20being%20you&quot;&gt;&lt;cite&gt;Teen Life Confidential: Self-Esteem and Being You&lt;/cite&gt; by Anita Naik&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2489537?QRY=CTIBIB%3C%20IRN(28342)&amp;amp;QRYTEXT=Face&quot;&gt;&lt;cite&gt;Face&lt;/cite&gt; by Benjamin Zephaniah&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;## Depression&lt;/p&gt;
+
+&lt;h2 id=&quot;depression&quot;&gt;Depression&lt;/h2&gt;
+
 &lt;ul&gt;
- 	&lt;li&gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2494537?QRY=CTIBIB%3C%20IRN(56500042)&amp;amp;QRYTEXT=Am%20I%20depressed%20and%20what%20can%20I%20do%20about%20it%3F%20%3A%20a%20CBT%20self-help%20guide%20for%20teenagers%20experiencing%20low%20mood%20and%20depression&quot;&gt;Am I Depressed and What Can I Do About it?&lt;/a&gt;&lt;/cite&gt; by Shirley Reynolds and Monika Parkinson&lt;/li&gt;
- 	&lt;li&gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2489084?QRY=CTIBIB%3C%20IRN(1010207)&amp;amp;QRYTEXT=I%20had%20a%20black%20dog&quot;&gt;I Had a Black Dog&lt;/a&gt;&lt;/cite&gt; by Matthew Johnstone&lt;/li&gt;
- 	&lt;li&gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2494712?QRY=CTIBIB%3C%20IRN(46653016)&amp;amp;QRYTEXT=Can%20I%20tell%20you%20about%20depression%3F%20%3A%20a%20guide%20for%20friends%2C%20family%20and%20professionals&quot;&gt;Can I Tell You About Depression?&lt;/a&gt;&lt;/cite&gt; by Christopher Dowrick and Susan Martin&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2494537?QRY=CTIBIB%3C%20IRN(56500042)&amp;amp;QRYTEXT=Am%20I%20depressed%20and%20what%20can%20I%20do%20about%20it%3F%20%3A%20a%20CBT%20self-help%20guide%20for%20teenagers%20experiencing%20low%20mood%20and%20depression&quot;&gt;&lt;cite&gt;Am I Depressed and What Can I Do About it?&lt;/cite&gt; by Shirley Reynolds and Monika Parkinson&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2489084?QRY=CTIBIB%3C%20IRN(1010207)&amp;amp;QRYTEXT=I%20had%20a%20black%20dog&quot;&gt;&lt;cite&gt;I Had a Black Dog&lt;/cite&gt; by Matthew Johnstone&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2494712?QRY=CTIBIB%3C%20IRN(46653016)&amp;amp;QRYTEXT=Can%20I%20tell%20you%20about%20depression%3F%20%3A%20a%20guide%20for%20friends%2C%20family%20and%20professionals&quot;&gt;&lt;cite&gt;Can I Tell You About Depression?&lt;/cite&gt; by Christopher Dowrick and Susan Martin&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;## Mood swings&lt;/p&gt;
+
+&lt;h2 id=&quot;mood-swings&quot;&gt;Mood swings&lt;/h2&gt;
+
 &lt;ul&gt;
- 	&lt;li&gt;&lt;cite&gt;Don’t Let Your Emotions Run Your Life for Teens&lt;/cite&gt; by Sheri van Dijk&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12495881?QRY=CTIBIB%3C%20IRN(902846)&amp;amp;QRYTEXT=Don%27t%20let%20your%20emotions%20run%20your%20life%20for%20teens%20%3A%20dialectical%20behavior%20therapy%20skills%20for%20helping%20teens%20manage%20mood%20swings%2C%20control%20angry%20outbursts%2C%20and%20get%20along%20with%20others&quot;&gt;&lt;cite&gt;Don’t Let Your Emotions Run Your Life for Teens&lt;/cite&gt; by Sheri van Dijk&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;## OCD&lt;/p&gt;
+
+&lt;h2 id=&quot;ocd&quot;&gt;OCD&lt;/h2&gt;
+
 &lt;ul&gt;
- 	&lt;li&gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2492308?QRY=CTIBIB%3C%20IRN(1610612)&amp;amp;QRYTEXT=Touch%20and%20go%20Joe%20%3A%20an%20adolescent%27s%20experience%20of%20OCD&quot;&gt;Touch and Go Joe&lt;/a&gt;&lt;/cite&gt; by Joe Wells&lt;/li&gt;
- 	&lt;li&gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2495709?QRY=CTIBIB%3C%20IRN(1610882)&amp;amp;QRYTEXT=Breaking%20free%20from%20OCD%20%3A%20a%20CBT%20guide%20for%20young%20people%20and%20their%20families&quot;&gt;Breaking Free from OCD: A CBT Guide for Young People and their Families&lt;/a&gt;&lt;/cite&gt; by Jo Derisley, Isobel Heyman, Sarah Robinson, Cynthia Turner&lt;/li&gt;
- 	&lt;li&gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2488833?QRY=CTIBIB%3C%20IRN(47113609)&amp;amp;QRYTEXT=The%20unlikely%20hero%20of%20Room%2013B&quot;&gt;The Unlikely Hero of Room 13B&lt;/a&gt;&lt;/cite&gt; by Teresa Toten&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2492308?QRY=CTIBIB%3C%20IRN(1610612)&amp;amp;QRYTEXT=Touch%20and%20go%20Joe%20%3A%20an%20adolescent%27s%20experience%20of%20OCD&quot;&gt;&lt;cite&gt;Touch and Go Joe&lt;/cite&gt; by Joe Wells&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2495709?QRY=CTIBIB%3C%20IRN(1610882)&amp;amp;QRYTEXT=Breaking%20free%20from%20OCD%20%3A%20a%20CBT%20guide%20for%20young%20people%20and%20their%20families&quot;&gt;&lt;cite&gt;Breaking Free from OCD: A CBT Guide for Young People and their Families&lt;/cite&gt; by Jo Derisley, Isobel Heyman, Sarah Robinson, Cynthia Turner&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2488833?QRY=CTIBIB%3C%20IRN(47113609)&amp;amp;QRYTEXT=The%20unlikely%20hero%20of%20Room%2013B&quot;&gt;&lt;cite&gt;The Unlikely Hero of Room 13B&lt;/cite&gt; by Teresa Toten&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;## Self-harm&lt;/p&gt;
+
+&lt;h2 id=&quot;self-harm&quot;&gt;Self-harm&lt;/h2&gt;
+
 &lt;ul&gt;
- 	&lt;li&gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3558207?QRY=CTIBIB%3C%20IRN(60852793)&amp;amp;QRYTEXT=Truth%20About%20Self-harm%20%3A%20For%20Young%20People%20and%20Their%20Friends&quot;&gt;The Truth About Self-Harm&lt;/a&gt;&lt;/cite&gt; by Celia Richardson&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3558207?QRY=CTIBIB%3C%20IRN(60852793)&amp;amp;QRYTEXT=Truth%20About%20Self-harm%20%3A%20For%20Young%20People%20and%20Their%20Friends&quot;&gt;&lt;cite&gt;The Truth About Self-Harm&lt;/cite&gt; by Celia Richardson&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;## Stress&lt;/p&gt;
+
+&lt;h2 id=&quot;stress&quot;&gt;Stress&lt;/h2&gt;
+
 &lt;ul&gt;
- 	&lt;li&gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3553959?QRY=CTIBIB%3C%20IRN(60852794)&amp;amp;QRYTEXT=Fighting%20invisible%20tigers%20%3A%20stress%20management%20for%20teens&quot;&gt;Fighting Invisible Tigers: A Stress Management Guide for Teens&lt;/a&gt;&lt;/cite&gt; by Earl Hipp&lt;/li&gt;
- 	&lt;li&gt;&lt;cite&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2487716?QRY=CTIBIB%3C%20IRN(38544638)&amp;amp;QRYTEXT=The%20teenage%20guide%20to%20stress&quot;&gt;Teenage Guide to Stress&lt;/a&gt;&lt;/cite&gt; by Nicola Morgan&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3553959?QRY=CTIBIB%3C%20IRN(60852794)&amp;amp;QRYTEXT=Fighting%20invisible%20tigers%20%3A%20stress%20management%20for%20teens&quot;&gt;&lt;cite&gt;Fighting Invisible Tigers: A Stress Management Guide for Teens&lt;/cite&gt; by Earl Hipp&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2487716?QRY=CTIBIB%3C%20IRN(38544638)&amp;amp;QRYTEXT=The%20teenage%20guide%20to%20stress&quot;&gt;&lt;cite&gt;Teenage Guide to Stress&lt;/cite&gt; by Nicola Morgan&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 20 Apr 2016 15:31:07 +0100</pubDate>

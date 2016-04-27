@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Mental health at Edinburgh International Book Festival 2015
 date: 2015-08-04 09:45:21+00:00
 author: emma-raindle

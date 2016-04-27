@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Cancer collection
 date: 2015-02-20 11:31:43+00:00
 author: sarah-lungley

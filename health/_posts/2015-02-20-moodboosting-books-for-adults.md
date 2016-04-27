@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: Moodboosting books for adults
 date: 2015-02-20 12:26:36+00:00
 author: sarah-lungley

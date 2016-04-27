@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Open Space &#8211; What is happiness and how can we build it for ourselves?'
 date: 2016-03-05 10:00:05+00:00
 author: sarah-lungley
