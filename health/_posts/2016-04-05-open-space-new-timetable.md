@@ -7,6 +7,8 @@ category: health
 excerpt: Here is the new timetable for Open Space! Lots of exciting things coming up and some great discussions.
 breadcrumb: health
 ---
+![Open Space logo](/images/featured/featured-open-space-logo.jpg)
+
 Here is the new timetable for Open Space! Lots of exciting things coming up and some great discussions.
 
 If you have any questions please do get in touch, or just come along to one of the sessions &#8211; all are welcome!

@@ -7,6 +7,8 @@ category: health
 excerpt: Open Space has been running weekly in Ipswich County Library for almost a year now, and since it is so successful we thought we would start to share some of what we do with you!
 breadcrumb: health
 ---
+![Open Space logo](/images/featured/featured-open-space-logo.jpg)
+
 Open Space has been running weekly in Ipswich County Library for almost a year now, and since it is so successful we thought we would start to share some of what we do with you!
 
 First off, to introduce you, Open Space is a relaxed group where you can meet new people, have a chat, make new friends, or just listen in with word puzzles and colouring if you would prefer! The group is supported through a partnership between Suffolk Libraries, [Julian Support](http://www.juliansupport.org/) and the [Norfolk and Suffolk NHS Foundation Trust](http://www.nsft.nhs.uk/Pages/Home.aspx). It&#8217;s free to attend, you are welcome to come and go as you please, and there is a free cuppa and a biscuit too.

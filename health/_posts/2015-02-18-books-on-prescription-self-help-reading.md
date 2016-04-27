@@ -7,6 +7,8 @@ category: health
 excerpt: <cite>Reading Well Books on Prescription</cite> helps you manage your well–being using self–help reading.
 breadcrumb: health
 ---
+![Reading Well Books on Prescription](/images/featured/featured-books-on-prescription.jpg)
+
 _Reading Well Books on Prescription_ helps you manage your well–being using self–help reading.
 
 Your GP or another health practitioner may have recommended a self–book to help you manage conditions such as depression, phobias and anxiety.

@@ -7,6 +7,8 @@ category: health
 excerpt: Feedback from an Open Space session about what happiness is and how we can build and create it for ourselves.
 breadcrumb: health
 ---
+![Open Space logo](/images/featured/featured-open-space-logo.jpg)
+
 Here&#8217;s feedback from another great Open Space session &#8211; This time we looked at what happiness is and how we can build and create it for ourselves.
 
 (Answers in bold were the most common answers)
