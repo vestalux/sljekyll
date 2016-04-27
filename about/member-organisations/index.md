@@ -1,6 +1,6 @@
 ---
 title: Member organisations
-layout: sidebar-left
+layout: sidebar-right
 sidebar: about
 breadcrumb: about
 ---
