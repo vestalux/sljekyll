@@ -7,6 +7,10 @@ category: news
 excerpt: Eight young people will be receiving their arts award at Lowestoft Library on Saturday 22 March.
 breadcrumb: news
 ---
+![An image created during the photography part of the arts award](/images/article/lowestoft-library-arts-award-photography.jpg)
+
+*An image created during the photography part of the arts award*
+
 Eight young people will be receiving their arts award at Lowestoft Library this Saturday (22 March).
 
 The group took part in various arts activities and workshops at the library last year to achieve a Bronze Arts Award. The activities included author events, creative writing, photography and comic book making
@@ -15,7 +19,7 @@ This was the first time Suffolk Libraries has hosted an arts award.
 
 Arts Awards are a set of qualifications awarded by Trinity College London which are aimed at young people from school age up to 25 years old. The Norfolk and Norwich Bridge Project awarded Lowestoft Library a start-up grant to enable young people to take part in the Bronze Arts Award.
 
-<span style="line-height: 1.5em;">To achieve Bronze, a Level 1 national qualification, young people take part in an arts activity they enjoy, go to an arts event, research their arts hero or heroine and share their skills with others. Their heroes ranged from Salvador Dali to Jacqueline Wilson, while the student-led workshops included origami and scrapbooking.</span>
+To achieve Bronze, a Level 1 national qualification, young people take part in an arts activity they enjoy, go to an arts event, research their arts hero or heroine and share their skills with others. Their heroes ranged from Salvador Dali to Jacqueline Wilson, while the student-led workshops included origami and scrapbooking.
 
 Along the way they learnt from each other about sequin art, cake pops, painting and creative writing.
 
