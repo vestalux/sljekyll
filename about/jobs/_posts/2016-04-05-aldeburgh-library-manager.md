@@ -6,7 +6,7 @@ author: emma-raindle
 excerpt: This position is for on average 15.75 hours per week for £19,504.76 (pro-rata) / £10.11 per hour. Closing date for applications is Wednesday 20 April.
 category: jobs
 sidebar: about
-breadcrumb: about
+breadcrumb: jobs
 ---
   * <a href="http://suffolklibraries.co.uk/wp-content/uploads/2016/04/aldeburgh-lib-manager-ad.pdf" rel="">Application information for Aldeburgh Library Manager</a>
   * <a href="http://suffolklibraries.co.uk/wp-content/uploads/2016/04/lib-manager-rp.pdf" rel="">Role profile for Aldeburgh Library Manager</a>

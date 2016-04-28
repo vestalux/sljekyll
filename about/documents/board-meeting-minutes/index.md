@@ -2,51 +2,49 @@
 title: Board meeting minutes
 layout: sidebar-right
 sidebar: about
-breadcrumb: about
+breadcrumb: documents
 ---
-
 You can download copies of our board meeting minutes. We redact information from minutes when:
-<ol>
-	<li>information has been provided in confidence</li>
-	<li>they contain items where their disclosure would be likely to prejudice the commercial interests of any person</li>
-</ol>
-<h2>2016</h2>
-<ul>
-	<li><a href="http://suffolklibraries.co.uk/wp-content/uploads/2016/04/board-meeting-minutes-2016-01-28.pdf">Board meeting minutes 2016-01-28</a></li>
-</ul>
-<h2>2015</h2>
-<ul>
-	<li><a href="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/Board-meeting-minutes-2015-01-22.pdf">Board meeting minutes 2015-01-22</a></li>
-	<li><a href="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/Board-meeting-minutes-2015-03-26.pdf">Board meeting minutes 2015-03-26</a></li>
-	<li><a href="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/Board-meeting-minutes-2015-06-02.pdf">Board meeting minutes 2015-06-02</a></li>
-	<li><a href="http://suffolklibraries.co.uk/wp-content/uploads/2015/10/Board-meeting-minutes-2015-07-30.pdf">Board meeting minutes 2015-07-30</a></li>
-	<li><a href="http://suffolklibraries.co.uk/wp-content/uploads/2015/12/board-meeting-minutes-2015-09-24.pdf">Board meeting minutes 2015-09-24</a></li>
-	<li><a href="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/board-meeting-minutes-2015-11-26.pdf">Board meeting minutes 2015-11-26</a></li>
-</ul>
-<h2>2014</h2>
-<ul>
-	<li><a href="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/board-meeting-minutes-2014-01-30.pdf">Board meeting minutes 2014-01-30</a></li>
-	<li><a href="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/board-meeting-minutes-2014-03-20.pdf">Board meeting minutes 2014-03-20</a></li>
-	<li><a href="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/board-meeting-minutes-2014-05-29.pdf">Board meeting minutes 2014-05-29</a></li>
-	<li><a href="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/board-meeting-minutes-2014-07-31.pdf">Board meeting minutes 2014-07-31</a></li>
-	<li><a href="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/board-meeting-minutes-2014-09-25.pdf">Board meeting minutes 2014-09-25</a></li>
-	<li><a href="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/board-meeting-minutes-2014-11-27.pdf">Board meeting minutes 2014-11-27</a></li>
-</ul>
-<h2>2013</h2>
-<ul>
-	<li><a href="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/board-meeting-minutes-2013-01-24.pdf">Board meeting minutes 2013-01-24</a></li>
-	<li><a href="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/board-meeting-minutes-2013-02-26.pdf">Board meeting minutes 2013-02-26</a></li>
-	<li><a href="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/board-meeting-minutes-2013-03-26.pdf">Board meeting minutes 2013-03-26</a></li>
-	<li><a href="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/board-meeting-minutes-2013-05-02.pdf">Board meeting minutes 2013-05-02</a></li>
-	<li><a href="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/board-meeting-minutes-2013-05-29.pdf">Board meeting minutes 2013-05-29</a></li>
-	<li><a href="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/board-meeting-minutes-2013-07-08.pdf">Board meeting minutes 2013-07-08</a></li>
-	<li><a href="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/board-meeting-minutes-2013-08-21.pdf">Board meeting minutes 2013-08-21</a></li>
-	<li><a href="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/board-meeting-minutes-2013-09-26.pdf">Board meeting minutes 2013-09-26</a></li>
-	<li><a href="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/board-meeting-minutes-2013-11-28.pdf">Board meeting minutes 2013-11-28</a></li>
-</ul>
-<h2>2012</h2>
-<ul>
-	<li><a href="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/board-meeting-minutes-2012-09-11.pdf">Board meeting minutes 2012-09-11</a></li>
-	<li><a href="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/board-meeting-minutes-2012-10-17.pdf">Board meeting minutes 2012-10-17</a></li>
-	<li><a href="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/board-meeting-minutes-2012-11-19.pdf">Board meeting minutes 2012-11-19</a></li>
-</ul>
+
+1. information has been provided in confidence
+2. they contain items where their disclosure would be likely to prejudice the commercial interests of any person
+
+## 2016
+
+* [Board meeting minutes 2016-01-28](/assets/pdf/board-meeting-minutes-2016-01-28.pdf)
+
+## 2015
+
+* [Board meeting minutes 2015-01-22](/assets/pdf/board-meeting-minutes-2015-01-22.pdf)
+* [Board meeting minutes 2015-03-26](/assets/pdf/board-meeting-minutes-2015-03-26.pdf)
+* [Board meeting minutes 2015-06-02](/assets/pdf/board-meeting-minutes-2015-06-02.pdf)
+* [Board meeting minutes 2015-07-30](/assets/pdf/board-meeting-minutes-2015-07-30.pdf)
+* [Board meeting minutes 2015-09-24](/assets/pdf/board-meeting-minutes-2015-09-24.pdf)
+* [Board meeting minutes 2015-11-26](/assets/pdf/board-meeting-minutes-2015-11-26.pdf)
+
+## 2014
+
+* [Board meeting minutes 2014-01-30](/assets/pdf/board-meeting-minutes-2014-01-30.pdf)
+* [Board meeting minutes 2014-03-20](/assets/pdf/board-meeting-minutes-2014-03-20.pdf)
+* [Board meeting minutes 2014-05-29](/assets/pdf/board-meeting-minutes-2014-05-29.pdf)
+* [Board meeting minutes 2014-07-31](/assets/pdf/board-meeting-minutes-2014-07-31.pdf)
+* [Board meeting minutes 2014-09-25](/assets/pdf/board-meeting-minutes-2014-09-25.pdf)
+* [Board meeting minutes 2014-11-27](/assets/pdf/board-meeting-minutes-2014-11-27.pdf)
+
+## 2013
+
+* [Board meeting minutes 2013-01-24](/assets/pdf/board-meeting-minutes-2013-01-24.pdf)
+* [Board meeting minutes 2013-02-26](/assets/pdf/board-meeting-minutes-2013-02-26.pdf)
+* [Board meeting minutes 2013-03-26](/assets/pdf/board-meeting-minutes-2013-03-26.pdf)
+* [Board meeting minutes 2013-05-02](/assets/pdf/board-meeting-minutes-2013-05-02.pdf)
+* [Board meeting minutes 2013-05-29](/assets/pdf/board-meeting-minutes-2013-05-29.pdf)
+* [Board meeting minutes 2013-07-08](/assets/pdf/board-meeting-minutes-2013-07-08.pdf)
+* [Board meeting minutes 2013-08-21](/assets/pdf/board-meeting-minutes-2013-08-21.pdf)
+* [Board meeting minutes 2013-09-26](/assets/pdf/board-meeting-minutes-2013-09-26.pdf)
+* [Board meeting minutes 2013-11-28](/assets/pdf/board-meeting-minutes-2013-11-28.pdf)
+
+## 2012
+
+* [Board meeting minutes 2012-09-11](/assets/pdf/board-meeting-minutes-2012-09-11.pdf)
+* [Board meeting minutes 2012-10-17](/assets/pdf/board-meeting-minutes-2012-10-17.pdf)
+* [Board meeting minutes 2012-11-19](/assets/pdf/board-meeting-minutes-2012-11-19.pdf)

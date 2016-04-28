@@ -46,6 +46,22 @@
 
     </div>
 
+{% elsif page.breadcrumb == 'documents' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/about">About</a> &rarr; <a href="/about/documents">Documents</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% elsif page.breadcrumb == 'jobs' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/about">About</a> &rarr; <a href="/about/jobs">Jobs</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
 {% elsif page.breadcrumb == 'book-lists' %}
 
     <div class="breadcrumb">
