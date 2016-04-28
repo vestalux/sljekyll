@@ -4,14 +4,13 @@ layout: sidebar-right
 sidebar: about
 breadcrumb: about
 ---
-
 We're made up of member organisations who support the 44 Suffolk libraries. Each library works with local people to develop these member organisations.
 
 Friends groups have a say in the running and development of their local library.
 
-<a href="http://members.suffolklibraries.co.uk"><strong>Community group member website →</strong></a>
+[Community group member website →](http://members.suffolklibraries.co.uk)
 
-The following member organisations are members of Suffolk's Libraries Industrial and Provident Society Limited. Visit their page or <a title="Branches" href="/branches/">contact the library</a> to find out about joining.
+The following member organisations are members of Suffolk's Libraries Industrial and Provident Society Limited. Visit their page or [contact the library](/branches) to find out about joining.
 
 * [Aldeburgh Library Foundation](/about/member-organisations/aldeburgh-library-foundation/)
 * [Beccles Library Community Trust (BLCT)](/about/member-organisations/beccles-library-community-trust-bclt/)
@@ -37,7 +36,7 @@ The following member organisations are members of Suffolk's Libraries Industrial
 * [Friends of Ixworth Library (FOIL)](/about/member-organisations/friends-of-ixworth-library-foil)
 * Friends of Kedington Library
 * [Kesgrave Library Community Group](/about/member-organisations/kesgrave-library-community-group/)
-* Friends of the Library in Kessingland<
+* Friends of the Library in Kessingland
 * Friends of Lakenheath Library (F.O.LK)
 * Friends of Lavenham Library
 * [Leiston Town Council advisory group](/about/member-organisations/leiston-town-council-advisory-group)
@@ -54,6 +53,6 @@ The following member organisations are members of Suffolk's Libraries Industrial
 * [Friends of Stowmarket Library](/about/member-organisations/friends-of-stowmarket-library/)
 * [Stradbroke Courthouse and Library Trust (SCALT)](/about/member-organisations/stradbroke-courthouse-and-library-trust-scalt/)
 * Friends of Sudbury Library
-* [Friends of Thurston Library](http://suffolklibraries.co.uk/about/member-organisations/friends-of-thurston-library/)
+* [Friends of Thurston Library](/about/member-organisations/friends-of-thurston-library/)
 * Wickham Market Partnership
-* [Friends of Woodbridge Library](http://suffolklibraries.co.uk/about/member-organisations/friends-of-woodbridge-library-fowl)
+* [Friends of Woodbridge Library](/about/member-organisations/friends-of-woodbridge-library-fowl)

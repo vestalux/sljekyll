@@ -2,7 +2,7 @@
 layout: sidebar-right
 title: Kesgrave Library Community Group
 sidebar: about
-breadcrumb: about
+breadcrumb: member-organisations
 ---
 ## Who we are
 

@@ -2,17 +2,17 @@
 layout: sidebar-right
 title: Friends of Woodbridge Library (FOWL)
 sidebar: about
-breadcrumb: about
+breadcrumb: member-organisations
 ---
 ## Contact us
 
-	* Telephone the library at 01394 446510 and ask to speak with the library manager, Helen Scrivener
-	* Email: friendsofwoodbridgelibrary@gmail.com
+* Telephone the library at 01394 446510 and ask to speak with the library manager, Helen Scrivener
+* Email: friendsofwoodbridgelibrary@gmail.com
 
 ## Documents
 
-	* [Membership application form](http://suffolklibraries.co.uk/wp-content/uploads/2015/02/FOWL-application-form1.docx) (Word doc)
-	* [Constitution](http://suffolklibraries.co.uk/wp-content/uploads/2015/02/FOWL-Constitution-as-of-April-2014.pdf) (PDF)
+* [Membership application form](/assets/doc/fowl-application-form.doc) (Word doc)
+* [Constitution](/assets/pdf/fowl-constitution-as-of-april-2014.pdf) (PDF)
 
 ## Who are we?
 
@@ -30,22 +30,22 @@ Anyone aged 16 or older who has a Suffolk Libraries card and is a user of the Wo
 
 ## How to join the Friends of Woodbridge Library
 
-Download a [membership application form](http://suffolklibraries.co.uk/wp-content/uploads/2015/02/FOWL-application-form1.docx) (Word doc) and email it to friendsofwoodbridgelibrary@gmail.com or pop into the library and ask for one.
+Download a [membership application form](/assets/doc/fowl-application-form.doc) (Word doc) and email it to friendsofwoodbridgelibrary@gmail.com or pop into the library and ask for one.
 
 ## How are we governed?
 
 We have a Committee of Trustees elected from the membership at FOWL’s annual general meeting in April of each year.
 
-[Download our constitution](http://suffolklibraries.co.uk/wp-content/uploads/2015/02/FOWL-Constitution-as-of-April-2014.pdf)
+[Download our constitution](/assets/pdf/fowl-constitution-as-of-april-2014.pdf)
 
 FOWL Committee members:
 
-	* Richard Bull
-	* Tim Cornford
-	* Yvonne Holdcroft
-	* Patti Mulcahy (Chair)
-	* Helen Scrivener (Secretary)
-	* Henning Sieverts (Treasurer)
+* Richard Bull
+* Tim Cornford
+* Yvonne Holdcroft
+* Patti Mulcahy (Chair)
+* Helen Scrivener (Secretary)
+* Henning Sieverts (Treasurer)
 
 ## The back story
 
@@ -57,14 +57,14 @@ The goal was to save all of the libraries from closure while reducing costs by 2
 
 We work closely with library staff to help to organise and run a very wide range of community activities. So far these have included:
 
-	* Table top sales
-	* Lunch time concerts
-	* Jazz evening
-	* Poetry readings
-	* Craft fairs
-	* Art classes
-	* Summer Reading Game presentation
-	* Writing groups
+* Table top sales
+* Lunch time concerts
+* Jazz evening
+* Poetry readings
+* Craft fairs
+* Art classes
+* Summer Reading Game presentation
+* Writing groups
 
 ## What we don’t do!
 Our role is to be helpful in many ways, but we are not the library’s governing body. That role is in the able hands of Suffolk Libraries IPS Limited, which manages the 44 libraries, and employs the libraries’ staff.
@@ -83,10 +83,10 @@ FOWL is organised as a small charity. All money donated to FOWL and raised throu
 
 During its first year from April 2013 through March 2014, we received a total of £3,166 and spent £414. The current year’s income will be similar; our spending, however, has sharply increased. Amongst the notable expenses has been our participation in the Woodbridge Carnival (where our promotional float garnered first prize!), as well as the purchase of:
 
-	* A speaker system for any group to borrow
-	* A new photocopier/scanner/scanner has been purchased for library and public use
-	* 24 used stacking chairs for lectures, concerts, and other events
-	* A computer projector available for any group to borrow
+* A speaker system for any group to borrow
+* A new photocopier/scanner/scanner has been purchased for library and public use
+* 24 used stacking chairs for lectures, concerts, and other events
+* A computer projector available for any group to borrow
 
 ## Our library and the future
 

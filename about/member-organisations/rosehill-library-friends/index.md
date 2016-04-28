@@ -2,9 +2,9 @@
 layout: sidebar-right
 title: Rosehill Library Friends
 sidebar: about
-breadcrumb: about
+breadcrumb: member-organisations
 ---
-![Rosehill Library Friends logo](http://suffolklibraries.co.uk/wp-content/uploads/2014/03/rosehill-logo.png)
+![Rosehill Library Friends logo](images/article/logo-rosehill-library-friends.jpg)
 
 ## Our Aims
 
@@ -34,7 +34,7 @@ Councillor representation:
 ## Contact us
 
 * Email: rosehilllibraryfriends@yahoo.co.uk
-* [Facebook](https://www.facebook.com/rosehillfriends)
+* Facebook: [Rosehill Library Friends](https://www.facebook.com/rosehillfriends)
 
 ## The story so far
 

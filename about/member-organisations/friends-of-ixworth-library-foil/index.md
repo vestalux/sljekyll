@@ -2,9 +2,9 @@
 layout: sidebar-right
 title: Friends of Ixworth Library (FOIL)
 sidebar: about
-breadcrumb: about
+breadcrumb: member-organisations
 ---
-![Friends of Ixworth Library (FOIL) logo](http://suffolklibraries.co.uk/wp-content/uploads/2016/02/foil-logo.png)
+![Friends of Ixworth Library (FOIL) logo](/images/article/logo-friends-of-ixworth-library-foil.jpg)
 
 ## Our aims
 
@@ -44,7 +44,7 @@ In January 2015, FOIL launched a weekly art group that meets when the library is
 
 In April 2015, the art group started displaying their pieces of work to the public in the library with a view to selling them to raise further funds for FOIL.
 
-![Commitee member Peter Longfield taking part in the art group](http://suffolklibraries.co.uk/wp-content/uploads/2016/02/featured-foil-art-group-peter-longfield.jpg)
+![Commitee member Peter Longfield taking part in the art group](/images/article/friends-of-ixworth-library-art-group-peter-longfield.jpg)
 
 *Commitee member Peter Longfield taking part in the art group*
 

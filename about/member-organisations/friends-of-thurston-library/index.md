@@ -2,7 +2,7 @@
 layout: sidebar-right
 title: Friends of Thurston Library
 sidebar: about
-breadcrumb: about
+breadcrumb: member-organisations
 ---
 The purpose of the Friends of Thurston Library is the maintenance of our public library and the continued improvement of this service to our community.
 
@@ -45,7 +45,7 @@ Richard Fawcett, as a parish councillor, was fundamental in setting up the group
 
 Now that the local schools have become 2-tier, the 6th Form is moving to Beyton Middle School. The library will continue as a community library only, giving us much more space to increase the range of services.
 
-We've successfully promoted the library and raised funds. Our most recent success has been the [introduction of eReaders](http://suffolklibraries.co.uk/announcements/ereader-pilot-in-thurston-having-an-impact), which we believe is a first in the country!
+We've successfully promoted the library and raised funds. Our most recent success has been the introduction of eReaders, which we believe is a first in the country!
 
 We're committed to the long-term life of the library as a very relevant part of our community.
 

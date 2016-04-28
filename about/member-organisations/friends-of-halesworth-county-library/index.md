@@ -2,7 +2,7 @@
 layout: sidebar-right
 title: Friends of Halesworth County Library
 sidebar: about
-breadcrumb: about
+breadcrumb: member-organisations
 ---
 ## Our aims
 
@@ -28,7 +28,7 @@ breadcrumb: about
 
 * Tel: 01986 875 095
 * Email: friendsofhalesworthlibrary@gmail.com
-* [Newsletter](http://issuu.com/hucklberryfinn/docs)
+* Newsletter: [Friends of Halesworth County Library](http://issuu.com/hucklberryfinn/docs)
 
 ## The story so far
 
@@ -73,10 +73,10 @@ Much of this would not have happened without the support of the Friends and we w
 
 ## Minutes
 
-* [Minutes - 5 May 2015](http://suffolklibraries.co.uk/wp-content/uploads/2014/11/2015-05-16-Minutes-05-05-15-.pdf)
-* [Minutes - 2 June 2015](http://suffolklibraries.co.uk/wp-content/uploads/2014/11/2015-06-02-Minutes-02-06-15.pdf)
-* [Minutes - 4 August 2015](http://suffolklibraries.co.uk/wp-content/uploads/2014/11/FHCLmin4Aug15PDF.pdf)
-* [Minutes - 27 October 2015](http://suffolklibraries.co.uk/wp-content/uploads/2014/11/2015-10-27-FOHCL-Minutes-27-10-15.pdf)
-* [Minutes - 9 December 2015](http://suffolklibraries.co.uk/wp-content/uploads/2014/11/2015-12-09-FOHCL-Minutes-09-12-15.pdf)
-* [Minutes - 26 January 2016](http://suffolklibraries.co.uk/wp-content/uploads/2014/11/2016-01-26-FOHCL-Minutes-26-01-16.pdf)
-* [Minutes - 15 March 2016](http://suffolklibraries.co.uk/wp-content/uploads/2014/11/2016-03-15-FOHCL-Minutes-15-03-2016.pdf)
+* [Minutes - 5 May 2015](/assets/pdf/2015-05-05-fohcl-minutes.pdf)
+* [Minutes - 2 June 2015](/assets/pdf/2015-06-02-fohcl-minutes.pdf)
+* [Minutes - 4 August 2015](/assets/pdf/2015-08-04-fohcl-minutes.pdf)
+* [Minutes - 27 October 2015](/assets/pdf/2015-10-27-fohcl-minutes.pdf)
+* [Minutes - 9 December 2015](/assets/pdf/2015-12-09-fohcl-minutes.pdf)
+* [Minutes - 26 January 2016](/assets/pdf/2016-01-26-fohcl-minutes.pdf)
+* [Minutes - 15 March 2016](/assets/pdf/2016-03-15-fohcl-minutes.pdf)

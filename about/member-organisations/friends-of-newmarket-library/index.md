@@ -2,7 +2,7 @@
 layout: sidebar-right
 title: Friends of Newmarket Library
 sidebar: about
-breadcrumb: about
+breadcrumb: member-organisations
 ---
 ## Our aims
 
@@ -21,12 +21,12 @@ breadcrumb: about
 ## Contact us
 
 * Email: newmarketfriends@gmail.com
-* [Facebook](http://www.facebook.com/friendsofnewmarketlibrary)
+* Facebook: [Friends of Newmarket Library](http://www.facebook.com/friendsofnewmarketlibrary)
 * Ask at the counter in Newmarket Library
 
 ## How to join:
 
-* Just fill in a [Friends of Newmarket Library membership form](http://suffolklibraries.co.uk/wp-content/uploads/2014/01/Friends-of-Newmarket-Library-membership-Form.pdf); you may also join at our next meeting (see below for details).
+* Just fill in a [Friends of Newmarket Library membership form](/assets/pdf/friends-of-newmarket-library-membership-form.pdf); you may also join at our next meeting (see below for details).
 * Membership costs £1/year; these funds will go to the library. Any extra donations are always welcome.
 * Membership runs from April 6 to the following April 5.
 * You are under no obligation to join in any further activities or fundraising, although you will of course always be welcome.
@@ -38,7 +38,7 @@ breadcrumb: about
 
 ## Recent successes
 
-![Friends of Newmarket Library at Newmarket carnival](http://suffolklibraries.co.uk/wp-content/uploads/2014/01/fnl-carnival.jpg)
+![Friends of Newmarket Library at Newmarket carnival](/images/article/friends-of-newmarket-library-at-newmarket-carnival.jpg)
 
 *Friends of Newmarket Library at Newmarket carnival*
 

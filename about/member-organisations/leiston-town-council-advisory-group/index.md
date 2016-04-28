@@ -2,7 +2,7 @@
 layout: sidebar-right
 title: Leiston Town Council advisory group
 sidebar: about
-breadcrumb: about
+breadcrumb: member-organisations
 ---
 ## Our aims
 
@@ -34,11 +34,11 @@ We would like to encourage more young people to join the committee. If you are i
 
 ​We are a voluntary advisory committee of Leiston Town Council who meet quarterly, to oversee the running of Leiston Library on their behalf. Leiston Town Council is a member of the IPS (Suffolk Libraries).
 
-![Leiston Library garden](http://suffolklibraries.co.uk/wp-content/uploads/2015/02/leistonrefurbgarden.jpg)
+![Leiston Library garden](/images/article/leiston-library-refurb-garden.jpg)
 
 *Leiston Library garden*
 
-![Leiston Library interior](http://suffolklibraries.co.uk/wp-content/uploads/2015/02/leistonrefurbinterior.jpg)
+![Leiston Library interior](/images/article/leiston-library-refurb-interior.jpg)
 
 *Leiston Library interior*
 

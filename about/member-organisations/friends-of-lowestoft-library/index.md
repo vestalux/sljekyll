@@ -2,7 +2,7 @@
 layout: sidebar-right
 title: Friends of Lowestoft Library
 sidebar: about
-breadcrumb: about
+breadcrumb: member-organisations
 ---
 ## Our aims
 
@@ -22,8 +22,8 @@ breadcrumb: about
 ## Contact us
 
 * Email: friendsoflowestoftlibrary@gmail.com
-* [Facebook](https://www.facebook.com/Friends.of.Lowestoft.Library)
-* [Twitter](https://twitter.com/FriendsOfLowLib)
+* Facebook: [Friends of Lowestoft Library](https://www.facebook.com/Friends.of.Lowestoft.Library)
+* Twitter: [@friendsoflowlib](https://twitter.com/FriendsOfLowLib)
 
 ## The story so far
 

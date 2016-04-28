@@ -2,7 +2,7 @@
 layout: sidebar-right
 title: Elmswell Library Friends (ELF)
 sidebar: about
-breadcrumb: about
+breadcrumb: member-organisations
 ---
 ## Our aims
 
@@ -24,7 +24,7 @@ breadcrumb: about
 * June Pursglove email: jandj@jandjpursglove.co.uk
 * Emma Yarrow email: emma.yarrow@suffolklibraries.co.uk
 
-## Other committee members
+Other committee members:
 
 * Amanda Roberts
 * David Grunbaum

@@ -2,7 +2,7 @@
 layout: sidebar-right
 title: Friends of Stowmarket Library
 sidebar: about
-breadcrumb: about
+breadcrumb: member-organisations
 ---
 ## Our aims
 

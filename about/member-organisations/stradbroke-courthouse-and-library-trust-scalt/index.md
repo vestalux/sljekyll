@@ -2,9 +2,9 @@
 layout: sidebar-right
 title: Stradbroke Courthouse and Library Trust (SCALT)
 sidebar: about
-breadcrumb: about
+breadcrumb: member-organisations
 ---
-## [Stradbroke Courthouse and Library Trust (SCALT)](http://suffolklibraries.co.uk/wp-content/uploads/2014/11/CHC_logo_solid.png)
+## [Stradbroke Courthouse and Library Trust (SCALT)](/images/article/logo-court-house-stradbroke.jpg)
 
 ## Our aims
 
@@ -30,7 +30,7 @@ Stradbroke Courthouse and Library Trust is a charitable incorporated organisatio
 
 ## Recent successes
 
-* [Opened a new post office counter in October 2014​](http://suffolklibraries.co.uk/press-releases/stradbroke-library-post-office-opens-this-week)
+* Opened a new post office counter in October 2014​
 
 ## Future plans
 

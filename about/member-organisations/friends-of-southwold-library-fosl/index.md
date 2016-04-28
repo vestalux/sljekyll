@@ -2,13 +2,13 @@
 layout: sidebar-right
 title: Friends of Southwold Library (FoSL) (Registered Charity Number 1163525)
 sidebar: about
-breadcrumb: about
+breadcrumb: member-organisations
 ---
-![Friends of Southwold Library (FoSL) (Registered Charity Number 1163525)](http://suffolklibraries.co.uk/wp-content/uploads/2014/10/fosl-logo.jpg)
+![Friends of Southwold Library (FoSL) logo](/images/article/logo-friends-of-southwold-library-fosl.jpg)
 
 ## The story so far
 
-![FoSL’s third birthday cake](http://suffolklibraries.co.uk/wp-content/uploads/2014/10/fosl-cake-200x150.jpg)
+![FoSL’s third birthday cake](/images/article/friends-of-southwold-library-fosl-birthday-cake.jpg)
 
 *FoSL’s third birthday cake*
 
@@ -20,7 +20,9 @@ In the three years since then, FoSL has:
 * paid for wifi, a printer and scanner, making new services available to the public in Southwold Library
 * sponsored community events run by Southwold Library staff, such as the Harry Potter night for children held in February and the very popular annual crime writers’ festival, Slaughter in Southwold, which takes place in June each year
 
-[caption id="" align="aligncenter" width="740"]<img src="http://suffolklibraries.co.uk/wp-content/uploads/2014/10/fosl-nicci-french.jpg" alt="Nicci French at Slaughter in Southwold " width="740" height="370" /> Nicci Gerrard and Sean French, who write crime novels together under the name Nicci French, speaking at Slaughter in Southwold.[/caption]
+![Nicci French at Slaughter in Southwold](/images/article/friends-of-southwold-library-fosl-nicci-french.jpg)
+
+*Nicci Gerrard and Sean French, who write crime novels together under the name Nicci French, speaking at Slaughter in Southwold*
 
 Funds are raised through events such as book sales, quiz nights, the annual plant sale, the sound and vision sale, coffee mornings and stalls at the Christmas Lights Switch-on, the Southwold Arts Festival, the Lions’ Club fete and more. All of these events are run by Friends. There are lots of opportunities to get involved, help the Library and meet other people who care about the Library. If you are not already a Friend, why not join us? You’ll find a form further down this page.
 
@@ -32,7 +34,7 @@ FoSL has been so successful in its fundraising that it soon exceeded the £5,000
 * Membership is valid for three years and is renewable.
 * Members will be invited to regular meetings and to take part in fundraising events.
 * Membership entitles you to attend and vote at the annual general meeting and to stand for election as a trustee or vote to elect the trustees.
-* You can join by filling in our [FoSL membership form](http://suffolklibraries.co.uk/wp-content/uploads/2014/10/fosl-membership-form.pdf) which is also available from Southwold Library.
+* You can join by filling in our [FoSL membership form](/assets/pdf/fosl-membership-form.pdf) which is also available from Southwold Library.
 
 ## Annual Patron Scheme
 
@@ -40,14 +42,14 @@ FoSL has been so successful in its fundraising that it soon exceeded the £5,000
 * You’ll be listed in the FoSL Annual Report (though you may remain anonymous if you prefer) and receive a copy of the Annual Report.
 * You’ll also be invited to an annual Patrons’ Reception to discuss our work with the Trustees and the Library Manager.
 * You will have the satisfaction of knowing you are supporting a much-valued service open to the whole of the local community.
-* You can donate by using the [FoSL Patron's form](http://suffolklibraries.co.uk/wp-content/uploads/2016/03/fosl-patron-scheme-form.pdf), or drop into the Library to find out more.
+* You can donate by using the [FoSL Patron's form](/assets/pdf/fosl-patron-scheme-form.pdf), or drop into the Library to find out more.
 
 ## Our objectives
 
 * To advance the education of the general public in Southwold, Suffolk and the surrounding area, in particular but not exclusively by the provision of a lending library.
 * To further or benefit the residents of Southwold, Suffolk and the neighbourhood, without distinction of sex, sexual orientation, race or of political, religious or other opinions by associating together the said residents and the local authorities, voluntary and other organisations in a common effort to advance education and to provide facilities in the interests of social welfare for recreation, leisure time, occupation with the objective of improving the conditions of life for the residents.
 
-Read our full [FoSL constitution](http://suffolklibraries.co.uk/wp-content/uploads/2014/10/fosl-constitution.pdf).
+Read our full [FoSL constitution](/assets/pdf/fosl-constitution.pdf).
 
 ## Our trustees
 

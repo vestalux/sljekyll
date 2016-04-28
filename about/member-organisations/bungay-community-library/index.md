@@ -2,17 +2,17 @@
 layout: sidebar-right
 title: Bungay Community Library
 sidebar: about
-breadcrumb: about
+breadcrumb: member-organisations
 ---
 ## Who we are
 
-### Patrons
+Patrons:
 
 * (The Rt Hon) The Lord Prior
 * [Luke Wright](http://www.lukewright.co.uk/)
 * [Louis de Bernières](http://www.louisdebernieres.co.uk/)
 
-### Trustees
+Trustees:
 
 * Chair: Simon Woods
 * Secretary: Sylvia Knights

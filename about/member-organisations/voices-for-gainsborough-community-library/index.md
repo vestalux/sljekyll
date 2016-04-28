@@ -2,7 +2,7 @@
 layout: sidebar-right
 title: Voices for Gainsborough Community Library
 sidebar: about
-breadcrumb: about
+breadcrumb: member-organisations
 ---
 ## Our Aims
 
@@ -37,7 +37,7 @@ Other Committee members:
 ## Contact us
 
 * Email: v4gclcommittee@yahoo.co.uk
-* [Facebook](https://www.facebook.com/pages/V4GCL-at-Gainsborough-Community-Library/1415483762029302)
+* Facebook: [V4GCL at Gainsborough Community Library](https://www.facebook.com/pages/V4GCL-at-Gainsborough-Community-Library/1415483762029302)
 
 ## The story so far
 
@@ -78,4 +78,4 @@ We're currently developing a range of plans to help support and promote Gainsbor
 
 ## Documents
 
-[Annual Chairpersons Report 2014/15 for Voices 4 Gainsborough Community Library (V4GCL)](http://suffolklibraries.co.uk/wp-content/uploads/2015/10/AnnualChairpersonsReport2014.pdf)
+[Annual Chairpersons Report 2014/15 for Voices 4 Gainsborough Community Library (V4GCL)](/assets/pdf/voices-4-gainsborough-community-library-v4gcl-annual-chairpersons-report-14-15.pdf)
