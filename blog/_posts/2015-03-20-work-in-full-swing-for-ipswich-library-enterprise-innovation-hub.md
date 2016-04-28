@@ -15,7 +15,8 @@ With the help of our partners, the [Suffolk Chamber of Commerce](http://www.suff
 
 Opening this spring, we hope the Enterprise + Innovation Hub will become a thriving centre for ideas and innovation and not just in the meeting room.
 
-![Ipswich County Library second floor](http://suffolklibraries.co.uk/wp-content/uploads/2015/03/hub.jpg)
+![Ipswich County Library second floor](/images/article/empty-hub-space.jpg)
+
 *Ipswich County Library second floor, soon to be an innovation and enterprise centre.*
 
 We’re also investing in our very own ‘MakerSpace’, The Lab, a fully equipped fabrication studio with state of the art technology and equipment, including 3D printers, Raspberry Pi B+ boards and professional sewing machines.
@@ -24,7 +25,8 @@ The Lab is designed with both the novice and the expert in mind: from child to s
 
 On Saturdays The Lab will be taken over by the popular [Creative Computing Club](http://www.creativecomputingclub.com/), a social enterprise teaching 11-16 year olds digital skills in a fun and informal learning environment.
 
-![Hub pods sketch](http://suffolklibraries.co.uk/wp-content/uploads/2015/03/proposed-hub-pods.png)
+![Hub pods sketch](/images/article/proposed-hub-pods.jpg)
+
 *Pods 1 and 2 in the Carnegie Room.*
 
 If you think that you might have something to offer in regards to business and management or design and technology, or if you are looking for hireable function and meeting rooms, then email hub@suffolklibraries.co.uk

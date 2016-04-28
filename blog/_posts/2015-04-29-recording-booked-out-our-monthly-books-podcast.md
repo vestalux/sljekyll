@@ -7,16 +7,18 @@ excerpt: Sophie Green explains how we put together a regular books podcast, and 
 layout: post
 breadcrumb: blog
 ---
-When our local community radio station, Deben Radio, asked us if the library would like to host a programme about our events and activities, we decided on a book and film review show.
+![The Booked Out team recording a show round a desk](/images/featured/featured-booked-out-team.jpg)
 
-![The Booked Out team recording a show round a desk](http://suffolklibraries.co.uk/wp-content/uploads/2015/04/booked-out-team.jpg)
 *Us recording the show*
+
+When our local community radio station, Deben Radio, asked us if the library would like to host a programme about our events and activities, we decided on a book and film review show.
 
 Being part of the Deben Radio programming was a huge step forward for us as it increased public awareness of our role as not only a provider of books and information but also as a community asset. Plus it was online, so for the first time our reach went beyond the local area.
 
 Most of us had no previous experience of radio or presenting before Booked Out (apart from Sheila who had been on Felixstowe Radio) so we had to learn as we went along, including getting to grips with ‘the edirol’; the machine we record the show on.
 
-![An MP3 recording microphone](http://suffolklibraries.co.uk/wp-content/uploads/2015/04/ediroll.jpg)
+![An MP3 recording microphone](/images/article/booked-out-edirol.jpg)
+
 *The small but mighty Edirol*
 
 Our first independent recording on Scandinavian Noir went online in February 2013.
@@ -29,11 +31,12 @@ We thought that it would all end there, but luckily for us it was just the begin
 
 It’s been a steep learning curve and we’re still making improvements but we all like a challenge and felt that, once we were given the opportunity, it was worth a try to do something new in libraries. Last year we even made it into the CILIP newsletter!
 
-![Helen Scrivener reading a book](http://suffolklibraries.co.uk/wp-content/uploads/2015/04/helen.jpg)
+![Helen Scrivener reading a book](/images/article/booked-out-helen-scrivener.jpg)
+
 *Helen – library manager and a regular guest on Booked Out, reading up on the subject*
 
 We choose show subjects based on our personal passions or genres that might be trending or topical in the media or else something inspirational that we haven’t already covered that we think might be of interest to the audience. Any subject can work with the right guests and we’ve got some great regular panellists but we’re always on the lookout for enthusiastic book and film lovers who are willing to showcase their recommendations to the nation and help raise the library profile.
 
 If you’d like to be involved you can contact us on 01394 446510 or at sophie.green@suffolklibraries.co.uk and we’ll send you a list of up and coming shows to choose from.
 
-Past and present editions of Booked Out are now available from [the Booked Out Suffolk Libraries page](http://suffolklibraries.co.uk/bookedout) or find us on [SoundCloud](https://soundcloud.com/suffolk-libraries).
+Past and present editions of Booked Out are now available from [the Booked Out Suffolk Libraries page](/new-suggestions/booked-out) or find us on [SoundCloud](https://soundcloud.com/suffolk-libraries).

@@ -31,7 +31,7 @@ This project will develop:
 
 I have already met with some inspirational people who are keen to be involved with projects such as encouraging groups of dads to visit the library with their children and creating literacy pop-up shops in prominent inner city locations.
 
-We are thinking of calling the project <cite>Beyond the Book</cite> because that is what [our gold standard library service](http://suffolklibraries.co.uk/wp-content/uploads/2015/09/SLAnnualReview2014-2015.pdf) offers – a range of opportunities that enhances the magical world of reading and enriches the lives of its users.
+We are thinking of calling the project <cite>Beyond the Book</cite> because that is what [our gold standard library service](/assets/pdf/suffolk-libraries-annual-review-2014-2015.pdf) offers – a range of opportunities that enhances the magical world of reading and enriches the lives of its users.
 
 ## My new blog: An Ambassadorial Diary
 

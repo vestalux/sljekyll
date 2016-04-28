@@ -23,7 +23,8 @@ I am also proud to be a chartered librarian.
 
 If you read the national news you might think we are facing a time of shrinkage and decline. It’s true that the ways people use us have changed immeasurably. The balance of printed materials to electronic may have had the most profound impact as well as the generation of users whose default is digital. I don’t see any of this as a threat to what we are as long as we continue to adapt.
 
-![Children working on laptops](http://suffolklibraries.co.uk/wp-content/uploads/2016/02/code-club.jpg)
+![Children working on laptops](/images/article/code-club-four-children-at-laptops.jpg)
+
 *Children at a Code Club in [our Lab](/hub).*
 
 In Suffolk Libraries we’ve added digital formats to our reading offer: you can borrow a Chromebook laptop in a library, and we offer free downloads of music, magazines and books, as well as iPad training Sessions.

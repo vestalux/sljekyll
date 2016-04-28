@@ -7,7 +7,7 @@ category: blog
 excerpt: Reading is one of the best ways to relax and relieve stress.
 breadcrumb: blog
 ---
-See my [mental health reading picks](http://suffolklibraries.co.uk/health) for reading ideas.
+See my [mental health reading picks](/health) for reading ideas.
 
 Fiction can help us learn about a mental health condition. Depicting a real condition or situation helps us understand it from a personal, subjective view.
 
@@ -15,7 +15,8 @@ Authors often do a large amount of research into certain conditions or have expe
 
 Stories are also a source of healthy escapism; indeed, the health benefits of picking up a book, magazine or newspaper have some research behind them.
 
-![Two people on a bench reading newspapers](http://suffolklibraries.co.uk/wp-content/uploads/2015/04/reading-bunch.jpg)
+![Two people on a bench reading newspapers](/images/article/reading-bunch.jpg)
+
 *Reading newspapers, magazines and fiction helps relieve stress.*
 
 Consultancy Mindlab International carried out [research on a group of volunteers at the University of Sussex](http://www.theargus.co.uk/news/4245076.Reading_can_help_reduce_stress__according_to_University_of_Sussex_research/). Their stress levels and heart rate were increased through a set of tests and exercises before they tried a range of traditional methods of relaxation.
@@ -26,4 +27,4 @@ Psychologists say this is because the human mind has to concentrate on reading a
 
 ## Reading ideas
 
-There are a lot of books out there – fiction and non–fiction – that deal with mental health in some way. I&#8217;ll be choosing 2 or 3 books every month that provide a helpful, original or entertaining insight into various conditions. [Take a look at May&#8217;s picks](http://suffolklibraries.co.uk/health).
+There are a lot of books out there – fiction and non–fiction – that deal with mental health in some way. I&#8217;ll be choosing 2 or 3 books every month that provide a helpful, original or entertaining insight into various conditions. [Take a look at May&#8217;s picks](/health).

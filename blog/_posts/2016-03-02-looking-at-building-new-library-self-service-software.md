@@ -11,7 +11,8 @@ Last week we spent 5 days with digital agency [Clearleft](http://clearleft.com/)
 
 We’re replacing the self-service machines customers use to check out and return books in libraries. The machines were installed about 8 years ago (in this respect libraries are years ahead of supermarkets).
 
-![A self-service machine](http://suffolklibraries.co.uk/wp-content/uploads/2016/03/self-service-unit.jpg)
+![A self-service machine](/images/article/self-service-unit.jpg)
+
 *One of our existing self service machines.*
 
 A lot has changed in the last 8 years – in 2008 there was no such thing as an iPad and the world wasn’t quite as connected to the internet as it is now.
@@ -26,7 +27,8 @@ Before working with Clearleft we sent them our own research and thoughts on self
 
 I’d also arranged for several staff members and volunteers to turn up on the Monday morning. What we were going to do I wasn’t sure.
 
-![James Bates and Jeremy Keith](http://suffolklibraries.co.uk/wp-content/uploads/2016/03/james-and-jeremy.jpg)
+![James Bates and Jeremy Keith](/images/article/james-and-jeremy.jpg)
+
 *Clearleft&#8217;s James Bates and Jeremy Keith.*
 
 You’ve probably heard terms like _agile_, _lean_ and _sprint_ before: this was, I guess, agile in action. It’s a good process as you react to whatever you discover, rather than try to squeeze your findings into a predefined structure. You don’t want to simply reinforce your initial ideas, however attached you are to them; instead, you’re looking to test them and throw them out if necessary.
@@ -35,7 +37,8 @@ And a sprint has a definite end product. It avoids projects getting bogged down.
 
 James did most the facilitation, using a mix of visual and verbal activities, often strictly timed. For example, we were asked to note down 8 ideas for self-service, which could be as practical or science fiction as we liked (I rather liked my book wayfinding idea – one for the future, perhaps). We then chose two of these to sketch and got the rest of the group to critique them.
 
-![Interface sketches](http://suffolklibraries.co.uk/wp-content/uploads/2016/03/interface-sketches.jpg)
+![Interface sketches](/images/article/interface-sketches.jpg)
+
 *Some of the interface ideas we came up with.*
 
 The final stage involved assigning all the sketched ideas points based on how important we felt they were. This gave us the basis for our proposed product, which Clearleft suggest we divide into minimal viable product (MVP), phase 2 and backlog sections. The MVP is what you release first, and then build on.
@@ -44,7 +47,8 @@ We did a _lot_ of work over the week (it was a sprint, after all). Jeremy looked
 
 However, we did establish we could use an API rather than the SIP protocol (really good news – it means we can use simple, secure https to connect to the LMS, while accessing all the data we hold on borrowers and titles). James produced some clickable prototypes that helped everyone picture what our own self-service app might actually look like:
 
-![An iPad next to a self-service machine](http://suffolklibraries.co.uk/wp-content/uploads/2016/03/prototype.jpg)
+![An iPad next to a self-service machine](/images/article/prototype.jpg)
+
 *An early self-service prototype.*
 
 We now have a choice of new self-service machine options; from buying traditional, larger units from existing suppliers, to building something more portable and flexible. Perhaps this is the future of self-service in libraries?

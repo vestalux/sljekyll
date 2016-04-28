@@ -29,7 +29,8 @@ It also allows us to respond quickly to common queries, such as renewals, throug
 
 We can now easily track and monitor individual queries regardless of how complex they are. Better still, they’re dealt with really quickly – our ‘median resolution time’ (a standard customer service measure) for a problem is 1.3 hours.
 
-![Zendesk screenshot](http://suffolklibraries.co.uk/wp-content/uploads/2015/06/zendesk.png)
+![Zendesk screenshot](/images/article/zendesk.png)
+
 *Zendesk helps us organise problems!*
 
 We respond to phone calls, letters, tweets and Facebook posts. How you contact us makes no difference – your query will become a Zendesk ticket. Zendesk even monitors answerphone messages. When you leave a message for us out of office hours, Zendesk will create a ticket and embed your message in it.

@@ -17,7 +17,8 @@ As you can imagine this involved a great deal of co-ordinating and managing. I w
 
 I was amazed by the amount of emails co-ordinating this project created, from confirming the authors attending each event, to ensuring we had the correct publicity information for our programme and website, to arranging refreshments, alcohol licences, staffing and book sellers for events.
 
-![Lisa Brennan and Kate Hamer](http://suffolklibraries.co.uk/wp-content/uploads/2015/04/kate-hamer.png)
+![Lisa Brennan and Kate Hamer](/images/article/lisa-brennan-interviewing-kate-hamer.jpg)
+
 *Me (left) interviewing Kate Hamer.*
 
 I also contacted local and national companies to ask them if they would be interested in becoming sponsors of Bookfest and was delighted and grateful that several of them replied offering their sponsorship as well as helping us promote the festival in the county.
@@ -26,7 +27,8 @@ Once the festival begun, I spent my evenings travelling around Suffolk to help d
 
 What an amazing few weeks!
 
-![Nicola Upson](http://suffolklibraries.co.uk/wp-content/uploads/2015/04/nicola-upson.png)
+![Nicola Upson](/images/article/nicola-upson-standing-next-to-bookfest-2015-banner)
+
 *Nicola Upson*
 
 It was fantastic for us to welcome such a superb selection of authors to the county and we are thrilled that so many of you enjoyed the events we organised.

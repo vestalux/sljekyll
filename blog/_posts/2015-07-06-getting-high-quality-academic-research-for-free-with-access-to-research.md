@@ -37,7 +37,7 @@ The database itself is easy to search with a single search box to type in keywor
 
 ## Where can I access it?
 
-You can search the Access to Research database from any computer, but to actually access and read an article you will need to be in a library — all our libraries offer free internet access. Just visit the [Reference & Research](http://suffolklibraries.co.uk/information-resources/online-reference-resources/) page of our website.
+You can search the Access to Research database from any computer, but to actually access and read an article you will need to be in a library — all our libraries offer free internet access. Just visit the Reference & Research page of our website.
 
 ## How can you help?
 

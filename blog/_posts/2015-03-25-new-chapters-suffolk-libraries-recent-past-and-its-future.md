@@ -37,13 +37,13 @@ This is very flattering; however, we know the opinion which matters the most is 
 
 We carried out a customer survey in 2013 and will repeat this later in 2015. Over 90% of you felt that your library service had stayed the same or got better.
 
-There is a [community group for every library](http://suffolklibraries.co.uk/about/member-organisations/) and they give us strong local feedback on what is right for their local service. Some have led a change in opening hours, initiated new services, and there has even been a change to a local library’s name. These groups also elect our Board.
+There is a [community group for every library](/about/member-organisations/) and they give us strong local feedback on what is right for their local service. Some have led a change in opening hours, initiated new services, and there has even been a change to a local library’s name. These groups also elect our Board.
 
 If you would like to get involved in your local group, speak to the local library staff or contact us on help@suffolklibraries.co.uk
 
 ## The future
 
-We are also looking ahead. In October last year we launched [our 2020 Vision](http://suffolklibraries.co.uk/wp-content/uploads/2014/01/16975-Suffolk-Libraries-Vision-2013-14-v02_Report-A4-LR.pdf) (PDF) which sets out our plans to keep our service strong, responsive and viable.
+We are also looking ahead. In October last year we launched [our 2020 Vision](/assets/pdf/suffolk-libraries-2020-strategy-our-vision-for-the-future.pdf) (PDF) which sets out our plans to keep our service strong, responsive and viable.
 
 Even a quick read will show you that reading, learning, information and help will always be at the heart of what we are and what we do.
 
