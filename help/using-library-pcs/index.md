@@ -19,6 +19,4 @@ The Windows machines provide more software, such as Microsoft Office.
 
 You can plug a USB stick into any of our computers and print a document.
 
-We provide [free WiFi across most of our libraries](http://suffolklibraries.co.uk/help/using-wifi-in-libraries/ "Using wifi in libraries"), so you can use a Chromebook anywhere in your library, or bring your own laptop, tablet or phone.
-
-&nbsp;
+We provide [free WiFi across most of our libraries](/help/using-wifi-in-libraries/ "Using wifi in libraries"), so you can use a Chromebook anywhere in your library, or bring your own laptop, tablet or phone.

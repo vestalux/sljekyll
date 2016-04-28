@@ -5,9 +5,9 @@ breadcrumb: help
 ---
 As a library service we believe in freedom of speech. We only block access to internet sites or pages you access on our fixed PCs if a website:
 
-  * publishes illegal material
-  * publishes material of a racist or homophobic nature
-  * publishes material we deem pornographic or excessively violent
+* publishes illegal material
+* publishes material of a racist or homophobic nature
+* publishes material we deem pornographic or excessively violent
 
 We do reserve the right to block any website we choose.
 

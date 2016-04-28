@@ -11,8 +11,8 @@ You can **renew a book up to six times** unless it is reserved by someone else.
 
 Any overdue charges or new hire charges (eg for DVDs) will be logged to your account up to a given **credit limit**, for payment when you are next in the library.
 
-[More information on charges and how many titles you can borrow](http://suffolklibraries.co.uk/help/charges/ "Charges and what you can borrow").
+[More information on charges and how many titles you can borrow](/help/charges/ "Charges and what you can borrow").
 
 ## Renewing eBooks and eAudio
 
-See our [guide to using our eLibrary service](http://suffolklibraries.co.uk/help/using-our-elibrary-service "Using our ebook service").
+See our [guide to using our eLibrary service](/help/using-our-elibrary-service "Using our ebook service").

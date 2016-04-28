@@ -9,9 +9,11 @@ You can [access your account and our catalogue online](https://suffolk.spydus.co
 
 You can see your account details, renew your loans and check your reservations by clicking the login link in the sidebar or the header.
 
-You&#8217;ll be taken to an account overview:<figure class="figure alignnone">
+You&#8217;ll be taken to an account overview:
 
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/my-account.jpg" alt="My account page" width="740" height="873" /><figcaption>The account summary page. Use the tabs at the top to change details such as your email address and set up an alert when a new title becomes available.</figcaption></figure>
+<img src="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/my-account.jpg" alt="My account page" width="740" height="873" />
+
+The account summary page. Use the tabs at the top to change details such as your email address and set up an alert when a new title becomes available.
 
 ### Loans
 
@@ -29,21 +31,17 @@ Your reservations are listed under the _Reservations/Bookings_ heading
 
 ## Searching the catalogue
 
-Go to the catalogue home page. Type any keywords in one, two or all of the _Title,_ _Author/artist_ and _Subject_ boxes and click _Search_.<figure>
+Go to the catalogue home page. Type any keywords in one, two or all of the _Title,_ _Author/artist_ and _Subject_ boxes and click _Search_.
 
-<img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/quick-search-box.jpg" alt="The quick search box" /></figure>
+<img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/quick-search-box.jpg" alt="The quick search box" />
 
-<div class="panel">
-  <p>
-    Note: If you tell the the search engine which collection to look in (e.g <em>music</em>) you&#8217;ll get more relevant results.
-  </p>
-</div>
+Note: If you tell the the search engine which collection to look in (e.g <em>music</em>) you&#8217;ll get more relevant results.
 
 ### Advanced search
 
-If you need more control over your search click the _Advanced search_ link on the search page, or the _Advanced _tab above the search form:<figure>
+If you need more control over your search click the _Advanced search_ link on the search page, or the _Advanced_ tab above the search form:
 
-<img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/advanced-search1.jpg" alt="The advanced search box let's you fine tune your search" /></figure>
+<img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/advanced-search1.jpg" alt="The advanced search box let's you fine tune your search" />
 
 When you do an advanced search you can fill in up to 4 fields. You can choose whether to do a keyword search or a phrase search:
 

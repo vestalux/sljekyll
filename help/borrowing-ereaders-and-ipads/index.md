@@ -26,7 +26,7 @@ You must also:
 
 ### Terms and conditions
 
-**[Suffolk Libraries eReader User Agreement](http://suffolklibraries.co.uk/wp-content/uploads/2014/05/Suffolk-Libraries-eReader-User-Agreement.pdf)** (PDF)
+**[Suffolk Libraries eReader User Agreement](/assets/pdf/suffolk-libraries-ereader-user-agreement.pdf)** (PDF)
 
 The main terms of the loan are:
 
@@ -35,7 +35,7 @@ The main terms of the loan are:
   * Borrow up to 6 eBooks at a time – your choice from the library [eBook catalogue](http://suffolklibraries.lib.overdrive.com/)
   * You can only transfer eBooks onto the eReader in the library using a library computer
   * The eReader can only be registered to the computer within the library you borrowed the eReader from. It must not be registered with another computer/Adobe Digital Editions. Failure to comply with this may result in charges being applied to your library card.
-  * [Overdue charges](http://suffolklibraries.co.uk/help/charges/ "Charges and what you can borrow") per day will be the same as print books
+  * [Overdue charges](/help/charges/ "Charges and what you can borrow") per day will be the same as print books
   * If lost or damaged the following charges will be applied: eReader: £69, cover: £15
 
 ## Borrowing iPads
@@ -59,7 +59,7 @@ You must also:
 
 ### Terms and conditions
 
-**[Suffolk Libraries iPad User Agreement](http://suffolklibraries.co.uk/wp-content/uploads/2014/05/Suffolk-Libraries-iPad-User-Agreement.pdf)** (PDF)
+**[Suffolk Libraries iPad User Agreement](/assets/pdf/suffolk-libraries-ipad-user-agreement.pdf)** (PDF)
 
 The main terms of the loan are:
 

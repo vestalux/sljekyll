@@ -9,7 +9,7 @@ breadcrumb: help
   * [Search for eBooks](http://suffolklibraries.lib.overdrive.com/)
   * [Search for MP3s and downloads](http://suffolklibraries.freegalmusic.com/)
   * [Search for eAudio](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/mainPage.html?b2bSite=4172)
-  * [Our fiction, non–fiction, children&#8217;s books, film DVD and music lists](http://suffolklibraries.co.uk/reading-lists-groups-advice/ "Book, music and film lists")
+  * [Our fiction, non–fiction, children&#8217;s books, film DVD and music lists](/new-suggestions "Book, music and film lists")
 
 ## Print books, CDs and DVDs
 
@@ -19,33 +19,27 @@ Please note: **We don&#8217;t charge for reservations**, unless you&#8217;re mak
 
 You can [search our catalogue of print books, CDs and DVDs](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/BSEARCH) and reserve any title you find. You can also specify which branch you want to collect your titles from.
 
-<div class="panel">
-  <p>
-    Try our <a title="Book, music and film lists" href="http://suffolklibraries.co.uk/reading-lists-groups-advice/">fiction, non–fiction, music, children&#8217;s books and DVD film lists</a> for ideas.
-  </p>
-</div>
+Try our [fiction, non–fiction, music, children&#8217;s books and DVD film lists](/new-suggestions) for ideas.
 
-Read [our guide to using the catalogue](http://suffolklibraries.co.uk/help/using-our-online-catalogue/ "Using our online catalogue") to get the best search results.
+Read [our guide to using the catalogue](/help/using-our-online-catalogue/ "Using our online catalogue") to get the best search results.
 
 To find a title you can either do a [quick search](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/BSEARCH) or an [advanced search](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/BSEARCH).
 
 When you perform a search the catalogue will make suggestions as you type. You can either click on one of the suggestions or ignore them.
 
-&nbsp;
+You can fill in as many or as few of the boxes as you like.
 
-You can fill in as many or as few of the boxes as you like.<figure>
+<img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/catalogue.png" alt="Screenshot of the catalogue quick search box" />
 
-<img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/catalogue.png" alt="Screenshot of the catalogue quick search box" /></figure>
+When you enter a search, the catalogue will display a list of titles it thinks match your request. The list looks like this:
 
-When you enter a search, the catalogue will display a list of titles it thinks match your request. The list looks like this:<figure>
-
-[<img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/results-list.jpg" alt="Search results" />](http://suffolklibraries.co.uk/wp-content/uploads/2014/01/results-list.jpg)</figure>
+[<img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/results-list.jpg" alt="Search results" />](http://suffolklibraries.co.uk/wp-content/uploads/2014/01/results-list.jpg)
 
 You can reserve as many of these titles as you like. Simply click the box by the title and press the blue **Reserve Selections** button above the list of results.
 
-If you haven&#8217;t already logged in, you&#8217;ll be asked to enter your library card number and your 4 digit PIN. You&#8217;ll also be asked which library you want to collect the book from and a date when we can end your reservation:<figure>
+If you haven&#8217;t already logged in, you&#8217;ll be asked to enter your library card number and your 4 digit PIN. You&#8217;ll also be asked which library you want to collect the book from and a date when we can end your reservation:
 
-<img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/login.jpg" alt="Login form" /></figure>
+<img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2014/01/login.jpg" alt="Login form" />
 
 Once you&#8217;ve filled in the form, click the **Place Reservation** button.
 
@@ -53,7 +47,7 @@ Once you&#8217;ve filled in the form, click the **Place Reservation** button.
 
 Once your reservation is ready we&#8217;ll email or text you, depending on whether you provided us with your email address or mobile number when you created your library account.
 
-If we don&#8217;t have your email address or mobile number you&#8217;ll have to visit [your nearest branch](http://suffolklibraries.co.uk/branches/ "Branches"), [email or call us](http://suffolklibraries.co.uk/contact/) to check if it&#8217;s arrived.
+If we don&#8217;t have your email address or mobile number you&#8217;ll have to visit [your nearest branch](/branches/ "Branches"), [email or call us](/contact/) to check if it&#8217;s arrived.
 
 If you&#8217;d like to receive emails or text either visit a branch or [login to your library account](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/LOGINB).
 
@@ -61,24 +55,15 @@ Reservations take about a week to arrive, but we can&#8217;t guarantee this.
 
 ## eBooks, MP3s or eAudio books
 
-See our [guide to using our eLibrary service](http://suffolklibraries.co.uk/help/using-our-elibrary-service) for instructions on finding, borrowing and renewing ebooks.
+See our [guide to using our eLibrary service](/help/using-our-elibrary-service) for instructions on finding, borrowing and renewing ebooks.
 
-When you [‘borrow’ an MP3 or eAudio book](http://suffolklibraries.co.uk/elibrary/ "eLibrary") from us you simply download it to your device.
+When you [‘borrow’ an MP3 or eAudio book](/elibrary/ "eLibrary") from us you simply download it to your device.
 
-<div class="panel">
-  <h2>
-    Further links
-  </h2>
 
-  <ul>
-    <li>
-      <a title="Using our online catalogue" href="http://suffolklibraries.co.uk/help/using-our-online-catalogue/">Guide to using the online catalogue</a>
-    </li>
-    <li>
-      <a title="Charges and what you can borrow" href="http://suffolklibraries.co.uk/help/charges/">Reservation and overdue charges</a>
-    </li>
-    <li>
-      <a href="http://suffolklibraries.co.uk/help/using-our-elibrary-service">Guide to using our eLibrary service</a>
-    </li>
-  </ul>
-</div>
+## Further links
+
+* [Guide to using the online catalogue](/help/using-our-online-catalogue/)
+
+* [Reservation and overdue charges](/help/charges/)
+
+* [Guide to using our eLibrary service](/help/using-our-elibrary-service)

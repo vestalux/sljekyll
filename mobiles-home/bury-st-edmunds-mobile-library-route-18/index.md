@@ -100,7 +100,7 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="97">
-      1145-1210
+      1145-1200
     </td>
   </tr>
 
@@ -118,7 +118,7 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="97">
-      1220-1235
+      1210-1235
     </td>
   </tr>
 
