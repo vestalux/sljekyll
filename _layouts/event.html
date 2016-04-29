@@ -42,11 +42,11 @@
 
                                 {% if page.event-end-date %}
 
-                                     <span>{{ page.event-start-date | date: "%a %-d %b" }}</span> <span>{{ page.event-start-time }}</span> &#8211; <span>{{ page.event-end-date | date: "%a %-d %b" }}</span> <span>{{ page.event-end-time }}</span>
+                                     <span>{{ page.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ page.event-start-time }}</span> &#8211; <span>{{ page.event-end-date | date: "%a %-d %b %Y" }}</span> <span>{{ page.event-end-time }}</span>
 
                                 {% else %}
 
-                                     <span>{{ page.event-start-date | date: "%a %-d %b" }}</span> <span>{{ page.event-start-time }}</span> &#8211; <span>{{ page.event-end-time }}</span>
+                                     <span>{{ page.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ page.event-start-time }}</span> &#8211; <span>{{ page.event-end-time }}</span>
 
                                 {% endif %}
 
