@@ -1,0 +1,22 @@
+---
+layout: full-width-narrow
+title: 'Felixstowe Library: Room hire'
+breadcrumb: branches
+---
+# Large meeting room
+
+* Capacity: 20 people for meetings, 40 people in rows
+* Cost: £8 per hour for community/charity/private bookings, £12 per hour for commercial/statutory bookings
+* Availability: All day subject to other bookings. Bookings outside library opening hours may attract an additional charge to cover staffing cost.
+
+# Small meeting room
+
+* Capacity: 4 people for meetings
+* Cost: £5 per hour for community/charity/private bookings, £7.50 per hour for commercial/statutory bookings
+* Availability: All day subject to other bookings. Bookings outside library opening hours may attract an additional charge to cover staffing cost.
+
+## Other information
+
+* Located opposite a large pay and display carpark.
+* Refreshments available from café during opening hours. Kitchen facilities available outside opening hours
+* Flipchart and projector available for hire for an additional fee of £5 each

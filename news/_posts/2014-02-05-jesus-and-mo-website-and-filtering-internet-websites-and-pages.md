@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: sidebar-right
 title: Jesus and Mo website and filtering internet websites and pages
 date: 2014-02-05 09:15:09+00:00
 author: leon-paternoster
 category: news
 excerpt: Recently a customer complained they couldn&#8217;t access the <a href="http://www.jesusandmo.net/">Jesus and Mo website</a> from one of our public PCs. Several people also contacted us on Twitter.
+breadcrumb: news
 ---
 Recently a customer complained they couldn&#8217;t access the [Jesus and Mo website](http://www.jesusandmo.net/) from one of our public PCs. Several people also contacted us on Twitter.
 
@@ -14,4 +15,4 @@ It transpires **the site has been blocked from 4 PCs in Ipswich County Library**
 
 Naturally, there are certain sites which are illegal or inappropriate to view in a public place because of their adult content, but we respect people&#8217;s right to free speech, and their freedom to view whatever content they wish on our public computers.
 
-[How we decide to filter websites and pages](http://suffolklibraries.co.uk/help/what-we-filter-on-public-pcs-and-our-wifi-service/ "What we filter on public PCs and our WiFi service").
+[How we decide to filter websites and pages](/help/what-we-filter-on-public-pcs-and-our-wifi-service/ "What we filter on public PCs and our WiFi service").

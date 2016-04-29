@@ -14,6 +14,7 @@ sidebar: 1
             <th>Branch</th>
             <th>Address</th>
             <th>Tel</th>
+            <th>Room hire</th>
 
         <tr>
 
@@ -28,6 +29,7 @@ sidebar: 1
             <td><a href="{{ branch.url }}">{{ branch.name}}</a></td>
             <td>{{ branch.address }}</td>
             <td>{{ branch.phone }}</td>
+            <td><a href="{{ branch.room-hire-url }}">{{ branch.room-hire-text}}</a></td>
 
         </tr>
 

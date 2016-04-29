@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: sidebar-right
 title: Customer survey reveals satisfaction with Suffolk’s library service
 date: 2014-02-14 17:09:52+00:00
 author: james-powell
 category: news
 excerpt: Suffolk Libraries are highlighting the results of a recent customer survey which show how valued the county’s libraries are.
+breadcrumb: news
 ---
 Suffolk Libraries are highlighting the results of a recent customer survey which show how valued the county’s libraries are.
 

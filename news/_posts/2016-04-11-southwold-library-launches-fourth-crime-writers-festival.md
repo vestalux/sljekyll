@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: sidebar-right
 title: Southwold Library launches fourth Crime Writers Festival
 date: 2016-04-11 14:17:38 +00:00
 author: james-powell
 category: news
 excerpt: Southwold Library will again be running the ‘Slaughter in Southwold’ festival this summer. The increasingly popular Crime Writers Festival will feature a number of top crime writers giving talks about their writing at Reydon Village Hall on Saturday 18 and Sunday 19 June.
+breadcrumb: news
 ---
 Southwold Library will again be running the ‘Slaughter in Southwold’ festival this summer. The increasingly popular Crime Writers Festival will feature a number of top crime writers giving talks about their writing at Reydon Village Hall on Saturday 18 and Sunday 19 June.
 

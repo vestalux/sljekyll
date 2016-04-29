@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: full-width-narrow
 title: 'In celebration of libraries (for me, it&#8217;s personal)'
 date: 2016-02-05 13:32:18+00:00
 author: alison-wheeler
 category: blog
 excerpt: Our chief executive officer Alison talks about the importance of libraries to her and the community &#8211; all reasons to  celebrate <a href="http://nationallibrariesday.org.uk/">National Libraries Day</a>.
+breadcrumb: blog
 ---
 **Our chief executive officer Alison talks about the importance of libraries to her and the community – and finds lots of reasons to celebrate National Libraries Day.**
 
@@ -20,9 +21,11 @@ I have been privileged to work in Suffolk’s libraries for almost 37 years. Gul
 
 I am also proud to be a chartered librarian.
 
-If you read the national news you might think we are facing a time of shrinkage and decline. It’s true that the ways people use us have changed immeasurably. The balance of printed materials to electronic may have had the most profound impact as well as the generation of users whose default is digital. I don’t see any of this as a threat to what we are as long as we continue to adapt.<figure class="figure alignnone">
+If you read the national news you might think we are facing a time of shrinkage and decline. It’s true that the ways people use us have changed immeasurably. The balance of printed materials to electronic may have had the most profound impact as well as the generation of users whose default is digital. I don’t see any of this as a threat to what we are as long as we continue to adapt.
 
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2016/02/code-club.jpg" alt="Children working on laptops." width="800" height="547" /><figcaption>Children at a Code Club in [our Lab](/hub).</figcaption></figure>
+![Children working on laptops](/images/article/code-club-four-children-at-laptops.jpg)
+
+*Children at a Code Club in [our Lab](/hub).*
 
 In Suffolk Libraries we’ve added digital formats to our reading offer: you can borrow a Chromebook laptop in a library, and we offer free downloads of music, magazines and books, as well as iPad training Sessions.
 

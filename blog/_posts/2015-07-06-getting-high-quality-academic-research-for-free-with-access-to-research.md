@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: full-width-narrow
 title: Getting high quality academic research for free with Access to Research
 date: 2015-07-06 09:51:32+00:00
 author: helen-haynes
 category: blog
 excerpt: Our information and content librarian Helen Haynes discusses a project that aims to bring high quality academic research to everyone - for free
+breadcrumb: blog
 ---
 Our information and content librarian Helen Haynes discusses a project that aims to bring high quality academic research to everyone &#8211; for free.
 
@@ -36,7 +37,7 @@ The database itself is easy to search with a single search box to type in keywor
 
 ## Where can I access it?
 
-You can search the Access to Research database from any computer, but to actually access and read an article you will need to be in a library — all our libraries offer free internet access. Just visit the [Reference & Research](http://suffolklibraries.co.uk/information-resources/online-reference-resources/) page of our website.
+You can search the Access to Research database from any computer, but to actually access and read an article you will need to be in a library — all our libraries offer free internet access. Just visit the Reference & Research page of our website.
 
 ## How can you help?
 

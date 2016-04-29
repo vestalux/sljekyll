@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: full-width-narrow
 title: 'An Ambassadorial Announcement: how we&#8217;re improving young people&#8217;s literacy in Suffolk'
 date: 2015-09-21 10:38:21+00:00
 author: matt-shenton
 category: blog
 excerpt: Matt shares the new project being rolled out across Suffolk Libraries to encourage young people's literacy.
+breadcrumb: blog
 ---
 **In August, education secretary Nicky Morgan announced that [“improving children’s literacy should be a national mission.”](http://www.gov.uk/government/news/nicky-morgan-and-david-walliams-launch-child-literacy-campaign)** Suffolk Libraries has preceded Ms Morgan on this mission for many years and now is ensuring that every young person in Suffolk is reaching their potential and achieving positive outcomes.
 
@@ -30,7 +31,7 @@ This project will develop:
 
 I have already met with some inspirational people who are keen to be involved with projects such as encouraging groups of dads to visit the library with their children and creating literacy pop-up shops in prominent inner city locations.
 
-We are thinking of calling the project <cite>Beyond the Book</cite> because that is what [our gold standard library service](http://suffolklibraries.co.uk/wp-content/uploads/2015/09/SLAnnualReview2014-2015.pdf) offers – a range of opportunities that enhances the magical world of reading and enriches the lives of its users.
+We are thinking of calling the project <cite>Beyond the Book</cite> because that is what [our gold standard library service](/assets/pdf/suffolk-libraries-annual-review-2014-2015.pdf) offers – a range of opportunities that enhances the magical world of reading and enriches the lives of its users.
 
 ## My new blog: An Ambassadorial Diary
 

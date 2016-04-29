@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: sidebar-right
 title: Mental health at Edinburgh International Book Festival 2015
 date: 2015-08-04 09:45:21+00:00
 author: emma-raindle
 category: health
 excerpt: <a href="https://www.edbookfest.co.uk/">Edinburgh International Book Festival</a> is the largest bookfest in the world, running 15-31 August 2015. Here is a selection featured at the festival.
+breadcrumb: health
 ---
+![Thrive: the power of evidence-based psychological therapies by Richard Layard & David M Clark](/images/featured/featured-thrive.jpg)
+
 ## [<cite>Thrive: the power of evidence-based psychological therapies</cite> by Richard Layard & David M. Clark](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8383863?QRY=CTIBIB%3C%20IRN(41824055)&QRYTEXT=Thrive%20%3A%20the%20power%20of%20evidence-based%20psychological%20therapies)
 
 <div class="row">

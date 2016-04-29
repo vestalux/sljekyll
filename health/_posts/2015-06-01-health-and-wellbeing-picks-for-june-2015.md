@@ -1,12 +1,15 @@
 ---
-layout: post
+layout: sidebar-right
 title: Health and wellbeing picks for June 2015
 date: 2015-06-01 08:11:53+00:00
 author: david-grimmer
 category: health
 excerpt: This month we have recommendations from Sara at Bury St Edmunds Library and Tracey at Haverhill Library.
+breadcrumb: health
 ---
-Our [mental health information services](http://suffolklibraries.co.uk/community-services/mental-health-information-services) information coordinator David Grimmer picks books that deal with health and wellbeing issues. This month we have recommendations from Sara at Bury St Edmunds Library and Tracey at Haverhill Library.
+![The mirror world of Melody Black by Gavin Extence](/images/featured/featured-the-mirror-world-of-melody-black.jpg)
+
+Our mental health information services information coordinator David Grimmer picks books that deal with health and wellbeing issues. This month we have recommendations from Sara at Bury St Edmunds Library and Tracey at Haverhill Library.
 
 You can reserve these books and pick them up from your library:
 

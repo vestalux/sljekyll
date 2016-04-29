@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: full-width-narrow
 title: Using Zendesk to make our customer service better
 date: 2015-06-02 10:53:19+00:00
 author: maddie-smith
 category: blog
 excerpt: Maddie talks about how we changed our customer service to improve how we deal with your problems. We're also a lot quicker now!
+breadcrumb: blog
 ---
 > We couldn’t wish for a better library service – it is superb and everybody is always so helpful and friendly.
 
@@ -26,9 +27,11 @@ Unlike email, Zendesk has ‘views’ that enable each user to see customer quer
 
 It also allows us to respond quickly to common queries, such as renewals, through using macros – short scripts that perform common tasks at the click of a button.
 
-We can now easily track and monitor individual queries regardless of how complex they are. Better still, they’re dealt with really quickly – our ‘median resolution time’ (a standard customer service measure) for a problem is 1.3 hours.<figure class="figure aligncenter">
+We can now easily track and monitor individual queries regardless of how complex they are. Better still, they’re dealt with really quickly – our ‘median resolution time’ (a standard customer service measure) for a problem is 1.3 hours.
 
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2015/06/zendesk.png" alt="Zendesk screenshot" width="754" height="494" /><figcaption>Zendesk helps us organise problems!</figcaption></figure>
+![Zendesk screenshot](/images/article/zendesk.png)
+
+*Zendesk helps us organise problems!*
 
 We respond to phone calls, letters, tweets and Facebook posts. How you contact us makes no difference – your query will become a Zendesk ticket. Zendesk even monitors answerphone messages. When you leave a message for us out of office hours, Zendesk will create a ticket and embed your message in it.
 

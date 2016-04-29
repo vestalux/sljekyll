@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: full-width-narrow
 title: Minecraft and children’s LAN parties at Thurston Library
 date: 2015-08-07 08:55:51+00:00
 author: henry-evans
 category: blog
 excerpt: Henry discusses how a combination of wifi and Minecraft is getting children into Thurston Library.
+breadcrumb: blog
 ---
 When we replaced our public computers last year we thought about what the public wants to do on them. We also ran a survey asking what software they’d like.
 
@@ -18,9 +19,11 @@ We’ve made a few efforts to make our PCs more appealing to younger users. For 
 
 And by games, we mean the hugely popular Minecraft.
 
-If you haven’t heard of it, Minecraft is a game where you build and live in heavily pixelated worlds. It’s extremely popular with children (and lots of adults).<figure class="figure aligncenter">
+If you haven’t heard of it, Minecraft is a game where you build and live in heavily pixelated worlds. It’s extremely popular with children (and lots of adults).
 
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2015/08/minecraft-world.jpg" alt="A Minecraft world" width="800" height="450" /><figcaption>A Minecraft world</figcaption></figure>
+![A Minecraft world](/images/article/minecraft-world.jpg)
+
+*A Minecraft world*
 
 All our Windows PCs come with Minecraft installed. We also run a Suffolk Libraries Minecraft server. So if you’re into the game you can come into any library and start playing.
 
@@ -28,9 +31,11 @@ All our Windows PCs come with Minecraft installed. We also run a Suffolk Librari
 
 We’ve had free wifi in all our libraries for several months now. The public can come in and access the internet on their own devices, and take advantage of our bandwidth and LAN to set up a Minecraft game quickly, easily and safely &#8211; or have a LAN party, as it’s known.
 
-At Thurston Library manager Cathy has been running a Minecraft club for a few months now. The library’s next to a school, so students will pop in with their own phones, tablets or laptops and start playing Minecraft. One of them will host the Minecraft world server and all the data will pass over our wifi network.<figure class="figure aligncenter">
+At Thurston Library manager Cathy has been running a Minecraft club for a few months now. The library’s next to a school, so students will pop in with their own phones, tablets or laptops and start playing Minecraft. One of them will host the Minecraft world server and all the data will pass over our wifi network.
 
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2015/08/thurston-minecraft.jpg" alt="Minecraft club at Thurston Library" width="801" height="475" /><figcaption>Minecraft club at Thurston Library</figcaption></figure>
+![Minecraft club at Thurston Library](/images/article/thurston-minecraft-club.jpg)
+
+ *Minecraft club at Thurston Library*
 
 The LAN party regularly attracts more than 20 children. Cathy’s delighted with the effect it’s had on the library atmosphere and is glad she took the plunge to set the club up. It’s surprisingly simple to run these sorts of events:
 

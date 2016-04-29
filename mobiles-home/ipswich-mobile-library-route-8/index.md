@@ -1,0 +1,166 @@
+---
+layout: full-width-narrow
+title: Ipswich Mobile Library Route 8
+breadcrumb: mobiles-home
+---
+## Contact us:
+
+Managers: Andrew Little and David Cook
+
+Email: [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk?subject=Mobile%20library%20enquiry)
+
+Telephone: 01473 263838
+
+## Route timetable
+
+<table style="width: 607px; height: 239px;" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="bottom" width="69">
+      <strong>Route 8 </strong>
+    </td>
+
+    <td valign="bottom" width="144">
+      <strong>Town/village</strong>
+    </td>
+
+    <td valign="bottom" width="154">
+      <strong>Location</strong>
+    </td>
+
+    <td valign="bottom" width="110">
+      <strong>Time</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="bottom" width="69">
+      MIP/8A
+    </td>
+
+    <td valign="bottom" width="144">
+      Chelmondiston
+    </td>
+
+    <td valign="bottom" width="154">
+      School
+    </td>
+
+    <td valign="bottom" width="110">
+      0925 &#8211; 1045
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="bottom" width="69">
+      MIP/8B
+    </td>
+
+    <td valign="bottom" width="144">
+      Chelmondiston
+    </td>
+
+    <td valign="bottom" width="154">
+      The Red Lion
+    </td>
+
+    <td valign="bottom" width="110">
+      1050 &#8211; 1120
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="bottom" width="69">
+      MIP/8C
+    </td>
+
+    <td valign="bottom" width="144">
+      Woolverstone
+    </td>
+
+    <td valign="bottom" width="154">
+      Marina
+    </td>
+
+    <td valign="bottom" width="110">
+      1130 &#8211; 1155
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="bottom" width="69">
+      MIP/8D
+    </td>
+
+    <td valign="bottom" width="144">
+      Stutton
+    </td>
+
+    <td valign="bottom" width="154">
+      Larksfield
+    </td>
+
+    <td valign="bottom" width="110">
+      1210 &#8211; 1240
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="bottom" width="69">
+      MIP/8E
+    </td>
+
+    <td valign="bottom" width="144">
+      Stutton
+    </td>
+
+    <td valign="bottom" width="154">
+      Community shop
+    </td>
+
+    <td valign="bottom" width="110">
+      1245 &#8211; 1315
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="bottom" width="69">
+      MIP/8F
+    </td>
+
+    <td valign="bottom" width="144">
+      Holbrook
+    </td>
+
+    <td valign="bottom" width="154">
+      Royal Hospital School
+    </td>
+
+    <td valign="bottom" width="110">
+      1420 &#8211; 1435
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="bottom" width="69">
+      MIP/8G
+    </td>
+
+    <td valign="bottom" width="144">
+      Holbrook
+    </td>
+
+    <td valign="bottom" width="154">
+      The Street
+    </td>
+
+    <td valign="bottom" width="110">
+      1445 &#8211; 1630
+    </td>
+  </tr>
+</table>
+
+**Calling every 4 weeks on Fridays:**
+
+**2016:** 22 January, 19 February, 18 March, 15 April, 13 May, 10 June, 8 July, 5 August, 2 September, 30 September, 28 October, 25 November, 23 December
+
+**2017:** 20 January

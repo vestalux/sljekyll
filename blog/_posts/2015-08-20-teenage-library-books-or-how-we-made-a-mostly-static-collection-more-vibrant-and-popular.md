@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: full-width-narrow
 title: Teenage library books – or how we made a mostly static collection more vibrant and popular
 date: 2015-08-20 12:12:53+00:00
-author: Kate Ashton
+author: kate-ashton
 category: blog
 excerpt: Kate shares how dispersing teenage books throughout the library has made them more popular among teenagers and adults.
+breadcrumb: blog
 ---
 **Kate shares how dispersing teenage books throughout the library has made them more popular among teenagers and adults.**
 
@@ -16,15 +17,19 @@ It’s become something of a personal crusade to get our teenage books issuing m
 
 When our stock unit’s Jo Dixon visited to weed our children’s stock, we had a chat about our teenage library and how we could get more stock issuing. She suggested the radical approach of breaking up the teenage library and moving the stock around. So we did.
 
-I appreciate that in a relatively large library we’ve got the luxury of a bit more space to play around with than in a smaller library, but it’s worth considering. It has also played to our advantage as we recently changed our layout and used the teenage library space for the relocation of some of our IT equipment and our newspaper and reading area.<figure class="figure aligncenter">
+I appreciate that in a relatively large library we’ve got the luxury of a bit more space to play around with than in a smaller library, but it’s worth considering. It has also played to our advantage as we recently changed our layout and used the teenage library space for the relocation of some of our IT equipment and our newspaper and reading area.
 
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2015/08/new-computers-web.jpg" alt="new-computers-web" width="376" height="175" /><figcaption>New computers</figcaption></figure>
+![New computers](/images/article/haverhill-library-new-computers.jpg)
+
+*New computers*
 
 We’ve moved our Younger Teen stock on to its own unit to the edge of our children’s library and our Older Teen stock is at the end of our adult fiction.
 
-They’re still near neighbours so you’ve got that natural progression from Younger Teen to Older Teen, and you can move between the two more easily. Our teenage non-fiction, which was always half a shelf sitting awkwardly at the end of the teenage library, has been carefully moved (with much deliberation on our part) in to either the adult non-fiction section or the children’s non-fiction.<figure class="figure aligncenter">
+They’re still near neighbours so you’ve got that natural progression from Younger Teen to Older Teen, and you can move between the two more easily. Our teenage non-fiction, which was always half a shelf sitting awkwardly at the end of the teenage library, has been carefully moved (with much deliberation on our part) in to either the adult non-fiction section or the children’s non-fiction.
 
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2015/08/new-bookshelf.jpg" alt="Teen fiction integrated into the rest of the stock" width="350" height="467" /><figcaption>Teen fiction integrated into the rest of the stock</figcaption></figure>
+![Teen fiction integrated into the rest of the stock](/images/article/haverhill-library-new-teen-bookshelf.jpg)
+
+*Teen fiction integrated into the rest of the stock*
 
 It was a slow start and we didn’t really notice a change at first, but slowly and surely readers are borrowing more teenage books. There are more gaps on the shelves in both the Younger and Older Teen sections and borrowers are asking us where we’ve moved the stock. We know it’s being used.
 

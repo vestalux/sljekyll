@@ -1,12 +1,13 @@
 ---
-layout: post
+layout: full-width-narrow
 title: Using Access to Research to support A level students
 date: 2015-12-22 09:27:05+00:00
 author: helen-haynes
 category: blog
 excerpt: "Helen shares how A level students studying for their EPQ can use a fantastic free library service to access top quality academic resources. It also helps students focus on a topic when they're not sure what area they want to study."
+breadcrumb: blog
 ---
-I’ve written [a blog on Access to Research](http://suffolklibraries.co.uk/blog/getting-high-quality-academic-research-for-free-with-access-to-research) before. It is a [portal giving free access to the reports and findings of publically-funded research in the UK](http://www.accesstoresearch.org.uk) &#8211; library customers can access this information using a library computer. It’s available to all public library services in the UK and in Suffolk it has been well particularly well used. I thought it would be useful to share how it is being used by some library customers.
+I’ve written a blog post on Access to Research before. It is a [portal giving free access to the reports and findings of publically-funded research in the UK](http://www.accesstoresearch.org.uk) &#8211; library customers can access this information using a library computer. It’s available to all public library services in the UK and in Suffolk it has been well particularly well used. I thought it would be useful to share how it is being used by some library customers.
 
 Students studying for their A levels at Thomas Gainsborough School used Access to Research for some extra help with their Extended Project Qualification (EPQ).
 
@@ -24,114 +25,15 @@ I’m keen to make sure Suffolk stays in the top 10 so if you would be intereste
 
 Just for a flavour here’s the top 10 search terms used in October this year, an eclectic mix I think you’ll agree:
 
-<table>
-  <tr>
-    <th>
-      Rank
-    </th>
-
-    <th>
-      Search term
-    </th>
-  </tr>
-
-  <tr>
-    <td>
-      1
-    </td>
-
-    <td>
-      Paramedic learning styles
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      2
-    </td>
-
-    <td>
-      Interpreting services
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      3
-    </td>
-
-    <td>
-      Model relapse addiction
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      4
-    </td>
-
-    <td>
-      Alcoholism nature nuture
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      5
-    </td>
-
-    <td>
-      Chinese oracle bones
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      6
-    </td>
-
-    <td>
-      Graphene
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      7
-    </td>
-
-    <td>
-      Leadhills
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      8
-    </td>
-
-    <td>
-      Victorian tuberulosis
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      9
-    </td>
-
-    <td>
-      <cite>New Scientist</cite> magazine
-    </td>
-
-    <tr>
-      <td>
-        10
-      </td>
-
-      <td>
-        Process theology
-      </td>
-    </tr>
-  </tr>
-</table>
+| Rank  | Search term                         |
+| ----- |:-----------------------------------:|
+| 1.    | Paramedic learning styles           |
+| 2.    | Interpreting services               |
+| 3.    | Model relapse addiction             |
+| 4.    | Alcoholism nature nurture           |
+| 5.    | Chinese oracle bones                |
+| 6.    | Graphene                            |
+| 7.    | Leadhills                           |
+| 8.    | Victorian tuberulosis               |
+| 9.    | <cite>New Scientist</cite> magazine |
+| 10.   | Process theology                    |

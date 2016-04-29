@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: sidebar-right
 title: Health and wellbeing picks for July 2015
 date: 2015-07-15T10:20:33+00:00
 author: david-grimmer
 category: health
 excerpt: This month looks at <cite>Stonebird</cite> by Mike Revell which deals with dementia, and <cite>Perfect</cite> by Rachel Joyce which includes experiences with OCD.
+breadcrumb: health
 ---
+![Perfect by Rachel Joyce](/images/featured/featured-perfect.jpg)
+
 ## [<cite>Stonebird</cite> by Mike Revell](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9438007?QRY=CTIBIB%3C%20IRN(45622728)&QRYTEXT=Stonebird)
 
 <div class="row">

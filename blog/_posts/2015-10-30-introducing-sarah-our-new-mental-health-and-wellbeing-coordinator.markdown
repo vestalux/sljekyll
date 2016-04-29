@@ -1,13 +1,13 @@
 ---
-layout: post
+layout: full-width-narrow
 title:  Introducing Sarah, our new mental health and wellbeing coordinator
 date:   2015-10-30 10:59:08 +0100
 author: sarah-lungley
 category: blog
 excerpt: In a time where health services are facing cuts and increasing pressure to deliver more, I believe the community is a great place to start when it comes to empowering and encouraging people to improve their wellbeing.
+breadcrumb: blog
 ---
-
-My name is Sarah and I'm the new <a href="http://suffolklibraries.co.uk/community-services/mental-health-information-services">mental health and wellbeing</a> coordinator for Suffolk Libraries. Here is a little bit about me to introduce myself.
+My name is Sarah and I'm the new [mental health and wellbeing coordinator](/health) for Suffolk Libraries. Here is a little bit about me to introduce myself.
 
 Over the last few years I’ve worked in an NHS Mental Health Trust, supporting and coordinating various projects around health and wellbeing, including service redesign, research, writing grant applications and evaluations. I also coordinated a Wellbeing programme called Bounce!, which sat within a Big Lottery Funded portfolio in the East of England.
 

@@ -10,6 +10,10 @@ anna-hradsky:
     name: Anna Hradsky
     job: library and information advisor
 
+booked-out-team:
+    name: the Booked Out team
+    job: podcasters
+
 brandon-king:
     name: Brandon King
     job: stock team
@@ -43,7 +47,7 @@ emma-raindle:
     job: web content editor
 
 germaine-bates:
-    name: Germain Bates
+    name: Germaine Bates
     job: stock assistant
 
 harriet-avery:
@@ -93,7 +97,7 @@ lisa-brennan:
 maddie-smith:
     name: Maddie Smith
     job: Lesley's Readers contributor
-    
+
 matt-shenton:
     name: Matt Shenton
     job: literacy ambassador
