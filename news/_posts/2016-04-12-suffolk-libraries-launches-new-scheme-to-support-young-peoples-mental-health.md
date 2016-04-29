@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: sidebar-right
 title: Suffolk Libraries launches new scheme to support young people’s mental health
 date: 2016-04-12 13:24:42 +00:00
 author: james-powell
 category: news
 excerpt: Suffolk Libraries is getting behind a national scheme to support young people with mental health issues.
+breadcrumb: news
 ---
 Suffolk Libraries is getting behind a national scheme to support young people with mental health issues.
 

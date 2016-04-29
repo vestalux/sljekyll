@@ -10,7 +10,7 @@
 
     <div class="breadcrumb">
 
-        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/events">Events</a> &rarr; {{ page.title }}</p>
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/events-activities">Events and activities</a> &rarr; {{ page.title }}</p>
 
     </div>
 
@@ -35,6 +35,190 @@
     <div class="breadcrumb">
 
         <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/about">About</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% elsif page.breadcrumb == 'member-organisations' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/about">About</a> &rarr; <a href="/about/member-organisations">Member organisations</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% elsif page.breadcrumb == 'documents' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/about">About</a> &rarr; <a href="/about/documents">Documents</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% elsif page.breadcrumb == 'jobs' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/about">About</a> &rarr; <a href="/about/jobs">Jobs</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% elsif page.breadcrumb == 'book-lists' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/new-suggestions">New in and suggestions</a> &rarr; <a href="/new-suggestions/book-lists">Fiction</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% elsif page.breadcrumb == 'book-club-lists' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/new-suggestions">New in and suggestions</a> &rarr; <a href="/new-suggestions/book-club-lists">Book Club lists</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% elsif page.breadcrumb == 'blog' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/blog">Blog</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% elsif page.breadcrumb == 'staff-picks' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/new-suggestions">New in and suggestions</a> &rarr; <a href="/new-suggestions/staff-picks">Staff Picks</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% elsif page.breadcrumb == 'film-lists' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/new-suggestions">New in and suggestions</a> &rarr; <a href="/new-suggestions/film-lists">Films and DVDs</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% elsif page.breadcrumb == 'health' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/health">Mental health information services</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% elsif page.breadcrumb == 'childrens-book-lists' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/new-suggestions">New in and suggestions</a> &rarr; <a href="/new-suggestions/childrens-book-lists">Children's and YA books</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% elsif page.breadcrumb == 'non-fiction-lists' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/new-suggestions">New in and suggestions</a> &rarr; <a href="/new-suggestions/non-fiction-lists">Non-fiction</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% elsif page.breadcrumb == 'interviews' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/interviews">Author interviews</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% elsif page.breadcrumb == 'local-interest' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/new-suggestions">New in and suggestions</a> &rarr; <a href="/new-suggestions/local-interest">Local interest</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% elsif page.breadcrumb == 'music-lists' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/new-suggestions">New in and suggestions</a> &rarr; <a href="/new-suggestions/music-lists">Music</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% elsif page.breadcrumb == 'news' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/news">News</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% elsif page.breadcrumb == 'schools' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/schools-literacy">Schools, literacy and reading</a> &rarr; <a href="/schools-literacy/schools">Literacy, Books and Reading Team for Schools</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% elsif page.breadcrumb == 'literacy' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/schools-literacy">Schools, literacy and reading</a> &rarr; <a href="/schools-literacy/literacy">Beyond the Book</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% elsif page.breadcrumb == 'reading-advice' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/schools-literacy">Schools, literacy and reading</a> &rarr; <a href="/schools-literacy/reading-advice">Reading advice and information</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% elsif page.breadcrumb == 'booked-out' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/new-suggestions">New in and suggestions</a> &rarr; <a href="/new-suggestions/booked-out">Booked out podcast</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% elsif page.breadcrumb == 'new-suggestions' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/new-suggestions">New in and suggestions</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% elsif page.breadcrumb == 'help' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/help">Help using the service</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% elsif page.breadcrumb == 'hub' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/branches">Branches</a> &rarr; <a href="/branches/hub">Enterprise + Innovation Hub</a> &rarr; {{ page.title }}</p>
+
+    </div>
+
+{% elsif page.breadcrumb == 'mobiles-home' %}
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/mobiles-home">Mobile libraries and home library service</a> &rarr; {{ page.title }}</p>
 
     </div>
 

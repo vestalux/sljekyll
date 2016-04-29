@@ -35,7 +35,7 @@
                       <li><a href="/about/board-members/">Board members</a></li>
                       <li><a href="/about/documents/">Documents (including board meeting minutes)</a></li>
                       <li><a href="/about/member-organisations/">Member organisations</a></li>
-                      <li><a href="/jobs/">Jobs</a></li>
+                      <li><a href="/about/jobs/">Jobs</a></li>
 
                   </ul>
 
@@ -56,6 +56,339 @@
                         <li><a href="/elibrary/freegal/">Freegal</a></li>
                         <li><a href="/elibrary/zinio/">Zinio</a></li>
                         <li><a href="/elibrary/3m/">3M Cloud Library</a></li>
+
+                    </ul>
+
+                </section>
+
+            {% endif %}
+
+            {% if page.breadcrumb == 'literacy' %}
+
+                <section class="vbox">
+
+                    <h1 class="vbox-title">About</h1>
+
+                    <p class="vbox-text">My name is Matt Shenton and I am working for Suffolk Libraries as a dedicated ‘Literacy Ambassador’ for the next year. My role is to work with schools, statutory and voluntary organisations and other interested parties to promote reading for pleasure and the importance of literacy to young people and their families in Suffolk.</p>
+
+                    <ul class="vbox-text">
+
+                        <li><a href="/schools-literacy/literacy/">Home</a></li>
+                        <li><a href="/schools-literacy/literacy/schools/">Schools</a></li>
+                        <li><a href="/schools-literacy/literacy/resources/">Resources</a></li>
+                        <li><a href="/schools-literacy/literacy/parents-carers/">Parents/carers</a></li>
+                        <li><a href="/schools-literacy/literacy/cool-links/">Cool links</a></li>
+                        <li><a href="/schools-literacy/literacy/contact/">Contact</a></li>
+
+                    </ul>
+
+                </section>
+
+            {% endif %}
+
+            {% if page.breadcrumb == 'health' %}
+
+                <section class="vbox">
+
+                    <h1 class="vbox-title">About</h1>
+
+                    <p class="vbox-text">My name is Sarah Lungley and I am the coordinator for Suffolk Libraries Mental Health and Wellbeing Information Service. My role is to help provide information on local services and to promote events in our libraries and the community that can support mental health and wellbeing. The service also aims to support our library staff, to ensure they are able to access useful and up-to-date information for our customers should they request it.</p>
+
+                    <p class="vbox-text">Libraries are a fantastic resource, not only for books and information but for community, friendships and fun too. So pop in to your local branch or explore our website to find out more about what we do – we hope to see you soon!</p>
+
+                    <ul class="vbox-text">
+
+                        <li><a href="/health/">Home</a></li>
+                        <li><a href="/health/events/">Events</a></li>
+                        <li><a href="/health/links/">Links</a></li>
+                        <li><a href="/health/contact/">Contact</a></li>
+
+                    </ul>
+
+                </section>
+
+            {% endif %}
+
+            {% if page.breadcrumb == 'news' %}
+
+                <section class="vbox">
+
+                    <h1 class="vbox-title"><a href="/news">Latest news</a></h1>
+
+                    <ul class="vbox-text">
+
+                      <ul class="listing">
+                        {% for post in site.categories.['news'] limit:5 %}
+                          <li>
+                            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                          </li>
+                        {% endfor %}
+                      </ul>
+
+                    </ul>
+
+                </section>
+
+            {% endif %}
+
+
+            {% if page.breadcrumb == 'schools' %}
+
+                <section class="vbox">
+
+                    <h1 class="vbox-title">In this section</h1>
+
+                    <ul class="vbox-text">
+
+                        <li><a href="/schools-literacy/schools">Home</a></li>
+                        <li><a href="/schools-literacy/schools/order-forms">Order forms</a></li>
+                        <li><a href="/schools-literacy/schools/costs">Costs</a></li>
+                        <li><a href="/schools-literacy/schools/about">About</a></li>
+                        <li><a href="/schools-literacy/schools/contact">Contact</a></li>
+
+                    </ul>
+
+                </section>
+
+            {% endif %}
+
+            {% if page.breadcrumb == 'reading-advice' %}
+
+                <section class="vbox">
+
+                    <h1 class="vbox-title">In this section</h1>
+
+                    <ul class="vbox-text">
+
+                        <li><a href="/schools-literacy/reading-advice">Home</a></li>
+                        <li><a href="/schools-literacy/reading-advice/pre-school">Babies, toddlers and pre-school children</a></li>
+                        <li><a href="/schools-literacy/reading-advice/primary-school">Primary school age children</a></li>
+                        <li><a href="/schools-literacy/reading-advice/secondary-school">Teenagers and Young Adults</a></li>
+                        <li><a href="/schools-literacy/reading-advice/dyslexia-irlen">Dyslexia and Irlen syndrome</a></li>
+
+                    </ul>
+
+                </section>
+
+            {% endif %}
+
+            {% if page.breadcrumb == 'new-suggestions' %}
+
+                <section class="vbox">
+
+                    <h1 class="vbox-title">In this section</h1>
+
+                    <ul class="vbox-text">
+
+                        <li><a href="/new-suggestions">Home</a></li>
+                        <li><a href="/new-suggestions/book-lists">Fiction</a></li>
+                        <li><a href="/new-suggestions/non-fiction-lists">Non-fiction</a></li>
+                        <li><a href="/new-suggestions/childrens-book-lists">Children's books</a></li>
+                        <li><a href="/new-suggestions/film-lists">Films and DVDs</a></li>
+                        <li><a href="/new-suggestions/music-lists">Music</a></li>
+                        <li><a href="/new-suggestions/book-club-lists">Book club ideas</a></li>
+                        <li><a href="/new-suggestions/local-interest">Local interest</a></li>
+                        <li><a href="/new-suggestions/staff-picks">Staff picks</a></li>
+                        <li><a href="/new-suggestions/booked-out">Booked Out podcast</a></li>
+
+
+                    </ul>
+
+                </section>
+
+            {% endif %}
+
+            {% if page.breadcrumb == 'film-lists' %}
+
+                <section class="vbox">
+
+                    <h1 class="vbox-title"><a href="/new-suggestions/film-lists">More films and DVDs</a></h1>
+
+                    <ul class="vbox-text">
+
+                      <ul class="listing">
+                        {% for post in site.categories.['film-lists'] limit:5 %}
+                          <li>
+                            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                          </li>
+                        {% endfor %}
+                      </ul>
+
+                    </ul>
+
+                </section>
+
+            {% endif %}
+
+            {% if page.breadcrumb == 'staff-picks' %}
+
+                <section class="vbox">
+
+                    <h1 class="vbox-title"><a href="/new-suggestions/film-lists">More staff picks</a></h1>
+
+                    <ul class="vbox-text">
+
+                      <ul class="listing">
+                        {% for post in site.categories.['staff-picks'] limit:5 %}
+                          <li>
+                            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                          </li>
+                        {% endfor %}
+                      </ul>
+
+                    </ul>
+
+                </section>
+
+            {% endif %}
+
+            {% if page.breadcrumb == 'local-interest' %}
+
+                <section class="vbox">
+
+                    <h1 class="vbox-title"><a href="/new-suggestions/film-lists">More local interest</a></h1>
+
+                    <ul class="vbox-text">
+
+                      <ul class="listing">
+                        {% for post in site.categories.['local-interest'] limit:5 %}
+                          <li>
+                            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                          </li>
+                        {% endfor %}
+                      </ul>
+
+                    </ul>
+
+                </section>
+
+            {% endif %}
+
+            {% if page.breadcrumb == 'booked-out' %}
+
+                <section class="vbox">
+
+                    <h1 class="vbox-title"><a href="/new-suggestions/film-lists">More Booked Out episodes</a></h1>
+
+                    <ul class="vbox-text">
+
+                      <ul class="listing">
+                        {% for post in site.categories.['booked-out'] limit:5 %}
+                          <li>
+                            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                          </li>
+                        {% endfor %}
+                      </ul>
+
+                    </ul>
+
+                </section>
+
+            {% endif %}
+
+            {% if page.breadcrumb == 'book-club-lists' %}
+
+                <section class="vbox">
+
+                    <h1 class="vbox-title"><a href="/new-suggestions/film-lists">More book club ideas</a></h1>
+
+                    <ul class="vbox-text">
+
+                      <ul class="listing">
+                        {% for post in site.categories.['book-club-lists'] limit:5 %}
+                          <li>
+                            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                          </li>
+                        {% endfor %}
+                      </ul>
+
+                    </ul>
+
+                </section>
+
+            {% endif %}
+
+            {% if page.breadcrumb == 'music-lists' %}
+
+                <section class="vbox">
+
+                    <h1 class="vbox-title"><a href="/new-suggestions/music-lists">More music</a></h1>
+
+                    <ul class="vbox-text">
+
+                      <ul class="listing">
+                        {% for post in site.categories.['music-lists'] limit:5 %}
+                          <li>
+                            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                          </li>
+                        {% endfor %}
+                      </ul>
+
+                    </ul>
+
+                </section>
+
+            {% endif %}
+
+            {% if page.breadcrumb == 'childrens-book-lists' %}
+
+                <section class="vbox">
+
+                    <h1 class="vbox-title"><a href="/new-suggestions/childrens-book-lists">More children's books</a></h1>
+
+                    <ul class="vbox-text">
+
+                      <ul class="listing">
+                        {% for post in site.categories.['childrens-book-lists'] limit:5 %}
+                          <li>
+                            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                          </li>
+                        {% endfor %}
+                      </ul>
+
+                    </ul>
+
+                </section>
+
+            {% endif %}
+
+            {% if page.breadcrumb == 'book-lists' %}
+
+                <section class="vbox">
+
+                    <h1 class="vbox-title"><a href="/new-suggestions/book-lists">More fiction books</a></h1>
+
+                    <ul class="vbox-text">
+
+                      <ul class="listing">
+                        {% for post in site.categories.['book-lists'] limit:5 %}
+                          <li>
+                            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                          </li>
+                        {% endfor %}
+                      </ul>
+
+                    </ul>
+
+                </section>
+
+            {% endif %}
+
+            {% if page.breadcrumb == 'non-fiction-lists' %}
+
+                <section class="vbox">
+
+                    <h1 class="vbox-title"><a href="/new-suggestions/non-fiction-lists">More non-fiction books</a></h1>
+
+                    <ul class="vbox-text">
+
+                      <ul class="listing">
+                        {% for post in site.categories.['non-fiction-lists'] limit:5 %}
+                          <li>
+                            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                          </li>
+                        {% endfor %}
+                      </ul>
 
                     </ul>
 

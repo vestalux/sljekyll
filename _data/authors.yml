@@ -10,17 +10,65 @@ anna-hradsky:
     name: Anna Hradsky
     job: library and information advisor
 
+booked-out-team:
+    name: the Booked Out team
+    job: podcasters
+
 brandon-king:
     name: Brandon King
     job: stock team
+
+charlotte-clark:
+    name: Charlotte Clark
+    job: Southwold Library manager
 
 charmain-osborne:
     name: Charmain Osborne
     job: assistant manager for Ipswich County Library
 
+chris-howard:
+    name: Chris Howard
+    job: Lakenheath Library manager
+
+daniel-harvey:
+    name: Daniel Harvey
+    job: community lead
+
+david-grimmer:
+    name: David Grimmer
+    job: health and wellbeing information coordinator
+
+debra-rowe:
+    name: Debra Rowe
+    job: library and information advisor
+
 emma-raindle:
     name: Emma Raindle
     job: web content editor
+
+germaine-bates:
+    name: Germaine Bates
+    job: stock assistant
+
+harriet-avery:
+    name: Harriet Avery
+    job: library and information advisor
+
+helen-haynes:
+    name: Helen Haynes
+    job: information and content librarian
+
+helen-scrivener:
+    name: Helen Scrivener
+    job: Woodbridge Library manager
+
+henry-evans:
+    name: Henry Evans
+    job: IT systems analyst
+
+henry-golding:
+    name: Henry Golding
+    job: library and information advisor
 
 james-powell:
     name: James Powell
@@ -30,13 +78,37 @@ jo-dixon:
     name: Jo Dixon
     job: stock team
 
+julie-wheeler:
+    name: Julie Wheeler
+    job: library and information advisor
+
+kate-ashton:
+    name: Kate Ashton
+    job: Newmarket Library manager
+
 leon-paternoster:
     name: Leon Paternoster
     job: deputy head of IT
 
+lisa-brennan:
+    name: Lisa Brennan
+    job: information and content librarian
+
+maddie-smith:
+    name: Maddie Smith
+    job: Lesley's Readers contributor
+
 matt-shenton:
     name: Matt Shenton
     job: literacy ambassador
+
+nicky-evans:
+    name: Nicky Evans
+    job: IT projects manager
+
+richard-baker:
+    name: Richard Baker
+    job: library and information advisor
 
 sarah-jenkins:
     name: Sarah Jenkins
@@ -45,3 +117,11 @@ sarah-jenkins:
 sarah-lungley:
     name: Sarah Lungley
     job: mental health and wellbeing co-ordinator
+
+sarah-watt:
+    name: Sarah Watt
+    job: customer service advisor
+
+sophie-green:
+    name: Sophie Green
+    job: Woodbridge Library assistant manager

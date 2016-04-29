@@ -1,0 +1,286 @@
+<!doctype html>
+
+<html lang="en-gb">
+
+<head>
+
+	<!-- LEON GET RID OF THIS LINE ON LIVE -->
+	<meta name='robots' content='noindex,nofollow' />
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<!--[if lt IE 9]>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+	<![endif]-->
+
+    <link rel="stylesheet" href="/css/main.css">
+
+    <title>Looking at building new library self-service software &#8211; Suffolk Libraries</title>
+
+	<script src="/js/app.js"></script>
+
+</head>
+
+<body>
+
+	<div class="accessibility hide">
+
+		<ul>
+
+			<li><a href="#content">Skip to content</a></li>
+			<li><a href="#nav">Skip to main navigation menu</a></li>
+			<li><a href="#uni-nav">Skip to tools menu</a></li>
+
+		</ul>
+
+	</div>
+
+	<header class="topbar topbar-purple clearfix" id="site-header">
+
+		<nav id="uni-nav">
+
+			<div class="g-row">
+
+				<div class="g-w-left g-w-col4">
+
+					<h1 class="topbar-title"><a rel="home" href="/" class="icon icon-home-white"><span class="weight-semib">Suffolk</span> <span class="weight-normal">Libraries</span></a></h1>
+
+				</div>
+
+				<div><a class="toggle-button icon icon-search-white" href="#">Search</a></div>
+
+				<div class="toggle hide">
+
+				<!-- 
+
+					<li class="h-nav-item"><a href="https://suffolk.spydus.co.uk/" class="h-nav-link icon icon-search-white">Search &amp; reserve</a></li>
+					<li class="h-nav-item"><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/LOGINB" class="h-nav-link icon icon-lock-white">Login &amp; renew</a></li>
+					<li class="h-nav-item"><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/JOIN" class="h-nav-link icon icon-card-white">Apply for a card</a></li>
+					<li class="h-nav-item"><a href="#" class="h-nav-link icon icon-info-white">Help</a></li>
+					<li class="h-nav-item"><a href="#" class="h-nav-link icon icon-phone-white">Contact</a></li>
+
+				 -->
+
+					<div class="g-w-right g-w-align-right g-w-col8">
+
+						<form id="searchform" class="pure-form pure-form-custom" action="<?php echo esc_url( home_url( '/' ) ); ?>" method="get">
+
+							<input id="s" type="search" name="s" value=""></input>
+							<input id="searchsubmit" type="submit" class="pure-button pure-button-custom" value="Search"></input>
+
+						</form>
+
+					</div>
+
+				</div>
+
+			</div> <!-- end .g-row -->
+
+		</nav> <!-- end #uni-nav -->
+
+	</header>
+
+
+
+
+    <div class="g-row">
+
+        <div class="g-w-right g-w-col12">
+
+            <main id="content" class="clearfix bg bg-white" role="main">
+
+                
+
+                    
+
+    <div class="breadcrumb">
+
+        <p><a class="icon icon-home" href="/">Home</a> &rarr; <a href="/blog">Blog</a> &rarr; Looking at building new library self-service software</p>
+
+    </div>
+
+
+
+
+                
+
+                <article class="entry">
+
+                    <div class="inner-wrapper">
+
+                        <div class="entry-header">
+
+                            <h1 class="entry-title">Looking at building new library self-service software</h1>
+
+                        </div>
+
+                        <div class="entry-content">
+
+                            <p>Last week we spent 5 days with digital agency <a href="http://clearleft.com/">Clearleft</a> exploring how we might develop new self-service machine software for libraries (this short, intensive way of working is known as a <em>sprint</em>).</p>
+
+<p>We’re replacing the self-service machines customers use to check out and return books in libraries. The machines were installed about 8 years ago (in this respect libraries are years ahead of supermarkets).</p>
+
+<p><img src="/images/article/self-service-unit.jpg" alt="A self-service machine" /></p>
+
+<p><em>One of our existing self service machines.</em></p>
+
+<p>A lot has changed in the last 8 years – in 2008 there was no such thing as an iPad and the world wasn’t quite as connected to the internet as it is now.</p>
+
+<p>Over the last few weeks, the IT team has been discussing what a new self-service system might look like. We want something a lot more portable, cheaper, device agnostic and easy to manage than the current system. All this led us to conclude that some sort of web app might be the best approach, rather than, say, a Windows client (which is what we have at the moment) or an Android app.</p>
+
+<p>There’s a longterm business advantage in keeping our hardware, software and library management system (LMS) <em>decoupled</em> (a word we used a lot during the week). It’s cheaper to buy, cuts long term costs and is easier to manage. We also get more flexibility in how and where we deploy self-service machines (we could take self-service out of the library to customers, for example).</p>
+
+<p>At this stage we felt we needed an expert opinion. Was this really the right approach? If so, what might a web app look like? What problems might we run into? How do we go about this project?</p>
+
+<p>Before working with Clearleft we sent them our own research and thoughts on self-service, including a report from a staff workshop we’d run a couple of weeks beforehand. We’d agreed some basic outputs we wanted from the week; namely, a feasibility report and perhaps some sort of sketch of what a web app could look like.</p>
+
+<p>I’d also arranged for several staff members and volunteers to turn up on the Monday morning. What we were going to do I wasn’t sure.</p>
+
+<p><img src="/images/article/james-and-jeremy.jpg" alt="James Bates and Jeremy Keith" /></p>
+
+<p><em>Clearleft’s James Bates and Jeremy Keith.</em></p>
+
+<p>You’ve probably heard terms like <em>agile</em>, <em>lean</em> and <em>sprint</em> before: this was, I guess, agile in action. It’s a good process as you react to whatever you discover, rather than try to squeeze your findings into a predefined structure. You don’t want to simply reinforce your initial ideas, however attached you are to them; instead, you’re looking to test them and throw them out if necessary.</p>
+
+<p>And a sprint has a definite end product. It avoids projects getting bogged down.</p>
+
+<p>James did most the facilitation, using a mix of visual and verbal activities, often strictly timed. For example, we were asked to note down 8 ideas for self-service, which could be as practical or science fiction as we liked (I rather liked my book wayfinding idea – one for the future, perhaps). We then chose two of these to sketch and got the rest of the group to critique them.</p>
+
+<p><img src="/images/article/interface-sketches.jpg" alt="Interface sketches" /></p>
+
+<p><em>Some of the interface ideas we came up with.</em></p>
+
+<p>The final stage involved assigning all the sketched ideas points based on how important we felt they were. This gave us the basis for our proposed product, which Clearleft suggest we divide into minimal viable product (MVP), phase 2 and backlog sections. The MVP is what you release first, and then build on.</p>
+
+<p>We did a <em>lot</em> of work over the week (it was a sprint, after all). Jeremy looked into a javascript library that uses a device’s camera to recognise barcodes, but found it wasn’t <em>quite</em> ready (unfortunately – getting rid of peripheral devices makes the whole web app approach a lot easier, and reduces our hardware costs).</p>
+
+<p>However, we did establish we could use an API rather than the SIP protocol (really good news – it means we can use simple, secure https to connect to the LMS, while accessing all the data we hold on borrowers and titles). James produced some clickable prototypes that helped everyone picture what our own self-service app might actually look like:</p>
+
+<p><img src="/images/article/prototype.jpg" alt="An iPad next to a self-service machine" /></p>
+
+<p><em>An early self-service prototype.</em></p>
+
+<p>We now have a choice of new self-service machine options; from buying traditional, larger units from existing suppliers, to building something more portable and flexible. Perhaps this is the future of self-service in libraries?</p>
+
+
+                        </div>
+
+                    </div>
+
+                </article>
+
+            </main>
+
+        </div>
+
+    </div> <!-- end .g-row -->
+
+        <footer id="footer" class="site-footer">
+
+            <div class="bg bg-text bg-dark content-band">
+
+                <div class="g-row">
+
+                    <div class="g-w-col4 g-w-left">
+
+                        <section class="nib-box">
+
+                            <h1 class="nib-box-title">Contact us</h1>
+
+                            <ul class="no-bullet">
+
+                                <li><a href="tel:01473263838" class="h-nav-link icon icon-phone-white">01473 263838</a></li>
+        						<li><a href="mailto:help@suffolklibraries.co.uk" class="h-nav-link icon icon-email-white">help@suffolklibraries.co.uk</a></li>
+
+                            </ul>
+
+                        </section>
+
+                        <section class="nib-box">
+
+                            <h1 class="nib-box-title">Social media</h1>
+
+                            <ul class="no-bullet">
+
+        						<li><a href="http://twitter.com/suffolklibrary" class="h-nav-link icon icon-twitter-white">Twitter</a></li>
+        						<li><a href="http://facebook.com/suffolklibraries" class="h-nav-link icon icon-facebook-white">Facebook</a></li>
+
+                            </ul>
+
+                        </section>
+
+                    </div>
+
+                    <div class="g-w-col4 g-w-left">
+
+                        <section class="nib-box">
+
+                            <h1 class="nib-box-title">Do it online</h1>
+
+                            <ul class="no-bullet">
+
+                                <li><a href="https://suffolk.spydus.co.uk" class="icon icon-search-white">Search &amp; reserve</a></li>
+                                <li><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/LOGINB" class="icon icon-lock-white">Login &amp; renew</a></li>
+                                <li><a class="icon icon-tablet-white" href="/elibrary">eLibrary</a></li>
+                                <li><a href="#" class="icon icon-card-white">Apply for or renew a card</a></li>
+
+
+                            </ul>
+
+                        </section>
+
+                    </div>
+
+                    <div class="g-w-col4 g-w-left">
+
+                        <section class="nib-box">
+
+                            <h1 class="nib-box-title">Privacy &amp; cookies</h1>
+
+                            <p>By using our site you agree to our use of cookies. Find out what cookies we use, how they affect you and how you can control them.</p>
+
+                        </section>
+
+                        <section class="nib-box">
+
+                            <h1 class="nib-box-title">Test layout pages</h1>
+
+                            <ul>
+
+                                <li><a href="/example-layouts/example-sidebar-left">Example sidebar left</a></li>
+                                <li><a href="/example-layouts/example-sidebar-right">Example sidebar right</a></li>
+                                <li><a href="/example-layouts/example-article-full">Example full width page</a></li>
+                                <li><a href="/example-layouts/example-article-full-narrow">Example full width page with narrow inner</a></li>
+                                <li><a href="/example-layouts/example-form">Example Wu Forms HTML form</a></li>
+
+                            </ul>
+
+                        </section>
+
+                        <section class="nib-box">
+
+                            <h1 class="nib-box-title">Examples</h1>
+
+                            <ul>
+
+                                <li><a href="/branches/lowestoft-library.html">Lowestoft Library</a></li>
+                                <li><a href="/events/a-past-event.html">A past event</a></li>
+                                <li><a href="/events/a-test-event.html">A test event</a></li>
+
+                            </ul>
+
+                        </section>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </footer>
+
+    </body>
+
+</html>
+
