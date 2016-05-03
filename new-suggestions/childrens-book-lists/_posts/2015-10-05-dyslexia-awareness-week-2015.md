@@ -3,9 +3,9 @@ layout: sidebar-right
 title: Dyslexia Awareness Week 2015
 date: 2015-10-05 19:36:56+00:00
 author: jo-dixon
-category: non-fiction-lists
+category: childrens-books
 excerpt: October 5-11 is <a href="http://www.bdadyslexia.org.uk/fundraising/dyslexia-awareness-week">Dyslexia Awareness Week</a>. Picture books, joke books, poetry, and non-fiction can all help dyslexic children improve their literacy. <a href="http://suffolklibraries.co.uk/reading-lists-groups-advice/dyslexia-and-irlen-syndrome">Find out more about dyslexia.</a>
-breadcrumb: childrens-book-lists
+breadcrumb: childrens-books
 ---
 ![I spy a great reader by Jackie French](/images/featured/featured-i-spy-a-great-reader.jpg)
 

@@ -182,7 +182,7 @@
 
                         <li><a href="/new-suggestions">Home</a></li>
                         <li><a href="/new-suggestions/fiction">Fiction</a></li>
-                        <li><a href="/new-suggestions/non-fiction-lists">Non-fiction</a></li>
+                        <li><a href="/new-suggestions/non-fiction">Non-fiction</a></li>
                         <li><a href="/new-suggestions/childrens-book-lists">Children's books</a></li>
                         <li><a href="/new-suggestions/film-lists">Films and DVDs</a></li>
                         <li><a href="/new-suggestions/music">Music</a></li>
@@ -374,16 +374,16 @@
 
             {% endif %}
 
-            {% if page.breadcrumb == 'non-fiction-lists' %}
+            {% if page.breadcrumb == 'non-fiction' %}
 
                 <section class="vbox">
 
-                    <h1 class="vbox-title"><a href="/new-suggestions/non-fiction-lists">More non-fiction books</a></h1>
+                    <h1 class="vbox-title"><a href="/new-suggestions/non-fiction">More non-fiction books</a></h1>
 
                     <ul class="vbox-text">
 
                       <ul class="listing">
-                        {% for post in site.categories.['non-fiction-lists'] limit:5 %}
+                        {% for post in site.categories.['non-fiction'] limit:5 %}
                           <li>
                             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                           </li>
