@@ -48,10 +48,10 @@ breadcrumb: home
 
             <section class="vbox">
 
-                <h1 class="vbox-title"><a href="/new-suggestions/childrens">Children's books</a></h1>
+                <h1 class="vbox-title"><a href="/new-suggestions/childrens-ya-books">Children's and YA books</a></h1>
 
                 <p class="vbox-text">
-                  {% for post in site.categories.['childrens-book-lists'] limit:3 %}
+                  {% for post in site.categories.['childrens-ya-books'] limit:3 %}
                     <li>
                       <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> {{ post.date | date: "%b %-d, %Y" }}</p>
                     </li>
