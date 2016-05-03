@@ -88,10 +88,10 @@ breadcrumb: home
 
             <section class="vbox">
 
-                <h1 class="vbox-title"><a href="/new-suggestions/music-lists">Music</a></h1>
+                <h1 class="vbox-title"><a href="/new-suggestions/music">Music</a></h1>
 
                 <p class="vbox-text">
-                  {% for post in site.categories.['music-lists'] limit:3 %}
+                  {% for post in site.categories.['music'] limit:3 %}
                     <li>
                       <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> {{ post.date | date: "%b %-d, %Y" }}</p>
                     </li>
