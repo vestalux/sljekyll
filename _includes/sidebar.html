@@ -63,28 +63,6 @@
 
             {% endif %}
 
-            {% if page.sidebar == 'literacy' %}
-
-                <section class="vbox">
-
-                    <h1 class="vbox-title">About</h1>
-
-                    <p class="vbox-text">My name is Matt Shenton and I am working for Suffolk Libraries as a dedicated ‘Literacy Ambassador’ for the next year. My role is to work with schools, statutory and voluntary organisations and other interested parties to promote reading for pleasure and the importance of literacy to young people and their families in Suffolk.</p>
-
-                    <ul class="vbox-text">
-
-                        <li><a href="/schools-literacy/literacy/">Home</a></li>
-                        <li><a href="/schools-literacy/literacy/schools/">Schools</a></li>
-                        <li><a href="/schools-literacy/literacy/resources/">Resources</a></li>
-                        <li><a href="/schools-literacy/literacy/parents-carers/">Parents/carers</a></li>
-                        <li><a href="/schools-literacy/literacy/cool-links/">Cool links</a></li>
-                        <li><a href="/schools-literacy/literacy/contact/">Contact</a></li>
-
-                    </ul>
-
-                </section>
-
-            {% endif %}
 
             {% if page.sidebar == 'health' %}
 
@@ -131,8 +109,30 @@
 
             {% endif %}
 
+            {% if page.sidebar == 'literacy' %}
 
-            {% if page.breadcrumb == 'schools' %}
+                <section class="vbox">
+
+                    <h1 class="vbox-title">About</h1>
+
+                    <p class="vbox-text">My name is Matt Shenton and I am working for Suffolk Libraries as a dedicated ‘Literacy Ambassador’ for the next year. My role is to work with schools, statutory and voluntary organisations and other interested parties to promote reading for pleasure and the importance of literacy to young people and their families in Suffolk.</p>
+
+                    <ul class="vbox-text">
+
+                        <li><a href="/schools-literacy/literacy/">Home</a></li>
+                        <li><a href="/schools-literacy/literacy/schools/">Schools</a></li>
+                        <li><a href="/schools-literacy/literacy/resources/">Resources</a></li>
+                        <li><a href="/schools-literacy/literacy/parents-carers/">Parents/carers</a></li>
+                        <li><a href="/schools-literacy/literacy/cool-links/">Cool links</a></li>
+                        <li><a href="/schools-literacy/literacy/contact/">Contact</a></li>
+
+                    </ul>
+
+                </section>
+
+            {% endif %}
+
+            {% if page.sidebar == 'schools' %}
 
                 <section class="vbox">
 
@@ -152,7 +152,7 @@
 
             {% endif %}
 
-            {% if page.breadcrumb == 'reading-advice' %}
+            {% if page.sidebar == 'reading-advice' %}
 
                 <section class="vbox">
 
