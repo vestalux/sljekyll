@@ -11,8 +11,6 @@ breadcrumb: book-club-ideas
 
 ## [<cite>Caleb&#8217;s crossing</cite> by Geraldine Brooks](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13555877?QRY=CTIBIB%3C%20IRN(257733)&QRYTEXT=Caleb%27s%20crossing)
 
-[![Caleb&#8217;s crossing by Geraldine Brooks](http://suffolklibraries.co.uk/wp-content/uploads/2014/03/calebs-crossing.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13555877?QRY=CTIBIB%3C%20IRN(257733)&QRYTEXT=Caleb%27s%20crossing)
-
 Martha’s Vineyard, 1650s: Bethia Mayfield is a young girl growing up in the tiny settlement of Great Harbor, amid a small band of pioneers and Puritans. Restless, bright and curious, but denied the education that her brothers receive, she slips away as often as she can to explore the island’s wild landscapes and observe its native Wampanoag inhabitants. At the age of twelve, she encounters Caleb, the young son of a chieftain, and the children form a secret friendship that gradually draws each into the alien world of the other.
 
 ## [<cite>The death of the heart</cite> by Elizabeth Bowen](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13556247?QRY=CTIBIB%3C%20IRN(531458)&QRYTEXT=The%20death%20of%20the%20heart)
