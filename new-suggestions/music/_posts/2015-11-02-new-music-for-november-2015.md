@@ -29,7 +29,7 @@ Third studio album from the all conquering Ellie Goulding. Follow-up to 2012’s
 
 ## [<cite>Dark sky island</cite> by Enya](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/24234294?QRY=CTIBIB%3C%20IRN(57599178)&QRYTEXT=Dark%20sky%20island%20%5Bsound%20recording%5D)
 
-[![Dark sky island by Enya](/images/article/darkskyisland.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/24234294?QRY=CTIBIB%3C%20IRN(57599178)&QRYTEXT=Dark%20sky%20island%20%5Bsound%20recording%5D)
+[![Dark sky island by Enya](/images/article/dark-sky-island.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/24234294?QRY=CTIBIB%3C%20IRN(57599178)&QRYTEXT=Dark%20sky%20island%20%5Bsound%20recording%5D)
 
 75 million sales, four Grammy Awards, six World Music Awards, an Ivor Novello, an Oscar nomination, a Golden Globe nomination and seven studio albums. Enya’s latest album is as hypnotic and otherworldly as you would expect.
 
