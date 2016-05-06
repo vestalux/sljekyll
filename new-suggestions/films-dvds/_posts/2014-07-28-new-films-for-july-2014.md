@@ -29,7 +29,7 @@ Academy Award-nominated adaptation of the popular novel by Marcus Zusak starring
 
 High-octane action starring Aaron Paul. Framed for manslaughter by his wealthy ex-partner Dino (Dominic Cooper), mechanic Tobey Marshall (Paul) is unjustly sent to prison for two years. Upon his release, he sets out to gain revenge by rejoining the underground racing scene.
 
-## [Escape from Planet Earth</cite>](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/43315330?QRY=CTIBIB%3C%20IRN%2839945601%29&QRYTEXT=Escape%20from%20planet%20earth%20[videorecording])
+## [<cite>Escape from Planet Earth</cite>](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/43315330?QRY=CTIBIB%3C%20IRN%2839945601%29&QRYTEXT=Escape%20from%20planet%20earth%20[videorecording])
 
 Children&#8217;s animated adventure featuring the voice talents of Brendan Fraser, Rob Corddry and William Shatner.
 
