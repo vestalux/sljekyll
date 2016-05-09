@@ -7,7 +7,7 @@ breadcrumb: events
 
 We run groups for older people and their families and carers. You can just drop in for a chat or join theatre groups, do arts and crafts and find out about local history. We also offer advice and information.
 
-<table>
+<table class="pure-table">
 <thead>
 <tr>
 <td>Library</td>

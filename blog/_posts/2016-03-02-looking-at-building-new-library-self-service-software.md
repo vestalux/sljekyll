@@ -37,7 +37,7 @@ And a sprint has a definite end product. It avoids projects getting bogged down.
 
 James did most the facilitation, using a mix of visual and verbal activities, often strictly timed. For example, we were asked to note down 8 ideas for self-service, which could be as practical or science fiction as we liked (I rather liked my book wayfinding idea – one for the future, perhaps). We then chose two of these to sketch and got the rest of the group to critique them.
 
-![Interface sketches](/images/article/interface-sketches.jpg)
+![Interface sketches](/images/article/clearleft-interface-sketches.jpg)
 
 *Some of the interface ideas we came up with.*
 
@@ -47,7 +47,7 @@ We did a _lot_ of work over the week (it was a sprint, after all). Jeremy looked
 
 However, we did establish we could use an API rather than the SIP protocol (really good news – it means we can use simple, secure https to connect to the LMS, while accessing all the data we hold on borrowers and titles). James produced some clickable prototypes that helped everyone picture what our own self-service app might actually look like:
 
-![An iPad next to a self-service machine](/images/article/prototype.jpg)
+![An iPad next to a self-service machine](/images/article/clearleft-prototype.jpg)
 
 *An early self-service prototype.*
 

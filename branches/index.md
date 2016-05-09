@@ -2,10 +2,9 @@
 layout: full-width
 title: Branches
 breadcrumb: home
-sidebar: 1
 ---
 
-<table>
+<table class="pure-table">
 
     <thead>
 

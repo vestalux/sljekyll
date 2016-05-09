@@ -8,7 +8,7 @@ All Suffolk Libraries offer free internet access and informal advice on getting 
 If you have a library card number and a PIN you can [book a computer online](http://netloan.suffolklibraries.co.uk).
 
 Some libraries offer free one to one computer and internet training:
-<table>
+<table class="pure-table">
 <thead>
 <tr>
 <th>Location</th>

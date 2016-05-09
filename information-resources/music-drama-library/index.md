@@ -1,0 +1,84 @@
+---
+layout: sidebar-right
+title: 'Music &amp; drama library'
+breadcrumb: information-resources
+sidebar: information-resources
+---
+# Contact details
+
+Music & Drama Library
+
+County Library
+
+Northgate Street
+
+Ipswich
+
+IP1 3DE
+
+Tel 01473 263830
+
+Email: **music.drama.library@suffolklibraries.co.uk**
+
+For groups, orchestras, bands, repertory companies, dramatic societies, play reading circles or individuals. Check the [https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/BSEARCH](online catalogue) to find out what is available.
+
+# How to use the music & drama library
+
+## Joining
+
+Contact us for a membership form.
+
+If you&#8217;re in a group, choose someone to use the library card. Bring your form to the library, with proof of identity (e.g. driving licence) and some official group documentation, such as headed paper or a concert or play programme, along with the annual subscription fee (see below). We&#8217;ll issue you with a group library card.
+
+## Borrowing titles
+
+Borrow, reserve or collect titles from us or any library in Suffolk. Tell us your maximum loan period so we can plan lending to other groups. Overdue charges are payable on all titles returned late (see below).
+
+## Advance bookings
+
+We welcome advance bookings. Tell us what you need and the date required.
+
+## Getting titles we don&#8217;t stock
+
+We will try and buy new copies or request them from another music library in the UK. A customer request charge is payable (see below).
+
+## Performance rights and royalty payments
+
+Plays are not necessarily released for amateur performance. Please make sure you have applied to the publisher and obtained permission to perform the play. Royalty payments are usually payable on any music or play performed publicly. Contact the publisher or the MCPS &#8211; PRS Alliance (Mechanical-Copyright Protection Society and Performing Right Society) at an early stage of your production.
+
+## Copying scores and plays
+
+Under the Copyright, Designs & Patent Act 1988, all unauthorised copies are illegal, whether made by machine or by hand. We will try and provide you with sufficient copies for your needs.
+
+## Borrows and returns
+
+* Remove any pencil markings your group may have made on copies
+* Check the number of parts before you take them away
+* Return all parts in the listed order
+* If any parts are lost or damaged, please let us know as soon as possible. If you can replace them with new or good condition copies of the same edition, this would help us greatly. If not, a charge will be made as we will need to purchase a replacement
+* We would appreciate an acknowledgement in your programme
+
+# Charges
+
+| Subscriptions per annum | Suffolk Groups | Non-Suffolk Groups |
+| ----------------------- | -------------- | ------------------ |
+| Music and Drama Library | £1.75 per member per annum (minimum £10.50) | £3.50 per member per annum (minimum £35.00) |
+| Members of the Schools’ Library Service (LBaRTS) | £50.00 | £100.00 |
+
+| Charges | Loan period | Loan charge | Overdue charge | Maximum overdue charge |
+| ------- | ----------- | ----------- | -------------- | ---------------------- |
+| Play sets | 12 weeks | £4.75 | 50p per day | £24.50 |
+| Plays on approval | 1 week | £1.10 | 50p per day | £24.50 |
+| Band music sets | 12 weeks | £9.45 | 50p per day | £24.50 |
+| Chamber music sets | 12 weeks | £4.00 | 50p per day | £24.50 |
+| Orchestral music sets | 12 weeks | £10.50 | 50p per day | £24.50 |
+| Vocal score sets | 12 weeks | £4.75 | 50p per day | £24.50 |
+| Vocal score sets in folders | 12 weeks | £1.55 | 50p per day | £24.50 |
+
+**Note:** If sets are returned incomplete, there will be an administration charge of £6.50 for each incomplete set.
+
+## Customer Request Charges
+
+For music sets or play sets not in stock, which are requested from libraries outside Suffolk: £10.00 each set, £20.00 if supplied by more than one authority.
+
+If items have not been returned, overdue notices are sent after the 4th and 7th week, and a bill for replacement is sent after the 10th week. The bill includes the overdue charge as well as the replacement cost.

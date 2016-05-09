@@ -13,7 +13,7 @@ Telephone: 01473 263838
 
 ## Route timetable
 
-<table>
+<table class="pure-table">
   <tr>
     <td>
       <strong>Stop</strong>

@@ -11,7 +11,7 @@ breadcrumb: events
 
 See your <a href="/branches">local library page</a> for details of when your group meets:
 
-<table>
+<table class="pure-table">
 <thead>
 <tr>
 <td>Library</td>

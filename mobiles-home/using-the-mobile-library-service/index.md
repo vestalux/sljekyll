@@ -17,7 +17,7 @@ Books on mobile libraries can be borrowed for 8 weeks. If you don&#8217;t return
 
 ### Charges
 
-<table>
+<table class="pure-table">
   <tr>
     <td>
       <strong>Media type</strong>
