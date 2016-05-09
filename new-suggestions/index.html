@@ -12,10 +12,10 @@ breadcrumb: home
 
             <section class="vbox">
 
-                <h1 class="vbox-title"><a href="/new-suggestions/book-lists">Fiction</a></h1>
+                <h1 class="vbox-title"><a href="/new-suggestions/fiction">Fiction</a></h1>
 
                 <p class="vbox-text">
-                  {% for post in site.categories.['book-lists'] limit:3 %}
+                  {% for post in site.categories.['fiction'] limit:3 %}
                     <li>
                       <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> {{ post.date | date: "%b %-d, %Y" }}</p>
                     </li>
@@ -30,10 +30,10 @@ breadcrumb: home
 
             <section class="vbox">
 
-                <h1 class="vbox-title"><a href="/new-suggestions/non-fiction-lists">Non-fiction</a></h1>
+                <h1 class="vbox-title"><a href="/new-suggestions/non-fiction">Non-fiction</a></h1>
 
                 <p class="vbox-text">
-                  {% for post in site.categories.['non-fiction-lists'] limit:3 %}
+                  {% for post in site.categories.['non-fiction'] limit:3 %}
                     <li>
                       <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> {{ post.date | date: "%b %-d, %Y" }}</p>
                     </li>
@@ -48,10 +48,10 @@ breadcrumb: home
 
             <section class="vbox">
 
-                <h1 class="vbox-title"><a href="/new-suggestions/childrens-book-lists">Children's books</a></h1>
+                <h1 class="vbox-title"><a href="/new-suggestions/childrens-ya-books">Children's and YA books</a></h1>
 
                 <p class="vbox-text">
-                  {% for post in site.categories.['childrens-book-lists'] limit:3 %}
+                  {% for post in site.categories.['childrens-ya-books'] limit:3 %}
                     <li>
                       <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> {{ post.date | date: "%b %-d, %Y" }}</p>
                     </li>
@@ -70,10 +70,10 @@ breadcrumb: home
 
             <section class="vbox">
 
-                <h1 class="vbox-title"><a href="/new-suggestions/film-lists">Films and DVDs</a></h1>
+                <h1 class="vbox-title"><a href="/new-suggestions/films-dvds">Films and DVDs</a></h1>
 
                 <p class="vbox-text">
-                  {% for post in site.categories.['film-lists'] limit:3 %}
+                  {% for post in site.categories.['films-dvds'] limit:3 %}
                     <li>
                       <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> {{ post.date | date: "%b %-d, %Y" }}</p>
                     </li>
@@ -88,10 +88,10 @@ breadcrumb: home
 
             <section class="vbox">
 
-                <h1 class="vbox-title"><a href="/new-suggestions/music-lists">Music</a></h1>
+                <h1 class="vbox-title"><a href="/new-suggestions/music">Music</a></h1>
 
                 <p class="vbox-text">
-                  {% for post in site.categories.['music-lists'] limit:3 %}
+                  {% for post in site.categories.['music'] limit:3 %}
                     <li>
                       <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> {{ post.date | date: "%b %-d, %Y" }}</p>
                     </li>
@@ -106,10 +106,10 @@ breadcrumb: home
 
             <section class="vbox">
 
-                <h1 class="vbox-title"><a href="/new-suggestions/book-club-lists">Book club ideas</a></h1>
+                <h1 class="vbox-title"><a href="/new-suggestions/book-club-ideas">Book club ideas</a></h1>
 
                 <p class="vbox-text">
-                  {% for post in site.categories.['book-club-lists'] limit:3 %}
+                  {% for post in site.categories.['book-club-ideas'] limit:3 %}
                     <li>
                       <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> {{ post.date | date: "%b %-d, %Y" }}</p>
                     </li>
