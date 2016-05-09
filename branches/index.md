@@ -4,7 +4,7 @@ title: Branches
 breadcrumb: home
 ---
 
-<table>
+<table class="pure-table">
 
     <thead>
 

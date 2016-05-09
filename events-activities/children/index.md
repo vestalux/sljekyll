@@ -16,7 +16,7 @@ Most Suffolk libraries run activity sessions and events for children:
 * <strong>Craft activities</strong>: for primary school age children
 
 # Library activities
-<table>
+<table class="pure-table">
 <thead>
 <tr>
 <td>Library</td>
@@ -554,7 +554,7 @@ Most Suffolk libraries run activity sessions and events for children:
 </table>
 
 # Outreach activities
-<table>
+<table class="pure-table">
 <thead>
 <tr>
 <td>Outreach activities</td>

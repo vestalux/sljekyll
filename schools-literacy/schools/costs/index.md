@@ -13,7 +13,7 @@ Select and collect your own stock from the Suffolk Libraries collection with a s
 Our experienced staff use their specialist knowledge of children’s titles and the curriculum to choose for you. We'll also deliver directly to your school.
 
 <h1>Primary schools</h1>
-<table>
+<table class="pure-table">
 <thead>
 <tr>
 <th>Element</th>
@@ -133,7 +133,7 @@ Our experienced staff use their specialist knowledge of children’s titles and 
 </table>
 
 <h1>Secondary schools</h1>
-<table>
+<table class="pure-table">
 <thead>
 <tr>
 <th>Element</th>
