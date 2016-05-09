@@ -63,30 +63,8 @@
 
             {% endif %}
 
-            {% if page.breadcrumb == 'literacy' %}
 
-                <section class="vbox">
-
-                    <h1 class="vbox-title">About</h1>
-
-                    <p class="vbox-text">My name is Matt Shenton and I am working for Suffolk Libraries as a dedicated ‘Literacy Ambassador’ for the next year. My role is to work with schools, statutory and voluntary organisations and other interested parties to promote reading for pleasure and the importance of literacy to young people and their families in Suffolk.</p>
-
-                    <ul class="vbox-text">
-
-                        <li><a href="/schools-literacy/literacy/">Home</a></li>
-                        <li><a href="/schools-literacy/literacy/schools/">Schools</a></li>
-                        <li><a href="/schools-literacy/literacy/resources/">Resources</a></li>
-                        <li><a href="/schools-literacy/literacy/parents-carers/">Parents/carers</a></li>
-                        <li><a href="/schools-literacy/literacy/cool-links/">Cool links</a></li>
-                        <li><a href="/schools-literacy/literacy/contact/">Contact</a></li>
-
-                    </ul>
-
-                </section>
-
-            {% endif %}
-
-            {% if page.breadcrumb == 'health' %}
+            {% if page.sidebar == 'health' %}
 
                 <section class="vbox">
 
@@ -131,8 +109,30 @@
 
             {% endif %}
 
+            {% if page.sidebar == 'literacy' %}
 
-            {% if page.breadcrumb == 'schools' %}
+                <section class="vbox">
+
+                    <h1 class="vbox-title">About</h1>
+
+                    <p class="vbox-text">My name is Matt Shenton and I am working for Suffolk Libraries as a dedicated ‘Literacy Ambassador’ for the next year. My role is to work with schools, statutory and voluntary organisations and other interested parties to promote reading for pleasure and the importance of literacy to young people and their families in Suffolk.</p>
+
+                    <ul class="vbox-text">
+
+                        <li><a href="/schools-literacy/literacy/">Home</a></li>
+                        <li><a href="/schools-literacy/literacy/schools/">Schools</a></li>
+                        <li><a href="/schools-literacy/literacy/resources/">Resources</a></li>
+                        <li><a href="/schools-literacy/literacy/parents-carers/">Parents/carers</a></li>
+                        <li><a href="/schools-literacy/literacy/cool-links/">Cool links</a></li>
+                        <li><a href="/schools-literacy/literacy/contact/">Contact</a></li>
+
+                    </ul>
+
+                </section>
+
+            {% endif %}
+
+            {% if page.sidebar == 'schools' %}
 
                 <section class="vbox">
 
@@ -152,7 +152,7 @@
 
             {% endif %}
 
-            {% if page.breadcrumb == 'reading-advice' %}
+            {% if page.sidebar == 'reading-advice' %}
 
                 <section class="vbox">
 
@@ -181,12 +181,12 @@
                     <ul class="vbox-text">
 
                         <li><a href="/new-suggestions">Home</a></li>
-                        <li><a href="/new-suggestions/book-lists">Fiction</a></li>
-                        <li><a href="/new-suggestions/non-fiction-lists">Non-fiction</a></li>
-                        <li><a href="/new-suggestions/childrens-book-lists">Children's books</a></li>
-                        <li><a href="/new-suggestions/film-lists">Films and DVDs</a></li>
-                        <li><a href="/new-suggestions/music-lists">Music</a></li>
-                        <li><a href="/new-suggestions/book-club-lists">Book club ideas</a></li>
+                        <li><a href="/new-suggestions/fiction">Fiction</a></li>
+                        <li><a href="/new-suggestions/non-fiction">Non-fiction</a></li>
+                        <li><a href="/new-suggestions/childrens-ya-books">Children's and YA books</a></li>
+                        <li><a href="/new-suggestions/films-dvds">Films and DVDs</a></li>
+                        <li><a href="/new-suggestions/music">Music</a></li>
+                        <li><a href="/new-suggestions/book-club-ideas">Book club ideas</a></li>
                         <li><a href="/new-suggestions/local-interest">Local interest</a></li>
                         <li><a href="/new-suggestions/staff-picks">Staff picks</a></li>
                         <li><a href="/new-suggestions/booked-out">Booked Out podcast</a></li>
@@ -198,16 +198,16 @@
 
             {% endif %}
 
-            {% if page.breadcrumb == 'film-lists' %}
+            {% if page.breadcrumb == 'films-dvds' %}
 
                 <section class="vbox">
 
-                    <h1 class="vbox-title"><a href="/new-suggestions/film-lists">More films and DVDs</a></h1>
+                    <h1 class="vbox-title"><a href="/new-suggestions/films-dvds">More films and DVDs</a></h1>
 
                     <ul class="vbox-text">
 
                       <ul class="listing">
-                        {% for post in site.categories.['film-lists'] limit:5 %}
+                        {% for post in site.categories.['films-dvds'] limit:5 %}
                           <li>
                             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                           </li>
@@ -286,16 +286,16 @@
 
             {% endif %}
 
-            {% if page.breadcrumb == 'book-club-lists' %}
+            {% if page.breadcrumb == 'book-club-ideas' %}
 
                 <section class="vbox">
 
-                    <h1 class="vbox-title"><a href="/new-suggestions/film-lists">More book club ideas</a></h1>
+                    <h1 class="vbox-title"><a href="/new-suggestions/book-club-ideas">More book club ideas</a></h1>
 
                     <ul class="vbox-text">
 
                       <ul class="listing">
-                        {% for post in site.categories.['book-club-lists'] limit:5 %}
+                        {% for post in site.categories.['book-club-ideas'] limit:5 %}
                           <li>
                             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                           </li>
@@ -308,16 +308,16 @@
 
             {% endif %}
 
-            {% if page.breadcrumb == 'music-lists' %}
+            {% if page.breadcrumb == 'music' %}
 
                 <section class="vbox">
 
-                    <h1 class="vbox-title"><a href="/new-suggestions/music-lists">More music</a></h1>
+                    <h1 class="vbox-title"><a href="/new-suggestions/music">More music</a></h1>
 
                     <ul class="vbox-text">
 
                       <ul class="listing">
-                        {% for post in site.categories.['music-lists'] limit:5 %}
+                        {% for post in site.categories.['music'] limit:5 %}
                           <li>
                             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                           </li>
@@ -330,16 +330,16 @@
 
             {% endif %}
 
-            {% if page.breadcrumb == 'childrens-book-lists' %}
+            {% if page.breadcrumb == 'childrens-ya-books' %}
 
                 <section class="vbox">
 
-                    <h1 class="vbox-title"><a href="/new-suggestions/childrens-book-lists">More children's books</a></h1>
+                    <h1 class="vbox-title"><a href="/new-suggestions/childrens-ya-books">More children's and YA books</a></h1>
 
                     <ul class="vbox-text">
 
                       <ul class="listing">
-                        {% for post in site.categories.['childrens-book-lists'] limit:5 %}
+                        {% for post in site.categories.['childrens-ya-books'] limit:5 %}
                           <li>
                             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                           </li>
@@ -352,16 +352,16 @@
 
             {% endif %}
 
-            {% if page.breadcrumb == 'book-lists' %}
+            {% if page.breadcrumb == 'fiction' %}
 
                 <section class="vbox">
 
-                    <h1 class="vbox-title"><a href="/new-suggestions/book-lists">More fiction books</a></h1>
+                    <h1 class="vbox-title"><a href="/new-suggestions/fiction">More fiction books</a></h1>
 
                     <ul class="vbox-text">
 
                       <ul class="listing">
-                        {% for post in site.categories.['book-lists'] limit:5 %}
+                        {% for post in site.categories.['fiction'] limit:5 %}
                           <li>
                             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                           </li>
@@ -374,21 +374,40 @@
 
             {% endif %}
 
-            {% if page.breadcrumb == 'non-fiction-lists' %}
+            {% if page.breadcrumb == 'non-fiction' %}
 
                 <section class="vbox">
 
-                    <h1 class="vbox-title"><a href="/new-suggestions/non-fiction-lists">More non-fiction books</a></h1>
+                    <h1 class="vbox-title"><a href="/new-suggestions/non-fiction">More non-fiction books</a></h1>
 
                     <ul class="vbox-text">
 
                       <ul class="listing">
-                        {% for post in site.categories.['non-fiction-lists'] limit:5 %}
+                        {% for post in site.categories.['non-fiction'] limit:5 %}
                           <li>
                             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                           </li>
                         {% endfor %}
                       </ul>
+
+                    </ul>
+
+                </section>
+
+            {% endif %}
+
+            {% if page.sidebar == 'information-resources' %}
+
+                <section class="vbox">
+
+                    <h1 class="vbox-title">In this section</h1>
+
+                    <ul class="vbox-text">
+
+                        <li><a href="/information-resources/">Home</a></li>
+                        <li><a href="/information-resources/music-drama-library">Music and Drama Library</a></li>
+                        <li><a href="/information-resources/online-reference-resources">Online reference resources</a></li>
+                        <li><a href="/information-resources/special-collections">Special collections</a></li>
 
                     </ul>
 
