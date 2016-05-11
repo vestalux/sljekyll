@@ -9,6 +9,8 @@ breadcrumb: fiction
 ---
 ![My dear I wanted to tell you by Louisa Young](/images/featured/featured-my-dear-i-wanted-to-tell-you.jpg)
 
+## Sarah Jenkins&#8217; review:
+
 Set at home and on the Western front during World War I, <cite>My dear I wanted to tell you</cite> is a book about love and war. However, it is so much more. When I first started to read this book I did get slightly irritated by its concentration on the art world and some rather stereotypical characters and their sexual tastes. At points it seemed to be trying to shock. However, on reflection this does set up the characters in pre-war England and leads directly to the reason why Riley Purefoy, the main character, joins up.
 
 The writing, once war starts, is riveting and puts the reader not only in the middle of the horrors of the front but also the trials and tribulations of those left behind. This is the first book I have read about World War I which really gives a fully rounded and realistic portrayal of women; those who became nurses and those who tried to cope at home with no husband, whose husbands were the very reason for their existence in the upper levels of society. As much as I disliked Julia and her selfish obsession with her looks, the way this is played against the terrifying battle scars of the men at the front who were sent home with unimaginable disfigurements was ingenious. Both the men and Julia undergo various treatments both awful in their own ways, albeit Julia&#8217;s self-inflicted.
@@ -24,6 +26,8 @@ We are going to read lots about the First World War — both fiction and fact �
 The first part of the book introduces us to the characters including young Riley Purefoy who comes from a working class family but manages to weedle his way into a bohemian artist&#8217;s family in Bayswater where he falls in love with Nadine. The title of the book comes from the forms that were sent home by soldiers when they were injured — and the second half of the book tells how Riley copes (or doesn’t) when the lower part of his face is blown off. I didn’t realise that it was during WWI that plastic surgery was pioneered – many men had awful injuries caused when they stuck their heads above the trench and Louisa Young includes some fascinating information in the story.
 
 I’ve already heard that this period in our history was when society changed and that becomes clear as the wife Julia tries to find a reason for her life rather than just being a wife, Rose loves working (as a nurse) and Nadine breaks all the rules by sleeping with Riley.
+
+[Reserve <cite>My dear I wanted to tell you</cite> by Louisa Young from our libraries.](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20568597?QRY=CTIBIB%3C%20IRN(267382)&QRYTEXT=My%20dear%20I%20wanted%20to%20tell%20you)
 
 ## If you enjoyed <cite>My dear I wanted to tell you</cite> by Louisa Young you might like:
 

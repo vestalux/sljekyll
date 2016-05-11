@@ -9,39 +9,39 @@ breadcrumb: fiction
 ---
 ![Elly Griffiths](/images/featured/featured-elly-griffiths.jpg)
 
-## [<cite>The Zig Zag Girl</cite> by Elly Griffiths](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5550853?QRY=CTIBIB%3C%20IRN(42385521)&QRYTEXT=The%20zig%20zag%20girl)
+## [<cite>The Zig Zag girl</cite> by Elly Griffiths](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5550853?QRY=CTIBIB%3C%20IRN(42385521)&QRYTEXT=The%20zig%20zag%20girl)
 
-[![The Zig Zag Girl by Elly Griffiths](/images/article/the-zig-zag-girl.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5550853?QRY=CTIBIB%3C%20IRN(42385521)&QRYTEXT=The%20zig%20zag%20girl)
+[![The Zig Zag girl by Elly Griffiths](/images/article/the-zig-zag-girl.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5550853?QRY=CTIBIB%3C%20IRN(42385521)&QRYTEXT=The%20zig%20zag%20girl)
 
 Detective Inspector Edgar Stephens finds the body of a girl cut into three, which reminds him of the magic trick the Zig Zag Girl. The inventor of the trick, Max Mephisto, is reluctant to help Edgar investigate the case, but when he finds out he knew the girl, he changes his mind.
 
-## [<cite>Some Luck</cite> by Jane Smiley](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5553412?QRY=CTIBIB%3C%20IRN(766439)&QRYTEXT=Some%20luck)
+## [<cite>Some luck</cite> by Jane Smiley](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5553412?QRY=CTIBIB%3C%20IRN(766439)&QRYTEXT=Some%20luck)
 
-[![Some Luck by Jane Smiley](/images/article/some-luck.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5553412?QRY=CTIBIB%3C%20IRN(766439)&QRYTEXT=Some%20luck)
+[![Some luck by Jane Smiley](/images/article/some-luck.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5553412?QRY=CTIBIB%3C%20IRN(766439)&QRYTEXT=Some%20luck)
 
 Denby, Iowa &#8211; the setting of Smiley&#8217;s Pulitzer Prize-winning book <cite>A Thousand Acres</cite> &#8211; is revisited in this family saga spanning the 1920s to the 1950s, as the first instalment of a trilogy spanning over a century.
 
-## [<cite>Emma</cite> by Alexander McCall Smith](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5555380?QRY=CTIBIB%3C%20IRN(12322192)&QRYTEXT=Emma)
+## [<cite>Emma</cite> by Alexander McCall Smith](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20602939?QRY=CTIBIB%3C%20IRN(47113410)&QRYTEXT=Emma)
 
-[![Emma by Alexander McCall Smith](/images/article/emma-mccall-smith.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5555380?QRY=CTIBIB%3C%20IRN(12322192)&QRYTEXT=Emma)
+[![Emma by Alexander McCall Smith](/images/article/emma-mccall-smith.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20602939?QRY=CTIBIB%3C%20IRN(47113410)&QRYTEXT=Emma)
 
 In this modern retelling of the Jane Austen classic, Emma arrives from university back home to Norfolk as a big fish in a little pond. However, there is only one person who can play with Emma’s indestructible confidence, her friend and neighbour George Knightly &#8211; this time has Emma finally met her match?
 
-## [<cite>Funny Girl</cite> by Nick Hornby](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5559316?QRY=CTIBIB%3C%20IRN(1235692)&QRYTEXT=Funny%20girl)
+## [<cite>Funny girl</cite> by Nick Hornby](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5559316?QRY=CTIBIB%3C%20IRN(1235692)&QRYTEXT=Funny%20girl)
 
-[![Funny Girl by Nick Hornby](/images/article/funny-girl.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5559316?QRY=CTIBIB%3C%20IRN(1235692)&QRYTEXT=Funny%20girl)
+[![Funny girl by Nick Hornby](/images/article/funny-girl.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5559316?QRY=CTIBIB%3C%20IRN(1235692)&QRYTEXT=Funny%20girl)
 
 Set in the 1960s, a Blackpool-comedienne, Sophie Shaw, lands her own TV show. However, as life imitates art, tensions arise within the cast and crew. Hornby explores the dramatic social change of the era.
 
-## [<cite>A Twist of the Knife</cite> by Peter James](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5562143?QRY=CTIBIB%3C%20IRN(833960)&QRYTEXT=A%20twist%20of%20the%20knife)
+## [<cite>A twist of the knife</cite> by Peter James](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5562143?QRY=CTIBIB%3C%20IRN(833960)&QRYTEXT=A%20twist%20of%20the%20knife)
 
-[![A Twist of the Knife by Peter James](/images/article/a-twist-of-the-knife.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5562143?QRY=CTIBIB%3C%20IRN(833960)&QRYTEXT=A%20twist%20of%20the%20knife)
+[![A twist of the knife by Peter James](/images/article/a-twist-of-the-knife.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5562143?QRY=CTIBIB%3C%20IRN(833960)&QRYTEXT=A%20twist%20of%20the%20knife)
 
 Combines short story collections <cite>Short Shockers One</cite> and <cite>Short Shockers Two</cite> with new material. From a story of ghostly terror to the first ever case of his best-loved Detective, Roy Grace, James makes us question how well we can trust ourselves, and each other.
 
-## [<cite>The American Lover</cite> by Rose Tremain](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5565259?QRY=CTIBIB%3C%20IRN(42385360)&QRYTEXT=The%20American%20lover)
+## [<cite>The American lover</cite> by Rose Tremain](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20604115?QRY=CTIBIB%3C%20IRN(57311737)&QRYTEXT=The%20American%20lover%20and%20other%20stories)
 
-[![The American Lover by Rose Tremain](/images/article/the-american-lover.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5565259?QRY=CTIBIB%3C%20IRN(42385360)&QRYTEXT=The%20American%20lover)
+[![The American lover by Rose Tremain](/images/article/the-american-lover.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20604115?QRY=CTIBIB%3C%20IRN(57311737)&QRYTEXT=The%20American%20lover%20and%20other%20stories)
 
 The current Chancellor of the University of East Anglia releases a diverse collection of short stories, from a love affair in 1960s Paris to a Canadian lakeside retreat.
 

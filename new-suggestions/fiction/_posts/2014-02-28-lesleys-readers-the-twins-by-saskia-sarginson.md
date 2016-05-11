@@ -9,6 +9,8 @@ breadcrumb: fiction
 ---
 ![The twins by Saskia Sarginson](/images/featured/featured-the-twins.jpg)
 
+## Sarah Jenkins&#8217; review:
+
 <cite>The twins</cite> is a really gripping read that keeps you guessing until nearly the end about what happens in the twins&#8217; childhood that affects the rest of their lives. The characters of Isolte and Viola are extremely well drawn and I really felt as though I knew them, in childhood in the 1970s and in adulthood in the 1980s.
 
 It is not always an easy read as the themes are sometimes quite dark but it keeps you hooked. The hairs on the back of my neck stood up when I was reading about &#8216;the incident&#8217; in their childhood.
@@ -20,6 +22,8 @@ The ending is abrupt and I had to reread the last 2 pages to get a handle on it.
 ## Gill Charlton&#8217;s review:
 
 An enjoyable book, with good twists both in the Polly story and in the death of Michael. Being a twin myself, I can say that Saskia has got a good grip on the twin relationship — like Issy and Viola, we were always being asked if we could tell what the other twin was thinking or doing, and her description of the twins meeting Michael and John for the first time took me back to my school days when we met another pair of twins for the first time – quite a shock to the system when you are used to being unique! I would have liked the book to have finished with Viola meeting John again, but perhaps that is best left to the imagination! Overall, I enjoyed reading the book, and the story kept me captivated right to the end.
+
+[Reserve <cite>The twins</cite> by Saskia Sarginson from our libraries.](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20548847?QRY=CTIBIB%3C%20IRN(9467)&QRYTEXT=The%20twins)
 
 ## If you enjoyed <cite>The twins</cite> by Saskia Sarginson you might like:
 

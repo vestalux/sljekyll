@@ -23,7 +23,7 @@ Could the abduction be linked to the long-dead Mother Hook? Ruth is pulled into 
 
 Set against the backdrop of World War II, this novel follows on from _Belle_ and _The Promise_ telling the story of Belle&#8217;s daughter.
 
-## [The farm by Tom Rob Smith](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4197244?QRY=CTIBIB%3C%20IRN(463309)&QRYTEXT=The%20farm)
+## [<cite>The farm</cite> by Tom Rob Smith](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4197244?QRY=CTIBIB%3C%20IRN(463309)&QRYTEXT=The%20farm)
 
 Tom Rob Smith’s first novel, _Child 44_, was awarded the 2008 Ian Fleming Steel Dagger for best thriller of the year by the Crime Writers&#8217; Association, named on the long list for the 2008 Man Booker Prize, nominated for the 2008 Costa First Novel Award (former Whitbread). In July, 2009, he won the Waverton Good Read Award for first novels and the Galaxy Book Award for Best Newcomer.
 

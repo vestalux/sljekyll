@@ -9,7 +9,7 @@ breadcrumb: fiction
 ---
 ![The telling error by Sophie Hannah](/images/featured/featured-the-telling-error.jpg)
 
-## [<cite>The temporary gentleman</cite> by Sebastian Barry](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19934005?QRY=CTIBIB%3C%20IRN(38358297)&QRYTEXT=The%20temporary%20gentleman%20%3A%20a%20novel)
+## [<cite>The temporary gentleman</cite> by Sebastian Barry](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20562272?QRY=CTIBIB%3C%20IRN(1497183)&QRYTEXT=The%20temporary%20gentleman)
 
 Jack McNulty is a temporary gentleman, an Irishman whose commission in the British army in the Second World War was never permanent. In 1957, sitting in his lodgings in Accra, he urgently sets out to write his story.
 
@@ -58,11 +58,3 @@ But the death of a homeless man and the disappearance of his daughter draw the h
 <cite>The House at Old Vine</cite> is the second in a trilogy of novels by Norah Lofts about the inhabitants of a country house in Suffolk from the late 14th century to the middle of the 20th.
 
 Covering the turbulent period 1496–1680, it follows 6 generations of the descendants of Martin Reed, who founded the &#8216;House&#8217; dynasty through his act of rebellion in The Town House, through persecution, war and revolution, from the era of Christopher Columbus to the Restoration of Charles II.
-
-## [<cite>The Good Thief&#8217;s Guide to Berlin</cite> by Chris Ewan](http://suffolklibraries.lib.overdrive.com/8E8923A8-8E02-4058-A3F1-CDDEA660165A/10/50/en/ContentDetails.htm?id=15CDCA4E-3797-4367-B47A-DF2ED26CAE32) (eBook)
-
-You can&#8217;t keep a good thief down. Charlie Howard – mystery writer and professional burglar-for-hire – is back in the saddle, robbing the people of Berlin blind.
-
-But his larcenous binge is about to be interrupted by a call to duty – on behalf of Her Majesty&#8217;s Government. A sensitive item has been stolen from inside the British embassy in Berlin. 4 employees are suspected of the theft and Charlie is hired to discreetly break into each of their homes, identify the guilty culprit and steal the item back.
-
-There&#8217;s just one problem: the item is so sensitive that Charlie can&#8217;t be told what it is. But how do you find something when you don&#8217;t know what you&#8217;re searching for? And what do you do if you witness a murder during your first break in?
