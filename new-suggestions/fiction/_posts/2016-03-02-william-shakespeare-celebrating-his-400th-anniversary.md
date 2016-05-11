@@ -4,7 +4,7 @@ title: 'William Shakespeare: Celebrating his 400th anniversary'
 date: 2016-03-02 10:32:03+00:00
 author: brandon-king
 category: fiction
-excerpt: '<a href="http://shakespeareweek.org.uk/">Shakespeare Week</a> runs from 14-20 March. Take a look at how the Bard has influenced books, film and music until the modern day.'
+excerpt: 'Shakespeare Week runs from 14-20 March. Take a look at how the Bard has influenced books, film and music until the modern day.'
 breadcrumb: fiction
 ---
 ![William Shakespeare](/images/featured/featured-william-shakespeare.jpg)

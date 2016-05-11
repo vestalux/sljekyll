@@ -4,7 +4,7 @@ title: Quick Reads for 2016
 date: 2016-01-21 09:28:22+00:00
 author: brandon-king
 category: fiction
-excerpt: '<a href="http://www.quickreads.org.uk/">Quick Reads</a>, the publisher of short accessible titles written by popular authors, celebrates its 10th anniversary this year.'
+excerpt: 'Quick Reads, the publisher of short accessible titles written by popular authors, celebrates its 10th anniversary this year.'
 breadcrumb: fiction
 ---
 ![Too good to be true by Ann Cleeves, The anniversary by Various authors and The double clue and other Hercule Poirot stories by Agatha Christie](/images/featured/featured-quick-reads-2016.jpg)

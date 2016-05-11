@@ -4,7 +4,7 @@ title: Fiction at Edinburgh International Book Festival 2015
 date: 2015-08-05 08:20:19+00:00
 author: emma-raindle
 category: fiction
-excerpt: <a href="https://www.edbookfest.co.uk/">Edinburgh International Book Festival</a> is the largest bookfest in the world, running 15-31 August 2015. Here are a selection of fiction authors appearing at the festival.'
+excerpt: Edinburgh International Book Festival is the largest bookfest in the world, running 15-31 August 2015. Here are a selection of fiction authors appearing at the festival.'
 breadcrumb: fiction
 ---
 ![Galina Petrovna's three-legged dog story by Andrea Bennett](/images/featured/featured-galina-petrovnas-three-legged-dog-story.jpg)

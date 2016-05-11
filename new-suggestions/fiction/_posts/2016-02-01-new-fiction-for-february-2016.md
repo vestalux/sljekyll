@@ -12,6 +12,7 @@ breadcrumb: fiction
 ## [<cite>The woman in blue</cite> by Elly Griffiths](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13919727?QRY=CTIBIB%3C%20IRN(60138274)&QRYTEXT=The%20woman%20in%20blue)
 
 [![The woman in blue by Elly Griffiths](/images/article/the-woman-in-blue.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13919727?QRY=CTIBIB%3C%20IRN(60138274)&QRYTEXT=The%20woman%20in%20blue)
+
 Ruth Galloway, Forensic Archaeologist returns. When a young woman is murdered in Walsingham, Nelson and Ruth get involved in a case which takes in a clinic for drug addictions, a poison pen letter campaign against women priests, and the religious and mythical history of Walsingham.
 
 ## [<cite>Death of a nurse</cite> by M C Beaton](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13923991?QRY=CTIBIB%3C%20IRN(57962352)&QRYTEXT=Death%20of%20a%20nurse)
@@ -62,8 +63,8 @@ From the author of the Booker Prize winning <cite>Life of Pi</cite> comes the st
 
 Penultimate book in <cite>The Clifton Chronicles</cite>. Harry Clifton remains determined to get Anatoly Babakov released from a gulag in Siberia. Harry&#8217;s wife, Emma, convinces her new friend Margaret Thatcher to raise the subject with the Russian president when she visits Moscow. But then something unexpected happens that none of them could have anticipated.
 
-## [<cite>The stopped heart</cite> by Julie Myerson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13941628?QRY=CTIBIB%3C%20IRN(57963010)&QRYTEXT=The%20stopped%20heart)
+## [<cite>The stopped heart</cite> by Julie Myerson](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20676065?QRY=CTIBIB%3C%20IRN(62309752)&QRYTEXT=The%20stopped%20heart)
 
-[![The stopped heart by Julie Myerson](/images/article/the-stopped-heart.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13941628?QRY=CTIBIB%3C%20IRN(57963010)&QRYTEXT=The%20stopped%20heart)
+[![The stopped heart by Julie Myerson](/images/article/the-stopped-heart.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20676065?QRY=CTIBIB%3C%20IRN(62309752)&QRYTEXT=The%20stopped%20heart)
 
 A beautifully written, yet chilling, novel of psychological suspense explores the tragedies, past and present haunting a Suffolk country cottage. This is one you will not be able to put down.

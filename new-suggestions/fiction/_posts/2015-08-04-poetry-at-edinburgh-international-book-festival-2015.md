@@ -4,7 +4,7 @@ title: Poetry at Edinburgh International Book Festival 2015
 date: 2015-08-04 12:36:35+00:00
 author: emma-raindle
 category: fiction
-excerpt: <a href="https://www.edbookfest.co.uk/">Edinburgh International Book Festival</a> is the largest bookfest in the world, running 15-31 August 2015. Here are a selection of poets appearing at the festival.
+excerpt: Edinburgh International Book Festival is the largest bookfest in the world, running 15-31 August 2015. Here are a selection of poets appearing at the festival.
 breadcrumb: fiction
 ---
 ![Shingle street by Blake Morrison](/images/featured/featured-shingle-street.jpg)

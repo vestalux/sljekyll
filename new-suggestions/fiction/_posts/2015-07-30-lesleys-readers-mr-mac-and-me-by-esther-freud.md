@@ -4,10 +4,12 @@ title: 'Lesley&#8217;s Readers: Mr Mac and me by Esther Freud'
 date: 2015-07-30 08:55:33+00:00
 author: maddie-smith
 category: fiction
-excerpt: We’re discussing <cite>Mr Mac and Me</cite> by Esther Freud with Lesley Dolphin on BBC Radio Suffolk at 2.30pm on Monday 3 August. <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/17932537?QRY=CTIBIB%3C%20IRN(40362836)&QRYTEXT=Mr%20Mac%20and%20me">Reserve a copy.</a>
+excerpt: We’re discussing <cite>Mr Mac and Me</cite> by Esther Freud with Lesley Dolphin on BBC Radio Suffolk at 2.30pm on Monday 3 August.
 breadcrumb: fiction
 ---
 ![Mr Mac and me by Esther Freud](/images/featured/featured-mr-mac-and-me.jpg)
+
+## Maddie Smith&#8217;s review:
 
 Split between acting as a biography, eulogy and fictional tale is Esther Freud’s newest novel, <cite>Mr Mac and Me</cite>. Based on the life of the artist and architect Charles Rennie Mackintosh, Freud’s novel follows Mackintosh’s life after his move to Suffolk in 1914. With beautiful descriptions of the Suffolk coastline and quaint depictions of the seaside towns of Walberswick and Southwold, [<cite>Mr Mac and Me</cite> has earned itself a New Angle Prize nomination](http://www.ipswichinstitute.org.uk/NAP.html).
 
@@ -21,8 +23,10 @@ The warfare overseas has a ubiquitous presence in the novel. It is responsible f
 
 <cite>Mr Mac and Me</cite> is a beautifully written and evocative novel that exposes the life of Charles Rennie Mackintosh with great passion. It is sad to reflect upon the truth in the novel, of Mackintosh’s inability to achieve success in his lifetime, but also inspiring that he posthumously achieved critical acclaim. Freud does a fantastic job of merging together a biographical account with fictional characters and has created a novel that has friendship at its heart.
 
-## Lesley&#8217;s review
+## Lesley Dolphin&#8217;s review
 
 I found this book fascinating for two reasons; it’s a beautifully told story rooted firmly in Suffolk and it adds detail to the intriguing story of Charles Rennie Mackintosh&#8217;s short stay on the Suffolk coast. I had heard that he&#8217;d left the county after coming under suspicion of being a German spy, but didn&#8217;t know any of the detail and Esther Freud has filled in many of the gaps with her meticulous research, both about the famous architect and about life here in Suffolk at the start of the First World War.
 
 I was lucky enough to be in conversation with Esther at the Felixstowe Book Festival when she told us how she&#8217;d really struggled until the young boy Thomas Maggs appeared. He narrates the story which tells of his friendship with Mackintosh and his wife. It&#8217;s a beautiful tale but also a sad biography &#8211; I had no idea that Charles Rennie Mackintosh wasn&#8217;t really appreciated during his lifetime.
+
+[Reserve <cite>Mr Mac and me</cite> by Esther Freud from our libraries.](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/17932537?QRY=CTIBIB%3C%20IRN(40362836)&QRYTEXT=Mr%20Mac%20and%20me)

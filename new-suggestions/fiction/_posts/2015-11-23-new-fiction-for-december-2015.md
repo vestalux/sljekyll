@@ -9,9 +9,9 @@ breadcrumb: fiction
 ---
 ![Tom Clancy's commander-in-chief by Mark Greaney](/images/featured/featured-tom-clancy-commander-in-chief.jpg)
 
-## [<cite>Tom Clancy&#8217;s commander-in-chief</cite> by Mark Greaney](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12831079?QRY=CTIBIB%3C%20IRN(54089896)&QRYTEXT=Tom%20Clancy%27s%20commander-in-chief)
+## [<cite>Tom Clancy&#8217;s commander-in-chief</cite> by Mark Greaney](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20673589?QRY=CTIBIB%3C%20IRN(59641496)&QRYTEXT=Tom%20Clancy%27s%20Commander%20in%20chief)
 
-[![Tom Clancy's commander-in-chief by Mark Greaney](/images/article/tom-clancys-commander-in-chief.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12831079?QRY=CTIBIB%3C%20IRN(54089896)&QRYTEXT=Tom%20Clancy%27s%20commander-in-chief)
+[![Tom Clancy's commander-in-chief by Mark Greaney](/images/article/tom-clancys-commander-in-chief.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20673589?QRY=CTIBIB%3C%20IRN(59641496)&QRYTEXT=Tom%20Clancy%27s%20Commander%20in%20chief)
 
 Tom Clancy died in October 2013 and his last collaborator Mark Greaney continues the franchise. Jack Ryan is presented with another deadly mission in the latest thriller.
 

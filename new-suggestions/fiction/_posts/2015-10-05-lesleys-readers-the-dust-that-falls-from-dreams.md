@@ -9,6 +9,8 @@ breadcrumb: fiction
 ---
 ![The dust that falls from dreams by Louis de Bernières](/images/featured/featured-the-dust-that-falls-from-dreams.jpg)
 
+## Nicky Evans&#8217; review:
+
 Hamilton McCosh is an adventurous businessman inventor with four grown-up daughters: Rosie, Christabel, Sophie and Ottlie. Along with Mrs McCosh and a staff of servants, they live an idyllic upper middle-class lifestyle before World War One. As children, the girls live next door to the Perdennis family and the Pitts. They are best friends with the sons of each family, and together they make up “The Pals”. Through de Bernières&#8217; writing the reader is taken on an epic journey before, during and after World War One, from the genteel town of Eltham to the skies of France and the hills of Sri Lanka.
 
 One of the most interesting characters is the matriarch of the house, Mrs McCosh. She believes that upholding good manners and class division is more important than understanding the emotions and thoughts of those around her. Whilst she is irritating, several facts about her life and outlook draw in the reader. For one thing, she gleans most of her behaviour and actions from royalty and nobility which lends itself to great comic effect—shown particularly in her letters to the King.
@@ -29,4 +31,4 @@ The reader must keep track of many lives throughout this novel, and de Bernière
 
 Louis de Bernières is ambitious in his approach, and he writes clearly about themes such as class, sexuality, age and war which are made all the more complicated by the rapid change from a feudal system into a more meritocratic society. If you want to know more about how the war impacts on civilian life during World War One, this is a fantastic book to read.
 
-[Reserve your copy of <cite>The dust that falls from dreams</cite> by Louis de Bernières](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/15583807?QRY=CTIBIB%3C%20IRN(50447908)&QRYTEXT=The%20dust%20that%20falls%20from%20dreams)
+[Reserve <cite>The dust that falls from dreams</cite> by Louis de Bernières from our libraries](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/15583807?QRY=CTIBIB%3C%20IRN(50447908)&QRYTEXT=The%20dust%20that%20falls%20from%20dreams)

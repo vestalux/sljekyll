@@ -39,9 +39,9 @@ Another instalment in the hugely successful Agatha Raisin series, in which Agath
 
 Terrifying ghost story from the bestselling author of <cite>Dead Simple</cite>.
 
-## [<cite>The gap of time: The Winter&#8217;s Tale retold</cite> by Jeanette Winterson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10664800?QRY=CTIBIB%3C%20IRN(53434744)&QRYTEXT=The%20gap%20of%20time%20%3A%20The%20winter%27s%20tale%20retold)
+## [<cite>The gap of time](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20671538?QRY=CTIBIB%3C%20IRN(57311154)&QRYTEXT=The%20gap%20of%20time%20%3A%20The%20Winter%27s%20tale%20retold)
 
-[![The gap of time: The Winter's Tale retold by Jeanette Winterson](/images/article/the-gap-of-time.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10664800?QRY=CTIBIB%3C%20IRN(53434744)&QRYTEXT=The%20gap%20of%20time%20%3A%20The%20winter%27s%20tale%20retold)
+[![The gap of time](/images/article/the-gap-of-time.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20671538?QRY=CTIBIB%3C%20IRN(57311154)&QRYTEXT=The%20gap%20of%20time%20%3A%20The%20Winter%27s%20tale%20retold)
 
 This version of Shakespeare&#8217;s <cite>The Winter&#8217;s Tale</cite> tells a contemporary story of betrayal, paranoia, redemption and hope. Time itself is a player in this game of high stakes that will either end in tragedy or forgiveness, showing us that, however far we have been separated, whatever is lost shall be found.
 

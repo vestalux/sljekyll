@@ -28,7 +28,8 @@ This is a stream of conciousness novel which chronicles the decline of the Ameri
 Most people will associate this with the classic film starring James Dean. Set in the rich farmland of California&#8217;s Salinas Valley, this is a powerful, often shocking, story following the intertwined destinies of two families &#8211; the Trasks and the Hamiltons.
 
 ## [<cite>The great Gatsby</cite> by F Scott Fitzgerald](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/27743174?QRY=CTIBIB%3C%20IRN(13227)&QRYTEXT=The%20great%20Gatsby)
-[![The great Gatsby by F Scott Fitzgerald](/images/article/the-great-gatsby.jpg)]()
+
+[![The great Gatsby by F Scott Fitzgerald](/images/article/the-great-gatsby.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/27743174?QRY=CTIBIB%3C%20IRN(13227)&QRYTEXT=The%20great%20Gatsby)
 
 A social satire and a milestone in 20th century literature, <cite>The Great Gatsby</cite> peels away the layers of the glamorous twenties in the U.S. to display the coldness and cruelty at its heart.
 

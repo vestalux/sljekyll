@@ -21,7 +21,7 @@ Probably the most eagerly awaited fiction title in Suffolk! Jack Reacher arrive
 
 Young Pip Tyler doesn&#8217;t know who she is. She knows that her real name is Purity, that she has $130,000 in student debt, that she&#8217;s squatting with anarchists in Oakland and that her relationship with her mother &#8211; her only family &#8211; is hazardous. But she doesn&#8217;t have a clue who her father is, why her mother has always concealed her own real name, or how she can ever have a normal life. An encounter with a German peace activist leads Pip to South America and The Sunlight Project, an organisation that traffics in all the secrets of the world &#8211; including, Pip hopes, the secret of her origins.
 
-## [<cite>Golden lion</cite> by Wilbur A. Smith](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/28944662?QRY=CTIBIB%3C%20IRN(54304099)&QRYTEXT=Golden%20lion)
+## [<cite>Golden lion</cite> by Wilbur A Smith](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/28944662?QRY=CTIBIB%3C%20IRN(54304099)&QRYTEXT=Golden%20lion)
 
 [![Golden lion by Wilbur Smith](/images/article/golden-lion.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/28944662?QRY=CTIBIB%3C%20IRN(54304099)&QRYTEXT=Golden%20lion)
 
@@ -57,8 +57,8 @@ The bestselling author of <cite>Any Human Heart</cite> returns with a sweeping s
 
 John Banville, the Man Booker Prize–winning author of <cite>The Sea</cite> and <cite>Ancient Light</cite>, presents his new novel about theft and betrayal.
 
-## [<cite>Two years eight months and twenty-eight nights</cite> by Salman Rushdie](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/28949072?QRY=CTIBIB%3C%20IRN(52650044)&QRYTEXT=Two%20years%20eight%20months%20and%20twenty-eight%20nights)
+## [<cite>Two years eight months and twenty-eight nights</cite> by Salman Rushdie](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20669296?QRY=CTIBIB%3C%20IRN(56502610)&QRYTEXT=Two%20years%20eight%20months%20and%20twenty-eight%20nights%20%3A%20a%20novel)
 
-[![Two years eight months and twenty-eight nights by Salman Rushdie](/images/article/two-years-eight-months-and-twenty-eight-nights.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/28949072?QRY=CTIBIB%3C%20IRN(52650044)&QRYTEXT=Two%20years%20eight%20months%20and%20twenty-eight%20nights)
+[![Two years eight months and twenty-eight nights by Salman Rushdie](/images/article/two-years-eight-months-and-twenty-eight-nights.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20669296?QRY=CTIBIB%3C%20IRN(56502610)&QRYTEXT=Two%20years%20eight%20months%20and%20twenty-eight%20nights%20%3A%20a%20novel)
 
 Any new novel from Salman Rushdie is always a literary event. This is a spellbinding, entertaining, imaginative novel, which blends history and myth with tremendous philosophical depth. It is both very funny and terrifying.

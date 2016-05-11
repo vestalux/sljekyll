@@ -4,7 +4,7 @@ title: National Poetry Day 2015
 date: 2015-10-08 08:02:18+00:00
 author: brandon-king
 category: fiction
-excerpt: 8 October 2015 is <a href="http://www.forwardartsfoundation.org/national-poetry-day/">National Poetry Day</a>. Here are some recommended and latest collections of poetry in our catalogue.
+excerpt: 8 October 2015 is National Poetry Day. Here are some recommended and latest collections of poetry in our catalogue.
 breadcrumb: fiction
 ---
 ![Paper aeroplane: selected poems 1989-2014 by Simon Armitage](/images/featured/featured-paper-aeroplane.jpg)

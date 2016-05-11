@@ -7,7 +7,7 @@ category: fiction
 excerpt: New books from TV journalists, writers and broadcasters featured at the Radio Times Festival.
 breadcrumb: fiction
 ---
-![Make me by Lee Child](/images/featured/featured-make-me.jpg)
+![Tennison by Lynda La Plante](/images/featured/featured-tennison.jpg)
 
 ## [<cite>We British: the poetry of a people</cite> by Andrew Marr](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21300338?QRY=CTIBIB%3C%20IRN(53435186)&QRYTEXT=We%20British%20%3A%20the%20poetry%20of%20a%20people)
 
@@ -45,8 +45,8 @@ Second thriller in the Max Wolfe series from the beloved? journalist famous for 
 
 Medieval fiction from broadcaster of <cite>The South Bank Show</cite>, based around the Peasant&#8217;s Revolt in an attempt to dethrone the king.
 
-## [<cite>Trigger Mortis</cite> by Anthony Horowitz](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21312806?QRY=CTIBIB%3C%20IRN(10059086)&QRYTEXT=Trigger%20Mortis)
+## [<cite>Trigger Mortis</cite> by Anthony Horowitz](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20670688?QRY=CTIBIB%3C%20IRN(55308848)&QRYTEXT=Trigger%20mortis)
 
-[![Trigger Mortis by Anthony Horowitz](/images/article/trigger-mortis.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21312806?QRY=CTIBIB%3C%20IRN(10059086)&QRYTEXT=Trigger%20Mortis)
+[![Trigger Mortis by Anthony Horowitz](/images/article/trigger-mortis.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20670688?QRY=CTIBIB%3C%20IRN(55308848)&QRYTEXT=Trigger%20mortis)
 
 Highly anticipated James Bond novel set around Grand Prix in the 1950&#8217;s. Includes unseen material from Ian Fleming.
