@@ -2,63 +2,6 @@
 
 <html lang="en-gb">
 
-<head>
+{% include /header/head.html %}
 
-	<!-- LEON GET RID OF THIS LINE ON LIVE -->
-	<meta name='robots' content='noindex,nofollow' />
-
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-	<!--[if lt IE 9]>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-	<![endif]-->
-
-    <link rel="stylesheet" href="/css/style.css">
-
-    <title>{{ page.title}} &#8211; Suffolk Libraries</title>
-
-	<script src="/js/app.js"></script>
-
-</head>
-
-<body class="custom-sans-serif f5 f4-ns dark-gray bg-white">
-
-	<div class="dn">
-
-		<p><a href="#content">Skip to content</a></p>
-
-	</div>
-
-	<header class="custom-bg-corporate cf white pa3" id="site-header">
-
-		<h1 class="f5 fl-ns custom-lh-title ma0 mb2 ma0-ns pa0"><a rel="home" href="/" class="icon icon-home-white white link"><span class="fw6">Suffolk</span> <span class="normal">Libraries</span></a></h1>
-
-
-				<!-- {% if page.title != 'Suffolk Libraries reserve, renew, branches and eLibrary' %}
-
-					<li class="h-nav-item"><a href="https://suffolk.spydus.co.uk/" class="h-nav-link icon icon-search-white">Search &amp; reserve</a></li>
-					<li class="h-nav-item"><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/LOGINB" class="h-nav-link icon icon-lock-white">Login &amp; renew</a></li>
-					<li class="h-nav-item"><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/JOIN" class="h-nav-link icon icon-card-white">Apply for a card</a></li>
-					<li class="h-nav-item"><a href="#" class="h-nav-link icon icon-info-white">Help</a></li>
-					<li class="h-nav-item"><a href="#" class="h-nav-link icon icon-phone-white">Contact</a></li>
-
-				{% else %}
-
-					<li class="h-nav-item"><a href="tel:01473263838" class="h-nav-link icon icon-phone-white">01473 263838</a></li>
-					<li class="h-nav-item"><a href="mailto:help@suffolklibraries.co.uk" class="h-nav-link icon icon-email-white">help@suffolklibraries.co.uk</a></li>
-					<li class="h-nav-item"><a href="http://twitter.com/suffolklibrary" class="h-nav-link icon icon-twitter-white">Twitter</a></li>
-					<li class="h-nav-item"><a href="http://facebook.com/suffolklibraries" class="h-nav-link icon icon-facebook-white">Facebook</a></li>
-
-				{% endif %} -->
-
-
-
-		<form id="searchform" class="fr-ns custom-lh-title dark-gray f5 pure-form" action="<?php echo esc_url( home_url( '/' ) ); ?>" method="get">
-
-			<input id="s" type="search" name="s" value=""></input>
-			<input id="searchsubmit" type="submit" value="Search" class="pa2 pure-button"></input>
-
-		</form>
-
-	</header>
+{% include /header/header.html %}
