@@ -23,20 +23,9 @@ From the author of the food blog <a href="http://www.deliciouslyella.com">Delici
 
 ## [<cite>Fragments: on writing, reading, and absence</cite> by Elena Ferrante](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/23808376?QRY=CTIBIB%3C%20IRN(56735711)&QRYTEXT=Fragments%20%3A%20on%20writing%2C%20reading%2C%20and%20absence)
 
-[![](/images/article/.jpg)]()
-<div class="row">
-  <div class="medium-2 columns">
-    <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/23808376?QRY=CTIBIB%3C%20IRN(56735711)&QRYTEXT=Fragments%20%3A%20on%20writing%2C%20reading%2C%20and%20absence" rel="attachment wp-att-49950"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2015/10/fragmentsferrante.jpg" alt="Fragments: on writing, reading, and absence by Elena Ferrante" /></a>
-  </div>
+[![Fragments: on writing, reading, and absence by Elena Ferrante](/images/article/fragments.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/23808376?QRY=CTIBIB%3C%20IRN(56735711)&QRYTEXT=Fragments%20%3A%20on%20writing%2C%20reading%2C%20and%20absence)
 
-  <div class="medium-10 columns">
-    <p>
-      2015 was the year the Neopolitan novels by Elena Ferrante broke through to find a wider audience. In this collection, the reclusive Italian author addresses her unwavering decision to remain out of the public eye, her literary inspirations, Italian politics and culture, and the role of the writer (and the publisher) in modern society.
-    </p>
-  </div>
-</div>
-
-&nbsp;
+2015 was the year the Neopolitan novels by Elena Ferrante broke through to find a wider audience. In this collection, the reclusive Italian author addresses her unwavering decision to remain out of the public eye, her literary inspirations, Italian politics and culture, and the role of the writer (and the publisher) in modern society.
 
 ## [<cite>Amber&#8217;s donkey: the heart-warming tale of how a donkey and a little girl healed the scars of each other&#8217;s troubled pasts</cite> by Julian and Tracy Austwick](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/23807856?QRY=CTIBIB%3C%20IRN(57310849)&QRYTEXT=Amber%27s%20donkey%20%3A%20the%20heart-warming%20tale%20of%20how%20a%20donkey%20and%20a%20little%20girl%20healed%20the%20scars%20of%20each%20other%27s%20troubled%20pasts)
 

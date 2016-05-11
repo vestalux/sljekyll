@@ -11,7 +11,7 @@ breadcrumb: non-fiction
 
 ## [<cite>Latest readings</cite> by Clive James](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16153541?QRY=CTIBIB%3C%20IRN(52484589)&QRYTEXT=Latest%20readings)
 
-[![Latest readings by Clive James](/images/article/.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16153541?QRY=CTIBIB%3C%20IRN(52484589)&QRYTEXT=Latest%20readings)
+[![Latest readings by Clive James](/images/article/latest-readings.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16153541?QRY=CTIBIB%3C%20IRN(52484589)&QRYTEXT=Latest%20readings)
 
 Clive James was diagnosed with terminal leukemia in 2010. As an award-winning author, James shared his evocative musings on literature, family, living and dying in his final book.
 

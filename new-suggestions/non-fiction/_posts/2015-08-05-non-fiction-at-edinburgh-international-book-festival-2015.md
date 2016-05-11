@@ -29,37 +29,15 @@ A look into the social impact on England from the Battle of Waterloo, which mark
 
 ## [<cite>The disappearing dictionary: a treasury of lost English dialect words</cite> by David Crystal](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8437142?QRY=CTIBIB%3C%20IRN(47618631)&QRYTEXT=The%20disappearing%20dictionary%20%3A%20a%20treasury%20of%20lost%20English%20dialect%20words)
 
-[![](/images/article/.jpg)]()
-<div class="row">
-  <div class="medium-2 columns">
-    <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8437142?QRY=CTIBIB%3C%20IRN(47618631)&QRYTEXT=The%20disappearing%20dictionary%20%3A%20a%20treasury%20of%20lost%20English%20dialect%20words"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2015/07/disappearingdictionary.jpg" alt="The disappearing dictionary: a treasury of lost English dialect words by David Crystal" /></a>
-  </div>
+[![The disappearing dictionary: a treasury of lost English dialect words by David Crystal](/images/article/the-disappearing-dictionary.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8437142?QRY=CTIBIB%3C%20IRN(47618631)&QRYTEXT=The%20disappearing%20dictionary%20%3A%20a%20treasury%20of%20lost%20English%20dialect%20words)
 
-  <div class="medium-10 columns">
-    <p>
-      Collection of dying words from the English language.
-    </p>
-  </div>
-</div>
-
-&nbsp;
+Collection of dying words from the English language.
 
 ## [<cite>In the all-night café</cite> by Stuart David](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8468303?QRY=CTIBIB%3C%20IRN(51577438)&QRYTEXT=In%20the%20all-night%20cafe%CC%81)
 
-[![](/images/article/.jpg)]()
-<div class="row">
-  <div class="medium-2 columns">
-    <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8468303?QRY=CTIBIB%3C%20IRN(51577438)&QRYTEXT=In%20the%20all-night%20cafe%CC%81"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2015/07/intheallnightcafe.jpg" alt="In the all-night café by Stuart David" /></a>
-  </div>
+[![In the all-night café by Stuart David](/images/article/in-the-all-night-cafe.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8468303?QRY=CTIBIB%3C%20IRN(51577438)&QRYTEXT=In%20the%20all-night%20cafe%CC%81)
 
-  <div class="medium-10 columns">
-    <p>
-      Biography of the Scottish indie band Belle & Sebastian from their humble beginnings.
-    </p>
-  </div>
-</div>
-
-&nbsp;
+Biography of the Scottish indie band Belle & Sebastian from their humble beginnings.
 
 ## [<cite>The story of Alice: Lewis Carroll and the secret history of Wonderland</cite> by Robert Douglas-Fairhurst](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8302327?QRY=CTIBIB%3C%20IRN(47842944)&QRYTEXT=The%20story%20of%20Alice%20%3A%20Lewis%20Carroll%20and%20the%20secret%20history%20of%20Wonderland)
 
@@ -105,6 +83,6 @@ Green Party MP discusses her experience in parliament and suggests how to creat
 
 ## [<cite>Naked at the Albert Hall: the inside story of singing</cite> by Tracey Thorn](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8466267?QRY=CTIBIB%3C%20IRN(48511352)&QRYTEXT=Naked%20at%20the%20Albert%20Hall%20%3A%20the%20inside%20story%20of%20singing)
 
-[![Naked at the Albert Hall: the inside story of singing by Tracey Thorn](/images/article/nakedatthealberthall.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8466267?QRY=CTIBIB%3C%20IRN(48511352)&QRYTEXT=Naked%20at%20the%20Albert%20Hall%20%3A%20the%20inside%20story%20of%20singing)
+[![Naked at the Albert Hall: the inside story of singing by Tracey Thorn](/images/article/naked-at-the-albert-hall.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8466267?QRY=CTIBIB%3C%20IRN(48511352)&QRYTEXT=Naked%20at%20the%20Albert%20Hall%20%3A%20the%20inside%20story%20of%20singing)
 
 A mix of personal experiences and technical information about singing.

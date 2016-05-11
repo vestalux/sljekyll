@@ -59,7 +59,7 @@ More suspense from the former winner of the CWA Gold Dagger Award.
 
 ## [<cite>Mindwalker</cite> by A J Steiger](http://suffolklibraries.lib.overdrive.com/F7B21BAA-E593-4AC6-B977-5C099147D0D8/10/50/en/ContentDetails.htm?id=33DBBD61-D5CD-43B7-8F31-77D7E30EE471) (eBook)
 
-[![Mindwalker by A J Steiger](/images/article/.jpg)](http://suffolklibraries.lib.overdrive.com/F7B21BAA-E593-4AC6-B977-5C099147D0D8/10/50/en/ContentDetails.htm?id=33DBBD61-D5CD-43B7-8F31-77D7E30EE471)
+[![Mindwalker by A J Steiger](/images/article/mindwalker.jpg)](http://suffolklibraries.lib.overdrive.com/F7B21BAA-E593-4AC6-B977-5C099147D0D8/10/50/en/ContentDetails.htm?id=33DBBD61-D5CD-43B7-8F31-77D7E30EE471)
 
 Dystopian young adult novel. Teenage Lain is set to wipe Steven&#8217;s traumatic memories, but stumbles into a conspiracy.
 

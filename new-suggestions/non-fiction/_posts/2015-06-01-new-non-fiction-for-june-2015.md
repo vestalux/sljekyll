@@ -23,7 +23,7 @@ Published to coincide with the sixtieth anniversary of the first Airfix aircraft
 
 ## [<cite>In pursuit of butterflies: a 50-year affair</cite> by M R Oates](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/18090669?QRY=CTIBIB%3C%20IRN(49980237)&QRYTEXT=In%20pursuit%20of%20butterflies%20%3A%20a%2050-year%20affair)
 
-[![In pursuit of butterflies: a 50-year affair by M R Oates](/images/article/.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/18090669?QRY=CTIBIB%3C%20IRN(49980237)&QRYTEXT=In%20pursuit%20of%20butterflies%20%3A%20a%2050-year%20affair)
+[![In pursuit of butterflies: a 50-year affair by M R Oates](/images/article/in-pursuit-of-butterflies.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/18090669?QRY=CTIBIB%3C%20IRN(49980237)&QRYTEXT=In%20pursuit%20of%20butterflies%20%3A%20a%2050-year%20affair)
 
 Based on fifty years of detailed diaries, this book chronicles a life dedicated to the observation, praise and survival of butterflies.
 
