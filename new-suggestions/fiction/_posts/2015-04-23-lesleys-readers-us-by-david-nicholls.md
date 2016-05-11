@@ -9,6 +9,8 @@ breadcrumb: fiction
 ---
 ![Us by David Nicholls](/images/featured/featured-us.jpg)
 
+## Maddie Smith&#8217;s review:
+
 <cite>Us</cite> is the 2014 Man Booker longlisted novel by author David Nicholls. It&#8217;s a tragi-comedy that tells the poignant story of a couple&#8217;s last ditch attempt to reconcile their relationship by taking one incredible trip around Europe.
 
 She’s the artistic, free-willed bohemian and he’s the regimented man of reason. While they are complete opposites, their marriage has remained content. However, irreconcilable differences are starting to emerge that threaten to end their time together. This is what prompts them to plan a ‘Grand Tour’ of Europe with their seventeen year old son. A trip through France, Amsterdam, Italy and Spain that has the aim of reconciling and reigniting their relationship. It’s hailed to be an unforgettable trip for the family – which it is, in more ways than one.
@@ -25,10 +27,12 @@ I also enjoyed the narrative of <cite>Us</cite>. In typical Nicholls’ style it
 
 <cite>Us</cite> would appeal to anybody who likes travel-fiction, romance or tragi-comedies. It’s a beautifully written novel that&#8217;s easy to read, which has a plot packed with suspense, romance and melancholy. Now for the inevitable film adaptation!
 
-## Lesley&#8217;s review:
+## Lesley Dolphin&#8217;s review:
 
 It didn&#8217;t take me long to get hooked by the story.  I think anyone who has been in a relationship and has children will find lots to empathise with.  It’s also tinged with sadness because the central character, Douglas can’t communicate with his son Albie, nicknamed Egg.  He loves him enormously but just can’t find a way to understand him and having had 2 sons myself who are now grown up I could really relate to that!!
 
 Douglas tells the story, which weaves the past and the present, of how he met his wife Connie and of how the three of them are now on a family tour of Europe which he hopes will save their marriage.
 
-I was desperate for a happy ending&#8230;. But you&#8217;ll have to read it for yourself to find out if there is one!!
+I was desperate for a happy ending&#8230;. But you&#8217;ll have to read it for yourself to find out if there is one!
+
+[Reserve <cite>Us</cite> by David Nicholls from our libraries.](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20637421?QRY=CTIBIB%3C%20IRN(14394)&QRYTEXT=Us)

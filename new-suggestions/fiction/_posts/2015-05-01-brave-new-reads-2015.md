@@ -19,11 +19,11 @@ Delve into this brutal, compelling and savagely funny collection of interlinked 
 
 ### Enjoyed this book? Why not try:
 
-* <cite>Animals</cite> by Emma Jane Unsworth
+* [<cite>Animals</cite> by Emma Jane Unsworth](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20638594?QRY=CTIBIB%3C%20IRN(102316)&QRYTEXT=Animals)
 * <cite>Not that Kind of Girl</cite> by Lena Dunham
-* <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6991922?QRY=CTIBIB%3C%20IRN(510265)&QRYTEXT=How%20to%20be%20a%20woman"><cite>How to be a Woman</cite> by Caitlin Moran</a>
+* [<cite>How to be a Woman</cite> by Caitlin Moran</a>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6991922?QRY=CTIBIB%3C%20IRN(510265)&QRYTEXT=How%20to%20be%20a%20woman)
 * <cite>Nobody Belongs Here More Than You</cite> by Miranda July
-* <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6999885?QRY=CTIBIB%3C%20IRN(31743366)&QRYTEXT=Eat%20my%20heart%20out"><cite>Eat My Heart Out</cite> by Zoe Pilger</a>
+* [<cite>Eat My Heart Out</cite> by Zoe Pilger</a>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6999885?QRY=CTIBIB%3C%20IRN(31743366)&QRYTEXT=Eat%20my%20heart%20out)
 * <cite>Brass</cite> by Helen Walsh
 
 ## [<cite>Badgerlands: the twilight world of Britain&#8217;s most enigmatic animal</cite> by Patrick Barkham](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6366857?QRY=CTIBIB%3C%20IRN(25523444)&QRYTEXT=Badgerlands%20%3A%20the%20twilight%20world%20of%20Britain%27s%20most%20enigmatic%20animal)
@@ -36,24 +36,24 @@ Dig deep and discover the subterranean world of the humble badger in this compel
 
 ### Enjoyed this book? Why not try:
 
-* <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7001278?QRY=CTIBIB%3C%20IRN(42637682)&QRYTEXT=H%20is%20for%20hawk"><cite>H is for Hawk</cite> by Helen MacDonald</a>
-* <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7001738?QRY=CTIBIB%3C%20IRN(20247086)&QRYTEXT=A%20sting%20in%20the%20tale"><cite>A Sting in the Tale</cite> by Dave Goulson</a>
-* <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7002264?QRY=CTIBIB%3C%20IRN(766993)&QRYTEXT=The%20old%20ways%20%3A%20a%20journey%20on%20foot"><cite>The Old Ways</cite> by Robert MacFarlane</a>
-* <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7002694?QRY=CTIBIB%3C%20IRN(124692)&QRYTEXT=Notes%20from%20Walnut%20Tree%20Farm"><cite>Notes from Walnut Tree Farm</cite> by Roger Deakin</a>
+* [<cite>H is for Hawk</cite> by Helen MacDonald](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7001278?QRY=CTIBIB%3C%20IRN(42637682)&QRYTEXT=H%20is%20for%20hawk)
+* [<cite>A Sting in the Tale</cite> by Dave Goulson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7001738?QRY=CTIBIB%3C%20IRN(20247086)&QRYTEXT=A%20sting%20in%20the%20tale)
+* [<cite>The Old Ways</cite> by Robert MacFarlane](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7002264?QRY=CTIBIB%3C%20IRN(766993)&QRYTEXT=The%20old%20ways%20%3A%20a%20journey%20on%20foot)
+* [<cite>Notes from Walnut Tree Farm</cite> by Roger Deakin](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7002694?QRY=CTIBIB%3C%20IRN(124692)&QRYTEXT=Notes%20from%20Walnut%20Tree%20Farm)
 
-## [<cite>Black Country</cite> by Liz Berry](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6369400?QRY=CTIBIB%3C%20IRN(39260406)&QRYTEXT=Black%20Country)
+## [<cite>Black Country</cite> by Liz Berry](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20641420?QRY=CTIBIB%3C%20IRN(1508668)&QRYTEXT=Black%20country)
 
-[![Black Country by Liz Berry](/images/article/black-country.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6369400?QRY=CTIBIB%3C%20IRN(39260406)&QRYTEXT=Black%20Country)
+[![Black Country by Liz Berry](/images/article/black-country.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20641420?QRY=CTIBIB%3C%20IRN(1508668)&QRYTEXT=Black%20country)
 
 Take flight with this soaring collection of poetry, which weaves birds of all kinds through the text and swoops from childhood innocence to sensual pleasures. <cite>Black Country</cite> melds traditional West Midlands dialect with Berry’s fresh and contemporary voice, creating a distinctive linguistic energy. Using precise language and an acute awareness of heritage, Berry creates an atmosphere of folklore and magic which you’re sure to find enchanting.
 
-&#8220;It’s sparkling with wit, energy and linguistic virtuosity, wonderfully unafraid of myth and magic.&#8221; – Anna, Readers’ Circle
+> &#8220;It’s sparkling with wit, energy and linguistic virtuosity, wonderfully unafraid of myth and magic.&#8221; – Anna, Readers’ Circle
 
 ### Enjoyed this book? Why not try:
 
-* <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7003131?QRY=CTIBIB%3C%20IRN(31447166)&QRYTEXT=Division%20Street"><cite>Division Street</cite> by Helen Mort</a>
-* <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7004129?QRY=CTIBIB%3C%20IRN(181351)&QRYTEXT=Chick"><cite>Chick</cite> by Hannah Lowe</a>
-* <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7004857?QRY=CTIBIB%3C%20IRN(1949863)&QRYTEXT=Fire%20songs"><cite>Fire Songs</cite> by David Harsent</a>
+* [<cite>Division Street</cite> by Helen Mort](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7003131?QRY=CTIBIB%3C%20IRN(31447166)&QRYTEXT=Division%20Street)
+* [<cite>Chick</cite> by Hannah Lowe](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7004129?QRY=CTIBIB%3C%20IRN(181351)&QRYTEXT=Chick)
+* [<cite>Fire Songs</cite> by David Harsent](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7004857?QRY=CTIBIB%3C%20IRN(1949863)&QRYTEXT=Fire%20songs)
 
 ## [<cite>The dead lake</cite> by Hamid Ismailov (translated by Andrew Bromfield)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6372777?QRY=CTIBIB%3C%20IRN(32815664)&QRYTEXT=The%20dead%20lake)
 
@@ -65,8 +65,8 @@ Mesmerising and haunting, this otherworldly fairytale describes a life shaped by
 
 ### Enjoyed this book? Why not try:
 
-* <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7005696?QRY=CTIBIB%3C%20IRN(1178387)&QRYTEXT=All%20that%20is%20solid%20melts%20into%20air"><cite>All That is Solid Melts into Air</cite> by Darragh McKeon</a>
-* <cite>White Hunger</cite> by Aki Ollikainen, Emily Jeremiah (Translator), Fleur Jeremiah (Translator)
+* [<cite>All That is Solid Melts into Air</cite> by Darragh McKeon](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7005696?QRY=CTIBIB%3C%20IRN(1178387)&QRYTEXT=All%20that%20is%20solid%20melts%20into%20air)
+* [<cite>White Hunger</cite> by Aki Ollikainen, Emily Jeremiah (Translator), Fleur Jeremiah (Translator)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20645443?QRY=CTIBIB%3C%20IRN(41824773)&QRYTEXT=White%20hunger)
 
 ## [<cite>Fallen land</cite> by Patrick Flanery](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6377669?QRY=CTIBIB%3C%20IRN(16839267)&QRYTEXT=Fallen%20land)
 
@@ -91,6 +91,6 @@ A potent tale of survival and determination, <cite>Prayers for the Stolen</cite>
 
 ### Enjoyed this book? Why not try:
 
-* <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7008025?QRY=CTIBIB%3C%20IRN(35304670)&QRYTEXT=The%20underground%20girls%20of%20Kabul%20%3A%20the%20hidden%20lives%20of%20Afghan%20girls%20disguised%20as%20boys"><cite>The Underground Girls Of Kabul: The Hidden Lives of Afghan Girls Disguised as Boys</cite> by Jenny Nordberg</a>
+* [<cite>The Underground Girls Of Kabul: The Hidden Lives of Afghan Girls Disguised as Boys</cite> by Jenny Nordberg](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7008025?QRY=CTIBIB%3C%20IRN(35304670)&QRYTEXT=The%20underground%20girls%20of%20Kabul%20%3A%20the%20hidden%20lives%20of%20Afghan%20girls%20disguised%20as%20boys)
 * <cite>The Tortilla Curtain</cite> by T C Boyle
-* <cite><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6477687?QRY=CTIBIB%3C%20IRN(488022)&QRYTEXT=2666">2666 by Robert Bolano</a></cite>
+* [<cite>2666</cite> by Robert Bolano](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6477687?QRY=CTIBIB%3C%20IRN(488022)&QRYTEXT=2666)

@@ -21,9 +21,9 @@ The first novel in a decade from the author of <cite>The Remains of the Day</cit
 
 A plane crashes, leaving the sole survivor &#8211; a three-month-old baby girl. Two families &#8211; one rich, the other poor &#8211; step forward to claim her, sparking an investigation that lasts almost two decades. Bussi has been described as the French Harlan Coben.
 
-## [<cite>Dancing in the dark</cite> by Karl Ove Knausgard](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12212954?QRY=CTIBIB%3C%20IRN(46652020)&QRYTEXT=My%20struggle.%20Book%204)
+## [<cite>Dancing in the dark</cite> by Karl Ove Knausgard](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20628816?QRY=CTIBIB%3C%20IRN(169425)&QRYTEXT=Dancing%20in%20the%20dark)
 
-[![Dancing in the dark by Karl Ove Knausgard](/images/article/dancing-in-the-dark.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12212954?QRY=CTIBIB%3C%20IRN(46652020)&QRYTEXT=My%20struggle.%20Book%204)
+[![Dancing in the dark by Karl Ove Knausgard](/images/article/dancing-in-the-dark.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20628816?QRY=CTIBIB%3C%20IRN(169425)&QRYTEXT=Dancing%20in%20the%20dark)
 
 In this memoir, 18-year-old Knausgaard moves to a tiny fisherman&#8217;s village north of the polar circle to work as a school teacher. Initially everything looks fine &#8211; he writes his first few short stories and finds himself accepted by the locals. However, Karl Ove&#8217;s life takes a darker turn.
 

@@ -51,12 +51,6 @@ More sleuthing from the Cambridge based priest and part-time detective, Canon Si
 
 Just after the Second World War, Gracie Brown emigrates to America with her husband Jeff. The couple move in with Jeff&#8217;s parents whilst they attempt to build their new lives.
 
-## [<cite>Death Wears a Beauty Mask and Other Stories</cite> by Mary Higgins Clark](http://suffolklibraries.lib.overdrive.com/B30781EB-584C-415F-8D62-ED2D3D691CFA/10/50/en/ContentDetails.htm?id=BBDE1DDF-2ED1-470C-B182-AC035DDBEC37) (eBook)
-
-[![Death Wears a Beauty Mask and Other Stories by Mary Higgins Clark](/images/article/death-wears-a-beauty-mask.jpg)](http://suffolklibraries.lib.overdrive.com/B30781EB-584C-415F-8D62-ED2D3D691CFA/10/50/en/ContentDetails.htm?id=BBDE1DDF-2ED1-470C-B182-AC035DDBEC37)
-
-Collection of 25 acclaimed and suspenseful short stories.
-
 ## [<cite>The Devilish Mr Danvers</cite> by Vivienne Lorret](http://suffolklibraries.lib.overdrive.com/B30781EB-584C-415F-8D62-ED2D3D691CFA/10/50/en/ContentDetails.htm?id=EF5BA90C-FA4E-4BE8-8CEC-F1288EC54B77) (eBook)
 
 [![The Devilish Mr Danvers by Vivienne Lorret](/images/article/the-devilish-mr-danvers.jpg)](http://suffolklibraries.lib.overdrive.com/B30781EB-584C-415F-8D62-ED2D3D691CFA/10/50/en/ContentDetails.htm?id=EF5BA90C-FA4E-4BE8-8CEC-F1288EC54B77)

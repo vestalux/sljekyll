@@ -11,7 +11,7 @@ breadcrumb: fiction
 
 ## [<cite>What she left</cite> by T R Richmond](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/27414134?QRY=CTIBIB%3C%20IRN(47356202)&QRYTEXT=What%20she%20left)
 
-[![What she left by T R Richmond](/images/article/whatsheleft.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/27414134?QRY=CTIBIB%3C%20IRN(47356202)&QRYTEXT=What%20she%20left)
+[![What she left by T R Richmond](/images/article/what-she-left.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/27414134?QRY=CTIBIB%3C%20IRN(47356202)&QRYTEXT=What%20she%20left)
 
 Dr Jeremy Cook is an academic who pieces together the life of Alice Salmon, whose death creates a media frenzy. He does not know how deep his search will take him, or the shocking nature of what he will uncover. There is a real buzz around this title &#8211; it could be the next <cite>Gone Girl</cite>.
 
