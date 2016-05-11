@@ -1,53 +1,15 @@
 {% include header.html %}
 
-{% if page.hero-image %}
+{% include hero.html %}
 
-    <figure class="hero-splash">
+    <main id="content" class="{% include /c/main.html %}" role="main">
 
-        <img src="/images/hero/{{ page.hero-image }}" {% if page.hero-alt %}alt="{{ page.hero-alt }}"{% endif %}>
+        {% include breadcrumb.html %}
 
-        {% if page.hero-caption %}<figcaption class="hero-splash-text"><p>{{ page.hero-caption }}</p></figcaption>{% endif %}
+        <h1 class="{% include /c/page-title.html %}">{{ page.title }}</h1>
 
-    </figure>
+        {{ content }}
 
-{% endif %}
-
-    <div class="bg bg-white">
-
-        <div class="g-row">
-
-            <div class="g-w-col12">
-
-                <main id="content" class="clearfix" role="main">
-
-                    {% if page.breadcrumb %}
-
-                        {% include breadcrumb.html %}
-
-                    {% endif %}
-
-                    <article class="entry">
-
-                        <div class="entry-header">
-
-                            <h1 class="entry-title">{{ page.title }}</h1>
-
-                        </div>
-
-                        <div class="entry-content">
-
-                            {{ content }}
-
-                        </div>
-
-                    </article>
-
-                </main>
-
-            </div>
-
-        </div> <!-- end .g-row -->
-
-    </div> <!-- end .bg -->
+    </main>
 
 {% include footer.html %}

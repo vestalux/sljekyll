@@ -1,69 +1,35 @@
 {% include header.html %}
 
-{% if page.hero-image %}
+{% include hero.html %}
 
-    <figure class="hero-splash">
+    <main id="content" class="{% include /c/main.html %}" role="main">
 
-        <img src="/images/hero/{{ page.hero-image }}" {% if page.hero-alt %}alt="{{ page.hero-alt }}"{% endif %}>
+        {% include breadcrumb.html %}
 
-        {% if page.hero-caption %}<figcaption class="hero-splash-text"><p>{{ page.hero-caption }}</p></figcaption>{% endif %}
+        <article>
 
-    </figure>
+            <h1 class="{% include /c/page-title.html %}">{{ page.name }}</h1>
 
-{% endif %}
+            <p>
 
-    <div class="g-row">
+                <span>{{ page.location-text }}</span>,
 
-        <div class="g-w-right g-w-col12">
+                {% if page.event-end-date %}
 
-            <main id="content" class="clearfix bg bg-white" role="main">
+                     <span>{{ page.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ page.event-start-time }}</span> &#8211; <span>{{ page.event-end-date | date: "%a %-d %b %Y" }}</span> <span>{{ page.event-end-time }}</span>
 
-                {% if page.breadcrumb %}
+                {% else %}
 
-                    {% include breadcrumb.html %}
+                     <span>{{ page.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ page.event-start-time }}</span> &#8211; <span>{{ page.event-end-time }}</span>
 
                 {% endif %}
 
-                <article class="entry">
+                {{ content }}
 
-                    <div class="inner-wrapper">
+            </p>
 
-                        <div class="entry-header">
+        </article>
 
-                            <h1 class="entry-title">{{ page.name }}</h1>
-
-                        </div>
-
-                        <div class="entry-content">
-
-                            <p class="secondary">
-
-                                <span>{{ page.location-text }}</span>,
-
-                                {% if page.event-end-date %}
-
-                                     <span>{{ page.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ page.event-start-time }}</span> &#8211; <span>{{ page.event-end-date | date: "%a %-d %b %Y" }}</span> <span>{{ page.event-end-time }}</span>
-
-                                {% else %}
-
-                                     <span>{{ page.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ page.event-start-time }}</span> &#8211; <span>{{ page.event-end-time }}</span>
-
-                                {% endif %}
-
-                            {{ content }}
-
-                        </p>
-
-                        </div>
-
-                    </div>
-
-                </article>
-
-            </main>
-
-        </div>
-
-    </div> <!-- end .g-row -->
+    </main>
 
 {% include footer.html %}

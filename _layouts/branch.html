@@ -1,105 +1,67 @@
 {% include header.html %}
 
-{% if page.hero-image %}
+{% include hero.html %}
 
-    <figure class="hero-splash">
+    <main id="content" class="{% include /c/main.html %}" role="main">
 
-        <img src="/images/hero/{{ page.hero-image }}" {% if page.hero-alt %}alt="{{ page.hero-alt }}"{% endif %}>
+        {% include breadcrumb.html %}
 
-        {% if page.hero-caption %}<figcaption class="hero-splash-text"><p>{{ page.hero-caption }}</p></figcaption>{% endif %}
+        <h1 class="{% include /c/page-title.html %}">{{ page.branch-name }}</h1>
 
-    </figure>
+        <p>Tel: {{ page.branch-tel}}<br>
+        Address: {{ page.branch-address }}<br>
+        Postcode: {{ page.branch-post-code}}<br></p>
 
-{% endif %}
+        <h2>Upcoming events</h2>
 
-    <div class="g-row">
+        {% assign current = page.branch-unique-id %}
 
-        <div class="g-w-right g-w-col12">
+    	{% assign events = site.events | sort: 'event-start-date'%}
 
-            <main id="content" class="clearfix bg bg-white" role="main">
+    	{% for event in events %}
 
-                {% if page.breadcrumb %}
+            {% if event.location == current %}
 
-                    {% include breadcrumb.html %}
+            {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
+
+            {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
+
+            {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
+
+            {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+
+            <p>Evaluating {{ event.name }}: Unix days is {{ now-unix }}, the event time in days is {{ event-time }}</p>
+
+                {% if now-unix <= event-time %}
+
+                	<article>
+
+                        <header>
+
+                		    <h1 class="listing-title"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+                            <p class="listing-meta secondary">
+
+                            {% if event.event-end-date %}
+
+                                 <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-date | date: "%a %-d %b" }}</span> <span>{{ event.event-end-time }}</span>
+
+                            {% else %}
+
+                                 <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-time }}</span>
+
+                            {% endif %}
+
+                        </header>
+
+                	</article>
 
                 {% endif %}
 
-                <article class="entry">
+            {% endif %}
 
-                    <div class="inner-wrapper">
+    	{% endfor %}
 
-                        <div class="entry-header">
-
-                            <h1 class="entry-title">{{ page.branch-name }}</h1>
-
-                        </div>
-
-                        <div class="entry-content">
-
-                            <p>Tel: {{ page.branch-tel}}<br>
-                            Address: {{ page.branch-address }}<br>
-                            Postcode: {{ page.branch-post-code}}<br></p>
-
-                            <h2>Upcoming events</h2>
-
-                            {% assign current = page.branch-unique-id %}
-
-                        	{% assign events = site.events | sort: 'event-start-date'%}
-
-                        	{% for event in events %}
-
-                                {% if event.location == current %}
-
-                                {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
-
-                                {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
-
-                                {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
-
-                                {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
-
-                                <p>Evaluating {{ event.name }}: Unix days is {{ now-unix }}, the event time in days is {{ event-time }}</p>
-
-                                    {% if now-unix <= event-time %}
-
-                                    	<article class="listing">
-
-                                            <header class="listing-header">
-
-                                    		    <h1 class="listing-title"><a href="{{ event.url }}">{{ event.name }}</a></h1>
-
-                                                <p class="listing-meta secondary">
-
-                                                {% if event.event-end-date %}
-
-                                                     <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-date | date: "%a %-d %b" }}</span> <span>{{ event.event-end-time }}</span>
-
-                                                {% else %}
-
-                                                     <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-time }}</span>
-
-                                                {% endif %}
-
-                                            </header>
-
-                                    	</article>
-
-                                    {% endif %}
-
-                                {% endif %}
-
-                        	{% endfor %}
-
-                        </div>
-
-                    </div>
-
-                </article>
-
-            </main>
-
-        </div>
-
-    </div> <!-- end .g-row -->
+    </main>
 
 {% include footer.html %}

@@ -1,0 +1,11 @@
+{% if page.hero-image %}
+
+<figure>
+
+    <img src="/images/hero/{{ page.hero-image }}" {% if page.hero-alt %}alt="{{ page.hero-alt }}"{% endif %}>
+
+    {% if page.hero-caption %}<figcaption><p>{{ page.hero-caption }}</p></figcaption>{% endif %}
+
+</figure>
+
+{% endif %}
