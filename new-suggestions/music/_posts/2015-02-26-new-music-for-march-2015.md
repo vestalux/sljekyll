@@ -45,31 +45,31 @@ Already leaked through iTunes, Bjork’s new album is rush released. Vulnicura i
 
 All of the tracks were recorded live at BBC Introducing events around the UK including Maida Vale sessions and Introducing festival stages. Artists featured include Ed Sheeran, Jake Bugg and George Ezra.
 
-## [<cite>Title</cite> by Meghan Trainor (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/TWVnaGFuIFRyYWlub3I=/29826431/c29ueQ)
+## [<cite>Title</cite> by Meghan Trainor](http://suffolklibraries.freegalmusic.com/artists/view/TWVnaGFuIFRyYWlub3I=/29826431/c29ueQ) (Freegal)
 
 [![Title by Meghan Trainor](/images/article/title.jpg)](http://suffolklibraries.freegalmusic.com/artists/view/TWVnaGFuIFRyYWlub3I=/29826431/c29ueQ)
 
 Debut album featuring infectious single, <cite>All About That Bass</cite>, a playful, empowering and unapologetic pop anthem. This is a deluxe edition that includes four bonus tracks.
 
-## [<cite>Shadows in the night</cite> by Bob Dylan (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/Qm9iIER5bGFu/29995245/c29ueQ)
+## [<cite>Shadows in the night</cite> by Bob Dylan](http://suffolklibraries.freegalmusic.com/artists/view/Qm9iIER5bGFu/29995245/c29ueQ) (Freegal)
 
 [![Shadows in the night by Bob Dylan](/images/article/shadows-in-the-night.jpg)](http://suffolklibraries.freegalmusic.com/artists/view/Qm9iIER5bGFu/29995245/c29ueQ)
 
 A selection of traditional pop standards including <cite>Some Enchanted Evening</cite>, <cite>I&#8217;m a Fool to Want You</cite> and <cite>The Night We Called It a Day</cite>. The album debuted at #1 in the UK Albums Chart.
 
-## [<cite>Coming up for air</cite> by Kodaline (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/S29kYWxpbmU=/29687297/c29ueQ)
+## [<cite>Coming up for air</cite> by Kodaline](http://suffolklibraries.freegalmusic.com/artists/view/S29kYWxpbmU=/29687297/c29ueQ) (Freegal)
 
 [![Coming up for air by Kodaline](/images/article/coming-up-for-air.jpg)](http://suffolklibraries.freegalmusic.com/artists/view/S29kYWxpbmU=/29687297/c29ueQ)
 
 Music isn’t just music for this Irish indie rock band. “It’s therapy,” says singer Steve Garrigan. Kodaline are now they’re hoping their music will provide therapy for others too. “Music should have a purpose, you know,” says Steve, “our purpose is honesty”.
 
-## [<cite>Feeling Funky</cite> by Various Artists (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/TWVnaGFuIFRyYWlub3I=/30100109/c29ueQ)
+## [<cite>Feeling Funky</cite> by Various Artists](http://suffolklibraries.freegalmusic.com/artists/view/TWVnaGFuIFRyYWlub3I=/30100109/c29ueQ) (Freegal)
 
 [![Feeling Funky by Various Artists](/images/article/feeling-funky.jpg)](http://suffolklibraries.freegalmusic.com/artists/view/TWVnaGFuIFRyYWlub3I=/30100109/c29ueQ)
 
 Full of upbeat and funky pop songs to get you going. Key acts include Sam Smith, Pharrell Williams, and Meghan Trainor.
 
-## [<cite>Voices</cite> by Various Artists (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/QmVuIEhhZW5vdw==/30413359/c29ueQ)
+## [<cite>Voices</cite> by Various Artists](http://suffolklibraries.freegalmusic.com/artists/view/QmVuIEhhZW5vdw==/30413359/c29ueQ) (Freegal)
 
 [![Voices by Various Artists](/images/article/voices.jpg)](http://suffolklibraries.freegalmusic.com/artists/view/QmVuIEhhZW5vdw==/30413359/c29ueQ)
 

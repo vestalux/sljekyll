@@ -4,7 +4,7 @@ title: 10 oddball American rock classics
 date: 2014-03-11 09:56:14+00:00
 author: richard-baker
 category: music
-excerpt: Download or stream classics from Captain Beefheart, Iron Butterfly and the 13th Floor Elevators. All you'll need is your library card and PIN.
+excerpt: Download or stream classics from Captain Beefheart, Iron Butterfly and the 13th Floor Elevators.
 breadcrumb: music
 ---
 ![Captain Beefheart](/images/featured/featured-captain-beefheart.jpg)
@@ -17,7 +17,7 @@ Download or stream these psychedelic classics for free. All you&#8217;ll need is
 
 3. [<cite>Levitation</cite> by The 13th Floor Elevators](http://suffolklibraries.freegalmusic.com/artists/view/MTN0aCBGbG9vciBFbGV2YXRvcnM=/887396217546/aW9kYQ==) from <cite>The Psychedelic World Of</cite>
 
-4. [<cite>You Yesyesyes Again</cite> by The Residents](http://suffolklibraries.freegalmusic.com/artists/view/VGhlIFJlc2lkZW50cw==/444583/aW9kYQ==) from <cite>Fingerprince</cite>
+4. <cite>You Yesyesyes Again</cite> by The Residents from <cite>Fingerprince</cite>
 
 5. [<cite>Skunk (Sonically Speaking)</cite> by MC5](http://suffolklibraries.freegalmusic.com/artists/view/TUM1/884385065300/aW9kYQ==) from <cite>The Anthology 1965–1971</cite>
 

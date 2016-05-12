@@ -9,9 +9,9 @@ breadcrumb: music
 ---
 ![No pier pressure by Brian Wilson](/images/featured/featured-no-pier-pressure.jpg)
 
-## [<cite>No pier pressure</cite> by Brian Wilson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/27199109?QRY=CTIBIB%3C%20IRN(49737552)&QRYTEXT=No%20pier%20pressure%20%5Bsound%20recording%5D)
+## <cite>No pier pressure</cite> by Brian Wilson
 
-[![No pier pressure by Brian Wilson](/images/article/no-pier-pressure.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/27199109?QRY=CTIBIB%3C%20IRN(49737552)&QRYTEXT=No%20pier%20pressure%20%5Bsound%20recording%5D)
+[![No pier pressure by Brian Wilson](/images/article/no-pier-pressure.jpg)
 
 Pop legend Brian Wilson performs with a multitude of artists, including previous Beach Boys member Al Jardine, Blondie Chaplin, and actress Zooey Deschanel.
 
@@ -39,19 +39,13 @@ First new album since 2009. Working with Sleaford Mods, this one is described by
 
 Raucous post-grunge fun from the Loveless brothers. Play loud.
 
-## [<cite>Piece by Piece (Deluxe Version)</cite> by Kelly Clarkson (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/S2VsbHkgQ2xhcmtzb24=/30520585/c29ueQ)
-
-[![Piece by Piece (Deluxe Version) by Kelly Clarkson](/images/article/piece-by-piece.jpg)](http://suffolklibraries.freegalmusic.com/artists/view/S2VsbHkgQ2xhcmtzb24=/30520585/c29ueQ)
-
-Seventh studio album by the American singer. Featuring the single <cite>Heartbeat Song</cite> and a collaboration with John Legend <cite>Run Run Run</cite>, the album debuted at #6 in the UK Albums Chart.
-
-## [<cite>Lady Sings the Blues</cite> by Rebecca Ferguson (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/UmViZWNjYSBGZXJndXNvbg==/29923971/c29ueQ)
+## [<cite>Lady Sings the Blues</cite> by Rebecca Ferguson](http://suffolklibraries.freegalmusic.com/artists/view/UmViZWNjYSBGZXJndXNvbg==/29923971/c29ueQ) (Freegal)
 
 [![Lady Sings the Blues by Rebecca Ferguson](/images/article/lady-sings-the-blues.jpg)](http://suffolklibraries.freegalmusic.com/artists/view/UmViZWNjYSBGZXJndXNvbg==/29923971/c29ueQ)
 
 A Billie Holiday covers record which hears the X Factor singer take on classics like <cite>Summertime</cite>, <cite>Embraceable You</cite> and <cite>God Bless This Child</cite>.
 
-## [<cite>Toto XIV</cite> by Toto (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/VG90bw==/889176372704/aW9kYQ)
+## [<cite>Toto XIV</cite> by Toto](http://suffolklibraries.freegalmusic.com/artists/view/VG90bw==/889176372704/aW9kYQ) (Freegal)
 
 [![Toto XIV by Toto](/images/article/toto-xiv.jpg)](http://suffolklibraries.freegalmusic.com/artists/view/VG90bw==/889176372704/aW9kYQ)
 

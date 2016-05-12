@@ -9,9 +9,9 @@ breadcrumb: music
 ---
 ![Electronica 1: The time machine by Jean Michel Jarre](/images/featured/featured-electronica-1-the-time-machine.jpg)
 
-## [<cite>Electronica 1: The time machine</cite> by Jean Michel Jarre](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10330005?QRY=CTIBIB%3C%20IRN(56500869)&QRYTEXT=Electronica%201%3A%20The%20time%20machine%20%5Bsound%20recording%5D)
+## <cite>Electronica 1: The time machine</cite> by Jean Michel Jarre
 
-[![Electronica 1: The time machine by Jean Michel Jarre](/images/article/electronica-1-the-time-machine.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10330005?QRY=CTIBIB%3C%20IRN(56500869)&QRYTEXT=Electronica%201%3A%20The%20time%20machine%20%5Bsound%20recording%5D)
+[![Electronica 1: The time machine by Jean Michel Jarre](/images/article/electronica-1-the-time-machine.jpg)]
 
 Electronic pioneer releases his first album for eight years, with help from some fascinating and unexpected collaborators.
 

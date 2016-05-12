@@ -17,15 +17,15 @@ Hozier, the 23-year-old singer-songwriter Andrew Hozier-Byrne, debuts his highly
 
 By the time ABBA played Wembley Arena in November 1979, they had spent five years in the public spotlight. That night they delivered some of the most exhilarating performances of their career. When ABBA took the stage, their experience and professionalism showed. The set covered highlights throughout their career and contained a rare performance of Agnetha’s <cite>I’m Still Alive</cite>, unreleased on any album.
 
-## [<cite>Melody Road</cite> Neil Diamond](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3201944?QRY=CTIBIB%3C%20IRN%2841340763%29&QRYTEXT=Melody%20road%20[sound%20recording])
+## [<cite>Melody Road</cite> by Neil Diamond](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3201944?QRY=CTIBIB%3C%20IRN%2841340763%29&QRYTEXT=Melody%20road%20[sound%20recording])
 
 Produced by the acclaimed Don Was and Jacknife Lee, <cite>Melody Road</cite> is Neil Diamond&#8217;s first original studio release in six years. These are beautiful and heartfelt songs imbued with the wisdom of a man reflecting on his life experiences while still looking forward on the road ahead of him.
 
-## [<cite>I Forget Where We Were</cite> by Ben Howard](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3202722?QRY=CTIBIB%3C%20IRN%2843957628%29&QRYTEXT=I%20forgot%20where%20we%20were%20[sound%20recording])
+## <cite>I Forget Where We Were</cite> by Ben Howard
 
 Ben Howard, a shy surfer boy from Devon, went from writing confessional ditties in his bedroom to winning two Brit Awards, selling out stadiums and building a huge audience with his debut album. <cite>I Forget Where We Were</cite> broke new ground as the first entire performance of an album to be broadcast on BBC Radio 1.
 
-## [Wallflower by Diana Krall](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3203696?QRY=CTIBIB%3C%20IRN%2844257575%29&QRYTEXT=Wallflower%20[sound%20recording])
+## [<cite>Wallflower</cite> by Diana Krall](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3203696?QRY=CTIBIB%3C%20IRN%2844257575%29&QRYTEXT=Wallflower%20[sound%20recording])
 
 Diana Krall interprets of some of the greatest pop songs of all time in her new album. <cite>Wallflower</cite> features popular songs from the 1960&#8217;s to present day that inspired Krall in her early years. The album features well known hits including Elton John’s <cite>Sorry Seems To Be The Hardest Word</cite> and guest vocals from Michael Buble and Bryan Adams.
 

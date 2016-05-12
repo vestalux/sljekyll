@@ -39,7 +39,7 @@ Amazingly, this is the 22nd studio album from the world’s loudest band.
 
 Foals continue their journey from being an impressive indie band to becoming one of the most exciting groups in Britain.
 
-## [<cite>Still</cite> by Richard Thompson (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/UmljaGFyZCBUaG9tcHNvbg==/805520931311/aW9kYQ==)
+## [<cite>Still</cite> by Richard Thompson](http://suffolklibraries.freegalmusic.com/artists/view/UmljaGFyZCBUaG9tcHNvbg==/805520931311/aW9kYQ==) (Freegal)
 
 [![Still by Richard Thompson](/images/article/still.jpg)](http://suffolklibraries.freegalmusic.com/artists/view/UmljaGFyZCBUaG9tcHNvbg==/805520931311/aW9kYQ==)
 

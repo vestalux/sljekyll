@@ -16,7 +16,7 @@ Here&#8217;s our pick of the best newly available downloads:
 ## Rock
 
   * [<cite>Greatest hits</cite> by Foo Fighters](http://suffolklibraries.freegalmusic.com/artists/view/Rm9vIEZpZ2h0ZXJz/16806725/c29ueQ==)
-  * [<cite>Mechanical bull</cite>](http://suffolklibraries.freegalmusic.com/artists/view/S2luZ3MgT2YgTGVvbg==/28080409/c29ueQ==)
+  * [<cite>Mechanical bull</cite> by Kings of Leon](http://suffolklibraries.freegalmusic.com/artists/view/S2luZ3MgT2YgTGVvbg==/28080409/c29ueQ==)
 
 ## Pop
 
@@ -36,9 +36,8 @@ Here&#8217;s our pick of the best newly available downloads:
 ## R&B
 
   * [<cite>Timber</cite> by Pitbull feat. Ke$ha](http://suffolklibraries.freegalmusic.com/artists/view/UGl0YnVsbCBmZWF0LiBLZSRoYQ==/28739655/c29ueQ==)
-  * [<cite>My own lane</cite>Kid Ink](http://suffolklibraries.freegalmusic.com/artists/view/S2lkIEluaw==/28774380/c29ueQ==)
+  * [<cite>My own lane</cite> by Kid Ink](http://suffolklibraries.freegalmusic.com/artists/view/S2lkIEluaw==/28774380/c29ueQ==)
 
 ## Classical
 
-  * [<cite>Story of my life</cite> by The Piano Guys](http://suffolklibraries.freegalmusic.com/artists/view/VGhlIFBpYW5vIEd1eXM=/29316973/c29ueQ==)
   * [<cite>Stravinsky/Brahms: Violin concertos LP</cite> by Hilary Hahn](http://suffolklibraries.freegalmusic.com/artists/view/SGlsYXJ5IEhhaG4=/66896/c29ueQ==)

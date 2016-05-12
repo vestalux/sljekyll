@@ -17,7 +17,7 @@ Freegal is our free music download and streaming service. Each month Richard Bak
 
 * [<cite>He’s A Mighty Good Leader</cite> by Lonnie Smith](http://suffolklibraries.freegalmusic.com/artists/view/TG9ubmllIFNtaXRo/184044/aW9kYQ==) from <cite>Boogaloo to Beck by A Tribute</cite>
 
-* [<cite>The Cat</cite> by Jimmy &#8220;The Cat&#8221; Smith](http://suffolklibraries.freegalmusic.com/artists/view/SmltbXkgU21pdGg=/305418/aW9kYQ==) from <cite>Portrait</cite>
+* <cite>The Cat</cite> by Jimmy &#8220;The Cat&#8221; Smith from <cite>Portrait</cite>
 
 * [<cite>Roll ‘em Pete</cite> by Rhoda Scott](http://suffolklibraries.freegalmusic.com/artists/view/UmhvZGEgU2NvdHQ=/312569/aW9kYQ==) from <cite>Beyond The Sea</cite>
 
