@@ -9,15 +9,15 @@ breadcrumb: non-fiction
 ---
 ![The foodie teen by Alessandra Peters](/images/featured/featured-the-foodie-teen.jpg)
 
-## [<cite>The foodie teen</cite> by Alessandra Peters](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/25453318?QRY=CTIBIB%3C%20IRN(51019595)&QRYTEXT=The%20foodie%20teen)
+## [<cite>The foodie teen</cite> by Alessandra Peters](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21020899?QRY=CTIBIB%3C%20IRN(60851936)&QRYTEXT=The%20foodie%20teen%20%3A%20over%20100%20nutritious%20and%20wholesome%20recipes%20from%20a%20teenage%20blogging%20sensation)
 
-[![The foodie teen by Alessandra Peters](/images/article/the-foodie-teen.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/25453318?QRY=CTIBIB%3C%20IRN(51019595)&QRYTEXT=The%20foodie%20teen)
+[![The foodie teen by Alessandra Peters](/images/article/the-foodie-teen.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21020899?QRY=CTIBIB%3C%20IRN(60851936)&QRYTEXT=The%20foodie%20teen%20%3A%20over%20100%20nutritious%20and%20wholesome%20recipes%20from%20a%20teenage%20blogging%20sensation)
 
 Nutritious, delicious meals from the award-winning teenage blogger Alessandra Peters. Peters is a blogger, photographer and health enthusiast who has been cooking her way through an autoimmune disease and numerous food intolerances. Using seasonal, locally-sourced produce, the book contains over 100 recipes which are naturally gluten-free, dairy-free and nutrient-rich.
 
-## [<cite>Lemmy: the ace of spades</cite> by Mick Wall](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/25462280?QRY=CTIBIB%3C%20IRN(61025478)&QRYTEXT=Lemmy%20%3A%20the%20ace%20of%20spades)
+## [<cite>Lemmy: the definitive biography</cite> by Mick Wall](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21022268?QRY=CTIBIB%3C%20IRN(60140668)&QRYTEXT=Lemmy%20%3A%20the%20definitive%20biography)
 
-[![Lemmy: the ace of spades by Mick Wall](/images/article/lemmy-the-ace-of-spades.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/25462280?QRY=CTIBIB%3C%20IRN(61025478)&QRYTEXT=Lemmy%20%3A%20the%20ace%20of%20spades)
+[![Lemmy: the definitive biography by Mick Wall](/images/article/lemmy.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21022268?QRY=CTIBIB%3C%20IRN(60140668)&QRYTEXT=Lemmy%20%3A%20the%20definitive%20biography)
 
 Based on original interviews conducted between Lemmy and the author over many years, along with the insights of those who knew him best &#8211; former band mates, friends, managers, fellow artists and record business insiders &#8211; this is the story of one of Britain&#8217;s greatest characters.
 
@@ -39,9 +39,9 @@ When Bob Hoskins died of Parkinson&#8217;s in 2014, his daughter posted a blog p
 
 Katherine Howard was the fifth wife of Henry VIII and cousin to the executed Anne Boleyn. She first came to court as a young girl of fourteen, but even prior to that her fate had been sealed and she was doomed to die. She was beheaded in 1542 for crimes of adultery and treason, in one of the most sensational scandals of the Tudor age. The traditional story of Henry VIII&#8217;s fifth queen dwells on her sexual exploits before she married the king, and her execution is seen as her just dessert for having led a reckless life. However, the true story of Katherine Howard could not be more different.
 
-## [<cite>The Co-op&#8217;s got bananas: a memoir of growing up in the post-war North</cite> by Hunter Davies](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/25472791?QRY=CTIBIB%3C%20IRN(60138346)&QRYTEXT=The%20Co-op%27s%20got%20bananas%20%3A%20a%20memoir%20of%20growing%20up%20in%20the%20post-war%20North)
+## [<cite>The Co-op&#8217;s got bananas: a memoir of growing up in the post-war North</cite> by Hunter Davies](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21021460?QRY=CTIBIB%3C%20IRN(63526195)&QRYTEXT=The%20Co-op%27s%20got%20bananas!%20%3A%20a%20memoir%20of%20growing%20up%20in%20the%20post-war%20North)
 
-[![The Co-op's got bananas: a memoir of growing up in the post-war North by Hunter Davies](/images/article/the-co-ops-got-bananas.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/25472791?QRY=CTIBIB%3C%20IRN(60138346)&QRYTEXT=The%20Co-op%27s%20got%20bananas%20%3A%20a%20memoir%20of%20growing%20up%20in%20the%20post-war%20North)
+[![The Co-op's got bananas: a memoir of growing up in the post-war North by Hunter Davies](/images/article/the-co-ops-got-bananas.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21021460?QRY=CTIBIB%3C%20IRN(63526195)&QRYTEXT=The%20Co-op%27s%20got%20bananas!%20%3A%20a%20memoir%20of%20growing%20up%20in%20the%20post-war%20North)
 
 A poignant, and very personal childhood memoir of growing up in Cumbria during the Second World War and into the 1950s. A world of rationing where there were no sweets, no chocolate, no junk food. Education was free but few young people went to university. A more innocent age. Sunday Times columnist Hunter Davies eloquently takes us back to that period with this social memoir.
 

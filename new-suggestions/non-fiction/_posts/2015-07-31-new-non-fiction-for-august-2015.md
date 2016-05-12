@@ -21,12 +21,6 @@ Clive James was diagnosed with terminal leukemia in 2010. As an award-winning au
 
 The winner of <cite>The Great British Bake Off 2013</cite> delivers her book in time for the Christmas market.
 
-## [<cite>Joey Barton: my autobiography</cite> by Joey Barton](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16163138?QRY=CTIBIB%3C%20IRN(18221429)&QRYTEXT=Joey%20Barton%20%3A%20my%20autobiography)
-
-[![Joey Barton: my autobiography by Joey Barton](/images/article/joey-barton.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16163138?QRY=CTIBIB%3C%20IRN(18221429)&QRYTEXT=Joey%20Barton%20%3A%20my%20autobiography)
-
-Always controversial and never afraid to speak his mind, Joey Barton takes the ‘Roy Keane’ slot in the sports biographies for Christmas.
-
 ## [<cite>Sudbury, Long Melford and Lavenham through time</cite> by Kate J Cole](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16165850?QRY=CTIBIB%3C%20IRN(51851375)&QRYTEXT=Sudbury%2C%20Long%20Melford%20and%20Lavenham%20through%20time)
 
 [![Sudbury, Long Melford and Lavenham through time by Kate J Cole](/images/article/sudbury-long-melford-and-lavenham-through-time.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16165850?QRY=CTIBIB%3C%20IRN(51851375)&QRYTEXT=Sudbury%2C%20Long%20Melford%20and%20Lavenham%20through%20time)
@@ -39,15 +33,15 @@ Fascinating selection of photographs tracing some of the ways in which Sudbury, 
 
 A personal odyssey through the lost world of the English railways, from when Whittaker began train-spotting in the 1960s. Covers features such as Dr Beeching&#8217;s report, station architecture and privatisation.
 
-## [<cite>Lonely Planet&#8217;s ultimate travelist: the 1001 best experiences on the planet &#8211; ranked</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16172670?QRY=CTIBIB%3C%20IRN(50743011)&QRYTEXT=Lonely%20Planet%27s%20ultimate%20travelist%20%3A%20the%201001%20best%20experiences%20on%20the%20planet%20-%20ranked)
+## [<cite>Lonely Planet&#8217;s ultimate travelist: the 500 best experiences on the planet &#8211; ranked</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20995172?QRY=CTIBIB%3C%20IRN(55564651)&QRYTEXT=Ultimate%20travelist%20%3A%20the%20500%20best%20places%20on%20the%20planet%20...%20ranked)
 
-[![Lonely Planet's ultimate travelist: the 1001 best experiences on the planet - ranked](/images/article/ultimate-travelist.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16172670?QRY=CTIBIB%3C%20IRN(50743011)&QRYTEXT=Lonely%20Planet%27s%20ultimate%20travelist%20%3A%20the%201001%20best%20experiences%20on%20the%20planet%20-%20ranked)
+[![Lonely Planet's ultimate travelist: the 1001 best experiences on the planet - ranked](/images/article/ultimate-travelist.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20995172?QRY=CTIBIB%3C%20IRN(55564651)&QRYTEXT=Ultimate%20travelist%20%3A%20the%20500%20best%20places%20on%20the%20planet%20...%20ranked)
 
 A compilation of 501 of the world&#8217;s most unmissable sights and attractions. It has been ranked by Lonely Planet&#8217;s global community of travel experts, so big names such as the Eiffel Tower and the Taj Mahal battle it out with lesser-known gems for a place in the Top 10.
 
-## [<cite>One man&#8217;s Everest: the autobiography of Kenton Cool</cite> by Kenton Cool](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16173795?QRY=CTIBIB%3C%20IRN(51849791)&QRYTEXT=One%20man%27s%20Everest%20%3A%20the%20autobiography%20of%20Kenton%20Cool)
+## [<cite>One man&#8217;s Everest: the autobiography of Kenton Cool</cite> by Kenton Cool](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20995560?QRY=CTIBIB%3C%20IRN(51849790)&QRYTEXT=One%20man%27s%20Everest)
 
-[![One man's Everest: the autobiography of Kenton Cool by Kenton Cool](/images/article/one-mans-everest.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16173795?QRY=CTIBIB%3C%20IRN(51849791)&QRYTEXT=One%20man%27s%20Everest%20%3A%20the%20autobiography%20of%20Kenton%20Cool)
+[![One man's Everest: the autobiography of Kenton Cool by Kenton Cool](/images/article/one-mans-everest.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20995560?QRY=CTIBIB%3C%20IRN(51849790)&QRYTEXT=One%20man%27s%20Everest)
 
 The story of how a British climber marked the 60th anniversary of the first ascent of the world&#8217;s highest peak by climbing not just Everest but the two huge mountains next to it &#8211; all in one go. Sir Ranulph Fiennes calls him “the best alpine climber of his generation”.
 

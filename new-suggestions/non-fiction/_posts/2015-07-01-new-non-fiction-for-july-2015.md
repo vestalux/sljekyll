@@ -21,15 +21,9 @@ Using LEGO bricks, artist Warren Elsmore and friends create stunning transport s
 
 A pictorial portrait of life as a USAAF airman living in Suffolk during the Second World War.
 
-## [<cite>The Regiment: 15 years in the SAS</cite> by Rusty Firmin and Adrian Weale](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/32802142?QRY=CTIBIB%3C%20IRN(50741196)&QRYTEXT=The%20Regiment%20%3A%2015%20years%20in%20the%20SAS)
+## [<cite>National Trust complete jams, preserves and chutneys</cite> by Sara Paston-Williams](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20989904?QRY=CTIBIB%3C%20IRN(50744019)&QRYTEXT=Complete%20jams%2C%20preserves%20and%20chutneys)
 
-[![The Regiment: 15 years in the SAS by Rusty Firmin and Adrian Weale](/images/article/the-regiment-15-years-in-the-sas.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/32802142?QRY=CTIBIB%3C%20IRN(50741196)&QRYTEXT=The%20Regiment%20%3A%2015%20years%20in%20the%20SAS)
-
-One of its longest-serving veterans offers a glimpse inside the shadowy world of the SAS including first hand accounts of the Iranian Embassy Siege in May 1980, the planned attack on Argentina during the Falklands War and the secret conflict between the SAS and IRA in the 1980s.
-
-## [<cite>National Trust complete jams, preserves and chutneys</cite> by Sara Paston-Williams](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/32803040?QRY=CTIBIB%3C%20IRN(50744018)&QRYTEXT=National%20Trust%20complete%20jams%2C%20preserves%20and%20chutneys)
-
-[![National Trust complete jams, preserves and chutneys by Sara Paston-Williams](/images/article/national-trust-complete-jams-preserves-and-chutneys.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/32803040?QRY=CTIBIB%3C%20IRN(50744018)&QRYTEXT=National%20Trust%20complete%20jams%2C%20preserves%20and%20chutneys)
+[![National Trust complete jams, preserves and chutneys by Sara Paston-Williams](/images/article/national-trust-complete-jams-preserves-and-chutneys.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20989904?QRY=CTIBIB%3C%20IRN(50744019)&QRYTEXT=Complete%20jams%2C%20preserves%20and%20chutneys)
 
 Food historian and cook shares her experience of British cooking, demonstrating how to make the best old-fashioned recipes for chutneys, pickles, jams and much more.
 

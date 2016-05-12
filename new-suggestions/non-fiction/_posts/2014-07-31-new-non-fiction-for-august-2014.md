@@ -39,7 +39,7 @@ Of those saved approximately 3500 were of Jewish descent. This title tells the s
 
 The story of Buster and Will, told by Will himself, describing how each came to save the other&#8217;s life. This is a relationship that produced some heroic feats in the dust and desert heat of Afghanistan – and the most decorated dog in military history.
 
-## [<cite>The final season</cite> by Nigel McCrery](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44432021?QRY=CTIBIB%3C%20IRN%2839260550%29&QRYTEXT=The%20final%20season)
+## [<cite>The final season</cite> by Nigel McCrery](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20957688?QRY=CTIBIB%3C%20IRN(38865983)&QRYTEXT=The%20final%20season%20%3A%20the%20footballers%20who%20fought%20and%20died%20in%20the%20Great%20War)
 
 In 1914, as today, professional footballers were heroes and role models. They were the sporting superstars of their time; symbols of youth, health and vigour. And naturally enough, when war broke out they felt it was their duty to join up.
 

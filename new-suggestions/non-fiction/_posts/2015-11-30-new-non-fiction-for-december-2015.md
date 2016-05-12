@@ -15,9 +15,9 @@ breadcrumb: non-fiction
 
 98 year old Diana Athill reflects on lessons learned and a life fully lived. This is the sequel to the Costa winning <cite>Somewhere towards the end</cite>.
 
-## [<cite>Lean in 15: 15 minute meals and workouts to keep you lean and healthy</cite> by Joe Wicks](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14677240?QRY=CTIBIB%3C%20IRN(55565567)&QRYTEXT=Lean%20in%2015%20%3A%2015%20minute%20meals%20and%20workouts%20to%20keep%20you%20lean%20and%20healthy)
+## [<cite>Lean in 15: 15 minute meals and workouts to keep you lean and healthy</cite> by Joe Wicks](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21012997?QRY=CTIBIB%3C%20IRN(60291244)&QRYTEXT=Lean%20in%2015)
 
-[![Lean in 15: 15 minute meals and workouts to keep you lean and healthy by Joe Wicks](/images/article/lean-in-15.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14677240?QRY=CTIBIB%3C%20IRN(55565567)&QRYTEXT=Lean%20in%2015%20%3A%2015%20minute%20meals%20and%20workouts%20to%20keep%20you%20lean%20and%20healthy)
+[![Lean in 15: 15 minute meals and workouts to keep you lean and healthy by Joe Wicks](/images/article/lean-in-15.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21012997?QRY=CTIBIB%3C%20IRN(60291244)&QRYTEXT=Lean%20in%2015)
 
 Body coach Joe Wicks showcases delicious recipes and a plan for sustainable fat loss that will inspire busy people to keep their body healthy and lean forever. Wicks has more than 400,000 followers on Instagram.
 

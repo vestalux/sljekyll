@@ -21,21 +21,21 @@ Bill Bryson follows up his hilarious 1995 book, <cite>Notes from a Small Island<
 
 Born in Pakefield and with many links to Suffolk, this is a celebration of Michael Foreman&#8217;s life as a master storyteller and illustrator told through his own autobiographical tales, diary extracts, original sketches and illustrations from his award-winning publications.
 
-## [<cite>Good night and good riddance: how thirty-five years of John Peel helped to shape modern Britain</cite> by David Cavanagh](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10684238?QRY=CTIBIB%3C%20IRN(53435244)&QRYTEXT=Good%20night%20and%20good%20riddance%20%3A%20how%20thirty-five%20years%20of%20John%20Peel%20helped%20to%20shape%20modern%20Britain)
+## [<cite>Good night and good riddance: how thirty-five years of John Peel helped to shape modern Britain</cite> by David Cavanagh](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21004704?QRY=CTIBIB%3C%20IRN(57311818)&QRYTEXT=Good%20night%20and%20good%20riddance%20%3A%20how%20thirty-five%20years%20of%20John%20Peel%20helped%20to%20shape%20modern%20life)
 
-[![Good night and good riddance: how thirty-five years of John Peel helped to shape modern Britain by David Cavanagh](/images/article/good-night-and-good-riddance.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10684238?QRY=CTIBIB%3C%20IRN(53435244)&QRYTEXT=Good%20night%20and%20good%20riddance%20%3A%20how%20thirty-five%20years%20of%20John%20Peel%20helped%20to%20shape%20modern%20Britain)
+[![Good night and good riddance: how thirty-five years of John Peel helped to shape modern Britain by David Cavanagh](/images/article/good-night-and-good-riddance.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21004704?QRY=CTIBIB%3C%20IRN(57311818)&QRYTEXT=Good%20night%20and%20good%20riddance%20%3A%20how%20thirty-five%20years%20of%20John%20Peel%20helped%20to%20shape%20modern%20life)
 
 Another title with local connections. This book focuses on some 300 shows between 1967 and 2004, giving a thorough overview of Peel&#8217;s broadcasting career and placing it in its cultural and social contexts.
 
-## [<cite>Absolute pandemonium: the autobiography</cite> by Brian Blessed](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10739600?QRY=CTIBIB%3C%20IRN(54090022)&QRYTEXT=Absolute%20pandemonium%20%3A%20the%20autobiography)
+## [<cite>Absolute pandemonium: the autobiography</cite> by Brian Blessed](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21004872?QRY=CTIBIB%3C%20IRN(54577665)&QRYTEXT=Absolute%20pandemonium%20%3A%20a%20memoir)
 
-[![Absolute pandemonium: the autobiography by Brian Blessed](/images/article/absolute-pandemonium.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10739600?QRY=CTIBIB%3C%20IRN(54090022)&QRYTEXT=Absolute%20pandemonium%20%3A%20the%20autobiography)
+[![Absolute pandemonium: the autobiography by Brian Blessed](/images/article/absolute-pandemonium.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21004872?QRY=CTIBIB%3C%20IRN(54577665)&QRYTEXT=Absolute%20pandemonium%20%3A%20a%20memoir)
 
 Brian Blessed tells his story in his typically understated fashion.
 
-## [<cite>The racer</cite> by David Millar](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10744750?QRY=CTIBIB%3C%20IRN(53890152)&QRYTEXT=The%20racer)
+## [<cite>The racer</cite> by David Millar](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21004818?QRY=CTIBIB%3C%20IRN(57311809)&QRYTEXT=The%20racer%20%3A%20life%20on%20the%20road%20as%20a%20pro%20cyclist)
 
-[![The racer by David Millar](/images/article/the-racer.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10744750?QRY=CTIBIB%3C%20IRN(53890152)&QRYTEXT=The%20racer)
+[![The racer by David Millar](/images/article/the-racer.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21004818?QRY=CTIBIB%3C%20IRN(57311809)&QRYTEXT=The%20racer%20%3A%20life%20on%20the%20road%20as%20a%20pro%20cyclist)
 
 The newly retired and ever forthright David Millar offers us a unique insight into the mind of a professional cyclist during his last year in the peloton.
 

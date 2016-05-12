@@ -4,7 +4,7 @@ title: 'International Women&#8217;s Day in 2016'
 date: 2016-03-02T09:00:11+00:00
 author: emma-raindle
 category: non-fiction
-excerpt: This year's theme for <a href="http://www.internationalwomensday.com/">International Women's Day</a> is <a href="https://twitter.com/hashtag/pledgeforparity">#PledgeForParity</a>, recognising the need to accelerate gender quality across all cultures in education and the workplace.
+excerpt: "This year's theme for International Women's Day is #PledgeForParity, recognising the need to accelerate gender quality across all cultures in education and the workplace."
 breadcrumb: non-fiction
 ---
 ![Girl Up by Laura Bates, I Am Malala by Malala Yousafzai and We should all be feminists by Chimamanda Ngozi Adichie](/images/featured/featured-iwd-2016.jpg)
@@ -40,6 +40,8 @@ Malala Yousafzai, the youngest-winning Nobel Prize laureate, writes about her ca
 [![We should all be feminists by Chimamanda Ngozi Adichie](/images/article/we-should-all-be-feminists.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/26603554?QRY=CTIBIB%3C%20IRN(44979042)&QRYTEXT=We%20should%20all%20be%20feminists)
 
 Distinguished novelist presents the argument: What does &#8216;feminism&#8217; mean today? See Chimamanda&#8217;s TED Talk on YouTube:
+
+<iframe src="https://www.youtube.com/embed/hg3umXU_qWc" frameborder="0" allowfullscreen></iframe>
 
 ## [<cite>The hidden face of Eve: women in the Arab world</cite> by Nawal El Saadawi](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8536540?QRY=CTIBIB%3C%20IRN(1162485)&QRYTEXT=The%20hidden%20face%20of%20Eve.%20%3A%20Women%20in%20the%20Arab%20world)
 

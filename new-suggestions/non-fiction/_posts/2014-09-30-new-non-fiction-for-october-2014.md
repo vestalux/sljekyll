@@ -31,7 +31,7 @@ Joan of Arc was burned at the stake as a heretic at the age of just nineteen. 50
 
 In the original transcripts, we hear first-hand testimony from Joan, her family and her friends: a rare survival from the medieval world. What could be more revealing?
 
-## [<cite>So, Anyway: The Autobiography</cite> by John Cleese](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/1724495?QRY=CTIBIB%3C%20IRN(45373389)&QRYTEXT=So%2C%20anyway)
+## [<cite>So, Anyway</cite> by John Cleese](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/1724495?QRY=CTIBIB%3C%20IRN(45373389)&QRYTEXT=So%2C%20anyway)
 
 As we edge nearer to Christmas we start to get the big hitters who will form the bestsellers for the next few weeks building towards Christmas. Our next title certainly falls into that category.
 

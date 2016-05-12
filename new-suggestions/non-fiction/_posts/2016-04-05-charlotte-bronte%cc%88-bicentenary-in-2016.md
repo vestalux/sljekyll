@@ -9,9 +9,9 @@ breadcrumb: non-fiction
 ---
 ![The Brontës: scenes from the childhood of Charlotte, Branwell, Emily, and Anne by Catherine Brighton](/images/featured/featured-the-brontes-scenes-from-the-childhood.jpg)
 
-## [<cite>Reader, I married him</cite> by Tracy Chevalier](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/27169333?QRY=CTIBIB%3C%20IRN(362108)&QRYTEXT=Reader%2C%20I%20married%20him)
+## [<cite>Reader, I married him</cite> by Tracy Chevalier](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21023424?QRY=CTIBIB%3C%20IRN(63525186)&QRYTEXT=Reader%2C%20I%20married%20him%20%3A%20stories%20inspired%20by%20Jane%20Eyre)
 
-[![Reader, I married him by Tracy Chevalier](/images/article/reader-i-married-him.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/27169333?QRY=CTIBIB%3C%20IRN(362108)&QRYTEXT=Reader%2C%20I%20married%20him)
+[![Reader, I married him by Tracy Chevalier](/images/article/reader-i-married-him.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21023424?QRY=CTIBIB%3C%20IRN(63525186)&QRYTEXT=Reader%2C%20I%20married%20him%20%3A%20stories%20inspired%20by%20Jane%20Eyre)
 
 Short story collection inspired by Charlotte Brontë, including stories from authors by Tessa Hadley, Esther Freud and Audrey Niffenegger.
 

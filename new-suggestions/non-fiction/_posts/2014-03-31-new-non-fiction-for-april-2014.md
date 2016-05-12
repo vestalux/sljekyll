@@ -25,17 +25,17 @@ The daughter of an officer in the Bengal Lancers and an American heiress, she be
 
 After the war she worked first in Paris and then in New York, on Madison Avenue, with advertising&#8217;s ‘mad men’. At 91 she is still a formidable force.
 
-## [<cite>The man who couldn&#8217;t stop: OCD and the true story of a life lost in thought</cite> by David Adam](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19957387?QRY=CTIBIB%3C%20IRN(24549072)&QRYTEXT=The%20man%20who%20couldn%27t%20stop%20%3A%20OCD%20and%20the%20true%20story%20of%20a%20life%20lost%20in%20thought)
+## [<cite>The man who couldn&#8217;t stop: OCD and the true story of a life lost in thought</cite> by David Adam](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20906779?QRY=CTIBIB%3C%20IRN(38546363)&QRYTEXT=The%20man%20who%20couldn%27t%20stop%20%3A%20OCD%2C%20and%20the%20true%20story%20of%20a%20life%20lost%20in%20thought)
 
 Have you ever had a strange urge to jump from a tall building, or steer your car into oncoming traffic? You are not alone. In this captivating fusion of science, history and personal memoir, writer David Adam explores the weird thoughts that exist within every mind, and how they drive millions of us towards obsessions and compulsions.
 
-## [<cite>Michelle Collins: the autobiography</cite> by Michelle Collins](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19958731?QRY=CTIBIB%3C%20IRN(34790736)&QRYTEXT=Michelle%20Collins%20%3A%20the%20autobiography)
+## [<cite>Michelle Collins: this is me</cite> by Michelle Collins](hhttps://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20907184?QRY=CTIBIB%3C%20IRN(38545667)&QRYTEXT=Michelle%20Collins%20%3A%20this%20is%20me)
 
 Michelle Collins has played iconic roles in the two most watched soap operas on British television. In the 1990s she played the backstabbing blonde, Cindy Beale, in EastEnders, and in 2011 she joined the cast of Coronation Street and now plays much–loved Rovers Return landlady, Stella Price.
 
 But what about the rest? Much of Michelle&#8217;s remarkable story has never been told before. From growing up on the wrong side of the tracks in North London with her sister and their young single mother to Michelle&#8217;s quest for success as she fought her way through some difficult and painful times.
 
-## [<cite>My dearest Jane&#8211;: a father&#8217;s letters to a daughter</cite> by Roger Mortimer](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19960416?QRY=CTIBIB%3C%20IRN(38359691)&QRYTEXT=Dearest%20Jane)
+## [<cite>Dearest Jane: a father&#8217;s letters to a daughter</cite> by Roger Mortimer](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19960416?QRY=CTIBIB%3C%20IRN(38359691)&QRYTEXT=Dearest%20Jane)
 
 Following on from the hugely popular <cite>Dear Lupin</cite>, Charlie Mortimer&#8217;s older sister Jane Torday shares her own letters. As Roger Mortimer&#8217;s eldest daughter, she received hundreds over the years, containing the same wit, irreverence and poignancy as those to Charlie.
 

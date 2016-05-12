@@ -27,9 +27,9 @@ The author pieces his aunt&#8217;s World War Two experiences, who survived Ausc
 
 The granddaughter of Vita Sackville-West and the daughter of art historian Ben Nicolson, Vanessa Nicolson chronicles her reckless childhood, including her experience at a liberal boarding school.
 
-## [<cite>The diet myth: the new science of the microbiome</cite> by T D Spector](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2047872?QRY=CTIBIB%3C%20IRN(51337518)&QRYTEXT=The%20diet%20myth%20%3A%20the%20new%20science%20of%20the%20microbiome)
+## [<cite>The diet myth: the new science of the microbiome</cite> by T D Spector](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20984134?QRY=CTIBIB%3C%20IRN(47618504)&QRYTEXT=The%20diet%20myth%20%3A%20the%20real%20science%20behind%20what%20we%20eat)
 
-[![The diet myth: the new science of the microbiome by T D Spector](/images/article/the-diet-myth.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2047872?QRY=CTIBIB%3C%20IRN(51337518)&QRYTEXT=The%20diet%20myth%20%3A%20the%20new%20science%20of%20the%20microbiome)
+[![The diet myth: the new science of the microbiome by T D Spector](/images/article/the-diet-myth.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20984134?QRY=CTIBIB%3C%20IRN(47618504)&QRYTEXT=The%20diet%20myth%20%3A%20the%20real%20science%20behind%20what%20we%20eat)
 
 Explores the hidden world of micro-organisms in our bodies, highlighting the misconceptions of fad diets.
 

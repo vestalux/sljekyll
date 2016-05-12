@@ -4,16 +4,12 @@ title: New non-fiction for January 2015
 date: 2014-12-30 15:28:28+00:00
 author: brandon-king
 category: non-fiction
-excerpt: Featuring Antonia Fraser, Kelly Hart and Douglas Boyd.
+excerpt: Featuring Antonia Fraser and Douglas Boyd.
 breadcrumb: non-fiction
 ---
 ![My history: a memoir of growing up](/images/featured/featured-antonia-fraser.jpg)
 
 ## [<cite>The seventh wife of Henry VIII: the woman who almost became his last queen</cite> by Kelly Hart](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12870228?QRY=CTIBIB%3C%20IRN(47843015)&QRYTEXT=The%20seventh%20wife%20of%20Henry%20VIII%20%3A%20Katherine%20Willoughby%3Athe%20woman%20who%20almost%20became%20his%20last%20Queen)
-
-[![The seventh wife of Henry VIII: the woman who almost became his last queen by Kelly Hart](/images/article/the-seventh-wife.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12870228?QRY=CTIBIB%3C%20IRN(47843015)&QRYTEXT=The%20seventh%20wife%20of%20Henry%20VIII%20%3A%20Katherine%20Willoughby%3Athe%20woman%20who%20almost%20became%20his%20last%20Queen)
-
-Remarkable story of the Duchess of Suffolk who nearly became the seventh wife of Henry VIII. Wielding subtle influence through her proximity to the king, she grew to know Henry well.
 
 ## [<cite>Margaret Douglas: the other Tudor princess</cite> by Mary McGrigor](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12827877?QRY=CTIBIB%3C%20IRN(44636213)&QRYTEXT=Margaret%20Douglas%20%3A%20the%20other%20Tudor%20princess)
 
@@ -23,13 +19,13 @@ Margaret Douglas, a shadowy and mysterious character in Tudor history, takes cen
 
 ## [<cite>Voices from the dark years: the truth about Occupied France, 1940-1945</cite> by Douglas Boyd](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12830807?QRY=CTIBIB%3C%20IRN(509844)&QRYTEXT=Voices%20from%20the%20dark%20years%20%3A%20the%20truth%20about%20Occupied%20France%2C%201940-1945)
 
-[![Voices from the dark years: the truth about Occupied France, 1940-1945 by Douglas Boyd](/images/article/voices-from-the-dark-years.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12830358?TIH_TYPE=B&TIH_NS=1&TIH=VOICES%20FROM%20THE%20DARK%20YEARS%20THE%20TRUTH%20ABOUT%20OCCUPIED%20FRANCE%2019401945)
+[![Voices from the dark years: the truth about Occupied France, 1940-1945 by Douglas Boyd](/images/article/voices-from-the-dark-years.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12830807?QRY=CTIBIB%3C%20IRN(509844)&QRYTEXT=Voices%20from%20the%20dark%20years%20%3A%20the%20truth%20about%20Occupied%20France%2C%201940-1945)
 
 First person accounts of ordinary people bring to life German-occupied France during World War 2. This would appeal to anyone who read Caroline Moorhead’s <cite>Village of Secrets</cite>.
 
-## [<cite>Voices in flight: RAF escapers and evaders in WWII</cite> by Martin W. Bowman](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12834812?QRY=CTIBIB%3C%20IRN(44255109)&QRYTEXT=Voices%20in%20flight%20%3A%20RAF%20escapers%20and%20evaders%20in%20WWII)
+## [<cite>Voices in flight: RAF escapers and evaders in WWII</cite> by Martin W Bowman](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12834812?QRY=CTIBIB%3C%20IRN(44255109)&QRYTEXT=Voices%20in%20flight%20%3A%20RAF%20escapers%20and%20evaders%20in%20WWII)
 
-[![Voices in flight: RAF escapers and evaders in WWII by Martin W. Bowman](/images/article/voices-in-flight-raf-escapers.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12834812?QRY=CTIBIB%3C%20IRN(44255109)&QRYTEXT=Voices%20in%20flight%20%3A%20RAF%20escapers%20and%20evaders%20in%20WWII)
+[![Voices in flight: RAF escapers and evaders in WWII by Martin W Bowman](/images/article/voices-in-flight-raf-escapers.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12834812?QRY=CTIBIB%3C%20IRN(44255109)&QRYTEXT=Voices%20in%20flight%20%3A%20RAF%20escapers%20and%20evaders%20in%20WWII)
 
 Tales illustrating the bravery and resourcefulness of escapees from German PoW camps in Western Europe during World War 2.
 

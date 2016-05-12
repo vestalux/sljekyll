@@ -57,8 +57,8 @@ He really doesn’t need any more publicity but he has a new book out.
 
 Sir Alex Ferguson dissects his 38 record-breaking years of management to reveal the key tools he used to deliver sustained success on and off the field. From tactics to teamwork, from hiring to firing, from dealing with the boardroom to responding to failure, &#8216;Leading&#8217; investigates the pivotal leadership decisions of an astonishing career.
 
-## [<cite>The secret war: spies, codes and guerrillas, 1939-1945</cite> by Max Hastings](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/28932374?QRY=CTIBIB%3C%20IRN(52718193)&QRYTEXT=The%20secret%20war%20%3A%20spies%2C%20codes%20and%20guerrillas%2C%201939-1945)
+## [<cite>The secret war: spies, codes and guerrillas, 1939-1945</cite> by Max Hastings](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21001576?QRY=CTIBIB%3C%20IRN(56502637)&QRYTEXT=The%20secret%20war%20%3A%20spies%2C%20codes%20and%20guerrillas%201939-45)
 
-[![The secret war: spies, codes and guerrillas, 1939-1945 by Max Hastings](/images/article/the-secret-war.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/28932374?QRY=CTIBIB%3C%20IRN(52718193)&QRYTEXT=The%20secret%20war%20%3A%20spies%2C%20codes%20and%20guerrillas%2C%201939-1945)
+[![The secret war: spies, codes and guerrillas, 1939-1945 by Max Hastings](/images/article/the-secret-war.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21001576?QRY=CTIBIB%3C%20IRN(56502637)&QRYTEXT=The%20secret%20war%20%3A%20spies%2C%20codes%20and%20guerrillas%201939-45)
 
 Written on a global scale, this book brings together accounts from British, American, German, Russian and Japanese sources to tell the story of a secret war waged unceasingly by men and women often far from the battlefields but whose actions profoundly influenced the outcome.

@@ -21,15 +21,15 @@ In June 2013 Sean Conway set out from Land&#8217;s End in his bid to be the firs
 
 A field guide to the literature of nature, including a glossary containing thousands of remarkable words used in England, Scotland, Ireland and Wales to describe land, nature and weather.
 
-## [<cite>The porcelain thief</cite> by Huan Hsu](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12140483?QRY=CTIBIB%3C%20IRN(42635498)&QRYTEXT=The%20porcelain%20thief)
+## [<cite>The porcelain thief</cite> by Huan Hsu](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20977546?QRY=CTIBIB%3C%20IRN(47619098)&QRYTEXT=The%20porcelain%20thief%20%3A%20searching%20the%20Middle%20Kingdom%20for%20buried%20China)
 
-[![The porcelain thief by Huan Hsu](/images/article/the-porcelain-thief.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12140483?QRY=CTIBIB%3C%20IRN(42635498)&QRYTEXT=The%20porcelain%20thief)
+[![The porcelain thief by Huan Hsu](/images/article/the-porcelain-thief.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20977546?QRY=CTIBIB%3C%20IRN(47619098)&QRYTEXT=The%20porcelain%20thief%20%3A%20searching%20the%20Middle%20Kingdom%20for%20buried%20China)
 
 In 1938, with the Japanese army approaching from Nanking, Huan Hsu&#8217;s great-great grandfather, Liu, and his five granddaughters were forced to flee their hometown on the banks of the Yangtze River. But before they left, a hole was dug deep, in which was stowed the family heirlooms. Huan Hsu&#8217;s fascinating record of his family history combines with accounts of great change in China, and perhaps reveals the secret hiding place of his grandfather&#8217;s porcelain.
 
-## [<cite>I met a monk: eight weeks to love, happiness and freedom</cite> by Rose Elliot](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12141491?QRY=CTIBIB%3C%20IRN(46867926)&QRYTEXT=I%20met%20a%20monk%20%3A%20eight%20weeks%20to%20love%2C%20happiness%20and%20freedom)
+## [<cite>I met a monk: eight weeks to love, happiness and freedom</cite> by Rose Elliot](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20977963?QRY=CTIBIB%3C%20IRN(42902906)&QRYTEXT=I%20met%20a%20monk%20%3A%208%20weeks%20to%20happiness%2C%20freedom%20and%20peace)
 
-[![I met a monk: eight weeks to love, happiness and freedom by Rose Elliot](/images/article/i-met-a-monk.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12141491?QRY=CTIBIB%3C%20IRN(46867926)&QRYTEXT=I%20met%20a%20monk%20%3A%20eight%20weeks%20to%20love%2C%20happiness%20and%20freedom)
+[![I met a monk: eight weeks to love, happiness and freedom by Rose Elliot](/images/article/i-met-a-monk.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20977963?QRY=CTIBIB%3C%20IRN(42902906)&QRYTEXT=I%20met%20a%20monk%20%3A%208%20weeks%20to%20happiness%2C%20freedom%20and%20peace)
 
 Part autobiography, part self-help book. Vegetarian food writer hones her warm and engaging style to share her fascinating introduction to Buddhism which she discovered late in her life.
 

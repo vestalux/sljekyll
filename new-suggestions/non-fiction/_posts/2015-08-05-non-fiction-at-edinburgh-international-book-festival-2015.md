@@ -4,7 +4,7 @@ title: Non-fiction at Edinburgh International Book Festival 2015
 date: 2015-08-05 08:17:38+00:00
 author: emma-raindle
 category: non-fiction
-excerpt: <a href="https://www.edbookfest.co.uk/">Edinburgh International Book Festival</a> is the largest bookfest in the world, running 15-31 August 2015. Here are a selection of non-fiction authors appearing at the festival.
+excerpt: Edinburgh International Book Festival is the largest bookfest in the world, running 15-31 August 2015. Here are a selection of non-fiction authors appearing at the festival.
 breadcrumb: non-fiction
 ---
 ![The story of Alice: Lewis Carroll and the secret history of Wonderland by Robert Douglas-Fairhurst](/images/featured/featured-the-story-of-alice.jpg)
@@ -63,9 +63,9 @@ Investigation into the affect of the war on drugs, the drug trade and decriminal
 
 Engaging critical essays about writing, poetry and pieces of art.
 
-## [<cite>Girl with Seven Names: A North Korean Defector&#8217;s Story</cite> by Hyeonseo Lee and David John](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8479053?QRY=CTIBIB%3C%20IRN(53891162)&QRYTEXT=Girl%20with%20Seven%20Names%20%3A%20A%20North%20Korean%20Defector%27s%20Story)
+## [<cite>Girl with Seven Names: A North Korean Defector&#8217;s Story</cite> by Hyeonseo Lee and David John](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20998251?QRY=CTIBIB%3C%20IRN(54089980)&QRYTEXT=The%20girl%20with%20seven%20names%20%3A%20a%20North%20Korean%20defector%27s%20story)
 
-[![Girl with Seven Names: A North Korean Defector's Story by Hyeonseo Lee and David John](/images/article/girl-with-seven-names.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8479053?QRY=CTIBIB%3C%20IRN(53891162)&QRYTEXT=Girl%20with%20Seven%20Names%20%3A%20A%20North%20Korean%20Defector%27s%20Story)
+[![Girl with Seven Names: A North Korean Defector's Story by Hyeonseo Lee and David John](/images/article/girl-with-seven-names.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20998251?QRY=CTIBIB%3C%20IRN(54089980)&QRYTEXT=The%20girl%20with%20seven%20names%20%3A%20a%20North%20Korean%20defector%27s%20story)
 
 Hyeonseo Lee uncovers the abuse of human rights in North Korea after escaping to relatives in China and helping her family escape to South Korea.
 

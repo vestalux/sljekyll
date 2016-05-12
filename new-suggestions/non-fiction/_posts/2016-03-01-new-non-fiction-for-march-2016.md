@@ -27,9 +27,9 @@ When Paul, Johno and Leigh bought an iconic London cab called Hannah, little did
 
 If you are a figure in the public eye the last thing you want is investigative reporter Tom Bower writing your biography. Bower follows his books on Robert Maxwell, Richard Branson and Bernie Ecclestone by tackling Tony Blair and his legacy. Expect plenty about Blair&#8217;s battle with Gordon Brown, his relations with the Palace, his private life and his controversial ventures since office.
 
-## [<cite>Mediterranean cooking for diabetics: delicious dishes to control or avoid diabetes</cite> by Robin Ellis](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/30109555?QRY=CTIBIB%3C%20IRN(59110209)&QRYTEXT=Mediterranean%20cooking%20for%20diabetics%20%3A%20delicious%20dishes%20to%20control%20or%20avoid%20diabetes)
+## [<cite>Mediterranean cooking for diabetics: delicious dishes to control or avoid diabetes</cite> by Robin Ellis](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21016059?QRY=CTIBIB%3C%20IRN(62541362)&QRYTEXT=Mediterranean%20cooking%20for%20diabetics)
 
-[![Mediterranean cooking for diabetics: delicious dishes to control or avoid diabetes by Robin Ellis](/images/article/mediterranean-cooking-for-diabetics.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/30109555?QRY=CTIBIB%3C%20IRN(59110209)&QRYTEXT=Mediterranean%20cooking%20for%20diabetics%20%3A%20delicious%20dishes%20to%20control%20or%20avoid%20diabetes)
+[![Mediterranean cooking for diabetics: delicious dishes to control or avoid diabetes by Robin Ellis](/images/article/mediterranean-cooking-for-diabetics.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21016059?QRY=CTIBIB%3C%20IRN(62541362)&QRYTEXT=Mediterranean%20cooking%20for%20diabetics)
 
 Yes it is the same Robin Ellis who used to be <cite>Poldark</cite> on TV. This book is a second, fully revised edition of his <cite>Delicious Dishes for Diabetics</cite>. Based on Mediterranean cuisine &#8211; one of the healthiest in the world &#8211; Ellis shares his lifetime collection of healthy and simple recipes especially selected and adapted for people wishing to control or prevent Type 2 diabetes.
 
