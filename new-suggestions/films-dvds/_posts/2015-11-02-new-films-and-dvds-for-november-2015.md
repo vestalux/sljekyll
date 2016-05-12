@@ -23,13 +23,13 @@ Pixar movie about Riley, a girl whose family moves to San Francisco, and is guid
 
 ## [<cite>Terminator genisys</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/191856?QRY=CTIBIB%3C%20IRN(54305835)&QRYTEXT=Terminator%20genisys%20%5Bvideorecording%5D)
 
-[![Terminator genisys](/images/article/terminator-genisys.jpg)](ttps://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/191856?QRY=CTIBIB%3C%20IRN(54305835)&QRYTEXT=Terminator%20genisys%20%5Bvideorecording%5D)
+[![Terminator genisys](/images/article/terminator-genisys.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/191856?QRY=CTIBIB%3C%20IRN(54305835)&QRYTEXT=Terminator%20genisys%20%5Bvideorecording%5D)
 
-Arnie returns to the sci-fi franchise. In an attempt to save Sarah Connor (Emilia Clarke) in 1984, Sergeant Kyle Reese (Jai Courtney) faces new enemies.=
+Arnie returns to the sci-fi franchise. In an attempt to save Sarah Connor (Emilia Clarke) in 1984, Sergeant Kyle Reese (Jai Courtney) faces new enemies.
 
-## [<cite>Ted 2</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/192557?QRY=CTIBIB%3C%20IRN(34789851)&QRYTEXT=Ted%202%20%5Bvideorecording%5D)
+## <cite>Ted 2</cite>
 
-[![Ted 2](/images/article/ted-2.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/192557?QRY=CTIBIB%3C%20IRN(34789851)&QRYTEXT=Ted%202%20%5Bvideorecording%5D)
+[![Ted 2](/images/article/ted-2.jpg)]
 
 Comedy sequel. Ted (Seth MacFarlane) fights to have legal human status in order to be a parent.
 

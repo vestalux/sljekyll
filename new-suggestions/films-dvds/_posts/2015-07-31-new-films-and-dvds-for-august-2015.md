@@ -19,7 +19,7 @@ Kenneth Branagh directs a sumptuous, live-action Disney production of <cite>Cind
 
 [![Insurgent](/images/article/insurgent.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16327758?QRY=CTIBIB%3C%20IRN(5585417)&QRYTEXT=Insurgent%20%5Bvideorecording%5D)
 
-Shailene Woodley and Ansel Elgort (reunited after <cite>The Fault in our Stars</cite>) feature in the [Divergent](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/18029012?QRY=CTIBIB%3C%20IRN(40612554)&QRYTEXT=Divergent%20%5Bvideorecording%5D)
+Shailene Woodley and Ansel Elgort (reunited after <cite>The Fault in our Stars</cite>) feature in the [Divergent](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/18029012?QRY=CTIBIB%3C%20IRN(40612554)&QRYTEXT=Divergent%20%5Bvideorecording%5D) sequel.
 
 ## [<cite>Get hard</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16329151?QRY=CTIBIB%3C%20IRN(51020888)&QRYTEXT=Get%20hard%20%5Bvideorecording%5D)
 

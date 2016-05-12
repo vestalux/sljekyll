@@ -19,7 +19,7 @@ Heading a committed team at his Stratton Oakmont brokerage house in Long Island,
 
 The supporting cast includes Matthew McConaughey, Jonah Hill and Jon Bernthal. The film was nominated for five Academy Awards, including Best Picture, Best Actor (DiCaprio) and Best Director (Scorsese), and saw DiCaprio pick up the Golden Globe for Best Actor – Music Or Comedy.
 
-## [<cite>12 years a slave</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21267708?QRY=CTIBIB%3C%20IRN(37213347)&QRYTEXT=12%20years%20a%20slave%20%5Bvideorecording%5D)
+## <cite>12 years a slave</cite>
 
 Award-winning historical slave-narrative drama directed by Steve McQueen and starring Chiwetel Ejiofor.
 
