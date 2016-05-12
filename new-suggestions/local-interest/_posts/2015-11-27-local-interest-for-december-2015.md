@@ -4,7 +4,7 @@ title: Local interest for December 2015
 date: 2015-11-27 11:39:32+00:00
 author: brandon-king
 category: local-interest
-excerpt: The latest books about Suffolk history, recipes and celebrities.
+excerpt: Featuring Susan Gardiner and Louis de Bernières.
 breadcrumb: local-interest
 ---
 ![Of love and desire by Louis de Bernières](/images/featured/featured-of-love-and-desire.jpg)
@@ -21,9 +21,9 @@ Postcards, photographs and adverts that capture old Bury St. Edmunds in all its 
 
 An insight into some of Ipswich&#8217;s most well-known and infamous pubs, taverns and inns.
 
-## [<cite>USAAF in Suffolk</cite> by Peter W. Bodle and Roy Brazier](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7530035?QRY=CTIBIB%3C%20IRN(51849464)&QRYTEXT=USAAF%20in%20Suffolk)
+## [<cite>USAAF in Suffolk</cite> by Peter W Bodle and Roy Brazier](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7530035?QRY=CTIBIB%3C%20IRN(51849464)&QRYTEXT=USAAF%20in%20Suffolk)
 
-[![USAAF in Suffolk by Peter W. Bodle and Roy Brazier](/images/article/the-usaaf-in-suffolk.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7530035?QRY=CTIBIB%3C%20IRN(51849464)&QRYTEXT=USAAF%20in%20Suffolk)
+[![USAAF in Suffolk by Peter W Bodle and Roy Brazier](/images/article/the-usaaf-in-suffolk.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7530035?QRY=CTIBIB%3C%20IRN(51849464)&QRYTEXT=USAAF%20in%20Suffolk)
 
 A pictorial portrait of life as a USAAF airman living in Suffolk during the Second World War.
 

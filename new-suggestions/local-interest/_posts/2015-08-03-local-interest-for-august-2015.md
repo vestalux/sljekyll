@@ -4,7 +4,7 @@ title: Local interest for August 2015
 date: 2015-08-03 12:12:18+00:00
 author: brandon-king
 category: local-interest
-excerpt: Books about Ipswich Town FC, East Anglian railways and the Elveden estate.
+excerpt: Featuring Derek Hammond and Suzette A Hill.
 breadcrumb: local-interest
 ---
 ![Got, not got: the lost world of Ipswich Town by Derek Hammond and Gary Silke](/images/featured/featured-got-not-got.jpg)
@@ -39,8 +39,8 @@ Ideal for on-the-spot use, <cite>Norfolk & Suffolk</cite> makes the perfect comp
 
 The Elveden Estate is a fascinating country estate which has developed to become a modern, multifaceted rural business enterprise. The estate&#8217;s extraordinary ownership story begins with Admiral Keppel in 1768-86, before passing through the hands of Lord Albemarle, the Newton family and the India Office, which owned the estate for the enjoyment of Maharajah Duleep Singh, and most recently to the Guinness family in 1894. Each owner has left his mark on the estate.
 
-## [<cite>A Southwold mystery</cite> by Suzette A. Hill](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19817213?QRY=CTIBIB%3C%20IRN(52486125)&QRYTEXT=A%20Southwold%20mystery)
+## [<cite>A Southwold mystery</cite> by Suzette A Hill](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19817213?QRY=CTIBIB%3C%20IRN(52486125)&QRYTEXT=A%20Southwold%20mystery)
 
-[![A Southwold mystery by Suzette A. Hill](/images/article/a-southwold-mystery.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19817213?QRY=CTIBIB%3C%20IRN(52486125)&QRYTEXT=A%20Southwold%20mystery)
+[![A Southwold mystery by Suzette A Hill](/images/article/a-southwold-mystery.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19817213?QRY=CTIBIB%3C%20IRN(52486125)&QRYTEXT=A%20Southwold%20mystery)
 
 Rosy Gildchrist has been asked to accompany Lady Fawcett to visit Delia Dovedale, an old school friend in Suffolk and whom she hasn&#8217;t seen for years. Rather reluctantly Rosy agrees to be her companion on this reunion jaunt. But on arrival at their hostess&#8217;s house Lady Fawcett is informed that her old school chum is dead &#8211; recently murdered.
