@@ -2,34 +2,38 @@
 
 {% include hero.html %}
 
-    <main id="content" class="{% include /c/main.html %}" role="main">
+    <div class="{% include /c/main.html %}">
 
-        {% include breadcrumb.html %}
+        <main id="content" class="{% include /c/content-box.html %}" role="main">
 
-        <article>
+            {% include breadcrumb.html %}
 
-            <h1 class="{% include /c/page-title.html %}">{{ page.name }}</h1>
+            <article>
 
-            <p>
+                <h1 class="{% include /c/page-title.html %}">{{ page.name }}</h1>
 
-                <span>{{ page.location-text }}</span>,
+                <p>
 
-                {% if page.event-end-date %}
+                    <span>{{ page.location-text }}</span>,
 
-                     <span>{{ page.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ page.event-start-time }}</span> &#8211; <span>{{ page.event-end-date | date: "%a %-d %b %Y" }}</span> <span>{{ page.event-end-time }}</span>
+                    {% if page.event-end-date %}
 
-                {% else %}
+                         <span>{{ page.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ page.event-start-time }}</span> &#8211; <span>{{ page.event-end-date | date: "%a %-d %b %Y" }}</span> <span>{{ page.event-end-time }}</span>
 
-                     <span>{{ page.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ page.event-start-time }}</span> &#8211; <span>{{ page.event-end-time }}</span>
+                    {% else %}
 
-                {% endif %}
+                         <span>{{ page.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ page.event-start-time }}</span> &#8211; <span>{{ page.event-end-time }}</span>
 
-                {{ content }}
+                    {% endif %}
 
-            </p>
+                    {{ content }}
 
-        </article>
+                </p>
 
-    </main>
+            </article>
+
+        </main>
+
+    </div>
 
 {% include footer.html %}

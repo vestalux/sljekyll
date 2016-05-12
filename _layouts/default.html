@@ -2,12 +2,16 @@
 
 {% include hero.html %}
 
-<main id="content" class="{% include /c/main.html %}" role="main">
+<div class="{% include /c/main.html %}">
 
-    {% include breadcrumb.html %}
+    <main id="content" class="{% include /c/content-box.html %}" role="main">
 
-    {{ content }}
+        {% include breadcrumb.html %}
 
-</main>
+        {{ content }}
+
+    </main>
+
+</div>
 
 {% include footer.html %}

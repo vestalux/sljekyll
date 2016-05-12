@@ -2,20 +2,38 @@
 layout: default
 ---
 
-<article itemscope itemtype="http://schema.org/BlogPosting">
+<div class="{% include /c/main.html %}">
 
-    <header>
+    <main id="content" role="main" class="cf">
 
-        <h1 itemprop="name headline">{{ page.title }}</h1>
+        <div class="custom-g-l4">
 
-        <p><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"> <span itemprop="name">{% assign author = site.data.authors[page.author] %}{{ author.name }}</span></span>{% endif %}</p>
+            <article itemscope itemtype="http://schema.org/BlogPosting" class="content-box">
 
-    </header>
+                <header>
 
-    <div itemprop="articleBody">
+                    <h1 itemprop="name headline">{{ page.title }}</h1>
 
-        {{ content }}
+                    <p><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"> <span itemprop="name">{% assign author = site.data.authors[page.author] %}{{ author.name }}</span></span>{% endif %}</p>
+
+                </header>
+
+                <div itemprop="articleBody">
+
+                    {{ content }}
+
+                </div>
+
+            </article>
+
+        </div>
+
+    </main>
+
+    <div class="custom-g-l2 custom-g-nm">
+
+        {% include sidebar.html %}
 
     </div>
 
-</article>
+</div>

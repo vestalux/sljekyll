@@ -2,66 +2,70 @@
 
 {% include hero.html %}
 
-    <main id="content" class="{% include /c/main.html %}" role="main">
+    <div class="{% include /c/main.html %}">
 
-        {% include breadcrumb.html %}
+        <main id="content" class="{% include /c/content-box.html %}" role="main">
 
-        <h1 class="{% include /c/page-title.html %}">{{ page.branch-name }}</h1>
+            {% include breadcrumb.html %}
 
-        <p>Tel: {{ page.branch-tel}}<br>
-        Address: {{ page.branch-address }}<br>
-        Postcode: {{ page.branch-post-code}}<br></p>
+            <h1 class="{% include /c/page-title.html %}">{{ page.branch-name }}</h1>
 
-        <h2>Upcoming events</h2>
+            <p>Tel: {{ page.branch-tel}}<br>
+            Address: {{ page.branch-address }}<br>
+            Postcode: {{ page.branch-post-code}}<br></p>
 
-        {% assign current = page.branch-unique-id %}
+            <h2>Upcoming events</h2>
 
-    	{% assign events = site.events | sort: 'event-start-date'%}
+            {% assign current = page.branch-unique-id %}
 
-    	{% for event in events %}
+        	{% assign events = site.events | sort: 'event-start-date'%}
 
-            {% if event.location == current %}
+        	{% for event in events %}
 
-            {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
+                {% if event.location == current %}
 
-            {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
+                {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
 
-            {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
+                {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
 
-            {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+                {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
 
-            <p>Evaluating {{ event.name }}: Unix days is {{ now-unix }}, the event time in days is {{ event-time }}</p>
+                {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
 
-                {% if now-unix <= event-time %}
+                <p>Evaluating {{ event.name }}: Unix days is {{ now-unix }}, the event time in days is {{ event-time }}</p>
 
-                	<article>
+                    {% if now-unix <= event-time %}
 
-                        <header>
+                    	<article>
 
-                		    <h1 class="listing-title"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+                            <header>
 
-                            <p class="listing-meta secondary">
+                    		    <h1 class="listing-title"><a href="{{ event.url }}">{{ event.name }}</a></h1>
 
-                            {% if event.event-end-date %}
+                                <p class="listing-meta secondary">
 
-                                 <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-date | date: "%a %-d %b" }}</span> <span>{{ event.event-end-time }}</span>
+                                {% if event.event-end-date %}
 
-                            {% else %}
+                                     <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-date | date: "%a %-d %b" }}</span> <span>{{ event.event-end-time }}</span>
 
-                                 <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-time }}</span>
+                                {% else %}
 
-                            {% endif %}
+                                     <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-time }}</span>
 
-                        </header>
+                                {% endif %}
 
-                	</article>
+                            </header>
+
+                    	</article>
+
+                    {% endif %}
 
                 {% endif %}
 
-            {% endif %}
+        	{% endfor %}
 
-    	{% endfor %}
+        </main>
 
-    </main>
+    </div>
 
 {% include footer.html %}

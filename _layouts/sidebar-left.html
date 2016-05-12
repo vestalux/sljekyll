@@ -2,16 +2,32 @@
 
 {% include hero.html %}
 
-<main id="content" class="{% include /c/main.html %}" role="main">
+<div class="{% include /c/main.html %}">
 
-    {% include breadcrumb.html %}
+    <main id="content" role="main">
 
-    <h1 class="{% include /c/page-title.html %}">{{ page.title }}</h1>
+        <div class="custom-g-r4">
 
-    {{ content }}
+            <div class="{% include /c/content-box.html %}">
 
-</main>
+                {% include breadcrumb.html %}
 
-{% include sidebar.html %}
+                <h1 class="{% include /c/page-title.html %}}">{{ page.title }}</h1>
+
+                {{ content }}
+
+            </div>
+
+        </div>
+
+    </main>
+
+    <div class="custom-g-r2 custom-g-nm">
+
+        {% include sidebar.html %}
+
+    </div>
+
+</div>
 
 {% include footer.html %}
