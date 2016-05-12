@@ -13,6 +13,6 @@ breadcrumb: staff-picks
 
 The novel paints vivid characters who draw you in and make you care about them. The plot is gripping, with dark twists and turns and the pace of the action is faster than having a psychotherapist as the main protagonist would suggest. Loose ends and a great cast of characters are well set up for the next in the series <cite>Tuesday&#8217;s gone</cite>.
 
-Husband and wife writing team Sean French and Nicci Gerrard had written many psychological thrillers as ‘Nicci French’ before embarking on the Frieda Klein series. The fifth book in the series, <cite>Friday in my mind</cite> is due out in July and Nicci French open [Slaughter in Southwold](http://suffolklibraries.co.uk/slaughter) on Saturday 20 June at 10am.
+Husband and wife writing team Sean French and Nicci Gerrard had written many psychological thrillers as ‘Nicci French’ before embarking on the Frieda Klein series. The fifth book in the series, <cite>Friday in my mind</cite> is due out in July and Nicci French open Slaughter in Southwold on Saturday 20 June at 10am.
 
 [Order <cite>Blue Monday</cite> from our catalogue →](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/30027609?QRY=CTIBIB%3C%20IRN(125243)&QRYTEXT=Blue%20Monday)
