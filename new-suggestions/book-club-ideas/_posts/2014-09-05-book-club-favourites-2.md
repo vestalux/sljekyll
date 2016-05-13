@@ -41,7 +41,7 @@ Rosemary is now an only child, but she used to have a sister the same age as her
 
 There&#8217;s something unique about Rosemary&#8217;s sister, Fern. And it was this decision, made by her parents, to give Rosemary a sister like no other, that began all of Rosemary&#8217;s trouble. So now she&#8217;s telling her story: full of hilarious asides and brilliantly spiky lines, it&#8217;s a looping narrative that begins towards the end, and then goes back to the beginning. Twice.
 
-## [<cite>Lost for words</cite> by Edward St. Aubyn](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/62993353?QRY=CTIBIB%3C%20IRN%28185336%29&QRYTEXT=Lost%20for%20words)
+## [<cite>Lost for words</cite> by Edward St Aubyn](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/62993353?QRY=CTIBIB%3C%20IRN%28185336%29&QRYTEXT=Lost%20for%20words)
 
 The judges of the Elysian Prize for Literature have to read hundreds of submissions and they may all be looking for something different. Satire on prize culture written by the author of At Last which was inexplicably omitted from the 2011 Booker longlist&hellip;
 

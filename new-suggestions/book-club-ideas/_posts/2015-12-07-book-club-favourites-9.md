@@ -33,13 +33,13 @@ As you would expect from Celia Imrie this is light, witty escapism designed to w
 
 Five Days in November, 1920. As the people of London await the arrival of the Unknown Soldier from France, three women are dealing with loss in their own way: Hettie, who dances for money with strangers at the Hammersmith Palais; Evelyn, who toils at a lowly job in the Pensions Office; and Ada, a housewife who is beset by visions of her dead son. One day a young man comes to Ada&#8217;s door. He carries with him a wartime mystery that will bind these women together. Hard to believe this is a debut novel.
 
-## [<cite>Possession</cite> by A. S. Byatt](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19597771?QRY=CTIBIB%3C%20IRN(7499)&QRYTEXT=Possession)
+## [<cite>Possession</cite> by A S Byatt](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19597771?QRY=CTIBIB%3C%20IRN(7499)&QRYTEXT=Possession)
 
 [![Possession by A S Byatt](/images/article/possession-a-romance.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19597771?QRY=CTIBIB%3C%20IRN(7499)&QRYTEXT=Possession)
 
 A modern classic and winner of the 1990 Booker Prize, this is one to savour. It can be read on several different levels. Do not be put off by the poetry. If you stick with it there are metaphors and references that will reward you. On the face of it this is a novel that describes the romance between two 19th century poets and the parallel relationship of their two biographers but there is so much more to it.
 
-## [<cite>The hundred-foot journey</cite> by Richard C. Morais](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19600463?QRY=CTIBIB%3C%20IRN(1178392)&QRYTEXT=The%20hundred-foot%20journey)
+## [<cite>The hundred-foot journey</cite> by Richard C Morais](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19600463?QRY=CTIBIB%3C%20IRN(1178392)&QRYTEXT=The%20hundred-foot%20journey)
 
 [![The hundred-foot journey by Richard C Morais](/images/article/the-hundred-foot-journey.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19600463?QRY=CTIBIB%3C%20IRN(1178392)&QRYTEXT=The%20hundred-foot%20journey)
 
