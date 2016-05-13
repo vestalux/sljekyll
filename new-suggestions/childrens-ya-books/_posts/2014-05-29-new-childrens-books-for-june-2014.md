@@ -57,6 +57,14 @@ The 4 books in the series by debut author Victor Watson have been published simu
 
 Like Blyton but so much better.
 
+### [<cite>The Girl from Hard Times Hill</cite> by Emma Barnes](http://suffolklibraries.lib.overdrive.com/FCE2C847-6462-4886-9A6D-9CC7AE39D97A/10/50/en/ContentDetails.htm?id=B224952E-A394-45F8-9C7E-1CD48F277740)
+
+When Megan&#8217;s father finally returns from occupied Germany in the years following World War II, she should be pleased – shouldn&#8217;t she?
+
+But she hardly knows her father, and his arrival means moving out of Nana&#8217;s house into the city. Megan hates the changes to her life, yet when she has the opportunity to be the first member of her working class family to go to Grammar School, it is her dad who is behind her all the way.
+
+Can Megan adapt to her new life, and take advantage of a changing Britain?
+
 ## Young teen
 
 ### [<cite>Counting by 7s</cite> by Holly Goldberg Sloan](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14476496?QRY=CTIBIB%3C%20IRN(36545541)&QRYTEXT=Counting%20by%207s)
@@ -76,13 +84,3 @@ Much of the action takes place in Blackbrick, the big house in Ireland where his
 ### [<cite>The Year of the Rat</cite> by Clare Furniss](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14478734?QRY=CTIBIB%3C%20IRN(35038429)&QRYTEXT=The%20year%20of%20the%20rat)
 
 15 year old Pearl’s shock following the death of her mum in childbirth is heart-breaking. She blames baby Rose, or “The Rat” for the death, and it takes a whole year before Pearl really accepts her mum has died. Another astonishing debut novel from a talented new writer.
-
-## eBooks
-
-### [<cite>The Girl from Hard Times Hill</cite> by Emma Barnes](http://suffolklibraries.lib.overdrive.com/FCE2C847-6462-4886-9A6D-9CC7AE39D97A/10/50/en/ContentDetails.htm?id=B224952E-A394-45F8-9C7E-1CD48F277740)
-
-When Megan&#8217;s father finally returns from occupied Germany in the years following World War II, she should be pleased – shouldn&#8217;t she?
-
-But she hardly knows her father, and his arrival means moving out of Nana&#8217;s house into the city. Megan hates the changes to her life, yet when she has the opportunity to be the first member of her working class family to go to Grammar School, it is her dad who is behind her all the way.
-
-Can Megan adapt to her new life, and take advantage of a changing Britain?

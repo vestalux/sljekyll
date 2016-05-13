@@ -63,6 +63,14 @@ It can be hard to find a book for avid 10–14 year olds to really get their tee
 
 Freya, was an ordinary schoolgirl then some Norse Gods arrived on a mission to save the world. Pity they got tempted by fame, fortune and celebrity.
 
+### [<cite>The Sign of the Black Dagger</cite> by Joan Lingard](http://suffolklibraries.lib.overdrive.com/98FA403D-E3F4-4098-BB2E-950BEAF63253/10/50/en/ContentDetails.htm?id=09949B3B-4760-4D81-98C0-0066FFF30681) (eBook)
+
+One day, Will and Lucy&#8217;s dad just… vanishes: they have no idea why he&#8217;s disappeared until a creepy stranger reveals their dad was keeping a BIG secret.
+
+Then there&#8217;s the second clue: an old diary they find hidden in the walls of their Royal Mile house, with a sinister black dagger on it.
+
+Will and Lucy must solve a mystery that&#8217;s over two hundred years old if they want to find their dad and bring him home. But can they find the answers in time to rescue him?
+
 ## Young teen
 
 ### [<cite>Flora in love</cite> by Natasha Farrant](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44143543?QRY=CTIBIB%3C%20IRN%2835038866%29&QRYTEXT=Flora%20in%20love)
@@ -79,18 +87,8 @@ Due out later this month, Loyal Creatures tells the story of a war horse, Daisy 
 
 Morpurgo has edited this diverse anthology of memories about the Great War from contributors as diverse as Simon Mayo and the Duchess of Cornwall. It is beautifully produced and includes facsimiles of primary source materials; letters, postcards, photos newspaper articles and more.
 
-## eBooks
-
-### [<cite>Can You Survive an Earthquake?</cite> by Rachael Teresa Hanel](http://suffolklibraries.lib.overdrive.com/98FA403D-E3F4-4098-BB2E-950BEAF63253/10/50/en/ContentDetails.htm?id=9AD89C11-3FC5-4138-BA4A-CF6831F22630)
+### [<cite>Can You Survive an Earthquake?</cite> by Rachael Teresa Hanel](http://suffolklibraries.lib.overdrive.com/98FA403D-E3F4-4098-BB2E-950BEAF63253/10/50/en/ContentDetails.htm?id=9AD89C11-3FC5-4138-BA4A-CF6831F22630) (eBook)
 
 You&#8217;re in the middle of one of the most unpredictable natural disasters – an earthquake. No place is safe as the ground shudders, shakes, and splits. How will you survive as the world crashes around you? Will you: experience an earthquake far from civilization in rural Alaska? Be trapped in a large city during an earthquake? Fight to survive during an earthquake in Japan and the tsunami that follows it?
 
 YOU CHOOSE what you&#8217;ll do next. The choices you make will either lead you to safety – or to doom.
-
-### [<cite>The Sign of the Black Dagger</cite> by Joan Lingard](http://suffolklibraries.lib.overdrive.com/98FA403D-E3F4-4098-BB2E-950BEAF63253/10/50/en/ContentDetails.htm?id=09949B3B-4760-4D81-98C0-0066FFF30681)
-
-One day, Will and Lucy&#8217;s dad just… vanishes: they have no idea why he&#8217;s disappeared until a creepy stranger reveals their dad was keeping a BIG secret.
-
-Then there&#8217;s the second clue: an old diary they find hidden in the walls of their Royal Mile house, with a sinister black dagger on it.
-
-Will and Lucy must solve a mystery that&#8217;s over two hundred years old if they want to find their dad and bring him home. But can they find the answers in time to rescue him?
