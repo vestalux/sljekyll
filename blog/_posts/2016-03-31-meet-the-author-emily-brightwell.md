@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: full-width-narrow
 title: 'Meet the author: Emily Brightwell'
 date: 2016-03-31 09:30:04+00:00
 author: brandon-king
 excerpt: 'Brandon King interviews author of the <cite>Mrs Jeffries</cite> series, Emily Brightwell.'
-category: interviews
-breadcrumb: interviews
+category: blog
+breadcrumb: blog
 ---
+![Mrs Jeffries wins the prize](/images/featured/featured-mrs-jeffries-wins-the-prize.jpg)
+
 Emily Brightwell is the author of the series of Victorian crime mysteries featuring the mild-mannered Inspector Witherspoon of Scotland Yard and, more importantly, his housekeeper Mrs Jeffries. A policeman&#8217;s widow herself, her quick wits allow her to nudge the Inspector in the right direction to solve the crime. Emily is currently writing number 35 of the Mrs Jeffries mysteries.
 
 Emily started her writing career as a romance writer. She also wrote for Young Adults under her maiden name Cheryl Lanham. Emily’s books are a word of mouth hit in Suffolk libraries and have an avid following here and in several other countries including Japan. While writing her new book she took time out to answer some questions for us.

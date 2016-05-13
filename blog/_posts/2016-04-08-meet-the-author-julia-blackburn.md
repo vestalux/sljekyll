@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: full-width-narrow
 title: 'Meet the author: Julia Blackburn'
 date: 2016-04-08T11:09:57+00:00
 author: brandon-king
 excerpt: 'Brandon interviews Julia Blackburn, Suffolk-based author of <cite>Threads: The Delicate Life of John Craske</cite>.'
-category: interviews
-breadcrumb: interviews
+category: blog
+breadcrumb: blog
 ---
+![Julia Blackburn](/images/featured/featured-julia-blackburn.jpg)
+
 Julia Blackburn has written several non-fiction books including her memoir, <cite>The Three of Us: A Family Story</cite>, which was shortlisted for the J R Ackerly Award, and <cite>Thin Paths</cite>, which was shortlisted for the Costa Biography Award and the Ondaatje Prize. She has also written two novels: <cite>The Book of Colour</cite> and <cite>The Leper’s Companions</cite>, both of which were shortlisted for the Orange Prize. Her latest book, <cite>Threads: The Delicate Life of John Craske</cite> was published in April 2015. It has been a favourite in Suffolk Libraries ever since and was one of our books of the year for 2015.
 
 Julia recently took time out from writing her latest book to answer some questions for us.

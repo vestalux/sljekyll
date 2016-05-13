@@ -1,12 +1,13 @@
 ---
-layout: post
+layout: full-width-narrow
 title: 'Meet the author: Pauline Manders'
 date: 2015-11-20 11:54:41+00:00
 author: brandon-king
-category: interviews
+category: blog
 excerpt: Brandon interviews local crime author Pauline Manders about her <cite>Utterly</cite> series.
-breadcrumb: interviews
+breadcrumb: blog
 ---
+![Pauline Manders, her dog and her book Utterly knotted](/images/featured/featured-pauline-manders-utterly-knotted.jpg)
 
 Pauline Manders was born in London. She trained as an ENT surgeon and moved to East Anglia with her husband and two children, where she worked for over thirty years in the NHS. Since retiring, she lives in a converted barn deep in rural Suffolk and at last has time to write, share her husband’s interest in classic cars and take Otto, her Weimaraner for long walks while thinking up plots for her crime novels. She is an enthusiastic member of a local carpentry group, and is currently carving three diving ducks to serve as legs to support a small table — this is proving quite a challenge!
 

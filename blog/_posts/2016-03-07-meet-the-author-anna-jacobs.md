@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: full-width-narrow
 title: 'Meet the author: Anna Jacobs'
 date: 2016-03-07 15:48:35+00:00
 author: brandon-king
-category: interviews
+category: blog
 excerpt: Brandon interviews prolific novelist Anna Jacobs, the author of the <cite>Rivenshaw</cite> series.
-breadcrumb: interviews
+breadcrumb: blog
 ---
+![A time to remember](/images/featured/featured-a-time-to-remember.jpg)
+
 Anna Jacobs is one of the most borrowed authors of adult fiction in the UK library system. She has had over 70 novels published. <cite>A time to remember</cite> is her most recent which is the first in a new series called <cite>Rivenshaw</cite> after the imaginary Lancashire town in which it is set. These stories take place just after World War 2. <cite>A time to rejoice</cite> will be the next UK title, due in May. We already have it on order and a waiting list developing. Anna is published mainly as Anna Jacobs, writing historical sagas and modern novels alternately, and she used to write fantasy novels as Shannah Jay.
 
 Anna lives in Australia now but she has kindly taken time out from writing to answer some questions for us.
@@ -37,4 +39,4 @@ Addicted to stories.
 
 [![A time to remember by Anna Jacobs](http://suffolklibraries.co.uk/wp-content/uploads/2016/03/a-time-to-remember.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12593336?QRY=CTIBIB%3C%20IRN(17634662)&QRYTEXT=A%20time%20to%20remember)
 
-[RReserve <cite>A time to remember</cite> by Anna Jacobs from our catalogue.](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12593336?QRY=CTIBIB%3C%20IRN(17634662)&QRYTEXT=A%20time%20to%20remember)
+[Reserve <cite>A time to remember</cite> by Anna Jacobs from our catalogue.](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12593336?QRY=CTIBIB%3C%20IRN(17634662)&QRYTEXT=A%20time%20to%20remember)
