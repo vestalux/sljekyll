@@ -23,7 +23,7 @@ Unconventional biography about the mysterious John Craske, a Norfolk fisherman w
 
 ## [<cite>The Umbrian Thursday night supper club</cite> by Marlena De Blasi](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/27372793?QRY=CTIBIB%3C%20IRN(47621101)&QRYTEXT=The%20Umbrian%20Thursday%20night%20supper%20club)
 
-[![The Umbrian Thursday night supper club by Marlena De Blasi](/images/article/the-umbrian-thursday-supper-club.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/27372793?QRY=CTIBIB%3C%20IRN(47621101)&QRYTEXT=The%20Umbrian%20Thursday%20night%20supper%20club)
+[![The Umbrian Thursday night supper club by Marlena De Blasi](/images/article/the-umbrian-thursday-night-supper-club.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/27372793?QRY=CTIBIB%3C%20IRN(47621101)&QRYTEXT=The%20Umbrian%20Thursday%20night%20supper%20club)
 
 Every month on a Thursday evening, a group of four Italian rural women gather in a derelict stone house in the hills above Italy&#8217;s Orvieto. Surrounded by candle light and good food, these five friends share all that life has offered them &#8211; the good and the bad.
 

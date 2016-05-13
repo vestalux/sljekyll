@@ -4,7 +4,7 @@ title: Local interest for October 2014
 date: 2014-10-08 15:52:17+00:00
 author: brandon-king
 category: local-interest
-excerpt: Including titles from Nicola Upson and Esther Freud.
+excerpt: Featuring Nicola Upson, Esther Freud and <cite>Dectectorists</cite>.
 breadcrumb: local-interest
 ---
 ![Detectorists](/images/featured/featured-detectorists.jpg)
@@ -31,8 +31,8 @@ Mary Gundry is a figurative landscape artist focused around the River Blyth. Thi
 
 ## [<cite>No. 2 Feline Detective Agency</cite> by Mandy Morton](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7637433?QRY=CTIBIB%3C%20IRN(44978153)&QRYTEXT=No.%202%20Feline%20Detective%20Agency%20%3A%20A%20Hettie%20Bagshot%20Mystery)
 
-Described by P. D. James as &#8216;original and intriguing&#8217;, Suffolk-born Mandy Morton&#8217;s debut novel is the first in the Hettie Bagshot Mystery series. It is a detective series with a difference, set entirely in a feline world, and was inspired by her own cats Hettie and Tilly.
+Described by P D James as &#8216;original and intriguing&#8217;, Suffolk-born Mandy Morton&#8217;s debut novel is the first in the Hettie Bagshot Mystery series. It is a detective series with a difference, set entirely in a feline world, and was inspired by her own cats Hettie and Tilly.
 
-## [<cite>Detectorists DVD</cite>](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7627516?QRY=CTIBIB%3C%20IRN(42902720)&QRYTEXT=Detectorists%20%5Bvideorecording%5D)
+## [<cite>Detectorists</cite>](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7627516?QRY=CTIBIB%3C%20IRN(42902720)&QRYTEXT=Detectorists%20%5Bvideorecording%5D)
 
 Filmed in Framlingham (but set in Essex), this BBC six-part comedy is directed, written by and starring Mackenzie Crook. Andy (Crook) and Lance (Toby Jones) are a pair of metal detectorists. Anyone familiar with Framlingham will recognise the locations.

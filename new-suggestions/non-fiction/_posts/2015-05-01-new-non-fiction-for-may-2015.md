@@ -17,7 +17,7 @@ Humorous experience of a twenty-something London girl on Tinder. She falls for t
 
 ## [ <cite>Dancing with the enemy: my family&#8217;s Holocaust secret</cite> by Paul Glaser](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2032301?QRY=CTIBIB%3C%20IRN(49010469)&QRYTEXT=Dancing%20with%20the%20enemy%20%3A%20my%20family%27s%20Holocaust%20secret)
 
-[![Dancing with the enemy: my family's Holocaust secret by Paul Glaser](/images/article/.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2032301?QRY=CTIBIB%3C%20IRN(49010469)&QRYTEXT=Dancing%20with%20the%20enemy%20%3A%20my%20family%27s%20Holocaust%20secret)
+[![Dancing with the enemy: my family's Holocaust secret by Paul Glaser](/images/article/dancing-with-the-enemy.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2032301?QRY=CTIBIB%3C%20IRN(49010469)&QRYTEXT=Dancing%20with%20the%20enemy%20%3A%20my%20family%27s%20Holocaust%20secret)
 
 The author pieces his aunt&#8217;s World War Two experiences, who survived Auschwitz by giving dance and etiquette lessons to the SS.
 
@@ -27,9 +27,9 @@ The author pieces his aunt&#8217;s World War Two experiences, who survived Ausc
 
 The granddaughter of Vita Sackville-West and the daughter of art historian Ben Nicolson, Vanessa Nicolson chronicles her reckless childhood, including her experience at a liberal boarding school.
 
-## [<cite>The diet myth: the new science of the microbiome</cite> by T D Spector](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2047872?QRY=CTIBIB%3C%20IRN(51337518)&QRYTEXT=The%20diet%20myth%20%3A%20the%20new%20science%20of%20the%20microbiome)
+## [<cite>The diet myth: the new science of the microbiome</cite> by T D Spector](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20984134?QRY=CTIBIB%3C%20IRN(47618504)&QRYTEXT=The%20diet%20myth%20%3A%20the%20real%20science%20behind%20what%20we%20eat)
 
-[![The diet myth: the new science of the microbiome by T D Spector](/images/article/.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2047872?QRY=CTIBIB%3C%20IRN(51337518)&QRYTEXT=The%20diet%20myth%20%3A%20the%20new%20science%20of%20the%20microbiome)
+[![The diet myth: the new science of the microbiome by T D Spector](/images/article/the-diet-myth.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20984134?QRY=CTIBIB%3C%20IRN(47618504)&QRYTEXT=The%20diet%20myth%20%3A%20the%20real%20science%20behind%20what%20we%20eat)
 
 Explores the hidden world of micro-organisms in our bodies, highlighting the misconceptions of fad diets.
 

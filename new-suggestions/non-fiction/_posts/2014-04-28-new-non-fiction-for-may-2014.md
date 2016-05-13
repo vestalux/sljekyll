@@ -21,7 +21,7 @@ Lynn Barber, by her own admission, has always suffered from a compelling sense o
 
 Barber takes us through her early career at <cite>Penthouse</cite> where she started out interviewing foot fetishists, voyeurs, dominatrices and worse, through her later more eminent career at the <cite>Telegraph</cite>, <cite>Sunday Times</cite>, <cite>Vanity Fair</cite>, <cite>Observer</cite> and <cite>Sunday Times</cite>.
 
-## [<cite>The skeleton cupboard: A memoir</cite> by Tanya Byron](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/32458049?QRY=CTIBIB%3C%20IRN(35979351)&QRYTEXT=The%20skeleton%20cupboard%20%3A%20a%20memoir)
+## [<cite>The skeleton cupboard: A memoir</cite> by Tanya Byron](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20932886?QRY=CTIBIB%3C%20IRN(32459177)&QRYTEXT=The%20skeleton%20cupboard%20%3A%20the%20making%20of%20a%20clinical%20psychologist)
 
 Professor Tanya Byron&#8217;s account of her final years of training as a clinical psychologist, when trainees find themselves in the toughest placements of their careers. Through the eyes of her naive and inexperienced younger self, Tanya shares the remarkable cases of key patients and their treatment.
 

@@ -9,6 +9,8 @@ breadcrumb: fiction
 ---
 ![The silkworm by Robert Galbraith](/images/featured/featured-the-silkworm.jpg)
 
+## Sarah Jenkins&#8217; review:
+
 I wasn’t sure what to expect with this book. It was billed as an English Philip Marlowe and I have always been a fan of those black and white Humphrey Bogart films. Also, it is now a well known fact that J. K. Rowling writes these private detective books and as I didn’t much like her first non-Harry Potter, I was a little unsure about reading <cite>The silkworm</cite>.
 
 Boy! I should not have worried. Although in a different genre, J. K. is back on form. I loved all the characters, good and bad and most to be honest were more shades of grey. The plot is fast paced and keeps you hooked. At the same time you have this frisson between the private detective, Cormoran Strike and his assistant, the lovely, intelligent Robin, who forgoes a glamorous well paid job in the city to work for him, much to her fiancee’s disgust.
@@ -26,6 +28,8 @@ I have to admit that I am slow on the uptake and didn’t realise at first that 
 It’s typical of the detective genre in that it features a duo, but that’s where the stereotype ends. The characters of Cormoran (private detective) and Robin (his assistant) are so well drawn with the little tease of will they / won’t they become romantically entwined? This is a complicated plot but worth the concentration!
 
 I wonder if J. K. has already planned out the other books in the series as she did with the Harry Potter books? I hope so — I enjoyed this book so much I’ve gone back to read the first and can’t wait for the third!
+
+[Reserve <cite>The silkworm</cite> by Robert Galbraith from our libraries.](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20599028?QRY=CTIBIB%3C%20IRN(37444855)&QRYTEXT=The%20silkworm)
 
 ## If you enjoyed <cite>The silkworm</cite> by Robert Galbraith you might like:
 

@@ -21,9 +21,9 @@ DreamWorks animated adventure about the unlikely friendship between Oh, an alien
 
 Comedy drama about con-artists in a messy relationship, starring Will Smith and Margot Robbie.
 
-## [<cite>The woman in black: Angel of death</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/32729212?QRY=CTIBIB%3C%20IRN(53236163)&QRYTEXT=The%20woman%20in%20black%3A%20Angel%20of%20death)
+## <cite>The woman in black: Angel of death</cite>
 
-[![The woman in black: Angel of death](/images/article/the-woman-in-black-angel-of-death.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/32729212?QRY=CTIBIB%3C%20IRN(53236163)&QRYTEXT=The%20woman%20in%20black%3A%20Angel%20of%20death)
+[![The woman in black: Angel of death](/images/article/the-woman-in-black-angel-of-death.jpg)]
 
 Horror sequel about World War Two Blitz-evacuated children haunted by the spirit of Jennette Humfrye, known as &#8216;The Woman in Black&#8217;.
 
@@ -39,8 +39,8 @@ Sci-fi thriller starring Dev Patel and Hugh Jackman. Chappie is the first robot 
 
 Successful professor Alice Howland (Julianne Moore) is diagnosed with an early onset of Alzheimer&#8217;s disease. [We also stock the novel on which the film is based in our catalogue](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/34016149?QRY=CTIBIB%3C%20IRN(1240963)&QRYTEXT=Still%20Alice%20%3A%20a%20novel).
 
-## [<cite>Suite Francaise</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/32733731?QRY=CTIBIB%3C%20IRN(53235213)&QRYTEXT=Suite%20Franc%CC%A7aise%20%5Bvideorecording%5D)
+## <cite>Suite Francaise</cite>
 
-[![Suite Francaise](/images/article/suite-francaise.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/32733731?QRY=CTIBIB%3C%20IRN(53235213)&QRYTEXT=Suite%20Franc%CC%A7aise%20%5Bvideorecording%5D)
+[![Suite Francaise](/images/article/suite-francaise.jpg)]
 
 World War Two romance between a French woman and a German soldier.

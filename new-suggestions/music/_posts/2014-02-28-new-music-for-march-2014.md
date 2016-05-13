@@ -33,25 +33,25 @@ After an uncharacteristically long pause, the band from Athens, Georgia return w
 
 The former Dr Feelgood guitarist re-records blues classics with the The Who frontman.
 
-## [<cite>G I R L</cite> by Pharrell Williams (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/UGhhcnJlbGwgV2lsbGlhbXM=/29019221/c29ueQ==)
+## [<cite>G I R L</cite> by Pharrell Williams](http://suffolklibraries.freegalmusic.com/artists/view/UGhhcnJlbGwgV2lsbGlhbXM=/29019221/c29ueQ==) (Freegal)
 
 G I R L is the second studio album by American recording artist and record producer Pharrell Williams and features the number one single <cite>Happy</cite>, nominated for an Academy Award thanks to its inclusion on the Despicable Me 2 soundtrack.
 
-## [<cite>Hellios</cite> by The Fray (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/VGhlIEZyYXk=/28713225/c29ueQ==)
+## [<cite>Hellios</cite> by The Fray](http://suffolklibraries.freegalmusic.com/artists/view/VGhlIEZyYXk=/28713225/c29ueQ==) (Freegal)
 
 By pitching their music somewhere between the arena-friendly style of U2 and the mature pop/rock of bands like Maroon 5 and Counting Crows, the Fray rose to commercial prominence with their 2005 debut, How to Save a Life. This new album continues in their familiar style and features the single Love Don’t Die
 
-## [<cite>Guilty of Everything</cite> by Nothing (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/Tm90aGluZw==/781676724727/aW9kYQ==)
+## [<cite>Guilty of Everything</cite> by Nothing](http://suffolklibraries.freegalmusic.com/artists/view/Tm90aGluZw==/781676724727/aW9kYQ==) (Freegal)
 
 Philadelphia’s NOTHING, formed in 2011 by Domenic Palermo, have been destroying the eardrums of audiences throughout North America for the past 2 years with a magnetic blend of captivatingly dark and beautiful vocals and explosive, blown out, in the red guitar fuzz.
 
-## [<cite>Vagabond</cite> by Eddi Reader (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/RWRkaSBSZWFkZXI=/609224287206/aW9kYQ==)
+## [<cite>Vagabond</cite> by Eddi Reader](http://suffolklibraries.freegalmusic.com/artists/view/RWRkaSBSZWFkZXI=/609224287206/aW9kYQ==) (Freegal)
 
 Eddi Reader&#8217;s first new studio album for 5 years. Featuring the single <cite>Baby&#8217;s Boat</cite>. Recorded by Mark Freegard in Eddi&#8217;s hometown of Glasgow with a cast of well chosen musicians and friends eager to play their part in this, most captivating, deeply personal yet universal sounding album.
 
 <cite>Vagabond</cite> was produced by Eddi Reader and features many of her long-term musical collaborators including John Douglas (Trashcan Sinatras), Alan Kelly, Ian Carr, Ewen Vernal, Roy Dodds (Fairground Attraction), John McCusker and Boo Hewerdine.
 
-## [<cite>Is There Anybody Out There?</cite> by A Great Big World (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/QSBHcmVhdCBCaWcgV29ybGQ=/28674770/c29ueQ==)
+## [<cite>Is There Anybody Out There?</cite> by A Great Big World](http://suffolklibraries.freegalmusic.com/artists/view/QSBHcmVhdCBCaWcgV29ybGQ=/28674770/c29ueQ==) (Freegal)
 
 The story of A Great Big World began in the crowded practice rooms at NYU. Ian Axel and Chad Vaccarino were both studying music business while fostering dreams of writing and performing on Broadway and beyond. Ian quickly saw potential in partnering with Chad, and started lobbying him to work together on new songs.
 

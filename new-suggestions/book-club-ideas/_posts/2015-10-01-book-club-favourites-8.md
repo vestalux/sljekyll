@@ -39,8 +39,8 @@ Thought-provoking dystopian thriller which asks the question, ‘what would happ
 
 Whimsical road trip set on a mobile library with echoes of children&#8217;s classics.
 
-## [<cite>Station eleven</cite> by Emily St. John Mandel](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10775721?QRY=CTIBIB%3C%20IRN(39947780)&QRYTEXT=Station%20eleven)
+## [<cite>Station eleven</cite> by Emily St John Mandel](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10775721?QRY=CTIBIB%3C%20IRN(39947780)&QRYTEXT=Station%20eleven)
 
-[![Station eleven by Emily St. John Mandel](/images/article/station-eleven.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10775721?QRY=CTIBIB%3C%20IRN(39947780)&QRYTEXT=Station%20eleven)
+[![Station eleven by Emily St John Mandel](/images/article/station-eleven.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10775721?QRY=CTIBIB%3C%20IRN(39947780)&QRYTEXT=Station%20eleven)
 
 A flu pandemic begins in Toronto so lethal that, within weeks, most of the world&#8217;s population has been killed. This novel follows the fates of six compelling characters whose lives are interlinked.

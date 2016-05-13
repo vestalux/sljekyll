@@ -21,7 +21,7 @@ And there’s more wildlife-hunting-in-the-dark in the latest picture book by Ch
 
 ### [<cite>The way to the zoo</cite> by John Burningham](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19980628?QRY=CTIBIB%3C%20IRN(34790950)&QRYTEXT=The%20way%20to%20the%20zoo)
 
-### [<cite>Happy Birthday, Hugless Douglas</cite> by David Melling](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19981174?QRY=CTIBIB%3C%20IRN(35038888)&QRYTEXT=Happy%20birthday%2C%20Hugless%20Douglas)
+### [<cite>Happy Birthday, Hugless Douglas</cite> by David Melling](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21614755?QRY=CTIBIB%3C%20IRN(38545116)&QRYTEXT=Happy%20birthday%2C%20Hugless%20Douglas!)
 
 ### [<cite>Elmer and the monster</cite> by David McKee](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19981551?QRY=CTIBIB%3C%20IRN(35039957)&QRYTEXT=Elmer%20and%20the%20monster)
 
@@ -37,23 +37,7 @@ And the latest <cite>Willow Valley</cite> title should land on our shelves in ti
 
 A brother and sister unwillingly evacuated from London, discover 2 boys hiding in a ruined tower in this gripping time slip novel (1940s meets the fifteenth century). Sonya Hartnett is a masterful teller of tales. Her other IIWW novel The Midnight Zoo published in 2010, was set in war torn Poland
 
-## Young teen novels
-
-### [<cite>The Giver</cite> by Lois Lowry](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19984357?QRY=CTIBIB%3C%20IRN(35744460)&QRYTEXT=The%20Giver)
-
-If you missed this “utopian dystopia” novel back in 1994, read it now, before the film comes out this Autumn. Ira Levin meets Margaret Atwood, if you like that sort of thing.
-
-### [<cite>The School for Good and Evil</cite> by Soman Chainani](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19985394?QRY=CTIBIB%3C%20IRN(21348881)&QRYTEXT=The%20school%20for%20good%20and%20evil)
-
-A film version of this is due out later this year too. Described as “a gutsy version of Hogwarts, fairy tales and the supernatural”, it&#8217;s been nominated for Waterstones Children’s book Prize 2014.
-
-### [<cite>The Johnstone Twins</cite> by Philip Kelleway](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19985941?QRY=CTIBIB%3C%20IRN(25771204)&QRYTEXT=The%20Johnstone%20twins%20%3A%20an%20appreciation%20of%20Janet%20Johnstone%20(1928-1979)%20%26%20Anne%20Grahame%20Johnstone%20(1928-1998)%20together%20with%20a%20selection%20of%20their%20illustrations)
-
-An appreciation of the twin sisters who illustrated hundreds of children’s books, including Dodie Smith’s <cite>Hundred and One Dalmatians</cite>. If you’re quick, you can still catch Ipswich Art College’s exhibition featuring their work.
-
-## Children&#8217;s ebooks
-
-### [<cite>The littlest dragon gets the giggles</cite> by Margaret Ryan](http://suffolklibraries.lib.overdrive.com/8E8923A8-8E02-4058-A3F1-CDDEA660165A/10/50/en/ContentDetails.htm?id=A9378F3E-A12C-4FC3-A175-34F3941B1DE4)
+### [<cite>The littlest dragon gets the giggles</cite> by Margaret Ryan](http://suffolklibraries.lib.overdrive.com/8E8923A8-8E02-4058-A3F1-CDDEA660165A/10/50/en/ContentDetails.htm?id=A9378F3E-A12C-4FC3-A175-34F3941B1DE4) (eBook)
 
 The second book about the <cite>Littlest Dragon</cite>, who has the biggest and best ideas. Familiar family stories for beginner readers.
 
@@ -63,7 +47,21 @@ In the second story, the Littlest Dragon is left at home while his older brother
 
 With plenty of repetition and alliteration, this book is perfect for children who are just able to read on their own. Hugely popular with Year 2s.
 
-### [<cite>Crocodile tears</cite> by Anthony Horowitz](http://suffolklibraries.lib.overdrive.com/8E8923A8-8E02-4058-A3F1-CDDEA660165A/10/50/en/ContentDetails.htm?id=CDF84F91-A521-4597-9354-C50A86F54AF9)
+## Young teen novels
+
+### [<cite>The Giver</cite> by Lois Lowry](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21615223?QRY=CTIBIB%3C%20IRN(123437)&QRYTEXT=The%20giver)
+
+If you missed this “utopian dystopia” novel back in 1994, read it now, before the film comes out this Autumn. Ira Levin meets Margaret Atwood, if you like that sort of thing.
+
+### [<cite>The School for Good and Evil</cite> by Soman Chainani](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19985394?QRY=CTIBIB%3C%20IRN(21348881)&QRYTEXT=The%20school%20for%20good%20and%20evil)
+
+A film version of this is due out later this year too. Described as “a gutsy version of Hogwarts, fairy tales and the supernatural”, it&#8217;s been nominated for Waterstones Children’s book Prize 2014.
+
+### [<cite>The Johnstone Twins</cite> by Philip Kelleway](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21615778?QRY=CTIBIB%3C%20IRN(9812365)&QRYTEXT=The%20Johnstone%20twins%20%3A%20an%20appreciation%20of%20Janet%20Johnstone%20(1928-1979)%20%26%20Anne%20Grahame%20Johnstone%20(1928-1998))
+
+An appreciation of the twin sisters who illustrated hundreds of children’s books, including Dodie Smith’s <cite>Hundred and One Dalmatians</cite>. If you’re quick, you can still catch Ipswich Art College’s exhibition featuring their work.
+
+### [<cite>Crocodile tears</cite> by Anthony Horowitz](http://suffolklibraries.lib.overdrive.com/8E8923A8-8E02-4058-A3F1-CDDEA660165A/10/50/en/ContentDetails.htm?id=CDF84F91-A521-4597-9354-C50A86F54AF9) (eBook)
 
 Alex Rider&#8217;s eighth adventure and the most action-packed yet.
 

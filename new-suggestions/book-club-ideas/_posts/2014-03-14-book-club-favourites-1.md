@@ -29,19 +29,19 @@ The son of a midwestern farmer, William Stoner comes to the University of Missou
 
 Under the influence of their charismatic classics professor, a group of clever, eccentric misfits at an elite New England college discover a way of thinking and living that is a world away from the humdrum existence of their contemporaries. But when they go beyond the boundaries of normal morality their lives are changed profoundly and for ever.
 
-## [<cite>Wonder</cite> by R.J. Palacio](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13558691?QRY=CTIBIB%3C%20IRN(67573)&QRYTEXT=Wonder)
+## [<cite>Wonder</cite> by R J Palacio](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13558691?QRY=CTIBIB%3C%20IRN(67573)&QRYTEXT=Wonder)
 
 Born with a terrible facial abnormality, Auggie has been home-schooled by his parents his whole life. Now, for the first time, he&#8217;s being sent to a real school &#8211; and he&#8217;s dreading it. All he wants is to be accepted &#8211; but can he convince his new classmates that he&#8217;s just like them, underneath it all?
 
-## [<cite>The light between oceans</cite> by M. L. Stedman](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13559060?QRY=CTIBIB<%20IRN(903575)&QRYTEXT=The%20light%20between%20oceans)
+## [<cite>The light between oceans</cite> by M L Stedman](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13559060?QRY=CTIBIB<%20IRN(903575)&QRYTEXT=The%20light%20between%20oceans)
 
 A boat washes up on the shore of a remote lighthouse keeper’s island. It holds a dead man and a crying baby. The two islanders, Tom and his wife Izzy are about to make a devastating decision.
 
-## [<cite>The interesting</cite> by Meg Wolitzer](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13559607?QRY=CTIBIB%3C%20IRN(23033561)&QRYTEXT=The%20Interestings)
+## [<cite>The interestings</cite> by Meg Wolitzer](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13559607?QRY=CTIBIB%3C%20IRN(23033561)&QRYTEXT=The%20Interestings)
 
 On a warm July night in 1974, six teenagers play at being cool. The friendships they make this summer will be the most important of their lives. But decades later not everyone can sustain in adulthood what had seemed so special in adolescence. As their fortunes tilt precipitously over the years, some of them dealing with great struggle, others enjoying wealth and success, friendships are put under the strain of envy and crushing disappointment against the backdrop of a changing America.
 
-## [<cite>The Burgess boys</cite> by Elizabeth Strout](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13560025?TIH_TYPE=B&TIH_NS=1&TIH=BURGESS%20BOYS)
+## [<cite>The Burgess boys</cite> by Elizabeth Strout](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21558915?QRY=CTIBIB%3C%20IRN(18444598)&QRYTEXT=The%20Burgess%20boys)
 
 Haunted by the freak accident that killed their father when they were children, Jim and Bob Burgess escaped from their hometown for New York City as soon as they possibly could. Jim, a sleek, successful corporate lawyer, has belittled his bighearted brother their whole lives, and Bob, a legal aid attorney who idolises Jim, has always taken it in his stride. But their long-standing dynamic is upended when their sister, Susan &#8211; the sibling who stayed behind &#8211; urgently calls them home.
 

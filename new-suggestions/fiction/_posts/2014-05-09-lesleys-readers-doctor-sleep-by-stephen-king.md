@@ -9,6 +9,8 @@ breadcrumb: fiction
 ---
 ![Doctor Sleep by Stephen King](/images/featured/featured-doctor-sleep.jpg)
 
+## Sarah Jenkins&#8217; review:
+
 I read many Stephen King books in my twenties. I still remember the chill I felt reading <cite>Christine</cite>, about the demonic car, and indeed <cite>The Shining</cite> which, to be honest wasn&#8217;t my favourite, which was <cite>Pet Sematary</cite>. I do not remember being as scared of any of those books as I have been reading <cite>Doctor Sleep</cite>! Within the first few chapters I am thinking twice about visiting the bathroom in the middle of the night incase I meet the same woman that Dan meets. The description of her is wonderful, I actually said &#8216;yuck&#8217; out loud.
 
 Dan, the little boy in the first book is now all grown up and despite all that he has been through (hint for you here —remember Jack Nicholson and that axe in the film <cite>The Shining</cite>?), he is not the most sympathetic or likeable of characters. However, as the book goes on, his relationship with Abra, the girl with a mega dose of Shining, changes your opinion of him.
@@ -16,6 +18,8 @@ Dan, the little boy in the first book is now all grown up and despite all that h
 King&#8217;s descriptions of what the &#8216;evil&#8217; True Knot get up to, whose sole purpose is to eat the power of the shining and of course during the process whoever it is who has this power, are grotesque. Indeed, if you are of a weak disposition with regards to gore and have a good imagination this perhaps is not the book for you.
 
 King has produced a worthy successor to <cite>The Shining</cite> and writes better than ever. If you have the nerve then I can&#8217;t recommend this book highly enough. (I am now only drinking one cup of tea prior to bedtime!)
+
+[Reserve <cite>Doctor Sleep</cite> by Stephen King from our libraries.](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20571801?QRY=CTIBIB%3C%20IRN(796844)&QRYTEXT=Doctor%20Sleep)
 
 ## If you enjoyed <cite>Doctor Sleep</cite> by Stephen King you might like:
 

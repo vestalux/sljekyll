@@ -9,7 +9,7 @@ breadcrumb: non-fiction
 ---
 ![Sour by Tracey Miller and Lucy Bannerman](/images/featured/featured-sour.jpg)
 
-## [<cite>Princess Matilda comes home</cite> by Shane Spall](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/30263396?QRY=CTIBIB%3C%20IRN(38357763)&QRYTEXT=Princess%20Matilda%20comes%20home)
+## [<cite>The Princess Matilda comes home: the adventure of a lifetime around Britain on a barge</cite> by Shane Spall](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20937228?QRY=CTIBIB%3C%20IRN(1507557)&QRYTEXT=The%20Princess%20Matilda%20comes%20home%20%3A%20the%20adventure%20of%20a%20lifetime%20around%20Britain%20on%20a%20barge)
 
 Shane and Tim Spall are on the second leg of a very big adventure, taking their Dutch barge The Princess Matilda around the coast of Britain.
 
@@ -19,7 +19,7 @@ Along the way they cross Cardigan Bay in the company of a pod of dolphins, meet 
 
 Emerging into the North Sea at Inverness, they set a course down the east coast for London, back where their journey began. Tim and Shane aren&#8217;t the amateur sailors they once were, but things still don&#8217;t always go to plan.
 
-## [<cite>Rendezvous at the Russian Tea Rooms: The spy, the lover and the man called ‘M’</cite> by Paul Willetts](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/30264745?QRY=CTIBIB%3C%20IRN(36544266)&QRYTEXT=Rendezvous%20at%20the%20Russian%20Tea%20Rooms%20%3A%20the%20spy%2C%20the%20lover%20and%20the%20man%20called%20%27M%27)
+## [<cite>Rendezvous at the Russian Tea Rooms</cite> by Paul Willetts](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20937991?QRY=CTIBIB%3C%20IRN(57598936)&QRYTEXT=Rendezvous%20at%20the%20Russian%20Tea%20Rooms)
 
 Set in blacked–out London during the ominous lull before the Blitz, this true story centres on Tyler Kent, a debonair encryption specialist at the US Embassy – who also happens to be a Soviet mole.
 
@@ -33,13 +33,13 @@ How could this possibly help me? Well, the author is eight-times World Memory Ch
 
 In 2002 O’Brien committed to memory a random sequence of 2808 playing cards (54 packs) after looking at each card only once.
 
-## [<cite>Silence your mind: Improve your happiness in 10 minutes a day</cite> by Ramesh Manocha](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/30268294?QRY=CTIBIB%3C%20IRN(38358050)&QRYTEXT=Silence%20your%20mind%20%3A%20improve%20your%20happiness%20in%2010%20minutes%20a%20day)
+## [<cite>Silence your mind: Improve your happiness in 10 minutes a day</cite> by Ramesh Manocha](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20941944?QRY=CTIBIB%3C%20IRN(42027144)&QRYTEXT=Silence%20your%20mind)
 
 Can&#8217;t sleep because your thoughts won&#8217;t switch off? Does a constant stream of unnecessary chatter run through your head?
 
 Meditation is a simple practice that can help you address these common experiences. Through scientifically based research this text shows how meditation can fit into your busy schedule to improve your sense of wellbeing, help you reach your potential in sport, work and creative pursuits and increase the quality of your life.
 
-## [<cite>Sour</cite> by Tracey Miller and Lucy Bannerman](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/30272505?QRY=CTIBIB%3C%20IRN(32815707)&QRYTEXT=Sour)
+## [<cite>Sour</cite> by Tracey Miller and Lucy Bannerman](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20948776?QRY=CTIBIB%3C%20IRN(39260847)&QRYTEXT=Sour%20%3A%20my%20story%20%3A%20a%20troubled%20girl%20from%20a%20broken%20home%20%3A%20the%20Brixton%20gang%20she%20nearly%20died%20for%20%3A%20the%20baby%20she%20fought%20to%20live%20for)
 
 This is the true story of a former Brixton gang girl, drug dealer and full–time criminal.
 
@@ -59,15 +59,13 @@ Slowly but surely Billy has transformed Fraser&#8217;s life. Fraser&#8217;s moth
 
 In their home on the Balmoral Estate, Billy acts as Fraser&#8217;s guardian – never leaving his side at mealtimes and bedtimes or whenever he&#8217;s feeling low. Their profound bond has immeasurably improved their lives and the family&#8217;s, and brought them lots of hilarious and touching moments along the way.
 
-## New eBooks
-
-### [<cite>Grumpy Cat: A Grumpy Book</cite> by Grumpy Cat](http://suffolklibraries.lib.overdrive.com/F31D4283-7DC0-4F15-A915-E25431B2D382/10/50/en/ContentDetails.htm?id=53575AF5-F926-4403-A018-669DBD407753)
+## [<cite>Grumpy Cat: A Grumpy Book</cite> by Grumpy Cat](http://suffolklibraries.lib.overdrive.com/F31D4283-7DC0-4F15-A915-E25431B2D382/10/50/en/ContentDetails.htm?id=53575AF5-F926-4403-A018-669DBD407753) (eBook)
 
 Internet sensation Grumpy Cat&#8217;s epic feline frown has inspired legions of devoted fans. Celebrating the grouch in everyone, the Grumpy Cat book teaches the fine art of grumpiness and includes enough bad attitude to cast a dark cloud over the whole world.
 
 Featuring brand new as well as classic photos, and including grump–inspiring activities and games, Grumpy Cat delivers unmatched, hilarious grumpiness that puts any bad mood in perspective.
 
-### [<cite>Anthem for Doomed Youth: Twelve Soldier Poets of the First World War</cite> by Jon Stallworthy](http://suffolklibraries.lib.overdrive.com/F31D4283-7DC0-4F15-A915-E25431B2D382/10/50/en/ContentDetails.htm?id=40D1A78D-E126-4CA9-B830-808906D8E752#descExpand)
+## [<cite>Anthem for Doomed Youth: Twelve Soldier Poets of the First World War</cite> by Jon Stallworthy](http://suffolklibraries.lib.overdrive.com/F31D4283-7DC0-4F15-A915-E25431B2D382/10/50/en/ContentDetails.htm?id=40D1A78D-E126-4CA9-B830-808906D8E752#descExpand) (eBook)
 
 Leading poet and former professor of English Literature Jon Stallworthy tells the story of the lives and work of 12 major poets of the First World War and provides selections of their best work.
 

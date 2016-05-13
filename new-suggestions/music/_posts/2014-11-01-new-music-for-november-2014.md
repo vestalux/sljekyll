@@ -39,31 +39,31 @@ For this album, Grohl opted to make the experience as challenging and as uncomfo
 
 Recently named the highest paid DJ of the year for the second consecutive time by Forbes magazine,earning $66m for his work. Scotland’s Calvin Harris collaborates with John Newman, Ellie Goulding and Gwen Stefani for his latest album. Expect more smash hit electronic anthems.
 
-## [<cite>Northern Soul &#8211; The Soundtrack</cite> by Billy Butler (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/QmlsbHkgQnV0bGVy/5032698675784/aW9kYQ)
+## [<cite>Northern Soul &#8211; The Soundtrack</cite> by Billy Butler](http://suffolklibraries.freegalmusic.com/artists/view/QmlsbHkgQnV0bGVy/5032698675784/aW9kYQ) (Freegal)
 
 [![Northern Soul &#8211; The Soundtrack](/images/article/northern-soul-soundtrack.jpg)](http://suffolklibraries.freegalmusic.com/artists/view/QmlsbHkgQnV0bGVy/5032698675784/aW9kYQ)
 
 In one of the most anticipated releases of the year, <cite>Northern Soul</cite> directed by Elaine Constantine, will be the most accurate portrayal yet of this legendary musical movement which started in the north of England in the late 1960s and spread around the world to become a huge international scene. The soundtrack package for <cite>Northern Soul</cite> contains all the key Northern Soul tracks from the film.
 
-## [<cite>Chapter One</cite> by Ella Henderson (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/RWxsYSBIZW5kZXJzb24=/28977946/c29ueQ)
+## [<cite>Chapter One</cite> by Ella Henderson](http://suffolklibraries.freegalmusic.com/artists/view/RWxsYSBIZW5kZXJzb24=/28977946/c29ueQ) (Freegal)
 
 [![Chapter One by Ella Henderson](/images/article/chapter-one.jpg)](http://suffolklibraries.freegalmusic.com/artists/view/RWxsYSBIZW5kZXJzb24=/28977946/c29ueQ)
 
 Debut studio album by the British recording artist who was a finalist on the ninth series of The X Factor in 2012. The album topped the UK Albums Chart and features the singles <cite>Ghost</cite> and <cite>Glow</cite>.
 
-## [<cite>Fantasia</cite> by Lucy Kay (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/THVjeSBLYXk=/29404766/c29ueQ)
+## [<cite>Fantasia</cite> by Lucy Kay](http://suffolklibraries.freegalmusic.com/artists/view/THVjeSBLYXk=/29404766/c29ueQ) (Freegal)
 
 [![Fantasia by Lucy Kay](/images/article/fantasia.jpg)](http://suffolklibraries.freegalmusic.com/artists/view/THVjeSBLYXk=/29404766/c29ueQ)
 
 The sensational soprano, Lucy Kay, finished as runner up in the popular TV talent show Britain&#8217;s Got Talent, captivating both judges and audience alike with her radiant voice and enchanting personality. On her debut album, Lucy demonstrates a unique ability to cross the boundaries of opera and touch the heart of the listener.
 
-## [<cite>Memoirs of a Madman</cite> by Ozzy Osbourne (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/T3p6eSBPc2JvdXJuZQ==/29468588/c29ueQ)
+## [<cite>Memoirs of a Madman</cite> by Ozzy Osbourne](http://suffolklibraries.freegalmusic.com/artists/view/T3p6eSBPc2JvdXJuZQ==/29468588/c29ueQ) (Freegal)
 
 [![Memoirs of a Madman by Ozzy Osbourne](/images/article/memoirs-of-a-madman.jpg)](http://suffolklibraries.freegalmusic.com/artists/view/T3p6eSBPc2JvdXJuZQ==/29468588/c29ueQ)
 
 This serves as a career spanning audio release featuring 17 of Ozzy Osbourne&#8217;s greatest hit singles remastered and compiled in one place for the first time in his career. For all the things Ozzy Osbourne has been known for, Memoirs Of A Madman puts the focus squarely on the thing he does best: crafting some of the best, most passionate rock and roll of all time.
 
-## [<cite>Tenore</cite> by Jonathan Antoine (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/Sm9uYXRoYW4gQW50b2luZQ==/29282152/c29ueQ)
+## [<cite>Tenore</cite> by Jonathan Antoine](http://suffolklibraries.freegalmusic.com/artists/view/Sm9uYXRoYW4gQW50b2luZQ==/29282152/c29ueQ) (Freegal)
 
 [![Tenore by Jonathan Antoine](/images/article/tenore.jpg)](http://suffolklibraries.freegalmusic.com/artists/view/Sm9uYXRoYW4gQW50b2luZQ==/29282152/c29ueQ)
 

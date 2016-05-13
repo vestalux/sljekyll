@@ -9,6 +9,8 @@ breadcrumb: fiction
 ---
 ![The fault in our stars by John Green](/images/featured/featured-the-fault-in-our-stars.jpg)
 
+## Sarah Jenkins&#8217; review:
+
 My hand had often hovered over this book, but I always changed my mind due to the central theme of teenagers and cancer. I was never sure whether I would have a box of tissues large enough to get me through to the end.
 
 Oh my, I am so glad I have read this so well observed and beautiful book. It has, at its centre, a love story between two American teenagers who are in remission. Hazel and Augustus meet at a kid&#8217;s cancer support group and it is their story but also their parents&#8217; story and how families deal with what life is throwing at them. There are full on tissue box moments, one in particular which I never saw coming. However, at the same time it is a story of courage and love and making the most of the time we have.
@@ -30,6 +32,8 @@ I had heard a lot about this book from both adults and teenagers and I must admi
 Hazel and Augustus meet at a Cancer Kid Support Group where they form a deep friendship which has a profound impact on their lives. Yes, cancer is undeniably a feature of this story, although it’s also about much more, it does not define the characters or the book.
 
 This is a story about love, living the life you’re given and making the most of every moment, the experiences we share with those that love us the most and the friendships we develop. What John Green creates in Hazel and Augustus along with their friends and families is a set of characters we come to care deeply about. I experienced a whole spectrum of emotions while reading this book; I cried as well as laughing out loud. <cite>The fault in our stars</cite> is one book I recommend to others.
+
+[Reserve <cite>The fault in our stars</cite> by John Green from our libraries.](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20573418?QRY=CTIBIB%3C%20IRN(218872)&QRYTEXT=The%20fault%20in%20our%20stars)
 
 ## If you enjoyed <cite>The fault in our stars</cite> by John Green you might like:
 

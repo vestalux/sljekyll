@@ -39,31 +39,31 @@ The result is high octane, heavy, soulful rock n roll that delivers on every lev
 
 Although never what you would term fashionable, Chicago are second only to the Beach Boys as the most successful American rock band of all time. The new album is their 36th(!) since they formed in 1967, and features 11 new songs.
 
-## [<cite>The Vikings II (Original Motion Picture Soundtrack)</cite> by Trevor Morris (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/VHJldm9yIE1vcnJpcw==/29192623/c29ueQ)
+## [<cite>The Vikings II (Original Motion Picture Soundtrack)</cite> by Trevor Morris](http://suffolklibraries.freegalmusic.com/artists/view/VHJldm9yIE1vcnJpcw==/29192623/c29ueQ) (Freegal)
 
 Whenever you want to hear a great TV score these days, you usually go to Trevor Morris who has consistently been delivering greatness like <cite>The Tudors</cite> or <cite>Pillars of the Earth</cite>.
 
 In Vikings, a lot of what you hear are mood cues like <cite>The Sunstone</cite>, cues that just linger and tell you about what’s happening on screen in a subtle way.
 
-## [<cite>Stay Gold</cite> by First Aid Kit (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/Rmlyc3QgQWlkIEtpdA==/29139359/c29ueQ)
+## [<cite>Stay Gold</cite> by First Aid Kit](http://suffolklibraries.freegalmusic.com/artists/view/Rmlyc3QgQWlkIEtpdA==/29139359/c29ueQ) (Freegal)
 
 It&#8217;s six years since sisters Johanna and Klara Söderberg uploaded the woodland–set Fleet Foxes cover that would go on to grant them fame. Three albums in, and their voices still chime like a Swedish Everly Brothers.
 
 <cite>Stay Gold</cite> features the singles <cite>My Silver Lining</cite> and <cite>Cedar Lane</cite>. The album debuted at number 11 in the UK Albums Chart.
 
-## [<cite>Blonde</cite> by Alizee (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/QWxpesOpZQ==/29174168/c29ueQ)
+## [<cite>Blonde</cite> by Alizee](http://suffolklibraries.freegalmusic.com/artists/view/QWxpesOpZQ==/29174168/c29ueQ) (Freegal)
 
 Blonde is the upcoming 6th studio album of the French recording artist Alizée.
 
 Alizée’s success on French television show <cite>Danse avec les stars</cite> shot her to fame in her homeland.
 
-## [<cite>48:13</cite> by Kasabian (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/S2FzYWJpYW4=/29116177/c29ueQ)
+## [<cite>48:13</cite> by Kasabian](http://suffolklibraries.freegalmusic.com/artists/view/S2FzYWJpYW4=/29116177/c29ueQ) (Freegal)
 
 48:13 is the 5th studio album from the English rock band and was produced by the band&#8217;s guitarist Sergio Pizzorno.
 
 The album entered at number one on the UK Albums Chart in its first week of release – band&#8217;s fourth consecutive UK number one.
 
-## [<cite>Blue Smoke: The Best of</cite> by Dolly Parton (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/RG9sbHkgUGFydG9u/29239319/c29ueQ)
+## [<cite>Blue Smoke: The Best of</cite> by Dolly Parton](http://suffolklibraries.freegalmusic.com/artists/view/RG9sbHkgUGFydG9u/29239319/c29ueQ) (Freegal)
 
 The iconic singer, songwriter, musician and actress launches her new album to coincide with her Blue Smoke World Tour hitting the UK, Europe and of course Glastonbury!
 

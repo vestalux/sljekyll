@@ -9,6 +9,8 @@ breadcrumb: fiction
 ---
 ![The Rosie project by Graeme Simsion](/images/featured/featured-the-rosie-project.jpg)
 
+## Sarah Jenkins&#8217; review:
+
 This is an ideal summer read. I loved the humour in it. The underlying plot is that a lecturer in genetics, Don Tillman, hits 40 and decides that the logical thing to do is to find a wife, as married men live longer. Whereas most people would look for love, Don looks for as many ticks as possible on his ‘wife’ questionnaire. The story is told through Don’s matter-of-fact Asperger&#8217;s point of view, which makes for a refreshingly different and insightful read.
 
 Don’s wife project gets put on the back burner when Rosie enters his life and the new project becomes to find out who Rosie’s father is by collecting DNA from all the possible suspects from her mother’s college class! The ways they come up with for doing this gives us the most belly laughs and place Don well and truly outside his comfort zone.
@@ -28,6 +30,8 @@ It’s a really easy read and I loved the underlying humour and although I&#8217
 ## Sam Pease&#8217;s review:
 
 A great read, I read it in one day. Thank you for recommending it! I really enjoyed reading it and the observations on relationships.
+
+[Reserve <cite>The Rosie Project</cite> by Graeme Simsion from our libraries.](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20588763?QRY=CTIBIB%3C%20IRN(18443914)&QRYTEXT=The%20Rosie%20project)
 
 ## If you enjoyed <cite>The Rosie Project</cite> by Graeme Simsion you might like:
 

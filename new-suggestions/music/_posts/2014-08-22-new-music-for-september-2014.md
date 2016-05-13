@@ -31,20 +31,14 @@ Marianne has written most of the lyrics, while the music was written by Nick Cav
 
 <cite>V</cite> is Maroon 5’s fourth studio album and is the follow up to the bestselling album <cite>Overexposed</cite> (2012).
 
-## [Interpol: <cite>El Pintor</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/55934487?QRY=CTIBIB%3C%20IRN%2840991870%29&QRYTEXT=El%20pintor%20[sound%20recording])
+## [<cite>El Pintor</cite> by Interpol](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/55934487?QRY=CTIBIB%3C%20IRN%2840991870%29&QRYTEXT=El%20pintor%20[sound%20recording])
 
 American rockers Interpol release their 5th studio album. Frontman Paul Banks says fans should expect some surprises.
 
-## [<cite>Those Were the Days (Best Of & Rare Tracks)</cite> by Emil Bulls (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/RW1pbCBCdWxscw==/29417523/c29ueQ==)
-
-Emil Bulls blend alternative, metal, rock, and pop and have established themselves as one of the most important metal bands in recent years.
-
-This retrospective is chock-a-block with hits, rarities, live versions and remixes.
-
-## [<cite>At The Movies</cite> by Richard & Adam (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/UmljaGFyZCAmIEFkYW0=/29190139/c29ueQ==)
+## [<cite>At The Movies</cite> by Richard & Adam](http://suffolklibraries.freegalmusic.com/artists/view/UmljaGFyZCAmIEFkYW0=/29190139/c29ueQ==) (Freegal)
 
 Their debut album <cite>The Impossible Dream</cite> was the longest running No.1 album of the year, selling over 150,00 copies. Their latest has a movie theme features versions of <cite>Moon River</cite>, <cite>Can You Feel The Love Tonight</cite> and <cite>I Had A Dream</cite>.
 
-## [<cite>Moe Pope & The Arcitype Present: My Monday Morning Music</cite> by STL GLD (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/U1RMIEdMRA==/853044003441/aW9kYQ==)
+## [<cite>Moe Pope & The Arcitype Present: My Monday Morning Music</cite> by STL GLD](http://suffolklibraries.freegalmusic.com/artists/view/U1RMIEdMRA==/853044003441/aW9kYQ==) (Freegal)
 
 Features the single <cite>Zombies</cite>, the latest album from the Boston hiphop duo.

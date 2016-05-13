@@ -13,7 +13,7 @@ breadcrumb: films-dvds
 
 Liam Neeson, Julianne Moore and Michelle Dockery star in this action drama set on board an aeroplane from director Jaume Collet-Serra.
 
-## [<cite>Robocop</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14651261?QRY=CTIBIB%3C%20IRN(17404201)&QRYTEXT=RoboCop%20%5Bvideorecording%5D)
+## [<cite>RoboCop</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14651261?QRY=CTIBIB%3C%20IRN(17404201)&QRYTEXT=RoboCop%20%5Bvideorecording%5D)
 
 Big budget remake starring Joel Kinnaman as the part-man, part-machine police officer known as RoboCop.
 
@@ -21,7 +21,7 @@ Big budget remake starring Joel Kinnaman as the part-man, part-machine police of
 
 Jon Turteltaub directs this all star buddy comedy following four past-their-prime friends out to set the Vegas strip alight on a 4 night stag party.
 
-## [<cite>Dallas buyers club</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14649904?QRY=CTIBIB%3C%20IRN(37213348)&QRYTEXT=Dallas%20buyers%20club%20%5Bvideorecording%5D)
+## <cite>Dallas buyers club</cite>
 
 Award-winning historical drama starring Matthew McConaughey and Jared Leto.
 
@@ -33,6 +33,6 @@ Given a life-expectancy of 30 days by his doctors, Ron initially continues his l
 
 George Clooney co-writes and directs this adaptation of Robert M. Edsel&#8217;s book that follows the men tasked with saving the world&#8217;s greatest works of art from the Nazis during WWII.
 
-## [<cite>Tinker Bell the pirate fairy</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14646011?QRY=CTIBIB%3C%20IRN(39946762)&QRYTEXT=Tinker%20Bell%20and%20the%20pirate%20fairy)
+## <cite>Tinker Bell the pirate fairy</cite>
 
 When a misunderstood dust-keeper fairy named Zarina steals Pixie Hollow&#8217;s all-important Blue Pixie Dust, and flies away to join forces with the pirates of Skull Rock, Tinker Bell and her fairy friends must embark on the adventure of a lifetime to return it to its rightful place.

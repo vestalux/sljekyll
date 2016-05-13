@@ -39,8 +39,8 @@ Action spy comedy with an all-star cast, featuring Colin Firth, Samuel L Jackson
 
 Directed by Clint Eastwood, this war biopic follows prolific sniper during the Iraq war, Chris Kyle (played by Bradley Cooper). Keep an eye out for the fake baby.
 
-## [<cite>Shaun the Sheep</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/17255939?QRY=CTIBIB%3C%20IRN(17247659)&QRYTEXT=Shaun%20the%20sheep%20%5Bvideorecording%5D)
+## <cite>Shaun the Sheep</cite>
 
-[![Shaun the Sheep](/images/article/shaun-the-sheep.jpg)](ttps://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/17255939?QRY=CTIBIB%3C%20IRN(17247659)&QRYTEXT=Shaun%20the%20sheep%20%5Bvideorecording%5D)
+[![Shaun the Sheep](/images/article/shaun-the-sheep.jpg)]
 
 Animated family adventure, adapting the popular children&#8217;s TV show to the big screen. Shaun takes a day off and cause a kerfuffle.

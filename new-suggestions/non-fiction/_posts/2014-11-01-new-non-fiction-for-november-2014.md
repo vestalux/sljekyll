@@ -27,9 +27,9 @@ Pulitzer Prize-winning journalist Rick Bragg writes about the rock and roll pion
 
 After former special forces soldier Ken Jones is caught in a horrific avalanche leaving him with severe injuries, <cite>Darkness Descending</cite> follows the next four freezing days and nights as he dragged himself to safety, battling with extreme pain, cold, and his swings between hope and despair.
 
-## [<cite>Margot at War</cite> by Anne De Courcy](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5586242?QRY=CTIBIB%3C%20IRN(38357980)&QRYTEXT=Margot%20at%20war)
+## [<cite>Margot at War</cite> by Anne De Courcy](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20965378?QRY=CTIBIB%3C%20IRN(46364339)&QRYTEXT=Margot%20at%20war%20%3A%20love%20and%20betrayal%20in%20Downing%20Street%2C%201912-16)
 
-[![Margot at War by Anne De Courcy](/images/article/margot-at-war.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5586242?QRY=CTIBIB%3C%20IRN(38357980)&QRYTEXT=Margot%20at%20war)
+[![Margot at War by Anne De Courcy](/images/article/margot-at-war.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20965378?QRY=CTIBIB%3C%20IRN(46364339)&QRYTEXT=Margot%20at%20war%20%3A%20love%20and%20betrayal%20in%20Downing%20Street%2C%201912-16)
 
 Drawn from unpublished papers and diaries, this book recounts Margot Asquith&#8217;s unconventional time in 10 Downing Street &#8211; when socialising took precedence over politics &#8211; during the turbulent social changes from 1912 to 1916.
 
@@ -39,9 +39,9 @@ Drawn from unpublished papers and diaries, this book recounts Margot Asquith&#82
 
 As the author reflects on the houses she&#8217;s lived in, Forster examines the relationship between ourselves and our homes, and the way houses shape the way we live our lives.
 
-## [<cite>Where I&#8217;m Reading From: The Changing World of Books</cite> by Tim Parks](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13241009?QRY=CTIBIB%3C%20IRN%2846363088%29&QRYTEXT=Where%20I%27m%20reading%20from)
+## [<cite>Where I&#8217;m Reading From: The Changing World of Books</cite> by Tim Parks](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20967618?QRY=CTIBIB%3C%20IRN(46363088)&QRYTEXT=Where%20I%27m%20reading%20from)
 
-[![Where I'm Reading From: The Changing World of Books by Tim Parks](/images/article/where-im-reading-from.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5594153?QRY=CTIBIB%3C%20IRN(42635204)&QRYTEXT=Where%20I%27m%20reading%20from%20%3A%20the%20changing%20world%20of%20books)
+[![Where I'm Reading From: The Changing World of Books by Tim Parks](/images/article/where-im-reading-from.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20967618?QRY=CTIBIB%3C%20IRN(46363088)&QRYTEXT=Where%20I%27m%20reading%20from)
 
 In this collection of lively and provocative pieces, Parks discusses about what readers want from books and how to look at the literature we encounter in a new light.
 
@@ -52,10 +52,6 @@ In this collection of lively and provocative pieces, Parks discusses about what 
 Judi Dench opens her personal photograph albums publicly for the first time. The private albums are augmented by photographs showing her work across 50 years of acting &#8211; on stage, film, and TV.
 
 ## [<cite>I Think I Can See Where You&#8217;re Going Wrong: Wisdom, amusement and bemusement from the Guardian&#8217;s readers</cite> by Mark Burrows](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5606488?QRY=CTIBIB%3C%20IRN(39647113)&QRYTEXT=I%20think%20I%20can%20see%20where%20you%27re%20going%20wrong%20%3A%20wisdom%2C%20amusement%20and%20bemusement%20from%20the%20Guardian%27s%20readers)
-
-[![I Think I Can See Where You're Going Wrong: Wisdom, amusement and bemusement from the Guardian's readers by Mark Burrows](/images/article/i-think-i-can-see-where-youre-going-wrong.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5606488?QRY=CTIBIB%3C%20IRN(39647113)&QRYTEXT=I%20think%20I%20can%20see%20where%20you%27re%20going%20wrong%20%3A%20wisdom%2C%20amusement%20and%20bemusement%20from%20the%20Guardian%27s%20readers)
-
-Here are the wittiest, wisest, most bonkers of the Guardian readers&#8217; comments on every subject from food (mostly quinoa), ethics (mostly guilt), politics (mostly angry), travel (mostly skiing), sport (mostly banter), sex and drugs (mostly awkward), culture (mostly harmless) and blocked comments and abuse (mostly baffling).
 
 ## [<cite>Behind the Mask: The Life of Vita Sackville-West</cite> by Matthew Dennison](http://suffolklibraries.lib.overdrive.com/4408DF3B-07E6-4E4B-AE30-3735A88AB0CD/10/50/en/ContentDetails.htm?id=5376114E-DFF4-40E6-843A-E01C99BC93D7) (eBook)
 

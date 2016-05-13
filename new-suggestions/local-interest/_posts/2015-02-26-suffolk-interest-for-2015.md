@@ -4,7 +4,7 @@ title: Suffolk interest for 2015
 date: 2015-02-26 15:33:40+00:00
 author: brandon-king
 category: local-interest
-excerpt: Check out our Suffolk-based book and DVD picks.
+excerpt: Featuring Caleb Howgego and George Crabbe.
 breadcrumb: local-interest
 ---
 ![Hangar 10](/images/featured/featured-hangar-10.jpg)
@@ -15,9 +15,9 @@ breadcrumb: local-interest
 
 Comparing Victorian and Edwardian Ipswich with the modern town, this fascinating selection of photographs traces the many ways in which Ipswich has changed and developed.
 
-## [<cite>The Ipswich witch</cite> by David L. Jones](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9192095?QRY=CTIBIB%3C%20IRN(43620131)&QRYTEXT=The%20Ipswich%20witch)
+## [<cite>The Ipswich witch</cite> by David L Jones](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9192095?QRY=CTIBIB%3C%20IRN(43620131)&QRYTEXT=The%20Ipswich%20witch)
 
-[![The Ipswich witch by David L. Jones](/images/article/ipswich-witch.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9192095?QRY=CTIBIB%3C%20IRN(43620131)&QRYTEXT=The%20Ipswich%20witch)
+[![The Ipswich witch by David L Jones](/images/article/ipswich-witch.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9192095?QRY=CTIBIB%3C%20IRN(43620131)&QRYTEXT=The%20Ipswich%20witch)
 
 Against the backdrop of the largest witch hunt in English history, this text is both an investigation of a miscarriage of justice and an in-depth recreation of 17th Century East Anglia.
 
@@ -33,9 +33,9 @@ Combining travel writing with a walking guide, this explores up and down Suffolk
 
 Aldeburgh born George Crabbe&#8217;s poems, mostly heroic couplets, form powerful, unsentimental and often unflinching portrayals of provincial life and society.
 
-## [<cite>Hangar 10 (DVD)</cite>](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9203494?QRY=CTIBIB%3C%20IRN(46868156)&QRYTEXT=Hangar%2010%20%5Bvideorecording%5D)
+## <cite>Hangar 10</cite>
 
-[![Hangar 10](/images/article/hangar-10.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/9203494?QRY=CTIBIB%3C%20IRN(46868156)&QRYTEXT=Hangar%2010%20%5Bvideorecording%5D)
+[![Hangar 10](/images/article/hangar-10.jpg)]
 
 33 years after the infamous Rendlesham Forest UFO incident, three metal detector enthusiasts hunting for Saxon gold in the same region, capture incredible footage of UFO&#8217;s whilst filming their expedition. As night falls and with their navigation equipment failing, they find themselves facing a terrifying encounter with an unforgiving alien presence.
 

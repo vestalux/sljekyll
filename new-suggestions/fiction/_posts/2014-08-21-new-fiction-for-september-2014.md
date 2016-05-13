@@ -19,7 +19,7 @@ In her latest book a group of old university friends leave the bright lights of 
 
 It&#8217;s midsummer, a time of light nights and unexpected mists. The following day, Eleanor&#8217;s friend Polly receives an email. It appears to be a suicide note, saying she&#8217;ll never be found alive. And then Eleanor&#8217;s body is discovered, lying in a small loch close to the cliff edge. Detectives Jimmy Perez and Willow Reeves are dispatched to Unst to investigate.
 
-## [<cite>The new Hercule Poirot mystery</cite> by Sophie Hannah and Agatha Christie](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/62650258?QRY=CTIBIB%3C%20IRN%289649235%29&QRYTEXT=The%20Monogram%20murders)
+## [<cite>The monogram murders</cite> by Sophie Hannah and Agatha Christie](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20595739?QRY=CTIBIB%3C%20IRN(44257125)&QRYTEXT=The%20monogram%20murders%20%3A%20the%20new%20Hercule%20Poirot%20mystery)
 
 Staying with the theme of crime, Sophie Hannah steps into some daunting shoes by writing a new Poirot novel. You may remember her recent book <cite>Kind of Cruel</cite>.
 
@@ -43,7 +43,7 @@ Elsewhere on the island, there has been a decade of unrest and violence between 
 
 As Famagusta is shelled, its population flees. In the now deserted city, just two families are left behind. <cite>The Sunrise</cite> tells the story of this small group living in hiding.
 
-## [<cite>The assassination of Margaret Thatcher</cite> by Hilary Mantel](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/55747306?QRY=CTIBIB%3C%20IRN%2839948058%29&QRYTEXT=The%20assassination%20of%20Margaret%20Thatcher)
+## [<cite>The assassination of Margaret Thatcher</cite> by Hilary Mantel](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20597146?QRY=CTIBIB%3C%20IRN(52716060)&QRYTEXT=The%20assassination%20of%20Margaret%20Thatcher%20and%20other%20stories)
 
 A change of theme for the double Booker Prize winning author of <cite>Wolf Hall</cite> and <cite>Bring Up the Bodies</cite>. This is a collection of short stories.
 
@@ -90,19 +90,25 @@ Hatching a plan with the rest of the community to save Ivory Meadows, everything
 6 stories by popular crime authors:
 
 * <cite>No Second Chance</cite>, by Bill Kitson:
+
 > DS Kate Jackson is distraught when a sure-fire prosecution case against a celebrity accused of rape breaks down. The failed prosecution is an excuse for her superiors to move Kate to another police force, where, putting the past behind her, she successfully rebuilds her career. Then the celebrity who was acquitted all those years ago is found dead on Kate&#8217;s beat – and, suddenly, she finds herself under suspicion of murder…
 
 * <cite>Libby Sarjeant and the Mystery of the Errant Emeralds</cite> by Lesley Cookman:
+
 > Libby Sarjeant and her colleagues who run the Oast Theatre are surprised and somewhat apprehensive when the great Miranda Love decides to make her unexpected comeback at their little venue. Miranda is unquestionably a brilliant actress, but she has a fearsome reputation as a diva – and, as rehearsals get underway, Libby and her friends realise that Miranda Love will do anything to get what she wants…
 
 * <cite>Goodbye, My Darling</cite> by Cara Cooper:
+
 > Sometimes life can seem too perfect. Perfect home, perfect garden, perfect husband… but what if it&#8217;s all just an illusion? What if that perfect husband is plotting the perfect murder? And once things have changed for good, do you stick around or say goodbye?
 
 * <cite>Old Bones</cite> by J.J. Campbell:
+
 > Amateur detective Charles de Lacy is drawn into a case of gangland intrigue when he agrees to meet his old sparring partner, DS Susan McIntyre. McIntyre reveals the recent deathbed confession of a prominent former criminal, an associate of notorious North London family the Whadcoats. It seems there is a body buried in a field just outside London – the victim of a gang execution in the 1970s – but on examination the story seems impossible. De Lacy investigates – with dramatic unforeseen results…
 
 * <cite>Meteors and Myths</cite> by Marsali Taylor:
+
 > Cass Lynch is sailing her yacht Khalida when she hears a desperate Mayday call over the ship&#8217;s radio: a woman&#8217;s husband has just disappeared overboard. Cass heads towards the distressed woman, Anita, and comforts her until help arrives. But something doesn&#8217;t seem quite right… Cass, together with DI Gavin Macrae, investigates whether Anita&#8217;s loss is really all that much of a blow to her…
 
 * <cite>The Adventure of the Dead Wild Bore</cite> by Andrea Frazer:
+
 > The recently-formed private detective agency of (Sherman) Holmes and (John) Garden is going from strength to strength. Holmes invites Garden to a meeting of the Quaker Street Irregulars, a society for die-hard fans of his near-namesake, Conan Doyle&#8217;s own Sherlock Holmes. Garden is somewhat taken aback by the fervour with which members of the Irregulars defend their opinions on the great fictional consulting detective – but nobody expects a run-of-the-mill disagreement to turn into brutal murder…

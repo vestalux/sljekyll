@@ -23,7 +23,7 @@ Missing the John Lewis advert already and longing to see more rabbits and a bear
 
 ### [<cite>Queen Bee!</cite> by Alan McDonald](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5800522?QRY=CTIBIB%3C%20IRN(35039959)&QRYTEXT=Queen%20bee!)
 
-Angela Nicely is a feisty new heroine from the author of the very popular Dirty Bertie series. Good news for little girls!
+Angela Nicely is a feisty new heroine from the author of the very popular <cite>Dirty Bertie</cite> series. Good news for little girls!
 
 ### [<cite>Choosing Crumble</cite> by Michael Rosen](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5800840?QRY=CTIBIB%3C%20IRN(32043877)&QRYTEXT=Choosing%20Crumble)
 
@@ -31,11 +31,11 @@ Actually it’s the dog, Crumble, who does the choosing and it was Tony Ross who
 
 ## Junior novels
 
-### [<cite>Baby aliens got my teacher</cite> by Pamela Butchart](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5801067?QRY=CTIBIB%3C%20IRN(23531374)&QRYTEXT=Baby%20aliens%20got%20my%20teacher)
+### [<cite>Baby aliens got my teacher</cite> by Pamela Butchart](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21608347?QRY=CTIBIB%3C%20IRN(32041964)&QRYTEXT=Baby%20aliens%20got%20my%20teacher!)
 
 Why is Miss Jones being nice all of a sudden? There’s only one explanation!
 
-### [<cite>Knightley and son</cite> by Rohan Gavin](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5801405?QRY=CTIBIB%3C%20IRN(21833228)&QRYTEXT=Knightley%20and%20Son)
+### [<cite>Knightley and son</cite> by Rohan Gavin](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21609119?QRY=CTIBIB%3C%20IRN(35743986)&QRYTEXT=Knightley%20%26%20Son)
 
 A fast paced mystery adventure about a father/son detective team. I hope this is the start of a new series. Definitely one to look out for.
 

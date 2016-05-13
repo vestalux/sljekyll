@@ -57,14 +57,14 @@ Vaccines frontman Justin Young describes this as a record that “sounds like 20
 
 Live and soundcheck versions of rarities recorded on his recent <cite>Old Ideas</cite> tour, and two new original Cohen songs, <cite>Never Gave Nobody Trouble</cite> and <cite>Got a Little Secret</cite>.
 
-## [<cite>Synth Pop</cite> by Various Artists (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/VmFyaW91cw==/30497613/c29ueQ)
+## [<cite>Synth Pop</cite> by Various Artists](http://suffolklibraries.freegalmusic.com/artists/view/VmFyaW91cw==/30497613/c29ueQ) (Freegal)
 
-[![Synth Pop by Various Artists (Freegal)](/images/article/synthpop.jpg)](http://suffolklibraries.freegalmusic.com/artists/view/VmFyaW91cw==/30497613/c29ueQ)
+[![Synth Pop by Various Artists](/images/article/synthpop.jpg)](http://suffolklibraries.freegalmusic.com/artists/view/VmFyaW91cw==/30497613/c29ueQ)
 
 Includes thirteen number #1 singles from the likes of Eurythmics, Ultra Vox and New Order.
 
-## [<cite>A Woman in the East (Live)</cite> by Joni Mitchell (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/Sm9uaSBNaXRjaGVsbA==/889176594854/aW9kYQ)
+## [<cite>A Woman in the East (Live)</cite> by Joni Mitchell](http://suffolklibraries.freegalmusic.com/artists/view/Sm9uaSBNaXRjaGVsbA==/889176594854/aW9kYQ) (Freegal)
 
-[![A Woman in the East (Live) by Joni Mitchell (Freegal)](/images/article/a-woman-in-the-east.jpg)](http://suffolklibraries.freegalmusic.com/artists/view/Sm9uaSBNaXRjaGVsbA==/889176594854/aW9kYQ)
+[![A Woman in the East (Live) by Joni Mitchell](/images/article/a-woman-in-the-east.jpg)](http://suffolklibraries.freegalmusic.com/artists/view/Sm9uaSBNaXRjaGVsbA==/889176594854/aW9kYQ)
 
 FM radio broadcast from 1983, transmitted live from her show at Tokyo&#8217;s arena, Nippon Budokan.

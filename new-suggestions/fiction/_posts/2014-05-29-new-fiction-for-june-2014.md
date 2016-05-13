@@ -37,7 +37,7 @@ But as Strike investigates, it becomes clear that there is more to Quine&#8217;s
 
 If the novel were published it would ruin lives – so there are a lot of people who might want to silence him. And when Quine is found brutally murdered in bizarre circumstances, it becomes a race against time to understand the motivation of a ruthless killer, a killer unlike any he has encountered before.
 
-## [<cite>Death of a scholar: The twentieth chronicle of Matthew Bartholomew</cite> by Susanna Gregory](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14573780?QRY=CTIBIB%3C%20IRN(36824850)&QRYTEXT=Death%20of%20a%20scholar%20%3A%20the%20twentieth%20chronicle%20of%20Matthew%20Bartholomew)
+## [<cite>Death of a scholar: The twentieth chronicle of Matthew Bartholomew</cite> by Susanna Gregory](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20585042?QRY=CTIBIB%3C%20IRN(40612606)&QRYTEXT=Death%20of%20a%20scholar)
 
 In the summer of 1358 the physician Matthew Bartholomew returns to Cambridge to find his beloved sister in mourning after the unexpected death of her husband, Oswald Stanmore.
 

@@ -31,31 +31,31 @@ Growing up amid the violence of apartheid in 1980s South Africa, Pumeza moved wi
 
 South African composer Kevin Volans recognized the distinctive beauty of her voice and bought her a plane ticket to London where she auditioned for the Royal College of Music. She was immediately offered a full scholarship, and from there she went on to join the Young Artist Programme at the Royal Opera House, Covent Garden. Today she is a leading artist at Stuttgart Opera.
 
-## [<cite>Sparks</cite> by Imogen Heap (Freegal)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44526593?QRY=CTIBIB%3C%20IRN%2822717145%29&QRYTEXT=Sparks%20[sound%20recording])
+## [<cite>Sparks</cite> by Imogen Heap](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44526593?QRY=CTIBIB%3C%20IRN%2822717145%29&QRYTEXT=Sparks%20[sound%20recording])
 
 On 14 March 2011, Heap started work on her forthcoming album, (then unnamed), as fans sent in nearly 900 “sound seeds”, or samples of everyday sounds such as a “dishwasher door”, a “bicycle” or a “burning match”. Three years later the sounds became the album Sparks.
 
-## [<cite>Get hurt</cite> by Gaslight Anthem (Freegal)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44530087?QRY=CTIBIB%3C%20IRN%2841339812%29&QRYTEXT=Get%20hurt%20[sound%20recording])
+## [<cite>Get hurt</cite> by Gaslight Anthem](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/44530087?QRY=CTIBIB%3C%20IRN%2841339812%29&QRYTEXT=Get%20hurt%20[sound%20recording])
 
 New album by the New Jersey rock group. Author Nick Hornby is a fan.
 
-## [<cite>Redeemer of Souls (Deluxe)</cite> by Judas Priest (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/SnVkYXMgUHJpZXN0/29183386/c29ueQ)
+## [<cite>Redeemer of Souls (Deluxe)</cite> by Judas Priest](http://suffolklibraries.freegalmusic.com/artists/view/SnVkYXMgUHJpZXN0/29183386/c29ueQ) (Freegal)
 
 Metal legends Judas Priest return with their 17th studio album featuring the tracks Redeemer Of Souls and March Of The Damned. This Deluxe CD Bookpack includes the album plus 5 bonus tracks across 2 CDs in a hardback lyric book.
 
-## [<cite>Live Life Living</cite> by Example (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/RXhhbXBsZQ==/28618682/c29ueQ)
+## [<cite>Live Life Living</cite> by Example](http://suffolklibraries.freegalmusic.com/artists/view/RXhhbXBsZQ==/28618682/c29ueQ) (Freegal)
 
 An album that spends the majority of its running time looking back. Elliot Gleave’s latest collection of dancefloor imperatives mines his influences for inspiration, creating an air of mid–90s Top Of The Pops amid more of the melodies that have made him a chart staple in his own right.
 
-## [<cite>Wanted on Voyage</cite> by George Ezra (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/R2VvcmdlIEV6cmE=/29122931/c29ueQ)
+## [<cite>Wanted on Voyage</cite> by George Ezra](http://suffolklibraries.freegalmusic.com/artists/view/R2VvcmdlIEV6cmE=/29122931/c29ueQ) (Freegal)
 
 There is something about blonde, angelically handsome 21–year–old Hertfordshire singer-songwriter George Ezra that strikes a genuinely authentic note. Playing guitar, bass and keyboards, Ezra delivers structurally simple songs with enormous gusto, suggesting an uncynical, joyous release in the very act of making music.
 
-## [<cite>1000 Forms of Fear</cite> by Sia (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/U2lh/29331032/c29ueQ)
+## [<cite>1000 Forms of Fear</cite> by Sia](http://suffolklibraries.freegalmusic.com/artists/view/U2lh/29331032/c29ueQ) (Freegal)
 
 New 2014 album for Sia, her first in 4 years! Skyscraping pop from the ex–pat wonder who&#8217;s written hits for Kylie Minogue, Rihanna, Katy Perry, Beyonce and others. Cameos by Diplo and The Weeknd. Includes Chandelier.
 
-## [<cite>Little Boppers</cite> by Various Artists (Freegal)](http://suffolklibraries.freegalmusic.com/artists/view/VmFyaW91cw==/29352132/c29ueQ)
+## [<cite>Little Boppers</cite> by Various Artists](http://suffolklibraries.freegalmusic.com/artists/view/VmFyaW91cw==/29352132/c29ueQ) (Freegal)
 
 Little Boppers is here full of all the fun, pop hits the kids want! 3CDs of the very latest and best pop music around, full of the biggest pop acts on the planet.
 

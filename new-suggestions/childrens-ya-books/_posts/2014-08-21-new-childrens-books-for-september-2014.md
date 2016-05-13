@@ -23,7 +23,7 @@ A tad disappointed when his new baby brother doesn’t want to play, Toby soon d
 
 Dinosaurs are always a favourite in picture books, even when their intentions are less than honourable. But there is an unexpected ending in this rhyming tale of near misses.
 
-### [<cite>Enormouse</cite> by Angie Morgan](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/Ohttps://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/55990939?QRY=CTIBIB%3C%20IRN%2838546401%29&QRYTEXT=The%20pilot%20and%20the%20little%20princePAC/BIBENQ/55977369?QRY=CTIBIB%3C%20IRN%281566163%29&QRYTEXT=Enormouse!)
+### [<cite>Enormouse</cite> by Angie Morgan](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21658733?QRY=CTIBIB%3C%20IRN(25771510)&QRYTEXT=Enormouse)
 
 If you’re looking for a story about friendship and difference, this sweet tale will serve the purpose. Unlike <cite>The Ugly Duckling</cite> who leaves his nest to find acceptance as a swan, Enormouse just can’t settle with the other rats and returns to the welcome companionship of his friends the mice.
 
@@ -33,7 +33,7 @@ A group of animals set off in disguise to a fancy dress party “But which of us
 
 ## Beginner reads and short chapter books
 
-### <cite>The Not-So-Little-Princess Colour Readers</cite> series by Wendy Finney & Tony Ross
+### [<cite>The Not-So-Little-Princess Colour Readers</cite> series by Wendy Finney & Tony Ross](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/21656859?QRY=SEBIB%3C%20IRN(42947115)&QRYTEXT=Not-so-little%20princess%20colour%20reader)
 
 A new series for young readers who have grown up with the Little Princess picture books. The first 2 titles, [<cite>Best friends</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/55982099?QRY=CTIBIB%3C%20IRN%2838865796%29&QRYTEXT=Best%20friends!) and [<cite>What’s my name?</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/55982610?QRY=CTIBIB%3C%20IRN%2838865795%29&QRYTEXT=What%27s%20my%20name%3F) (it’s Rosie for short, btw) are already in stock and we hope there will be more titles to come for this popular character.
 
@@ -59,25 +59,7 @@ Jessica, the likeable main character, is trying to publish a spoof rule book cal
 
 The book casts a wry look over family life too as Jessica’s dad joins a roof-top protest, her little brother disregards everything but Lego and her big sister is embarrassed by her father. If you enjoy it you’ll be pleased to learn there are other titles about her already My brilliant life and “My best friend and other enemies”. Read them and laugh. Harry Hill does!
 
-## Young teen
-
-### [<cite>The apple tart of hope</cite> by Sarah Moore Fitzgerald](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/55987997?QRY=CTIBIB%3C%20IRN%2837213544%29&QRYTEXT=The%20apple%20tart%20of%20hope)
-
-When Meg leaves with her family for an extended stay in New Zealand, Oscar her best friend and neighbour, is so humiliated by the girl who moves in next door, that he leaves home. The novel explores the fragile self-esteem of a young teenage boy. Luckily there is a happy resolution to this challenging story. Another excellent book by this newly published author.
-
-### [<cite>Night runner</cite> by Tim Bowler](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/55988715?QRY=CTIBIB%3C%20IRN%2839647626%29&QRYTEXT=Night%20runner)
-
-In order to protect his mum and dad from a criminal gang, Zinny becomes their runner in this gripping edge-of-your-seat drama. The story ends happily, but it’s not for the feint hearted. Be aware that the novel includes “conversational swearing” and some violence.
-
-## Junior non-fiction
-
-### [<cite>Murderous maths</cite> by Kjurtan Poskitt](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/55989514?QRY=CTIBIB%3C%20IRN%2839262039%29&QRYTEXT=The%20magic%20of%20maths)
-
-### [<cite>The pilot and the little prince: the life of Antoine de Saint–Exupery</cite> by Peter Sis](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/55990939?QRY=CTIBIB%3C%20IRN%2838546401%29&QRYTEXT=The%20pilot%20and%20the%20little%20prince)
-
-## eBooks
-
-### [<cite>Rebecca of Sunnybrook farm</cite> by Kate Douglas Wiggin](http://suffolklibraries.lib.overdrive.com/98FA403D-E3F4-4098-BB2E-950BEAF63253/10/50/en/ContentDetails.htm?id=635B8E6A-A28F-4858-8674-604D97EC7169)
+### [<cite>Rebecca of Sunnybrook farm</cite> by Kate Douglas Wiggin](http://suffolklibraries.lib.overdrive.com/98FA403D-E3F4-4098-BB2E-950BEAF63253/10/50/en/ContentDetails.htm?id=635B8E6A-A28F-4858-8674-604D97EC7169) (eBook)
 
 A classic and delightful children&#8217;s novel that tells the story of young Rebecca Rowena Randall, the mischief she gets into and the difference she makes to the lives of those around her.
 
@@ -89,8 +71,24 @@ Due to the financial straits her family have found themselves in, it has been de
 
 However there remains a shadow over Rebecca&#8217;s happiness: the fact that she has never quite won over her Aunt Miranda&#8217;s affections. But slowly Rebecca is growing up into a mature and thoughtful young lady. And when her mother falls ill and Rebecca is forced to look after her old farmstead home as well as her ailing mother, it may just be that Miranda has grown fond of her niece after all.
 
-### [<cite>Don&#8217;t Tell Mum</cite> by Simon Hoggart](http://suffolklibraries.lib.overdrive.com/98FA403D-E3F4-4098-BB2E-950BEAF63253/10/50/en/ContentDetails.htm?id=9CADDA6D-A13B-4E40-87A5-841C190EEFFE)
+## Young teen
+
+### [<cite>The apple tart of hope</cite> by Sarah Moore Fitzgerald](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/55987997?QRY=CTIBIB%3C%20IRN%2837213544%29&QRYTEXT=The%20apple%20tart%20of%20hope)
+
+When Meg leaves with her family for an extended stay in New Zealand, Oscar her best friend and neighbour, is so humiliated by the girl who moves in next door, that he leaves home. The novel explores the fragile self-esteem of a young teenage boy. Luckily there is a happy resolution to this challenging story. Another excellent book by this newly published author.
+
+### [<cite>Night runner</cite> by Tim Bowler](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/55988715?QRY=CTIBIB%3C%20IRN%2839647626%29&QRYTEXT=Night%20runner)
+
+In order to protect his mum and dad from a criminal gang, Zinny becomes their runner in this gripping edge-of-your-seat drama. The story ends happily, but it’s not for the feint hearted. Be aware that the novel includes “conversational swearing” and some violence.
+
+### [<cite>Don&#8217;t Tell Mum</cite> by Simon Hoggart](http://suffolklibraries.lib.overdrive.com/98FA403D-E3F4-4098-BB2E-950BEAF63253/10/50/en/ContentDetails.htm?id=9CADDA6D-A13B-4E40-87A5-841C190EEFFE) (eBook)
 
 The email home is an essential part of every gap-year traveller&#8217;s journey. Where once the news of narrowly surviving a bus crash on the dirt-roads of India, waking up to gunfire in Honduras or fending off marriage proposals from complete strangers would have made it home only on the back of a slow-moving battered postcard, these days those tantalizing details and terrible mistakes are now recorded immediately and distributed liberally for every friend and family member to wince at.
 
 In <cite>Don&#8217;t Tell Mum</cite>, Simon Hoggart and Emily Monk have collected together the funniest, most surreal, most alarming gap-year emails into a treasure-trove of correspondence. Accompanied by their wicked commentary, it gives the aspiring traveller the low-down on what not to do when trotting the globe.
+
+## Junior non-fiction
+
+### [<cite>Murderous maths</cite> by Kjurtan Poskitt](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/55989514?QRY=CTIBIB%3C%20IRN%2839262039%29&QRYTEXT=The%20magic%20of%20maths)
+
+### [<cite>The pilot and the little prince: the life of Antoine de Saint–Exupery</cite> by Peter Sis](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/55990939?QRY=CTIBIB%3C%20IRN%2838546401%29&QRYTEXT=The%20pilot%20and%20the%20little%20prince)

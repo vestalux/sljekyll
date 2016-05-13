@@ -9,7 +9,7 @@ breadcrumb: films-dvds
 ---
 ![The Lego movie](/images/featured/featured-the-lego-movie.jpg)
 
-## [<cite>The Lego Movie</cite>](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/43258080?QRY=CTIBIB%3C%20IRN(39260262)&QRYTEXT=The%20Grand%20Budapest%20Hotel%20%5Bvideorecording%5D)
+## <cite>The Lego Movie</cite>
 
 The wicked Lord Business (Will Ferrell) is determined to destroy the Lego universe and rebuild it using glue – which goes against the very nature of Lego. Mistaken as the ‘Special’, the only surviving Master Builder, the rather ordinary Emmet (Chris Pratt) is selected to lead a group of figures on a mission to put a stop to Lord Business&#8217;s evil plan.
 
@@ -17,7 +17,7 @@ The wicked Lord Business (Will Ferrell) is determined to destroy the Lego univer
 
 Wes Anderson directs this comedy set in 1920s Europe starring Ralph Fiennes as a hotel concierge who finds himself mixed up in the search for a valuable Renaissance painting.
 
-## [<cite>NOAH</cite>](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/43277358?QRY=CTIBIB%3C%20IRN%285561236%29&QRYTEXT=Noah%20[videorecording])
+## [<cite>Noah</cite>](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/43277358?QRY=CTIBIB%3C%20IRN%285561236%29&QRYTEXT=Noah%20[videorecording])
 
 Biblical epic directed by Darren Aronofsky and starring Russell Crowe, Jennifer Connelly and Anthony Hopkins. The film tells the story of Noah (Crowe), the last of the pre-flood Patriarchs.
 
@@ -29,7 +29,7 @@ Academy Award-nominated adaptation of the popular novel by Marcus Zusak starring
 
 High-octane action starring Aaron Paul. Framed for manslaughter by his wealthy ex-partner Dino (Dominic Cooper), mechanic Tobey Marshall (Paul) is unjustly sent to prison for two years. Upon his release, he sets out to gain revenge by rejoining the underground racing scene.
 
-## [<cite>Escape from Planet Earth</cite>](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/43315330?QRY=CTIBIB%3C%20IRN%2839945601%29&QRYTEXT=Escape%20from%20planet%20earth%20[videorecording])
+## <cite>Escape from Planet Earth</cite>
 
 Children&#8217;s animated adventure featuring the voice talents of Brendan Fraser, Rob Corddry and William Shatner.
 

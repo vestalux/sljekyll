@@ -17,7 +17,7 @@ Political scientist examines how the British political system has actually chang
 
 ## [<cite>Parliament: the biography, Volume 2</cite> by Christopher Bryant](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3132900?QRY=CTIBIB%3C%20IRN(39260423)&QRYTEXT=Parliament%20%3A%20the%20biography.%20Volume%202)
 
-[![Parliament: the biography, Volume 2 by Christopher Bryant](/images/article/parliament-a-biography-volume-2.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3132900?QRY=CTIBIB%3C%20IRN(39260423)&QRYTEXT=Parliament%20%3A%20the%20biography.%20Volume%202)
+[![Parliament: the biography, Volume 2 by Christopher Bryant](/images/article/parliament-the-biography-volume-2.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3132900?QRY=CTIBIB%3C%20IRN(39260423)&QRYTEXT=Parliament%20%3A%20the%20biography.%20Volume%202)
 
 The turbulent history of the parliament is revealed in the second volume of this series.
 

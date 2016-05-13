@@ -15,9 +15,9 @@ breadcrumb: music
 
 Electronica legend Richard James returns 13 years after <cite>Drukqs</cite>. <cite>Syro</cite> features intricate electrofunk. Bubbling, watery tones dominate in the first track <cite>Minipop 67</cite>, whilst <cite>180db_</cite> comes across as more rave-inspired. The twelve tracks dip and dive, and build layer upon layer of varying repetitive beats.
 
-## [<cite>At least for now</cite> by Benjamin Clementine](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/22553077?QRY=CTIBIB%3C%20IRN(48511638)&QRYTEXT=At%20least%20for%20now%20%5Bsound%20recording%5D)
+## <cite>At least for now</cite> by Benjamin Clementine
 
-[![At least for now by Benjamin Clementine](/images/article/at-least-for-now.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/22553077?QRY=CTIBIB%3C%20IRN(48511638)&QRYTEXT=At%20least%20for%20now%20%5Bsound%20recording%5D)
+[![At least for now by Benjamin Clementine](/images/article/at-least-for-now.jpg)]
 
 Debut from the singer-songwriter and perhaps the best back story in the shortlist this year. Self-taught balladeer and formerly homeless, Benjamin was discovered in Paris while busking in the streets. Strange and beautiful. The vivid, royal shades that make up the stunning cover-art, featuring Clementine himself, echoes the rich, acoustic melodies of the tracks. This will have you digging out your old Nina Simone albums.
 
@@ -27,9 +27,9 @@ Debut from the singer-songwriter and perhaps the best back story in the shortlis
 
 Exquisite, ethereal album. <cite>Garden</cite> is a favourite on BBC 6 Music, reminiscent of Fleet Foxes. This indie dream pop album seamlessly fuses lofty, chorale vocals with a folksy beat. Soft and murmuring There is a psychedelic shimmer <cite>On He Believes in Miracles</cite> and the title track.
 
-## [<cite>Eska</cite> by Eska](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/22553356?QRY=CTIBIB%3C%20IRN(48743716)&QRYTEXT=Eska%20%5Bsound%20recording%5D)
+## <cite>Eska</cite> by Eska
 
-[![Eska by Eska](/images/article/eska.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/22553356?QRY=CTIBIB%3C%20IRN(48743716)&QRYTEXT=Eska%20%5Bsound%20recording%5D)
+[![Eska by Eska](/images/article/eska.jpg)]
 
 A distinctive singer. She effortlessly weaves together various musical elements: folk, soul, psychedelia and electronica, which she pairs with rousing lyrics. [Why not download the album for free from our Freegal service?](http://suffolklibraries.freegalmusic.com/artists/view/RVNLQQ==/797537121123/aW9kYQ==)
 

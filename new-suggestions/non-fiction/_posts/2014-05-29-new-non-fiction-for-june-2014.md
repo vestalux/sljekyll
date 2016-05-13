@@ -37,7 +37,7 @@ In Normandy in 1944, arriving on the heels of the D-Day invasion, she nurses All
 
 In these extraordinary diaries we see a young woman coming of age, falling in and out of love several times over.
 
-## [<cite>Sweet nothing</cite> by Nicole Mowbray](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14579741?QRY=CTIBIB%3C%20IRN(37214801)&QRYTEXT=Sweet%20nothing)
+## [<cite>Sweet nothing</cite> by Nicole Mowbray](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20935289?QRY=CTIBIB%3C%20IRN(40990209)&QRYTEXT=Sweet%20nothing%20%3A%20why%20I%20gave%20up%20sugar%20and%20how%20you%20can%20too)
 
 Have you resolved to give up sugar this year? As more and more people sign up to the ‘no sugar’ club, Nicole Mowbray looks at the hard-boiled facts about giving up the sweet stuff and explains what it&#8217;s like to ditch it – for good.
 
@@ -56,14 +56,6 @@ From a German POW camp to HM Forces&#8217; only remaining detention centre, the 
 But what was it really like behind the forbidding barbed wire in those ancient Nissen huts? How much has it changed since 1947?
 
 Written in the words of those who were there, from the 1940s through to the present day, commandants, members of staff, detainees, military escorts, padres and visitors have shared their own experiences to create a unique history that sheds light on an almost unknown area of military life.
-
-## [<cite>Lucky Johnny: A footballer on the River Kwai</cite> by Johnny Sherwood and Michael Doe](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14583178?QRY=CTIBIB%3C%20IRN(33164338)&QRYTEXT=Lucky%20Johnny%20%3A%20a%20footballer%20on%20the%20River%20Kwai)
-
-In 1938 Johnny Sherwood was a young professional footballer on the brink of an England career, touring the world with the all-star British team the Islington Corinthians.
-
-By 1942 he was a soldier surrendering to the Japanese at the siege of Singapore. Taken prisoner he was sent to a POW camp deep in the heart of the Thai jungle, where he was starved, beaten, and forced to build the notorious &#8216;railway of death&#8217; on the River Kwai.
-
-Johnny kept his and his men&#8217;s spirits up with tales of his footballing past, even organising matches until he and the other prisoners became too weak to play.
 
 ## [<cite>Female Tommies: The frontline women of the First World War</cite> by Elizabeth Shipton](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/14583948?QRY=CTIBIB%3C%20IRN(31742883)&QRYTEXT=Female%20Tommies%20%3A%20the%20frontline%20women%20of%20the%20First%20World%20War)
 
