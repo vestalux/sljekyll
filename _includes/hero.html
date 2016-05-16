@@ -1,10 +1,10 @@
 {% if page.hero-image %}
 
-<figure>
+<figure class="custom-max-width relative ma0 pa0 border-box">
 
     <img src="/images/hero/{{ page.hero-image }}" {% if page.hero-alt %}alt="{{ page.hero-alt }}"{% endif %}>
 
-    {% if page.hero-caption %}<figcaption><p>{{ page.hero-caption }}</p></figcaption>{% endif %}
+    {% if page.hero-caption %}<figcaption class="absolute bottom-0 pa2 bg-near-black white f6 f5-ns"><p class="ma0">{{ page.hero-caption }}</p></figcaption>{% endif %}
 
 </figure>
 
