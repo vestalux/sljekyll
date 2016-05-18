@@ -1,7 +1,7 @@
 @media screen, projection {
 
 .custom-max-width {
-    max-width: 70em;
+    max-width: $custom-max-width;
     margin: 0 auto;
 }
 

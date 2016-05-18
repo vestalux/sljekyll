@@ -1,10 +1,10 @@
 {% if page.hero-image %}
 
-<figure class="custom-max-width relative ma0 pa0 border-box">
+<figure class="custom-max-width relative ma0 pa0">
 
-    <img src="/images/hero/{{ page.hero-image }}" {% if page.hero-alt %}alt="{{ page.hero-alt }}"{% endif %}>
+    <img class="ma0 pa0" src="/images/hero/{{ page.hero-image }}" {% if page.hero-alt %}alt="{{ page.hero-alt }}"{% endif %}>
 
-    {% if page.hero-caption %}<figcaption class="absolute bottom-0 pa2 bg-near-black white f6 f5-ns"><p class="ma0">{{ page.hero-caption }}</p></figcaption>{% endif %}
+    {% if page.hero-caption %}<figcaption class="absolute top-0 right-0 ma0 bg-near-black white f6 f5-ns"><p class="ph1 pv0 pa2-ns ma0">{{ page.hero-caption }}</p></figcaption>{% endif %}
 
 </figure>
 

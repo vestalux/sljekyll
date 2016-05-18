@@ -3,7 +3,7 @@ layout: default
 title: Suffolk Libraries reserve, renew, branches and eLibrary
 ---
 
-<nav id="nav" class="ph2 ph4-ns mw9 center">
+<nav id="nav">
 
     <h1 class="dn accessibility">Navigation</h1>
 
