@@ -25,12 +25,13 @@ $custom-max-width: 50em;
 // Import partials
 @import
 "tachyons.4.0.0-beta.12",
+"pure",
+"custom-clrs.2.2.0",
 "custom-base",
 "custom-sans-serif",
 "custom-lh",
 "custom-colours",
 "custom-grid",
 "custom-max-width",
-"custom-hyphens",
-"pure"
+"custom-hyphens"
 ;

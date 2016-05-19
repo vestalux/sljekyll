@@ -13,7 +13,91 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
             <section class="{% include /c/card.html %}">
 
-                <h1 class="{% include /c/card-title.html %}"><a class="icon icon-tablet" href="/elibrary">eLibrary</a></h1>
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/elibrary">Search &amp; reserve</a></h1>
+
+                <p class="pa2 ma0">Search for print books, audiobooks, DVDs and CDs and reserve for collection</p>
+
+            </section>
+
+        </div>
+
+        <div class="custom-g-l3 custom-g-nm">
+
+            <section class="{% include /c/card.html %}">
+
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/elibrary">Login &amp; renew</a></h1>
+
+                <p class="pa2 ma0">See your loans and change your details</p>
+
+            </section>
+
+        </div>
+
+    </div> <!-- end .cf -->
+
+    <div class="cf">
+
+        <div class="custom-g-l3">
+
+            <section class="{% include /c/card.html %}">
+
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/elibrary">Branches &amp; rooms for hire</a></h1>
+
+                <p class="pa2 ma0">Library contact details &amp; events, hire library spaces</p>
+
+            </section>
+
+        </div>
+
+        <div class="custom-g-l3 custom-g-nm">
+
+            <section class="{% include /c/card.html %}">
+
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/elibrary">New in &amp; ideas</a></h1>
+
+                <p class="pa2 ma0">New titles, reading lists &amp; staff suggestions</p>
+
+            </section>
+
+        </div>
+
+    </div> <!-- end .cf -->
+
+    <div class="cf">
+
+        <div class="custom-g-l3">
+
+            <section class="{% include /c/card.html %}">
+
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/elibrary">History &amp; research</a></h1>
+
+                <p class="pa2 ma0">Free access to Ancestry, Find my Past &amp; other information resources</p>
+
+            </section>
+
+        </div>
+
+        <div class="custom-g-l3 custom-g-nm">
+
+            <section class="{% include /c/card.html %}">
+
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/elibrary">Mobiles &amp; home service</a></h1>
+
+                <p class="pa2 ma0">Mobile library timetables &amp; books delivered to you</p>
+
+            </section>
+
+        </div>
+
+    </div> <!-- end .cf -->
+
+    <div class="cf">
+
+        <div class="custom-g-l3">
+
+            <section class="{% include /c/card.html %}">
+
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/elibrary">eLibrary</a></h1>
 
                 <p class="pa2 ma0">Free eBooks, eAudio, downloads, magazines &amp; streaming.</p>
 
@@ -25,7 +109,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
             <section class="{% include /c/card.html %}">
 
-                <h1 class="{% include /c/card-title.html %}"><a class="icon icon-tablet" href="/elibrary">eLibrary</a></h1>
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/elibrary">eLibrary</a></h1>
 
                 <p class="pa2 ma0">Free eBooks, eAudio, downloads, magazines &amp; streaming.</p>
 
@@ -41,7 +125,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
             <section class="{% include /c/card.html %}">
 
-                <h1 class="{% include /c/card-title.html %}"><a class="icon icon-tablet" href="/elibrary">eLibrary</a></h1>
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/elibrary">eLibrary</a></h1>
 
                 <p class="pa2 ma0">Free eBooks, eAudio, downloads, magazines &amp; streaming.</p>
 
@@ -53,7 +137,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
             <section class="{% include /c/card.html %}">
 
-                <h1 class="{% include /c/card-title.html %}"><a class="icon icon-tablet" href="/elibrary">eLibrary</a></h1>
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/elibrary">eLibrary</a></h1>
 
                 <p class="pa2 ma0">Free eBooks, eAudio, downloads, magazines &amp; streaming.</p>
 
@@ -69,7 +153,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
             <section class="{% include /c/card.html %}">
 
-                <h1 class="{% include /c/card-title.html %}"><a class="icon icon-tablet" href="/elibrary">eLibrary</a></h1>
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/elibrary">eLibrary</a></h1>
 
                 <p class="pa2 ma0">Free eBooks, eAudio, downloads, magazines &amp; streaming.</p>
 
@@ -81,7 +165,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
             <section class="{% include /c/card.html %}">
 
-                <h1 class="{% include /c/card-title.html %}"><a class="icon icon-tablet" href="/elibrary">eLibrary</a></h1>
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/elibrary">eLibrary</a></h1>
 
                 <p class="pa2 ma0">Free eBooks, eAudio, downloads, magazines &amp; streaming.</p>
 
@@ -97,7 +181,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
             <section class="{% include /c/card.html %}">
 
-                <h1 class="{% include /c/card-title.html %}"><a class="icon icon-tablet" href="/elibrary">eLibrary</a></h1>
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/elibrary">eLibrary</a></h1>
 
                 <p class="pa2 ma0">Free eBooks, eAudio, downloads, magazines &amp; streaming.</p>
 
@@ -109,91 +193,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
             <section class="{% include /c/card.html %}">
 
-                <h1 class="{% include /c/card-title.html %}"><a class="icon icon-tablet" href="/elibrary">eLibrary</a></h1>
-
-                <p class="pa2 ma0">Free eBooks, eAudio, downloads, magazines &amp; streaming.</p>
-
-            </section>
-
-        </div>
-
-    </div> <!-- end .cf -->
-
-    <div class="cf">
-
-        <div class="custom-g-l3">
-
-            <section class="{% include /c/card.html %}">
-
-                <h1 class="{% include /c/card-title.html %}"><a class="icon icon-tablet" href="/elibrary">eLibrary</a></h1>
-
-                <p class="pa2 ma0">Free eBooks, eAudio, downloads, magazines &amp; streaming.</p>
-
-            </section>
-
-        </div>
-
-        <div class="custom-g-l3 custom-g-nm">
-
-            <section class="{% include /c/card.html %}">
-
-                <h1 class="{% include /c/card-title.html %}"><a class="icon icon-tablet" href="/elibrary">eLibrary</a></h1>
-
-                <p class="pa2 ma0">Free eBooks, eAudio, downloads, magazines &amp; streaming.</p>
-
-            </section>
-
-        </div>
-
-    </div> <!-- end .cf -->
-
-    <div class="cf">
-
-        <div class="custom-g-l3">
-
-            <section class="{% include /c/card.html %}">
-
-                <h1 class="{% include /c/card-title.html %}"><a class="icon icon-tablet" href="/elibrary">eLibrary</a></h1>
-
-                <p class="pa2 ma0">Free eBooks, eAudio, downloads, magazines &amp; streaming.</p>
-
-            </section>
-
-        </div>
-
-        <div class="custom-g-l3 custom-g-nm">
-
-            <section class="{% include /c/card.html %}">
-
-                <h1 class="{% include /c/card-title.html %}"><a class="icon icon-tablet" href="/elibrary">eLibrary</a></h1>
-
-                <p class="pa2 ma0">Free eBooks, eAudio, downloads, magazines &amp; streaming.</p>
-
-            </section>
-
-        </div>
-
-    </div> <!-- end .cf -->
-
-    <div class="cf">
-
-        <div class="custom-g-l3">
-
-            <section class="{% include /c/card.html %}">
-
-                <h1 class="{% include /c/card-title.html %}"><a class="icon icon-tablet" href="/elibrary">eLibrary</a></h1>
-
-                <p class="pa2 ma0">Free eBooks, eAudio, downloads, magazines &amp; streaming.</p>
-
-            </section>
-
-        </div>
-
-        <div class="custom-g-l3 custom-g-nm">
-
-            <section class="{% include /c/card.html %}">
-
-                <h1 class="{% include /c/card-title.html %}"><a class="icon icon-tablet" href="/elibrary">eLibrary</a></h1>
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/elibrary">eLibrary</a></h1>
 
                 <p class="pa2 ma0">Free eBooks, eAudio, downloads, magazines &amp; streaming.</p>
 
@@ -207,7 +207,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
         <section class="{% include /c/card.html %}">
 
-            <h1 class="{% include /c/card-title.html %}"><a class="icon icon-tablet" href="/elibrary">eLibrary</a></h1>
+            <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/elibrary">eLibrary</a></h1>
 
             <p class="pa2 ma0">Free eBooks, eAudio, downloads, magazines &amp; streaming.</p>
 
@@ -247,7 +247,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
             <section class="vbox">
 
-                <h1 class="vbox-title"><a class="icon icon-tablet" href="/elibrary">eLibrary</a></h1>
+                <h1 class="vbox-title"><a class="{% include /c/card-title-link.html %}" href="/elibrary">eLibrary</a></h1>
 
                 <p class="vbox-text">Free eBooks, eAudio, downloads, magazines & streaming</p>
 
