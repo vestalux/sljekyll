@@ -126,7 +126,8 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
         <ul class="list pa0">
 
-            <li class="dib-ns mr2-ns pb3"><a href="#" class="pa2 bg-light-gray blue link">Mental health</a></li>
+            <li class="dib-ns mr2-ns pb3"><a href="#" class="pa2 bg-light-gray blue link">Events &amp; activities</a></li>
+            <li class="dib-ns mr2-ns pb3"><a href="#" class="pa2 bg-light-gray blue link">Mental health &amp; wellbeing</a></li>
             <li class="dib-ns mr2-ns pb3"><a href="#" class="pa2 bg-light-gray blue link">Literacy &amp; schools</a></li>
             <li class="dib-ns mr2-ns pb3"><a href="#" class="pa2 bg-light-gray blue link">News</a></li>
             <li class="dib-ns mr2-ns pb3"><a href="#" class="pa2 bg-light-gray blue link">Blog</a></li>
