@@ -1,19 +1,23 @@
 {% if page.excerpt %}
-  <p>{{ page.excerpt }}</p>
+
+    <p class="mb3 mb4-ns f4 f3-ns">{{ page.excerpt }}</p>
+
 {% endif %}
-<ul class="listing">
-  {% for post in site.categories.[page.category] %}
-    <li>
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      <p>Written by
-        {% if post.author %}
-        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-          <span itemprop="name">
-            {% assign author = site.data.authors[post.author] %}{{ author.name }}
-          </span>
-        </span>
-        {% endif %} on {{ post.date | date: "%b %-d, %Y" }}</p>
-      <p>{{ post.excerpt }}</p>
-    </li>
-  {% endfor %}
-</ul>
+
+    {% for post in site.categories.[page.category] %}
+
+    <article class="pb4 pb5-ns pt1 bt b--light-gray">
+
+        <header class="pb2">
+
+            <h1 class="f4 ma0 pa0 pb1"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+
+            <p class="{% include /c/page-meta.html %}">{% if post.author %}Written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{% assign author = site.data.authors[post.author] %}{{ author.name }}</span></span> &middot; {% endif %}Published {{ post.date | date: "%b %-d, %Y" }}</p>
+
+        </header>
+
+        <p class="ma0">{{ post.excerpt }}</p>
+
+    </article>
+
+    {% endfor %}

@@ -20,7 +20,7 @@ $hover: #02CAF7;
 $corporate: #3B1B53;
 
 
-$custom-max-width: 50em;
+$custom-max-width: 56em;
 
 // Import partials
 @import
@@ -33,5 +33,6 @@ $custom-max-width: 50em;
 "custom-colours",
 "custom-grid",
 "custom-max-width",
-"custom-hyphens"
+"custom-hyphens",
+"custom-prose"
 ;
