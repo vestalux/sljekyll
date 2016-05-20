@@ -1,84 +1,48 @@
 ---
-layout: full-width
+layout: default
 title: Events and activities
 breadcrumb: home
 ---
 
 <nav id="nav">
 
-    <div class="g-row">
+    <h1 class="{% include /c/page-title.html %}">Events &amp; activities</h1>
 
-        <div class="g-w-col4 g-w-left">
+    <div class="cf">
 
-            <section class="vbox">
+        <div class="custom-g-l3">
 
-                <h1 class="vbox-title"><a href="/events-activities/children">Children</a></h1>
+            <section class="{% include /c/card.html %}">
 
-                <p class="vbox-text">Songs, stories &amp; crafts for toddlers, pre&#8211;school &amp; primary age.</p>
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/children">Children</a></h1>
 
-            </section>
-
-        </div>
-
-        <div class="g-w-col4 g-w-left">
-
-            <section class="vbox">
-
-                <h1 class="vbox-title"><a href="/events-activities/older">Older people</a></h1>
-
-                <p class="vbox-text">Coffee groups, history, arts &amp; crafts for older people and their carers.</p>
+                <p class="{% include /c/card-graf.html %}">Songs, stories &amp; crafts for toddlers, pre&#8211;school &amp; primary age.</p>
 
             </section>
 
         </div>
 
-        <div class="g-w-col4 g-w-left">
+        <div class="custom-g-l3 custom-g-nm">
 
-            <section class="vbox">
+            <section class="{% include /c/card.html %}">
 
-                <h1 class="vbox-title"><a href="/events-activities/reading-groups">Reading groups</a></h1>
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/older">Older people</a></h1>
 
-                <p class="vbox-text">Join a library group and find out about setting up your own.</p>
-
-            </section>
-
-        </div>
-
-    </div> <!-- end .g-row -->
-
-    <div class="g-row">
-
-        <div class="g-w-col4 g-w-left">
-
-            <section class="vbox">
-
-                <h1 class="vbox-title"><a href="/events-activities/get-online">Free computer courses</a></h1>
-
-                <p class="vbox-text">Free courses for complete computer and internet beginners.</p>
+                <p class="{% include /c/card-graf.html %}">Coffee groups, history, arts &amp; crafts for older people and their carers.</p>
 
             </section>
 
         </div>
 
-        <div class="g-w-col4 g-w-left">
-
-            <section class="vbox">
-
-                <h1 class="vbox-title"><a href="/events-activities/presents">Screenings</a></h1>
-
-                <p class="vbox-text"><em>Presents</em>, top quality screenings of theatre, ballet and exhibitions across our libraries.</p>
-
-            </section>
-
-        </div>
+       </div>
 
         <div class="g-w-col4 g-w-left">
 
-            <section class="vbox">
+            <section class="{% include /c/card.html %}">
 
-                <h1 class="vbox-title"><a href="building-wellness-through-reading">Building Wellness through Reading</a></h1>
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/reading-groups">Reading groups</a></h1>
 
-                <p class="vbox-text">One day conference for education professionals to help promote reading as a therapeutic activity.</p>
+                <p class="{% include /c/card-graf.html %}">Join a library group and find out about setting up your own.</p>
 
             </section>
 
@@ -90,11 +54,11 @@ breadcrumb: home
 
         <div class="g-w-col4 g-w-left">
 
-            <section class="vbox">
+            <section class="{% include /c/card.html %}">
 
-                <h1 class="vbox-title"><a href="/events-activities/bookfest">Bookfest</a></h1>
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/get-online">Free computer courses</a></h1>
 
-                <p class="vbox-text">Our annual book festival will take place in October 2016.</p>
+                <p class="{% include /c/card-graf.html %}">Free courses for complete computer and internet beginners.</p>
 
             </section>
 
@@ -102,11 +66,51 @@ breadcrumb: home
 
         <div class="g-w-col4 g-w-left">
 
-            <section class="vbox">
+            <section class="{% include /c/card.html %}">
 
-                <h1 class="vbox-title"><a href="/events-activities/bookfest">What's on</a></h1>
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/presents">Screenings</a></h1>
 
-                <p class="vbox-text">A list of all special events taking place in Suffolk's libraries.</p>
+                <p class="{% include /c/card-graf.html %}"><em>Presents</em>, top quality screenings of theatre, ballet and exhibitions across our libraries.</p>
+
+            </section>
+
+        </div>
+
+        <div class="g-w-col4 g-w-left">
+
+            <section class="{% include /c/card.html %}">
+
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="building-wellness-through-reading">Building Wellness through Reading</a></h1>
+
+                <p class="{% include /c/card-graf.html %}">One day conference for education professionals to help promote reading as a therapeutic activity.</p>
+
+            </section>
+
+        </div>
+
+    </div> <!-- end .g-row -->
+
+    <div class="g-row">
+
+        <div class="g-w-col4 g-w-left">
+
+            <section class="{% include /c/card.html %}">
+
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/bookfest">Bookfest</a></h1>
+
+                <p class="{% include /c/card-graf.html %}">Our annual book festival will take place in October 2016.</p>
+
+            </section>
+
+        </div>
+
+        <div class="g-w-col4 g-w-left">
+
+            <section class="{% include /c/card.html %}">
+
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/bookfest">What's on</a></h1>
+
+                <p class="{% include /c/card-graf.html %}">A list of all special events taking place in Suffolk's libraries.</p>
 
             </section>
 

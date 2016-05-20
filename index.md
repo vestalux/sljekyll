@@ -5,7 +5,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
 <nav id="nav" class="mb2">
 
-    <h1 class="dn accessibility">Navigation</h1>
+    <h1 class="dn">Navigation</h1>
 
     <div class="cf">
 
@@ -15,7 +15,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
                 <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="https://suffolk.spydus.co.uk/">Search &amp; reserve</a></h1>
 
-                <p class="pa2 ma0">Search for print books, audiobooks, DVDs and CDs and reserve for collection</p>
+                <p class="{% include /c/card-graf.html %}">Search for print books, audiobooks, DVDs and CDs and reserve for collection</p>
 
             </section>
 
@@ -27,7 +27,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
                 <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/LOGINB">Login &amp; renew</a></h1>
 
-                <p class="pa2 ma0">See your loans and change your details</p>
+                <p class="{% include /c/card-graf.html %}">See your loans and change your details</p>
 
             </section>
 
@@ -43,7 +43,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
                 <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/JOIN">Apply for</a> or <a class="{% include /c/card-title-link.html %}" href="/update">renew</a> a card</a></h1>
 
-                <p class="pa2 ma0">Apply for a library card online or update your current card details</p>
+                <p class="{% include /c/card-graf.html %}">Apply for a library card online or update your current card details</p>
 
             </section>
 
@@ -55,7 +55,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
                 <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/elibrary">eLibrary</a></h1>
 
-                <p class="pa2 ma0">Free eBooks, eAudio books, MP3s and magazines to download and stream</p>
+                <p class="{% include /c/card-graf.html %}">Free eBooks, eAudio books, MP3s and magazines to download and stream</p>
 
             </section>
 
@@ -72,7 +72,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
                 <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/branches">Branches &amp; rooms for hire</a></h1>
 
-                <p class="pa2 ma0">Library contact details &amp; events, hire library spaces</p>
+                <p class="{% include /c/card-graf.html %}">Library contact details &amp; events, hire library spaces</p>
 
             </section>
 
@@ -84,7 +84,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
                 <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/mobiles-home">Mobiles &amp; home service</a></h1>
 
-                <p class="pa2 ma0">Mobile library timetables &amp; books delivered to you</p>
+                <p class="{% include /c/card-graf.html %}">Mobile library timetables &amp; books delivered to you</p>
 
             </section>
 
@@ -100,7 +100,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
                 <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/information-resources">History &amp; research</a></h1>
 
-                <p class="pa2 ma0">Free access to Ancestry, Find my Past &amp; other information resources</p>
+                <p class="{% include /c/card-graf.html %}">Free access to Ancestry, Find my Past &amp; other information resources</p>
 
             </section>
 
@@ -112,7 +112,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
                 <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/new-suggestions">New in &amp; ideas</a></h1>
 
-                <p class="pa2 ma0">New titles, reading lists &amp; staff suggestions</p>
+                <p class="{% include /c/card-graf.html %}">New titles, reading lists &amp; staff suggestions</p>
 
             </section>
 
