@@ -1,6 +1,8 @@
 ---
 branch-unique-id: woodbridge-library
 branch-name: Woodbridge Library
+branch-image: /images/branches/woodbridge-library.jpg
+branch-manager: Helen Scrivener
 branch-address: New Street, Woodbridge
 branch-post-code: IP12 1DT
 branch-tel: 01394 446510
