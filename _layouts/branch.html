@@ -20,7 +20,9 @@
 
               <div class="custom-g-l3 custom-g-nm">
 
-                <p>Manager: {{ page.branch-manager }}</p>
+                <p>{% if page.branch-manager %}
+                  Manager: {{ page.branch-manager }}
+                {% endif %}</p>
 
                 <p>{{ page.branch-address }}<br>
                 {{ page.branch-post-code }}<br></p>
@@ -77,7 +79,7 @@
 
                 <h2>Opening hours</h2>
 
-                <table>
+                <table class="pure-table">
                   <thead>
                     <tr>
                       <td>Day</td>
@@ -126,7 +128,7 @@
 
                 <h2>Regular events and activities</h2>
 
-                <table>
+                <table class="pure-table">
                   <thead>
                     <tr>
                       <th>Event</th>
