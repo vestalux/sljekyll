@@ -63,8 +63,8 @@ A selection of letters and autobiographical fragments from Charlotte, Emily and 
 
 Told from the perspective of a young Charlotte Brontë, this illustrated book introduces children to the lives of the Brontës.
 
-## [<cite>The Brontës: children of the Moors: a picture book</cite> by Mick Manning and Brita Granström](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/26990418?QRY=CTIBIB%3C%20IRN(62542464)&QRYTEXT=The%20Bronte%CC%88s%20%3A%20children%20of%20the%20moors)
+## [<cite>The Brontës: children of the Moors: a picture book</cite> by Mick Manning and Brita Granström](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/1969100?QRY=CTIBIB%3C%20IRN(62542464)&QRYTEXT=The%20Bronte%CC%88s%20%3A%20children%20of%20the%20moors)
 
-[![The Brontës: children of the Moors: a picture book by Mick Manning and Brita Granström](/images/article/the-brontes-children-of-the-moors.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/26990418?QRY=CTIBIB%3C%20IRN(62542464)&QRYTEXT=The%20Bronte%CC%88s%20%3A%20children%20of%20the%20moors)
+[![The Brontës: children of the Moors: a picture book by Mick Manning and Brita Granström](/images/article/the-brontes-children-of-the-moors.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/1969100?QRY=CTIBIB%3C%20IRN(62542464)&QRYTEXT=The%20Bronte%CC%88s%20%3A%20children%20of%20the%20moors)
 
 Recently published, this children&#8217;s picture book about the Brontë sibling&#8217;s childhood, also retells <cite>Jane Eyre</cite>, <cite>The Tenant of Wildfell Hall</cite> and <cite>Wuthering Heights</cite> in comic-strip form.
