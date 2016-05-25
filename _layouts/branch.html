@@ -10,9 +10,144 @@
 
             <h1 class="{% include /c/page-title.html %}">{{ page.branch-name }}</h1>
 
-            <p>Tel: {{ page.branch-tel}}<br>
-            Address: {{ page.branch-address }}<br>
-            Postcode: {{ page.branch-post-code}}<br></p>
+            <div class="cf">
+
+              <div class="custom-g-l3">
+
+                <img src="{{ page.branch-image }}" />
+
+              </div>
+
+              <div class="custom-g-l3 custom-g-nm">
+
+                <p>{% if page.branch-manager %}
+                  Manager: {{ page.branch-manager }}
+                {% endif %}</p>
+
+                <p>{{ page.branch-address }}<br>
+                {{ page.branch-post-code }}<br></p>
+
+                <p>Tel: {{ page.branch-tel }}<br>
+                {% if page.branch-fax %}
+                  Fax: {{ page.branch-fax }}<br>
+                {% endif %}
+                Email: <a href="mailto:help@suffolklibraries.co.uk">help@suffolklibraries.co.uk</a><br>
+                {% if page.branch-friends-url %}
+                  Friends group: <a href="{{ page.branch-friends-url }}">{{ page.branch-friends }}</a><br>
+                  {% else %}
+                  Friends group: {{ page.branch-friends }}<br>
+                {% endif %}
+                {% if page.branch-facebook %}
+                  <a href="http://www.facebook.com/{{ page.branch-facebook }}">Facebook</a><br>
+                {% endif %}
+                {% if page.branch-twitter %}
+                  <a href="http://www.twitter.com/{{ page.branch-twitter }}">Twitter</a><br>
+                {% endif %}
+                {% if page.branch-instagram %}
+                  <a href="http://www.instagram.com/{{ page.branch-instagram }}">Instagram</a><br>
+                {% endif %}
+                {% if page.branch-pinterest %}
+                  <a href="http://www.pinterest.com/{{ page.branch-pinterest }}">Pinterest</a><br>
+                {% endif %}</p>
+
+              </div>
+
+            </div>
+
+            <div class="cf">
+
+              <div class="custom-g-l3">
+
+                <h2>Facilities</h2>
+
+                <p>Free wifi available. <a href="/help/printing-copying-scanning">Scanning, printing and photocopying facilities</a>.</p>
+
+                <p><a href="{{ page.branch-accessibility }}">Accessibility information</a></p>
+
+                <p>{% if page.branch-room-hire %}
+                  <a href="{{ page.branch-room-hire }}">Room hire</a>
+                {% endif %}</p>
+
+                <p>{% if page.branch-display-space %}
+                  <h3>Display space</h3>
+                  {{ page.branch-display-space }}
+                {% endif %}</p>
+
+              </div>
+
+              <div class="custom-g-l3 custom-g-nm">
+
+                <h2>Opening hours</h2>
+
+                <table class="pure-table">
+                  <thead>
+                    <tr>
+                      <td>Day</td>
+                      <td>Hours</td>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td>placeholder</td>
+                      <td>placeholder</td>
+                    </tr>
+                    <tr>
+                      <td>placeholder</td>
+                      <td>placeholder</td>
+                    </tr>
+                    <tr>
+                      <td>placeholder</td>
+                      <td>placeholder</td>
+                    </tr>
+                    <tr>
+                      <td>placeholder</td>
+                      <td>placeholder</td>
+                    </tr>
+                    <tr>
+                      <td>placeholder</td>
+                      <td>placeholder</td>
+                    </tr>
+                    <tr>
+                      <td>placeholder</td>
+                      <td>placeholder</td>
+                    </tr>
+                    <tr>
+                      <td>placeholder</td>
+                      <td>placeholder</td>
+                    </tr>
+                  </tbody>
+                </table>
+
+              </div>
+
+            </div>
+
+            <div class="cf">
+
+              <div class="custom-g-l3">
+
+                <h2>Regular events and activities</h2>
+
+                <table class="pure-table">
+                  <thead>
+                    <tr>
+                      <th>Event</th>
+                      <th>Dates</th>
+                      <th>Times</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td>placeholder</td>
+                      <td>placeholder</td>
+                      <td>placeholder</td>
+                    </tr>
+                  </tbody>
+                </table>
+
+              </div>
+
+              <div class="custom-g-l3 custom-g-nm">
 
             <h2>Upcoming events</h2>
 
@@ -63,6 +198,8 @@
                 {% endif %}
 
         	{% endfor %}
+
+        </div>
 
         </main>
 
