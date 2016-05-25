@@ -31,3 +31,17 @@
 		</div>
 
 	</header>
+
+	{% if site.message %}
+
+		<div class="bg-black near-white pa2 pa3-ns">
+
+			<div class="custom-max-width">
+
+				<p class="f6 f5-ns ma0 tc">{% if site.message_title %}<strong>{{ site.message_title }}</strong>: {% endif %}{{ site.message }}{% if site.message_link %} <a class="link aqua" href="/{{ site.message_link }}">Read more</a>.{% endif %}</p>
+
+			</div>
+
+		</div>
+
+	{% endif %}
