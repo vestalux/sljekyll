@@ -1,24 +1,5 @@
 <aside id="sidebar" class="{% include /c/content-box.html %}" role="complementary">
 
-    {% if page.sidebar == 1 %}
-
-      <section class="pb3 pb4-ns">
-
-          <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked">In this section</h1>
-
-          <ul class="pa0 ma0 list mb2 f6 f5-ns">
-
-              <li class="pv2 bt b--light-gray"><a class="blue link" href="/branches/">List of branches</a></li>
-              <li class="pv2 bt b--light-gray"><a class="blue link" href="/branches/hub/">Ipswich Enterprise + Innovation Hub</a></li>
-              <li class="pv2 bt b--light-gray"><a class="blue link" href="/branches/rooms-for-hire/">Branches with rooms for hire</a></li>
-              <li class="pv2 bt b--light-gray"><a class="blue link" href="/branches/ceremonies/">Hire Ipswich County Library Northgate room for weddings and other ceremonies</a></li>
-
-          </ul>
-
-      </section>
-
-    {% endif %}
-
     {% if page.sidebar == 'about' %}
 
       <section class="pb3 pb4-ns">
@@ -59,7 +40,6 @@
 
     {% endif %}
 
-
     {% if page.sidebar == 'health' %}
 
         <section class="pb3 pb4-ns">
@@ -81,15 +61,43 @@
 
             <section>
 
+                <img src="/images/article/new-chapters-logo.png" class="pb3" alt="New Chapters logo"/>
+
                 <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked">About</h1>
 
-                <p class="ma0 mb2 f6 f5-ns">My name is Sarah Lungley and I am the coordinator for Suffolk Libraries Mental Health and Wellbeing Information Service. My role is to help provide information on local services and to promote events in our libraries and the community that can support mental health and wellbeing. The service also aims to support our library staff, to ensure they are able to access useful and up-to-date information for our customers should they request it.</p>
+                <p class="ma0 mb2 f6 f5-ns">My name is Sarah Lungley and I am the coordinator for Suffolk Libraries Mental Health and Wellbeing Information Service.</p>
+
+                <p class="ma0 mb2 f6 f5-ns">My role is to help provide information on local services and to promote events in our libraries and the community that can support mental health and wellbeing.</p>
+
+                <p class="ma0 mb2 f6 f5-ns">The service also aims to support our library staff, to ensure they are able to access useful and up-to-date information for our customers should they request it.</p>
 
                 <p class="ma0 mb2 f6 f5-ns">Libraries are a fantastic resource, not only for books and information but for community, friendships and fun too. So pop in to your local branch or explore our website to find out more about what we do – we hope to see you soon!</p>
+
+                <img src="/images/article/suffolk-information-standard-logo.jpg" class="pb3" alt="Suffolk Information Standard logo"/>
 
             </section>
 
         </section>
+
+    {% endif %}
+
+    {% if page.sidebar == 'hub' %}
+
+      <section class="pb3 pb4-ns">
+
+          <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked">In this section</h1>
+
+          <ul class="pa0 ma0 list mb2 f6 f5-ns">
+
+              <li class="pv2 bt b--light-gray"><a class="blue link" href="/branches/hub/">Home</a></li>
+              <li class="pv2 bt b--light-gray"><a class="blue link" href="https://uk.bookingbug.com/home/45066-Enterprise-+-Innovation-Hub">Book a space, room or advisor</a></li>
+              <li class="pv2 bt b--light-gray"><a class="blue link" href="/branches/hub/makerspace">MakerSpace</a></li>
+              <li class="pv2 bt b--light-gray"><a class="blue link" href="/branches/hub/conditions-of-use">Conditions of use</a></li>
+              <li class="pv2 bt b--light-gray"><a class="blue link" href="http://eepurl.com/bB1SUb">Hub newsletter</a></li>
+
+          </ul>
+
+      </section>
 
     {% endif %}
 

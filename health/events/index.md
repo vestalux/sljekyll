@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 category: health
-title: Mental health information services
+title: Events for your health and wellbeing
 breadcrumb: health
 sidebar: health
 ---

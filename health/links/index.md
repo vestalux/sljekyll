@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 category: health
-title: Mental health information services
+title: Links for your health and wellbeing
 breadcrumb: health
 sidebar: health
 ---
@@ -9,7 +9,7 @@ Here are some of the organisations and information sources available for a varie
 
 ## Table of contents
 
-| <a href="#advocacy">Advocacy and mediation</a></li> | <a href="#hallucinations">Hallucinations and voice hearing</a> |
+| <a href="#advocacy">Advocacy and mediation</a> | <a href="#hallucinations">Hallucinations and voice hearing</a> |
 | <a href="#alcohol">Alcohol and drug dependency</a> | <a href="#local">Local organisations</a> |
 | <a href="#anger">Anger management</a> | <a href="#medication">Medication</a> |
 | <a href="#anxiety">Anxiety</a> | <a href="#miscarriage">Miscarriage and postnatal depression</a> |

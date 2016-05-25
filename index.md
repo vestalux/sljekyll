@@ -132,7 +132,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
             <li class="dib-ns mr2-ns pv3"><a href="/news" class="pa2 bg-light-gray blue link">News</a></li>
             <li class="dib-ns mr2-ns pv3"><a href="/blog" class="pa2 bg-light-gray blue link">Blog</a></li>
             <li class="dib-ns mr2-ns pv3"><a href="/about" class="pa2 bg-light-gray blue link">About</a></li>
-            <li class="dib-ns mr2-ns pv3"><a href="/hub" class="pa2 bg-light-gray blue link">Ipswich Enterprise + Business Hub</a></li>
+            <li class="dib-ns mr2-ns pv3"><a href="/branches/hub" class="pa2 bg-light-gray blue link">Ipswich Enterprise + Business Hub</a></li>
 
         </ul>
 
