@@ -1,5 +1,5 @@
 ---
-layout: full-width-narrow
+layout: sidebar-right
 title: 'Meet the author: Pauline Manders'
 date: 2015-11-20 11:54:41+00:00
 author: brandon-king

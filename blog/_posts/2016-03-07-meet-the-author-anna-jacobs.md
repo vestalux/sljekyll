@@ -1,5 +1,5 @@
 ---
-layout: full-width-narrow
+layout: sidebar-right
 title: 'Meet the author: Anna Jacobs'
 date: 2016-03-07 15:48:35+00:00
 author: brandon-king

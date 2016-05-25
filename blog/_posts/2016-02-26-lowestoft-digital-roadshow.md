@@ -1,5 +1,5 @@
 ---
-layout: full-width-narrow
+layout: sidebar-right
 title: Lowestoft Digital Roadshow
 date: 2016-02-26 08:38:42+00:00
 author: matt-shenton

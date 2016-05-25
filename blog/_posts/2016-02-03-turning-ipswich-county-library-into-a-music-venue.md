@@ -1,5 +1,5 @@
 ---
-layout: full-width-narrow
+layout: sidebar-right
 title: Turning Ipswich County Library into a music venue
 date: 2016-02-03 07:37:37+00:00
 author: daniel-harvey

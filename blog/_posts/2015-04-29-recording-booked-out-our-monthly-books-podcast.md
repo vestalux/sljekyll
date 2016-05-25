@@ -1,5 +1,5 @@
 ---
-id: full-width-narrow
+layout: sidebar-right
 title: Recording Booked Out, our monthly books podcast
 date: 2015-04-29T08:29:49+00:00
 author: sophie-green

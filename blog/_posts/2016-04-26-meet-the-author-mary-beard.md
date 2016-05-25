@@ -1,5 +1,5 @@
 ---
-layout: full-width-narrow
+layout: sidebar-right
 title: 'Meet the author: Mary Beard'
 date: 2016-04-26 11:08:00+00:00
 author: brandon-king

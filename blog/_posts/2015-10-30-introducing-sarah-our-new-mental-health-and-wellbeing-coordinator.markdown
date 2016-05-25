@@ -1,5 +1,5 @@
 ---
-layout: full-width-narrow
+layout: sidebar-right
 title:  Introducing Sarah, our new mental health and wellbeing coordinator
 date:   2015-10-30 10:59:08 +0100
 author: sarah-lungley

@@ -1,5 +1,5 @@
 ---
-layout: full-width-narrow
+layout: sidebar-right
 title: 'New chapters: Suffolk Libraries&#8217; recent past and its future'
 date: 2015-03-25 11:49:09+00:00
 author: alison-wheeler

@@ -1,5 +1,5 @@
 ---
-layout: full-width-narrow
+layout: sidebar-right
 title: 'Take 5: Action for Happiness filming'
 date: 2015-07-27 10:07:41+00:00
 author: david-grimmer
