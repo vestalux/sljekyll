@@ -8,6 +8,7 @@ branch-post-code: IP7 5AG
 branch-tel: 01473 823778
 branch-friends: Hadleigh Library Friends
 branch-facebook: hadleighlibrarysuffolk
+branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/hadleigh-library-2
 branch-room-hire: /branches/room-hire/hadleigh-library
 breadcrumb: y

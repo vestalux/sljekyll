@@ -9,6 +9,7 @@ branch-tel: 01284 732255
 branch-friends: Friends of Bury St Edmunds Library
 branch-twitter: burylibsuffolk
 branch-facebook: burystedmundslibrary
+branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/bury-st-edmunds-library-2
 branch-room-hire: /branches/room-hire/bury-st-edmunds-library
 branch-display-space: tbc

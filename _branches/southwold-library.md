@@ -11,6 +11,7 @@ branch-friends: Friends of Southwold Library
 branch-friends-url: /about/member-organisations/friends-of-southwold-library-fosl
 branch-twitter: southwoldlib
 branch-facebook: southwoldlibrary
+branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/southwold-library-2
 breadcrumb: y
 ---

@@ -10,6 +10,7 @@ branch-fax: 01449 672629
 branch-friends: Friends of Stowmarket Library
 branch-friends-url: /about/member-organisations/friends-of-stowmarket-library
 branch-facebook: Stowmarket-Library-252331724951185
+branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/stowmarket-library-2
 branch-room-hire: /branches/room-hire/stowmarket-library
 breadcrumb: y

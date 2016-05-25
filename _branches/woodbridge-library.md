@@ -10,6 +10,7 @@ branch-friends: Friends of Woodbridge Library (FOWL)
 branch-friends-url: /about/member-organisations/friends-of-woodbridge-library-fowl
 branch-twitter: woodbridgelib
 branch-facebook: Woodbridge-Library-Suffolk-575433289169395
+branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/woodbridge-library-2
 branch-room-hire: /branches/room-hire/beccles-library
 branch-display-space: "Display boards
