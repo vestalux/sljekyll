@@ -9,6 +9,7 @@ branch-tel: 01728 831252
 branch-friends: Leiston Town Council advisory group
 branch-friends-url: /about/member-organisations/leiston-town-council-advisory-group
 branch-facebook: leistonlibrary
+branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/leiston-library-2
 branch-room-hire: /branches/room-hire/leiston-library
 breadcrumb: y

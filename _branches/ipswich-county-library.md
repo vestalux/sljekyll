@@ -10,6 +10,7 @@ branch-friends: Friends of Ipswich County Library
 branch-twitter: ipswich_library
 branch-facebook: ipswichcountylibrary
 branch-instagram: ipswich_county_library
+branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/ipswich-county-library-2
 branch-room-hire: /branches/room-hire/ipswich-county-library
 branch-display-space: "Double sided display case

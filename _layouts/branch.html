@@ -20,7 +20,7 @@
 
               <div class="custom-g-l3 custom-g-nm">
 
-                <p>{% if page.branch-manager %}
+                <p class="mt0">{% if page.branch-manager %}
                   Manager: {{ page.branch-manager }}
                 {% endif %}</p>
 
@@ -60,18 +60,30 @@
 
                 <h2>Facilities</h2>
 
-                <p>Free wifi available. <a href="/help/printing-copying-scanning">Scanning, printing and photocopying facilities</a>.</p>
+                <ul>
+                  {% if page.branch-wifi %}
+                    <li>
+                      Free wifi available. <a href="/help/printing-copying-scanning">Scanning, printing and photocopying facilities</a>
+                    </li>
+                  {% endif %}
+                  {% if page.branch-accessibility %}
+                    <li>
+                      <a href="{{ page.branch-accessibility }}">Accessibility information</a>
+                    </li>
+                  {% endif %}
+                  {% if page.branch-room-hire %}
+                    <li>
+                      <a href="{{ page.branch-room-hire }}">Room hire</a>
+                    </li>
+                  {% endif %}
+                </ul>
 
-                <p><a href="{{ page.branch-accessibility }}">Accessibility information</a></p>
-
-                <p>{% if page.branch-room-hire %}
-                  <a href="{{ page.branch-room-hire }}">Room hire</a>
-                {% endif %}</p>
-
-                <p>{% if page.branch-display-space %}
-                  <h3>Display space</h3>
-                  {{ page.branch-display-space }}
-                {% endif %}</p>
+                {% if page.branch-display-space %}
+                <h3>Display space</h3>
+                  <p>
+                    {{ page.branch-display-space }}
+                  </p>
+                {% endif %}
 
               </div>
 

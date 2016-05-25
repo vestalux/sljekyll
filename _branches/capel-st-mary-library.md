@@ -9,6 +9,7 @@ branch-tel: 01473 311699
 branch-friends: Friends of Capel Library
 branch-twitter: capellibrary
 branch-facebook: capellibrary
+branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/capel-st-mary-library-2
 branch-display-space: "Small notice board: Displays local notices. Free to display notices."
 breadcrumb: y

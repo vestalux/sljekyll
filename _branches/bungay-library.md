@@ -9,6 +9,7 @@ branch-tel: 01986 892748
 branch-friends: Bungay Community Library
 branch-friends-url: /about/member-organisations/bungay-community-library
 branch-facebook: bungaycommunitylibrary
+branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/bungay-library-2
 branch-room-hire: /branches/room-hire/bungay-library
 breadcrumb: y

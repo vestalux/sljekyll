@@ -9,6 +9,7 @@ branch-tel: 01473 260888
 branch-friends: Voices for Gainsborough Community Library
 branch-friends-url: /about/member-organisations/voices-for-gainsborough-community-library
 branch-facebook: gainsboroughlibrary
+branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/gainsborough-community-library-2
 branch-room-hire: /branches/room-hire/gainsborough-community-library
 branch-display-space: "Two cork boards in cafe area: for posters
