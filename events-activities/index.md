@@ -1,12 +1,9 @@
 ---
-layout: default
+layout: full-width
 title: Events and activities
 breadcrumb: home
 ---
-
 <nav id="nav">
-
-    <h1 class="{% include /c/page-title.html %}">Events &amp; activities</h1>
 
     <div class="cf">
 
@@ -34,9 +31,11 @@ breadcrumb: home
 
         </div>
 
-       </div>
+    </div> <!-- end row -->
 
-        <div class="g-w-col4 g-w-left">
+    <div class="cf">
+
+        <div class="custom-g-l6">
 
             <section class="{% include /c/card.html %}">
 
@@ -48,11 +47,11 @@ breadcrumb: home
 
         </div>
 
-    </div> <!-- end .g-row -->
+    </div> <!-- end row -->
 
-    <div class="g-row">
+    <div class="cf">
 
-        <div class="g-w-col4 g-w-left">
+        <div class="custom-g-l6">
 
             <section class="{% include /c/card.html %}">
 
@@ -64,7 +63,11 @@ breadcrumb: home
 
         </div>
 
-        <div class="g-w-col4 g-w-left">
+    </div> <!-- end row -->
+
+    <div class="cf">
+
+        <div class="custom-g-l6">
 
             <section class="{% include /c/card.html %}">
 
@@ -76,7 +79,11 @@ breadcrumb: home
 
         </div>
 
-        <div class="g-w-col4 g-w-left">
+    </div> <!-- end row -->
+
+    <div class="cf">
+
+        <div class="custom-g-l6">
 
             <section class="{% include /c/card.html %}">
 
@@ -88,11 +95,11 @@ breadcrumb: home
 
         </div>
 
-    </div> <!-- end .g-row -->
+    </div> <!-- end row -->
 
-    <div class="g-row">
+    <div class="cf">
 
-        <div class="g-w-col4 g-w-left">
+        <div class="custom-g-l6">
 
             <section class="{% include /c/card.html %}">
 
@@ -104,7 +111,11 @@ breadcrumb: home
 
         </div>
 
-        <div class="g-w-col4 g-w-left">
+    </div>
+
+    <div class="cf">
+
+        <div class="custom-g-l6">
 
             <section class="{% include /c/card.html %}">
 
@@ -116,6 +127,6 @@ breadcrumb: home
 
         </div>
 
-    </div> <!-- end .g-row -->
+    </div> <!-- end row -->
 
 </nav>
