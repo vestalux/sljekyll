@@ -1,5 +1,5 @@
 ---
-layout: full-width-narrow
+layout: sidebar-right
 title: 'Meet the author: Emily Brightwell'
 date: 2016-03-31 09:30:04+00:00
 author: brandon-king

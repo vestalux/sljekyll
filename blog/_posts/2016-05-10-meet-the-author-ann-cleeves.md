@@ -1,5 +1,5 @@
 ---
-layout: full-width-narrow
+layout: sidebar-right
 title: 'Meet the author: Ann Cleeves'
 date: 2016-05-10 08:17:00+00:00
 author: brandon-king

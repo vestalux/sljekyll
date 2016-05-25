@@ -1,5 +1,5 @@
 ---
-layout: full-width-narrow
+layout: sidebar-right
 title: Work in full swing for Ipswich Library Enterprise + Innovation Hub
 date: 2015-03-20 13:17:27+00:00
 author: sarah-watt

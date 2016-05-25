@@ -1,5 +1,5 @@
 ---
-layout: full-width-narrow
+layout: sidebar-right
 title: 'Meet the author: Elly Griffiths'
 date: 2016-04-19 11:17:00+00:00
 author: brandon-king

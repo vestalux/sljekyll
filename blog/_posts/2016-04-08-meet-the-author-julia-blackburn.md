@@ -1,5 +1,5 @@
 ---
-layout: full-width-narrow
+layout: sidebar-right
 title: 'Meet the author: Julia Blackburn'
 date: 2016-04-08T11:09:57+00:00
 author: brandon-king

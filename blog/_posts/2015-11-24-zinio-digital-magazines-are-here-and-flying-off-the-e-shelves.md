@@ -1,5 +1,5 @@
 ---
-layout: full-width-narrow
+layout: sidebar-right
 title: Zinio digital magazines are here and flying off the e–shelves!
 date: 2015-11-24 15:55:25+00:00
 author: helen-haynes

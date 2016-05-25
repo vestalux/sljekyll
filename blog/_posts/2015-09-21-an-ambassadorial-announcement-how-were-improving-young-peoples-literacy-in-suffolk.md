@@ -1,5 +1,5 @@
 ---
-layout: full-width-narrow
+layout: sidebar-right
 title: 'An Ambassadorial Announcement: how we&#8217;re improving young people&#8217;s literacy in Suffolk'
 date: 2015-09-21 10:38:21+00:00
 author: matt-shenton

@@ -1,5 +1,5 @@
 ---
-layout: full-width-narrow
+layout: sidebar-right
 title: Planning and running a countywide book festival
 date: 2015-04-14 12:50:20+00:00
 author: lisa-brennan

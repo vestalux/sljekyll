@@ -1,5 +1,5 @@
 ---
-layout: full-width-narrow
+layout: sidebar-right
 title: 'Meet the author: Bernard Cornwell'
 date: 2016-05-03 10:29:00+00:00
 author: brandon-king
