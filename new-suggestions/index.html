@@ -11,7 +11,7 @@ breadcrumb: home
 
             <section class="{% include /c/card.html %}">
 
-                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" "/new-suggestions/fiction">Fiction</a></h1>
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/new-suggestions/fiction">Fiction</a></h1>
 
                 <p class="{% include /c/card-graf.html %}">
                   {% for post in site.categories.['fiction'] limit:3 %}
@@ -69,7 +69,7 @@ breadcrumb: home
 
             <section class="{% include /c/card.html %}">
 
-                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" "/new-suggestions/films-dvds">Films and DVDs</a></h1>
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/new-suggestions/films-dvds">Films and DVDs</a></h1>
 
                 <p class="{% include /c/card-graf.html %}">
                   {% for post in site.categories.['films-dvds'] limit:3 %}
@@ -127,7 +127,7 @@ breadcrumb: home
 
             <section class="{% include /c/card.html %}">
 
-                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" "/new-suggestions/local-interest">Local interest</a></h1>
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/new-suggestions/local-interest">Local interest</a></h1>
 
                 <p class="{% include /c/card-graf.html %}">
                   {% for post in site.categories.['local-interest'] limit:3 %}
