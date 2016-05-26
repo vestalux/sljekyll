@@ -7,6 +7,7 @@ branch-address: Village Hall, The Street, Capel St Mary
 branch-post-code: IP9 2EP
 branch-tel: 01473 311699
 branch-friends: Friends of Capel Library
+branch-social-media: y
 branch-twitter: capellibrary
 branch-facebook: capellibrary
 branch-wifi: y

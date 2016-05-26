@@ -8,6 +8,7 @@ branch-post-code: IP3 0RL
 branch-tel: 01473 260888
 branch-friends: Voices for Gainsborough Community Library
 branch-friends-url: /about/member-organisations/voices-for-gainsborough-community-library
+branch-social-media: y
 branch-facebook: gainsboroughlibrary
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/gainsborough-community-library-2

@@ -8,6 +8,7 @@ branch-post-code: IP12 1DT
 branch-tel: 01394 446510
 branch-friends: Friends of Woodbridge Library (FOWL)
 branch-friends-url: /about/member-organisations/friends-of-woodbridge-library-fowl
+branch-social-media: y
 branch-twitter: woodbridgelib
 branch-facebook: Woodbridge-Library-Suffolk-575433289169395
 branch-wifi: y

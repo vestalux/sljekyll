@@ -8,6 +8,7 @@ branch-post-code: IP5 2HL
 branch-tel: 01473 626103
 branch-friends: Kesgrave Library Community Group
 branch-friends-url: /about/member-organisations/kesgrave-library-community-group
+branch-social-media: y
 branch-facebook: kesgravelibrary
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/kesgrave-library-2

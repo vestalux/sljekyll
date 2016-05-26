@@ -7,6 +7,7 @@ branch-address: 29 High Street, Hadleigh
 branch-post-code: IP7 5AG
 branch-tel: 01473 823778
 branch-friends: Hadleigh Library Friends
+branch-social-media: y
 branch-facebook: hadleighlibrarysuffolk
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/hadleigh-library-2

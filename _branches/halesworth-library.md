@@ -8,6 +8,7 @@ branch-post-code: IP19 8AD
 branch-tel: 01986 875095
 branch-friends: Friends of Halesworth County Library
 branch-friends-url: /about/member-organisations/friends-of-halesworth-county-library
+branch-social-media: y
 branch-twitter: halesworthlib
 branch-facebook: Halesworth-Library-391603700955116
 branch-wifi: y

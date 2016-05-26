@@ -9,6 +9,7 @@ branch-tel: 01638 661216
 branch-fax: 01638 560818
 branch-friends: Friends of Newmarket Library
 branch-friends-url: /about/member-organisations/friends-of-newmarket-library
+branch-social-media: y
 branch-facebook: friendsofnewmarketlibrary
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/newmarket-library-2

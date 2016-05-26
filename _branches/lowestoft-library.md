@@ -9,6 +9,7 @@ branch-tel: 01502 674660
 branch-fax: 01502 528562
 branch-friends: Friends of Lowestoft Library
 branch-friends-url: /about/member-organisations/friends-of-lowestoft-library
+branch-social-media: y
 branch-twitter: lowestoftlib
 branch-facebook: lowestoftlibrary
 branch-pinterest: lowlib
