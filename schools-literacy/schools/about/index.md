@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: 'Literacy, Books and Reading Team for Schools: About'
+title: About the Literacy, Books and Reading Team for Schools
 breadcrumb: schools
 sidebar: schools
 ---

@@ -6,6 +6,8 @@ hero-alt: Matthew Bourne’s Swan Lake
 hero-caption: Matthew Bourne’s Swan Lake
 breadcrumb: events
 ---
+<img src="/images/article/sl-presents-logo.jpg" class="center" />
+
 <strong>Recorded live, on screen</strong>: Amazing performances recorded live and screened at your library.
 
 # Globe on Screen: The Comedy of Errors
