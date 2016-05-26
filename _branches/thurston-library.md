@@ -8,6 +8,7 @@ branch-post-code: IP31 3PB
 branch-tel: 01359 235048
 branch-friends: Friends of Thurston Library
 branch-friends-url: /about/member-organisations/friends-of-thurston-library
+branch-social-media: y
 branch-twitter: thurstonlibrary
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/thurston-library-2

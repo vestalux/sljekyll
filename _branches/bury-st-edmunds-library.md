@@ -7,6 +7,7 @@ branch-address: Sergeants Walk, St Andrews Street North, Bury St Edmunds
 branch-post-code: IP33 1TZ
 branch-tel: 01284 732255
 branch-friends: Friends of Bury St Edmunds Library
+branch-social-media: y
 branch-twitter: burylibsuffolk
 branch-facebook: burystedmundslibrary
 branch-wifi: y

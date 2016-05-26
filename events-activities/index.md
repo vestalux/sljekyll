@@ -1,12 +1,9 @@
 ---
-layout: default
+layout: full-width
 title: Events and activities
 breadcrumb: home
 ---
-
 <nav id="nav">
-
-    <h1 class="{% include /c/page-title.html %}">Events &amp; activities</h1>
 
     <div class="cf">
 
@@ -34,9 +31,11 @@ breadcrumb: home
 
         </div>
 
-       </div>
+    </div> <!-- end row -->
 
-        <div class="g-w-col4 g-w-left">
+    <div class="cf">
+
+        <div class="custom-g-l6">
 
             <section class="{% include /c/card.html %}">
 
@@ -48,11 +47,11 @@ breadcrumb: home
 
         </div>
 
-    </div> <!-- end .g-row -->
+    </div> <!-- end row -->
 
-    <div class="g-row">
+    <div class="cf">
 
-        <div class="g-w-col4 g-w-left">
+        <div class="custom-g-l6">
 
             <section class="{% include /c/card.html %}">
 
@@ -64,7 +63,11 @@ breadcrumb: home
 
         </div>
 
-        <div class="g-w-col4 g-w-left">
+    </div> <!-- end row -->
+
+    <div class="cf">
+
+        <div class="custom-g-l6">
 
             <section class="{% include /c/card.html %}">
 
@@ -76,39 +79,95 @@ breadcrumb: home
 
         </div>
 
-        <div class="g-w-col4 g-w-left">
+    </div> <!-- end row -->
 
-            <section class="{% include /c/card.html %}">
+    <div class="cf">
 
-                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="building-wellness-through-reading">Building Wellness through Reading</a></h1>
-
-                <p class="{% include /c/card-graf.html %}">One day conference for education professionals to help promote reading as a therapeutic activity.</p>
-
-            </section>
-
-        </div>
-
-    </div> <!-- end .g-row -->
-
-    <div class="g-row">
-
-        <div class="g-w-col4 g-w-left">
+        <div class="custom-g-l6">
 
             <section class="{% include /c/card.html %}">
 
                 <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/bookfest">Bookfest</a></h1>
 
-                <p class="{% include /c/card-graf.html %}">Our annual book festival will take place in October 2016.</p>
+                <p class="{% include /c/card-graf.html %}">Our annual book festival will take place on 21-30 October 2016.</p>
 
             </section>
 
         </div>
 
-        <div class="g-w-col4 g-w-left">
+    </div> <!-- end row -->
+
+    <div class="cf">
+
+        <div class="custom-g-l6">
 
             <section class="{% include /c/card.html %}">
 
-                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/bookfest">What's on</a></h1>
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/ceremonies">Northgate Room weddings and other ceremonies</a></h1>
+
+                <p class="{% include /c/card-graf.html %}">Ipswich County Library’s Northgate Room is now licensed to hold weddings, civil ceremonies and other celebrations.</p>
+
+            </section>
+
+        </div>
+
+    </div> <!-- end row -->
+
+    <div class="cf">
+
+        <div class="custom-g-l6">
+
+            <section class="{% include /c/card.html %}">
+
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/suffolk-writes">Suffolk Writes</a></h1>
+
+                <p class="{% include /c/card-graf.html %}">Suffolk Writes is a project giving you the opportunity to make your written work available to Suffolk Libraries customers to borrow.</p>
+
+            </section>
+
+        </div>
+
+    </div> <!-- end row -->
+
+    <div class="cf">
+
+        <div class="custom-g-l6">
+
+            <section class="{% include /c/card.html %}">
+
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/summer-reading-challenge">Summer Reading Challenge</a></h1>
+
+                <p class="{% include /c/card-graf.html %}">Summer Reading Challenge</p>
+
+            </section>
+
+        </div>
+
+    </div> <!-- end row -->
+
+    <div class="cf">
+
+        <div class="custom-g-l6">
+
+            <section class="{% include /c/card.html %}">
+
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/our-year-of-reading">Our Year of Reading</a></h1>
+
+                <p class="{% include /c/card-graf.html %}">Celebrate and promote reading across Suffolk in 2016 and help us improve literacy, encourage reading for pleasure and remind everyone of the importance of reading.</p>
+
+            </section>
+
+        </div>
+
+    </div> <!-- end row -->
+
+    <div class="cf">
+
+        <div class="custom-g-l6">
+
+            <section class="{% include /c/card.html %}">
+
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities">What's on</a></h1>
 
                 <p class="{% include /c/card-graf.html %}">A list of all special events taking place in Suffolk's libraries.</p>
 
@@ -116,6 +175,6 @@ breadcrumb: home
 
         </div>
 
-    </div> <!-- end .g-row -->
+    </div> <!-- end row -->
 
 </nav>

@@ -4,23 +4,19 @@ layout: full-width
 breadcrumb: home
 ---
 
-<div class="panel">
+<p>Download and stream eBooks, eAudio, MP3s and magazines for free. All you need is a library card. If you don't have one, <strong><a href="/help/apply">apply for a library card  &rarr;</a></strong></p>
 
-    <p>Download and stream eBooks, eAudio, MP3s and magazines for free. All you need is a library card. If you don't have one, <strong><a href="/help/apply">apply for a library card  &rarr;</a></strong></p>
+<div class="cf">
 
-</div>
+    <div class="custom-g-l2">
 
-<div class="g-row">
+        <section class="{% include /c/card.html %}" id="overdrive">
 
-    <div class="g-w-left g-w-col4">
-
-        <section class="vbox" id="overdrive">
-
-            <h1 class="vbox-title">Overdrive eBooks &amp; eAudio</h1>
+            <h1 class="{% include /c/card-title.html %}">Overdrive eBooks &amp; eAudio</h1>
 
             <a href="/elibrary/overdrive"><img src="/images/card/overdrive.jpg" alt="Screenshot of the OverDrive website"></a>
 
-            <p>Borrow from a large range of eBooks and eAudio. Use the OverDrive website with your library card, or download apps for Android and iOS.</p>
+            <p class="{% include /c/card-graf.html %}">Borrow from a large range of eBooks and eAudio. Use the OverDrive website with your library card, or download apps for Android and iOS.</p>
 
             <ul>
 
@@ -33,15 +29,15 @@ breadcrumb: home
 
     </div>
 
-    <div class="g-w-left g-w-col4">
+    <div class="custom-g-l2">
 
-        <section class="vbox" id="3m">
+        <section class="{% include /c/card.html %}" id="3m">
 
-            <h1 class="vbox-title">3M Cloud Library eBooks</h1>
+            <h1 class="{% include /c/card-title.html %}">3M Cloud Library eBooks</h1>
 
             <a href="/elibrary/3m"><img src="/images/card/3m.jpg" alt="Screenshot of the 3M website"></a>
 
-            <p>Borrow from hundreds of high quality eBooks. Use the 3M website with your library card, or download apps for Android and iOS.</p>
+            <p class="{% include /c/card-graf.html %}">Borrow from hundreds of high quality eBooks. Use the 3M website with your library card, or download apps for Android and iOS.</p>
 
             <ul>
 
@@ -54,15 +50,15 @@ breadcrumb: home
 
     </div>
 
-    <div class="g-w-left g-w-col4">
+    <div class="custom-g-l2 custom-g-nm">
 
-        <section class="vbox" id="borrowbox">
+        <section class="{% include /c/card.html %}" id="borrowbox">
 
-            <h1 class="vbox-title">BorrowBox eAudio</h1>
+            <h1 class="{% include /c/card-title.html %}">BorrowBox eAudio</h1>
 
             <a href="/elibrary/borrowbox/"><img src="/images/card/borrowbox.jpg" alt="Screenshot of the BorrowBox website"></a>
 
-            <p>Choose from a wide range of eAudio books. Use the OverDrive website with your library card, or download apps for Android and iOS.</p>
+            <p class="{% include /c/card-graf.html %}">Choose from a wide range of eAudio books. Use the OverDrive website with your library card, or download apps for Android and iOS.</p>
 
             <ul>
 
@@ -75,19 +71,19 @@ breadcrumb: home
 
     </div>
 
-</div> <!-- end .g-row -->
+</div> <!-- end row -->
 
-<div class="g-row">
+<div class="cf">
 
-    <div class="g-w-left g-w-col4">
+    <div class="custom-g-l2">
 
-        <section class="vbox" id="zinio">
+        <section class="{% include /c/card.html %}" id="zinio">
 
-            <h1 class="vbox-title">Zinio magazines</h1>
+            <h1 class="{% include /c/card-title.html %}">Zinio magazines</h1>
 
             <a href="/elibrary/zinio/"><img src="/images/card/zinio.jpg" alt="Screenshot of the Zinio website"></a>
 
-            <p>Download titles like <cite>Top Gear Magazine</cite> and <cite>Good Food</cite> to your device to keep forever.</p>
+            <p class="{% include /c/card-graf.html %}">Download titles like <cite>Top Gear Magazine</cite> and <cite>Good Food</cite> to your device to keep forever.</p>
 
             <ul>
 
@@ -100,15 +96,15 @@ breadcrumb: home
 
     </div>
 
-    <div class="g-w-left g-w-col4">
+    <div class="custom-g-l2 custom-g-nm">
 
-        <section class="vbox" id="freegal">
+        <section class="{% include /c/card.html %}" id="freegal">
 
-            <h1 class="vbox-title">Freegal streaming &amp; downloads</h1>
+            <h1 class="{% include /c/card-title.html %}">Freegal streaming &amp; downloads</h1>
 
             <a href="/elibrary/freegal/"><img src="/images/card/freegal.jpg" alt="Screenshot of the Freegal website"></a>
 
-            <p>Download or stream from a choice of hundreds of thousands of songs, including the entire Sony back catalogue.</p>
+            <p class="{% include /c/card-graf.html %}">Download or stream from a choice of hundreds of thousands of songs, including the entire Sony back catalogue.</p>
 
             <ul>
 
@@ -121,4 +117,4 @@ breadcrumb: home
 
     </div>
 
-</div> <!-- end .g-row -->
+</div> <!-- end row -->

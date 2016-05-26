@@ -1,11 +1,11 @@
 ---
 layout: sidebar-right
 category: health
-title: Mental health information services
+title: Events for your health and wellbeing
 breadcrumb: health
 sidebar: health
 ---
-![Alzheimer&#039;s society](http://suffolklibraries.co.uk/wp-content/uploads/2016/01/featured-alzheimers-society.jpg)
+![Alzheimers society](/images/article/alzheimers-society.jpg)
 
 ## What’s happening in my library?
 
@@ -13,8 +13,8 @@ Here at Suffolk Libraries we pride ourselves on being so much more than just boo
 
 [Select your local library to see what events are happening.](/branches/)
 
-![Suffolk family carers](http://suffolklibraries.co.uk/wp-content/uploads/2016/01/featured-suffolk-family-carers.jpg)
+![Suffolk family carers](/images/article/suffolk-family-carers.jpg)
 
 ## What’s happening in my community?
 
-As well as all of the marvellous activities and events in your local library, there are lots of other things happening in your community too. We always want to hear if you are doing anything to support mental health and wellbeing, so if you’re not already included below, please use the contact form to tell us more!
+As well as all of the marvelous activities and events in your local library, there are lots of other things happening in your community too. We always want to hear if you are doing anything to support mental health and wellbeing, so if you’re not already included below, please use the contact form to tell us more!

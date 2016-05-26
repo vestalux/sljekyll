@@ -7,6 +7,7 @@ branch-address: Thomas Gainsborough School (formerly known as the Upper School),
 branch-post-code: CO10 0JU
 branch-tel: 01473 351242
 branch-friends: Friends of Great Cornard Community Library
+branch-social-media: y
 branch-facebook: groups/348670135277550
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/great-cornard-library-2

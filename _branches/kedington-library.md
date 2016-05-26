@@ -7,6 +7,7 @@ branch-address: Community Centre, Arms Lane, Kedington
 branch-post-code: CB9 7QQ
 branch-tel: 01440 703449
 branch-friends: Friends of Kedington Library
+branch-social-media: y
 branch-facebook: kedingtonlibrary
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/kedington-library

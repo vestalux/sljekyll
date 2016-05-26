@@ -73,10 +73,10 @@ Much of this would not have happened without the support of the Friends and we w
 
 ## Minutes
 
-* [Minutes - 5 May 2015](/assets/pdf/2015-05-05-fohcl-minutes.pdf)
-* [Minutes - 2 June 2015](/assets/pdf/2015-06-02-fohcl-minutes.pdf)
-* [Minutes - 4 August 2015](/assets/pdf/2015-08-04-fohcl-minutes.pdf)
-* [Minutes - 27 October 2015](/assets/pdf/2015-10-27-fohcl-minutes.pdf)
-* [Minutes - 9 December 2015](/assets/pdf/2015-12-09-fohcl-minutes.pdf)
-* [Minutes - 26 January 2016](/assets/pdf/2016-01-26-fohcl-minutes.pdf)
-* [Minutes - 15 March 2016](/assets/pdf/2016-03-15-fohcl-minutes.pdf)
+* [Minutes - 5 May 2015](/assets/pdf/2015-05-05-fohcl-minutes.pdf) (PDF)
+* [Minutes - 2 June 2015](/assets/pdf/2015-06-02-fohcl-minutes.pdf) (PDF)
+* [Minutes - 4 August 2015](/assets/pdf/2015-08-04-fohcl-minutes.pdf) (PDF)
+* [Minutes - 27 October 2015](/assets/pdf/2015-10-27-fohcl-minutes.pdf) (PDF)
+* [Minutes - 9 December 2015](/assets/pdf/2015-12-09-fohcl-minutes.pdf) (PDF)
+* [Minutes - 26 January 2016](/assets/pdf/2016-01-26-fohcl-minutes.pdf) (PDF)
+* [Minutes - 15 March 2016](/assets/pdf/2016-03-15-fohcl-minutes.pdf) (PDF)
