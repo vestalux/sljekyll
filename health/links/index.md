@@ -5,7 +5,7 @@ title: Links for your health and wellbeing
 breadcrumb: health
 sidebar: health
 ---
-Here are some of the organisations and information sources available for a variety of mental health and wellbeing topics. If you are unable to find the information you need please feel free to contact us using the contact form.
+Here are some of the organisations and information sources available for a variety of mental health and wellbeing topics. If you are unable to find the information you need please feel free to [contact us using the contact form](/health/contact/).
 
 ## Table of contents
 
