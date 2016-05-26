@@ -1,15 +1,16 @@
 ---
 layout: full-width-narrow
 title: "Suffolk Libraries Presents"
+hero-image: hero-presents.jpg
+hero-alt: Matthew Bourne’s Swan Lake
+hero-caption: Matthew Bourne’s Swan Lake
 breadcrumb: events
 ---
-[Swan Lake](http://suffolklibraries.co.uk/wp-content/uploads/2015/11/hero-presents-swans.jpg)
-
-<strong>Recorded live, on screen</strong>: Amazing performances recorded live and screened at your library (image: Matthew Bourne's <cite>Swan Lake</cite>).
+<strong>Recorded live, on screen</strong>: Amazing performances recorded live and screened at your library.
 
 # Globe on Screen: The Comedy of Errors
 
-![Comedy of Errors actors sitting on the floor](http://suffolklibraries.co.uk/wp-content/uploads/2015/12/comedy-of-errors.jpg)
+<img src="http://suffolklibraries.co.uk/wp-content/uploads/2015/12/comedy-of-errors.jpg" class="br-100 {% include /c/img-float-left.html %}" alt="Comedy of Errors actors sitting on the floor">
 
 [Hadleigh Library](http://suffolklibraries.co.uk/branches/hadleigh-library)· 20 Apr, 1400, doors 1330 · £7.50
 
@@ -18,18 +19,6 @@ Take one pair of estranged twin brothers (both called Antipholus), and one pair 
 Basing his plot on a farce by Plautus, Shakespeare caps the mayhem of his Roman original to build up a hectic tale of violent cross-purposes, furious slapstick and social nightmare.
 
 For tickets visit <strong><a href="http://suffolklibraries.co.uk/branches/hadleigh-library">Hadleigh Library</a></strong> or call <strong>01473 823778</strong>.
-
-# Billy Elliot: The Musical
-
-![Billy Elliot: The Musical](http://suffolklibraries.co.uk/wp-content/uploads/2016/01/presents-billy-elliot-the-musical.png)
-
-[Felixstowe Library](http://suffolklibraries.co.uk/branches/felixstowe-library) · 20 May, 1900, doors 1830 · £7.50
-
-This is a screening of a live stage performance at the West End of Billy Elliot: The Musical.
-
-Set in a northern mining town, against the background of the 1984/85 miners' strike, Billy Elliot is the inspirational story of a young boy's struggle against the odds to make his dreams come true. The story follows Billy's journey as he stumbles out of the boxing ring and into a ballet class where he discovers a passion for dance that inspires his family and whole community and changes his life forever.
-
-For tickets visit <strong><a href="http://suffolklibraries.co.uk/branches/felixstowe-library">Felixstowe Library</a></strong> or call <strong>01394 694880</strong>
 
 # About
 
@@ -43,8 +32,10 @@ The performances will include the Globe Theatre’s productions of Julius Caesar
 
 # Partners
 
-[![Creative Arts East](http://stage.suffolklibraries.co.uk/sl/wp-content/uploads/2015/08/cae-official-logo.jpg)](http://www.creativeartseast.co.uk/)
-*In partnership with Creative Arts East*
+<a href="http://www.creativeartseast.co.uk/"><img src="/images/article/creative-arts-east-logo.jpg" class="{% include /c/img-float-left.html %}" alt="Creative Arts East logo"></a>
 
-[![Arts Council England](http://stage.suffolklibraries.co.uk/sl/wp-content/uploads/2015/08/ace-official-logo.jpg)](http://www.artscouncil.org.uk/)
-*Funded by Arts Council England*
+<p class="cf">In partnership with Creative Arts East</p>
+
+<a href="http://www.artscouncil.org.uk/"><img src="/images/article/arts-council-england-logo.jpg" class="{% include /c/img-float-left.html %}" alt="Arts Council England logo"></a>
+
+<p class="cf">Funded by Arts Council England</p>
