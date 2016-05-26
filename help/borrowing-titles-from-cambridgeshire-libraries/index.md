@@ -19,7 +19,7 @@ If you search for a title in Suffolk and we don’t have it, the website will gi
 
 **Note: you can’t just search Cambridgeshire’s titles. You have to search Suffolk and Cambridgeshire’s titles at the same time.**
 
-<img src="images/help/no-results.jpg" alt="A page with no search results" />
+<img src="/images/help/no-results.jpg" alt="A page with no search results" />
 
 A page with no search results
 
@@ -29,7 +29,7 @@ If you click this link we’ll present you with search results from Suffolk and 
 
 Sometimes your search results don’t contain what you want. If you’d like to see if Cambridgeshire has what you’re looking for, click the ‘Expand this search to include Cambridgeshire Libraries (SPINE partner)’ link:
 
-<img src="images/help/results-expand.jpg" alt="Screenshot of the Suffolk Libraries catalogue" />
+<img src="/images/help/results-expand.jpg" alt="Screenshot of the Suffolk Libraries catalogue" />
 
 We’ll then show you Suffolk and Cambridgeshire’s results. If you find the title you’re looking for you can then reserve it in the normal way.
 
@@ -45,7 +45,7 @@ You can choose your pick up location as per normal.
 
 Sometimes, the same title is available from Suffolk and Cambridgeshire. Should you place a reservation on one of these titles, you can choose which service to reserve the title from. To avoid a charge, choose Suffolk:
 
-<img src="images/help/choose-suffolk.jpg" alt="Catalogue reservation form" />
+<img src="/images/help/choose-suffolk.jpg" alt="Catalogue reservation form" />
 
 You can choose which service you borrow a book from.
 

@@ -11,7 +11,7 @@ You can see your account details, renew your loans and check your reservations b
 
 You&#8217;ll be taken to an account overview:
 
-<img src="images/help/my-account.jpg" alt="My account page" />
+<img src="/images/help/my-account.jpg" alt="My account page" />
 
 The account summary page. Use the tabs at the top to change details such as your email address and set up an alert when a new title becomes available.
 
@@ -33,7 +33,7 @@ Your reservations are listed under the _Reservations/Bookings_ heading
 
 Go to the catalogue home page. Type any keywords in one, two or all of the _Title,_ _Author/artist_ and _Subject_ boxes and click _Search_.
 
-<img src="images/help/quick-search-box.jpg" alt="The quick search box" />
+<img src="/images/help/quick-search-box.jpg" alt="The quick search box" />
 
 Note: If you tell the the search engine which collection to look in (e.g <em>music</em>) you&#8217;ll get more relevant results.
 
@@ -41,7 +41,7 @@ Note: If you tell the the search engine which collection to look in (e.g <em>mus
 
 If you need more control over your search click the _Advanced search_ link on the search page, or the _Advanced_ tab above the search form:
 
-<img src="images/help/advanced-search.jpg" alt="The advanced search box let's you fine tune your search" />
+<img src="/images/help/advanced-search.jpg" alt="The advanced search box let's you fine tune your search" />
 
 When you do an advanced search you can fill in up to 4 fields. You can choose whether to do a keyword search or a phrase search:
 

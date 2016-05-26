@@ -19,11 +19,11 @@ To use wifi you need to
   * Open a browser (such as Firefox, Chrome, Opera or Internet Explorer) and visit any web page.
   * You should see a welcome page. Enter a valid email address and click the &#8216;Click here to login&#8217; button:
 
-<img src="images/help/wifi1-email.jpg" />
+<img src="/images/help/wifi1-email.jpg" />
 
   * You&#8217;ll then see this screen:
 
-<img src="images/help/wifi2-email.jpg" />
+<img src="/images/help/wifi2-email.jpg" />
 
 You can now use the internet as you normally would.
 

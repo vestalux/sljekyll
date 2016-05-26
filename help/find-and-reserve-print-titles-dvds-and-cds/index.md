@@ -29,17 +29,17 @@ When you perform a search the catalogue will make suggestions as you type. You c
 
 You can fill in as many or as few of the boxes as you like.
 
-<img src="images/help/catalogue.jpg" alt="Screenshot of the catalogue quick search box" />
+<img src="/images/help/catalogue.jpg" alt="Screenshot of the catalogue quick search box" />
 
 When you enter a search, the catalogue will display a list of titles it thinks match your request. The list looks like this:
 
-<img src="images/help/results-list.jpg" alt="Search results" />
+<img src="/images/help/results-list.jpg" alt="Search results" />
 
 You can reserve as many of these titles as you like. Simply click the box by the title and press the blue **Reserve Selections** button above the list of results.
 
 If you haven&#8217;t already logged in, you&#8217;ll be asked to enter your library card number and your 4 digit PIN. You&#8217;ll also be asked which library you want to collect the book from and a date when we can end your reservation:
 
-<img src="images/help/login.jpg" alt="Login form" />
+<img src="/images/help/login.jpg" alt="Login form" />
 
 Once you&#8217;ve filled in the form, click the **Place Reservation** button.
 
