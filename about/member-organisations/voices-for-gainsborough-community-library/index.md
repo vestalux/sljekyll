@@ -78,4 +78,4 @@ We're currently developing a range of plans to help support and promote Gainsbor
 
 ## Documents
 
-[Annual Chairpersons Report 2014/15 for Voices 4 Gainsborough Community Library (V4GCL)](/assets/pdf/voices-4-gainsborough-community-library-v4gcl-annual-chairpersons-report-14-15.pdf)
+[Annual Chairpersons Report 2014/15 for Voices 4 Gainsborough Community Library (V4GCL)](/assets/pdf/voices-4-gainsborough-community-library-v4gcl-annual-chairpersons-report-14-15.pdf) (PDF)

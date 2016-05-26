@@ -4,7 +4,7 @@ title: Stradbroke Courthouse and Library Trust (SCALT)
 sidebar: about
 breadcrumb: member-organisations
 ---
-## [Stradbroke Courthouse and Library Trust (SCALT)](/images/article/logo-court-house-stradbroke.jpg)
+![Stradbroke Courthouse and Library Trust (SCALT) logo](/images/article/logo-court-house-stradbroke.jpg)
 
 ## Our aims
 
