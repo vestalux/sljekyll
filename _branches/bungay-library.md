@@ -8,6 +8,7 @@ branch-post-code: NR35 1EL
 branch-tel: 01986 892748
 branch-friends: Bungay Community Library
 branch-friends-url: /about/member-organisations/bungay-community-library
+branch-social-media: y
 branch-facebook: bungaycommunitylibrary
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/bungay-library-2

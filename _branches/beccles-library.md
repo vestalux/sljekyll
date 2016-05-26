@@ -8,6 +8,7 @@ branch-post-code: NR34 9TB
 branch-tel: 01502 714073
 branch-friends: Beccles Library Community Trust
 branch-friends-url: /about/member-organisations/beccles-library-community-trust-bclt
+branch-social-media: y
 branch-facebook: beccleslibrarysuffolk
 branch-twitter: beccleslib
 branch-wifi: y

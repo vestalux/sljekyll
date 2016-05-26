@@ -7,6 +7,7 @@ branch-address: Bury Road, Brandon
 branch-post-code: IP27 0BQ
 branch-tel: 01842 816106
 branch-friends: Friends of Brandon Library
+branch-social-media: y
 branch-facebook: brandonlibrarysuffolk
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/brandon-library-3

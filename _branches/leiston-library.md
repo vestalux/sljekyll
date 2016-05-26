@@ -8,6 +8,7 @@ branch-post-code: IP16 4ER
 branch-tel: 01728 831252
 branch-friends: Leiston Town Council advisory group
 branch-friends-url: /about/member-organisations/leiston-town-council-advisory-group
+branch-social-media: y
 branch-facebook: leistonlibrary
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/leiston-library-2

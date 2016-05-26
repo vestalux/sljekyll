@@ -7,6 +7,7 @@ branch-address: Camps Road, Haverhill
 branch-post-code: CB9 8HB
 branch-tel: 01440 702638
 branch-friends: Friends of Haverhill Library
+branch-social-media: y
 branch-twitter: haverhillibrary
 branch-facebook: Haverhill-Library-Suffolk-202854396546832
 branch-pinterest: haverhillibrary

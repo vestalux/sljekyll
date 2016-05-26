@@ -21,34 +21,37 @@
               <div class="custom-g-l3 custom-g-nm">
 
                 <p class="mt0">{% if page.branch-manager %}
-                  Manager: {{ page.branch-manager }}
+                  Manager: <strong>{{ page.branch-manager }}</strong>
                 {% endif %}</p>
 
                 <p>{{ page.branch-address }}<br>
-                {{ page.branch-post-code }}<br></p>
+                {{ page.branch-post-code }}</p>
 
-                <p>Tel: {{ page.branch-tel }}<br>
+                <p>Tel: <strong>{{ page.branch-tel }}</strong><br>
                 {% if page.branch-fax %}
-                  Fax: {{ page.branch-fax }}<br>
+                  Fax: <strong>{{ page.branch-fax }}</strong><br>
                 {% endif %}
-                Email: <a href="mailto:help@suffolklibraries.co.uk">help@suffolklibraries.co.uk</a><br>
+                Email: <strong><a href="mailto:help@suffolklibraries.co.uk">help@suffolklibraries.co.uk</a></strong><br>
                 {% if page.branch-friends-url %}
                   Friends group: <a href="{{ page.branch-friends-url }}">{{ page.branch-friends }}</a><br>
                   {% else %}
                   Friends group: {{ page.branch-friends }}<br>
                 {% endif %}
-                {% if page.branch-facebook %}
-                  <a href="http://www.facebook.com/{{ page.branch-facebook }}">Facebook</a><br>
+                {% if page.branch-social-media %}
+                  Social media:
+                    {% if page.branch-facebook %}
+                      <a href="http://www.facebook.com/{{ page.branch-facebook }}">Facebook</a>
+                    {% endif %}
+                    {% if page.branch-twitter %}
+                        <a href="http://www.twitter.com/{{ page.branch-twitter }}">Twitter</a>
+                    {% endif %}
+                    {% if page.branch-instagram %}
+                        <a href="http://www.instagram.com/{{ page.branch-instagram }}">Instagram</a>
+                    {% endif %}
+                    {% if page.branch-pinterest %}
+                        <a href="http://www.pinterest.com/{{ page.branch-pinterest }}">Pinterest</a>
+                    {% endif %}</p>
                 {% endif %}
-                {% if page.branch-twitter %}
-                  <a href="http://www.twitter.com/{{ page.branch-twitter }}">Twitter</a><br>
-                {% endif %}
-                {% if page.branch-instagram %}
-                  <a href="http://www.instagram.com/{{ page.branch-instagram }}">Instagram</a><br>
-                {% endif %}
-                {% if page.branch-pinterest %}
-                  <a href="http://www.pinterest.com/{{ page.branch-pinterest }}">Pinterest</a><br>
-                {% endif %}</p>
 
               </div>
 
@@ -63,7 +66,10 @@
                 <ul>
                   {% if page.branch-wifi %}
                     <li>
-                      Free wifi available. <a href="/help/printing-copying-scanning">Scanning, printing and photocopying facilities</a>
+                      Free wifi available
+                    </li>
+                    <li>
+                      <a href="/help/printing-copying-scanning">Scanning, printing and photocopying facilities</a>
                     </li>
                   {% endif %}
                   {% if page.branch-accessibility %}
@@ -71,12 +77,13 @@
                       <a href="{{ page.branch-accessibility }}">Accessibility information</a>
                     </li>
                   {% endif %}
-                  {% if page.branch-room-hire %}
-                    <li>
-                      <a href="{{ page.branch-room-hire }}">Room hire</a>
-                    </li>
-                  {% endif %}
                 </ul>
+
+                {% if page.branch-room-hire %}
+                  <button class="pure-button pure-button-primary">
+                    <a href="{{ page.branch-room-hire }}">Room hire</a>
+                  </button>
+                {% endif %}
 
                 {% if page.branch-display-space %}
                 <h3>Display space</h3>
