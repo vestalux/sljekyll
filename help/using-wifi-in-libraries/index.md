@@ -19,11 +19,11 @@ To use wifi you need to
   * Open a browser (such as Firefox, Chrome, Opera or Internet Explorer) and visit any web page.
   * You should see a welcome page. Enter a valid email address and click the &#8216;Click here to login&#8217; button:
 
-[![wifi1-email](http://suffolklibraries.co.uk/wp-content/uploads/2014/01/wifi1-email.png)](http://suffolklibraries.co.uk/wp-content/uploads/2014/01/wifi1-email.png)
+<img src="images/help/wifi1-email.jpg" />
 
   * You&#8217;ll then see this screen:
 
-[![wifi2-email](http://suffolklibraries.co.uk/wp-content/uploads/2014/01/wifi2-email.png)](http://suffolklibraries.co.uk/wp-content/uploads/2014/01/wifi2-email.png)
+<img src="images/help/wifi2-email.jpg" />
 
 You can now use the internet as you normally would.
 
