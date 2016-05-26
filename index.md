@@ -126,17 +126,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
         <div class="cf">
 
-<<<<<<< HEAD
             <div class="custom-g-l2">
-=======
-            <li class="dib-ns mr2-ns pv3"><a href="/events-activities" class="pa2 bg-light-gray blue link">Events &amp; activities</a></li>
-            <li class="dib-ns mr2-ns pv3"><a href="/health" class="pa2 bg-light-gray blue link">Mental health &amp; wellbeing</a></li>
-            <li class="dib-ns mr2-ns pv3"><a href="/schools-literacy" class="pa2 bg-light-gray blue link">Literacy &amp; schools</a></li>
-            <li class="dib-ns mr2-ns pv3"><a href="/news" class="pa2 bg-light-gray blue link">News</a></li>
-            <li class="dib-ns mr2-ns pv3"><a href="/blog" class="pa2 bg-light-gray blue link">Blog</a></li>
-            <li class="dib-ns mr2-ns pv3"><a href="/about" class="pa2 bg-light-gray blue link">About</a></li>
-            <li class="dib-ns mr2-ns pv3"><a href="/branches/hub" class="pa2 bg-light-gray blue link">Ipswich Enterprise + Business Hub</a></li>
->>>>>>> content
 
                 <ul class="list ma0 pa0">
 
