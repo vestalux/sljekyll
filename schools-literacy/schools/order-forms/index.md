@@ -24,5 +24,5 @@ Labelling materials and publications for libraries.
 
 Download:
 
-* [Stationery order form](assets/pdf/lbrts-stationery-order-form-2015.pdf) (PDF)
-* [Stationery order form](assets/doc/lbrts-stationery-order-form-2015.doc) (Word doc)
+* [Stationery order form](/assets/pdf/lbrts-stationery-order-form-2015.pdf) (PDF)
+* [Stationery order form](/assets/doc/lbrts-stationery-order-form-2015.doc) (Word doc)

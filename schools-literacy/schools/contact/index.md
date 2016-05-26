@@ -4,9 +4,9 @@ title: Contact the Literacy, Books and Reading Team for Schools
 breadcrumb: schools
 sidebar: schools
 ---
-Suffolk Libraries Literacy Books and Reading Team for Schools,
-24 Hadenham Road,
-South Lowestoft Industrial Estate,
+Suffolk Libraries Literacy Books and Reading Team for Schools,<br>
+24 Hadenham Road,<br>
+South Lowestoft Industrial Estate,<br>
 Lowestoft, NR33 7NF
 
 You can call us on **01502 512816** or email **schools@suffolklibraries.co.uk**
