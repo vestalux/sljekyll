@@ -1,6 +1,9 @@
 ---
 layout: full-width-narrow
 title: "Get online"
+hero-image: hero-get-online.jpg
+hero-alt: A member of staff helping a person use a tablet and laptop
+hero-caption: A member of staff helping a person use a tablet and laptop
 breadcrumb: events
 ---
 All Suffolk Libraries offer free internet access and informal advice on getting online.

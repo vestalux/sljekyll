@@ -4,7 +4,7 @@ title: Rosehill Library Friends
 sidebar: about
 breadcrumb: member-organisations
 ---
-![Rosehill Library Friends logo](images/article/logo-rosehill-library-friends.jpg)
+![Rosehill Library Friends logo](/images/article/logo-rosehill-library-friends.jpg)
 
 ## Our Aims
 

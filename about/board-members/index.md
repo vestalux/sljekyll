@@ -17,7 +17,7 @@ Our member organisations elect our board.
 * Colin Rockall (Friends of Lavenham Library)
 * Suffolk Libraries general manager, Alison Wheeler (_ex officio_)
 
-[Suffolk Libraries board member photos](/assets/zip/suffolk-libraries-IPS-board-members-photos.zip) (ZIP file, 2.4MB)
+[Suffolk Libraries board member photos](/assets/zip/suffolk-libraries-IPS-board-members-photos.zip) (ZIP file, 2.2MB)
 
 ## Biographies
 
