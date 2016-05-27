@@ -149,17 +149,32 @@
                   <thead>
                     <tr>
                       <th>Event</th>
-                      <th>Dates</th>
+                      <th>Days</th>
                       <th>Times</th>
                     </tr>
                   </thead>
                   <tbody>
-                    <tr>
-                      <td>placeholder</td>
-                      <td>placeholder</td>
-                      <td>placeholder</td>
-                    </tr>
+
+                    {% assign current = page.branch-unique-id %}
+
+                    {% assign recurrents = site.recurrents | sort: 'recurrent-category'%}
+
+                    {% for recurrent in recurrents %}
+
+                          {% if recurrent.recurrent-location == current %}
+
+                            <tr>
+                                <td>{{ recurrent.recurrent-title }}</td>
+                                <td>{{ recurrent.recurrent-day }}</td>
+                                <td>{{ recurrent.recurrent-times }} </td>
+                            </tr>
+
+                        {% endif %}
+
+                    {% endfor %}
+
                   </tbody>
+
                 </table>
 
               </div>

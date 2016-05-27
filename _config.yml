@@ -32,6 +32,8 @@ collections:
         output: true
     events:
         output: true
+    recurrents:
+        output: false
 defaults:
   - scope:
       type: branches
