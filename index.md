@@ -143,7 +143,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
                 <ul class="list ma0 pa0">
 
-                    <li class="bt b--light-gray pl0 pt2 pb2"><a href="/hub" class="blue link">Ipswich Enterprise + Business Hub</a></li>
+                    <li class="bt b--light-gray pl0 pt2 pb2"><a href="/branches/hub" class="blue link">Ipswich Enterprise + Business Hub</a></li>
                     <li class="bt b--light-gray pl0 pt2 pb2"><a href="/special-collections" class="blue link">Special collections</a></li>
                     <li class="bt b--light-gray pl0 pt2 pb2"><a href="/music-and-drama" class="blue link">Music &amp; drama library</a></li>
 
