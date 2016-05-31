@@ -2,6 +2,13 @@
 branch-unique-id: elmswell-library
 branch-name: Elmswell Library
 branch-image: /images/branches/elmswell-library.jpg
+branch-monday-hours: Closed
+branch-tuesday-hours:	1000 – 1300, 1400 – 1900
+branch-wednesday-hours: 1400 – 1700
+branch-thursday-hours: 1000 – 1300, 1400 – 1900
+branch-friday-hours: 1400 – 1700
+branch-saturday-hours: 1000 – 1300
+branch-sunday-hours: 1000 – 1500
 branch-manager: Emma Yarrow
 branch-address: Memorial Library, Cooks Road, Elmswell
 branch-post-code: IP30 9BX

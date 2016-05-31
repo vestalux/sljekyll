@@ -2,6 +2,13 @@
 branch-unique-id: kesgrave-library
 branch-name: Kesgrave Library
 branch-image: /images/branches/kesgrave-library.jpg
+branch-monday-hours: Closed
+branch-tuesday-hours:	0900 – 1200, 1430 – 1700
+branch-wednesday-hours: 1430 – 1800
+branch-thursday-hours: 1430 – 2000
+branch-friday-hours: 0900 – 1200
+branch-saturday-hours: 1000 – 1700
+branch-sunday-hours: 1000 – 1500
 branch-manager: Maggie Lusher
 branch-address: Kinsey House, Kays Close, Kesgrave
 branch-post-code: IP5 2HL
@@ -12,9 +19,11 @@ branch-social-media: y
 branch-facebook: kesgravelibrary
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/kesgrave-library-2
-branch-display-space: "Posters – A4 or smaller
-
-Local and charity: free
-Business and personal: 50p per week for a maximum of 4 weeks"
+branch-display-space: "
+  <h4>Posters – A4 or smaller</h4>
+  <ul>
+    <li>Local and charity: free</li>
+    <li>Business and personal: 50p per week for a maximum of 4 weeks</li>
+  </ul>"
 breadcrumb: y
 ---

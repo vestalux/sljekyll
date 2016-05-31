@@ -2,6 +2,13 @@
 branch-unique-id: rosehill-library
 branch-name: Rosehill Library
 branch-image: /images/branches/rosehill-library.jpg
+branch-monday-hours: Closed
+branch-tuesday-hours:	0930 – 1700
+branch-wednesday-hours: 0930 – 1700
+branch-thursday-hours: 0930 – 1700
+branch-friday-hours: 0930 – 1930
+branch-saturday-hours: 0930 – 1700
+branch-sunday-hours: 1100 – 1600
 branch-manager: Mandy Grimwood
 branch-address: Tomline Road, Ipswich
 branch-post-code: IP3 8DB

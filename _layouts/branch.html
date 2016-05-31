@@ -34,8 +34,9 @@
                 Email: <strong><a href="mailto:help@suffolklibraries.co.uk">help@suffolklibraries.co.uk</a></strong><br>
                 {% if page.branch-friends-url %}
                   Friends group: <a href="{{ page.branch-friends-url }}">{{ page.branch-friends }}</a><br>
-                  {% else %}
+                  {% elsif page.branch-friends %}
                   Friends group: {{ page.branch-friends }}<br>
+                  {% else %}
                 {% endif %}
                 {% if page.branch-social-media %}
                   Social media:
@@ -99,38 +100,38 @@
                 <table class="pure-table">
                   <thead>
                     <tr>
-                      <td>Day</td>
-                      <td>Hours</td>
+                      <th>Day</th>
+                      <th>Hours</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td>placeholder</td>
-                      <td>placeholder</td>
+                      <td>Monday</td>
+                      <td>{{ page.branch-monday-hours }}</td>
                     </tr>
                     <tr>
-                      <td>placeholder</td>
-                      <td>placeholder</td>
+                      <td>Tuesday</td>
+                      <td>{{ page.branch-tuesday-hours }}</td>
                     </tr>
                     <tr>
-                      <td>placeholder</td>
-                      <td>placeholder</td>
+                      <td>Wednesday</td>
+                      <td>{{ page.branch-wednesday-hours }}</td>
                     </tr>
                     <tr>
-                      <td>placeholder</td>
-                      <td>placeholder</td>
+                      <td>Thursday</td>
+                      <td>{{ page.branch-thursday-hours }}</td>
                     </tr>
                     <tr>
-                      <td>placeholder</td>
-                      <td>placeholder</td>
+                      <td>Friday</td>
+                      <td>{{ page.branch-friday-hours }}</td>
                     </tr>
                     <tr>
-                      <td>placeholder</td>
-                      <td>placeholder</td>
+                      <td>Saturday</td>
+                      <td>{{ page.branch-saturday-hours }}</td>
                     </tr>
                     <tr>
-                      <td>placeholder</td>
-                      <td>placeholder</td>
+                      <td>Sunday</td>
+                      <td>{{ page.branch-sunday-hours }}</td>
                     </tr>
                   </tbody>
                 </table>

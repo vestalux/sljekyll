@@ -2,6 +2,13 @@
 branch-unique-id: stradbroke-library
 branch-name: Stradbroke Library
 branch-image: /images/branches/stradbroke-library.jpg
+branch-monday-hours: 1400 – 1700
+branch-tuesday-hours:	1400 – 1700
+branch-wednesday-hours: Closed
+branch-thursday-hours: 0900 – 1300, 1400 – 1700
+branch-friday-hours: 1400 – 1700
+branch-saturday-hours: 0900 – 1300
+branch-sunday-hours: Closed
 branch-manager: Maureen John
 branch-address: Court House, Queens Street, Stradbroke
 branch-post-code: IP21 5HG

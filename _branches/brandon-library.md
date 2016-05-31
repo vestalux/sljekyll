@@ -2,6 +2,13 @@
 branch-unique-id: brandon-library
 branch-name: Brandon Library
 branch-image: /images/branches/brandon-library.jpg
+branch-monday-hours: Closed
+branch-tuesday-hours:	1000 – 1730
+branch-wednesday-hours:	1000 – 1400
+branch-thursday-hours: 1000 – 1730
+branch-friday-hours: 1000 – 1900
+branch-saturday-hours: 1000 – 1300, 1400 – 1700
+branch-sunday-hours: 1000 – 1500
 branch-manager: Mathew Sheldrick
 branch-address: Bury Road, Brandon
 branch-post-code: IP27 0BQ
