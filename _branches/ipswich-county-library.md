@@ -6,7 +6,7 @@ branch-monday-hours: 0900 – 1800
 branch-tuesday-hours:	0900 – 1900
 branch-wednesday-hours: 0900 – 1800
 branch-thursday-hours: 0900 – 1800
-branch-friday-hours: 	0900 – 1900
+branch-friday-hours: 0900 – 1900
 branch-saturday-hours: 0830 – 1700
 branch-sunday-hours: 1000 – 1600
 branch-manager: Marion Harvey

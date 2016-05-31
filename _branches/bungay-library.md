@@ -2,6 +2,13 @@
 branch-unique-id: bungay-library
 branch-name: Bungay Library
 branch-image: /images/branches/bungay-library.jpg
+branch-monday-hours: 0900 – 1430
+branch-tuesday-hours:	0900 – 1700
+branch-wednesday-hours: 0900 – 1700
+branch-thursday-hours: 0900 – 1700
+branch-friday-hours: 0900 – 1700
+branch-saturday-hours: 0900 – 1700
+branch-sunday-hours: Closed
 branch-manager: Amanda King
 branch-address: Wharton Street, Bungay
 branch-post-code: NR35 1EL

@@ -34,8 +34,9 @@
                 Email: <strong><a href="mailto:help@suffolklibraries.co.uk">help@suffolklibraries.co.uk</a></strong><br>
                 {% if page.branch-friends-url %}
                   Friends group: <a href="{{ page.branch-friends-url }}">{{ page.branch-friends }}</a><br>
-                  {% else %}
+                  {% elsif page.branch-friends %}
                   Friends group: {{ page.branch-friends }}<br>
+                  {% else %}
                 {% endif %}
                 {% if page.branch-social-media %}
                   Social media:
@@ -99,8 +100,8 @@
                 <table class="pure-table">
                   <thead>
                     <tr>
-                      <td>Day</td>
-                      <td>Hours</td>
+                      <th>Day</th>
+                      <th>Hours</th>
                     </tr>
                   </thead>
                   <tbody>
