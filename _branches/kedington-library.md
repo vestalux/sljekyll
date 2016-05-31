@@ -2,6 +2,13 @@
 branch-unique-id: kedington-library
 branch-name: Kedington Library
 branch-image: /images/branches/kedington-library.jpg
+branch-monday-hours: Closed
+branch-tuesday-hours:	1400 – 1700, 1730 – 1930
+branch-wednesday-hours: 0900 – 1300, 1400 – 1700
+branch-thursday-hours: 1100 – 1300, 1400 – 1700
+branch-friday-hours: Closed
+branch-saturday-hours: 0900 – 1300
+branch-sunday-hours: 1300 – 1700
 branch-manager: Amanda Degnan
 branch-address: Community Centre, Arms Lane, Kedington
 branch-post-code: CB9 7QQ

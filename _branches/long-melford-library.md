@@ -2,6 +2,13 @@
 branch-unique-id: long-melford-library
 branch-name: Long Melford Library
 branch-image: /images/branches/long-melford-library.jpg
+branch-monday-hours: Closed
+branch-tuesday-hours:	1400 – 1730
+branch-wednesday-hours: 1400 – 1700
+branch-thursday-hours: Closed
+branch-friday-hours: 1400 – 1900
+branch-saturday-hours: Closed
+branch-sunday-hours: 1200 – 1630
 branch-manager: Deborah Roots
 branch-address: United Reform Church Room, Hall Street, Long Melford
 branch-post-code: CO10 9JT

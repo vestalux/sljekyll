@@ -2,6 +2,13 @@
 branch-unique-id: lowestoft-library
 branch-name: Lowestoft Library
 branch-image: /images/branches/lowestoft-library.jpg
+branch-monday-hours: 0900 – 1800
+branch-tuesday-hours:	0900 – 1900
+branch-wednesday-hours: 0900 – 1800
+branch-thursday-hours: 0900 – 1900
+branch-friday-hours: 0900 – 1800
+branch-saturday-hours: 0900 – 1700
+branch-sunday-hours: 1000 – 1600
 branch-manager: Tracy Etheridge
 branch-address: Clapham Road South, Lowestoft
 branch-post-code: NR32 1DR

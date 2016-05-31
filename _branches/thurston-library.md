@@ -2,6 +2,13 @@
 branch-unique-id: thurston-library
 branch-name: Thurston Library
 branch-image: /images/branches/thurston-library.jpg
+branch-monday-hours: Closed
+branch-tuesday-hours:	1500 – 1900
+branch-wednesday-hours: 1000 – 1300
+branch-thursday-hours: 1400 – 1800
+branch-friday-hours: 1000 – 1300
+branch-saturday-hours: 1000 – 1500
+branch-sunday-hours: 1000 – 1500
 branch-manager: Cathy McDonald
 branch-address: Thurston Community College, Thurston, Bury St Edmunds
 branch-post-code: IP31 3PB
