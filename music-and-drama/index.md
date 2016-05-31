@@ -6,21 +6,17 @@ sidebar: information-resources
 ---
 # Contact details
 
-Music & Drama Library
-
-County Library
-
-Northgate Street
-
-Ipswich
-
+Music & Drama Library<br>
+County Library<br>
+Northgate Street<br>
+Ipswich<br>
 IP1 3DE
 
-Tel 01473 263830
+Tel: **01473 263830**
 
 Email: **music.drama.library@suffolklibraries.co.uk**
 
-For groups, orchestras, bands, repertory companies, dramatic societies, play reading circles or individuals. Check the [https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/BSEARCH](online catalogue) to find out what is available.
+For groups, orchestras, bands, repertory companies, dramatic societies, play reading circles or individuals. Check the [online catalogue](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/BSEARCH) to find out what is available.
 
 # How to use the music & drama library
 

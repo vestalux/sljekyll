@@ -1,7 +1,10 @@
 ---
 layout: sidebar-right
-title: Online reference resources
-breadcrumb: information-resources
+title: Information resources
+hero-image: hero-information-resources.jpg
+hero-alt: Books in the Northgate Room in Ipswich County Library
+hero-caption: Books in the Northgate Room in Ipswich County Library
+breadcrumb: home
 sidebar: information-resources
 ---
 ## Subscription resources provided for free by Suffolk Libraries
