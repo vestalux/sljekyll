@@ -4,7 +4,7 @@ title: "How to convert a Word document to ePub"
 hero-image: hero-suffolk-writes.jpg
 hero-alt: A Suffolk Writes eBook on an eReader
 hero-caption: A Suffolk Writes eBook on an eReader
-breadcrumb: events
+breadcrumb: suffolk-writes
 ---
 These instructions use a free software programme called Calibre. [Download Calibre](http://calibre-ebook.com/download).
 
