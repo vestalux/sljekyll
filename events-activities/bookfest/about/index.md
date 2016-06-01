@@ -1,7 +1,7 @@
 ---
 layout: full-width-narrow
 title: About Suffolk Libraries Bookfest
-breadcrumb: events
+breadcrumb: bookfest
 ---
 Suffolk Libraries Bookfest runs this year from 21-30 October.
 

@@ -6,6 +6,7 @@ author: sarah-lungley
 category: health
 excerpt: Cancer information and advice, selected with <a href="http://www.macmillan.org.uk/Home.aspx">Macmillan</a>.
 breadcrumb: health
+sidebar: health
 ---
 ![Not the last goodbye by Dr David Servan-Schreiber](/images/featured/featured-not-the-last-goodbye.jpg)
 

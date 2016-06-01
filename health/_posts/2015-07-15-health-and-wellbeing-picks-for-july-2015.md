@@ -6,6 +6,7 @@ author: david-grimmer
 category: health
 excerpt: This month looks at <cite>Stonebird</cite> by Mike Revell which deals with dementia, and <cite>Perfect</cite> by Rachel Joyce which includes experiences with OCD.
 breadcrumb: health
+sidebar: health
 ---
 ![Perfect by Rachel Joyce](/images/featured/featured-perfect.jpg)
 

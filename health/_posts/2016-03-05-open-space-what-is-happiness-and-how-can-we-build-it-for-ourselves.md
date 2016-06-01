@@ -6,6 +6,7 @@ author: sarah-lungley
 category: health
 excerpt: Feedback from an Open Space session about what happiness is and how we can build and create it for ourselves.
 breadcrumb: health
+sidebar: health
 ---
 ![Open Space logo](/images/featured/featured-open-space-logo.jpg)
 

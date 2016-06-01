@@ -6,6 +6,7 @@ author: david-grimmer
 category: health
 excerpt: This month we have recommendations from Sara at Bury St Edmunds Library and Tracey at Haverhill Library.
 breadcrumb: health
+sidebar: health
 ---
 ![The mirror world of Melody Black by Gavin Extence](/images/featured/featured-the-mirror-world-of-melody-black.jpg)
 

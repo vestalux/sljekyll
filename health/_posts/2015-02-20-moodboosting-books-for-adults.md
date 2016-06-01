@@ -6,6 +6,7 @@ author: sarah-lungley
 category: health
 excerpt: Books for adults from our <cite>Moodboosting</cite> collection.
 breadcrumb: health
+sidebar: health
 ---
 ![The Guernsey Literary and Potato Peel Pie Society by Mary Ann Shaffer and Annie Barrows](/images/featured/featured-the-guernsey-literary-and-potato-peel-pie.jpg)
 

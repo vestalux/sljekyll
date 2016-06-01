@@ -6,6 +6,7 @@ author: sarah-lungley
 category: health
 excerpt: The Reading Well books recommended for young people are available to borrow from our libraries.
 breadcrumb: health
+sidebar: health
 ---
 ![The Self-Esteem Team’s Guide to Sex, Drugs and WTFs?!! by The Self-Esteem Team, Mind Your Head by Juno Dawson and Blame My Brain: The Amazing Teenage Brain Revealed by Nicola Morgan](/images/featured/featured-reading-well-for-young-people.jpg)
 

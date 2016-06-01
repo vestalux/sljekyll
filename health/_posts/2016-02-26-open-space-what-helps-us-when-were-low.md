@@ -6,6 +6,7 @@ author: sarah-lungley
 category: health
 excerpt: With the aid of lots of post-it notes, great chats and plenty of tea, the Open Space group came up with this list of things which can help us when we’re low.
 breadcrumb: health
+sidebar: health
 ---
 ![Open Space logo](/images/featured/featured-open-space-logo.jpg)
 
