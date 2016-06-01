@@ -6,6 +6,7 @@ author: sarah-lungley
 category: health
 excerpt: "'All About...' is a new feature in which organisations and projects complete a short interview."
 breadcrumb: health
+sidebar: health
 ---
 Since starting this role back in October 2015, I have met so many wonderful groups, projects, organisations and people, all doing fantastic things for Mental Health and Wellbeing across Suffolk.
 

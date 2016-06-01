@@ -6,6 +6,7 @@ author: emma-raindle
 category: health
 excerpt: <a href="https://www.edbookfest.co.uk/">Edinburgh International Book Festival</a> is the largest bookfest in the world, running 15-31 August 2015. Here is a selection featured at the festival.
 breadcrumb: health
+sidebar: health
 ---
 ![Thrive: the power of evidence-based psychological therapies by Richard Layard & David M Clark](/images/featured/featured-thrive.jpg)
 

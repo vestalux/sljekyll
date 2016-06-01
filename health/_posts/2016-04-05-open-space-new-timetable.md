@@ -6,6 +6,7 @@ author: sarah-lungley
 category: health
 excerpt: Here is the new timetable for Open Space! Lots of exciting things coming up and some great discussions.
 breadcrumb: health
+sidebar: health
 ---
 ![Open Space logo](/images/featured/featured-open-space-logo.jpg)
 
