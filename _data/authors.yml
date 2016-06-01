@@ -1,6 +1,8 @@
 alison-wheeler:
     name: Alison Wheeler
     job: general manager
+    img: /images/authors/alison-wheeler.jpg
+    bio: I've worked in Suffolk's library service since 1979. I've been a children's librarian, stock librarian, worked in the Schools Library Service, run branches and helped introduce our Sunday service. Since 2012 I've been chief executive officer.
 
 amanda-king:
     name: Amanda King
@@ -25,6 +27,8 @@ charlotte-clark:
 charmain-osborne:
     name: Charmain Osborne
     job: assistant manager for Ipswich County Library
+    img: /images/authors/charmain-osborne.jpg
+    bio: I'm assistant library manager at Ipswich County Library.
 
 chris-howard:
     name: Chris Howard
@@ -33,10 +37,14 @@ chris-howard:
 daniel-harvey:
     name: Daniel Harvey
     job: community lead
+    img: /images/authors/daniel-harvey.jpg
+    bio: I'm community lead at Suffolk Libraries. I love live music and I've organised numerous events and gigs over the years.
 
 david-grimmer:
     name: David Grimmer
     job: health and wellbeing information coordinator
+    img: /images/authors/david-grimmer.jpg
+    bio: I'm the health and wellbeing information coordinator at Suffolk Libraries.
 
 debra-rowe:
     name: Debra Rowe
@@ -49,6 +57,7 @@ emma-raindle:
 germaine-bates:
     name: Germaine Bates
     job: stock assistant
+    bio: I'm a Stock Assistant for Suffolk Libraries' Stock Unit.
 
 harriet-avery:
     name: Harriet Avery
@@ -57,6 +66,8 @@ harriet-avery:
 helen-haynes:
     name: Helen Haynes
     job: information and content librarian
+    img: /images/authors/helen-haynes.jpg
+    bio: I'm an information and content librarian.
 
 helen-scrivener:
     name: Helen Scrivener
@@ -65,6 +76,8 @@ helen-scrivener:
 henry-evans:
     name: Henry Evans
     job: IT systems analyst
+    img: /images/authors/henry-evans.jpg
+    bio: I'm the IT systems analyst at Suffolk Libraries.
 
 henry-golding:
     name: Henry Golding
@@ -85,14 +98,20 @@ julie-wheeler:
 kate-ashton:
     name: Kate Ashton
     job: Newmarket Library manager
+    img: /images/authors/kate-ashton.jpg
+    bio: I’m the assistant manager at Haverhill Library. I have dressed up as Max from Where the Wild Things Are for the Big Wild Rumpus and Tonks for Harry Potter Night.
 
 leon-paternoster:
     name: Leon Paternoster
     job: deputy head of IT
+    img: /images/authors/leon-paternoster.jpg
+    bio: I'm deputy head of IT and manage our web and customer service teams. In other lives I've been a teacher of English, telecoms engineer and ad salesman.
 
 lisa-brennan:
     name: Lisa Brennan
     job: information and content librarian
+    img: /images/authors/lisa-brennan.jpg
+    bio: I'm an information and content librarian.
 
 maddie-smith:
     name: Maddie Smith
@@ -101,6 +120,8 @@ maddie-smith:
 matt-shenton:
     name: Matt Shenton
     job: literacy ambassador
+    img: /images/authors/matt-shenton.jpg
+    bio: I’m the Literacy Ambassador for Suffolk Libraries. Follow my travels around the glorious county of Suffolk @mjes
 
 nicky-evans:
     name: Nicky Evans
@@ -117,11 +138,17 @@ sarah-jenkins:
 sarah-lungley:
     name: Sarah Lungley
     job: mental health and wellbeing co-ordinator
+    img: /images/authors/sarah-lungley.jpg
+    bio: I'm the mental health and wellbeing coordinator at Suffolk Libraries.
 
 sarah-watt:
     name: Sarah Watt
     job: customer service advisor
+    img: /images/authors/sarah-watt.jpg
+    bio: I'm a branch assistant at Rosehill Library in Ipswich.
 
 sophie-green:
     name: Sophie Green
     job: Woodbridge Library assistant manager
+    img: /images/authors/sophie-green.jpg
+    bio: I’m the assistant manager at Woodbridge Library. I also write children’s fiction, short stories and comedy – visit my website. http://www.thelastgiant.com/
