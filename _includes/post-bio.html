@@ -1,0 +1,11 @@
+<article class="pb4 pb5-ns pt1 bt b--light-gray">
+  <h1 class="f4 ma0 pa0 pb1">{% if page.author %}{% assign author = site.data.authors[page.author] %}{{ author.name }}{% endif %}</a></h1>
+  <div class="cf">
+    <div class="custom-g-l5">
+      <p class="ma0">{{ author.bio }}</p>
+    </div>
+    <div class="custom-g-l1 custom-g-nm">
+      <img src="{% if page.author %}{% assign author = site.data.authors[page.author] %}{{ author.img }}{% endif %}" class="ma0 pa0 pb1 br-100" alt="{{ author.name }}" />
+    </div>
+  </div>
+</article>

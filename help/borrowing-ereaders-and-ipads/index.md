@@ -11,6 +11,7 @@ We&#8217;re lending eReaders so you can access our collection of over 7,000 eBoo
 
   * [Gainsborough Community Library](/branches/gainsborough-community-library)
   * [Thurston Library](/branches/thurston-library)
+  * [Woodbridge Library](/branches/woodbridge-library)
 
 ### How to borrow an eReader
 
@@ -43,6 +44,7 @@ The main terms of the loan are:
 ### Libraries that lend iPads
 
   * [Halesworth Library](/branches/halesworth-library)
+  * [Ixworth Library](/branches/ixworth-library)
 
 ### How to borrow an iPad
 
@@ -66,4 +68,4 @@ The main terms of the loan are:
   * Maximum of one iPad to be borrowed per person at a time
   * 3 week loan period with the option to renew (if no outstanding reservations)
   * Overdue charges per day will be the same as print books
-  * If lost or damaged the following charges will be applied: iPad: £200, charger: £12, cover: £10
+  * If lost or damaged the following charges will be applied: iPad: £200, charger: £12, cover: £15

@@ -6,6 +6,7 @@ author: sarah-lungley
 category: health
 excerpt: <cite>Reading Well Books on Prescription</cite> helps you manage your well–being using self–help reading.
 breadcrumb: health
+sidebar: health
 ---
 ![Reading Well Books on Prescription](/images/featured/featured-books-on-prescription.jpg)
 

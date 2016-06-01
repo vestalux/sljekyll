@@ -6,6 +6,7 @@ author: sarah-lungley
 category: health
 excerpt: Books for children from our <cite>Moodboosting</cite> collection.
 breadcrumb: health
+sidebar: health
 ---
 ![Holes by Louis Sachar](/images/featured/featured-holes.jpg)
 

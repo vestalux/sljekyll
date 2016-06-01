@@ -56,3 +56,5 @@ Recently, we noticed a spike in queries about expiring library cards. This promp
 We realised that no re-registration information was available on the website, so we made a form for customers to request a library card renewal. Introducing this form has been good for us and customers – information submitted via the form is quick to process, while customers can re-register their cards without calling us or going into a library.
 
 A centralised customer service team of dedicated staff has enabled us to provide help across several platforms. Our vision for what our library’s customer service should provide has expanded, and we continue to search for new improvements we can make.
+
+{% include post-bio.html %}

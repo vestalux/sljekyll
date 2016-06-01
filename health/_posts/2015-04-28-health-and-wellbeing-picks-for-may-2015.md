@@ -6,6 +6,7 @@ author: david-grimmer
 category: health
 excerpt: Costa-award winning fiction tackling mental health issues.
 breadcrumb: health
+sidebar: health
 ---
 ![Elizabeth is missing by Emma Healey](/images/featured/featured-elizabeth-is-missing.jpg)
 

@@ -6,6 +6,7 @@ author: sarah-lungley
 category: health
 excerpt: Books for older people from our <cite>Moodboosting</cite> collection.
 breadcrumb: health
+sidebar: health
 ---
 ![Selected Stories by Anton Chekhov](/images/featured/featured-selected-stories-by-anton-chekhov.jpg)
 

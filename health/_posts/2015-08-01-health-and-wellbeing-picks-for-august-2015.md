@@ -6,6 +6,7 @@ author: david-grimmer
 category: health
 excerpt: August picks include <cite>Rubbernecker</cite> by Belinda Bauer and <cite>The fault in our stars</cite> by John Green.
 breadcrumb: health
+sidebar: health
 ---
 ![The fault in our stars by John Green](/images/featured/featured-the-fault-in-our-stars.jpg)
 

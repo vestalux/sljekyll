@@ -12,10 +12,10 @@ If you have written a novel, short story or poetry and you want people to read i
 
 What you need to provide:
 
-* A completed piece of work in ePub format (guide: <a href="http://suffolklibraries.co.uk/reading-lists-groups-advice/suffolk-writes/how-to-convert-a-word-document-to-epub">converting a Word doc to ePub</a>) that you own the copyright to
+* A completed piece of work in ePub format (guide: [converting a Word doc to ePub](/events-activities/suffolk-writes/how-to-convert-a-word-document-to-epub/)) that you own the copyright to
 * A brief synopsis or description of your work to appear on the library catalogue
 * Cover artwork, if available (again you must own the copyright) if you do not have a cover we will provide a Suffolk Libraries cover
-* <a href="http://suffolklibraries.co.uk/wp-content/uploads/2015/12/Suffolk-Writes-permissions-form-for-contributors.doc" rel="">Suffolk Writes permissions form for contributors</a> (Word doc)
+* [Suffolk Writes permissions form for contributors](/assets/doc/suffolk-writes-permissions-form-for-contributors.doc) (Word doc)
 
 Suffolk Libraries will:
 
@@ -27,11 +27,11 @@ You'll retain the copyright of any material you submit to Suffolk Libraries and 
 
 Your work will be read by a volunteer reviewer before it is added to our catalogue to ensure that it meets our collection policy criteria. They will be looking at things like the overall presentation, spelling and grammar and the content of your work.
 
-If you have written work to contribute or would be interested in being a volunteer reviewer please email <strong>suffolkwrites@suffolklibraries.co.uk</strong> for more information.
+If you have written work to contribute or would be interested in being a volunteer reviewer please email **suffolkwrites@suffolklibraries.co.uk** for more information.
 
 # Links and documents
 
 * [How to convert your document to ePub](/events-activities/suffolk-writes/how-to-convert-a-word-document-to-epub/)
-* [Suffolk Writes permissions form for contributors](http://suffolklibraries.co.uk/wp-content/uploads/2015/12/Suffolk-Writes-permissions-form-for-contributors.doc) (Word doc)
+* [Suffolk Writes permissions form for contributors](/assets/doc/suffolk-writes-permissions-form-for-contributors.doc) (Word doc)
 
-You can find Suffolk Writes self published ebooks on <a href="http://suffolklibraries.lib.overdrive.com">Overdrive</a>.
+You can find Suffolk Writes self published ebooks on [Overdrive](http://suffolklibraries.lib.overdrive.com).
