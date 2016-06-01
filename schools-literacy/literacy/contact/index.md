@@ -1,16 +1,16 @@
 ---
 layout: sidebar-right
-title: 'Beyond the Book: Contact'
+title: Contact
 breadcrumb: literacy
 sidebar: literacy
 ---
-Matthew Shenton
-Literacy Ambassador for Suffolk Libraries
-Northgate Street,
-Ipswich,
-IP1 3DE.
+Matthew Shenton<br>
+Literacy Ambassador for Suffolk Libraries<br>
+Northgate Street,<br>
+Ipswich,<br>
+IP1 3DE
 
-Mob: 07490498191
-Email: matthew.shenton@suffolklibraries.co.uk
-Web: www.suffolklibraries.co.uk
-Twitter: @mjes
+Mob: 07490498191<br>
+Email: matthew.shenton@suffolklibraries.co.uk<br>
+Web: www.suffolklibraries.co.uk<br>
+Twitter: [@mjes](http://twitter.com/mjes)
