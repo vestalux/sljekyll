@@ -167,7 +167,7 @@ breadcrumb: home
 
             <section class="{% include /c/card.html %}">
 
-                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities">What's on</a></h1>
+                <h1 class="{% include /c/card-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/upcoming/">What's on</a></h1>
 
                 <p class="{% include /c/card-graf.html %}">A list of all special events taking place in Suffolk's libraries.</p>
 
