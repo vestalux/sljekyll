@@ -29,4 +29,4 @@ There are some super blogs written by passionate book lovers. Here are some of o
 * [Thug Notes](https://www.youtube.com/playlist?list=PLghL9V9QTN0jTgA1qrhWrBCB_Ln4xlVlB) - Classic Literature. Original Gangster. From plot debriefs to key motifs, Thug Notes Summary &amp; Analysis has you covered with themes, symbols, important quotes, and more.
 * [Geoff Barton](http://geoffbarton.co.uk/) - Geoff is the headteacher of King Edward VI in Bury St Edmunds. He provides quality teaching resources on his brilliant blog.
 * [Bookbuzz](http://www.bookbuzz.org.uk/) - make sure your school is signed up for this annual programme of free/subsidised books for year 7 pupils. Really good resources for promoting reading for pleasure also.
-* School Library Pack - and also make sure you're signed up for the school library pack. 4o free books and resources!
+* School Library Pack - and also make sure you're signed up for the school library pack. 40 free books and resources!

@@ -10,7 +10,7 @@ Northgate Street,<br>
 Ipswich,<br>
 IP1 3DE
 
-Mob: 07490498191<br>
-Email: matthew.shenton@suffolklibraries.co.uk<br>
-Web: www.suffolklibraries.co.uk<br>
+Mobile: **07490498191**<br>
+Email: **matthew.shenton@suffolklibraries.co.uk**<br>
+Web: [www.suffolklibraries.co.uk](www.suffolklibraries.co.uk)<br>
 Twitter: [@mjes](http://twitter.com/mjes)
