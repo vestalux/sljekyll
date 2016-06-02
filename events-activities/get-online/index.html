@@ -1,0 +1,45 @@
+---
+layout: full-width-narrow
+title: Get online
+hero-image: hero-get-online.jpg
+hero-alt: A member of staff helping a person use a tablet and laptop
+hero-caption: A member of staff helping a person use a tablet and laptop
+breadcrumb: events
+---
+<p>All Suffolk Libraries offer free internet access and informal advice on getting online.</p>
+
+<p>If you have a library card number and a PIN you can <a href="http://netloan.suffolklibraries.co.uk">book a computer online</a>.</p>
+
+<p>Some libraries offer free one to one computer and internet training:</p>
+
+<table class="pure-table">
+  <thead>
+    <tr>
+      <th>Library</th>
+      <th>Activity</th>
+      <th>Day</th>
+      <th>Times</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% assign recurrents = site.recurrents | sort: 'recurrent-location'%}
+    {% for recurrent in recurrents %}
+    {% if recurrent.recurrent-category == 'computer-courses' %}
+    <tr>
+      <td><a href="{{ recurrent.recurrent-location-display-url }}">{{ recurrent.recurrent-location-display-name }}</a></td>
+      <td>{{ recurrent.recurrent-title }}</td>
+      <td>{{ recurrent.recurrent-day }}</td>
+      <td>{{ recurrent.recurrent-times }} </td>
+    </tr>
+    {% endif %}
+    {% endfor %}
+  </tbody>
+</table>
+
+<h2>More information for beginners</h2>
+
+<ul>
+<li><a href="http://www.bbc.co.uk/webwise/0/">BBC WebWise</a></li>
+<li><a href="http://www.learnmyway.com/">Learn My Way</a></li>
+<li>The <a href="http://www.leap.ac.uk/home">Leap</a> project—free and low cost courses in Suffolk.</li>
+</ul>

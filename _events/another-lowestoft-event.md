@@ -6,6 +6,7 @@ location-text: Lowestoft Library
 event-start-date: 2020-01-01
 event-start-time: 1300
 event-end-time: 1400
+event-category: health
 breadcrumb: y
 ---
 

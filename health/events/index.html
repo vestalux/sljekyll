@@ -1,0 +1,47 @@
+---
+layout: sidebar-right
+category: health
+title: Events for your health and wellbeing
+breadcrumb: health
+sidebar: health
+---
+<img src="/images/article/alzheimers-society.jpg" alt="Alzheimers society" />
+
+<h2>What’s happening in my library?</h2>
+
+<p>Here at Suffolk Libraries we pride ourselves on being so much more than just books and lovely knowledgeable staff. Did you know there’s a wide range of activities and events happening all the time in libraries all across Suffolk? Well you do now!</p>
+
+<p><a href="/branches/">Select your local library to see what events are happening.</a></p>
+
+<h3>Upcoming events</h3>
+
+{% assign events = site.events | sort: 'event-start-date'%}
+{% for event in events %}
+  {% if event.event-category == 'health' %}
+    {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
+    {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
+    {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
+    {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+    <p>Evaluating {{ event.name }}: Unix days is {{ now-unix }}, the event time in days is {{ event-time }}</p>
+    {% if now-unix <= event-time %}
+      <article>
+        <header>
+          <h1><a href="{{ event.url }}">{{ event.name }}</a></h1>
+          <p>
+            {% if event.event-end-date %}
+              <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-date | date: "%a %-d %b" }}</span> <span>{{ event.event-end-time }}</span>
+            {% else %}
+              <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-time }}</span>
+            {% endif %}
+          </p>
+        </header>
+      </article>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+<img src="/images/article/suffolk-family-carers.jpg" alt="Suffolk family carers" />
+
+<h2>What’s happening in my community?</h2>
+
+<p>As well as all of the marvelous activities and events in your local library, there are lots of other things happening in your community too. We always want to hear if you are doing anything to support mental health and wellbeing, so if you’re not already included below, please use the contact form to tell us more!</p>
