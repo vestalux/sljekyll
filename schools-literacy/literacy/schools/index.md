@@ -20,14 +20,14 @@ More details about Beyond the Book are below, but use the [contact us](/schools
 
 The project offers a free programme of support to schools which includes:
 
-### Basic offer (we want every school, PRU, etc with Year 7 pupils to receive)
+### Basic offer (we want every school, PRU, etc with Year 7 pupils to receive):
 
 * A visit by the Literacy Ambassador to deliver an introductory assembly to year 7 pupils which will focus on reading for pleasure, literacy and the benefits of the library service.
 * A brand new library card for every year 7 student.
 * A Suffolk Libraries information and activity pack for pupils. These packs will be supplied to schools with supplementary engagement activities for teachers and a guide/letter home for parents and carers.
 * Setting up opportunities for classes to visit their local library.
 
-### The following support is also available
+### The following support is also available:
 
 * Advice and guidance on creating a whole-school reading culture – including setting up _‘Drop Everything and Read’_, how to _‘Get Caught Reading’_, intervention strategies etc.
 * An offer to work with English departments and literacy staff in your school to promote the library service in English lessons and to help with future literacy planning.

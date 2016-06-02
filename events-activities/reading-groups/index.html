@@ -1,0 +1,34 @@
+---
+layout: full-width-narrow
+title: Reading groups that meet in Suffolk libraries
+breadcrumb: events
+---
+<p>Find out <a href="/events-activities/reading-groups/starting-a-reading-group/">how to set up your own reading group in a Suffolk library</a>. We can provide a free, welcoming space for your group and set up a special library account for borrowing more books.</p>
+
+<p>See our <a href="/new-suggestions/">new titles</a> and <a href="/new-suggestions/book-club-ideas/">book club ideas</a> for reading inspiration.</p>
+
+<p>See your <a href="/branches/">local library page</a> for details of when your group meets:</p>
+
+<table class="pure-table">
+  <thead>
+    <tr>
+      <th>Library</th>
+      <th>Reading group</th>
+      <th>Day</th>
+      <th>Times</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% assign recurrents = site.recurrents | sort: 'recurrent-location'%}
+    {% for recurrent in recurrents %}
+    {% if recurrent.recurrent-category == 'reading-groups' %}
+    <tr>
+      <td><a href="{{ recurrent.recurrent-location-display-url }}">{{ recurrent.recurrent-location-display-name }}</a></td>
+      <td>{{ recurrent.recurrent-title }}</td>
+      <td>{{ recurrent.recurrent-day }}</td>
+      <td>{{ recurrent.recurrent-times }} </td>
+    </tr>
+    {% endif %}
+    {% endfor %}
+  </tbody>
+</table>

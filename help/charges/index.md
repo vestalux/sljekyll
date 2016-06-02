@@ -10,19 +10,14 @@ You can pay your library fines over the phone – call 01473 263838.
 <table class="pure-table">
   <thead>
     <tr>
-      <td>
-        Reservations
-      </td>
+      <th>Reservations</th>
+      <th>Costs</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>
-        <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/BSEARCH">Reserve a title</a> which is in stock or on order in Suffolk libraries
-      </td>
-      <td>
-        Free
-      </td>
+      <td><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/BSEARCH">Reserve a title</a> which is in stock or on order in Suffolk libraries</td>
+      <td>Free</td>
     </tr>
     <tr>
       <td>
