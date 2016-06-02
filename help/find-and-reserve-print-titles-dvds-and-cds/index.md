@@ -23,7 +23,7 @@ Try our [fiction, non–fiction, music, children&#8217;s books and DVD film list
 
 Read [our guide to using the catalogue](/help/using-our-online-catalogue/ "Using our online catalogue") to get the best search results.
 
-To find a title you can either do a [quick search](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/BSEARCH) or an [advanced search](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/BSEARCH).
+To find a title you can either do a [quick search](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/BSEARCH) or an [advanced search](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/COMB).
 
 When you perform a search the catalogue will make suggestions as you type. You can either click on one of the suggestions or ignore them.
 
@@ -55,15 +55,12 @@ Reservations take about a week to arrive, but we can&#8217;t guarantee this.
 
 ## eBooks, MP3s or eAudio books
 
-See our [guide to using our eLibrary service](/help/using-our-elibrary-service) for instructions on finding, borrowing and renewing ebooks.
+See our [guides to using our eLibrary services](/help/using-our-elibrary-service) for instructions on finding, borrowing and renewing eBooks or eAudio books.
 
-When you [‘borrow’ an MP3 or eAudio book](/elibrary/ "eLibrary") from us you simply download it to your device.
-
+When you [‘borrow’ an MP3 or eAudio book](/elibrary/) from us you simply download it to your device.
 
 ## Further links
 
 * [Guide to using the online catalogue](/help/using-our-online-catalogue/)
-
 * [Reservation and overdue charges](/help/charges/)
-
-* [Guide to using our eLibrary service](/help/using-our-elibrary-service)
+* [Guide to using our eLibrary service](/help/using-our-elibrary-service/)
