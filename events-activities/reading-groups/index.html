@@ -21,7 +21,7 @@ breadcrumb: events
   <tbody>
     {% assign recurrents = site.recurrents | sort: 'recurrent-location'%}
     {% for recurrent in recurrents %}
-    {% if recurrent.recurrent-category == 'reading-group' %}
+    {% if recurrent.recurrent-category == 'reading-groups' %}
     <tr>
       <td><a href="{{ recurrent.recurrent-location-display-url }}">{{ recurrent.recurrent-location-display-name }}</a></td>
       <td>{{ recurrent.recurrent-title }}</td>

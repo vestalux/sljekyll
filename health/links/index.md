@@ -9,20 +9,43 @@ Here are some of the organisations and information sources available for a varie
 
 ## Table of contents
 
-| <a href="#advocacy">Advocacy and mediation</a> | <a href="#hallucinations">Hallucinations and voice hearing</a> |
-| <a href="#alcohol">Alcohol and drug dependency</a> | <a href="#local">Local organisations</a> |
-| <a href="#anger">Anger management</a> | <a href="#medication">Medication</a> |
-| <a href="#anxiety">Anxiety</a> | <a href="#miscarriage">Miscarriage and postnatal depression</a> |
-| <a href="#ask">Ask for help</a> | <a href="#money">Money &amp; debt</a> |
-| <a href="#bereavement">Bereavement</a> | <a href="#national">National organisations</a> |
-| <a href="#bipolar">Bipolar disorder</a> | <a href="#personality">Personality disorder</a> |
-| <a href="#care">Care act</a> | <a href="#psychosis">Psychosis</a> |
-| <a href="#consult">Consultation</a> | <a href="#schizophrenia">Schizophrenia</a> |
-| <a href="#therapy">Counselling and online therapy</a> | <a href="#selfharm">Self–harm</a> |
-| <a href="#dementia">Dementia</a> | <a href="#sexual">Sexual health</a> |
-| <a href="#depression">Depression</a> | <a href="#stress">Stress</a> |
-| <a href="#employment">Employment</a> | <a href="#suicide">Suicide prevention and family support</a> |
-| <a href="#epilepsy">Epilepsy</a> | |
+<div class="cf">
+	<div class="custom-g-l3">
+	<ul>
+		<li><a href="#advocacy">Advocacy and mediation</a></li>
+		<li><a href="#alcohol">Alcohol and drug dependency</a></li>
+		<li><a href="#anger">Anger management</a></li>
+		<li><a href="#anxiety">Anxiety</a></li>
+		<li><a href="#ask">Ask for help</a></li>
+		<li><a href="#bereavement">Bereavement</a></li>
+		<li><a href="#bipolar">Bipolar disorder</a></li>
+		<li><a href="#care">Care act</a></li>
+		<li><a href="#consult">Consultation</a></li>
+		<li><a href="#therapy">Counselling and online therapy</a></li>
+		<li><a href="#dementia">Dementia</a></li>
+		<li><a href="#depression">Depression</a></li>
+		<li><a href="#employment">Employment</a></li>
+		<li><a href="#epilepsy">Epilepsy</a></li>
+	</ul>
+	</div>
+	<div class="custom-g-l3 custom-g-nm">
+	<ul>
+		<li><a href="#hallucinations">Hallucinations and voice hearing</a></li>
+		<li><a href="#local">Local organisations</a></li>
+		<li><a href="#medication">Medication</a></li>
+		<li><a href="#miscarriage">Miscarriage and postnatal depression</a></li>
+		<li><a href="#money">Money &amp; debt</a></li>
+		<li><a href="#national">National organisations</a></li>
+		<li><a href="#personality">Personality disorder</a></li>
+		<li><a href="#psychosis">Psychosis</a></li>
+		<li><a href="#schizophrenia">Schizophrenia</a></li>
+		<li><a href="#selfharm">Self–harm</a></li>
+		<li><a href="#sexual">Sexual health</a></li>
+		<li><a href="#stress">Stress</a></li>
+		<li><a href="#suicide">Suicide prevention and family support</a></li>
+	</ul>
+	</div>
+</div> <!-- end .cf -->
 
 <h3 id="advocacy">Advocacy and mediation</h3>
 <ul>
@@ -108,7 +131,6 @@ Here are some of the organisations and information sources available for a varie
 	<li><a href="https://www.gov.uk/contact-jobcentre-plus">Job Centre Plus</a> - How to contact your local JobCentre and benefits information</li>
 	<li><a href="http://www.realisefutures.org/our-services/employment">Realise Futures</a> - Employment advisor details, with help from job searching to employment skills</li>
 	<li><a href="http://www.shaw-trust.org.uk/individuals/">Shaw Trust</a> - Specialist help and support to find work</li>
-	<li><a href="http://workwise.org.uk/">Workwise (in partnership with Papworth)</a> Work based training organisation based in Bury St Edmunds</li>
 	<li><a href="http://www.papworthtrust.org.uk/work-and-training">Papworth</a> - Can help you find the job that’s right for you</li>
 	<li><a href="https://www.how2become.com/resources/ultimate-guide-to-building-a-cv/">Ultimate Guide to Building a CV</a> - Step by step guide to writing a CV</li>
 	<li><a href="http://www.youthcentral.vic.gov.au/jobs-careers/applying-for-jobs/how-to-write-a-resume">How to Write a Resume</a> - Includes checklist for CV essentials</li>
@@ -117,8 +139,7 @@ Here are some of the organisations and information sources available for a varie
 <ul>
 	<li><a href="http://www.epilepsysociety.org.uk/">Epilepsy Society</a> - National charity with practical information on the condition, helpline and medical ID cards/jewellery</li>
 	<li><a href="http://www.nhs.uk/conditions/epilepsy/pages/introduction.aspx">NHS Choices</a> - Further information on epilepsy and medication</li>
-	<li><a href="http://infolink.suffolk.gov.uk/kb5/suffolk/infolink/service.page?id=TfeY8MzQurw">Epilepsy Action Support Group</a> - Support group for the west of Suffolk</li>
-	<li><a href="http://infolink.suffolk.gov.uk/kb5/suffolk/infolink/service.page?id=2BP7WWBiihY">Epilepsy Support Group</a> - Support group for Ipswich</li>
+	<li><a href="http://infolink.suffolk.gov.uk/kb5/suffolk/infolink/service.page?id=TfeY8MzQurw">Epilepsy Action Support Group</a> - Support group for Suffolk</li>
 </ul>
 <h3 id="hallucinations">Hallucinations and voice hearing</h3>
 <ul>
@@ -134,7 +155,7 @@ Here are some of the organisations and information sources available for a varie
 	<li><a href="http://www.livewellsuffolk.org.uk">Live Well Suffolk</a> - Valuable practical advice, guidance and courses to improve your physical wellbeing</li>
 	<li><a href="http://www.lofty-heights.org">Lofty Heights</a> - Loft clearing and decluttering service in Suffolk to improve wellbeing</li>
 	<li><a href="http://www.nsft.nhs.uk/Our-services/Pages/Service-Search-Results.aspx">Norfolk and Suffolk Foundation NHS Trust</a> - Find out about inpatient and community services</li>
-	<li><a href="http://www.ipswich-waterfront.co.uk/place/the-phoenix-project-ipswich/">Phoenix Project</a> - Supportive group that meets in Ipswich with details on how to get in touch</li>
+	<li><a href="http://infolink.suffolk.gov.uk/kb5/suffolk/infolink/service.page?id=p8orsprFAcw">The Phoenix Project Club</a> - Supportive group that meets in Ipswich with details on how to get in touch</li>
 	<li><a href="http://www.steppingstonescommunity.com">Stepping Stones</a> - Community support, decluttering services and much more</li>
 	<li><a href="http://infolink.suffolk.gov.uk/kb5/suffolk/infolink/home.page">Suffolk Infolink</a> - Community based database from Suffolk County Council</li>
 	<li><a href="http://www.suffolkmind.org.uk/">Suffolk Mind</a> - Website for mental health charity with opportunities to improve mental wellbeing in Suffolk</li>
