@@ -1,0 +1,8 @@
+---
+recurrent-title: "Baking group: ask library for more details"
+recurrent-day: Tuesday once a month
+recurrent-times: 1430-1530
+recurrent-location: kessingland-library
+recurrent-location-display-name: Kessingland Library
+recurrent-location-display-url: /branches/kessingland-library/
+---
