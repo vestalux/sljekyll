@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: 'Literacy, Books and Reading Team for Schools: About'
+title: Costs
 breadcrumb: schools
 sidebar: schools
 ---

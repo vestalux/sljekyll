@@ -7,6 +7,7 @@ event-start-date: 2018-01-08
 event-end-date: 2018-01-10
 event-start-time: 1300
 event-end-time: 1400
+event-category: schools
 breadcrumb: y
 parent: Events
 ---

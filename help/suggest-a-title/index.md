@@ -8,6 +8,10 @@ Suggest a book, film or music for us to stock.
 
 [Search our catalogue](http://suffolk.spydus.co.uk).
 
+We act on most suggestions, but cannot guarantee to purchase every title.
+
+We'll get back to you with a decision as soon as possible.
+
 <form class="pure-form pure-form-stacked" netlify name="suggest" action="confirmation">
 
     <fieldset>

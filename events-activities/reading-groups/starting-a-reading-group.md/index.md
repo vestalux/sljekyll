@@ -1,6 +1,6 @@
 ---
 layout: full-width-narrow
-title: "Starting a reading group"
+title: Starting a reading group
 breadcrumb: events
 ---
 Check out our [reading group suggestions](/new-suggestions/book-club-lists)

@@ -56,20 +56,90 @@ Under the Copyright, Designs & Patent Act 1988, all unauthorised copies are ille
 
 # Charges
 
-| Subscriptions per annum | Suffolk Groups | Non-Suffolk Groups |
-| ----------------------- | -------------- | ------------------ |
-| Music and Drama Library | £1.75 per member per annum (minimum £10.50) | £3.50 per member per annum (minimum £35.00) |
-| Members of the Schools’ Library Service (LBaRTS) | £50.00 | £100.00 |
+<table class="pure-table">
+  <thead>
+    <tr>
+      <th>Subscriptions per annum</th>
+      <th>Suffolk Groups</th>
+      <th>Non-Suffolk Groups</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Music and Drama Library</td>
+      <td>£1.75 per member per annum (minimum £10.50)</td>
+      <td>£3.50 per member per annum (minimum £35.00)</td>
+    </tr>
+    <tr>
+      <td>Members of the Schools’ Library Service (LBaRTS)</td>
+      <td>£50.00</td>
+      <td>£100.00</td>
+    </tr>
+  </tbody>
+</table>
 
-| Charges | Loan period | Loan charge | Overdue charge | Maximum overdue charge |
-| ------- | ----------- | ----------- | -------------- | ---------------------- |
-| Play sets | 12 weeks | £4.75 | 50p per day | £24.50 |
-| Plays on approval | 1 week | £1.10 | 50p per day | £24.50 |
-| Band music sets | 12 weeks | £9.45 | 50p per day | £24.50 |
-| Chamber music sets | 12 weeks | £4.00 | 50p per day | £24.50 |
-| Orchestral music sets | 12 weeks | £10.50 | 50p per day | £24.50 |
-| Vocal score sets | 12 weeks | £4.75 | 50p per day | £24.50 |
-| Vocal score sets in folders | 12 weeks | £1.55 | 50p per day | £24.50 |
+<table class="pure-table">
+  <thead>
+    <tr>
+      <th>Charges</th>
+      <th>Loan period</th>
+      <th>Loan charge</th>
+      <th>Overdue charge</th>
+      <th>Maximum overdue charge</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Play sets</td>
+      <td>12 weeks</td>
+      <td>£4.75</td>
+      <td>50p per day</td>
+      <td>£24.50</td>
+    </tr>
+    <tr>
+      <td>Plays on approval</td>
+      <td>1 week</td>
+      <td>£1.10</td>
+      <td>50p per day</td>
+      <td>£24.50</td>
+    </tr>
+    <tr>
+      <td>Band music sets</td>
+      <td>12 weeks</td>
+      <td>£9.45</td>
+      <td>50p per day</td>
+      <td>£24.50</td>
+    </tr>
+    <tr>
+      <td>Chamber music sets</td>
+      <td>12 weeks</td>
+      <td>£4.00</td>
+      <td>50p per day</td>
+      <td>£24.50</td>
+    </tr>
+    <tr>
+      <td>Orchestral music sets</td>
+      <td>12 weeks</td>
+      <td>£10.50</td>
+      <td>50p per day</td>
+      <td>£24.50</td>
+    </tr>
+    <tr>
+      <td>Vocal score sets</td>
+      <td>12 weeks</td>
+      <td>£4.75</td>
+      <td>50p per day</td>
+      <td>£24.50</td>
+    </tr>
+    <tr>
+      <td>Vocal score sets in folders</td>
+      <td>12 weeks</td>
+      <td>£1.55</td>
+      <td>50p per day</td>
+      <td>£24.50</td>
+    </tr>
+  </tbody>
+</table>
 
 **Note:** If sets are returned incomplete, there will be an administration charge of £6.50 for each incomplete set.
 

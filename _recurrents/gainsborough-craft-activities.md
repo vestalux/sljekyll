@@ -1,0 +1,9 @@
+---
+recurrent-title: "Craft activities and games for children"
+recurrent-day: Saturday
+recurrent-times: 1400-1600
+recurrent-location: gainsborough-community-library
+recurrent-location-display-name: Gainsborough Community Library
+recurrent-location-display-url: /branches/gainsborough-community-library/
+recurrent-category: children
+---

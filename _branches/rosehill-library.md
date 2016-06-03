@@ -9,7 +9,7 @@ branch-thursday-hours: 0930 – 1700
 branch-friday-hours: 0930 – 1930
 branch-saturday-hours: 0930 – 1700
 branch-sunday-hours: 1100 – 1600
-branch-manager: Mandy Grimwood
+branch-manager: Kate Byford
 branch-address: Tomline Road, Ipswich
 branch-post-code: IP3 8DB
 branch-tel: 01473 719279
