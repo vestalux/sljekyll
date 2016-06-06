@@ -21,6 +21,7 @@ message_link: branches
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
+include: [_redirects]
 
 # SASS settings
 sass:
