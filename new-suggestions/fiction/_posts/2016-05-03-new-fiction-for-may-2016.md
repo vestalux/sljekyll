@@ -11,7 +11,7 @@ breadcrumb: fiction
 
 ## [<cite>Love you dead</cite> by Peter James](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8675251?QRY=CTIBIB%3C%20IRN(60852680)&amp;QRYTEXT=Love%20you%20dead)
 
-<a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8675251?QRY=CTIBIB%3C%20IRN(60852680)&amp;QRYTEXT=Love%20you%20dead"><img src="/images/article/love-you-dead.jpg" class="{% include /c/img-float-left.html %}" alt="Love you dead by Peter James" /></a>
+<a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8675251?QRY=CTIBIB%3C%20IRN(60852680)&amp;QRYTEXT=Love%20you%20dead"><img src="/images/article/love-you-dead.jpg" class="fl mr3 mb3" alt="Love you dead by Peter James" /></a>
 
 <p class="cf">Another case for Detective Superintendent Roy Grace. We are already getting a waiting list for this one. An ugly duckling as a child, Jodie Bentley had two dreams in life - to be beautiful and rich. She's achieved the first, with a little help from a plastic surgeon, and now she's working hard on the second. Her philosophy on money is simple: you can either earn it or marry it. Marrying is easy, it's getting rid of the husband afterwards that's harder, that takes real skill.</p>
 
