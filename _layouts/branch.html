@@ -8,231 +8,446 @@
 
             {% include breadcrumb.html %}
 
-            <h1 class="{% include /c/page-title.html %}">{{ page.branch-name }}</h1>
+            <article>
 
-            <div class="cf">
+                <h1 class="{% include /c/page-title.html %}">{{ page.branch-name }}</h1>
 
-              <div class="custom-g-l3">
+                <div class="cf">
 
-                <img src="{{ page.branch-image }}" />
+                    <div class="custom-g-l3">
 
-              </div>
+                        {% if page.branch-image %}
 
-              <div class="custom-g-l3 custom-g-nm">
-
-                <p class="mt0">{% if page.branch-manager %}
-                  Manager: <strong>{{ page.branch-manager }}</strong>
-                {% endif %}</p>
-
-                <p>{{ page.branch-address }}<br>
-                {{ page.branch-post-code }}</p>
-
-                <p>Tel: <strong>{{ page.branch-tel }}</strong><br>
-                {% if page.branch-fax %}
-                  Fax: <strong>{{ page.branch-fax }}</strong><br>
-                {% endif %}
-                Email: <strong><a href="mailto:help@suffolklibraries.co.uk">help@suffolklibraries.co.uk</a></strong><br>
-                {% if page.branch-friends-url %}
-                  Friends group: <a href="{{ page.branch-friends-url }}">{{ page.branch-friends }}</a><br>
-                  {% elsif page.branch-friends %}
-                  Friends group: {{ page.branch-friends }}<br>
-                  {% else %}
-                {% endif %}
-                {% if page.branch-social-media %}
-                  Social media:
-                    {% if page.branch-facebook %}
-                      <a href="http://www.facebook.com/{{ page.branch-facebook }}">Facebook</a>
-                    {% endif %}
-                    {% if page.branch-twitter %}
-                        <a href="http://www.twitter.com/{{ page.branch-twitter }}">Twitter</a>
-                    {% endif %}
-                    {% if page.branch-instagram %}
-                        <a href="http://www.instagram.com/{{ page.branch-instagram }}">Instagram</a>
-                    {% endif %}
-                    {% if page.branch-pinterest %}
-                        <a href="http://www.pinterest.com/{{ page.branch-pinterest }}">Pinterest</a>
-                    {% endif %}</p>
-                {% endif %}
-
-              </div>
-
-            </div>
-
-            <div class="cf">
-
-              <div class="custom-g-l3">
-
-                <h2>Facilities</h2>
-
-                <ul>
-                  {% if page.branch-wifi %}
-                    <li>
-                      Free wifi available
-                    </li>
-                    <li>
-                      <a href="/help/printing-copying-scanning">Scanning, printing and photocopying facilities</a>
-                    </li>
-                  {% endif %}
-                  {% if page.branch-accessibility %}
-                    <li>
-                      <a href="{{ page.branch-accessibility }}">Accessibility information</a>
-                    </li>
-                  {% endif %}
-                </ul>
-
-                {% if page.branch-room-hire %}
-                  <a class="pure-button pure-button-primary" href="{{ page.branch-room-hire }}">Room hire</a>
-                {% endif %}
-
-                {% if page.branch-display-space %}
-                <h3>Display space</h3>
-                  <p>
-                    {{ page.branch-display-space }}
-                  </p>
-                {% endif %}
-
-              </div>
-
-              <div class="custom-g-l3 custom-g-nm">
-
-                <h2>Opening hours</h2>
-
-                <table class="pure-table">
-                  <thead>
-                    <tr>
-                      <th>Day</th>
-                      <th>Hours</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr>
-                      <td>Monday</td>
-                      <td>{{ page.branch-monday-hours }}</td>
-                    </tr>
-                    <tr>
-                      <td>Tuesday</td>
-                      <td>{{ page.branch-tuesday-hours }}</td>
-                    </tr>
-                    <tr>
-                      <td>Wednesday</td>
-                      <td>{{ page.branch-wednesday-hours }}</td>
-                    </tr>
-                    <tr>
-                      <td>Thursday</td>
-                      <td>{{ page.branch-thursday-hours }}</td>
-                    </tr>
-                    <tr>
-                      <td>Friday</td>
-                      <td>{{ page.branch-friday-hours }}</td>
-                    </tr>
-                    <tr>
-                      <td>Saturday</td>
-                      <td>{{ page.branch-saturday-hours }}</td>
-                    </tr>
-                    <tr>
-                      <td>Sunday</td>
-                      <td>{{ page.branch-sunday-hours }}</td>
-                    </tr>
-                  </tbody>
-                </table>
-
-              </div>
-
-            </div>
-
-            <div class="cf">
-
-              <div class="custom-g-l3">
-
-                <h2>Regular events and activities</h2>
-
-                <table class="pure-table">
-                  <thead>
-                    <tr>
-                      <th>Event</th>
-                      <th>Days</th>
-                      <th>Times</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-
-                    {% assign current = page.branch-unique-id %}
-
-                    {% assign recurrents = site.recurrents | sort: 'recurrent-category'%}
-
-                    {% for recurrent in recurrents %}
-
-                          {% if recurrent.recurrent-location == current %}
-
-                            <tr>
-                                <td>{{ recurrent.recurrent-title }}</td>
-                                <td>{{ recurrent.recurrent-day }}</td>
-                                <td>{{ recurrent.recurrent-times }} </td>
-                            </tr>
+                            <img src="{{ page.branch-image }}" />
 
                         {% endif %}
 
-                    {% endfor %}
+                    </div>
 
-                  </tbody>
+                    <section class="custom-g-l3 custom-g-nm" id="details">
 
-                </table>
+                        <p class="mt0">{% if page.branch-manager %}
+                        Manager: <strong>{{ page.branch-manager }}</strong>
+                        {% endif %}</p>
 
-              </div>
+                        <p>{{ page.branch-address }}<br>
+                        {{ page.branch-post-code }}</p>
 
-              <div class="custom-g-l3 custom-g-nm">
+                        <p>Tel: <strong>{{ page.branch-tel }}</strong><br>
+                        {% if page.branch-fax %}
+                        Fax: <strong>{{ page.branch-fax }}</strong><br>
+                        {% endif %}
+                        Email: <strong><a href="mailto:help@suffolklibraries.co.uk">help@suffolklibraries.co.uk</a></strong><br>
+                        {% if page.branch-friends-url %}
+                        Friends group: <a href="{{ page.branch-friends-url }}">{{ page.branch-friends }}</a><br>
+                        {% elsif page.branch-friends %}
+                        Friends group: {{ page.branch-friends }}<br>
+                        {% else %}
+                        {% endif %}
+                        {% if page.branch-social-media %}
+                        Social media:
+                        {% if page.branch-facebook %}
+                        <a href="http://www.facebook.com/{{ page.branch-facebook }}">Facebook</a>
+                        {% endif %}
+                        {% if page.branch-twitter %}
+                        <a href="http://www.twitter.com/{{ page.branch-twitter }}">Twitter</a>
+                        {% endif %}
+                        {% if page.branch-instagram %}
+                        <a href="http://www.instagram.com/{{ page.branch-instagram }}">Instagram</a>
+                        {% endif %}
+                        {% if page.branch-pinterest %}
+                        <a href="http://www.pinterest.com/{{ page.branch-pinterest }}">Pinterest</a>
+                        {% endif %}</p>
+                        {% endif %}
 
-            <h2>Upcoming events</h2>
+                    </section> <!-- end #details -->
 
-            {% assign current = page.branch-unique-id %}
+                </div>
 
-        	{% assign events = site.events | sort: 'event-start-date'%}
+                <div class="cf mt4 pt3 bt b--light-gray">
 
-        	{% for event in events %}
+                    <section class="custom-g-l3" id="facilities">
 
-                {% if event.location == current %}
+                        <section>
 
-                {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
+                            <h1 class="f3 ma0 mb3 custom-lh-title">Facilities</h2>
 
-                {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
+                            <ul>
 
-                {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
+                                {% if page.branch-wifi %}
+                                <li>
+                                Free wifi available
+                                </li>
+                                <li>
+                                <a href="/help/printing-copying-scanning">Scanning, printing and photocopying facilities</a>
+                                </li>
+                                {% endif %}
+                                {% if page.branch-accessibility %}
+                                <li>
+                                <a href="{{ page.branch-accessibility }}">Accessibility information</a>
+                                </li>
+                                {% endif %}
 
-                {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+                            </ul>
 
-                <p>Evaluating {{ event.name }}: Unix days is {{ now-unix }}, the event time in days is {{ event-time }}</p>
+                        </section>
 
-                    {% if now-unix <= event-time %}
+                        <section>
 
-                    	<article>
+                            {% if page.branch-room-hire %}
 
-                            <header>
+                                <p><a class="pure-button pure-button-primary" href="{{ page.branch-room-hire }}">Room hire</a></p>
 
-                    		    <h1 class="listing-title"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+                            {% endif %}
 
-                                <p class="listing-meta secondary">
+                            {% if page.branch-display-space %}
 
-                                {% if event.event-end-date %}
+                                <h1 class="f4 ma0 mb2 custom-lh-title">Display space</h1>
 
-                                     <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-date | date: "%a %-d %b" }}</span> <span>{{ event.event-end-time }}</span>
+                                <p>{{ page.branch-display-space }}</p>
 
-                                {% else %}
+                            {% endif %}
 
-                                     <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-time }}</span>
+                        </section>
+
+                    </section> <!-- end #facilities -->
+
+                    <section class="custom-g-l3 custom-g-nm" id="opening-hours">
+
+                        <h1 class="f3 ma0 mb3 custom-lh-title">Opening hours</h1>
+
+                        <table class="pure-table">
+                        <thead>
+                        <tr>
+                        <th>Day</th>
+                        <th>Hours</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                        <td>Monday</td>
+                        <td>{{ page.branch-monday-hours }}</td>
+                        </tr>
+                        <tr>
+                        <td>Tuesday</td>
+                        <td>{{ page.branch-tuesday-hours }}</td>
+                        </tr>
+                        <tr>
+                        <td>Wednesday</td>
+                        <td>{{ page.branch-wednesday-hours }}</td>
+                        </tr>
+                        <tr>
+                        <td>Thursday</td>
+                        <td>{{ page.branch-thursday-hours }}</td>
+                        </tr>
+                        <tr>
+                        <td>Friday</td>
+                        <td>{{ page.branch-friday-hours }}</td>
+                        </tr>
+                        <tr>
+                        <td>Saturday</td>
+                        <td>{{ page.branch-saturday-hours }}</td>
+                        </tr>
+                        <tr>
+                        <td>Sunday</td>
+                        <td>{{ page.branch-sunday-hours }}</td>
+                        </tr>
+                        </tbody>
+                        </table>
+
+                    </section> <!-- end #opening-hours -->
+
+                </div>
+
+                <div class="cf mt4 pt3 bt b--light-gray">
+
+                    <section class="custom-g-l3" id="regular-events">
+
+                        <h1 class="f3 ma0 mb3 custom-lh-title">Regular events and activities</h1>
+
+                        <section class="pb2">
+
+                            <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Children's events</h1>
+
+                                {% assign children-check = false %}
+
+                                {% assign current = page.branch-unique-id %}
+
+                                {% assign recurrents = site.recurrents | sort: 'recurrent-category'%}
+
+                                {% for recurrent in recurrents %}
+
+                                    {% if recurrent.recurrent-location == current and recurrent.recurrent-category == "children" %}
+
+                                        {% assign children-check = true %}
+
+                                        <article class="pb3">
+
+                                            <h1 class="f5 normal ma0 mb1 custom-lh-title">{{ recurrent.recurrent-title }}</h1>
+
+                                            <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
+
+                                        </article>
+
+                                    {% endif %}
+
+                                {% endfor %}
+
+                                {% if children-check == false %}<p class="{% include /c/page-meta.html %} mb3">No children's events.</p>{% endif %}
+
+                            </section>
+
+                            <section class="pb2">
+
+                                <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Older people's events</h1>
+
+                                {% assign older-check = false %}
+
+                                {% assign current = page.branch-unique-id %}
+
+                                {% assign recurrents = site.recurrents | sort: 'recurrent-category'%}
+
+                                {% for recurrent in recurrents %}
+
+                                    {% if recurrent.recurrent-location == current and recurrent.recurrent-category == "older" %}
+
+                                        {% assign older-check = true %}
+
+                                        <article class="pb3">
+
+                                            <h1 class="f5 normal ma0 mb1 custom-lh-title">{{ recurrent.recurrent-title }}</h1>
+
+                                            <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
+
+                                        </article>
+
+                                    {% endif %}
+
+                                {% endfor %}
+
+                                {% if older-check == false %}<p class="{% include /c/page-meta.html %} mb3">No older people's events.</p>{% endif %}
+
+                            </section>
+
+                            <section class="pb2">
+
+                                <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Reading groups</h1>
+
+                                {% assign reading-group-check = false %}
+
+                                {% assign current = page.branch-unique-id %}
+
+                                {% assign recurrents = site.recurrents | sort: 'recurrent-category'%}
+
+                                {% for recurrent in recurrents %}
+
+                                    {% if recurrent.recurrent-location == current and recurrent.recurrent-category == "reading-groups" %}
+
+                                        {% assign reading-group-check = true %}
+
+                                        <article class="pb3">
+
+                                            <h1 class="f5 normal ma0 mb1 custom-lh-title">{{ recurrent.recurrent-title }}</h1>
+
+                                            <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
+
+                                        </article>
+
+                                    {% endif %}
+
+                                {% endfor %}
+
+                                {% if reading-group-check == false %}<p class="{% include /c/page-meta.html %} mb3">No reading group events.</p>{% endif %}
+
+                            </section>
+
+                            <section class="pb2">
+
+                                <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Writing groups</h1>
+
+                                {% assign writing-group-check = false %}
+
+                                {% assign current = page.branch-unique-id %}
+
+                                {% assign recurrents = site.recurrents | sort: 'recurrent-category'%}
+
+                                {% for recurrent in recurrents %}
+
+                                    {% if recurrent.recurrent-location == current and recurrent.recurrent-category == "writing-groups" %}
+
+                                        {% assign writing-group-check = true %}
+
+                                        <article class="pb3">
+
+                                            <h1 class="f5 normal ma0 mb1 custom-lh-title">{{ recurrent.recurrent-title }}</h1>
+
+                                            <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
+
+                                        </article>
+
+                                    {% endif %}
+
+                                {% endfor %}
+
+                                {% if writing-group-check == false %}<p class="{% include /c/page-meta.html %} mb3">No writing group events.</p>{% endif %}
+
+                            </section>
+
+                            <section class="pb2">
+
+                                <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Computer courses</h1>
+
+                                {% assign computer-check = false %}
+
+                                {% assign current = page.branch-unique-id %}
+
+                                {% assign recurrents = site.recurrents | sort: 'recurrent-category'%}
+
+                                {% for recurrent in recurrents %}
+
+                                    {% if recurrent.recurrent-location == current and recurrent.recurrent-category == "computer-courses" %}
+
+                                        {% assign computer-check = true %}
+
+                                        <article class="pb3">
+
+                                            <h1 class="f5 normal ma0 mb1 custom-lh-title">{{ recurrent.recurrent-title }}</h1>
+
+                                            <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
+
+                                        </article>
+
+                                    {% endif %}
+
+                                {% endfor %}
+
+                                {% if computer-check == false %}<p class="{% include /c/page-meta.html %} mb3">No computer courses.</p>{% endif %}
+
+                            </section>
+
+                            <section class="pb2">
+
+                                <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Language courses</h1>
+
+                                {% assign language-check = false %}
+
+                                {% assign current = page.branch-unique-id %}
+
+                                {% assign recurrents = site.recurrents | sort: 'recurrent-category'%}
+
+                                {% for recurrent in recurrents %}
+
+                                    {% if recurrent.recurrent-location == current and recurrent.recurrent-category == "language-courses" %}
+
+                                        {% assign language-check = true %}
+
+                                        <article class="pb3">
+
+                                            <h1 class="f5 normal ma0 mb1 custom-lh-title">{{ recurrent.recurrent-title }}</h1>
+
+                                            <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
+
+                                        </article>
+
+                                    {% endif %}
+
+                                {% endfor %}
+
+                                {% if language-check == false %}<p class="{% include /c/page-meta.html %} mb3">No language courses.</p>{% endif %}
+
+                            </section>
+
+                            <section class="pb2">
+
+                                <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Arts &amp; crafts</h1>
+
+                                {% assign arts-check = false %}
+
+                                {% assign current = page.branch-unique-id %}
+
+                                {% assign recurrents = site.recurrents | sort: 'recurrent-category'%}
+
+                                {% for recurrent in recurrents %}
+
+                                    {% if recurrent.recurrent-location == current and recurrent.recurrent-category == "arts-crafts" %}
+
+                                        {% assign arts-check = true %}
+
+                                        <article class="pb3">
+
+                                            <h1 class="f5 normal ma0 mb1 custom-lh-title">{{ recurrent.recurrent-title }}</h1>
+
+                                            <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
+
+                                        </article>
+
+                                    {% endif %}
+
+                                {% endfor %}
+
+                                {% if arts-check == false %}<p class="{% include /c/page-meta.html %} mb3">No arts &amp; crafts events.</p>{% endif %}
+
+                            </section>
+
+                        </section> <!-- end #regular-events -->
+
+                        <section class="custom-g-l3 custom-g-nm" id="upcoming-events">
+
+                            <h1 class="f3 ma0 mb3 custom-lh-title">Upcoming special events</h1>
+
+                            {% assign special-event-check = false %}
+
+                            {% assign current = page.branch-unique-id %}
+
+                            {% assign events = site.events | sort: 'event-start-date'%}
+
+                            {% for event in events %}
+
+                                {% if event.location == current %}
+
+                                    {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
+
+                                    {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
+
+                                    {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
+
+                                    {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+
+                                    {% if now-unix <= event-time %}
+
+                                        {% assign special-event-check = true %}
+
+                                        <article class="pb3">
+
+                                            <h1 class="f5 normal ma0 mb1 custom-lh-title"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+                                            <p class="{% include /c/page-meta.html %}">
+
+                                            {% if event.event-end-date %}
+
+                                                <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-date | date: "%a %-d %b" }}</span> <span>{{ event.event-end-time }}</span>
+
+                                                {% else %}
+
+                                                <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-time }}</span>
+
+                                            {% endif %}
+
+                                        </article>
+
+                                    {% endif %}
 
                                 {% endif %}
 
-                            </header>
+                            {% endfor %}
 
-                    	</article>
+                            {% if special-event-check == false %}<p class="{% include /c/page-meta.html %} mb3">No upcoming special events.</p>{% endif %}
 
-                    {% endif %}
+                        </section> <!-- end #upcoming-events -->
 
-                {% endif %}
+                    </div>
 
-        	{% endfor %}
-
-        </div>
+            </article>
 
         </main>
 
