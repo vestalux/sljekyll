@@ -1,12 +1,16 @@
 ---
-layout: post
-title: 'Go &#8216;Beyond the Book&#8217; with the author of Stonebird'
+layout: sidebar-right
+title: Go &#8216;Beyond the Book&#8217; with the author of Stonebird
 date: 2015-11-17 09:03:37+00:00
 author: matt-shenton
 category: literacy
 excerpt: We review the exceptional <cite>Stonebird</cite> and find out what's on author Mike Revell's bookshelf!
+breadcrumb: literacy
+sidebar: literacy
 ---
-<figure class="figure alignleft">[<img src="http://suffolklibraries.co.uk/wp-content/uploads/2015/11/Paris-gargoyle-174x300.jpg" alt="Paris Gargoyle" width="174" height="300" />](http://suffolklibraries.co.uk/wp-content/uploads/2015/11/Paris-gargoyle.jpg)<figcaption>The famous Paris Gargoyle</figcaption></figure>
+![Stonebird by Mike Revell](/images/featured/featured-stonebird.jpg)
+
+<img src="/images/article/paris-gargoyle.jpg" alt="Paris Gargoyle" class="fl mr2" />
 
 <cite>Stonebird</cite> was thrust into my hands in Felixstowe back in September by an enthusiastic librarian (is there any other kind…?). Within five minutes of starting it I was hooked. When I closed the cover for the final time a day later my head had a nice swirly feeling and I am sure I radiated a warm glow that could be seen.
 
