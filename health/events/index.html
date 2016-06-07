@@ -22,7 +22,6 @@ sidebar: health
     {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
     {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
     {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
-    <p>Evaluating {{ event.name }}: Unix days is {{ now-unix }}, the event time in days is {{ event-time }}</p>
     {% if now-unix <= event-time %}
       <article>
         <header>
