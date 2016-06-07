@@ -1,15 +1,18 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Anti-Bullying Week: A booklist for children and young people'
 date: 2015-11-16 10:13:23+00:00
 author: matt-shenton
 category: literacy
 excerpt: We look at a range books to help celebrate kindness during Anti-Bullying Week.
+breadcrumb: literacy
+sidebar: literacy
 ---
-This week is Anti-Bullying Week. Bullying can happen to <a href="https://www.childline.org.uk/Explore/Bullying/Pages/Bullying.aspx" target="_blank">anyone, at any age and anywhere.</a>
+![Anti-Bullying Week](/images/featured/featured-anti-bullying-week.jpg)
 
-<div class="flex-video">
-</div>
+This week is Anti-Bullying Week. Bullying can happen to [anyone, at any age and anywhere](https://www.childline.org.uk/Explore/Bullying/Pages/Bullying.aspx).
+
+<iframe src="https://www.youtube.com/embed/f1lzcEq8WgI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 We have compiled a range of fiction books that explore themes and topics such as bullying, anxiety, friendship and acceptance to aid discussion and help celebrate kindness throughout the week. There are also some non-fiction books, links to resources and helpline numbers if you need someone to talk to.
 
