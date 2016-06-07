@@ -7,7 +7,7 @@ category: news
 excerpt: Westbourne Library in Ipswich will be officially changing its name to Broomhill Library next Saturday (4 July) at the annual Broomhill Summer Fete.
 breadcrumb: news
 ---
-Westbourne Library in Ipswich will be officially changing its name to [Broomhill Library](http://suffolklibraries.co.uk/branches/broomhill-library) next Saturday (4 July) at the annual Broomhill Summer Fete.
+Westbourne Library in Ipswich will be officially changing its name to [Broomhill Library](/branches/broomhill-library/) next Saturday (4 July) at the annual Broomhill Summer Fete.
 
 The renaming will be marked when the Mayor of Ipswich Glen Chisholm opens the fete.
 
@@ -15,9 +15,13 @@ Everyone is welcome to join in the celebrations. The event runs from 12pm to 4pm
 
 The library’s name change was proposed by the Westbourne Library Friends group (soon to be known as The Friends of Broomhill Library). They felt that the library was more closely associated with the nearby Broomhill Park and that a new name would better reflect the community that the library serves. An extensive consultation exercise with local people resulted in nearly 80% of people voting in favour of changing the name and the proposal was then approved by the Suffolk Libraries Board and Suffolk County Council.
 
-Garath Jones, Chairman of Westbourne Library Friends said: “The proposed name change represents far more than a cosmetic change. The library is at the centre of our community, and our group is working hard to bring the community together. It’s quite a subtle change, yet it’s one which has been positively received and we believe will further strengthen the history of our area and project it to our community and beyond.”
+Garath Jones, Chairman of Westbourne Library Friends said:
 
-Tony Brown, Chair of Suffolk Libraries Board, said: “We were happy to endorse this change which is a great example of our community groups suggesting new ways in which their libraries can engage with local people. The new name will hopefully give the library a stronger identity and help it to reach out to more people in the area it serves.”
+>The proposed name change represents far more than a cosmetic change. The library is at the centre of our community, and our group is working hard to bring the community together. It’s quite a subtle change, yet it’s one which has been positively received and we believe will further strengthen the history of our area and project it to our community and beyond.
+
+Tony Brown, Chair of Suffolk Libraries Board, said:
+
+>We were happy to endorse this change which is a great example of our community groups suggesting new ways in which their libraries can engage with local people. The new name will hopefully give the library a stronger identity and help it to reach out to more people in the area it serves.
 
 ## Background information
 

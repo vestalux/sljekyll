@@ -23,5 +23,6 @@ Literacy levels in Suffolk remain a key challenge and one person in six struggle
 
 Matt has joined Suffolk Libraries from the Four Dwellings Academy in Quinton, Birmingham where he was School Librarian and Head of Key Stage 3.
 
-[Literacy Ambassador Matt Shenton in the children’s library at Ipswich County Library.](http://suffolklibraries.co.uk/wp-content/uploads/2015/08/matt-shenton-in-the-library.jpg)
-Literacy Ambassador Matt Shenton in the children’s library at Ipswich County Library.
+![Literacy Ambassador Matt Shenton in the children’s library at Ipswich County Library.](/images/article/matt-shenton-in-the-library.jpg)
+
+*Literacy Ambassador Matt Shenton in the children’s library at Ipswich County Library.*

@@ -11,6 +11,6 @@ We&#8217;re pleased to announce the winning stories from our Brave New Reads ins
 
 The winners are as follows:
 
-  * 1st Prize: [Kate Steele&#8217;s story](http://suffolklibraries.co.uk/wp-content/uploads/2015/08/Brave-Words-Kate-Steele-1st-prize.pdf) (PDF)
-  * 2nd Prize: [Steven Kirby&#8217;s story](http://suffolklibraries.co.uk/wp-content/uploads/2015/08/Brave-Words-Stephen-Kirby-2nd-prize.pdf) (PDF)
-  * 3rd Prize: [Elizabeth Cope&#8217;s story](http://suffolklibraries.co.uk/wp-content/uploads/2015/08/Brave-Words-Elizabeth-Cope-3rd-prize.pdf) (PDF)
+* 1st Prize: [Kate Steele&#8217;s story](/assets/pdf/brave-words-1-kate-steele.pdf) (PDF)
+* 2nd Prize: [Steven Kirby&#8217;s story](/assets/pdf/brave-words-2-stephen-kirby.pdf) (PDF)
+* 3rd Prize: [Elizabeth Cope&#8217;s story](/assets/pdf/brave-words-3-elizabeth-cope.pdf) (PDF)

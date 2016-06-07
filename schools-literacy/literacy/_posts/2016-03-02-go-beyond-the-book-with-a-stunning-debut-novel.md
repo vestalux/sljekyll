@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Go &#8216;Beyond the Book&#8217; with a stunning debut novel'
 date: 2016-03-02 11:42:49+00:00
 author: matt-shenton
 category: literacy
 excerpt: "Once a year, Teva separates into two, leaving a younger version of herself stuck at the same age. Dive into the astonishing world of 'More of Me'."
+breadcrumb: literacy
+sidebar: literacy
 ---
 <figure><img class="alignright" src="http://suffolklibraries.co.uk/wp-content/uploads/2016/03/9781474903028-more-of-me-99x150.jpg" alt="More of Me book cover" /></figure>
 

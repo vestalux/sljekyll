@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Go &#8216;Beyond the Book&#8217; with the author of The World of Norm'
 date: 2015-12-17 12:55:19+00:00
 author: matt-shenton
 category: literacy
 excerpt: "Ever get the feeling you've been cheated? Or have you ever been tempted to shave a dog? If so, The World of Norm might just be for you!"
+breadcrumb: literacy
+sidebar: literacy
 ---
 In my previous life as a school librarian I never had the chance to read any of the [<cite>Norm</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/24046409?QRY=SEBIB%3C%20IRN(6071865)&QRYTEXT=World%20of%20Norm) books. In fact it was rare to see one for months at a time they were so popular. Eventually I would be presented with a pile of scruffy bits of paper that must have once looked like a book. The pages would be dog-eared and damp with tears of laughter from the many children who had read it. And with that the book had reached the end of its natural life and was ‘retired’, with great reverence, to the library in the sky, and a new copy bought.<figure>
 

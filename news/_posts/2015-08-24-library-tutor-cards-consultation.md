@@ -1,5 +1,5 @@
 ---
-post: sidebar-right
+layout: sidebar-right
 title: Library tutor cards consultation
 date: 2015-08-24 10:46:21+00:00
 author: james-powell
@@ -11,6 +11,6 @@ A review of our Schools Library Service highlighted that we have over 1000 tut
 
 If you have a tutor card, please [take this short survey](https://www.surveymonkey.com/r/SLtutorcards) and provide proof that you are eligible for your tutor card.
 
-You can also respond by letter. Here is the consultation letter: [Suffolk Libraries tutor cards consultation August 2015](http://suffolklibraries.co.uk/wp-content/uploads/2015/08/Suffolk-Libraries-tutor-cards-consultation-August-2015.docx) (Word .doc)
+You can also respond by letter. Here is the consultation letter: [Suffolk Libraries tutor cards consultation August 2015](/assets/doc/suffolk-libraries-tutor-cards-consultation-august-2015.doc) (Word .doc)
 
 For queries, please email **tutor.cards@suffolklibraries.co.uk**.

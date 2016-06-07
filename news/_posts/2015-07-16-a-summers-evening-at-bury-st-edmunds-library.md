@@ -16,6 +16,8 @@ There will also be a performance by a duo of operatic voices and the event is be
 
 The event is being held to raise money to improve the library environment with some new furniture for customers.
 
-Neil Holmes, Manager of Bury Library, said: “We wanted to look at how we could use the library space in new and exciting ways. Part of the fun of the evening will be showcasing what Bury Library can offer and showing customers what it’s like to experience different events and entertainment in the traditional library space they may use during the day. We are also aiming to raise funds to further improve the library environment.”
+Neil Holmes, Manager of Bury Library, said:
+
+>We wanted to look at how we could use the library space in new and exciting ways. Part of the fun of the evening will be showcasing what Bury Library can offer and showing customers what it’s like to experience different events and entertainment in the traditional library space they may use during the day. We are also aiming to raise funds to further improve the library environment.
 
 The event is being supported by Bury Theatre Workshop, Casa Del Mar, Rodwell Farm Dairy, Butterworths, Fen Farm Dairy, Emmett’s, Suffolk Farmhouse Cheeses, The Bury Chocolate Shop, The Apex, Abbeygate Cinema, The Handmade Shop and the Society of East Anglian Watercolourists.

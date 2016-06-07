@@ -13,7 +13,7 @@ Glemsford will be increasing its opening times by two hours and Thurston will be
 
 ## Glemsford Library new hours from Monday 14 September
 
-<table>
+<table class="pure-table">
   <tr>
     <td>
       Day
@@ -99,7 +99,7 @@ This amounts to the library being open for an extra two hours a week which is be
 
 ## Thurston Library new hours from Monday 14 September
 
-<table>
+<table class="pure-table">
   <tr>
     <td>
       Day

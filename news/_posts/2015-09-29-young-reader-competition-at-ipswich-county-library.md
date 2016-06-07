@@ -14,5 +14,3 @@ The Ipswich County Library Reading Championship of 2015 will will celebrate read
 Entry is simple. Write about and draw one of your favourite library book characters. Return your entry using the form we provide to Ipswich County Library.
 
 The competition&#8217;s open until Wednesday 28 October. Library staff will draw the winners on Thursday 29 October at 11.00 after _Stories on the Sofa_. Prizes include a Kobo eReader and Reading Champions T-shirts.
-
-[Download an entry form](http://suffolklibraries.co.uk/wp-content/uploads/2015/09/Ipswich-Library-Reading-Champion-2015-entry-form.pdf).

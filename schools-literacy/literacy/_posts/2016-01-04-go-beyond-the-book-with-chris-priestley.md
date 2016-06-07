@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Go &#8216;Beyond the Book&#8217; with Chris Priestley'
 date: 2016-01-04 09:32:17+00:00
 author: matt-shenton
 category: literacy
 excerpt: "We start 2016 with a bang by going 'Beyond the Book' with the author of our favorite book of 2015!"
+breadcrumb: literacy
+sidebar: literacy
 ---
 > Frank looked down at his plate. The vegetables, once perhaps an appetising and inviting shade of green, had been boiled to the point of translucency. The potatoes were dust grey and dry like masonry rubble. There was a piece of indeterminate meat that looked as though it had been pickled in formaldehyde for a century or two. He stabbed it with his fork and it deflated flatulently.
 >

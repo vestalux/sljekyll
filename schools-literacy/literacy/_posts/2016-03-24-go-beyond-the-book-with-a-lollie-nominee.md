@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Go &#8216;Beyond the Book&#8217; with a Lollie nominee!'
 date: 2016-03-24 15:31:10+00:00
 author: matt-shenton
 category: literacy
 excerpt: "Come 'Beyond the Book' and meet Emily Sparkes as she tries to make sense of the mayhem around her. She will make you cry with laughter!"
+breadcrumb: literacy
+sidebar: literacy
 ---
 I love funny books, who doesn’t? And the latest whirlwind adventure starring the lovable [Emily Sparkes](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/23683393?QRY=CAUBIB%3C%20IRN(45860399)&QRYTEXT=Fitzgerald%2C%20Ruth%2C%20author) is most definitely a very funny book. Welcome to _[Emily Sparkes and the Friendship Fiasco](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/23726505?QRY=CTIBIB%3C%20IRN(45624747)&QRYTEXT=Emily%20Sparkes%20and%20the%20friendship%20fiasco)_ by Ruth Fitzgerald!
 

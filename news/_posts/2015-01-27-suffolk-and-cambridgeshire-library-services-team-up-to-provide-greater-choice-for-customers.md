@@ -15,9 +15,13 @@ The arrangement will benefit customers, particularly those people living near th
 
 Both Suffolk and Cambridgeshire library services use the same library catalogue system which makes it easier to share the online catalogue. The project to share both library catalogues to people in is being launched in 2015 through the Shared Partnership in the East (SPINE) project.
 
-Alison Wheeler, General Manager of Suffolk Libraries, said: “This new partnership project will benefit people in Suffolk and Cambridgeshire by creating access to an even greater choice of titles and more places where people from both counties can borrow and return a library loan.”
+Alison Wheeler, General Manager of Suffolk Libraries, said:
 
-Christine May, Head of Community & Cultural Services and Chair of the SPINE partnership, said: “We’re pleased to have teamed up with Suffolk Libraries. The project has improved customer choice, access to libraries and the availability of titles. SPINE is just one of the many ways we’re working with other organisations to improve customer service.”
+>This new partnership project will benefit people in Suffolk and Cambridgeshire by creating access to an even greater choice of titles and more places where people from both counties can borrow and return a library loan.
+
+Christine May, Head of Community & Cultural Services and Chair of the SPINE partnership, said:
+
+>We’re pleased to have teamed up with Suffolk Libraries. The project has improved customer choice, access to libraries and the availability of titles. SPINE is just one of the many ways we’re working with other organisations to improve customer service.
 
 Library customers will be able to reserve items and have them sent to their nearest library for a &pound;1 charge to cover the additional cost of moving items from one county to the other. The cost of reserving an item from anywhere in the home county will remain free.
 

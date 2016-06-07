@@ -7,6 +7,8 @@ category: news
 excerpt: "Arts Council England has funded Suffolk Libraries over £99,000 through their 'Grants for the Arts' scheme."
 breadcrumb: news
 ---
+![Arts Council England has funded Suffolk Libraries over £99,000 through their 'Grants for the Arts' scheme](/images/featured/featured-arts-council-england-screening.jpg)
+
 Suffolk Libraries has been awarded just over £99,000 by Arts Council England (ACE) to develop new arts opportunities. The money will be used to help establish an initial eight libraries as spaces where the arts can be enjoyed and experienced with a focus on projecting high quality recorded performances in the library. The eight libraries involved are **Ixworth**, **Felixstowe**, **Gainsborough**, **Glemsford**, **Hadleigh**, **Lowestoft**, **Capel St Mary** and **Stradbroke**, representing a range of libraries and locations across the county.
 
 The money has been granted through ACE’s ‘Grants for the Arts’ scheme which is a lottery-funded programme to support activities to engage people in creative arts activities and help artists and arts organisations carry out their work.
@@ -15,9 +17,13 @@ Suffolk Libraries are teaming up with Creative Arts East on the project which ai
 
 There will be a focus on introducing new audiences to the arts and showing them what their library can offer. The programme will also help to establish stronger links between Suffolk Libraries and local arts organisations. The events are likely to take place in 2015.
 
-Tony Brown, chair of Suffolk Libraries, said: “We are delighted to be awarded this funding which will help us to develop the role of our libraries as centres for cultural, social and learning experiences and hopefully encourage people to visit the library. Some people may be put off experiencing the arts in traditional, formal settings but the library may provide a more familiar and comfortable environment for them to enjoy the arts. New technology also gives us the opportunity to deliver these experiences in new and exciting ways.”
+Tony Brown, chair of Suffolk Libraries, said:
 
-Hedley Swain, Area Director, South East, Arts Council England, said: &#8220;Libraries are at the centre of local community life so provide great locations for artistic performances and exhibitions. We are incredibly pleased to be supporting this project that will bring high quality artistic experiences to new audiences.”
+>We are delighted to be awarded this funding which will help us to develop the role of our libraries as centres for cultural, social and learning experiences and hopefully encourage people to visit the library. Some people may be put off experiencing the arts in traditional, formal settings but the library may provide a more familiar and comfortable environment for them to enjoy the arts. New technology also gives us the opportunity to deliver these experiences in new and exciting ways.
+
+Hedley Swain, Area Director, South East, Arts Council England, said:
+
+>Libraries are at the centre of local community life so provide great locations for artistic performances and exhibitions. We are incredibly pleased to be supporting this project that will bring high quality artistic experiences to new audiences.
 
 The programme will also support library staff to become ‘community champions’ for the arts so they can encourage current and new customers to take part. The project will also make the most of existing library stock &#8211; books, ebooks, magazines, DVDs and printed and online information about arts in the area.
 

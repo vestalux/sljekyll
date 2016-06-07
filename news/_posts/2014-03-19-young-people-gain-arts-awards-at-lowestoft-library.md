@@ -27,4 +27,6 @@ There are many advantages to offering an Arts Award in the library. Young people
 
 The moderator praised the standard of the young people’s work and the presentation of their portfolios. He was amazed at the library’s ability to deliver such a high quality Bronze Award in a public library.
 
-Jane Rothon, Assistant Library Manager at Lowestoft Library, said: “We are incredibly proud of this achievement both for Lowestoft Library and our eight young people. Everyone at Lowestoft Library was delighted when we were chosen for the pilot project and it was an exciting and challenging experience for everyone involved.”
+Jane Rothon, Assistant Library Manager at Lowestoft Library, said:
+
+>We are incredibly proud of this achievement both for Lowestoft Library and our eight young people. Everyone at Lowestoft Library was delighted when we were chosen for the pilot project and it was an exciting and challenging experience for everyone involved.

@@ -16,6 +16,6 @@ Founder of National Poetry Day and leader of the government&#8217;s Independent 
 
 ## Downloads
 
-  * [Annual Review 2013-2014](http://suffolklibraries.co.uk/wp-content/uploads/2014/09/Suffolk-Libraries-Annual-Review-2013-2014.pdf) (PDF)
-  * [Accounts 2013-2014](http://suffolklibraries.co.uk/wp-content/uploads/2014/09/Suffolk-Libraries-Annual-Accounts-Report-2013-2014.pdf) (PDF)
-  * [Suffolk Libraries 2013 AGM minutes](http://suffolklibraries.co.uk/wp-content/uploads/2014/09/Suffolk-Libraries-2013-AGM-minutes.pdf) (PDF)
+* [Annual Review 2013-2014](/assets/pdf/suffolk-libraries-annual-review-2013-2014.pdf) (PDF)
+* [Accounts 2013-2014](/assets/pdf/suffolk-libraries-accounts-period-ended-31-march-2014.pdf) (PDF)
+* [Suffolk Libraries 2013 AGM minutes](/assets/pdf/suffolk-libraries-agm-minutes-2013.pdf) (PDF)
