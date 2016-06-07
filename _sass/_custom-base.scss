@@ -1,5 +1,14 @@
 @media screen, projection {
 
+body {
+    font-size: 112.5%;
+
+    @media (min-width: 40em) {
+		font-size:125%;
+	}
+
+}
+
 figure {
     margin: 0;
     padding: 0;
@@ -15,7 +24,9 @@ a {
     text-decoration: none;
 }
 
-a:hover {
+a:hover,
+a:active,
+a:focus {
     text-decoration: underline;
 }
 
