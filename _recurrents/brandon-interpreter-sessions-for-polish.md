@@ -5,4 +5,5 @@ recurrent-times: 1415-1530
 recurrent-location: brandon-library
 recurrent-location-display-name: Brandon Library
 recurrent-location-display-url: /branches/brandon-library/
+recurrent-category: language-courses
 ---

@@ -23,7 +23,7 @@ sidebar: health
     {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
     {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
     {% if now-unix <= event-time %}
-      <article>
+      <article class="pb3">
         <header>
           <h1><a href="{{ event.url }}">{{ event.name }}</a></h1>
           <p>
@@ -38,6 +38,8 @@ sidebar: health
     {% endif %}
   {% endif %}
 {% endfor %}
+
+</article>
 
 <img src="/images/article/suffolk-family-carers.jpg" alt="Suffolk family carers" />
 
