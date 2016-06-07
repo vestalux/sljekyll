@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: New children’s books for April 2016
+title: New children’s books for May 2016
 date: 2016-05-03 09:29:00+00:00
 author: jo-dixon
 category: childrens-ya-books

@@ -18,6 +18,7 @@ branch-friends: Friends of Newmarket Library
 branch-friends-url: /about/member-organisations/friends-of-newmarket-library
 branch-social-media: y
 branch-facebook: friendsofnewmarketlibrary
+branch-twitter: newmarketlib
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/newmarket-library-2
 branch-display-space: "
