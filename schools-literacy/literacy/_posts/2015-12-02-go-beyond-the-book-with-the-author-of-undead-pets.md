@@ -16,7 +16,7 @@ But Buddy has one last job to do before he passes on to the big bird table in th
 
 Joe has far more patience than me when it comes to helping the zombie animals, as Buddy the Budgie gets him into some right pickles. The characters in the book are all wonderfully written with the wicked dinner lady sisters an evil joy to read. And Joe is a real star who never gives up trying to help everyone around him – he is a sort of modern day Charlie Bucket mixed with a bit of Alex Rider.
 
-<img class="alignleft" src="http://suffolklibraries.co.uk/wp-content/uploads/2015/12/Sam-Hay-300x255.jpg" alt="Author Sam Hay" />
+<img src="/images/article/sam-hay.jpg" alt="Author Sam Hay" />
 
 Author [Sam Hay](http://samhayauthor.com/) has created a really original, funny and interesting series with [<cite>Undead Pets</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/17108607?QRY=SEBIB%3C%20IRN(13318672)&QRYTEXT=Undead%20pets), and the books really come alive(!) through the illustrations of [Simon Cooper](http://www.littletiger.co.uk/authors/simon-cooper). This is a great series for children and I think the books would be brilliant to read out to a whole class.
 
@@ -30,7 +30,7 @@ Hi! I’m at home in South Wales. It’s a bit damp and grey.
 
 My desk is in a cupboard in the corner of the dining room, so I don’t really have a view. But if I turn around and look out of the dining room window this is my view; our back garden. It’s long and thin and slightly wild with lots of old trees which rustle in the wind.
 
-<img class="aligncenter" src="http://suffolklibraries.co.uk/wp-content/uploads/2015/12/Sam-May-garden-1-300x300.jpg" alt="Sam May's Garden" />
+<img src="/images/article/sam-hay-garden.jpg" alt="Sam May's Garden" />
 
 **How many words have you written today? (be honest!)**
 
@@ -54,6 +54,6 @@ I think I might send them <cite><a href="https://suffolk.spydus.co.uk/cgi-bin/sp
 
 Thanks for going &#8216;Beyond the Book&#8217;, Sam Hay!
 
-<img class="alignleft" src="http://suffolklibraries.co.uk/wp-content/uploads/2015/12/Flight-for-the-Battered-Budgie-195x300.jpg" alt="Flight of the Battered Budgie" />
+<img src="/images/article/flight-of-the-battered-budgie.jpg" class="fl pr3" alt="Flight of the Battered Budgie" />
 
 [<cite>Undead Pets: Flight of the Battered Budgie</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/17108133?QRY=CTIBIB%3C%20IRN(24548218)&QRYTEXT=Flight%20of%20the%20battered%20budgie) by Sam Hay and illustrated by Simon Cooper. Published by Little Tiger Press, for ages 7+, 112 pages.

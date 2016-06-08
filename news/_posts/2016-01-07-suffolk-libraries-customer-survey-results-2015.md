@@ -9,13 +9,13 @@ breadcrumb: news
 ---
 Our recent customer survey suggests satisfaction levels with the county’s library service have improved since the last survey in 2013. Nearly 1,700 people replied to the survey which was carried out in October to November last year, compared to 1,500 who took part in 2013. Here are some of the results:
 
-  * 66% of customers said they visit a library at least once a week (compared to 60% in 2013).
-  * 94% rated staff as excellent or very good which is also an increase from 2013.
-  * Nearly 49% of people said they thought the service had got better since Suffolk Libraries took over (the figure was 39.42% in 2013) and only just over 3.6% said it had got worse. Nearly 48% said it was about the same. This is very positive considering the library service budget is currently £2.5million less than before the service transferred to Suffolk Libraries.
-  * 89% of people rated our new IT facilities (new computers and Wi-Fi) as excellent, very good or good.
-  * 93% of people felt events and activities at the library were excellent, very good or good.
-  * 91% of people said the choice of books and information was excellent, very good or good.
-  * 89% of respondents rated the choice of free downloads (ebooks, eAudio, music and magazines) as excellent, very good or good.
+* 66% of customers said they visit a library at least once a week (compared to 60% in 2013).
+* 94% rated staff as excellent or very good which is also an increase from 2013.
+* Nearly 49% of people said they thought the service had got better since Suffolk Libraries took over (the figure was 39.42% in 2013) and only just over 3.6% said it had got worse. Nearly 48% said it was about the same. This is very positive considering the library service budget is currently £2.5million less than before the service transferred to Suffolk Libraries.
+* 89% of people rated our new IT facilities (new computers and Wi-Fi) as excellent, very good or good.
+* 93% of people felt events and activities at the library were excellent, very good or good.
+* 91% of people said the choice of books and information was excellent, very good or good.
+* 89% of respondents rated the choice of free downloads (ebooks, eAudio, music and magazines) as excellent, very good or good.
 
 We also had some lovely comments from customers about how highly valued the service is:
 

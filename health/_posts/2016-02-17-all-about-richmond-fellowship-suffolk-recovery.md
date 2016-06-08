@@ -8,6 +8,8 @@ excerpt: 'An interview with the local charity <a href="http://www.richmondfellow
 breadcrumb: health
 sidebar: health
 ---
+<img src="/images/article/richmond-fellowship-logo.jpg" />
+
 **Hi there! Which organisation/project are you from?**
 
 Richmond Fellowship (Suffolk Recovery)

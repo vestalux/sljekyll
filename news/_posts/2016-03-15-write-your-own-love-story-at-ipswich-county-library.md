@@ -29,7 +29,7 @@ Thanks to the support of Suffolk Bridal and Bedwells Florist the library has alr
 
 The Northgate Room will be available to hire for £350 on Fridays and Saturday and £300 Monday to Thursday. This price covers the hire of the room but not the Registrars or other associated costs. The ceremony license also covers the library’s Lecture Hall and Enterprise and Innovation Hub which are also available for hire.
 
-Anyone interested in booking the venue is encouraged to arrange a visit by contacting Ipswich County Library on 01473 263815 or emailing **ceremonies@suffolklibraries.co.uk**. There are also photos of the room and how it would look for a wedding together with more information about booking the room at [www.suffolklibraries.co.uk/ceremonies](http://www.suffolklibraries.co.uk/ceremonies).
+Anyone interested in booking the venue is encouraged to arrange a visit by contacting Ipswich County Library on 01473 263815 or emailing **ceremonies@suffolklibraries.co.uk**. There are also photos of the room and how it would look for a wedding together with more information about booking the room at [www.suffolklibraries.co.uk/ceremonies](/events-activities/ceremonies/).
 
 # Competition rules
 

@@ -8,11 +8,13 @@ excerpt: "Author William Hussey is in a bit of a pickle. How can a murderer esca
 breadcrumb: literacy
 sidebar: literacy
 ---
-Do you use social media? How far would you go if you were allowed to tell people exactly what you thought of them on it? Would you be able to stop yourself, or would you really let go and vent your anger and frustration until you knew you were hurting other people? The power of social media takes centre stage in the fantastic YA horror story <cite><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8158649?QRY=CTIBIB%3C%20IRN(44636600)&QRYTEXT=Jekyll%27s%20mirror">Jekyll’s Mirror</a></cite>.
+![Jekyll’s Mirror](/images/featured/featured-jekylls-mirror.jpg)
 
-Invited by his English teacher to take part in a social media experiment called &#8216;Project Hyde&#8217;, lead character Sam soon realises that he is both losing control of his emotions and being used by an evil supernatural mastermind. The other students in the experiment do not see the danger and soon their inner demons are unleashed with catastrophic results for the whole country.<figure>
+Do you use social media? How far would you go if you were allowed to tell people exactly what you thought of them on it? Would you be able to stop yourself, or would you really let go and vent your anger and frustration until you knew you were hurting other people? The power of social media takes centre stage in the fantastic YA horror story [<cite>Jekyll’s Mirror</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8158649?QRY=CTIBIB%3C%20IRN(44636600)&QRYTEXT=Jekyll%27s%20mirror).
 
-<img class="alignleft" src="http://suffolklibraries.co.uk/wp-content/uploads/2016/01/Hussey1-122x150.jpg" alt="Author William Hussey" /></figure>
+Invited by his English teacher to take part in a social media experiment called &#8216;Project Hyde&#8217;, lead character Sam soon realises that he is both losing control of his emotions and being used by an evil supernatural mastermind. The other students in the experiment do not see the danger and soon their inner demons are unleashed with catastrophic results for the whole country.
+
+<img class="fl pr3" src="/images/article/william-hussey-large.jpg" alt="Author William Hussey" />
 
 <cite>Jekyll’s Mirror</cite> is an addictive read that left me breathless at times. Sam’s troubled background is handled beautifully by William Hussey, and you really feel for Sam and the amazing Cassandra (who saves Sam multiple times throughout the book). Some of the scenes are truly chilling and pack a real horror punch, and it is of little surprise that <cite>Jekyll&#8217;s Mirror</cite> was listed as one of the [best YA books of 2015 by the Telegraph newspaper](http://www.telegraph.co.uk/books/young-adult-books/best-of-2015/). Without giving any spoilers away, my favourite scene was set in a tunnel with hoards of rampaging monsters wreaking havoc. An episode set in a road side cafe will be giving me nightmares for the rest of the year!
 
@@ -20,21 +22,21 @@ We asked William Hussey to go &#8216;Beyond the Book&#8217; with us. Check out h
 
 ### Hello there, where in the world are you today?
 
-Hello! I&#8217;m in my home town of Skegness, Lincolnshire (fish and chips, Kiss-Me-Quick hats, a Jolly Fisherman running like a loon down the beach, you get the idea), sitting at my desk like this&#8230;<figure>
+Hello! I&#8217;m in my home town of Skegness, Lincolnshire (fish and chips, Kiss-Me-Quick hats, a Jolly Fisherman running like a loon down the beach, you get the idea), sitting at my desk like this&#8230;
 
-<img class="aligncenter" src="http://suffolklibraries.co.uk/wp-content/uploads/2016/01/20150916_162650-200x150.jpg" alt="A photo of author William Hussey" /></figure>
+<img src="/images/article/william-hussey-selfie.jpg" alt="A photo of author William Hussey" />
 
 I&#8217;m stuck on a particularly knotty plot point. Something to do with how a murderer might escape from a locked room without using the door or window. The usual Tuesday afternoon conundrum for a writer of ghoulish yarns!
 
 ### What can you see from your window? (please send a picture or drawing if possible!)
 
-This.<figure>
+This.
 
-<img class="aligncenter" src="http://suffolklibraries.co.uk/wp-content/uploads/2016/01/20151208_121028-113x150.jpg" alt="20151208_121028" /></figure>
+<img src="/images/article/william-hussey-window.jpg" alt="William Hussey's window view" />
 
-Not a very inspiring view, but the more boring the better. [Ian Fleming](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8791312?QRY=CAUBIB%3C%20IRN(95252)&QRYTEXT=Fleming%2C%20Ian%2C%201908-1964) (the bloke who wrote the James Bond books) did all his writing in Jamaica at his luxurious villa just by the sea. I don&#8217;t think I&#8217;d get any writing done at all if I was distracted by paradise every day! His view looked like this.<figure>
+Not a very inspiring view, but the more boring the better. [Ian Fleming](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8791312?QRY=CAUBIB%3C%20IRN(95252)&QRYTEXT=Fleming%2C%20Ian%2C%201908-1964) (the bloke who wrote the James Bond books) did all his writing in Jamaica at his luxurious villa just by the sea. I don&#8217;t think I&#8217;d get any writing done at all if I was distracted by paradise every day! His view looked like this.
 
-<img class="aligncenter" src="http://suffolklibraries.co.uk/wp-content/uploads/2016/01/goldeneye-239x150.jpg" alt="Picture of a tropical island" /></figure>
+<img src="/images/article/ian-fleming-view.jpg" alt="Picture of a tropical island" />
 
 ### How many words have you written today?
 
@@ -60,8 +62,8 @@ I only hope that places like libraries still exist in 2115 and that short-sighte
 
 Crikey. Very, very difficult. I&#8217;m going to with Charles Dickens&#8217; [<cite>A Tale of Two Cities</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8795871?QRY=CTIBIB%3C%20IRN(43187)&QRYTEXT=A%20tale%20of%20two%20cities). My reasons are, firstly, Charles Dickens is the planet&#8217;s greatest storyteller! Forget Shakespeare (he nicked all his plots!), it&#8217;s Dickens who would keep our alien friends riveted right up to the devastating conclusion. Secondly, Dickens would give them a few laughs. His comedy doesn&#8217;t really age and his larger-than-life characters always raise a smile. For me, comedy is the hardest art form and is, perhaps, humanity&#8217;s greatest achievement. The ability to laugh at ourselves keeps us grounded. Lastly, and most importantly, <cite>A Tale of Two Cities</cite> tells us not to a judge a person on first appearances (or a book by its cover!) and never to underestimate the courage of the human race.
 
-If an alien looked at Earth and watched the human race for a time he/she/it might easily conclude we&#8217;re a pretty awful species &#8211; mean and cruel and warlike. But that is the very least of us. If they looked closer they would probably find the spirit of Sydney Carton, the complex hero of the novel, in us too. We aspire to do better, to be better, and even if we often fall short, still we try again. That&#8217;s pretty wonderful.<figure>
+If an alien looked at Earth and watched the human race for a time he/she/it might easily conclude we&#8217;re a pretty awful species &#8211; mean and cruel and warlike. But that is the very least of us. If they looked closer they would probably find the spirit of Sydney Carton, the complex hero of the novel, in us too. We aspire to do better, to be better, and even if we often fall short, still we try again. That&#8217;s pretty wonderful.
 
-<img class="alignleft" src="http://suffolklibraries.co.uk/wp-content/uploads/2016/01/jekylls-mirror-winner-silver-Copy-3-188x300-94x150.jpg" alt="Jekyll's Mirror Book Cover" /></figure>
+<img class="fl pr3" src="/images/article/jekylls-mirror-large.jpg" alt="Jekyll's Mirror" />
 
 [<cite>Jekyll&#8217;s Mirror</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8800076?QRY=CTIBIB%3C%20IRN(44636600)&QRYTEXT=Jekyll%27s%20mirror) by William Hussey, published by Oxford University Press, for ages 14+, 278 pages.

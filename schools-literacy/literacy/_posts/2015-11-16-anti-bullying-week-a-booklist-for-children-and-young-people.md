@@ -12,7 +12,7 @@ sidebar: literacy
 
 This week is Anti-Bullying Week. Bullying can happen to [anyone, at any age and anywhere](https://www.childline.org.uk/Explore/Bullying/Pages/Bullying.aspx).
 
-<iframe src="https://www.youtube.com/embed/f1lzcEq8WgI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div class="vid"><iframe src="https://www.youtube.com/embed/f1lzcEq8WgI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 We have compiled a range of fiction books that explore themes and topics such as bullying, anxiety, friendship and acceptance to aid discussion and help celebrate kindness throughout the week. There are also some non-fiction books, links to resources and helpline numbers if you need someone to talk to.
 

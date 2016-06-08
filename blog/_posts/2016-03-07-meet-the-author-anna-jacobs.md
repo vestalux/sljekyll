@@ -37,6 +37,4 @@ Please tell your readers that I’m delighted they’re enjoying my stories. I l
 
 Addicted to stories.
 
-[![A time to remember by Anna Jacobs](http://suffolklibraries.co.uk/wp-content/uploads/2016/03/a-time-to-remember.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12593336?QRY=CTIBIB%3C%20IRN(17634662)&QRYTEXT=A%20time%20to%20remember)
-
 [Reserve <cite>A time to remember</cite> by Anna Jacobs from our catalogue.](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12593336?QRY=CTIBIB%3C%20IRN(17634662)&QRYTEXT=A%20time%20to%20remember)

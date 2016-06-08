@@ -19,7 +19,7 @@ Their most recent CD, the uniformly well-received <cite>Westward Ho!</cite>, was
 
 ## Praise for Westward Ho
 
-https://www.youtube.com/watch?v=4il5cpldI0Y
+<div class="vid"><iframe src="https://www.youtube.com/embed/4il5cpldI0Y" frameborder="0" allowfullscreen></iframe></iframe></div>
 
 “…an intelligence and maturity behind the songs here… bold infectious and affecting” &#8211; <cite>R2 Magazine</cite>
 

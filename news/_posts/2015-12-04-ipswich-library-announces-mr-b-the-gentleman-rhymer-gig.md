@@ -5,12 +5,13 @@ date: 2015-12-04 11:13:33+00:00
 author: leon-paternoster
 category: news
 excerpt: Mr B the Gentleman Rhymer will give a one-off performance at Ipswich County Library on Saturday 5 March.
+breadcrumb: news
 ---
 Mr B the Gentleman Rhymer is to return to Ipswich next year. The dapper rapper will give a one-off performance at Ipswich County Library on Saturday 5 March.
 
 The world’s leading exponent of chap-hop, the musical marriage of civility and street, where Edwardian manners meet lyrical mastery, said, “It is wonderful to be returning to Ipswich, where I played many of my early shows and to be playing at a seat of learning such as the County Library will be quite an honour.”
 
-https://www.youtube.com/watch?v=6t28COxEp2k
+<div class="vid"><iframe src="https://www.youtube.com/embed/6t28COxEp2k" frameborder="0" allowfullscreen></iframe></div>
 
 Support comes from Cambridge’s celebrated electronic musical artist Pete Um, who recently supported Hot Chip on their UK arena tour to great acclaim.
 
