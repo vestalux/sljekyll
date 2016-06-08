@@ -21,7 +21,9 @@ The cover for the 200th issue has been designed by current Children’s Laureate
 Some of the comic strips are published as collections and Suffolk Libraries has the following available:
 
 <div class="cf">
-  <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/987484?QRY=CTIBIB%3C%20IRN(41822951)&QRYTEXT=Corpse%20talk"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2015/10/9781910200018.jpg" alt="corpse talk cover" width="195" height="282" /></a> <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/990470?QRY=CTIBIB%3C%20IRN(51671)&QRYTEXT=Baggage"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2015/10/9780385618571.jpg" alt="baggage cover" width="200" height="282" /></a> <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/989529?QRY=CTIBIB%3C%20IRN(37214113)&QRYTEXT=Bunny%20vs%20Monkey"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2015/10/9781910200070.jpg" alt="bunny versus monkey" /></a>
+  <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/987484?QRY=CTIBIB%3C%20IRN(41822951)&QRYTEXT=Corpse%20talk"><img src="/images/article/corpse-talk-season-1-large.jpg" alt="Corpse Talk" /></a>
+  <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/990470?QRY=CTIBIB%3C%20IRN(51671)&QRYTEXT=Baggage"><img src="/images/article/baggage-large.jpg" alt="Baggage" width="200" height="282" /></a>
+  <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/989529?QRY=CTIBIB%3C%20IRN(37214113)&QRYTEXT=Bunny%20vs%20Monkey"><img src="/images/article/bunny-vs-monkey-large.jpg" alt="Bunny vs Monkey" /></a>
 </div>
 
 [<cite>Corpse Talk</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/987484?QRY=CTIBIB%3C%20IRN(41822951)&QRYTEXT=Corpse%20talk): Intrepid interviewer, Adam Murphy, draws himself digging up and interviewing unusual and interesting dead famous people.
