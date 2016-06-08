@@ -15,7 +15,7 @@ I’ve been involved in organising small music festivals and gigs for a few year
 
 We had to think about all sorts of things we didn’t need to consider for previous library events – setting up online ticket sales, organising staging, security, arranging PA and lighting and managing a crowd of over 200 people. Thanks to a fantastic team effort involving staff and volunteers, the event was a huge success, receiving unanimously positive feedback and attracting people from as far away as Southampton. The only minor problem was that we misjudged the amount of bar stock that we would need and there was a lot left over – still, better than not having enough!
 
-<iframe src="https://www.youtube.com/embed/xk0vhv9Ah5Q" frameborder="0" allowfullscreen></iframe>
+<div class="vid"><iframe src="https://www.youtube.com/embed/xk0vhv9Ah5Q" frameborder="0" allowfullscreen></iframe></div>
 
 Fortunately, the beer has a long shelf life, and we’ve got a couple of upcoming gigs where we will be able to shift it! Firstly, on 5 March we’ve got Mr B The Gentleman Rhymer playing at the library, a gig that we’re organising in partnership with a local promoter, Simon Doling.
 

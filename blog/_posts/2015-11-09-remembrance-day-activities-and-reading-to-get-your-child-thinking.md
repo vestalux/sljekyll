@@ -15,7 +15,7 @@ Try these books, websites and colouring activities to get your child thinking ab
 
 ### [<cite>Tilly&#8217;s Promise</cite> by Linda Newbery](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4386622?QRY=CTIBIB%3C%20IRN(32304429)&QRYTEXT=Tilly%27s%20Promise)
 
-![[Tilly's promise by Linda Newbery](/images/article/tillys-promise.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4386622?QRY=CTIBIB%3C%20IRN(32304429)&QRYTEXT=Tilly%27s%20Promise)
+![Tilly's promise by Linda Newbery](/images/article/tillys-promise.jpg)
 
 The introduction to <cite>Tilly’s Promise</cite> is right in pointing out that “when we think of the First World War, we think of trenches and soldiers, guns and shells and gas attacks. But the War affected everyone in Britain, including those at home.”
 
@@ -25,7 +25,7 @@ There are lots of interesting interactive elements on their [microsite](http://w
 
 ### [<cite>Over the Line</cite> by Tom Palmer](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4387929?QRY=CTIBIB%3C%20IRN(842960)&QRYTEXT=Over%20the%20line)
 
-![[Over the line by Tom Palmer](/images/article/over-the-line.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4387929?QRY=CTIBIB%3C%20IRN(842960)&QRYTEXT=Over%20the%20line)
+![Over the line by Tom Palmer](/images/article/over-the-line.jpg)
 
 Did you know that the player who scored England’s first international goal after World War One was a survivor of the trenches?
 

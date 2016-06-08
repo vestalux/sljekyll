@@ -41,4 +41,4 @@ To mark the 400th anniversary of Shakespeare’s death, Felixstowe Library will 
 
 On Friday 20 May, Felixstowe Library will be screening a recording of the live stage performance of <cite>Billy Elliot: The Musical</cite>. Tickets for each event cost £7.50 and doors open 6.30pm with the films starting at 7pm. For tickets visit Felixstowe Library or call 01394 694880.
 
-[See all the event listings here.](http://suffolklibraries.co.uk/events/categories/presents)
+[See all the event listings here.](/events-activities/presents)

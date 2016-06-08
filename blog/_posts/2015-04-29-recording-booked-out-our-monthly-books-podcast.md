@@ -1,10 +1,10 @@
 ---
 layout: sidebar-right
 title: Recording Booked Out, our monthly books podcast
-date: 2015-04-29T08:29:49+00:00
+date: 2015-04-29 08:29:49+00:00
 author: sophie-green
+category: blog
 excerpt: Sophie Green explains how we put together a regular books podcast, and the benefits it brings the library and community. You can also get involved.
-layout: post
 breadcrumb: blog
 ---
 ![The Booked Out team recording a show round a desk](/images/featured/featured-booked-out-team.jpg)

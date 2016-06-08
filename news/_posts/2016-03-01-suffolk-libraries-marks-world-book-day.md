@@ -29,4 +29,4 @@ The following libraries are also running special events (all on Thursday except 
   * Hadleigh Library are holding special story time and craft activities for younger children from 2pm to 3pm.
   * Halesworth Library’s regular Sunday craft activity this week (6 March) will also have a special World Book Day theme where children can make a special book box from 12noon to 2.30pm.
 
-Suffolk Libraries recently launched its Year of Reading Campaign to celebrate and promote reading throughout the county in 2016. For more information visit [www.suffolklibraries.co.uk/reading](http://www.suffolklibraries.co.uk/reading).
+Suffolk Libraries recently launched its Year of Reading Campaign to celebrate and promote reading throughout the county in 2016. For more information visit [www.suffolklibraries.co.uk/reading](/events-activities/our-year-of-reading).

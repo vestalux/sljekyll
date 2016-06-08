@@ -15,6 +15,6 @@ Suffolk Libraries and Suffolk Coastal are working together to ensure any disrupt
 
 Please talk to library staff if you have any questions or concerns about the work.
 
-[Read further information about the project.](http://suffolklibraries.co.uk/news/new-customer-services-development-at-woodbridge-library)
+[Read further information about the project.](/news/new-customer-services-development-at-woodbridge-library)
 
-Suffolk Coastal: [Work Starting on One Stop Shop at Woodbridge Library](http://www.suffolkcoastal.gov.uk/news/work-starting-on-one-stop-shop-at-woodbridge-library/)
+Suffolk Coastal: [Work Starting on One Stop Shop at Woodbridge Library](/news/work-starting-on-one-stop-shop-at-woodbridge-library/)

@@ -7,6 +7,10 @@ category: news
 excerpt: Stradbroke Library’s post office has won a national libraries award. The library’s post office was announced as the winner of the ‘Social’ category in the EDGE library conference awards in Edinburgh on the evening of Thursday 3 March.
 breadcrumb: news
 ---
+![Maureen John, (in the middle) Manager of Stradbroke Library receiving the EDGE ‘social’ award from Jenny Peachey (left), Policy Officer at Carnegie Trust UK and Alistair Gaw, Executive Director of Communities and Families at the City of Edinburgh Council](/images/featured/featured-edge-social-award-2016.jpg)
+
+*Maureen John, (in the middle) Manager of Stradbroke Library receiving the EDGE ‘social’ award from Jenny Peachey (left), Policy Officer at Carnegie Trust UK and Alistair Gaw, Executive Director of Communities and Families at the City of Edinburgh Council.*
+
 Stradbroke Library’s post office has won a national libraries award. The library’s post office was announced as the winner of the ‘Social’ category in the EDGE library conference awards in Edinburgh on the evening of Thursday 3 March.
 
 EDGE is one of the country’s leading conferences for public library and information professionals and aims to share good practice and discuss future developments. There are three categories – Social, Digital and Community.
@@ -26,5 +30,3 @@ The project was a result of Suffolk Libraries working in partnership with the St
 The judges of the EDGE conference stated:
 
 > Stradbroke Library Post Office exemplifies how libraries can be the heart of the community, and the vital role both libraries and post offices play in enhancing community life and wellbeing. The increasing number of visits and issues, not to mention the increase in non-users visiting the library, is testimony to the success of the initiative. Through co-location and working in partnership with the local community and by looking to increase its income, Stradbroke embodies a forward-looking and engaged way of working that is as exciting as it is commendable
-
-.

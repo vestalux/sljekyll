@@ -15,7 +15,8 @@ Suffolk Libraries already offers four core Universal Learning Offers – Health,
 
 Suffolk Libraries also features in a new short film ‘Lightbulb Moments – Learning in Libraries’ which has been created to highlight the impact that learning in libraries has had on customers across the country. The film features the successful Adult Learning Courses held at Aldeburgh Library and will be available on the SCL website [www.goscl.com](http://www.goscl.com).
 
-https://vimeo.com/144646119
+<div class="vid"><iframe src="https://player.vimeo.com/video/144646119" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/144646119">LM01_Community_FC_HD_H264</a> from <a href="https://vimeo.com/user45283601">Elizabeth Elford</a> on <a href="https://vimeo.com">Vimeo</a>.</p></div>
 
 The Universal Learning Offer is available in all library services across England and brings together hundreds of unique self-directed learning opportunities for library users, and broadens the range of learning opportunities on offer in local libraries.
 

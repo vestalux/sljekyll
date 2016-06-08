@@ -25,7 +25,7 @@ The project already has the support of local crime author Alison Bruce who has k
 
 The winning entry from the EADT Suffolk Magazine short story competition is also already available to borrow and read.
 
-All writers need to do is provide their work in an ePub format and there are instructions on the Suffolk Libraries website on how to do this. For more details about the project visit [suffolklibraries.co.uk/suffolkwrites](http://suffolklibraries.co.uk/suffolkwrites) or email **suffolkwrites@suffolklibraries.co.uk**.
+All writers need to do is provide their work in an ePub format and there are instructions on the Suffolk Libraries website on how to do this. For more details about the project visit [www.suffolklibraries.co.uk/suffolkwrites](/events-activities/suffolk-writes/) or email **suffolkwrites@suffolklibraries.co.uk**.
 
 Having your book published as a Suffolk Libraries eBook will not affect your right to distribute your work in other ways and Suffolk Libraries will remove it on request if, for example, it’s published by someone else.
 
