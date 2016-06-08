@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: 'Go &#8216;Beyond the Book&#8217; with the author of The World of Norm'
+title: Go &#8216;Beyond the Book&#8217; with the author of <cite>The World of Norm</cite>
 date: 2015-12-17 12:55:19+00:00
 author: matt-shenton
 category: literacy
@@ -8,9 +8,11 @@ excerpt: "Ever get the feeling you've been cheated? Or have you ever been tempte
 breadcrumb: literacy
 sidebar: literacy
 ---
-In my previous life as a school librarian I never had the chance to read any of the [<cite>Norm</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/24046409?QRY=SEBIB%3C%20IRN(6071865)&QRYTEXT=World%20of%20Norm) books. In fact it was rare to see one for months at a time they were so popular. Eventually I would be presented with a pile of scruffy bits of paper that must have once looked like a book. The pages would be dog-eared and damp with tears of laughter from the many children who had read it. And with that the book had reached the end of its natural life and was ‘retired’, with great reverence, to the library in the sky, and a new copy bought.<figure>
+![The World of Norm](/images/featured/featured-the-world-of-norm.jpg)
 
-<img class="alignleft" src="http://suffolklibraries.co.uk/wp-content/uploads/2015/12/jm_tour_teaser-132x150.jpg" alt="Picture of author Jonathan Meres" /></figure>
+In my previous life as a school librarian I never had the chance to read any of the [<cite>Norm</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/24046409?QRY=SEBIB%3C%20IRN(6071865)&QRYTEXT=World%20of%20Norm) books. In fact it was rare to see one for months at a time they were so popular. Eventually I would be presented with a pile of scruffy bits of paper that must have once looked like a book. The pages would be dog-eared and damp with tears of laughter from the many children who had read it. And with that the book had reached the end of its natural life and was ‘retired’, with great reverence, to the library in the sky, and a new copy bought.
+
+<img class="fl pr3" src="/images/article/jonathan-meres-large.jpg" alt="Picture of author Jonathan Meres" />
 
 It wasn’t until the other month when I saw author Jonathan Meres taking part in the [#ukmgchat](https://twitter.com/search?q=%23ukmgchat&src=typd) on twitter that I realised now was my chance to read one! That and the fact that during the [#ukmgchat](https://twitter.com/search?q=%23ukmgchat&src=typd) they were discussing the literary merits of toilet humour in middle grade books. Naturally I was professionally required, nay obliged, to investigate this possible depravity.
 
@@ -26,17 +28,17 @@ We asked Jonathan Meres to go &#8216;Beyond the Book&#8217; with us. He said yes
 
 ### What can you see from your window? (please send a picture or drawing if possible!)
 
-Nothing. It&#8217;s completely dark.<figure>
+Nothing. It&#8217;s completely dark.
 
-<img class="aligncenter" src="http://suffolklibraries.co.uk/wp-content/uploads/2015/12/IMAG5442_1-185x150.jpg" alt="The view from Jonathan Meres window" /></figure>
+<img src="/images/article/jonathan-meres-window.jpg" alt="The view from Jonathan Meres window" />
 
 ### How many words have you written today? (be honest!)
 
 About 700. Or about 7000 if you include Twitter, Facebook & emails.
 
-### What’s on your ‘to read’ bookshelf? (please send us a shelfie if possible!)<figure>
+### What’s on your ‘to read’ bookshelf? (please send us a shelfie if possible!)
 
-<img class="aligncenter" src="http://suffolklibraries.co.uk/wp-content/uploads/2015/12/1245.jpg" alt="Jonathan Meres Book Shelf" /></figure>
+<img src="/images/article/jonathan-meres-shelfie.jpg" alt="Jonathan Meres bookshelf" />
 
 ### If you could be transported into the plot of any book which one would you pick? Would you try and change what happens in the plot!?
 
@@ -52,11 +54,13 @@ Exactly the same as it does now. But with even more choice. Oh and librarians wi
 
 Thanks for going &#8216;Beyond the Book&#8217; with us Jonathan!
 
-<img class="alignleft" src="http://suffolklibraries.co.uk/wp-content/uploads/2015/12/144922-ml-896780-98x150.jpg" alt="The World of Norm May Cause Irritation" /><cite>The World of Norm: May Cause Irritation</cite> by Jonathan Meres, published by Orchard Books, for ages 8+, 274 pages.
+<img class="fl pr3" src="/images/article/the-world-of-norm-may-cause-irritation.jpg" alt="The World of Norm May Cause Irritation" />
 
-**Accelerated Reader information
+<cite>The World of Norm: May Cause Irritation</cite> by Jonathan Meres, published by Orchard Books, for ages 8+, 274 pages.
 
-** ATOS Level: 4.2
+**Accelerated Reader information**
+
+ATOS Level: 4.2
 
 AR Quiz No: 222926
 

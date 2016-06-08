@@ -7,6 +7,10 @@ category: news
 excerpt: Suffolk Libraries is getting behind a national scheme to support young people with mental health issues.
 breadcrumb: news
 ---
+![Students from Thomas Gainsborough School helping to launch the scheme at Great Cornard Library](/images/article/reading-well-launch.jpg)
+
+*Students from Thomas Gainsborough School helping to launch the scheme at Great Cornard Library.*
+
 Suffolk Libraries is getting behind a national scheme to support young people with mental health issues.
 
 ‘Reading Well for young people’ is a new scheme which provides expert information and a recommended reading list to help tackle some of the mental health and wellbeing issues that young people face.
@@ -19,9 +23,13 @@ The scheme is delivered by The Reading Agency in partnership with the Society of
 
 Suffolk Libraries already supports the Books on Prescription programme and is unique in having a dedicated Mental Health and Wellbeing Co-ordinator who works to ensure library visitors can get access to the health and wellbeing information.
 
-Alison Wheeler, Chief Executive of Suffolk Libraries and a member of the Society of Chief Librarians, said: “I am very pleased that Suffolk Libraries will be supporting this very positive new programme. We know that young people may face many challenges and issues and may not always know where to turn for help. Libraries can play a key role in providing access to reading materials and information which can make a real difference to them.”
+Alison Wheeler, Chief Executive of Suffolk Libraries and a member of the Society of Chief Librarians, said:
 
-Culture Minister Ed Vaizey said: “Libraries can play a significant role in the health of local communities by providing free access to advice and information for people of all ages. This important new scheme uses libraries, books and reading to reach out to young people to help them manage their mental health and wellbeing, and cope with the pressures of modern life.”
+>I am very pleased that Suffolk Libraries will be supporting this very positive new programme. We know that young people may face many challenges and issues and may not always know where to turn for help. Libraries can play a key role in providing access to reading materials and information which can make a real difference to them.
+
+Culture Minister Ed Vaizey said:
+
+>Libraries can play a significant role in the health of local communities by providing free access to advice and information for people of all ages. This important new scheme uses libraries, books and reading to reach out to young people to help them manage their mental health and wellbeing, and cope with the pressures of modern life.
 
 Reading Well for young people’s recommended reading list of 35 books were selected by mental health experts and young people. The list includes a wide range of self-help and information titles, as well as fiction, including hugely influential novels such as The Curious Incident of the Dog in the Night-Time by Mark Haddon and The Perks of Being a Wallflower by Stephen Chbosky.
 

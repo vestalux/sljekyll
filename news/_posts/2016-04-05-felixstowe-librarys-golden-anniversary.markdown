@@ -7,8 +7,11 @@ category: news
 excerpt: This April marks 50 years since Felixstowe Library opened for the first time.
 breadcrumb: news
 ---
+![Felixstowe Library in 1966](/images/featured/featured-felixstowe-library-50-anniversary.jpg)
 
-This April marks 50 years since [Felixstowe Library](http://suffolklibraries.co.uk/branches/felixstowe-library) opened for the first time.
+*Felixstowe Library in 1966.*
+
+This April marks 50 years since [Felixstowe Library](/branches/felixstowe-library) opened for the first time.
 
 The library will be marking this milestone in several ways.
 

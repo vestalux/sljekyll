@@ -29,7 +29,7 @@ It also allows us to respond quickly to common queries, such as renewals, throug
 
 We can now easily track and monitor individual queries regardless of how complex they are. Better still, they’re dealt with really quickly – our ‘median resolution time’ (a standard customer service measure) for a problem is 1.3 hours.
 
-![Zendesk screenshot](/images/article/zendesk.png)
+![Zendesk screenshot](/images/article/zendesk.jpg)
 
 *Zendesk helps us organise problems!*
 
@@ -56,5 +56,3 @@ Recently, we noticed a spike in queries about expiring library cards. This promp
 We realised that no re-registration information was available on the website, so we made a form for customers to request a library card renewal. Introducing this form has been good for us and customers – information submitted via the form is quick to process, while customers can re-register their cards without calling us or going into a library.
 
 A centralised customer service team of dedicated staff has enabled us to provide help across several platforms. Our vision for what our library’s customer service should provide has expanded, and we continue to search for new improvements we can make.
-
-{% include post-bio.html %}

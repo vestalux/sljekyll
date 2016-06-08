@@ -17,7 +17,7 @@ The festival programme also includes an opportunity to have lunch with the autho
 
 Charlotte Clark, Southwold Library Manager said: “I’m really thrilled we’ve put together another great programme of author talks and other activities. Crime is one of the best loved genres of books and we’ve got a very diverse range of writers taking part this year. I hope many people will join us for what will hopefully be a fun and interesting series of events.”
 
-Full details of the programme and ticketing information is available from [www.suffolklibraries.co.uk/slaughter](http://www.suffolklibraries.co.uk/slaughter) or [www.ticketsource.co.uk/slaughterinsouthwold](http://www.ticketsource.co.uk/slaughterinsouthwold). Tickets can also be bought at the library.
+Full details of the programme and ticketing information is available from [www.suffolklibraries.co.uk/slaughter](/events-activities/slaughter-in-southwold) or [www.ticketsource.co.uk/slaughterinsouthwold](http://www.ticketsource.co.uk/slaughterinsouthwold). Tickets can also be bought at the library.
 
 **About the authors:**
 
