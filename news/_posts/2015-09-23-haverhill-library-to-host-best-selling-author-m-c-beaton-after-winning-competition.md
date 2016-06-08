@@ -15,11 +15,14 @@ She is coming to Haverhill after the library won a national competition arranged
 
 M.C. Beaton will be giving a talk about her writing and discussing her latest novel. The event starts at 2pm and M.C. Beaton will be happy to sign any of her books after the event. Tickets for the event cost £5 and can be bought at the library from 28 September. All proceeds will go to the Friends of Haverhill Library to support future developments at the library. There will also be refreshments available on the day. For further information contact Haverhill Library on 01440 702638.
 
-Haverhill Library Manager, Sanphra Wilmott, said: “We were thrilled to win this competition and are very excited that such a popular author is coming to our library. Our staff put together a wonderful display celebrating M.C. Beaton’s books which even featured a real life police officer! So it’s a great reward for their creativity that we are able to host this special event.”
+Haverhill Library Manager, Sanphra Wilmott, said:
+
+>We were thrilled to win this competition and are very excited that such a popular author is coming to our library. Our staff put together a wonderful display celebrating M.C. Beaton’s books which even featured a real life police officer! So it’s a great reward for their creativity that we are able to host this special event.
 
 In partnership with The Reading Agency and Little, Brown over 100 libraries celebrated 30 years of the Hamish McBeth series by joining the M.C. Beaton Crime Queen of the Village Green promotion. The promotion ran from February to end of April 2015 to mark the anniversary and introduce new readers to much loved author M.C. Beaton. Alongside taking part the promotion, libraries entered a best dressed display competition to win a visit from M.C. Beaton herself for their library. Haverhill Library was the overall winner of the competition.
 
-[The M.C. Beaton display in Haverhill Library](http://suffolklibraries.co.uk/wp-content/uploads/2015/09/MC-beaton-2.jpg)
+![The M.C. Beaton display in Haverhill Library](/images/article/haverhill-library-mc-beaton-display.jpg)
+
 *The M.C. Beaton display in Haverhill Library*
 
 ## The Reading Agency

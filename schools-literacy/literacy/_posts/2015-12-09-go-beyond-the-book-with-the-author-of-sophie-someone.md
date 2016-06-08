@@ -1,10 +1,12 @@
 ---
-layout: post
-title: 'Go &#8216;Beyond the Book&#8217; with the author of Sophie Someone'
+layout: sidebar-right
+title: Go &#8216;Beyond the Book&#8217; with the author of <cite>Sophie Someone</cite>
 date: 2015-12-09 09:05:54+00:00
 author: matt-shenton
 category: literacy
 excerpt: 'Meet Hayley Long — Suffolk born author of the Costa Award nominated <cite>Sophie Someone</cite> and soothsayer!'
+breadcrumb: literacy
+sidebar: literacy
 ---
 _Sometimes the stuff your parsnips tell you should be taken with a grot big pinch of salt._
 

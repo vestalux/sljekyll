@@ -9,11 +9,11 @@ breadcrumb: news
 ---
 ![Rhian Brighton, Branch Operations Partner and Lois Farrance, Branch Administration Partner from John Lewis (left) present Tina Todd, Assistant Library Manager at Ipswich Library and Stock Manager Paul Howarth with the John Lewis book](/images/article/john-lewis-150-anniversary-book-presentation.jpg)
 
-*Rhian Brighton, Branch Operations Partner and Lois Farrance, Branch Administration Partner from John Lewis (left) present Tina Todd, Assistant Library Manager at Ipswich Library and Stock Manager Paul Howarth with the John Lewis book*
+*(L-R) Rhian Brighton, Branch Operations Partner and Lois Farrance, Branch Administration Partner from John Lewis presenting Tina Todd, Assistant Library Manager at Ipswich Library and Stock Manager Paul Howarth with the John Lewis book.*
 
 Representatives from the Ipswich branch of John Lewis have presented Suffolk Libraries with a copy of their special 150 anniversary book.
 
-The book – ‘A Very British Revolution’ tells the story of how John Spedan Lewis transformed a clutch of Victorian department stores into a revolutionary, employee-owned business.
+The book – <cite>A Very British Revolution</cite> - tells the story of how John Spedan Lewis transformed a clutch of Victorian department stores into a revolutionary, employee-owned business.
 
 The book is also an interesting look at the emerging consumerism of the Victorian world, through the social upheavals of the twentieth century into the globalised world of retailing today.
 
@@ -22,5 +22,3 @@ There is more information about the book on the [John Lewis website](http://www.
 The book will soon be part of the Suffolk Libraries catalogue and available to borrow or request from the website or any library.
 
 John Lewis will be working in partnership with Suffolk Libraries on the ‘Get Connected’ initiative to promote library eBooks and eReaders and have already been working successfully with Cambridgeshire library service.
-
-The photo above shows (from left to right) Rhian Brighton, Branch Operations Partner and Lois Farrance, Branch Administration Partner from John Lewis presenting Tina Todd, Assistant Library Manager at Ipswich Library and Stock Manager Paul Howarth with the John Lewis book.

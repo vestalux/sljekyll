@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: New films and DVDs for May 2016
-date: 2016-03-31 08:51:39+00:00
+date: 2016-05-03 08:51:39+00:00
 author: brandon-king
 category: films-dvds
 excerpt: Featuring <cite>The Danish girl</cite> and <cite>Spotlight</cite>.

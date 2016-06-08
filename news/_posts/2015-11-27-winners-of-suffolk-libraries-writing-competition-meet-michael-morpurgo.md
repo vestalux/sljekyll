@@ -7,6 +7,10 @@ category: news
 excerpt: Two lucky children met children’s author Michael Morpurgo at St Edmundsbury Cathedral recently and presented him with their winning entries to Suffolk Libraries ‘Best Christmas Present in the World’ competition.
 breadcrumb: news
 ---
+![L-R: Michael Morpurgo, Rebecca Cooke and Thomas Pickersgill](/images/featured/featured-michael-morpurgo-christmas-competition.jpg)
+
+*L-R: Michael Morpurgo, Rebecca Cooke and Thomas Pickersgill*
+
 Two lucky children met children’s author Michael Morpurgo at St Edmundsbury Cathedral recently and presented him with their winning entries to Suffolk Libraries ‘Best Christmas Present in the World’ competition.
 
 Suffolk Libraries received over two hundred entries from around the county, but it was Thomas Pickersgill (from Bradfield St George near Bury) and Rebecca Cooke (from Walpole near Halesworth) who most impressed the judges with letters showing off their amazing imaginations. The competition asked children to write to Michael Morpurgo telling him what their best Christmas present would be.

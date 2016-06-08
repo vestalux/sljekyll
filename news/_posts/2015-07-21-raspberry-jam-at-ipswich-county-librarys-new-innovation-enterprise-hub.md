@@ -16,4 +16,4 @@ You don’t have to be a Raspberry Pi fan or user to benefit from the day. If yo
 
 If you love electronics, want to learn more about wiring and tinkering there are technicians and programmers at the event. Tickets are £1.50 each and can be purchased online. Under 16s should be accompanied by an adult. There are further details about the workshops at [www.ipswichraspberryjam.co.uk](http://www.ipswichraspberryjam.co.uk).
 
-The Enterprise + Innovation Hub is on the second floor of Ipswich County Library in Northgate Street and was officially opened in June. For more information visit [www.suffolklibraries.co.uk/hub](http://www.suffolklibraries.co.uk/hub).
+The Enterprise + Innovation Hub is on the second floor of Ipswich County Library in Northgate Street and was officially opened in June. For more information visit [www.suffolklibraries.co.uk/hub](/branches/hub/).

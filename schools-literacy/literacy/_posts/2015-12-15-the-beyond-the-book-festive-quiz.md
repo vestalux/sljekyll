@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: sidebar-right
 title: The Beyond the Book Festive Quiz
 date: 2015-12-15 10:40:32+00:00
 author: matt-shenton
 category: literacy
 excerpt: The greatest part of knowledge is knowing where to find something...
+breadcrumb: literacy
+sidebar: literacy
 ---
 Here at <cite>Beyond the Book</cite>, we love both the festive period and a good quiz. At a recent management forum we took part in a fiendishly difficult Christmas movie quiz and each year I do battle with my mother-in-law over the King William&#8217;s College general knowledge quiz — surely the quiz of all quizzes!
 

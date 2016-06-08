@@ -18,5 +18,5 @@ At the events we provide advice on our online services, such as free wifi, ebook
 ## Services we offer
 
   * [Free wifi at over 30 branches](/help/using-wifi-in-libraries/ "Using wifi in libraries")
-  * [Over 6000 ebooks to borrow](http://suffolklibraries.lib.overdrive.com/)
+  * [Over 6000 eBooks to borrow](http://suffolklibraries.lib.overdrive.com/)
   * [3 million songs to download or stream](http://suffolklibraries.freegalmusic.com/)

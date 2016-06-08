@@ -7,6 +7,10 @@ category: news
 excerpt: Suffolk Libraries is supporting the recently launched BBC Weather Watchers campaign.
 breadcrumb: news
 ---
+![A view of the weather from Ipswich County Library](/images/featured/featured-weather-watchers-ipswich.jpg)
+
+*A view of the weather from Ipswich County Library*
+
 Suffolk Libraries is supporting the recently launched BBC Weather Watchers campaign.
 
 [BBC Weather Watchers](http://www.bbc.co.uk/weatherwatchers) is part of their [Make it Digital Campaign](http://www.bbc.co.uk/makeitdigital) and aims to encourage people across the country to share their weather reports and photos of the weather.

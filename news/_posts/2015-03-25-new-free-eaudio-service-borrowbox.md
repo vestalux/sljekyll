@@ -17,4 +17,4 @@ BorrowBox will replace the current OneClick Digital eAudio service but will run 
 
 Customers will be able to borrow up to six eAudio books for up to 21 days. Anyone currently using the OneClick service will have to transfer over to the new service but any eAudio books due to expire after 1 April will be available until their original due date.
 
-[See our eLibrary pages for help on using the service](http://suffolklibraries.co.uk/help/using-our-elibrary-service "Using our eLibrary service").
+[See our eLibrary pages for help on using the service](/help/using-our-elibrary-service/).

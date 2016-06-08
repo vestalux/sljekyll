@@ -7,7 +7,7 @@ category: news
 excerpt: Ipswich County Library is marking 90 years since opening this week.
 breadcrumb: news
 ---
-[Ipswich County Library](http://suffolklibraries.co.uk/branches/ipswich-county-library/ "Ipswich County Library") is marking 90 years since opening this week. It is also 20 years since the library was reopened following the building of a new extension and major refurbishment.
+[Ipswich County Library](/branches/ipswich-county-library/) is marking 90 years since opening this week. It is also 20 years since the library was reopened following the building of a new extension and major refurbishment.
 
 A special event is being held at the library on Thursday 14 August to share memories of the library.
 
@@ -29,4 +29,4 @@ There is an Ipswich Library trail which children can follow round the building, 
 
 Extensive work to extend and redecorate the library was carried out 20 years ago whilst the library was temporarily relocated to Bolton Lane. Before 1994 a pulley operated lift system was used to move books from floor to floor.
 
-The library now has free Wi-Fi and provides a range of events for people of all ages and backgrounds including the popular multicultural day and world music weekend events which draw thousands of visitors to the library to celebrate the diverse local population. It also recently gained a Carbon Charter Bronze Award for energy efficiency.
+The library now has free wifi and provides a range of events for people of all ages and backgrounds including the popular multicultural day and world music weekend events which draw thousands of visitors to the library to celebrate the diverse local population. It also recently gained a Carbon Charter Bronze Award for energy efficiency.

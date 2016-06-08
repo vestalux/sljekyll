@@ -15,7 +15,9 @@ The new post office will provide 150 recognised post office facilities including
 
 Suffolk Libraries will be receiving some additional income to provide the service with current Library Manager Maureen John taking on joint responsibility for the post office. If the post office is a success and becomes busy enough, more staff may be taken on in the future.
 
-James Hargrave, local resident and vice chair of the Stradbroke Courthouse and Library Trust has been heavily involved in the application and interview process. He said: “This is good news for Stradbroke as we’ve been without a post office for about 18 months and we’ve had nowhere to withdraw cash for some time too. This project will enable us to provide a shared facility within the library and whilst helping to support the running of the library it will also hopefully bring in more customers too.”
+James Hargrave, local resident and vice chair of the Stradbroke Courthouse and Library Trust has been heavily involved in the application and interview process. He said:
+
+>This is good news for Stradbroke as we’ve been without a post office for about 18 months and we’ve had nowhere to withdraw cash for some time too. This project will enable us to provide a shared facility within the library and whilst helping to support the running of the library it will also hopefully bring in more customers too.
 
 Stradbroke Courthouse and Library Trust also have further plans to develop the building by providing a café, studio space for a community radio station and storage for a village archive.
 

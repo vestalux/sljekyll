@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Go &#8216;Beyond the Book&#8217; and back in time'
 date: 2016-01-29 10:10:12+00:00
 author: matt-shenton
 category: literacy
 excerpt: 'We travel through time and space to visit ancient Crete in a brilliant retelling of the Minotaur myth. Warning: <cite>The Double Axe</cite> is not for the faint-hearted!'
+breadcrumb: literacy
+sidebar: literacy
 ---
 Ancient myths have interested me since hearing Iron Maiden during my teenage years (they wrote a song about the [Icarus myth](https://www.youtube.com/watch?v=p4w2BZXL6Ss)) so I was very excited when I got my hands on a copy of Philip Womack’s <cite><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/18507517?QRY=CTIBIB%3C%20IRN(59641538)&QRYTEXT=The%20double%20axe">The Double Axe</a></cite>.<figure>
 

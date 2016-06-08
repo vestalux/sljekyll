@@ -5,4 +5,5 @@ recurrent-times: 1600-1730
 recurrent-location: halesworth-library
 recurrent-location-display-name: Halesworth Library
 recurrent-location-display-url: /branches/halesworth-library/
+recurrent-category: writing-groups
 ---

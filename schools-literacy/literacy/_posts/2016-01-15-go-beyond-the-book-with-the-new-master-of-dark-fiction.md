@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'Go &#8216;Beyond the Book&#8217; with the new master of dark fiction'
 date: 2016-01-15 11:01:53+00:00
 author: matt-shenton
 category: literacy
 excerpt: "Author William Hussey is in a bit of a pickle. How can a murderer escape from a locked room without using the door or windows? Find out by going 'Beyond the Book'!"
+breadcrumb: literacy
+sidebar: literacy
 ---
 Do you use social media? How far would you go if you were allowed to tell people exactly what you thought of them on it? Would you be able to stop yourself, or would you really let go and vent your anger and frustration until you knew you were hurting other people? The power of social media takes centre stage in the fantastic YA horror story <cite><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8158649?QRY=CTIBIB%3C%20IRN(44636600)&QRYTEXT=Jekyll%27s%20mirror">Jekyll’s Mirror</a></cite>.
 
