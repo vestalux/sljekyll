@@ -17,15 +17,15 @@ I would like to look at two ways that libraries and reading can support the men
   1. Stocking and promoting fiction that features some of the issues experienced by young people
   2. Pointing young people towards books that are enjoyable and lift the mood
 
-## Books about issues: Where to start?<figure>
+## Books about issues: Where to start?
 
-<img class="alignleft" src="http://suffolklibraries.co.uk/wp-content/uploads/2016/02/Mind-Your-Head-90x150.png" alt="Book cover of Mind your head by Juno Dawson" /></figure>
+<img class="fl pr3" src="/images/article/mind-your-head.jpg" alt="Mind your head by Juno Dawson" />
 
-I would start with one author keen to make a difference; the wonderful [Juno Dawson](http://www.junodawson.com/about/). Juno writes multi award-winning teen fiction and important non-fiction and has recently released <cite><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/22850281?QRY=CTIBIB%3C%20IRN(57962502)&QRYTEXT=Mind%20your%20head">Mind Your Head</a></cite>; a brilliant book that discusses mental health and young people. The book is very accessible and supportive, with some powerful real-life stories from young people around the world. <cite>Mind Your Head</cite> covers topics such as anxiety and depression, self-harm and personality disorders; perfect for young people, parents and teachers.
+I would start with one author keen to make a difference; the wonderful [Juno Dawson](http://www.junodawson.com/about/). Juno writes multi award-winning teen fiction and important non-fiction and has recently released [<cite>Mind Your Head</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/22850281?QRY=CTIBIB%3C%20IRN(57962502)&QRYTEXT=Mind%20your%20head); a brilliant book that discusses mental health and young people. The book is very accessible and supportive, with some powerful real-life stories from young people around the world. <cite>Mind Your Head</cite> covers topics such as anxiety and depression, self-harm and personality disorders; perfect for young people, parents and teachers.
 
-Juno has also compiled a fantastic list of books for young adults that feature strong minority characters or that discuss important teen issues. The list was in response to [#WeNeedDiverseBooks](https://twitter.com/diversebooks), and Juno explains that she writes diverse YA books to reduce feelings of isolation and to raise awareness of minority or marginalised characters in the wider community.<figure>
+Juno has also compiled a fantastic list of books for young adults that feature strong minority characters or that discuss important teen issues. The list was in response to [#WeNeedDiverseBooks](https://twitter.com/diversebooks), and Juno explains that she writes diverse YA books to reduce feelings of isolation and to raise awareness of minority or marginalised characters in the wider community.
 
-<img class="alignright" src="http://suffolklibraries.co.uk/wp-content/uploads/2016/02/Juno-Dawson-100x150.jpg" alt="Picture of author Juno Dawson" /></figure>
+<img class="fr pl3" src="/images/article/juno-dawson-large.jpg" alt="Picture of author Juno Dawson" />
 
 Juno&#8217;s [#WeNeedDiverseBooks list](http://www.junodawson.com/2015/06/28/yougotdiversebooks/) is split into the categories including mental illness, trans, LGBQ+, POC characters, YA books that discuss feminism, and disabilities. There are nearly 150 books on the list covering a range of authors, styles and age groups.
 
