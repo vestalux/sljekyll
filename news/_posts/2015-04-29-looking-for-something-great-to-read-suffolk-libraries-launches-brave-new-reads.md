@@ -17,7 +17,9 @@ Brave New Reads runs from 1 May to 5 August and the programme also includes auth
 
 You can find out more details at www.bravenewreads.org.uk and there is a full list of events below.
 
-Paul Howarth, Stock Manager at Suffolk Libraries said, “We’re delighted to be involved in Brave New Reads this year. The involvement from Suffolk libraries was very successful last year and there is even more going on this time. I hope the chosen books will offer people something different to read and encourage them to get involved with the programme.”
+Paul Howarth, Stock Manager at Suffolk Libraries said:
+
+>We’re delighted to be involved in Brave New Reads this year. The involvement from Suffolk libraries was very successful last year and there is even more going on this time. I hope the chosen books will offer people something different to read and encourage them to get involved with the programme.
 
 ## Brave New Reads events in Suffolk Libraries
 
@@ -25,19 +27,19 @@ Paul Howarth, Stock Manager at Suffolk Libraries said, “We’re delighted to b
 
 Come along and hear about the Brave New Reads books. There’ll be a chance to hear more about the programme and a chance to discuss them with refreshments provided.
 
-  * Thursday 30 April: Beccles Library from 2pm to 3pm and 6pm and 7pm.
-  * Friday 8 May: Bury St Edmunds Library from 8pm to 9.30pm
-  * Tuesday 12 May – Haverhill Library from 6.30pm to 8pm.
+* Thursday 30 April: Beccles Library from 2pm to 3pm and 6pm and 7pm.
+* Friday 8 May: Bury St Edmunds Library from 8pm to 9.30pm
+* Tuesday 12 May – Haverhill Library from 6.30pm to 8pm.
 
 ### Get involved events
 
 Events offering a chance to meet the people behind the project, enjoy tea parties, pop-up book clubs, radio shows and more. These are all free and take place as follows:
 
-  * Sunday 12 July: Afternoon tea at Beccles Library from 2pm to 3.30pm
-  * Wednesday 13 May: Elmswell Library from 7.30pm to 9pm
-  * Tuesday 2 June: Haverhill Library from 6.30pm to 8pm
-  * Sunday 7 June: Ixworth Library from 2pm to 3.30pm
-  * Thursday 7 May: Woodbridge Library from 6.30pm to 8.30pm. The library’s regular Booked Out podcast will also focus on Brave New Reads in June.
+* Sunday 12 July: Afternoon tea at Beccles Library from 2pm to 3.30pm
+* Wednesday 13 May: Elmswell Library from 7.30pm to 9pm
+* Tuesday 2 June: Haverhill Library from 6.30pm to 8pm
+* Sunday 7 June: Ixworth Library from 2pm to 3.30pm
+* Thursday 7 May: Woodbridge Library from 6.30pm to 8.30pm. The library’s regular Booked Out podcast will also focus on Brave New Reads in June.
 
 ## Other events
 
@@ -46,5 +48,3 @@ Bury St Edmunds Library are hosting a Reader Workshop on Saturday 6 June from 10
 There are book quizzes at Beccles Library on Wednesday 27 May at 6.30pm and Woodbridge Library on Friday 31 July at 8pm.
 
 Haverhill Library have a book club event on Tuesday 14 July at 6.30pm. There is also a Reader Workshop at Woodbridge Library on Saturday 23 May from 10am to 12noon.
-
-**Ends**

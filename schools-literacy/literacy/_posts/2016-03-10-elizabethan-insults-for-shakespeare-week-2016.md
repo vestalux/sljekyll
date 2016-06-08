@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: sidebar-right
 title: Elizabethan Insults For Shakespeare Week 2016
 date: 2016-03-10 11:55:20+00:00
 author: matt-shenton
 category: literacy
 excerpt: 'Celebrate Shakespeare Week with our insulting resource!'
+breadcrumb: literacy
+sidebar: literacy
 ---
 [Shakespeare Week](http://shakespeareweek.org.uk/) runs from 14-20 March 2016 and is a national annual celebration giving primary school children a chance to learn more about [William Shakespeare](http://suffolklibraries.co.uk/book-lists/william-shakespeare-celebrating-his-400th-anniversary).
 

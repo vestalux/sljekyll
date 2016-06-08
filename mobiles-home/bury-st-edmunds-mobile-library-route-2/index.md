@@ -248,23 +248,6 @@ Telephone: 01473 263838
     </td>
   </tr>
 
-  <tr>
-    <td>
-      2N
-    </td>
-
-    <td>
-      Finningham
-    </td>
-
-    <td>
-      The White Horse
-    </td>
-
-    <td>
-      1605 – 1625
-    </td>
-  </tr>
 </table>
 
 **Calling every 4 weeks on Wednesday:**

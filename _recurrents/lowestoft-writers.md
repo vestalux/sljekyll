@@ -5,4 +5,5 @@ recurrent-times: 1330-1430
 recurrent-location: lowestoft-library
 recurrent-location-display-name: Lowestoft Library
 recurrent-location-display-url: /branches/lowestoft-library/
+recurrent-category: writing-groups
 ---

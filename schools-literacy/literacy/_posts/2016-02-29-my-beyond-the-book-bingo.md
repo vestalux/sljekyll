@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: sidebar-right
 title: 'My &#8216;Beyond the Book&#8217; Bingo'
 date: 2016-02-29 11:30:43+00:00
 author: matt-shenton
 category: literacy
 excerpt: "Fancy reading a book with a blue cover? Join us in playing 'Beyond the Book Bingo' and be introduced to some great authors and books!"
+breadcrumb: literacy
+sidebar: literacy
 ---
 The final challenge in our &#8216;Beyond the Book&#8217; activity booklet is book bingo. Each of the 25 bingo squares represents a different genre of book from _&#8216;something that scares you&#8217;_ and a _&#8216;book with a blue cover&#8217;_, to _&#8216;a book recommended by a friend_&#8216; and one _&#8216;with non-human characters&#8217;_. Hopefully this will introduce pupils to new genres and styles and encourage them to browse library shelves.
 

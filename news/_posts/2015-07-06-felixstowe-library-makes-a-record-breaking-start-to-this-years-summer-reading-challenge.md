@@ -19,4 +19,4 @@ This year the theme is ‘Record Breakers’ and there’ll be a series of colle
 
 Children can sign up to take part from this Saturday (11 July) onwards in their local library – it’s totally free to join in. There will be related activities running across the county’s libraries throughout the summer holidays.
 
-For more information about Record Holders Republic visit http://www.recordholdersrepublic.co.uk
+For more information about Record Holders Republic visit [www.recordholdersrepublic.co.uk](http://www.recordholdersrepublic.co.uk).

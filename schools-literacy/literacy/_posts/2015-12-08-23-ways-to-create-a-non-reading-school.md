@@ -1,11 +1,15 @@
 ---
-layout: post
+layout: sidebar-right
 title: 23 ways to create a non-reading school
 date: 2015-12-08 12:55:53+00:00
 author: matt-shenton
 category: literacy
 excerpt: Are you working in a non-reading school? This is a great tongue-in-cheek idea for a CPD/INSET session.
+breadcrumb: literacy
+sidebar: literacy
 ---
+![Discarded books in an empty library](/images/featured/featured-empty-library.jpg)
+
 I mentioned last week that I attended the &#8216;Reading for Pleasure&#8217; conference held by [Norfolk Children’s Book Centre](http://www.ncbc.co.uk/new/index.html). One of the speakers highlighted a blog post from February 2015 from Jon Biddle &#8211; [&#8217;23 ways to create a non-reading school&#8217;](http://childrenreadingforpleasure.blogspot.co.uk/2015/02/22-ways-to-create-non-reading-school.html).
 
 Jon cleverly flips the notion of what a brilliant &#8216;Reading for Pleasure&#8217; school would look like to instead highlight all the negative practice school staff could employ to create a &#8216;non-reading&#8217; school. Does your school do any of the following? This is a great tongue-in-cheek idea that could be discussed with colleagues at your next CPD/INSET session.

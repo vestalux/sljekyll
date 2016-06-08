@@ -7,7 +7,7 @@ category: news
 excerpt: The Suffolk Family Carers bus will be visiting libraries in east Suffolk on Tuesday 4 August.
 breadcrumb: news
 ---
-The Suffolk Family Carers bus will be visiting libraries in east Suffolk on Tuesday 4 August
+The Suffolk Family Carers bus will be visiting libraries in east Suffolk on Tuesday 4 August.
 
 The Warm Handover Roadshow is part of a series of events to raise awareness of the ‘warm handover’ process. Suffolk Libraries and Suffolk Family Carers are both part of the Suffolk Information Partnership where local statutory and voluntary organisations have pledged to work more closely together to help customers looking for information or support.
 

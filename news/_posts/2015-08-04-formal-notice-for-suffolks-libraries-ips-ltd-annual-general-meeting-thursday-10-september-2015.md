@@ -7,13 +7,9 @@ category: news
 breadcrumb: news
 ---
 The Cookhouse
-
 Suffolk Food Hall
-
 Wherstead
-
 Suffolk
-
 IP9 2AB
 
 _Exhibitor Stalls 5.30pm-6.30pm, Buffet Supper 5.30pm, AGM 6.30pm-8.00pm_
@@ -30,4 +26,4 @@ The Annual General Meeting is open to the Membership of the Society, its employe
 
 If you fall into one of these groups and would like to attend please contact Nikki Sturmey by 5pm on Friday 4 September 2015 at **nikki.sturmey@suffolklibraries.co.uk**
 
-[Download a copy of this formal notice](http://suffolklibraries.co.uk/wp-content/uploads/2015/08/ormal-Notice-Agenda-Suffolk-Libraries-2015-AGM.pdf) (PDF).
+[Download a copy of this formal notice](/assets/pdf/formal-notice-agenda-agm.pdf) (PDF).

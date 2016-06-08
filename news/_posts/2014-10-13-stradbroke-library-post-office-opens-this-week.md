@@ -7,6 +7,8 @@ category: news
 excerpt: Suffolk’s newest post office will open in Stradbroke Library this week.
 breadcrumb: news
 ---
+![The opening of Stradbroke Library's new post office](/images/featured/featured-stradbroke-post-office-launch.jpg)
+
 Suffolk’s newest post office has opened in Stradbroke Library.
 
 The new post office opened on Tuesday 14 October.
@@ -17,7 +19,9 @@ Post Office Ltd approved Suffolk Libraries’ application to run the post office
 
 The Stradbroke Courthouse and Library Trust have been working in partnership with Suffolk Libraries on the project. The new post office provides 150 recognised post office facilities including cash withdrawals, foreign currency and handling parcels. Suffolk Libraries staff will run the post office along with the library in the same space.
 
-Tony Brown, Chair of Suffolk Libraries Board welcomed the new post office: “I’m delighted that one of our libraries is going to be hosting a new community facility which has been missing from Stradbroke for some time. I hope that local people will benefit from this additional service which we are very pleased to be providing and congratulate our staff, Stradbroke Courthouse and Library Trust and everyone who has worked hard to make the new post office a reality.”
+Tony Brown, Chair of Suffolk Libraries Board welcomed the new post office:
+
+>I’m delighted that one of our libraries is going to be hosting a new community facility which has been missing from Stradbroke for some time. I hope that local people will benefit from this additional service which we are very pleased to be providing and congratulate our staff, Stradbroke Courthouse and Library Trust and everyone who has worked hard to make the new post office a reality.
 
 Suffolk Libraries will be receiving some additional income to provide the service with current Library Manager Maureen John taking on joint responsibility for the post office. If the post office is a success and becomes busy enough, more staff may be taken on in the future.
 

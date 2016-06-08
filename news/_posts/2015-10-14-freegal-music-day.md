@@ -25,8 +25,8 @@ Suffolk Libraries Information and Content Librarian, Lisa Brennan said:
 
 Freegal features:
 
-  * Download up to five free MP3 music tracks a week (or two music videos)
-  * Keep downloaded tracks forever and transfer them into the media player of your choice
-  * Stream unlimited free music
+* Download up to five free MP3 music tracks a week (or two music videos)
+* Keep downloaded tracks forever and transfer them into the media player of your choice
+* Stream unlimited free music
 
-For more information visit [our Freegal website](http://www.suffolklibraries.freegalmusic.com) or [our eLibrary page](http://suffolklibraries.co.uk/elibrary). Anyone wanting to use the service who hasn’t already got a Suffolk Libraries card can sign up for free online or at any library. All you need to access Freegal is a Suffolk Libraries membership number.
+For more information visit [our Freegal website](http://www.suffolklibraries.freegalmusic.com) or [our eLibrary page](/elibrary/). Anyone wanting to use the service who hasn’t already got a Suffolk Libraries card can sign up for free online or at any library. All you need to access Freegal is a Suffolk Libraries membership number.

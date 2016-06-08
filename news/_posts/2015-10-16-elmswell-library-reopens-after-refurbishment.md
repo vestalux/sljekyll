@@ -7,6 +7,10 @@ category: news
 excerpt: Elmswell Library is set to reopen Tuesday 20 October following a massive refurbishment funded by generous fundraisers and local businesses.
 breadcrumb: news
 ---
+![Students from West Suffolk College on the City & Guilds painting and decorating course carried out the work on Elmswell Library](/images/featured/featured-elmswell-reopens-2015.jpg)
+
+*Students from West Suffolk College on the City & Guilds painting and decorating course carried out the work on Elmswell Library.*
+
 Elmswell Library is set to reopen Tuesday 20 October following a massive refurbishment funded by generous fundraisers and local businesses.
 
 Elmswell Library Friends have raised more than £15,000 over the past three years. It will be spent on turning the village facility into a modern, flexible space, with moveable shelving, new carpeting with dementia friendly aspects and a redesigned layout.

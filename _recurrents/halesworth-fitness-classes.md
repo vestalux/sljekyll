@@ -5,4 +5,5 @@ recurrent-times: 0930-1030, 1100-1200
 recurrent-location: halesworth-library
 recurrent-location-display-name: Halesworth Library
 recurrent-location-display-url: /branches/halesworth-library/
+recurrent-category: health
 ---

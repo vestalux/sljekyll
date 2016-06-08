@@ -17,7 +17,7 @@ Suffolk Libraries have been shortlisted in the digital category of the awards fo
 
 Kirklees Library and Information Service the only other finalist in this category.
 
-> Alison Wheeler, General Manager of Suffolk’s Libraries IPS, said: “We’re thrilled to be shortlisted again as it shows that innovation in Suffolk’s library service is being recognised at a national level.”
+Alison Wheeler, General Manager of Suffolk’s Libraries IPS, said: “We’re thrilled to be shortlisted again as it shows that innovation in Suffolk’s library service is being recognised at a national level.”
 
   * Over 30 of Suffolk’s Libraries now offer free Wi-Fi to customers with the aim of all libraries offering it later this year.
   * The amount of ebook titles Suffolk Libraries offers has risen to over 6,000 and by the end of 2013/14 the service expects to lend around 40,000 ebooks
