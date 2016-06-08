@@ -45,6 +45,4 @@ I suppose a hardworking, resilient, perfectionist.
 
 My next book! I have worked out the climax ending with the mode of death/killing. (It would spoil it if I spilled the beans here.) Now I have turned my mind to the plot. Currently I am researching ‘filming on location in Suffolk’ and have the opening chapter in my mind — they use set carpenters, which is perfect for my characters. I now have to think up/work out the secondary threads to the plot. I enjoy this part of the challenge — devising some unusual, whacky, off-beat twists and themes.
 
-[![Utterly knotted by Pauline Manders](http://suffolklibraries.co.uk/wp-content/uploads/2015/11/utterly-knotted.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10396490?QRY=CAUBIB%3C%20IRN(23528902)&QRYTEXT=Manders%2C%20Pauline)
-
 [Reserve Pauline Manders&#8217; books from our catalogue.](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/10396490?QRY=CAUBIB%3C%20IRN(23528902)&QRYTEXT=Manders%2C%20Pauline)

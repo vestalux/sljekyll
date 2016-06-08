@@ -27,7 +27,7 @@ Once the festival begun, I spent my evenings travelling around Suffolk to help d
 
 What an amazing few weeks!
 
-![Nicola Upson](/images/article/nicola-upson-standing-next-to-bookfest-2015-banner)
+![Nicola Upson](/images/article/nicola-upson-standing-next-to-bookfest-2015-banner.jpg)
 
 *Nicola Upson*
 
