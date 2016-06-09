@@ -1,9 +1,9 @@
 ---
 layout: full-width-narrow
 title: Starting a reading group
-breadcrumb: events
+breadcrumb: reading-groups
 ---
-Check out our [reading group suggestions](/new-suggestions/book-club-lists)
+Check out our [reading group suggestions](/new-suggestions/book-club-ideas/).
 
 # What we'll do
 
