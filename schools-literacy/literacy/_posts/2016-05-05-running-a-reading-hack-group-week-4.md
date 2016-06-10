@@ -16,7 +16,7 @@ In [week 1](/schools-literacy/literacy/running-a-reading-hack-group-week-1) we l
 
 ## Week 4
 
-<img class="fl pr3" src="http://suffolklibraries.co.uk/wp-content/uploads/2016/05/IMG_0530-e1462460051203.jpg" alt="Pupils in a library" />
+<img class="fl pr3" src="/images/article/reading-hack-pupils-in-beccles-library.jpg" alt="Pupils in a library" />
 
 This week the [Beccles Book Bunnies](http://readinghack.org.uk/groups/23) were going to train as librarians. The pupils had requested to do this during our first session as they were keen to help the public and learn about library duties.
 
@@ -26,7 +26,7 @@ So far the year 7 pupils have loved the different Hacks we have tried, but have 
 
 Interestingly, this did not always produce an amazing idea that really stood out. As you can see from the picture at the top of this blog post, this Hacker loves LOTR and reading so these would feature in her Hack. But how? Thankfully, what happened was that the other Hackers soon started chipping in by swapping ideas and discussing the Hacks they had completed in previous sessions. They were Hacking my Hacks!
 
-<img class="fr pl3" src="http://suffolklibraries.co.uk/wp-content/uploads/2016/05/Gandalf-Selfie-2.jpg" alt="Gandalf on the beach" />
+<img class="fr pl3" src="/images/article/reading-hack-gandalf-selfie.jpg" alt="Gandalf on the beach" />
 *#wishyouwerehereSauron*
 
 Our LOTR fan had loved the green screen activity and was a keen Instagram user. What if Gandalf had an Instagram account and posted selfies of himself in various ‘normal’ situations like on the beach or going out on a date? Now we were rocking, and the group could start to write their ideas down. One Hacker cut up her ideas and put them into a hat to make the pairings totally random. This produced some unexpected results: anyone for a horror themed drama piece about pizza?!
