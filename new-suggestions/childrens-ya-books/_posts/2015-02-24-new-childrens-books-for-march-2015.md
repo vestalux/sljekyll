@@ -93,13 +93,13 @@ First of a funny new fantasy series about Benjamin Blank, who fancies himself as
 
 A suite of likeable characters and a fast paced plot set in New York in the 1880s are the backdrop for this crime thriller about the young Houdini. Isn’t it a let-down when you finish a real page turner? But great to then discover more books in the pipeline. Pity we’ll have to wait till May.
 
-### [<cite>The Binding</cite> by Jenny Alexander (eBook)](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=3DF08B25-D275-4BF3-A398-0AF526DDF7CE)
+### [<cite>The Binding</cite> by Jenny Alexander](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=3DF08B25-D275-4BF3-A398-0AF526DDF7CE) (eBook)
 
 [![The Binding by Jenny Alexander](/images/article/the-binding.jpg)](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=3DF08B25-D275-4BF3-A398-0AF526DDF7CE)
 
 When Jack and his family arrive on the remote, blustery Scottish island of Morna, the whole summer holiday seems doomed &#8211; until they find the den. The three children who claim it are the only other children their age on the island &#8211; and soon Jack, Tressa and Milo are initiated into their secret society, the Binding, which charismatic Duncan presides over with elaborate rules, ceremonies and punishments.
 
-### [<cite>Feral Pride</cite> by Cynthia Leitich Smith (eBook)](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=5D5AE6F9-5ED4-40F1-8DF2-94AF6FDF06F7)
+### [<cite>Feral Pride</cite> by Cynthia Leitich Smith](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=5D5AE6F9-5ED4-40F1-8DF2-94AF6FDF06F7) (eBook)
 
 [![Feral Pride by Cynthia Leitich Smith](/images/article/feral-pride.jpg)](http://suffolklibraries.lib.overdrive.com/B2061FD2-A438-493D-B5C6-8FF1C488CCC9/10/50/en/ContentDetails.htm?id=5D5AE6F9-5ED4-40F1-8DF2-94AF6FDF06F7)
 
