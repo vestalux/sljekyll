@@ -25,7 +25,7 @@ Poses important questions to the discerning baby such as, “Which bear would yo
 
 ### [<cite>Clip-Clop</cite> by Nicola Smee](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6032673?QRY=CTIBIB%3C%20IRN(930410)&QRYTEXT=Clip-clop)
 
-[![http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6035748?QRY=CTIBIB%3C%20IRN(930410)&QRYTEXT=Clip-clop](/images/article/clip-clop.jpg)](Clip-Clop by Nicola Smee)
+[![Clip-Clop by Nicola Smee](/images/article/clip-clop.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6035748?QRY=CTIBIB%3C%20IRN(930410)&QRYTEXT=Clip-clop)
 
 The animals gather on Mr Horse’s back as he trots along, until they cry “Whoa!” with inevitable consequences.
 
@@ -113,10 +113,7 @@ Third story about Mortimer Keene, child genius. In this episode, Aliens abduct M
 
 ### [<cite>Jumblecat</cite> by Archie Kimpton](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8201009?QRY=CTIBIB%3C%20IRN(36216078)&QRYTEXT=Jumblecat)
 
-[![](/images/article/.jpg)]()
-  <div class="medium-2 columns">
-    <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8201009?QRY=CTIBIB%3C%20IRN(36216078)&QRYTEXT=Jumblecat"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2014/12/jumblecat.jpg" alt="Jumblecat by Archie Kimpton" /></a>
-  </div>
+[![Jumblecat by Archie Kimpton](/images/article/jumble-cat.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/8201009?QRY=CTIBIB%3C%20IRN(36216078)&QRYTEXT=Jumblecat)
 
 Delightful adventure about Archie Slipper who adopts a biscuit mad cat to the dismay of his family.
 

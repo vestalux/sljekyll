@@ -20,7 +20,7 @@ This week the Hackers were going to get poetic. I had been keen to do some 'cut-
 
 Staff at Beccles library collected some withdrawn books for the [blackout poetry](http://readinghack.org.uk/hacks/184) and I adapted the [Poetry Jigsaw](http://readinghack.org.uk/hacks/183) activity from the toolkit. I added both Hacks to the Reading Hack website in advance by adapting a Hack design already available.
 
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2016/05/IMG_0613blog2.jpg" alt="picture of a cut up poem" />
+<img src="/images/article/reading-hack-poetry-jigsaw.jpg" alt="A cut up poem" class="fl pr3" />
 
 We started with the poetry jigsaw Hack which involves cutting the text of a poem up and rearranging it. The idea is not to reconstruct the original poem, but to use the original poet’s material to create something new.
 
@@ -44,7 +44,7 @@ I decided to cut the poem up in three ways for a bit of differentiation: for one
 
 The Hackers got stuck in and seemed to enjoy putting random words together! Once they were happy with their rearranging they glued the words down. We [tweeted](https://twitter.com/mjes/status/730397252984963072") our finished work to Michael Rosen asking for his opinion – he hasn’t responded yet…! One Hacker used my iPad to play us some other Michael Rosen poems whilst we worked. Great fun!
 
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2016/05/IMG_0616blog.jpg" alt="picture of some blackout poetry" />
+<img src="/images/article/reading-hack-blackout-poetry.jpg" alt="Some blackout poetry" class="fr pl3" />
 
 Next we moved onto blackout poetry. The Hackers were really nervous about ripping pages out of old books!
 
