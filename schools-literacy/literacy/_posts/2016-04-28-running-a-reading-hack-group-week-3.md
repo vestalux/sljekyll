@@ -23,7 +23,7 @@ The Hack planned for today was a ‘[Green Screen Hack](/assets/doc/beyond-the-b
 
 I showed them the Hack and let them get on with it. They were quick to pick up on how to make the app work and enjoyed posing in front of the screen.
 
-<img src="/images/article/reading-hack-green-screen-harry-potter.jpg" alt="2 pupils in with harry potter in the background" width="267" height="150" />
+<img src="/images/article/reading-hack-green-screen-harry-potter.jpg" alt="2 pupils in with harry potter in the background" />
 *Who you looking at Malfoy?*
 
 One pupil was keen to go online and add himself to the ‘<a href="http://readinghack.org.uk/hacks/170">Bookface Hack</a>’ from last week which was great to see. He wanted to make sure that the activity counter on his profile had caught up to that of the other members.
