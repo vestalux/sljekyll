@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Samantha Street’s book club"
+recurrent-title: "Tuesday book club"
 recurrent-day: second Tuesday of the month
 recurrent-times: 1100-1200
 recurrent-location: newmarket-library
