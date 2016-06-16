@@ -2,7 +2,21 @@
 
 	<p class="dn"><a href="#content">Skip to content</a></p>
 
-	<header class="custom-bg-corporate cf white pa2 pa3-ns" id="site-header">
+	{% if site.message %}
+
+		<div class="bg-black near-white pa2 pa3-ns">
+
+			<div class="custom-max-width">
+
+				<p class="f6 f5-ns ma0">{% if site.message_title %}<strong>{{ site.message_title }}</strong>: {% endif %}{{ site.message }}{% if site.message_link %} <a class="link aqua" href="/{{ site.message_link }}">Read more</a>.{% endif %}</p>
+
+			</div>
+
+		</div>
+
+	{% endif %}
+
+	<header class="custom-bg-corporate cf white pa2 pa3-ns pv1-ns" id="site-header">
 
 		<div class="custom-max-width cf">
 
@@ -15,33 +29,27 @@
 
 			</div>
 
-			<div class="fr-ns tr-ns">
+			{% if page.title != 'Suffolk Libraries reserve, renew, branches and eLibrary' %}
 
-				<form id="searchform" class="custom-lh-title dark-gray f5 pure-form mt2 mt0-ns" action="#" method="get">
+				<div class="fr-ns tr-ns">
 
-					<input id="s" type="search" name="s" value="" class="w-60-ns"></input>
-					<input id="searchsubmit" type="submit" value="Search" class="pa2 pure-button"></input>
+					<form id="searchform" class="custom-lh-title dark-gray f5 pure-form mt2 mt0-ns" action="#" method="get">
 
-				</form>
+						<input id="s" type="search" name="s" value="" class="w-60-ns"></input>
+						<input id="searchsubmit" type="submit" value="Search" class="pa2 pure-button"></input>
 
-			</div>
+					</form>
 
-			</div>
+				</div>
+
+			{% endif %}
 
 		</div>
 
 	</header>
 
-	{% if site.message %}
+	{% if page.title == 'Suffolk Libraries reserve, renew, branches and eLibrary' %}
 
-		<div class="bg-black near-white pa2 pa3-ns">
-
-			<div class="custom-max-width">
-
-				<p class="f6 f5-ns ma0 tc">{% if site.message_title %}<strong>{{ site.message_title }}</strong>: {% endif %}{{ site.message }}{% if site.message_link %} <a class="link aqua" href="/{{ site.message_link }}">Read more</a>.{% endif %}</p>
-
-			</div>
-
-		</div>
+		{% include home-image.html %}
 
 	{% endif %}

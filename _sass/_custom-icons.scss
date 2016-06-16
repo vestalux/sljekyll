@@ -1,0 +1,26 @@
+@media screen, projection {
+
+*[class*=custom-icon] {
+    padding-left: 1.25em;
+    background-repeat: no-repeat;
+    background-position: center left;
+    background-size: 1em;
+}
+
+.custom-icon-search {
+    background-image: url('/images/icons/search.svg')
+}
+
+.custom-icon-lock {
+    background-image: url('/images/icons/lock.svg')
+}
+
+.custom-icon-card {
+    background-image: url('/images/icons/card.svg')
+}
+
+.custom-icon-pc {
+    background-image: url('/images/icons/desktop.svg')
+}
+
+}
