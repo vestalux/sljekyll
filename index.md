@@ -17,46 +17,6 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
                 <section class="{% include /c/block.html %}">
 
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/elibrary">Search &amp; reserve</a></h1>
-
-                    <p class="{% include /c/block-graf.html %}">Reserve print, audiobooks, CDs and DVDs for collection</p>
-
-                </section>
-
-            </div>
-
-            <div class="custom-g-l2">
-
-                <section class="{% include /c/block.html %}">
-
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/elibrary">Your library account</a></h1>
-
-                    <p class="{% include /c/block-graf.html %}">Renew books, see your fines, update your account</p>
-
-                </section>
-
-            </div>
-
-            <div class="custom-g-l2 custom-g-nm">
-
-                <section class="{% include /c/block.html %}">
-
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/mobiles-home">Apply for a card</a></h1>
-
-                    <p class="{% include /c/block-graf.html %}">Apply for a free library card to access our services</p>
-
-                </section>
-
-            </div>
-
-        </div> <!-- end .cf -->
-
-        <div class="cf">
-
-            <div class="custom-g-l2">
-
-                <section class="{% include /c/block.html %}">
-
                     <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/elibrary">eLibrary</a></h1>
 
                     <p class="{% include /c/block-graf.html %}">Download free eBooks, eAudio, magazines &amp; MP3s</p>
