@@ -31,10 +31,7 @@ A simple story about a Chinese family celebrating New Year.
 
 ### [<cite>We love Chinese New Year</cite> by Saviour Pirotta](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4949767?QRY=CTIBIB%3C%20IRN(9608200)&QRYTEXT=We%20love%20Chinese%20New%20Year)
 
-<div class="row">
-  <div class="medium-2 columns">
-    <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4949767?QRY=CTIBIB%3C%20IRN(9608200)&QRYTEXT=We%20love%20Chinese%20New%20Year"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2015/01/welovechinesenewyear.jpg" alt="We love Chinese New Year by Saviour Pirotta" /></a>
-  </div>
+[![That’s not my goat by Fiona Watt](/images/article/we-love-chinese-new-year-saviour.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4949767?QRY=CTIBIB%3C%20IRN(9608200)&QRYTEXT=We%20love%20Chinese%20New%20Year)
 
 A title from the <cite>Did You Know</cite> series, with lots of interesting facts. Did you know that no-one washes their hands at Chinese New Year so they don’t wash their luck away?
 
@@ -42,28 +39,19 @@ A title from the <cite>Did You Know</cite> series, with lots of interesting fact
 
 ### [<cite>The great race: the story of the Chinese zodiac</cite> by Dawn Casey](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5717995?QRY=CTIBIB%3C%20IRN(9558228)&QRYTEXT=The%20great%20race%20%3A%20the%20story%20of%20the%20Chinese%20zodiac)
 
-<div class="row">
-  <div class="medium-2 columns">
-    <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5717995?QRY=CTIBIB%3C%20IRN(9558228)&QRYTEXT=The%20great%20race%20%3A%20the%20story%20of%20the%20Chinese%20zodiac"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2015/01/thegreatrace.jpg" alt="The great race: the story of the Chinese zodiac by Dawn Casey" /></a>
-  </div>
+[![The great race: the story of the Chinese zodiac by Dawn Casey](/images/article/the-great-race-the-story-of-the-chinese-zodiac.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5717995?QRY=CTIBIB%3C%20IRN(9558228)&QRYTEXT=The%20great%20race%20%3A%20the%20story%20of%20the%20Chinese%20zodiac)
 
 Beautiful picture book portraying the animals&#8217; race that led to the Chinese Zodiac.
 
 ### [<cite>Long-Long&#8217;s New Year: a story about the Chinese Spring Festival</cite> by Catherine Gower](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5722209?QRY=CTIBIB%3C%20IRN(9953198)&QRYTEXT=Long-Long%27s%20New%20Year%20%3A%20a%20story%20about%20the%20Chinese%20Spring%20Festival)
 
-<div class="row">
-  <div class="medium-2 columns">
-    <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5722209?QRY=CTIBIB%3C%20IRN(9953198)&QRYTEXT=Long-Long%27s%20New%20Year%20%3A%20a%20story%20about%20the%20Chinese%20Spring%20Festival"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2015/01/longlongsnewyear.jpg" alt="Long-Long's New Year: a story about the Chinese Spring Festival by Catherine Gower" /></a>
-  </div>
+[![Long-Long's New Year: a story about the Chinese Spring Festival by Catherine Gower](/images/article/long-longs-new-year-a-story-about-the-chinese-spring-festival.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5722209?QRY=CTIBIB%3C%20IRN(9953198)&QRYTEXT=Long-Long%27s%20New%20Year%20%3A%20a%20story%20about%20the%20Chinese%20Spring%20Festival)
 
 Long-Long goes to market with his grandfather, buying things for the New Year celebrations.
 
 ### [<cite>A New Year&#8217;s reunion</cite> by Yu Li-Qiong](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5722703?QRY=CTIBIB%3C%20IRN(891789)&QRYTEXT=A%20New%20Year%27s%20reunion)
 
-<div class="row">
-  <div class="medium-2 columns">
-    <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5722703?QRY=CTIBIB%3C%20IRN(891789)&QRYTEXT=A%20New%20Year%27s%20reunion"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2015/01/anewyearsreunion.jpg" alt="A New Year's reunion by Yu Li-Qiong" /></a>
-  </div>
+[![A New Year's reunion by Yu Li-Qiong](/images/article/a-new-years-reunion.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5722703?QRY=CTIBIB%3C%20IRN(891789)&QRYTEXT=A%20New%20Year%27s%20reunion)
 
 Maomao’s father gets back home in time to celebrate New Year with her by making lucky rice balls and watching fire crackers.
 
@@ -71,28 +59,19 @@ Maomao’s father gets back home in time to celebrate New Year with her by makin
 
 ### [<cite>The Goggle-eyed goats</cite> by Stephen Davies](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5156017?QRY=CTIBIB%3C%20IRN(1468552)&QRYTEXT=The%20goggle-eyed%20goats)
 
-<div class="row">
-  <div class="medium-2 columns">
-    <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5156017?QRY=CTIBIB%3C%20IRN(1468552)&QRYTEXT=The%20goggle-eyed%20goats"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2015/01/goggleeyedgoats.jpg" alt="The Goggle-eyed goats by Stephen Davies" /></a>
-  </div>
+[![The Goggle-eyed goats by Stephen Davies](/images/article/the-goggle-eyed-goats.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5156017?QRY=CTIBIB%3C%20IRN(1468552)&QRYTEXT=The%20goggle-eyed%20goats)
 
 A joyful picture book about an old man from Timbuktu, who sets off to market to sell his naughty goats. His children can’t bear to see them go. Guess who wins?
 
 ### [<cite>Goat and Donkey in strawberry sunglasses</cite> by Simon Puttock & Russell Julian](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5157085?QRY=CTIBIB%3C%20IRN(228313)&QRYTEXT=Goat%20and%20donkey%20in%20strawberry%20sunglasses)
 
-<div class="row">
-  <div class="medium-2 columns">
-    <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5157085?QRY=CTIBIB%3C%20IRN(228313)&QRYTEXT=Goat%20and%20donkey%20in%20strawberry%20sunglasses"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2015/01/goatanddonkey.jpg" alt="Goat and Donkey in strawberry sunglasses by Simon Puttock & Russell Julian" /></a>
-  </div>
+[![Goat and Donkey in strawberry sunglasses by Simon Puttock & Russell Julian](/images/article/goat-and-donkey-in-strawberry-sunglasses.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5157085?QRY=CTIBIB%3C%20IRN(228313)&QRYTEXT=Goat%20and%20donkey%20in%20strawberry%20sunglasses)
 
 A sweet picture book about two friends. Goat buys lots of surprises for Donkey.
 
 ### [<cite>That’s not my goat</cite> by Fiona Watt](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5158195?QRY=CTIBIB%3C%20IRN(36545512)&QRYTEXT=That%27s%20not%20my%20goat)
 
-<div class="row">
-  <div class="medium-2 columns">
-    <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5158195?QRY=CTIBIB%3C%20IRN(36545512)&QRYTEXT=That%27s%20not%20my%20goat"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2015/01/thatsnotmygoat.jpg" alt="That’s not my goat by Fiona Watt" /></a>
-  </div>
+[![That’s not my goat by Fiona Watt](/images/article/thats-not-my-goat.jpg)](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5158195?QRY=CTIBIB%3C%20IRN(36545512)&QRYTEXT=That%27s%20not%20my%20goat)
 
 A tactile board book featuring very cute goats. Perfect for the very young.
 
