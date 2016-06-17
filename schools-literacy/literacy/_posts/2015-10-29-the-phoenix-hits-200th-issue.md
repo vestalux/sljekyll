@@ -22,7 +22,7 @@ Some of the comic strips are published as collections and Suffolk Libraries has 
 
 <div class="cf">
   <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/987484?QRY=CTIBIB%3C%20IRN(41822951)&QRYTEXT=Corpse%20talk"><img src="/images/article/corpse-talk-season-1-large.jpg" alt="Corpse Talk" /></a>
-  <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/990470?QRY=CTIBIB%3C%20IRN(51671)&QRYTEXT=Baggage"><img src="/images/article/baggage-large.jpg" alt="Baggage" width="200" height="282" /></a>
+  <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/990470?QRY=CTIBIB%3C%20IRN(51671)&QRYTEXT=Baggage"><img src="/images/article/baggage-large.jpg" alt="Baggage" /></a>
   <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/989529?QRY=CTIBIB%3C%20IRN(37214113)&QRYTEXT=Bunny%20vs%20Monkey"><img src="/images/article/bunny-vs-monkey-large.jpg" alt="Bunny vs Monkey" /></a>
 </div>
 
