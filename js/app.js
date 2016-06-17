@@ -12,32 +12,32 @@ var s = document.getElementsByTagName('script')[0];
 s.parentNode.insertBefore(wf, s);
 })();
 
-// Toggles hide class on .toggle when .toggle-button clicked
+// Toggles db class on .custom-toggle when .custom-toggle-button clicked
 
 document.addEventListener('DOMContentLoaded', function() {
-	[].forEach.call(document.querySelectorAll('.toggle-button'), function(el) {
+	[].forEach.call(document.querySelectorAll('.custom-toggle-button'), function(el) {
 		el.addEventListener('click', function(e) {
 			if (e.target.nodeName.toLowerCase() == 'a') {
 				e.preventDefault();
 			}
-			[].forEach.call(document.querySelectorAll('.toggle'), function(el) {
-				el.classList.toggle('hide');
+			[].forEach.call(document.querySelectorAll('.custom-toggle'), function(el) {
+				el.classList.toggle('db');
 			});
 		});
 	});
 });
 
 
-// Toggles open class on .toggle-button when .toggle-button clicked
+// Toggles custom-open class on .custom-toggle-button when .custom-toggle-button clicked
 
 document.addEventListener('DOMContentLoaded', function() {
-	[].forEach.call(document.querySelectorAll('.toggle-button'), function(el) {
+	[].forEach.call(document.querySelectorAll('.custom-toggle-button'), function(el) {
 		el.addEventListener('click', function(e) {
 			if (e.target.nodeName.toLowerCase() == 'a') {
 				e.preventDefault();
 			}
-			[].forEach.call(document.querySelectorAll('.toggle-button'), function(el) {
-				el.classList.toggle('open');
+			[].forEach.call(document.querySelectorAll('.custom-toggle-button'), function(el) {
+				el.classList.toggle('custom-open');
 			});
 		});
 	});

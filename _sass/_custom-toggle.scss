@@ -1,0 +1,7 @@
+.custom-closed:after {
+    content: "\25bc";
+}
+
+.custom-open:after {
+    content: "\25b2" !important;
+}
