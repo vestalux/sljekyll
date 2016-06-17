@@ -2,17 +2,17 @@
 
     {% if page.sidebar == 'about' %}
 
-      <section class="pb3 pb4-ns">
+      <section class="{% include /c/sidebar-section.html %}">
 
-          <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked">In this section</h1>
+          <h1 class="{% include /c/sidebar-section-title.html %}">In this section</h1>
 
-          <ul class="pa0 ma0 list mb2 f6 f5-ns">
+          <ul class="{% include /c/sidebar-section-list.html %}">
 
-              <li class="pv2 bt b--light-gray"><a class="blue link" href="/about/">About us</a></li>
-              <li class="pv2 bt b--light-gray"><a class="blue link" href="/about/board-members/">Board members</a></li>
-              <li class="pv2 bt b--light-gray"><a class="blue link" href="/about/documents/">Documents (including board meeting minutes)</a></li>
-              <li class="pv2 bt b--light-gray"><a class="blue link" href="/about/member-organisations/">Member organisations</a></li>
-              <li class="pv2 bt b--light-gray"><a class="blue link" href="/about/jobs/">Jobs</a></li>
+              <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/about/">About us</a></li>
+              <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/about/board-members/">Board members</a></li>
+              <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/about/documents/">Documents (including board meeting minutes)</a></li>
+              <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/about/member-organisations/">Member organisations</a></li>
+              <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/about/jobs/">Jobs</a></li>
 
           </ul>
 
@@ -22,19 +22,17 @@
 
     {% if page.breadcrumb == 'blog' %}
 
-        <section class="pb3 pb4-ns">
+        <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked"><a class="blue link" href="/blog">Latest blog posts</a></h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/blog">Latest blog posts</a></h1>
 
-            <ul class="pa0 ma0 list mb2 f6 f5-ns">
+            <ul class="{% include /c/sidebar-section-list.html %}">
 
-              <ul class="listing">
                 {% for post in site.categories.['blog'] limit:5 %}
                   <li>
                     <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                   </li>
                 {% endfor %}
-              </ul>
 
             </ul>
 
@@ -44,17 +42,17 @@
 
     {% if page.breadcrumb == 'elibrary' %}
 
-        <section class="pb3 pb4-ns">
+        <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked">Instructions for:</h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}">Instructions for:</h1>
 
-            <ul class="pa0 ma0 list mb2 f6 f5-ns">
+            <ul class="{% include /c/sidebar-section-list.html %}">
 
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/elibrary/overdrive/">OverDrive</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/elibrary/borrowbox/">BorrowBox</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/elibrary/freegal/">Freegal</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/elibrary/zinio/">Zinio</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/elibrary/3m/">3M Cloud Library</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/elibrary/overdrive/">OverDrive</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/elibrary/borrowbox/">BorrowBox</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/elibrary/freegal/">Freegal</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/elibrary/zinio/">Zinio</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/elibrary/3m/">3M Cloud Library</a></li>
 
             </ul>
 
@@ -64,40 +62,36 @@
 
     {% if page.sidebar == 'health' %}
 
-        <section class="pb3 pb4-ns">
+        <section class="{% include /c/sidebar-section.html %}">
 
-            <section class="pb3 pb4-ns">
+            <h1 class="{% include /c/sidebar-section-title.html %}">In this section</h1>
 
-                <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked">In this section</h1>
+            <ul class="{% include /c/sidebar-section-list.html %}">
 
-                <ul class="pa0 ma0 list mb2 f6 f5-ns">
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/health/">Home</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/health/events/">Events</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/health/links/">Links</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/health/contact/">Contact</a></li>
 
-                    <li class="pv2 bt b--light-gray"><a class="blue link" href="/health/">Home</a></li>
-                    <li class="pv2 bt b--light-gray"><a class="blue link" href="/health/events/">Events</a></li>
-                    <li class="pv2 bt b--light-gray"><a class="blue link" href="/health/links/">Links</a></li>
-                    <li class="pv2 bt b--light-gray"><a class="blue link" href="/health/contact/">Contact</a></li>
+            </ul>
 
-                </ul>
+        </section>
 
-            </section>
+        <section>
 
-            <section>
+            <img src="/images/article/new-chapters-logo.png" class="pb3" alt="New Chapters logo"/>
 
-                <img src="/images/article/new-chapters-logo.png" class="pb3" alt="New Chapters logo"/>
+            <h1 class="{% include /c/sidebar-section-title.html %}">About</h1>
 
-                <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked">About</h1>
+            <p class="ma0 mb2 f6 f5-ns">My name is Sarah Lungley and I am the coordinator for Suffolk Libraries Mental Health and Wellbeing Information Service.</p>
 
-                <p class="ma0 mb2 f6 f5-ns">My name is Sarah Lungley and I am the coordinator for Suffolk Libraries Mental Health and Wellbeing Information Service.</p>
+            <p class="ma0 mb2 f6 f5-ns">My role is to help provide information on local services and to promote events in our libraries and the community that can support mental health and wellbeing.</p>
 
-                <p class="ma0 mb2 f6 f5-ns">My role is to help provide information on local services and to promote events in our libraries and the community that can support mental health and wellbeing.</p>
+            <p class="ma0 mb2 f6 f5-ns">The service also aims to support our library staff, to ensure they are able to access useful and up-to-date information for our customers should they request it.</p>
 
-                <p class="ma0 mb2 f6 f5-ns">The service also aims to support our library staff, to ensure they are able to access useful and up-to-date information for our customers should they request it.</p>
+            <p class="ma0 mb2 f6 f5-ns">Libraries are a fantastic resource, not only for books and information but for community, friendships and fun too. So pop in to your local branch or explore our website to find out more about what we do – we hope to see you soon!</p>
 
-                <p class="ma0 mb2 f6 f5-ns">Libraries are a fantastic resource, not only for books and information but for community, friendships and fun too. So pop in to your local branch or explore our website to find out more about what we do – we hope to see you soon!</p>
-
-                <img src="/images/article/suffolk-information-standard-logo.jpg" class="pb3" alt="Suffolk Information Standard logo"/>
-
-            </section>
+            <img src="/images/article/suffolk-information-standard-logo.jpg" class="pb3" alt="Suffolk Information Standard logo"/>
 
         </section>
 
@@ -105,50 +99,62 @@
 
     {% if page.breadcrumb == 'help' %}
 
-        <section class="pb3 pb4-ns">
+        <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked">Using the library service</h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}">Using the library service</h1>
 
-            <ul class="pa0 ma0 list mb2 f6 f5-ns">
+            <ul class="pa0 ma0 list pb2 f6 f5-ns">
 
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/help/joining-the-library/">Joining the library</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/help/charges/">Charges, fines and what you can borrow</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/help/find-and-reserve-print-titles-dvds-and-cds/">Find, reserve and borrow books, music and film</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/help/opening-times-and-holidays/">Opening times and holidays</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/help/reregistering-an-expired-library-card/">Re–registering an expired library card</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/help/borrowing-titles-from-cambridgeshire-libraries/">Borrowing titles from Cambridgeshire libraries</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/help/library-byelaws/">Library byelaws</a></li>
-
-            </ul>
-
-            <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked">Using the online library service</h1>
-
-            <ul class="pa0 ma0 list mb2 f6 f5-ns">
-
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/help/using-our-online-catalogue/">Using our online catalogue</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/help/renewing-titles/">Renewing titles online</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/help/suggest-a-title/">Suggest a title</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/help/privacy-and-cookies/">Privacy and cookies</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/joining-the-library/">Joining the library</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/charges/">Charges, fines and what you can borrow</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/find-and-reserve-print-titles-dvds-and-cds/">Find, reserve and borrow books, music and film</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/opening-times-and-holidays/">Opening times and holidays</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/reregistering-an-expired-library-card/">Re–registering an expired library card</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/borrowing-titles-from-cambridgeshire-libraries/">Borrowing titles from Cambridgeshire libraries</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/library-byelaws/">Library byelaws</a></li>
 
             </ul>
 
-            <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked">eBooks, eAudio books, streaming & downloads</h1>
+        </section>
 
-            <ul class="pa0 ma0 list mb2 f6 f5-ns">
+        <section class="{% include /c/sidebar-section.html %}">
 
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/help/using-our-elibrary-service/">Using our eLibrary services</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/help/borrowing-ereaders-and-ipads/">Borrowing eReaders and iPads</a></li>
+            <h1 class="{% include /c/sidebar-section-title.html %}">Using the online library service</h1>
+
+            <ul class="{% include /c/sidebar-section-list.html %}">
+
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/using-our-online-catalogue/">Using our online catalogue</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/renewing-titles/">Renewing titles online</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/suggest-a-title/">Suggest a title</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/privacy-and-cookies/">Privacy and cookies</a></li>
 
             </ul>
 
-            <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked">Wifi, computers and printing in libraries</h1>
+        </section>
 
-            <ul class="pa0 ma0 list mb2 f6 f5-ns">
+        <section class="{% include /c/sidebar-section.html %}">
 
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/help/printing-copying-scanning/">Printing, copying, scanning & faxing</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/help/using-library-pcs/">Using library computers</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/help/using-wifi-in-libraries/">Using wifi in libraries</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/help/what-we-filter-on-public-pcs-and-our-wifi-service/">What we filter on public PCs and our WiFi service</a></li>
+            <h1 class="{% include /c/sidebar-section-title.html %}">eBooks, eAudio books, streaming &amp; downloads</h1>
+
+            <ul class="{% include /c/sidebar-section-list.html %}">
+
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/using-our-elibrary-service/">Using our eLibrary services</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/borrowing-ereaders-and-ipads/">Borrowing eReaders and iPads</a></li>
+
+            </ul>
+
+        </section>
+
+        <section class="{% include /c/sidebar-section.html %}">
+
+            <h1 class="{% include /c/sidebar-section-title.html %}">Wifi, computers and printing in libraries</h1>
+
+            <ul class="{% include /c/sidebar-section-list.html %}">
+
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/printing-copying-scanning/">Printing, copying, scanning & faxing</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/using-library-pcs/">Using library computers</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/using-wifi-in-libraries/">Using wifi in libraries</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/what-we-filter-on-public-pcs-and-our-wifi-service/">What we filter on public PCs and our WiFi service</a></li>
 
             </ul>
 
@@ -158,17 +164,17 @@
 
     {% if page.sidebar == 'hub' %}
 
-      <section class="pb3 pb4-ns">
+      <section class="{% include /c/sidebar-section.html %}">
 
-          <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked">In this section</h1>
+          <h1 class="{% include /c/sidebar-section-title.html %}">In this section</h1>
 
-          <ul class="pa0 ma0 list mb2 f6 f5-ns">
+          <ul class="{% include /c/sidebar-section-list.html %}">
 
-              <li class="pv2 bt b--light-gray"><a class="blue link" href="/branches/hub/">Home</a></li>
-              <li class="pv2 bt b--light-gray"><a class="blue link" href="https://uk.bookingbug.com/home/45066-Enterprise-+-Innovation-Hub">Book a space, room or advisor</a></li>
-              <li class="pv2 bt b--light-gray"><a class="blue link" href="/branches/hub/makerspace">MakerSpace</a></li>
-              <li class="pv2 bt b--light-gray"><a class="blue link" href="/branches/hub/conditions-of-use">Conditions of use</a></li>
-              <li class="pv2 bt b--light-gray"><a class="blue link" href="http://eepurl.com/bB1SUb">Hub newsletter</a></li>
+              <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/branches/hub/">Home</a></li>
+              <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="https://uk.bookingbug.com/home/45066-Enterprise-+-Innovation-Hub">Book a space, room or advisor</a></li>
+              <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/branches/hub/makerspace">MakerSpace</a></li>
+              <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/branches/hub/conditions-of-use">Conditions of use</a></li>
+              <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="http://eepurl.com/bB1SUb">Hub newsletter</a></li>
 
           </ul>
 
@@ -178,19 +184,17 @@
 
     {% if page.breadcrumb == 'news' %}
 
-        <section class="pb3 pb4-ns">
+        <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked"><a class="blue link" href="/news">Latest news</a></h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/news">Latest news</a></h1>
 
-            <ul class="pa0 ma0 list mb2 f6 f5-ns">
+            <ul class="{% include /c/sidebar-section-list.html %}">
 
-              <ul class="listing">
                 {% for post in site.categories.['news'] limit:5 %}
                   <li>
                     <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                   </li>
                 {% endfor %}
-              </ul>
 
             </ul>
 
@@ -200,24 +204,28 @@
 
     {% if page.sidebar == 'literacy' %}
 
-        <section class="pb3 pb4-ns">
+        <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked">In this section</h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}">In this section</h1>
 
-            <ul class="pa0 ma0 list mb2 f6 f5-ns">
+            <ul class="{% include /c/sidebar-section-list.html %}">
 
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/schools-literacy/literacy/">Home</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/schools-literacy/literacy/schools/">Schools</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/schools-literacy/literacy/resources/">Resources</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/schools-literacy/literacy/parents-carers/">Parents and carers</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/schools-literacy/literacy/cool-links/">Cool links</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/schools-literacy/literacy/contact/">Contact</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/literacy/">Home</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/literacy/schools/">Schools</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/literacy/resources/">Resources</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/literacy/parents-carers/">Parents and carers</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/literacy/cool-links/">Cool links</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/literacy/contact/">Contact</a></li>
 
             </ul>
 
             <img src="/images/article/beyond-the-book-logo.jpg" alt="Beyond the Book logo" />
 
-            <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked">About</h1>
+        </section>
+
+        <section class="{% include /c/sidebar-section.html %}">
+
+            <h1 class="{% include /c/sidebar-section-title.html %}">About</h1>
 
             <p class="ma0 mb2 f6 f5-ns">My name is Matt Shenton and I am working for Suffolk Libraries as a dedicated ‘Literacy Ambassador’ for the next year. My role is to work with schools, statutory and voluntary organisations and other interested parties to promote reading for pleasure and the importance of literacy to young people and their families in Suffolk.</p>
 
@@ -227,30 +235,30 @@
 
     {% if page.sidebar == 'schools' %}
 
-        <section class="pb3 pb4-ns">
+        <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked">In this section</h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}">In this section</h1>
 
-            <ul class="pa0 ma0 list mb2 f6 f5-ns">
+            <ul class="{% include /c/sidebar-section-list.html %}">
 
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/schools-literacy/schools">Home</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/schools-literacy/schools/about">About</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/schools-literacy/schools/advisory-librarian-support">Advisory librarian support</a></li>
-                <ul class="pa0 ma0 list mb2 f6 f5-ns">
-                  <li class="pv2 bt b--light-gray"><a class="blue link" href="/schools-literacy/schools/advisory-librarian-support/book-lists">School book lists</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/schools">Home</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/schools/about">About</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/schools/advisory-librarian-support">Advisory librarian support</a></li>
+                <ul class="{% include /c/sidebar-section-list.html %}">
+                  <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/schools/advisory-librarian-support/book-lists">School book lists</a></li>
                 </ul>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/schools-literacy/schools/artefact-loan">Artefact loan</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/schools-literacy/schools/contact">Contact</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/schools-literacy/schools/costs">Costs</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/schools-literacy/schools/curriculum-support">Curriculum support</a></li>
-                <ul class="pa0 ma0 list mb2 f6 f5-ns">
-                  <li class="pv2 bt b--light-gray"><a class="blue link" href="/schools-literacy/schools/curriculum-support/artefact-box-list">Artefact box list</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/schools/artefact-loan">Artefact loan</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/schools/contact">Contact</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/schools/costs">Costs</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/schools/curriculum-support">Curriculum support</a></li>
+                <ul class="{% include /c/sidebar-section-list.html %}">
+                  <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/schools/curriculum-support/artefact-box-list">Artefact box list</a></li>
                 </ul>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/schools-literacy/schools/curriculum-topic-loan">Curriculum topic loan</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/schools-literacy/schools/order-forms">Order forms</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/schools-literacy/schools/reading-for-pleasure-loan">Reading for pleasure loan</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/schools-literacy/schools/staff-training-and-cpd">Staff training and CPD</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/schools-literacy/schools/student-awards-and-events">Student awards and events</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/schools/curriculum-topic-loan">Curriculum topic loan</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/schools/order-forms">Order forms</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/schools/reading-for-pleasure-loan">Reading for pleasure loan</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/schools/staff-training-and-cpd">Staff training and CPD</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/schools/student-awards-and-events">Student awards and events</a></li>
 
             </ul>
 
@@ -260,17 +268,17 @@
 
     {% if page.sidebar == 'reading-advice' %}
 
-        <section class="pb3 pb4-ns">
+        <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked">In this section</h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}">In this section</h1>
 
-            <ul class="pa0 ma0 list mb2 f6 f5-ns">
+            <ul class="{% include /c/sidebar-section-list.html %}">
 
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/schools-literacy/reading-advice">Home</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/schools-literacy/reading-advice/pre-school">Babies, toddlers and pre-school children</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/schools-literacy/reading-advice/primary-school">Primary school age children</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/schools-literacy/reading-advice/secondary-school">Teenagers and Young Adults</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/schools-literacy/reading-advice/dyslexia-irlen">Dyslexia and Irlen syndrome</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/reading-advice">Home</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/reading-advice/pre-school">Babies, toddlers and pre-school children</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/reading-advice/primary-school">Primary school age children</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/reading-advice/secondary-school">Teenagers and Young Adults</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/reading-advice/dyslexia-irlen">Dyslexia and Irlen syndrome</a></li>
 
             </ul>
 
@@ -280,22 +288,22 @@
 
     {% if page.breadcrumb == 'new-suggestions' %}
 
-        <section class="pb3 pb4-ns">
+        <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked">In this section</h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}">In this section</h1>
 
-            <ul class="pa0 ma0 list mb2 f6 f5-ns">
+            <ul class="{% include /c/sidebar-section-list.html %}">
 
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/new-suggestions">Home</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/new-suggestions/fiction">Fiction</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/new-suggestions/non-fiction">Non-fiction</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/new-suggestions/childrens-ya-books">Children's and YA books</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/new-suggestions/films-dvds">Films and DVDs</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/new-suggestions/music">Music</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/new-suggestions/book-club-ideas">Book club ideas</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/new-suggestions/local-interest">Local interest</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/new-suggestions/staff-picks">Staff picks</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/new-suggestions/booked-out">Booked Out podcast</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions">Home</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/fiction">Fiction</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/non-fiction">Non-fiction</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/childrens-ya-books">Children's and YA books</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/films-dvds">Films and DVDs</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/music">Music</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/book-club-ideas">Book club ideas</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/local-interest">Local interest</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/staff-picks">Staff picks</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/booked-out">Booked Out podcast</a></li>
 
 
             </ul>
@@ -306,19 +314,17 @@
 
     {% if page.breadcrumb == 'films-dvds' %}
 
-        <section class="pb3 pb4-ns">
+        <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked"><a class="blue link" href="/new-suggestions/films-dvds">More films and DVDs</a></h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/films-dvds">More films and DVDs</a></h1>
 
-            <ul class="pa0 ma0 list mb2 f6 f5-ns">
+            <ul class="{% include /c/sidebar-section-list.html %}">
 
-              <ul class="listing">
                 {% for post in site.categories.['films-dvds'] limit:5 %}
-                  <li>
-                    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                  <li class="{% include /c/sidebar-section-list-item.html %}">
+                    <a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                   </li>
                 {% endfor %}
-              </ul>
 
             </ul>
 
@@ -328,19 +334,17 @@
 
     {% if page.breadcrumb == 'staff-picks' %}
 
-        <section class="pb3 pb4-ns">
+        <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked"><a class="blue link" href="/new-suggestions/film-lists">More staff picks</a></h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/film-lists">More staff picks</a></h1>
 
-            <ul class="pa0 ma0 list mb2 f6 f5-ns">
+            <ul class="{% include /c/sidebar-section-list.html %}">
 
-              <ul class="listing">
                 {% for post in site.categories.['staff-picks'] limit:5 %}
-                  <li>
-                    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                  <li class="{% include /c/sidebar-section-list-item.html %}">
+                    <a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                   </li>
                 {% endfor %}
-              </ul>
 
             </ul>
 
@@ -350,19 +354,17 @@
 
     {% if page.breadcrumb == 'local-interest' %}
 
-        <section class="pb3 pb4-ns">
+        <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked"><a class="blue link" href="/new-suggestions/film-lists">More local interest</a></h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/film-lists">More local interest</a></h1>
 
-            <ul class="pa0 ma0 list mb2 f6 f5-ns">
+            <ul class="{% include /c/sidebar-section-list.html %}">
 
-              <ul class="listing">
                 {% for post in site.categories.['local-interest'] limit:5 %}
-                  <li>
-                    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                  <li class="{% include /c/sidebar-section-list-item.html %}">
+                    <a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                   </li>
                 {% endfor %}
-              </ul>
 
             </ul>
 
@@ -372,19 +374,17 @@
 
     {% if page.breadcrumb == 'booked-out' %}
 
-        <section class="pb3 pb4-ns">
+        <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked"><a class="blue link" href="/new-suggestions/film-lists">More Booked Out episodes</a></h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/film-lists">More Booked Out episodes</a></h1>
 
-            <ul class="pa0 ma0 list mb2 f6 f5-ns">
+            <ul class="{% include /c/sidebar-section-list.html %}">
 
-              <ul class="listing">
                 {% for post in site.categories.['booked-out'] limit:5 %}
-                  <li>
-                    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                  <li class="{% include /c/sidebar-section-list-item.html %}">
+                    <a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                   </li>
                 {% endfor %}
-              </ul>
 
             </ul>
 
@@ -394,19 +394,17 @@
 
     {% if page.breadcrumb == 'book-club-ideas' %}
 
-        <section class="pb3 pb4-ns">
+        <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked"><a class="blue link" href="/new-suggestions/book-club-ideas">More book club ideas</a></h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/book-club-ideas">More book club ideas</a></h1>
 
-            <ul class="pa0 ma0 list mb2 f6 f5-ns">
+            <ul class="{% include /c/sidebar-section-list.html %}">
 
-              <ul class="listing">
                 {% for post in site.categories.['book-club-ideas'] limit:5 %}
-                  <li>
-                    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                  <li class="{% include /c/sidebar-section-list-item.html %}">
+                    <a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                   </li>
                 {% endfor %}
-              </ul>
 
             </ul>
 
@@ -416,19 +414,18 @@
 
     {% if page.breadcrumb == 'music' %}
 
-        <section class="pb3 pb4-ns">
+        <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked"><a class="blue link" href="/new-suggestions/music">More music</a></h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/music">More music</a></h1>
 
-            <ul class="pa0 ma0 list mb2 f6 f5-ns">
+            <ul class="{% include /c/sidebar-section-list.html %}">
 
-              <ul class="listing">
+
                 {% for post in site.categories.['music'] limit:5 %}
-                  <li>
-                    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                  <li class="{% include /c/sidebar-section-list-item.html %}">
+                    <a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                   </li>
                 {% endfor %}
-              </ul>
 
             </ul>
 
@@ -438,19 +435,17 @@
 
     {% if page.breadcrumb == 'childrens-ya-books' %}
 
-        <section class="pb3 pb4-ns">
+        <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked"><a class="blue link" href="/new-suggestions/childrens-ya-books">More children's and YA books</a></h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/childrens-ya-books">More children's and YA books</a></h1>
 
-            <ul class="pa0 ma0 list mb2 f6 f5-ns">
+            <ul class="{% include /c/sidebar-section-list.html %}">
 
-              <ul class="listing">
                 {% for post in site.categories.['childrens-ya-books'] limit:5 %}
-                  <li>
-                    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                  <li class="{% include /c/sidebar-section-list-item.html %}">
+                    <a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                   </li>
                 {% endfor %}
-              </ul>
 
             </ul>
 
@@ -460,19 +455,15 @@
 
     {% if page.breadcrumb == 'fiction' %}
 
-        <section class="pb3 pb4-ns">
+        <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked"><a class="blue link" href="/new-suggestions/fiction">More fiction books</a></h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/fiction">More fiction books</a></h1>
 
-            <ul class="pa0 ma0 list mb2 f6 f5-ns">
+            <ul class="{% include /c/sidebar-section-list.html %}">
 
-              <ul class="listing">
-                {% for post in site.categories.['fiction'] limit:5 %}
-                  <li>
-                    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                  </li>
-                {% endfor %}
-              </ul>
+            {% for post in site.categories.['fiction'] limit:5 %}
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+            {% endfor %}
 
             </ul>
 
@@ -482,19 +473,17 @@
 
     {% if page.breadcrumb == 'non-fiction' %}
 
-        <section class="pb3 pb4-ns">
+        <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked"><a class="blue link" href="/new-suggestions/non-fiction">More non-fiction books</a></h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/non-fiction">More non-fiction books</a></h1>
 
-            <ul class="pa0 ma0 list mb2 f6 f5-ns">
+            <ul class="{% include /c/sidebar-section-list.html %}">
 
-              <ul class="listing">
                 {% for post in site.categories.['non-fiction'] limit:5 %}
-                  <li>
-                    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                  <li class="{% include /c/sidebar-section-list-item.html %}">
+                    <a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                   </li>
                 {% endfor %}
-              </ul>
 
             </ul>
 
@@ -504,15 +493,15 @@
 
     {% if page.sidebar == 'information-resources' %}
 
-        <section class="pb3 pb4-ns">
+        <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked">In this section</h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}">In this section</h1>
 
-            <ul class="pa0 ma0 list mb2 f6 f5-ns">
+            <ul class="{% include /c/sidebar-section-list.html %}">
 
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/information-resources/">Information resources</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/music-and-drama">Music and Drama Library</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/special-collections">Special collections</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/information-resources/">Information resources</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/music-and-drama">Music and Drama Library</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/special-collections">Special collections</a></li>
 
             </ul>
 
@@ -522,27 +511,19 @@
 
     {% if page.sidebar == 'summer-reading-challenge' %}
 
-        <section class="pb3 pb4-ns">
+        <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked">In this section</h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}">In this section</h1>
 
-            <ul class="pa0 ma0 list mb2 f6 f5-ns">
+            <ul class="{% include /c/sidebar-section-list.html %}">
 
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/events-activities/summer-reading-challenge/">Home</a></li>
-                <li class="pv2 bt b--light-gray"><a class="blue link" href="/events-activities/summer-reading-challenge/summer-reading-challenge-volunteer-application-form/">Volunteer application form</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/events-activities/summer-reading-challenge/">Home</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/events-activities/summer-reading-challenge/summer-reading-challenge-volunteer-application-form/">Volunteer application form</a></li>
 
             </ul>
 
         </section>
 
     {% endif %}
-
-    <section class="pb3 pb4-ns">
-
-        <h1 class="ma0 pb2 f6 f5-ns normal ttu tracked">A universal sidebar section</h1>
-
-        <p class="ma0 mb2 f6 f5-ns">Something for every page.</p>
-
-    </section>
 
 </aside>
