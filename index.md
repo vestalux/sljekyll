@@ -29,7 +29,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
                 <section class="{% include /c/block.html %}">
 
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/elibrary">Branches</a></h1>
+                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/branches">Branches</a></h1>
 
                     <p class="{% include /c/block-graf.html %}">Library contact details &amp; events, hire library spaces</p>
 
@@ -81,7 +81,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
                 <section class="{% include /c/block.html %}">
 
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/new-suggestions">Events &amp; activities</a></h1>
+                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/events-activities">Events &amp; activities</a></h1>
 
                     <p class="{% include /c/block-graf.html %}">Activities for children &amp; older people, free IT courses and special events</p>
 
@@ -97,7 +97,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
                 <section class="{% include /c/block.html %}">
 
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/information-resources">Mental health &amp; wellbeing</a></h1>
+                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/health">Mental health &amp; wellbeing</a></h1>
 
                     <p class="{% include /c/block-graf.html %}">Books on Prescription, wellbeing resources, events &amp; a blog</p>
 
@@ -109,7 +109,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
                 <section class="{% include /c/block.html %}">
 
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/new-suggestions">Schools &amp; literacy</a></h1>
+                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/schools-literacy">Schools &amp; literacy</a></h1>
 
                     <p class="{% include /c/block-graf.html %}">Classroom resources for teachers and literacy resources for parents &amp; carers</p>
 
@@ -121,7 +121,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
                 <section class="{% include /c/block.html %}">
 
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/new-suggestions">Ipswich Enterprise + Business Hub</a></h1>
+                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/branches/hub">Ipswich Enterprise + Business Hub</a></h1>
 
                     <p class="{% include /c/block-graf.html %}">Book a meeting space or desk, create with 3D printers and sewing machines</p>
 
@@ -179,9 +179,9 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
             <ul class="list ma0 pa0 f5">
 
-                <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="http://netloan.suffolklibraries.co.uk" class="blue link">Music &amp; Drama Library</a></li>
-                <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="/events-activities" class="blue link">Special collections</a></li>
-                <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="/health" class="blue link">Get fundraising info</a></li>
+                <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="/music-and-drama" class="blue link">Music &amp; Drama Library</a></li>
+                <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="/special-collections" class="blue link">Special collections</a></li>
+                <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="/about" class="blue link">Get fundraising info</a></li>
 
             </ul>
 
