@@ -21,6 +21,7 @@ $corporate: #3B1B53;
 
 
 $custom-max-width: 56em;
+$custom-narrow-width: 36em;
 
 // Import partials
 @import
@@ -38,5 +39,6 @@ $custom-max-width: 56em;
 "custom-vid",
 "custom-icons",
 "custom-toggle",
+"custom-narrow-width",
 "custom-mdp"
 ;

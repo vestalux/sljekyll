@@ -8,11 +8,15 @@
 
             {% include breadcrumb.html %}
 
-            <h1 class="{% include /c/page-title.html %}">{{ page.title }}</h1>
+            <div class="custom-narrow-width">
 
-            <div class="{% include /c/prose.html %}">
+                <h1 class="{% include /c/page-title.html %}">{{ page.title }}</h1>
 
-                {{ content }}
+                <div class="{% include /c/prose.html %}">
+
+                    {{ content }}
+
+                </div>
 
             </div>
 

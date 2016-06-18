@@ -29,9 +29,7 @@
             <ul class="{% include /c/sidebar-section-list.html %}">
 
                 {% for post in site.categories.['blog'] limit:5 %}
-                  <li>
-                    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                  </li>
+                    <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
                 {% endfor %}
 
             </ul>
@@ -190,11 +188,9 @@
 
             <ul class="{% include /c/sidebar-section-list.html %}">
 
-                {% for post in site.categories.['news'] limit:5 %}
-                  <li>
-                    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                  </li>
-                {% endfor %}
+            {% for post in site.categories.['news'] limit:5 %}
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+            {% endfor %}
 
             </ul>
 
