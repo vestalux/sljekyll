@@ -1,18 +1,14 @@
 ---
 title: eLibrary
-layout: full-width
+layout: default
 breadcrumb: home
 ---
 
-<div class="mb2 mb3-ns cf">
+<h1 class="page-title">eLibrary</h1>
 
-    <p class="custom-g-l4 f4 f3-ns mv0 custom-lh-title">Download and stream eBooks, eAudio, MP3s and magazines for free.</p>
+<div class="mb3 mb4-ns cf pa2 pa3-ns bg-light-gray">
 
-    <div class="custom-g-l2 custom-g-nm">
-
-        <p class="ma0 pa2 bg-light-gray">All you need is a library card. If you don't have one, <strong><a class="blue" href="/help/apply">apply for a card now &rarr;</a></strong></p>
-
-    </div>
+    <p class="ma0"><span class="b">Download and stream eBooks, eAudio, MP3s and magazines for free.</span> All you need is a library card. If you don't have one, <a class="blue" href="/help/apply">apply for a card now &rarr;</a></p>
 
 </div>
 
@@ -30,8 +26,8 @@ breadcrumb: home
 
             <ul class="{% include /c/block-list.html %}">
 
-                <li class="{% include /c/block-list-item.html %}"><a href="/elibrary/overdrive">Set up Overdrive app</a></li>
-                <li class="{% include /c/block-list-item.html %}"><a href="http://suffolklibraries.lib.overdrive.com/">OverDrive website</a></li>
+                <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}"  href="/elibrary/overdrive">Set up Overdrive app</a></li>
+                <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}"  href="http://suffolklibraries.lib.overdrive.com/">OverDrive website</a></li>
 
             </ul>
 
@@ -51,8 +47,8 @@ breadcrumb: home
 
             <ul class="{% include /c/block-list.html %}">
 
-                <li class="{% include /c/block-list-item.html %}"><a href="/elibrary/3m">Set up 3M Cloud Library app</a></li>
-                <li class="{% include /c/block-list-item.html %}"><a href="http://ebook.3m.com/library/suffolk/featured">3M Cloud Library website</a></li>
+                <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}"  href="/elibrary/3m">Set up 3M Cloud Library app</a></li>
+                <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}"  href="http://ebook.3m.com/library/suffolk/featured">3M Cloud Library website</a></li>
 
             </ul>
 
@@ -72,8 +68,8 @@ breadcrumb: home
 
             <ul class="{% include /c/block-list.html %}">
 
-                <li class="{% include /c/block-list-item.html %}"><a href="/elibrary/borrowbox/">Set up BorrowBox app</a></li>
-                <li class="{% include /c/block-list-item.html %}"><a href="http://library.bolindadigital.com/suffolk">BorrowBox website</a></li>
+                <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}"  href="/elibrary/borrowbox/">Set up BorrowBox app</a></li>
+                <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}"  href="http://library.bolindadigital.com/suffolk">BorrowBox website</a></li>
 
             </ul>
 
@@ -97,8 +93,8 @@ breadcrumb: home
 
             <ul class="{% include /c/block-list.html %}">
 
-                <li class="{% include /c/block-list-item.html %}"><a href="/elibrary/zinio/">Set up Zinio app</a></li>
-                <li class="{% include /c/block-list-item.html %}"><a href="http://www.rbdigital.com/Suffolk/service/zinio/landing">Zinio website</a></li>
+                <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}"  href="/elibrary/zinio/">Set up Zinio app</a></li>
+                <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}"  href="http://www.rbdigital.com/Suffolk/service/zinio/landing">Zinio website</a></li>
 
             </ul>
 
@@ -118,8 +114,8 @@ breadcrumb: home
 
             <ul class="{% include /c/block-list.html %}">
 
-                <li class="{% include /c/block-list-item.html %}"><a href="/elibrary/freegal/">Set up Freegal app</a></li>
-                <li class="{% include /c/block-list-item.html %}"><a href="http://suffolklibraries.freegalmusic.com/">Freegal website</a></li>
+                <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}"  href="/elibrary/freegal/">Set up Freegal app</a></li>
+                <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}"  href="http://suffolklibraries.freegalmusic.com/">Freegal website</a></li>
 
             </ul>
 

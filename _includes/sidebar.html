@@ -28,7 +28,7 @@
 
             <ul class="{% include /c/sidebar-section-list.html %}">
 
-                {% for post in site.categories.['blog'] limit:5 %}
+                {% for post in site.categories.['blog'] limit:10 %}
                     <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
                 {% endfor %}
 
@@ -188,7 +188,7 @@
 
             <ul class="{% include /c/sidebar-section-list.html %}">
 
-            {% for post in site.categories.['news'] limit:5 %}
+            {% for post in site.categories.['news'] limit:10 %}
                 <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
             {% endfor %}
 
@@ -286,11 +286,10 @@
 
         <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="{% include /c/sidebar-section-title.html %}">In this section</h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}">More lists</h1>
 
             <ul class="{% include /c/sidebar-section-list.html %}">
 
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions">Home</a></li>
                 <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/fiction">Fiction</a></li>
                 <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/non-fiction">Non-fiction</a></li>
                 <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/childrens-ya-books">Children's and YA books</a></li>
@@ -312,11 +311,11 @@
 
         <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="{% include /c/sidebar-section-title.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/films-dvds">More films and DVDs</a></h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}">More films and DVDs</h1>
 
             <ul class="{% include /c/sidebar-section-list.html %}">
 
-                {% for post in site.categories.['films-dvds'] limit:5 %}
+                {% for post in site.categories.['films-dvds'] limit:10 %}
                   <li class="{% include /c/sidebar-section-list-item.html %}">
                     <a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                   </li>
@@ -332,11 +331,11 @@
 
         <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="{% include /c/sidebar-section-title.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/film-lists">More staff picks</a></h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}">More staff picks</h1>
 
             <ul class="{% include /c/sidebar-section-list.html %}">
 
-                {% for post in site.categories.['staff-picks'] limit:5 %}
+                {% for post in site.categories.['staff-picks'] limit:10 %}
                   <li class="{% include /c/sidebar-section-list-item.html %}">
                     <a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                   </li>
@@ -352,11 +351,11 @@
 
         <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="{% include /c/sidebar-section-title.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/film-lists">More local interest</a></h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}">More local interest</h1>
 
             <ul class="{% include /c/sidebar-section-list.html %}">
 
-                {% for post in site.categories.['local-interest'] limit:5 %}
+                {% for post in site.categories.['local-interest'] limit:10 %}
                   <li class="{% include /c/sidebar-section-list-item.html %}">
                     <a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                   </li>
@@ -372,11 +371,11 @@
 
         <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="{% include /c/sidebar-section-title.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/film-lists">More Booked Out episodes</a></h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}">More Booked Out episodes</h1>
 
             <ul class="{% include /c/sidebar-section-list.html %}">
 
-                {% for post in site.categories.['booked-out'] limit:5 %}
+                {% for post in site.categories.['booked-out'] limit:10 %}
                   <li class="{% include /c/sidebar-section-list-item.html %}">
                     <a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                   </li>
@@ -392,11 +391,11 @@
 
         <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="{% include /c/sidebar-section-title.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/book-club-ideas">More book club ideas</a></h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}">More book club ideas</h1>
 
             <ul class="{% include /c/sidebar-section-list.html %}">
 
-                {% for post in site.categories.['book-club-ideas'] limit:5 %}
+                {% for post in site.categories.['book-club-ideas'] limit:10 %}
                   <li class="{% include /c/sidebar-section-list-item.html %}">
                     <a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                   </li>
@@ -412,12 +411,12 @@
 
         <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="{% include /c/sidebar-section-title.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/music">More music</a></h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}">More music</h1>
 
             <ul class="{% include /c/sidebar-section-list.html %}">
 
 
-                {% for post in site.categories.['music'] limit:5 %}
+                {% for post in site.categories.['music'] limit:10 %}
                   <li class="{% include /c/sidebar-section-list-item.html %}">
                     <a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                   </li>
@@ -433,11 +432,11 @@
 
         <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="{% include /c/sidebar-section-title.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/childrens-ya-books">More children's and YA books</a></h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}">More children's and YA books</h1>
 
             <ul class="{% include /c/sidebar-section-list.html %}">
 
-                {% for post in site.categories.['childrens-ya-books'] limit:5 %}
+                {% for post in site.categories.['childrens-ya-books'] limit:10 %}
                   <li class="{% include /c/sidebar-section-list-item.html %}">
                     <a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                   </li>
@@ -453,11 +452,11 @@
 
         <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="{% include /c/sidebar-section-title.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/fiction">More fiction books</a></h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}">More fiction</h1>
 
             <ul class="{% include /c/sidebar-section-list.html %}">
 
-            {% for post in site.categories.['fiction'] limit:5 %}
+            {% for post in site.categories.['fiction'] limit:10 %}
                 <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
             {% endfor %}
 
@@ -471,11 +470,11 @@
 
         <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="{% include /c/sidebar-section-title.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/non-fiction">More non-fiction books</a></h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}">More non-fiction books</h1>
 
             <ul class="{% include /c/sidebar-section-list.html %}">
 
-                {% for post in site.categories.['non-fiction'] limit:5 %}
+                {% for post in site.categories.['non-fiction'] limit:10 %}
                   <li class="{% include /c/sidebar-section-list-item.html %}">
                     <a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                   </li>
