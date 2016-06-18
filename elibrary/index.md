@@ -4,11 +4,15 @@ layout: full-width
 breadcrumb: home
 ---
 
-<div class="bg-navy white pa2 pa3-ns mb2 mb3-ns cf">
+<div class="mb2 mb3-ns cf">
 
-    <p class="custom-g-l4 f3 f2-ns b mv0 custom-lh-title">Download and stream eBooks, eAudio, MP3s and magazines for free.</p>
+    <p class="custom-g-l4 f4 f3-ns mv0 custom-lh-title">Download and stream eBooks, eAudio, MP3s and magazines for free.</p>
 
-    <p class="custom-g-l2 custom-g-nm t0 mv0">All you need is a library card. If you don't have one, <strong><a class="aqua" href="/help/apply">apply for a library card  &rarr;</a></strong></p>
+    <div class="custom-g-l2 custom-g-nm">
+
+        <p class="ma0 pa2 bg-light-gray">All you need is a library card. If you don't have one, <strong><a class="blue" href="/help/apply">apply for a card now &rarr;</a></strong></p>
+
+    </div>
 
 </div>
 
@@ -18,16 +22,16 @@ breadcrumb: home
 
         <section class="{% include /c/block.html %}" id="overdrive">
 
-            <h1 class="{% include /c/block-title.html %}"><a href="/elibrary/overdrive">Overdrive eBooks &amp; eAudio</a></h1>
+            <h1 class="{% include /c/block-title.html %}">Overdrive eBooks &amp; eAudio</h1>
 
             <img src="/images/card/overdrive.jpg" alt="Screenshot of the OverDrive website">
 
             <p class="{% include /c/block-graf.html %}">Borrow from a large range of eBooks and eAudio. Use the OverDrive website with your library card, or download apps for Android and iOS.</p>
 
-            <ul class="{% include /c/block-graf.html %} ml0 pl0">
+            <ul class="{% include /c/block-list.html %}">
 
-                <li class="mv1 mv0-ns"><a href="/elibrary/overdrive">Set up Overdrive app</a></li>
-                <li class="mv1 mv0-ns"><a href="http://suffolklibraries.lib.overdrive.com/">OverDrive website</a></li>
+                <li class="{% include /c/block-list-item.html %}"><a href="/elibrary/overdrive">Set up Overdrive app</a></li>
+                <li class="{% include /c/block-list-item.html %}"><a href="http://suffolklibraries.lib.overdrive.com/">OverDrive website</a></li>
 
             </ul>
 
@@ -39,16 +43,16 @@ breadcrumb: home
 
         <section class="{% include /c/block.html %}" id="3m">
 
-            <h1 class="{% include /c/block-title.html %}"><a href="/elibrary/3m">3M Cloud Library eBooks</a></h1>
+            <h1 class="{% include /c/block-title.html %}">3M Cloud Library eBooks</h1>
 
             <img src="/images/card/3m.jpg" alt="Screenshot of the 3M website">
 
             <p class="{% include /c/block-graf.html %}">Borrow from hundreds of high quality eBooks. Use the 3M website with your library card, or download apps for Android and iOS.</p>
 
-            <ul class="{% include /c/block-graf.html %} ml0 pl0">
+            <ul class="{% include /c/block-list.html %}">
 
-                <li class="mv1 mv0-ns"><a href="/elibrary/3m">Set up 3M Cloud Library app</a></li>
-                <li class="mv1 mv0-ns"><a href="http://ebook.3m.com/library/suffolk/featured">3M Cloud Library website</a></li>
+                <li class="{% include /c/block-list-item.html %}"><a href="/elibrary/3m">Set up 3M Cloud Library app</a></li>
+                <li class="{% include /c/block-list-item.html %}"><a href="http://ebook.3m.com/library/suffolk/featured">3M Cloud Library website</a></li>
 
             </ul>
 
@@ -60,16 +64,16 @@ breadcrumb: home
 
         <section class="{% include /c/block.html %}" id="borrowbox">
 
-            <h1 class="{% include /c/block-title.html %}"><a href="/elibrary/borrowbox/">BorrowBox eAudio</a></h1>
+            <h1 class="{% include /c/block-title.html %}">BorrowBox eAudio</h1>
 
             <img src="/images/card/borrowbox.jpg" alt="Screenshot of the BorrowBox website">
 
             <p class="{% include /c/block-graf.html %}">Choose from a wide range of eAudio books. Use the OverDrive website with your library card, or download apps for Android and iOS.</p>
 
-            <ul class="{% include /c/block-graf.html %} ml0 pl0">
+            <ul class="{% include /c/block-list.html %}">
 
-                <li class="mv1 mv0-ns"><a href="/elibrary/borrowbox/">Set up BorrowBox app</a></li>
-                <li class="mv1 mv0-ns"><a href="http://library.bolindadigital.com/suffolk">BorrowBox website</a></li>
+                <li class="{% include /c/block-list-item.html %}"><a href="/elibrary/borrowbox/">Set up BorrowBox app</a></li>
+                <li class="{% include /c/block-list-item.html %}"><a href="http://library.bolindadigital.com/suffolk">BorrowBox website</a></li>
 
             </ul>
 
@@ -85,16 +89,16 @@ breadcrumb: home
 
         <section class="{% include /c/block.html %}" id="zinio">
 
-            <h1 class="{% include /c/block-title.html %}"><a href="/elibrary/zinio/">Zinio magazines</a></h1>
+            <h1 class="{% include /c/block-title.html %}">Zinio magazines</h1>
 
             <img src="/images/card/zinio.jpg" alt="Screenshot of the Zinio website">
 
             <p class="{% include /c/block-graf.html %}">Download titles like <cite>Top Gear Magazine</cite> and <cite>Good Food</cite> to your device to keep forever.</p>
 
-            <ul class="{% include /c/block-graf.html %} ml0 pl0">
+            <ul class="{% include /c/block-list.html %}">
 
-                <li class="mv1 mv0-ns"><a href="/elibrary/zinio/">Set up Zinio app</a></li>
-                <li class="mv1 mv0-ns"><a href="http://www.rbdigital.com/Suffolk/service/zinio/landing">Zinio website</a></li>
+                <li class="{% include /c/block-list-item.html %}"><a href="/elibrary/zinio/">Set up Zinio app</a></li>
+                <li class="{% include /c/block-list-item.html %}"><a href="http://www.rbdigital.com/Suffolk/service/zinio/landing">Zinio website</a></li>
 
             </ul>
 
@@ -106,16 +110,16 @@ breadcrumb: home
 
         <section class="{% include /c/block.html %}" id="freegal">
 
-            <h1 class="{% include /c/block-title.html %}"><a href="/elibrary/freegal/">Freegal music</a></h1>
+            <h1 class="{% include /c/block-title.html %}">Freegal music</h1>
 
             <img src="/images/card/freegal.jpg" alt="Screenshot of the Freegal website">
 
             <p class="{% include /c/block-graf.html %}">Download or stream from a choice of hundreds of thousands of songs, including the entire Sony back catalogue.</p>
 
-            <ul class="{% include /c/block-graf.html %} ml0 pl0">
+            <ul class="{% include /c/block-list.html %}">
 
-                <li class="mv1 mv0-ns"><a href="/elibrary/freegal/">Set up Freegal app</a></li>
-                <li class="mv1 mv0-ns"><a href="http://suffolklibraries.freegalmusic.com/">Freegal website</a></li>
+                <li class="{% include /c/block-list-item.html %}"><a href="/elibrary/freegal/">Set up Freegal app</a></li>
+                <li class="{% include /c/block-list-item.html %}"><a href="http://suffolklibraries.freegalmusic.com/">Freegal website</a></li>
 
             </ul>
 
