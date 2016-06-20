@@ -1,11 +1,11 @@
 ---
-layout: sidebar-right
+layout: full-width-narrow
 title: "Conditions of use for the Carnegie Room, Enterprise + Innovation Hub"
 hero-image: hero-hub.jpg
 hero-alt: The Carnegie Room on the second floor of Ipswich County Library
 hero-caption: The Carnegie Room on the second floor of Ipswich County Library
 breadcrumb: hub
-sidebar: hub
+hnav: hub
 ---
 For the purpose of these Conditions of Use, the following definitions are used:
 
@@ -86,7 +86,7 @@ For the purpose of these Conditions of Use, the following definitions are used:
   a) cancel the booking without warning;
 
   b) terminate the hire immediately;
-  
+
   c) refuse to accept any further bookings.
 
 27. The Hirer shall not sub-hire the premises or any part of it. Any breach of this condition shall result in the immediate cancellation of a booking.

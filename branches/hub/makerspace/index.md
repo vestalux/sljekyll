@@ -1,11 +1,11 @@
 ---
-layout: sidebar-right
+layout: default
 title: 'Enterprise + Innovation Hub: MakerSpace'
 hero-image: hero-hub.jpg
 hero-alt: The Carnegie Room on the second floor of Ipswich County Library
 hero-caption: The Carnegie Room on the second floor of Ipswich County Library
 breadcrumb: hub
-sidebar: hub
+hnav: hub
 ---
 <h1>MakerSpace equipment</h1>
 <img src="http://suffolklibraries.co.uk/wp-content/uploads/2015/11/featured-hub-makerspace.jpg" alt="MakerSpace" />
