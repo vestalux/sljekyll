@@ -2,6 +2,12 @@
 
 {% include hero.html %}
 
+{% if page.hnav %}
+
+    {% include hnav.html %}
+
+{% endif %}
+
 <div class="{% include /c/main.html %}">
 
     <main id="content" class="{% include /c/content-box.html %}" role="main">
