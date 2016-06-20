@@ -1,8 +1,7 @@
 ---
-layout: sidebar-right
+layout: full-width-narrow
 title: Contact the Literacy, Books and Reading Team for Schools
 breadcrumb: schools
-sidebar: schools
 hnav: lbarts
 ---
 Suffolk Libraries Literacy Books and Reading Team for Schools,<br>

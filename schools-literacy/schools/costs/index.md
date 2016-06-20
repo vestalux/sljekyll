@@ -1,5 +1,5 @@
 ---
-layout: sidebar-right
+layout: full-width
 title: Costs
 breadcrumb: schools
 sidebar: schools

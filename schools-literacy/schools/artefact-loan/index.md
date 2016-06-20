@@ -1,5 +1,5 @@
 ---
-layout: sidebar-right
+layout: full-width-narrow
 title: Artefact loan
 breadcrumb: schools
 sidebar: schools

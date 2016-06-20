@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: Curriculum support
-breadcrumb: schools
+hnav: lbarts
 sidebar: schools
 ---
 * <strong>Curriculum topic loans</strong> of up to 20 books to support the teaching of curriculum topics throughout the term for primary schools, or up to 20 resources for KS3 on a termly basis.

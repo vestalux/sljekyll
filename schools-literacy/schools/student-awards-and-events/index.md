@@ -3,6 +3,7 @@ layout: sidebar-right
 title: Student awards and events
 breadcrumb: schools
 sidebar: schools
+hnav: lbarts
 ---
 ## Book Mastermind
 

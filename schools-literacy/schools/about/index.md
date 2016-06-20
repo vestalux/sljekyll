@@ -1,8 +1,8 @@
 ---
-layout: sidebar-right
+layout: full-width-narrow
 title: About the Literacy, Books and Reading Team for Schools
 breadcrumb: schools
-sidebar: schools
+hnav: lbarts
 ---
 The Literacy, Books and Reading Team for Schools, (previously known as the Schools Library Service) helps improve literacy in schools, through promoting reading for pleasure and supporting the curriculum using specialist knowledge about books.
 

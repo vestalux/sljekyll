@@ -1,8 +1,7 @@
 ---
-layout: sidebar-right
+layout: full-width-narrow
 title: Order forms
 breadcrumb: schools
-sidebar: schools
 hnav: lbarts
 ---
 We'll invoice you once you place your order. [See our costs.](/schools-literacy/schools/costs/)

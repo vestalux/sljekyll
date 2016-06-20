@@ -1,8 +1,8 @@
 ---
-layout: sidebar-right
+layout: full-width-narrow
 title: Reading for pleasure loan
 breadcrumb: schools
-sidebar: schools
+hnav: lbarts
 ---
 Fields marked with a * are required.
 
