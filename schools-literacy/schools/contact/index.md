@@ -3,6 +3,7 @@ layout: sidebar-right
 title: Contact the Literacy, Books and Reading Team for Schools
 breadcrumb: schools
 sidebar: schools
+hnav: lbarts
 ---
 Suffolk Libraries Literacy Books and Reading Team for Schools,<br>
 24 Hadenham Road,<br>

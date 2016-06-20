@@ -3,6 +3,7 @@ layout: sidebar-right
 title: Costs
 breadcrumb: schools
 sidebar: schools
+hnav: lbarts
 ---
 <p>Choose from two services:</p>
 

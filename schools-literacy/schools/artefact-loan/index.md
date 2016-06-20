@@ -3,6 +3,7 @@ layout: sidebar-right
 title: Artefact loan
 breadcrumb: schools
 sidebar: schools
+hnav: lbarts
 ---
 Complete this form to request an artefact loan from the Literacy, Books and Reading Team for Schools (LBRTS). Your request must reach us not later than two weeks before the end of term.
 

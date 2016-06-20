@@ -1,7 +1,7 @@
 // Call Google font-size
 
 WebFontConfig = {
-google: { families: [ 'Source+Sans+Pro:400,400italic,500,600,700,700italic:latin' ] }
+google: { families: [ 'Source+Sans+Pro:300,400,400italic,500,600,700,700italic:latin' ] }
 };
 (function() {
 var wf = document.createElement('script');

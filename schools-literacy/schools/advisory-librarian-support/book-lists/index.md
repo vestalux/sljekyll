@@ -3,6 +3,7 @@ layout: sidebar-right
 title: Schools book lists
 breadcrumb: schools
 sidebar: schools
+hnav: lbarts
 ---
 The Literacy, Books and Reading Team for Schools produces booklists of recommended titles for schools. Our current lists are:
 

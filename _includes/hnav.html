@@ -1,0 +1,29 @@
+<nav id="nav" class="pa2 pb0 pt2 pt5-ns ph5-ns custom-max-width tc">
+
+    <ul class="list pa0 ma0">
+
+    {% if page.hnav == 'lbarts' %}
+
+        <li class="{% include /c/hnav-list-item.html %}"><a href="/schools-literacy/schools" class="{% include /c/hnav-list-item-link.html %}">LBaRTS home</a></li>
+        <li class="{% include /c/hnav-list-item.html %}"><a href="/schools-literacy/schools/order-forms" class="{% include /c/hnav-list-item-link.html %}">Order forms</a></li>
+        <li class="{% include /c/hnav-list-item.html %}"><a href="/schools-literacy/schools/contact" class="{% include /c/hnav-list-item-link.html %}">Contact</a></li>
+        <li class="{% include /c/hnav-list-item.html %}"><a href="/schools-literacy/schools/about" class="{% include /c/hnav-list-item-link.html %}">About</a></li>
+        <li class="{% include /c/hnav-list-item.html %}"><a href="/schools-literacy/schools/costs" class="{% include /c/hnav-list-item-link.html %}">Costs</a></li>
+
+    {% endif %}
+
+    {% if page.hnav == 'hub' %}
+
+        <p>This is the hub menu.</p>
+
+    {% endif %}
+
+    {% if page.hnav == 'bookfest' %}
+
+        <p>This is a Bookfest menu.</p>
+
+    {% endif %}
+
+    </ul>
+
+</nav>
