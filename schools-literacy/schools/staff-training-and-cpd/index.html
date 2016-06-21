@@ -18,28 +18,33 @@ sidebar: schools
 
 <h2>Upcoming events</h2>
 
-{% assign events = site.events | sort: 'event-start-date'%}
-{% for event in events %}
-  {% if event.event-category == 'schools' %}
-    {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
-    {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
-    {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
-    {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
-    {% if now-unix <= event-time %}
-      <article>
-        <header>
-          <h1><a href="{{ event.url }}">{{ event.name }}</a></h1>
-          <p>
-            {% if event.event-end-date %}
-              <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-date | date: "%a %-d %b" }}</span> <span>{{ event.event-end-time }}</span>
-            {% else %}
-              <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-time }}</span>
-            {% endif %}
-          </p>
-        </header>
-      </article>
-    {% endif %}
-  {% endif %}
-{% endfor %}
+{% assign special-event-check = false %}
+  {% assign events = site.events | sort: 'event-start-date' %}
+    {% for event in events %}
+      {% if event.event-category == 'schools' %}
+        {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
+        {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
+        {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
+        {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+          {% if now-unix <= event-time %}
+            {% assign special-event-check = true %}
+              <article class="pb3">
+                <header>
+                  <h1 class="f5 normal ma0 mb1 custom-lh-title"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+                  <p class="{% include /c/page-meta.html %}">
+                  {% if event.event-end-date %}
+                  <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-date | date: "%a %-d %b" }}</span> <span>{{ event.event-end-time }}</span>
+                  {% else %}
+                  <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-time }}</span>
+                  {% endif %}
+                  </p>
+                </header>
+              </article>
+          {% endif %}
+      {% endif %}
+    {% endfor %}
+{% if special-event-check == false %}
+  <p class="{% include /c/page-meta.html %} mb3">No upcoming events.</p>
+{% endif %}
 
 <a href="/schools-literacy/schools/contact/">Contact the LBRTS team for more info →</a>
