@@ -119,7 +119,7 @@ breadcrumb: home
 
                 <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/summer-reading-challenge">Summer Reading Challenge</a></h1>
 
-                <p class="{% include /c/block-graf.html %}">Summer Reading Challenge</p>
+                <p class="{% include /c/block-graf.html %}">This year's Summer Reading Challenge runs from 16 July until 3 September.</p>
 
             </section>
 
