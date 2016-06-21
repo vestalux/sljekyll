@@ -10,14 +10,22 @@ sidebar: health
 ---
 ![The fault in our stars by John Green](/images/featured/featured-the-fault-in-our-stars.jpg)
 
-## [<cite>Rubbernecker</cite> by Belinda Bauer](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/18884890?QRY=CTIBIB%3C%20IRN(15177695)&QRYTEXT=Rubbernecker)
+<section class="cf">
 
-<a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/18884890?QRY=CTIBIB%3C%20IRN(15177695)&QRYTEXT=Rubbernecker"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2015/07/rubbernecker.jpg" alt="Rubbernecker by Belinda Bauer" /></a>
+<h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/18884890?QRY=CTIBIB%3C%20IRN(15177695)&QRYTEXT=Rubbernecker"><cite>Rubbernecker</cite> by Belinda Bauer</a></h2>
 
-Featuring a character with Asperger&#8217;s syndrome, this darkly funny crime novel features a young man studying anatomy at university, seeking to uncover the mysterious death of his father.
+<a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/18884890?QRY=CTIBIB%3C%20IRN(15177695)&QRYTEXT=Rubbernecker"><img class="{% include /c/img-float-left.html %}" src="/images/article/rubbernecker.jpg" alt="Rubbernecker by Belinda Bauer" /></a>
 
-## [<cite>The fault in our stars</cite> by John Green](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/18887435?QRY=CTIBIB%3C%20IRN(218872)&QRYTEXT=The%20fault%20in%20our%20stars)
+<p class="mt0">Featuring a character with Asperger&#8217;s syndrome, this darkly funny crime novel features a young man studying anatomy at university, seeking to uncover the mysterious death of his father.</p>
 
-<a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/18887435?QRY=CTIBIB%3C%20IRN(218872)&QRYTEXT=The%20fault%20in%20our%20stars"><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2015/07/faultinourstars.jpg" alt="The fault in our stars by John Green" /></a>
+</section>
 
-Popular young adult book following Hazel, a teenage girl with terminal cancer. Her mum is concerned that her daughter is depressed, so she recommends Hazel to attend a support group. Hazel meets Augustus at the support group and her life takes an unexpected twist. <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19323326?QRY=CTIBIB%3C%20IRN(43957653)&QRYTEXT=The%20fault%20in%20our%20stars%20%5Bvideorecording%5D">You can also borrow the film from our catalogue.</a>
+<section class="cf">
+
+<h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/18887435?QRY=CTIBIB%3C%20IRN(218872)&QRYTEXT=The%20fault%20in%20our%20stars"><cite>The fault in our stars</cite> by John Green</a></h2>
+
+<a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/18887435?QRY=CTIBIB%3C%20IRN(218872)&QRYTEXT=The%20fault%20in%20our%20stars"><img class="{% include /c/img-float-left.html %}" src="/images/article/the-fault-in-our-stars.jpg" alt="The fault in our stars by John Green" /></a>
+
+<p class="mt0">Popular young adult book following Hazel, a teenage girl with terminal cancer. Her mum is concerned that her daughter is depressed, so she recommends Hazel to attend a support group. Hazel meets Augustus at the support group and her life takes an unexpected twist. <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19323326?QRY=CTIBIB%3C%20IRN(43957653)&QRYTEXT=The%20fault%20in%20our%20stars%20%5Bvideorecording%5D">You can also borrow the film from our catalogue.</a></p>
+
+</section>

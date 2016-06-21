@@ -8,6 +8,8 @@ excerpt: 'An interview with the local organisation <a href="http://ipswichcm.org
 breadcrumb: health
 sidebar: health
 ---
+<img src="/images/article/ipswich-community-media-logo.jpg" class="{% include /c/img-float-left.html %}" />
+
 **Hi there! Which organisation/project are you from?**
 
 Ipswich Community Media and IO radio
@@ -48,12 +50,18 @@ Setting up less than a year ago, 100% by volunteers, building a strong foundatio
 
 **Send us a team selfie!**
 
-This is only a part of the crew – couldn’t find one with everyone in!<figure>
+This is only a part of the crew – couldn’t find one with everyone in!
 
- <img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2016/03/ICm-113x150.jpg" alt="ICm" /><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2016/03/ICM1-113x150.jpg" alt="ICM1" /></figure> <figure> <img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2016/03/icm2-225x150.jpg" alt="icm2" /><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2016/03/icm3-200x150.jpg" alt="icm3" /></figure> <figure><img class="alignnone" src="http://suffolklibraries.co.uk/wp-content/uploads/2016/03/icm4-225x150.jpg" alt="icm4" /></figure>
+<img src="/images/article/icm-crew-1.jpg" class="{% include /c/img-float-left.html %}" />
 
-**
+<img src="/images/article/icm-crew-2.jpg" class="{% include /c/img-float-left.html %}" />
 
-What are you currently reading?**
+<img src="/images/article/icm-crew-3.jpg" />
+
+<img src="/images/article/icm-crew-4.jpg" />
+
+<img src="/images/article/icm-crew-5.jpg" />
+
+**What are you currently reading?**
 
 <cite>Inside the Dream Palace</cite> – the history of the infamous Chelsea Hotel in New York – it’s a cornucopian of bohemian heroes and inspiring stories, as well as a social/political history of the Big Apple!
