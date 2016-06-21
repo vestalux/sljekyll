@@ -16,7 +16,7 @@ So, without further ado... Our new name is (drum roll please)... New Chapters!
 
 And, here's our fancy new logo...
 
-<img class="aligncenter" src="http://suffolklibraries.co.uk/wp-content/uploads/2016/05/New-chapters-logo-1-300x125.jpg" alt="New chapters logo" width="336" height="140" />
+<img src="/images/article/new-chapters-logo.png" />
 
 We hope you like it.
 

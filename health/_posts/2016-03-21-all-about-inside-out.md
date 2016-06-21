@@ -8,9 +8,9 @@ excerpt: 'An interview with the local organisation <a href="http://www.insideout
 breadcrumb: health
 sidebar: health
 ---
-**Hi there! Which organisation/project are you from?
+<img src="/images/article/inside-out-community-logo.jpg" class="{% include /c/img-float-left.html %}" />
 
-**
+**Hi there! Which organisation/project are you from?**
 
 Inside Out Community
 
@@ -36,9 +36,7 @@ Creative Lives (over 60 year olds) Wednesdays 2.00 &#8211; 4.00 Avenue Theatre, 
 
 Music Project open sessions Wednesdays 2.30 – 4.30 p.m. St Peters by the Waterfront
 
-**If you could give one piece of advice to someone who might be struggling with their mental health or wellbeing, what would it be?
-
-**
+**If you could give one piece of advice to someone who might be struggling with their mental health or wellbeing, what would it be?**
 
 Hold onto hope!
 

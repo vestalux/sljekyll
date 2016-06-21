@@ -13,33 +13,51 @@ sidebar: health
 
 <p><a href="/branches/">Select your local library to see what events are happening.</a></p>
 
-<h3>Upcoming events</h3>
+<h3>Regular health-based events</h3>
+{% assign health-check = false %}
+  {% assign recurrents = site.recurrents | sort: 'recurrent-category' %}
+    {% for recurrent in recurrents %}
+      {% if recurrent.recurrent-category == "health" %}
+        {% assign health-check = true %}
+          <article class="pb3">
+            <h1 class="f5 normal ma0 mb1 custom-lh-title">{{ recurrent.recurrent-title }}</h1>
+            <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
+          </article>
+      {% endif %}
+    {% endfor %}
+{% if health-check == false %}
+  <p class="{% include /c/page-meta.html %} mb3">No health events.</p>
+{% endif %}
 
-{% assign events = site.events | sort: 'event-start-date'%}
-{% for event in events %}
-  {% if event.event-category == 'health' %}
-    {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
-    {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
-    {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
-    {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
-    {% if now-unix <= event-time %}
-      <article class="pb3">
-        <header>
-          <h1><a href="{{ event.url }}">{{ event.name }}</a></h1>
-          <p>
-            {% if event.event-end-date %}
-              <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-date | date: "%a %-d %b" }}</span> <span>{{ event.event-end-time }}</span>
-            {% else %}
-              <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-time }}</span>
-            {% endif %}
-          </p>
-        </header>
-      </article>
-    {% endif %}
-  {% endif %}
-{% endfor %}
-
-</article>
+<h3>Upcoming health-based events</h3>
+{% assign special-event-check = false %}
+  {% assign events = site.events | sort: 'event-start-date' %}
+    {% for event in events %}
+      {% if event.event-category == 'health' %}
+        {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
+        {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
+        {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
+        {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+          {% if now-unix <= event-time %}
+            {% assign special-event-check = true %}
+              <article class="pb3">
+                <header>
+                  <h1 class="f5 normal ma0 mb1 custom-lh-title"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+                  <p class="{% include /c/page-meta.html %}">
+                  {% if event.event-end-date %}
+                  <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-date | date: "%a %-d %b" }}</span> <span>{{ event.event-end-time }}</span>
+                  {% else %}
+                  <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-time }}</span>
+                  {% endif %}
+                  </p>
+                </header>
+              </article>
+          {% endif %}
+      {% endif %}
+    {% endfor %}
+{% if special-event-check == false %}
+  <p class="{% include /c/page-meta.html %} mb3">No upcoming events.</p>
+{% endif %}
 
 <img src="/images/article/suffolk-family-carers.jpg" alt="Suffolk family carers" />
 
