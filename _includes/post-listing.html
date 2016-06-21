@@ -1,22 +1,22 @@
 {% if page.excerpt %}
 
-    <p class="mb3 mb4-ns f4 f3-ns">{{ page.excerpt }}</p>
+    <p class="{% include /c/page-excerpt.html %}">{{ page.excerpt }}</p>
 
 {% endif %}
 
     {% for post in site.categories.[page.category] %}
 
-    <article class="{% include /c/post-listing.html %}">
+    <article class="{% include /c/slot.html %}">
 
-        <header class="{% include /c/post-listing-header.html %}">
+        <header class="{% include /c/slot-header.html %}">
 
-            <h1 class="{% include /c/post-listing-title.html %}"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+            <h1 class="{% include /c/slot-title.html %}"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
 
             <p class="{% include /c/page-meta.html %}">{% if post.author %}Written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{% assign author = site.data.authors[post.author] %}{{ author.name }}</span></span> &middot; {% endif %}Published {{ post.date | date: "%b %-d, %Y" }}</p>
 
         </header>
 
-        <p class="{% include /c/post-listing-excerpt.html %}">{{ post.excerpt }}</p>
+        <p class="{% include /c/slot-excerpt.html %}">{{ post.excerpt }}</p>
 
     </article>
 
