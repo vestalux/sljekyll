@@ -11,9 +11,9 @@ Complete this form and we'll get back to you as soon as possible. We won't share
 
 <h2>Supporting documents</h2>
 <ul>
- 	<li><a href="http://suffolklibraries.co.uk/wp-content/uploads/2015/05/src-volunteer-role-profile.pdf">Role information</a> (PDF)</li>
- 	<li><a href="http://suffolklibraries.co.uk/wp-content/uploads/2015/05/src-volunteer-equal-opportunity-statement.pdf">Volunteer equal opportunities policy</a> (PDF)</li>
- 	<li><a href="http://suffolklibraries.co.uk/wp-content/uploads/2015/05/src-volunteer-policy-1.pdf">Volunteer policy</a> (PDF)</li>
+ 	<li><a href="/assets/pdf/src-volunteer-role-profile.pdf">Role information</a> (PDF)</li>
+ 	<li><a href="/assets/pdf/src-volunteer-equal-opportunity-statement.pdf">Volunteer equal opportunities policy</a> (PDF)</li>
+ 	<li><a href="/assets/pdf/src-volunteer-policy.pdf">Volunteer policy</a> (PDF)</li>
 </ul>
 
 ## We need you! Volunteering for the Summer Reading Challenge
