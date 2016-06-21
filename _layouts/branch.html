@@ -187,9 +187,9 @@
 
                                         {% assign children-check = true %}
 
-                                        <article class="pb3">
+                                        <article class="{% include /c/listing.html %}">
 
-                                            <h1 class="f5 normal ma0 mb1 custom-lh-title">{{ recurrent.recurrent-title }}</h1>
+                                            <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
 
                                             <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
 
@@ -219,9 +219,9 @@
 
                                         {% assign older-check = true %}
 
-                                        <article class="pb3">
+                                        <article class="{% include /c/listing.html %}">
 
-                                            <h1 class="f5 normal ma0 mb1 custom-lh-title">{{ recurrent.recurrent-title }}</h1>
+                                            <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
 
                                             <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
 
@@ -251,9 +251,9 @@
 
                                         {% assign reading-group-check = true %}
 
-                                        <article class="pb3">
+                                        <article class="{% include /c/listing.html %}">
 
-                                            <h1 class="f5 normal ma0 mb1 custom-lh-title">{{ recurrent.recurrent-title }}</h1>
+                                            <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
 
                                             <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
 
@@ -283,9 +283,9 @@
 
                                         {% assign writing-group-check = true %}
 
-                                        <article class="pb3">
+                                        <article class="{% include /c/listing.html %}">
 
-                                            <h1 class="f5 normal ma0 mb1 custom-lh-title">{{ recurrent.recurrent-title }}</h1>
+                                            <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
 
                                             <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
 
@@ -315,9 +315,9 @@
 
                                         {% assign computer-check = true %}
 
-                                        <article class="pb3">
+                                        <article class="{% include /c/listing.html %}">
 
-                                            <h1 class="f5 normal ma0 mb1 custom-lh-title">{{ recurrent.recurrent-title }}</h1>
+                                            <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
 
                                             <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
 
@@ -347,9 +347,9 @@
 
                                         {% assign language-check = true %}
 
-                                        <article class="pb3">
+                                        <article class="{% include /c/listing.html %}">
 
-                                            <h1 class="f5 normal ma0 mb1 custom-lh-title">{{ recurrent.recurrent-title }}</h1>
+                                            <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
 
                                             <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
 
@@ -379,9 +379,9 @@
 
                                         {% assign arts-check = true %}
 
-                                        <article class="pb3">
+                                        <article class="{% include /c/listing.html %}">
 
-                                            <h1 class="f5 normal ma0 mb1 custom-lh-title">{{ recurrent.recurrent-title }}</h1>
+                                            <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
 
                                             <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
 
@@ -423,9 +423,9 @@
 
                                         {% assign special-event-check = true %}
 
-                                        <article class="pb3">
+                                        <article class="{% include /c/listing.html %}">
 
-                                            <h1 class="f5 normal ma0 mb1 custom-lh-title"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+                                            <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
 
                                             <p class="{% include /c/page-meta.html %}">
 
