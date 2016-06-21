@@ -52,7 +52,7 @@ Here are some of the organisations and information sources available for a varie
 	<li><a href="http://www.aceanglia.com/ace-easy-read">Ace Anglia</a> - An independent Suffolk based advocacy service for people with learning disabilities</li>
 	<li><a href="http://feedbackaspire.co.uk">Feedback</a> - Offers support to help express your views on mental health in Great Yarmouth and Waveney</li>
 	<li><a href="http://www.suffolkfamilycarers.org">Suffolk Family Carers</a> - Support and advice for unpaid family carers in Suffolk</li>
-	<li><a href="http://www.suffolkuserforum.co.uk/index.asp">Suffolk User Forum</a> - Operating through the east and west of Suffolk helping to shape the mental health services</li>
+	<li><a href="http://www.suffolkuserforum.co.uk">Suffolk User Forum</a> - Operating through the east and west of Suffolk helping to shape the mental health services</li>
 	<li><a href="http://www.voiceability.org/in_your_area/suffolk">Voiceability Total Voice Suffolk</a> - Mental health advocacy service, including IMHA and IMCA services</li>
 </ul>
 <h3 id="alcohol">Alcohol and drug dependency</h3>
@@ -152,7 +152,7 @@ Here are some of the organisations and information sources available for a varie
 	<li><a href="http://www.redcross.org.uk/Where-we-work/In-the-UK/Southern-England/Cambridgeshire-Norfolk-and-Suffolk/LocalServices/Support-at-home">British Red Cross Support at Home Service</a> - Helping people stay at home after a short stay in hospital</li>
 	<li><a href="http://www.communityactionsuffolk.org.uk/">Community Action Suffolk</a> - Helping voluntary organisations across Suffolk</li>
 	<li><a href="http://www.insideoutcommunity.com/">Inside Out Arts</a> - Locally based organisation that helps recovery through art and full details on workshops and contacts</li>
-	<li><a href="http://www.livewellsuffolk.org.uk">Live Well Suffolk</a> - Valuable practical advice, guidance and courses to improve your physical wellbeing</li>
+	<li><a href="http://onelifesuffolk.co.uk/">OneLife Suffolk</a> - Valuable practical advice, guidance and courses to improve your physical wellbeing</li>
 	<li><a href="http://www.lofty-heights.org">Lofty Heights</a> - Loft clearing and decluttering service in Suffolk to improve wellbeing</li>
 	<li><a href="http://www.nsft.nhs.uk/Our-services/Pages/Service-Search-Results.aspx">Norfolk and Suffolk Foundation NHS Trust</a> - Find out about inpatient and community services</li>
 	<li><a href="http://infolink.suffolk.gov.uk/kb5/suffolk/infolink/service.page?id=p8orsprFAcw">The Phoenix Project Club</a> - Supportive group that meets in Ipswich with details on how to get in touch</li>
@@ -195,7 +195,7 @@ Here are some of the organisations and information sources available for a varie
 <h3 id="psychosis">Psychosis</h3>
 <ul>
 	<li><a href="http://www.nhs.uk/conditions/Psychosis/Pages/Introduction.aspx">NHS Choices</a> - Defines the main symptoms of psychosis</li>
-	<li><a href="http://www.rethink.org/about_mental_illness/early_intervention/understanding_psychosis/what_is_psychosis.html">Rethink</a> - Possible causes and treatments for psychosis</li>
+	<li><a href="https://www.rethink.org/diagnosis-treatment/conditions/psychosis">Rethink</a> - Possible causes and treatments for psychosis</li>
 </ul>
 <h3 id="schizophrenia">Schizophrenia</h3>
 <ul class="xoxo blogroll">
