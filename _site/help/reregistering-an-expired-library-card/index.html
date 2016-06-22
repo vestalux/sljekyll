@@ -114,9 +114,110 @@
 
 <p>You won’t be able to use our services when this happens.</p>
 
-<h2 id="renewing-your-library-card">Renewing your library card</h2>
+<h1>Renewing your library card</h1>
 
-<p><strong>To re–register and renew your card fill in the form below.</strong></p>
+<form class="pure-form pure-form-stacked" netlify="" name="re-register-library-card" action="confirmation">
+
+    <fieldset>
+
+        <label>Name</label>
+        <input type="text" name="name" />
+
+        <label>Title</label>
+        <select name="title">
+          <option value="miss">Miss</option>
+          <option value="mr">Mr</option>
+          <option value="mrs">Mrs</option>
+          <option value="ms">Ms</option>
+          <option value="other">Other</option>
+        </select>
+
+        <label>Please specify title if you selected 'other'</label>
+        <input type="text" name="other-title" />
+
+        <h2>Library card number (with no spaces)</h2>
+
+        <label>This is the number across the middle of your library card. It begins 20127.</label>
+        <input type="text" name="age" maxlength="14" />
+
+        <h1>Date of birth</h1>
+
+        <label>Day</label>
+        <select name="day">
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+          <option value="6">6</option>
+          <option value="7">7</option>
+          <option value="8">8</option>
+          <option value="9">9</option>
+          <option value="10">10</option>
+          <option value="11">11</option>
+          <option value="12">12</option>
+          <option value="13">13</option>
+          <option value="14">14</option>
+          <option value="15">15</option>
+          <option value="16">16</option>
+          <option value="17">17</option>
+          <option value="18">18</option>
+          <option value="19">19</option>
+          <option value="20">20</option>
+          <option value="21">21</option>
+          <option value="22">22</option>
+          <option value="23">23</option>
+          <option value="24">24</option>
+          <option value="25">25</option>
+          <option value="26">26</option>
+          <option value="27">27</option>
+          <option value="28">28</option>
+          <option value="29">29</option>
+          <option value="30">30</option>
+          <option value="31">31</option>
+        </select>
+
+        <label>Month</label>
+        <select name="month">
+          <option value="january">January</option>
+          <option value="february">February</option>
+          <option value="march">March</option>
+          <option value="april">April</option>
+          <option value="may">May</option>
+          <option value="june">June</option>
+          <option value="july">July</option>
+          <option value="august">August</option>
+          <option value="september">September</option>
+          <option value="october">October</option>
+          <option value="november">November</option>
+          <option value="december">December</option>
+        </select>
+
+        <label>Year (XXXX, e.g. 1945, 2004)</label>
+        <input type="text" name="year" maxlength="4" />
+
+        <label>Email</label>
+        <input type="email" name="email" />
+
+        <label>Address</label>
+        <textarea name="address" class="border-box w-100"></textarea>
+
+        <label>Postcode</label>
+        <input type="text" name="postcode" />
+
+        <label>Phone number</label>
+        <input type="tel" name="phone" maxlength="11" />
+
+        <label>Any further information</label>
+        <textarea name="further-info" class="border-box w-100"></textarea>
+
+        <label>Receive our monthly email newsletter? <input type="checkbox" id="newsletter" value="yes" /></label>
+
+        <small>We can send you a monthly email with our latest books, films, DVDs and music. We don't share your email with anyone else and you can unsubscribe at any time.</small><br />
+
+        <button type="submit" class="pure-button pure-button-primary">Submit</button>
+
+
 
 <p>Alternatively, you can:</p>
 
@@ -125,9 +226,10 @@
   <li>take your library card to any library in Suffolk</li>
 </ul>
 
-<p>You won’t need to apply for a new library card to re–register.</p>
+You won’t need to apply for a new library card to re–register.
 
-<p>If you are new to Suffolk Libraries, you can <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/JOIN">apply for a new library card</a>.</p>
+If you are new to Suffolk Libraries, you can <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/JOIN">apply for a new library card</a>.
+</fieldset></form>
 
 
                 </div>
