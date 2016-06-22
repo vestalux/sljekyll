@@ -38,8 +38,8 @@ The loan consists of a box of up to 8 related/themed artefacts to support curric
 
         <h1>Term required</h1>
 
-        <label><input type="radio" name="term" value="autumn"> Autumn</label><br>
-        <label><input type="radio" name="term" value="spring"> Spring</label><br>
+        <label><input type="radio" name="term" value="autumn"> Autumn</label>
+        <label><input type="radio" name="term" value="spring"> Spring</label>
         <label><input type="radio" name="term" value="summer"> Summer</label>
 
         <h1>Requirements</h1>
