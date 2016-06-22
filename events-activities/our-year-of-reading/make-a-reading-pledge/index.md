@@ -20,7 +20,7 @@ We may share your pledges on our website or on social media so you do not have t
         <input type="email" name="email">
 
         <label>Age</label>
-        <input type="number" name="age">
+        <input type="number" name="age" min="1" max="150">
 
         <label>Your local library</label>
         <textarea name="message" class="border-box w-100"></textarea>
