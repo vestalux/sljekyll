@@ -2,6 +2,7 @@
 layout: full-width-narrow
 title: About Suffolk Libraries Bookfest
 breadcrumb: bookfest
+hnav: bookfest
 ---
 Suffolk is a beautiful county, full of variety, and is a rich source of inspiration for authors, poets and artists.
 

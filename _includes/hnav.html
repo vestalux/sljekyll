@@ -22,7 +22,8 @@
 
     {% if page.hnav == 'bookfest' %}
 
-        <p>This is a Bookfest menu.</p>
+        <li class="{% include /c/hnav-list-item.html %}"><a href="/events-activities/bookfest/" class="{% include /c/hnav-list-item-link.html %}">Bookfest home</a></li>
+        <li class="{% include /c/hnav-list-item.html %}"><a href="/events-activities/bookfest/about" class="{% include /c/hnav-list-item-link.html %}">About</a></li>
 
     {% endif %}
 
