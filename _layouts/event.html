@@ -14,31 +14,45 @@
 
             {% include breadcrumb.html %}
 
-            <article>
+            <article class="cf">
 
                 <h1 class="{% include /c/page-title.html %}">{{ page.name }}</h1>
 
-                <p>
+                <div class="custom-g-l2">
 
-                    <span>{{ page.location-text }}</span>,
+                    <ul class="list ma0 pa0 mb2">
+
+                        <li class="mv1 mv0-ns"><a class="blue" href="/branches/{{ page.location }}">{{ page.location-text }}</a></li>
 
                     {% if page.event-end-date %}
 
-                         <span>{{ page.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ page.event-start-time }}</span> &#8211; <span>{{ page.event-end-date | date: "%a %-d %b %Y" }}</span> <span>{{ page.event-end-time }}</span>
+                         <li class="mv1 mv0-ns">{{ page.event-start-date | date: "%a %-d %b, %Y" }} {{ page.event-start-time }} &#8211; {{ page.event-end-date | date: "%a %-d %b %Y" }} {{ page.event-end-time }}</li>
 
                     {% else %}
 
-                         <span>{{ page.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ page.event-start-time }}</span> &#8211; <span>{{ page.event-end-time }}</span>
+                         <li class="mv1 mv0-ns">{{ page.event-start-date | date: "%a %-d %b, %Y" }} {{ page.event-start-time }} &#8211; {{ page.event-end-time }}</li>
+
+                    {% if page.event-ticket-url %}
+
+                         <li class="mv1 mv0-ns"><a class="pure-button mv2" href="{{ page.event-ticket-url }}">Buy a ticket</a></li>
 
                     {% endif %}
 
-                    <div class="{% include /c/prose.html %}">
+                    </ul>
+
+                    {% endif %}
+
+                </div>
+
+                <div class="custom-g-l4 custom-g-nm">
+
+                    <div class="{% include /c/prose.html %} custom-remove-tm">
 
                         {{ content }}
 
                     </div>
 
-                </p>
+                </div>
 
             </article>
 

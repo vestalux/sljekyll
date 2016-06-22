@@ -7,7 +7,9 @@ event-start-date: 2020-01-01
 event-start-time: 1300
 event-end-time: 1400
 event-category: health
+event-ticket-url: https://news.bbc.co.uk
 breadcrumb: y
+hnav: bookfest
 ---
 
 Bacon ipsum dolor amet beef ribs cupim pork chop turkey. Pork loin brisket porchetta, bresaola prosciutto jerky tri-tip tail. Pork shoulder beef turducken ham bacon ground round brisket pig frankfurter jerky andouille cow. Biltong picanha sausage drumstick tail beef ribs spare ribs. Porchetta corned beef kevin spare ribs fatback t-bone.
