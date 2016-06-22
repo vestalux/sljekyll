@@ -13,32 +13,40 @@ The loan consists of a box of up to 8 related/themed artefacts to support curric
 
 [Contact your local Literacy, Books and Reading Team for Schools office for more help.](/schools-literacy/schools/contact/)
 
-Fields marked with a * are required.
-Contact details
+<form class="pure-form pure-form-stacked" netlify name="curriculum-topic-loan" action="confirmation">
 
-School name *
+    <fieldset>
 
-Teacher requesting artefact loan *
+        <h1>Contact details</h1>
 
-Email address
+        <label>School name</label>
+        <input type="text" name="school-name">
 
-Group details
+        <label>Teacher requesting topic box</label>
+        <input type="text" name="teacher-name">
 
-Year group
+        <label>Email address</label>
+        <input type="email" name="email">
 
-Group reading ability
+        <h1>Group details</h1>
 
-When you need the loan
+        <label>Year group</label>
+        <input type="text" name="year-group">
 
-Term *
-Autumn first half term
-Autumn second half term
-Spring first half term
-Spring second half term
-Summer first half term
-Summer second half term
-Requirements
+        <label>Group reading ability</label>
+        <input type="text" name="group-reading-ability">
 
-Tell us which artefact boxes you need
+        <h1>Term required</h1>
 
-Submit
+        <label><input type="radio" name="term" value="autumn"> Autumn</label><br>
+        <label><input type="radio" name="term" value="spring"> Spring</label><br>
+        <label><input type="radio" name="term" value="summer"> Summer</label>
+
+        <h1>Requirements</h1>
+
+        <label>Tell us which artefact boxes you need</label>
+        <textarea name="message" class="border-box w-100"></textarea>
+
+        <button type="submit" class="pure-button pure-button-primary">Submit</button>
+
+</form>

@@ -151,35 +151,44 @@
 
 <p><a href="/schools-literacy/schools/contact/">Contact your local Literacy, Books and Reading Team for Schools office for more help.</a></p>
 
-<p>Fields marked with a * are required.
-Contact details</p>
+<form class="pure-form pure-form-stacked" netlify="" name="curriculum-topic-loan" action="confirmation">
 
-<p>School name *</p>
+    <fieldset>
 
-<p>Teacher requesting artefact loan *</p>
+        <h1>Contact details</h1>
 
-<p>Email address</p>
+        <label>School name</label>
+        <input type="text" name="school-name" />
 
-<p>Group details</p>
+        <label>Teacher requesting topic box</label>
+        <input type="text" name="teacher-name" />
 
-<p>Year group</p>
+        <label>Email address</label>
+        <input type="email" name="email" />
 
-<p>Group reading ability</p>
+        <h1>Group details</h1>
 
-<p>When you need the loan</p>
+        <label>Year group</label>
+        <input type="text" name="year-group" />
 
-<p>Term *
-Autumn first half term
-Autumn second half term
-Spring first half term
-Spring second half term
-Summer first half term
-Summer second half term
-Requirements</p>
+        <label>Group reading ability</label>
+        <input type="text" name="group-reading-ability" />
 
-<p>Tell us which artefact boxes you need</p>
+        <h1>Term required</h1>
 
-<p>Submit</p>
+        <label><input type="radio" name="term" value="autumn" /> Autumn</label><br />
+        <label><input type="radio" name="term" value="spring" /> Spring</label><br />
+        <label><input type="radio" name="term" value="summer" /> Summer</label>
+
+        <h1>Requirements</h1>
+
+        <label>Tell us which artefact boxes you need</label>
+        <textarea name="message" class="border-box w-100"></textarea>
+
+        <button type="submit" class="pure-button pure-button-primary">Submit</button>
+
+
+</fieldset></form>
 
 
                 </div>
