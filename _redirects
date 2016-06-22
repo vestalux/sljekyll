@@ -25,3 +25,5 @@
 /update /help/reregistering-an-expired-library-card
 /woodbridge /branches/woodbridge-library
 /writes /events-activities/suffolk-writes
+
+/book-lists/* /new-suggestions/fiction/:splat
