@@ -13,7 +13,7 @@ The loan consists of a box of up to 8 related/themed artefacts to support curric
 
 [Contact your local Literacy, Books and Reading Team for Schools office for more help.](/schools-literacy/schools/contact/)
 
-<form class="pure-form pure-form-stacked" netlify name="curriculum-topic-loan" action="confirmation">
+<form class="pure-form pure-form-stacked" netlify name="artefact-loan" action="confirmation">
 
     <fieldset>
 
