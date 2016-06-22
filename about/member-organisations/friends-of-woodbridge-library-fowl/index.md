@@ -17,7 +17,7 @@ breadcrumb: member-organisations
 
 ## Who are we?
 
-We are local people who use the [Woodbridge Library](http://suffolklibraries.co.uk/branches/woodbridge-library) in a wide variety of ways. We provide practical support to the library and promote it to the Woodbridge community.
+We are local people who use the [Woodbridge Library](/branches/woodbridge-library) in a wide variety of ways. We provide practical support to the library and promote it to the Woodbridge community.
 
 ## Why should you join the Friends of Woodbridge Library?
 
