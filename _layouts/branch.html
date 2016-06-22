@@ -43,27 +43,34 @@
                         {% if page.branch-fax %}
                         Fax: <strong>{{ page.branch-fax }}</strong><br>
                         {% endif %}
-                        Email: <strong><a href="mailto:help@suffolklibraries.co.uk">help@suffolklibraries.co.uk</a></strong><br>
+                        Email: <strong><a class="blue" href="mailto:help@suffolklibraries.co.uk">help@suffolklibraries.co.uk</a></strong><br>
                         {% if page.branch-friends-url %}
-                        Friends group: <a href="{{ page.branch-friends-url }}">{{ page.branch-friends }}</a><br>
+                        Friends group: <a class="blue" href="{{ page.branch-friends-url }}">{{ page.branch-friends }}</a><br>
                         {% elsif page.branch-friends %}
                         Friends group: {{ page.branch-friends }}<br>
                         {% else %}
                         {% endif %}
                         {% if page.branch-social-media %}
-                        Social media:
-                        {% if page.branch-facebook %}
-                        <a href="http://www.facebook.com/{{ page.branch-facebook }}">Facebook</a>
-                        {% endif %}
-                        {% if page.branch-twitter %}
-                        <a href="http://www.twitter.com/{{ page.branch-twitter }}">Twitter</a>
-                        {% endif %}
-                        {% if page.branch-instagram %}
-                        <a href="http://www.instagram.com/{{ page.branch-instagram }}">Instagram</a>
-                        {% endif %}
-                        {% if page.branch-pinterest %}
-                        <a href="http://www.pinterest.com/{{ page.branch-pinterest }}">Pinterest</a>
-                        {% endif %}</p>
+                        <section>
+
+                            <h1 class="di f4 ma0 pa0 mr2">Social media:</h1>
+
+                            <ul class="ma0 pa0 list">
+                                {% if page.branch-facebook %}
+                                <li class="dib mr2"><a class="blue" href="http://www.facebook.com/{{ page.branch-facebook }}">Facebook</a></li>
+                                {% endif %}
+                                {% if page.branch-twitter %}
+                                <li class="dib mr2"><a class="blue" href="http://www.twitter.com/{{ page.branch-twitter }}">Twitter</a></li>
+                                {% endif %}
+                                {% if page.branch-instagram %}
+                                <li class="dib mr2"><a class="blue" href="http://www.instagram.com/{{ page.branch-instagram }}">Instagram</a></li>
+                                {% endif %}
+                                {% if page.branch-pinterest %}
+                                <li class="dib mr2"><a class="blue" href="http://www.pinterest.com/{{ page.branch-pinterest }}">Pinterest</a></li>
+                                {% endif %}</p>
+
+                            </ul>
+
                         {% endif %}
 
                     </section> <!-- end #details -->
@@ -85,12 +92,12 @@
                                 Free wifi available
                                 </li>
                                 <li>
-                                <a href="/help/printing-copying-scanning">Scanning, printing and photocopying facilities</a>
+                                <a class="blue" href="/help/printing-copying-scanning">Scanning, printing and photocopying facilities</a>
                                 </li>
                                 {% endif %}
                                 {% if page.branch-accessibility %}
                                 <li>
-                                <a href="{{ page.branch-accessibility }}">Accessibility information</a>
+                                <a  class="blue" href="{{ page.branch-accessibility }}">Accessibility information</a>
                                 </li>
                                 {% endif %}
 
@@ -102,7 +109,7 @@
 
                             {% if page.branch-room-hire %}
 
-                                <p><a class="pure-button pure-button-primary" href="{{ page.branch-room-hire }}">Room hire</a></p>
+                                <p><a class="pure-button" href="{{ page.branch-room-hire }}">Room hire</a></p>
 
                             {% endif %}
 
@@ -425,7 +432,7 @@
 
                                         <article class="{% include /c/listing.html %}">
 
-                                            <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+                                            <h1 class="{% include /c/listing-title.html %}"><a class="blue" href="{{ event.url }}">{{ event.name }}</a></h1>
 
                                             <p class="{% include /c/page-meta.html %}">
 
