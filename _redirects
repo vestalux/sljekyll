@@ -26,7 +26,7 @@
 /woodbridge /branches/woodbridge-library
 /writes /events-activities/suffolk-writes
 
-/announcements/* /news/*
+/announcements/* /news/:splat
 /book-club-lists/* /new-suggestions/book-club-ideas/:splat
 /book-lists/* /new-suggestions/fiction/:splat
 /childrens-book-lists/* /new-suggestions/childrens-ya-books/:splat
@@ -50,13 +50,13 @@
 /lesleys-readers/* /new-suggestions/fiction/:splat
 /literacy/* /schools-literacy/literacy/:splat
 /local-interest/* /new-suggestions/local-interest/:splat
-/mental-health-lists/*
+/mental-health-lists/* /health/:splat
 /music-lists/* /new-suggestions/music/:splat
 /non-fiction-lists/* /new-suggestions/non-fiction/:splat
 /our-year-of-reading/* /events-activities/our-year-of-reading/:splat
 /presents/* /events-activities/presents/:splat
 /press-releases/* /news/:splat
-/reading-lists-groups-advice/booked-out/* /events-activities/booked-out/:splat
+/reading-lists-groups-advice/booked-out/* /new-suggestions/booked-out/:splat
 /reading-lists-groups-advice/dyslexia-and-irlen-syndrome/* /schools-literacy/reading-advice/dyslexia-irlen/:splat
 /reading-lists-groups-advice/reading-advice-and-information-babies-toddlers-and-pre-school-children/* /schools-literacy/reading-advice/pre-school/:splat
 /reading-lists-groups-advice/reading-advice-and-information-primary-school-age-children/* /schools-literacy/reading-advice/primary-school/:splat
