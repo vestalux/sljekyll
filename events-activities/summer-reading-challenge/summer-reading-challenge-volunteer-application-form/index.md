@@ -16,7 +16,126 @@ Complete this form and we'll get back to you as soon as possible. We won't share
  	<li><a href="/assets/pdf/src-volunteer-policy.pdf">Volunteer policy</a> (PDF)</li>
 </ul>
 
-## We need you! Volunteering for the Summer Reading Challenge
+<form class="pure-form pure-form-stacked" netlify name="summer-reading-challenge-volunteer" action="confirmation">
+
+    <fieldset>
+
+        <label>First name</label>
+        <input type="text" name="first-name">
+
+        <label>Last name</label>
+        <input type="text" name="last-name">
+
+        <label>Your age on 1 August 2016</label>
+        <input type="number" name="age" min="1" max="150">
+
+        <label>Phone number</label>
+        <input type="tel" name="phone" maxlength="11">
+
+        <label>Address</label>
+        <textarea name="address" class="border-box w-100"></textarea>
+
+        <label>Email (this can be a parent or guardian's email address)</label>
+        <input type="email" name="email">
+
+        <label>Which library would you like to volunteer at?</label>
+        <select name="library">
+          <option value="aldeburgh">Aldeburgh</option>
+          <option value="beccles">Beccles</option>
+          <option value="brandon">Brandon</option>
+          <option value="broomhill">Broomhill</option>
+          <option value="bungay">Bungay</option>
+          <option value="bury">Bury St Edmunds Library</option>
+          <option value="capel">Capel St Mary Library</option>
+          <option value="chantry">Chantry</option>
+          <option value="clare">Clare</option>
+          <option value="debenham">Debenham</option>
+          <option value="elmswell">Elmswell</option>
+          <option value="eye">Eye</option>
+          <option value="felixstowe">Felixstowe</option>
+          <option value="framlingham">Framlingham</option>
+          <option value="gainsborough">Gainsborough</option>
+          <option value="glemsford">Glemsford</option>
+          <option value="great-cornard">Great Cornard</option>
+          <option value="hadleigh">Hadleigh</option>
+          <option value="halesworth">Halesworth</option>
+          <option value="haverhill">Haverhill</option>
+          <option value="ipswich">Ipswich</option>
+          <option value="ixworth">Ixworth</option>
+          <option value="kedington">Kedington</option>
+          <option value="kesgrave">Kesgrave</option>
+          <option value="kessingland">Kessingland</option>
+          <option value="lakenheath">Lakenheath</option>
+          <option value="lavenham">Lavenham</option>
+          <option value="leiston">Leiston</option>
+          <option value="long-melford">Long Melford</option>
+          <option value="lowestoft">Lowestoft</option>
+          <option value="mildenhall">Mildenhall</option>
+          <option value="needham-market">Needham Market</option>
+          <option value="newmarket">Newmarket</option>
+          <option value="oulton-broad">Oulton Broad</option>
+          <option value="rosehill">Rosehill</option>
+          <option value="saxmundham">Saxmundham</option>
+          <option value="southwold">Southwold</option>
+          <option value="stoke">Stoke</option>
+          <option value="stowmarket">Stowmarket</option>
+          <option value="stradbroke">Stradbroke</option>
+          <option value="sudbury">Sudbury</option>
+          <option value="thurston">Thurston</option>
+          <option value="wickham-market">Wickham Market</option>
+          <option value="woodbridge">Woodbridge</option>
+        </select>
+
+        <label>Tell us about any previous volunteering or work experience you have</label>
+        <textarea name="experience" class="border-box w-100"></textarea>
+
+        <label>Tell us about any relevant skills, talents and interests</label>
+        <textarea name="experience" class="border-box w-100"></textarea>
+
+        <label>Do you have any unspent criminal convictions (other than minor driving offences)?</label>
+        <label><input type="radio" name="criminal-convictions" value="no"> No</label>
+        <label><input type="radio" name="criminal-convictions" value="yes"> Yes</label>
+
+        <label>If yes, state date and nature of conviction</label>
+        <textarea name="criminal-convictions-yes" class="border-box w-100"></textarea>
+
+        <p>Provide names and addresses of 2 independent referees who will supply a character reference. These must not be family members.</p>
+
+        <label>1st referee's name</label>
+        <input type="text" name="referee-1-name">
+
+        <label>1st referee's address</label>
+        <textarea name="referee-1-address" class="border-box w-100"></textarea>
+
+        <label>1st referee's contact number</label>
+        <input type="tel" name="referee-1-phone" maxlength="11">
+
+        <label>1st referee's email address</label>
+        <input type="referee-1-email" name="email">
+
+        <label>Tell us how you know the 1st referee</label>
+        <textarea name="referee-1-text" class="border-box w-100"></textarea>
+
+        <label>2nd referee's name</label>
+        <input type="text" name="referee-1-name">
+
+        <label>2nd referee's address</label>
+        <textarea name="referee-1-address" class="border-box w-100"></textarea>
+
+        <label>2nd referee's contact number</label>
+        <input type="tel" name="referee-1-phone" maxlength="11">
+
+        <label>2nd referee's email address</label>
+        <input type="referee-1-email" name="email">
+
+        <label>Tell us how you know the 2nd referee</label>
+        <textarea name="referee-1-text" class="border-box w-100"></textarea>
+
+        <button type="submit" class="pure-button pure-button-primary">Submit</button>
+
+</form>
+
+<h1>We need you! Volunteering for the Summer Reading Challenge</h1>
 
 <p>Volunteering is a vital part of the Summer Reading Challenge campaign as volunteers are needed to help with various roles throughout the summer including helping to sign up children in libraries, explaining how the reading challenge works, spend time talking to them about the books they have read and handing out rewards and incentives at the end of the challenge.</p>
 

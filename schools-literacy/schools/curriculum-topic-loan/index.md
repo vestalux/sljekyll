@@ -8,52 +8,58 @@ Complete this form to request a curriculum topic loan from the Literacy, Books a
 
 [Contact your local Literacy, Books and Reading Team for Schools office for more help.](/schools-literacy/schools/contact/)
 
-Fields marked with a * are required.
-Contact details
+<form class="pure-form pure-form-stacked" netlify name="curriculum-topic-loan" action="confirmation">
 
+    <fieldset>
 
-School name *
+        <h1>Contact details</h1>
 
-Teacher requesting topic box *
+        <label>School name</label>
+        <input type="text" name="school-name">
 
-Email address
+        <label>Teacher requesting topic box</label>
+        <input type="text" name="teacher-name">
 
-Group details
+        <label>Email address</label>
+        <input type="email" name="email">
 
+        <h1>Group details</h1>
 
-Year group
+        <label>Year group</label>
+        <input type="text" name="year-group">
 
-Group reading ability
+        <label>Group reading ability</label>
+        <input type="text" name="group-reading-ability">
 
-Term required
+        <h1>Term required</h1>
 
+        <label><input type="radio" name="term" value="autumn"> Autumn</label>
+        <label><input type="radio" name="term" value="spring"> Spring</label>
+        <label><input type="radio" name="term" value="summer"> Summer</label>
 
-Term *
-Autumn
-Spring
-Summer
-Subjects required
+        <h1>Subjects required</h1>
 
+        <p>Choose subject(s) or give details of “other” below</p>
 
-Choose subject(s) or give details of “other” below
+        <label><input type="checkbox" id="subjects" value="art"> Art and design</label>
+        <label><input type="checkbox" id="subjects" value="citizenship"> Citizenship</label>
+        <label><input type="checkbox" id="subjects" value="design"> Design and technology</label>
+        <label><input type="checkbox" id="subjects" value="geography"> Geography</label>
+        <label><input type="checkbox" id="subjects" value="history"> History</label>
+        <label><input type="checkbox" id="subjects" value="ict"> ICT</label>
+        <label><input type="checkbox" id="subjects" value="literacy"> Literacy</label>
+        <label><input type="checkbox" id="subjects" value="mathematics"> Mathematics</label>
+        <label><input type="checkbox" id="subjects" value="mfl"> MFL</label>
+        <label><input type="checkbox" id="subjects" value="music"> Music</label>
+        <label><input type="checkbox" id="subjects" value="re"> RE</label>
+        <label><input type="checkbox" id="subjects" value="science"> Science</label>
+        <label><input type="checkbox" id="subjects" value="other"> Other</label>
 
-Subjects *
-Art and design
-Citizenship
-Design and technology
-Geography
-History
-ICT
-Literacy
-Mathematics
-MFL
-Music
-RE
-Science
-Other
-Requirements
+        <h1>Requirements</h1>
 
+        <label>Enter specific details of your requirements here</label>
+        <textarea name="message" class="border-box w-100"></textarea>
 
-Enter specific details of your requirements here
+        <button type="submit" class="pure-button pure-button-primary">Submit</button>
 
-Submit
+</form>
