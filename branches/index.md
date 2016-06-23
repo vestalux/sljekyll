@@ -4,6 +4,17 @@ title: Branches
 breadcrumb: home
 ---
 
+<div class="constrain">
+
+    <iframe
+    style="border-style: none;"
+    src="branch-map/index_iframe.html"
+    width="992"
+    height="660" >
+    </iframe>
+
+</div>
+
 <table class="pure-table">
 
     <thead>
@@ -37,9 +48,3 @@ breadcrumb: home
     </tbody>
 
 </table>
-
-<div class="constrain">
-
-    <p><iframe src="//batchgeo.com/map/de23a55ff173adf7a38ea781eb410ee4" frameborder="0" width="100%" height="900" style="border:none;"></iframe></p>
-
-</div>
