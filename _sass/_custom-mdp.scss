@@ -21,3 +21,8 @@ a.pure-button,
 a.pure-button-primary {
     border-bottom: none;
 }
+
+a.custom-no-underline {
+    border-bottom: none !important;
+    text-decoration: none !important;
+}

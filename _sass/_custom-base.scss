@@ -20,6 +20,10 @@ img {
     height: auto !important;
 }
 
+table {
+    margin: 1rem 0;
+}
+
 a {
     text-decoration: none;
 }
@@ -28,6 +32,13 @@ a:hover,
 a:active,
 a:focus {
     border-bottom: 2px solid;
+}
+
+a:hover img,
+a:active img,
+a:focus img {
+    text-decoration: none !important;
+    border-bottom: none !important;
 }
 
 }
