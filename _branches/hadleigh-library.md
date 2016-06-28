@@ -16,6 +16,7 @@ branch-tel: 01473 823778
 branch-friends: Hadleigh Library Friends
 branch-social-media: y
 branch-facebook: hadleighlibrarysuffolk
+branch-twitter: hadleighlibrary
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/hadleigh-library-2
 branch-room-hire: /branches/room-hire/hadleigh-library
