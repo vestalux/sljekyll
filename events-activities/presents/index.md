@@ -10,17 +10,29 @@ breadcrumb: events
 
 <strong>Recorded live, on screen</strong>: Amazing performances recorded live and screened at your library.
 
-# Globe on Screen: The Comedy of Errors
+# New York City Ballet’s <cite>The Nutcracker</cite>
 
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2015/12/comedy-of-errors.jpg" class="br-100 {% include /c/img-float-left.html %}" alt="Comedy of Errors actors sitting on the floor">
+<img src="/images/article/presents-the-nutcracker.jpg" class="br-100 {% include /c/img-float-left.html %}" alt="New York City Ballet’s The Nutcracker">
 
-[Hadleigh Library](http://suffolklibraries.co.uk/branches/hadleigh-library)· 20 Apr, 1400, doors 1330 · £7.50
+[Capel St Mary Library](/branches/capel-st-mary-library)· 24 November, 1345, doors 1330 · £8
 
-Take one pair of estranged twin brothers (both called Antipholus), and one pair of estranged twin servants (both called Dromio), keep them in ignorance of each other and throw them into a city with a reputation for sorcery, and you have all the ingredients for theatrical chaos. One Antipholus is astonished by his foreign hospitality; the other enraged by the hostility of his home town. The Dromios, caught between the two, are soundly beaten for obeying all the wrong orders.
+The young and young-at-heart are transported to a magical world where mischievous mice besiege a battalion of toy soldiers, and an onstage blizzard leads to an enchanted Land of Sweets.
 
-Basing his plot on a farce by Plautus, Shakespeare caps the mayhem of his Roman original to build up a hectic tale of violent cross-purposes, furious slapstick and social nightmare.
+In the New York City Ballet’s famously extravagant staging of Tchaikovsky’s beloved melodies, one of the most complex theatrical staged ballets in the Company’s active repertory, George Balanchine’s stunning choreography shines amidst awe-inspiring set pieces, ornate costumes and grand one-of-a-kind visual effects including a Christmas tree that grows to a height of 40 feet.
 
-For tickets visit <strong><a href="http://suffolklibraries.co.uk/branches/hadleigh-library">Hadleigh Library</a></strong> or call <strong>01473 823778</strong>.
+For tickets visit <strong><a href="/branches/capel-st-mary-library">Capel St Mary Library</a></strong> or call <strong>01473 311699</strong>.
+
+# Matthew Bourne’s <cite>The Car Man</cite>
+
+<img src="/images/article/presents-the-car-man.jpg" class="br-100 {% include /c/img-float-left.html %}" alt="Matthew Bourne’s The Car Man">
+
+[Capel St Mary Library](/branches/capel-st-mary-library)· 26 January, 1345, doors 1330 · £8
+
+A sensational new dance event for cinemas from the internationally acclaimed choreographer Matthew Bourne.
+
+Loosely based on Bizet’s popular opera, Carmen, with one of the most thrilling and instantly recognisable scores in classical music, the familiar 19th Century Spanish cigarette factory becomes a greasy garage-diner in 1960’s America where the dreams and passions of a small-town are shattered by the arrival of a handsome stranger. Fuelled by heat and desire, the inhabitants are driven into an unstoppable spiral of greed, lust, betrayal and revenge.
+
+For tickets visit <strong><a href="/branches/capel-st-mary-library">Capel St Mary Library</a></strong> or call <strong>01473 311699</strong>.
 
 # About
 
