@@ -9,7 +9,7 @@ branch-thursday-hours: 1000 – 1300, 1400 – 1700
 branch-friday-hours: 1400 – 1700
 branch-saturday-hours: 1000 – 1600
 branch-sunday-hours: 1230 – 1600
-branch-manager: Deborah Roots
+branch-manager: Elise Hardy
 branch-address: Lavenham Village Hall, Church Street, Lavenham
 branch-post-code: CO10 9QT
 branch-tel: 01787 247729

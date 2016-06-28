@@ -9,7 +9,7 @@ branch-thursday-hours: 1100 – 1300, 1400 – 1700
 branch-friday-hours: Closed
 branch-saturday-hours: 0900 – 1300
 branch-sunday-hours: 1300 – 1700
-branch-manager: Amanda Degnan
+branch-manager: Dawn Bamford
 branch-address: Community Centre, Arms Lane, Kedington
 branch-post-code: CB9 7QQ
 branch-tel: 01440 703449

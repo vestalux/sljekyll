@@ -9,7 +9,7 @@ branch-thursday-hours: Closed
 branch-friday-hours: 1400 – 1900
 branch-saturday-hours: Closed
 branch-sunday-hours: 1200 – 1630
-branch-manager: Deborah Roots
+branch-manager: Elise Hardy
 branch-address: United Reform Church Room, Hall Street, Long Melford
 branch-post-code: CO10 9JT
 branch-tel: 01787 377525
