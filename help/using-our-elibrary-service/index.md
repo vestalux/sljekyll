@@ -2,6 +2,7 @@
 layout: sidebar-right
 title: Using our eLibrary service
 breadcrumb: help
+sidebar: help
 ---
 ## Guides to our eLibrary services:
 

@@ -2,6 +2,7 @@
 layout: sidebar-right
 title: Joining the library
 breadcrumb: help
+sidebar: help
 ---
 ## Getting a library card
 

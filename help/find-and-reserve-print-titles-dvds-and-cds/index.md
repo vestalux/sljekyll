@@ -2,6 +2,7 @@
 layout: sidebar-right
 title: Find, reserve and borrow books, music and film
 breadcrumb: help
+sidebar: help
 ---
 ## Quick links:
 

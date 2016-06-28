@@ -2,12 +2,13 @@
 layout: sidebar-right
 title: Borrowing titles from Cambridgeshire libraries
 breadcrumb: help
+sidebar: help
 ---
 You can now borrow titles from Cambridgeshire Libraries’ stock, as well as Suffolk’s.
 
 We work with Cambridgeshire Libraries, and refer to this partnership as SPINE.
 
-**Note: Borrowing titles from Cambridgeshire incurs a &pound;1 charge**. Borrowing books from Suffolk remains free.
+**Note: Borrowing titles from Cambridgeshire incurs a &pound;2 charge**. Borrowing books from Suffolk remains free.
 
 This may be useful if you can’t find a book in Suffolk, or you’re looking for a different edition.
 

@@ -2,6 +2,7 @@
 layout: sidebar-right
 title: Borrowing eReaders and iPads
 breadcrumb: help
+sidebar: help
 ---
 ## Borrowing eReaders
 

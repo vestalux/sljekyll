@@ -2,6 +2,7 @@
 layout: sidebar-right
 title: What we filter on public PCs and our WiFi service
 breadcrumb: help
+sidebar: help
 ---
 As a library service we believe in freedom of speech. We only block access to internet sites or pages you access on our fixed PCs if a website:
 

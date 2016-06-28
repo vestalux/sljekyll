@@ -51,6 +51,16 @@ breadcrumb: local-interest
 
 </section>
 
+<section class="cf">
+
+<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2564624?QRY=CTIBIB%3C%20IRN(62310464)&QRYTEXT=Sandlands"><cite>Sandlands</cite> by Rosy Thornton</a></h3>
+
+<a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/2564624?QRY=CTIBIB%3C%20IRN(62310464)&QRYTEXT=Sandlands"><img class="{% include /c/img-float-left.html %}" src="/images/article/sandlands.jpg" alt="Sandlands by Rosy Thornton" /></a>
+
+<p class="mt0">This short story collection is inspired by the 'sandlings' of coastal Suffolk, by the landscape and its flora and fauna, as well as by its folklore and historical and cultural heritage.</p>
+
+</section>
+
 <h2>Non-fiction</h2>
 
 <section class="cf">

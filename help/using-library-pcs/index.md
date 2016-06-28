@@ -2,6 +2,7 @@
 layout: sidebar-right
 title: Using library computers
 breadcrumb: help
+sidebar: help
 ---
 You can book a computer at **all Suffolk libraries and Suffolk record offices except Long Melford**. You can book up to 21 days in advance with a maximum of 15 bookings every 21 days.
 

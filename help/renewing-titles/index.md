@@ -2,6 +2,7 @@
 layout: sidebar-right
 title: Renewing titles
 breadcrumb: help
+sidebar: help
 ---
 ## Renewing books, CDs and DVDs
 

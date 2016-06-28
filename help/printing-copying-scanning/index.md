@@ -2,6 +2,7 @@
 layout: sidebar-right
 title: 'Printing, copying, scanning &amp; faxing'
 breadcrumb: help
+sidebar: help
 ---
 You can print, photocopy and scan from all Suffolk Libraries.
 

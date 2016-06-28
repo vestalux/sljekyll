@@ -2,6 +2,7 @@
 layout: sidebar-right
 title: Re–registering an expired library card
 breadcrumb: help
+sidebar: help
 ---
 Your library card membership expires automatically after 3 years. This helps us keep our data up to date.
 

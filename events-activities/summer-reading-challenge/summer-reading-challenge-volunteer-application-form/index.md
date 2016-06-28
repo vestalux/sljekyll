@@ -45,8 +45,8 @@ Complete this form and we'll get back to you as soon as possible. We won't share
           <option value="brandon">Brandon</option>
           <option value="broomhill">Broomhill</option>
           <option value="bungay">Bungay</option>
-          <option value="bury">Bury St Edmunds Library</option>
-          <option value="capel">Capel St Mary Library</option>
+          <option value="bury">Bury St Edmunds</option>
+          <option value="capel">Capel St Mary</option>
           <option value="chantry">Chantry</option>
           <option value="clare">Clare</option>
           <option value="debenham">Debenham</option>

@@ -2,6 +2,7 @@
 layout: sidebar-right
 title: Opening times and holidays
 breadcrumb: help
+sidebar: help
 ---
 Our library opening hours vary from library to library.
 

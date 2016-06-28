@@ -1,5 +1,5 @@
 ---
-layout: sidebar-right
+layout: full-width-narrow
 title: Charges, fines and what you can borrow
 breadcrumb: help
 ---
@@ -463,7 +463,7 @@ You can pay your library fines over the phone – call 01473 263838.
       <th>
         Fax
       </th>
-      <td>
+      <th>
         Sending 1st page
       </th>
       <th>

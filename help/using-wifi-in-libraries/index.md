@@ -2,6 +2,7 @@
 layout: sidebar-right
 title: Using wifi in libraries
 breadcrumb: help
+sidebar: help
 ---
 All our libraries offer free, unlimited wifi. [Find your local library](/branches "Branches").
 

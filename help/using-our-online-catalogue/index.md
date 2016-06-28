@@ -2,6 +2,7 @@
 layout: sidebar-right
 title: Using our online catalogue
 breadcrumb: help
+sidebar: help
 ---
 You can [access your account and our catalogue online](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/BSEARCH). You&#8217;ll need to accept cookies in order to use the service.
 
