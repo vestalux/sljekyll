@@ -1,0 +1,27 @@
+@media screen, projection {
+
+.custom-search-results * {
+    font-size: 1em !important;
+    font-family: $main-font;
+    padding-left: 0 !important;
+}
+
+.gs-title {
+    font-size: 1.25rem !important;
+}
+
+.gcsc-branding-text,
+.gcsc-branding-img-noclear {
+    display: none;
+}
+
+.gsc-url-top {
+    font-size: 0.875em !important;
+    margin-bottom: 0 !important;
+}
+
+.gsc-selected-option {
+    font-size: 0.875em !important;
+}
+
+}
