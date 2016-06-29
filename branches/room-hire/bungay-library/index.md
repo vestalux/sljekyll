@@ -1,6 +1,6 @@
 ---
 layout: full-width-narrow
-title: 'Bungay Library: Room hire'
+title: 'Bungay Library room hire'
 breadcrumb: branches
 ---
 # Mezzanine floor (within library)
@@ -9,7 +9,7 @@ breadcrumb: branches
 * Cost: £7 per hour for community/charity/private bookings, £10.50 per hour for commercial/statutory bookings
 * Availability: Outside library opening hours only, subject to other bookings.
 
-![Bungay mezzanine floor](http://suffolklibraries.co.uk/wp-content/uploads/2014/01/featured-bungay-mezzanine-floor.jpg)
+![Bungay mezzanine floor](/images/article/bungay-mezzanine-floor.jpg)
 *Mezzanine floor*
 
 ## Other information

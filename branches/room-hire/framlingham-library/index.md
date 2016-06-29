@@ -1,6 +1,6 @@
 ---
 layout: full-width-narrow
-title: 'Framlingham Library: Room hire'
+title: 'Framlingham Library room hire'
 breadcrumb: branches
 ---
 # The Old Court room

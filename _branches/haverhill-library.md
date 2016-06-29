@@ -22,19 +22,19 @@ branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/haverhill-library-2
 branch-room-hire: /branches/room-hire/haverhill-library
 branch-display-space: "
-  <h4>Display space 1: Foyer (suitable for small table top / banner display)</h4>
-  <ul>
-    <li>Per day (manned): £5</li>
-    <li>Per week (unmanned): £20</li>
-  </ul>
-  <h4>Display space 2: in library (suitable for small table top / banner display)</h4>
-  <ul>
-    <li>Per day (manned): £5</li>
-    <li>Per week (unmanned): £20</li>
-  </ul>
-  <h4>Glass Display Cabinet: in library (suitable for exhibiting crafts, handmade goods, collections)</h4>
-  <p>Per week (maximum 2 weeks): £7.50 per week</p>
-  <h4>Large Display board: in library (suitable for exhibition displays, local project information, public notices)</h4>
+<strong>Display space 1: Foyer (suitable for small table top / banner display)</strong>
+<ul>
+  <li>Per day (manned): £5</li>
+  <li>Per week (unmanned): £20</li>
+</ul>
+<strong>Display space 2: in library (suitable for small table top / banner display)</strong>
+<ul>
+  <li>Per day (manned): £5</li>
+  <li>Per week (unmanned): £20</li>
+</ul>
+<strong>Glass Display Cabinet: in library (suitable for exhibiting crafts, handmade goods, collections)</strong>
+<p>Per week (maximum 2 weeks): £7.50 per week</p>
+<strong>Large Display board: in library (suitable for exhibition displays, local project information, public notices)</strong>
   <p>Per week (maximum 2 weeks): £7.50 per week</p>"
 breadcrumb: y
 ---

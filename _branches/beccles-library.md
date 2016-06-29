@@ -22,7 +22,7 @@ branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/beccles-library-2
 branch-room-hire: /branches/room-hire/beccles-library
 branch-display-space: "
-  <h4>Double sided notice board</h4>
+  <strong>Double sided notice board</strong>
   <p>Displays posters for local non-commercial events, such as church fetes.</p>"
 breadcrumb: y
 ---

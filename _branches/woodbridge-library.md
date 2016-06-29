@@ -21,11 +21,10 @@ branch-facebook: Woodbridge-Library-Suffolk-575433289169395
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/woodbridge-library-2
 branch-room-hire: /branches/room-hire/woodbridge-library
-branch-display-space: "Display boards
-
-Cost: £10 per week
-Staffed table display in main library
-
-Cost: £10 per day"
+branch-display-space: "
+<strong>Display boards</strong>
+<p>Cost: £10 per week</p>
+<strong>Staffed table display in main library/<strong>
+<p>Cost: £10 per day</p>"
 breadcrumb: y
 ---

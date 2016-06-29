@@ -19,6 +19,12 @@ branch-facebook: brandonlibrarysuffolk
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/brandon-library-3
 branch-room-hire: /branches/room-hire/brandon-library
-branch-display-space: "Displays local and library events. A3 poster: £1, A4 poster: 50p, A5 poster: 20p"
+branch-display-space: "
+<p>Local and library event posters:</p>
+<ul>
+<li>A3 poster: £1</li>
+<li>A4 poster: 50p</li>
+<li>A5 poster: 20p</li>
+</ul>"
 breadcrumb: y
 ---

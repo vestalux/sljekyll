@@ -1,6 +1,6 @@
 ---
 layout: full-width-narrow
-title: 'Beccles Library: Room hire'
+title: 'Beccles Library room hire'
 breadcrumb: branches
 ---
 # Meeting room

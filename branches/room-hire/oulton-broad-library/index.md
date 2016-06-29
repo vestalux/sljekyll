@@ -1,6 +1,6 @@
 ---
 layout: full-width-narrow
-title: 'Oulton Broad Library: Room hire'
+title: 'Oulton Broad Library room hire'
 breadcrumb: branches
 ---
 # Meeting room

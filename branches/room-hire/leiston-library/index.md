@@ -1,6 +1,6 @@
 ---
 layout: full-width-narrow
-title: 'Leiston Library: Room hire'
+title: 'Leiston Library room hire'
 breadcrumb: branches
 ---
 # Space within library

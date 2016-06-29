@@ -1,6 +1,6 @@
 ---
 layout: full-width-narrow
-title: 'Kedington Library: Room hire'
+title: 'Kedington Library room hire'
 breadcrumb: branches
 ---
 # Space within library

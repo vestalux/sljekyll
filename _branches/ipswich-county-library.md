@@ -22,11 +22,11 @@ branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/ipswich-county-library-2
 branch-room-hire: /branches/room-hire/ipswich-county-library
 branch-display-space: "
-  <h4>Double sided display case</h4>
-  <p>Please book two weeks in advance. Displays can be put in the case after 2pm on Mondays and must be removed by 12 noon the following Monday.</p>
-  <ul>
-    <li>Profit organisation hire: £80.30 per week</li>
-    <li>Non-profit organisation hire: £40.15 per week</li>
-  </ul>"
+<strong>Double sided display case</strong>
+<p>Please book two weeks in advance. Displays can be put in the case after 2pm on Mondays and must be removed by 12 noon the following Monday.</p>
+<ul>
+  <li>Profit organisation hire: £80.30 per week</li>
+  <li>Non-profit organisation hire: £40.15 per week</li>
+</ul>"
 breadcrumb: y
 ---

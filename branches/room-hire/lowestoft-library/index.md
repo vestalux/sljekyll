@@ -1,6 +1,6 @@
 ---
 layout: full-width-narrow
-title: 'Lowestoft Library: Room hire'
+title: 'Lowestoft Library room hire'
 breadcrumb: branches
 ---
 # Meeting room

@@ -1,6 +1,6 @@
 ---
 layout: full-width-narrow
-title: 'Aldeburgh Library: Room hire'
+title: 'Aldeburgh Library room hire'
 breadcrumb: branches
 ---
 # Space within library

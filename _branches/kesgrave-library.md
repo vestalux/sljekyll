@@ -20,10 +20,10 @@ branch-facebook: kesgravelibrary
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/kesgrave-library-2
 branch-display-space: "
-  <h4>Posters – A4 or smaller</h4>
-  <ul>
-    <li>Local and charity: free</li>
-    <li>Business and personal: 50p per week for a maximum of 4 weeks</li>
-  </ul>"
+<strong>Posters – A4 or smaller</strong>
+<ul>
+  <li>Local and charity: free</li>
+  <li>Business and personal: 50p per week for a maximum of 4 weeks</li>
+</ul>"
 breadcrumb: y
 ---

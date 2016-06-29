@@ -22,7 +22,7 @@ branch-twitter: newmarketlib
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/newmarket-library-2
 branch-display-space: "
-  <h4>Wall space for hire</h4>
-  <p>Available for exhibitions. Charge is £28 a month, contact the library for more information.</p>"
+<strong>Wall space for hire</strong>
+<p>Available for exhibitions. Charge is £28 a month, contact the library for more information.</p>"
 breadcrumb: y
 ---

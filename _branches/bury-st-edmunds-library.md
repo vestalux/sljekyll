@@ -20,6 +20,24 @@ branch-facebook: burystedmundslibrary
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/bury-st-edmunds-library-2
 branch-room-hire: /branches/room-hire/bury-st-edmunds-library
-branch-display-space: tbc
+branch-display-space: "
+<strong>Internal Foyer (suitable for table top / banner display)</strong>
+<p>Per day (manned):</p>
+<ul>
+<li>Charitable and voluntary: £12</li>
+<li>Other (commercial and statutory bodies): £20</li>
+</ul>
+<strong>External Foyer (suitable for table top / banner display)</strong>
+<p>Per week:</p>
+<ul>
+<li>Charitable and voluntary: £12</li>
+<li>Other (commercial and statutory bodies) £20</li>
+</ul>
+<strong>Paid for Display board</strong>
+<p>Public notices for services/goods. Per week (to a maximum of six weeks):</p>
+<ul>
+<li>A5: 50p per week</li>
+<li>A4: £1 per week</li>
+</ul>"
 breadcrumb: y
 ---

@@ -20,11 +20,11 @@ branch-twitter: Chantry_Library
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/chantry-library-2
 branch-display-space: "
-  <h4>Glass display cabinet</h4>
-  <p>Displays items for up to a month.</p>
-  <ul>
-    <li>General use: £5 per month for a shelf, £5 per week for the entire cabinet</li>
-    <li>Charities and local community organisations: free</li>
-  </ul>"
+<strong>Glass display cabinet</strong>
+<p>Displays items for up to a month.</p>
+<ul>
+  <li>General use: £5 per month for a shelf, £5 per week for the entire cabinet</li>
+  <li>Charities and local community organisations: free</li>
+</ul>"
 breadcrumb: y
 ---

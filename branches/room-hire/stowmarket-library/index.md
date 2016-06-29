@@ -1,6 +1,6 @@
 ---
 layout: full-width-narrow
-title: 'Stowmarket Library: Room hire'
+title: 'Stowmarket Library room hire'
 breadcrumb: branches
 ---
 # Small meeting room

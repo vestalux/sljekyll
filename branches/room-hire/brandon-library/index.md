@@ -1,6 +1,6 @@
 ---
 layout: full-width-narrow
-title: 'Brandon Library: Room hire'
+title: 'Brandon Library room hire'
 breadcrumb: branches
 ---
 # Space within library

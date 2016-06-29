@@ -1,6 +1,6 @@
 ---
 layout: full-width-narrow
-title: 'Ipswich County Library: Room hire'
+title: 'Ipswich County Library room hire'
 breadcrumb: branches
 ---
 # [Enterprise + Innovation Hub](http://suffolklibraries.co.uk/branches/hub)

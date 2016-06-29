@@ -1,6 +1,6 @@
 ---
 layout: full-width-narrow
-title: 'Woodbridge Library: Room hire'
+title: 'Woodbridge Library room hire'
 breadcrumb: branches
 ---
 # Meeting room

@@ -1,6 +1,6 @@
 ---
 layout: full-width-narrow
-title: 'Halesworth Library: Room hire'
+title: 'Halesworth Library room hire'
 breadcrumb: branches
 ---
 # Office
