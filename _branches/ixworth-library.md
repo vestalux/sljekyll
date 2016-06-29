@@ -19,5 +19,6 @@ branch-social-media: y
 branch-facebook: Ixworth-Library-1454121214829698
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/ixworth-library-2
+branch-borrowing-ereaders-and-ipads: iPad
 breadcrumb: y
 ---

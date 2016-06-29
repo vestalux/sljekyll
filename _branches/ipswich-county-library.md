@@ -14,12 +14,14 @@ branch-address: Northgate Street, Ipswich
 branch-post-code: IP1 3DE
 branch-tel: 01473 351242
 branch-friends: Friends of Ipswich County Library
+branch-newsletter: /assets/pdf/friends-of-ipswich-county-library-membership-form.pdf
 branch-social-media: y
 branch-twitter: ipswich_library
 branch-facebook: ipswichcountylibrary
 branch-instagram: ipswich_county_library
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/ipswich-county-library-2
+branch-special-collections: African Caribbean resources, Indic language resources, Music & drama library
 branch-room-hire: /branches/room-hire/ipswich-county-library
 branch-display-space: "
 <strong>Double sided display case</strong>

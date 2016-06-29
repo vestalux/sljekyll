@@ -18,13 +18,16 @@ branch-friends-url: /about/member-organisations/friends-of-woodbridge-library-fo
 branch-social-media: y
 branch-twitter: woodbridgelib
 branch-facebook: Woodbridge-Library-Suffolk-575433289169395
+branch-booked-out-podcast: /new-suggestions/booked-out/
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/woodbridge-library-2
+branch-special-collections: Edward Fitzgerald collection, Seckford collection
+branch-borrowing-ereaders-and-ipads: eReader
 branch-room-hire: /branches/room-hire/woodbridge-library
 branch-display-space: "
 <strong>Display boards</strong>
 <p>Cost: £10 per week</p>
-<strong>Staffed table display in main library/<strong>
+<strong>Staffed table display in main library/</strong>
 <p>Cost: £10 per day</p>"
 breadcrumb: y
 ---

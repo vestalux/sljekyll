@@ -50,6 +50,9 @@
                         Friends group: {{ page.branch-friends }}<br>
                         {% else %}
                         {% endif %}
+                        {% if page.branch-newsletter %}
+                        Newsletter: <a class="blue" href="{{ page.branch-newsletter }}">Sign up</a><br>
+                        {% endif %}
                         {% if page.branch-social-media %}
                         <section>
 
@@ -67,8 +70,10 @@
                                 {% endif %}
                                 {% if page.branch-pinterest %}
                                 <li class="dib mr2"><a class="blue" href="http://www.pinterest.com/{{ page.branch-pinterest }}">Pinterest</a></li>
+                                {% endif %}
+                                {% if page.branch-booked-out-podcast %}
+                                <li class="dib mr2"><a class="blue" href="{{ page.branch-booked-out-podcast }}">Booked Out podcast</a></li>
                                 {% endif %}</p>
-
                             </ul>
 
                         {% endif %}
@@ -100,6 +105,22 @@
                                 <a  class="blue" href="{{ page.branch-accessibility }}">Accessibility information</a>
                                 </li>
                                 {% endif %}
+                                {% if page.branch-special-collections %}
+                                <li>
+                                <a class="blue" href="/special-collections/">Special collections:</a> {{ page.branch-special-collections }}</a>
+                                </li>
+                                {% endif %}
+                                {% if page.branch-other-facilities %}
+                                <li>
+                                {{ page.branch-other-facilities }}
+                                </li>
+                                {% endif %}
+                                {% if page.branch-borrowing-ereaders-and-ipads %}
+                                <li>
+                                <a class="blue" href="/help/borrowing-ereaders-and-ipads/">Borrow an {{ page.branch-borrowing-ereaders-and-ipads }}</a> from the library
+                                </li>
+                                {% endif %}
+
 
                             </ul>
 

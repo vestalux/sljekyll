@@ -21,6 +21,8 @@ branch-facebook: friendsofnewmarketlibrary
 branch-twitter: newmarketlib
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/newmarket-library-2
+branch-special-collections: Racing collection
+branch-other-facilities: <a href="http://www.westsuffolk.gov.uk/parking/Travel/shopmobility.cfm">Shopmobility:</a> hire a manual or electric wheelchair or scooter from Newmarket Library if you have any mobility problems
 branch-display-space: "
 <strong>Wall space for hire</strong>
 <p>Available for exhibitions. Charge is £28 a month, contact the library for more information.</p>"

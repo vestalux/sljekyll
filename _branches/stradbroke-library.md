@@ -17,5 +17,6 @@ branch-friends: Stradbroke Courthouse and Library Trust
 branch-friends-url: /about/member-organisations/stradbroke-courthouse-and-library-trust-scalt
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/stradbroke-library-2
+branch-other-facilities: Stradbroke Post Office is in the library
 breadcrumb: y
 ---

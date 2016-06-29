@@ -20,6 +20,7 @@ branch-facebook: beccleslibrarysuffolk
 branch-twitter: beccleslib
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/beccles-library-2
+branch-other-facilities: Beccles Library is a Trusted Advisor organisation offering support accessing information for your health and social needs, help to navigate Suffolk Infolink and other online information resources and information about other organisations in the area and help to contact them
 branch-room-hire: /branches/room-hire/beccles-library
 branch-display-space: "
   <strong>Double sided notice board</strong>
