@@ -8,7 +8,7 @@ breadcrumb: home
 
     <iframe
     style="border-style: none;"
-    src="branch-map/index_iframe.html"
+    src="branch-map/index.html"
     width="992"
     height="660" >
     </iframe>
