@@ -53,34 +53,38 @@
                         {% if page.branch-newsletter %}
                         Newsletter: <a class="blue" href="{{ page.branch-newsletter }}">Sign up</a><br>
                         {% endif %}
-                        {% if page.branch-social-media %}
-                        <section>
 
-                            <h1 class="di f4 ma0 pa0 mr2">Social media:</h1>
-
-                            <ul class="ma0 pa0 list">
-                                {% if page.branch-facebook %}
-                                <li class="dib mr2"><a class="blue" href="http://www.facebook.com/{{ page.branch-facebook }}">Facebook</a></li>
-                                {% endif %}
-                                {% if page.branch-twitter %}
-                                <li class="dib mr2"><a class="blue" href="http://www.twitter.com/{{ page.branch-twitter }}">Twitter</a></li>
-                                {% endif %}
-                                {% if page.branch-instagram %}
-                                <li class="dib mr2"><a class="blue" href="http://www.instagram.com/{{ page.branch-instagram }}">Instagram</a></li>
-                                {% endif %}
-                                {% if page.branch-pinterest %}
-                                <li class="dib mr2"><a class="blue" href="http://www.pinterest.com/{{ page.branch-pinterest }}">Pinterest</a></li>
-                                {% endif %}
-                                {% if page.branch-booked-out-podcast %}
-                                <li class="dib mr2"><a class="blue" href="{{ page.branch-booked-out-podcast }}">Booked Out podcast</a></li>
-                                {% endif %}</p>
-                            </ul>
-
-                        {% endif %}
-
-                    </section> <!-- end #details -->
+                    </section>
 
                 </div>
+
+                {% if page.branch-social-media %}
+
+                <section class="pt2 pt3-ns">
+
+                    <h1 class="di f4 ma0 pa0 mr2">Social media:</h1>
+
+                    <ul class="ma0 pa0 list">
+                        {% if page.branch-facebook %}
+                        <li class="custom-icon-facebook dib mr2"><a class="blue" href="http://www.facebook.com/{{ page.branch-facebook }}">Facebook</a></li>
+                        {% endif %}
+                        {% if page.branch-twitter %}
+                        <li class="custom-icon-twitter dib mr2"><a class="blue" href="http://www.twitter.com/{{ page.branch-twitter }}">Twitter</a></li>
+                        {% endif %}
+                        {% if page.branch-instagram %}
+                        <li class="custom-icon-instagram dib mr2"><a class="blue" href="http://www.instagram.com/{{ page.branch-instagram }}">Instagram</a></li>
+                        {% endif %}
+                        {% if page.branch-pinterest %}
+                        <li class="custom-icon-pinterest dib mr2"><a class="blue" href="http://www.pinterest.com/{{ page.branch-pinterest }}">Pinterest</a></li>
+                        {% endif %}
+                        {% if page.branch-booked-out-podcast %}
+                        <li class="custom-icon-soundcloud dib mr2"><a class="blue" href="{{ page.branch-booked-out-podcast }}">Booked Out podcast</a></li>
+                        {% endif %}</p>
+                    </ul>
+
+                </section> <!-- end #details -->
+
+                {% endif %}
 
                 {% if page.branch-news %}
 
