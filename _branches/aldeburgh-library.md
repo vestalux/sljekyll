@@ -1,6 +1,6 @@
 ---
 branch-unique-id: aldeburgh-library
-branch-news: This is a news story! <a href="#">Here is a link.</a>
+branch-news: This is a news story! <a class="blue" href="#">Here is a link.</a>
 branch-name: Aldeburgh Library
 branch-image: /images/branches/aldeburgh-library.jpg
 branch-monday-hours: 0900 – 1300

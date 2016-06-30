@@ -18,7 +18,7 @@
 
                 <h1 class="{% include /c/page-title.html %}">{{ page.name }}</h1>
 
-                <div class="custom-g-l2">
+                <div class="custom-g-l2 gray">
 
                     <ul class="list ma0 pa0 mb2">
 
@@ -30,7 +30,11 @@
 
                     {% else %}
 
-                         <li class="mv1 mv0-ns">{{ page.event-start-date | date: "%a %-d %b, %Y" }} {{ page.event-start-time }} &#8211; {{ page.event-end-time }}</li>
+                         <li class="mv1 mv0-ns">{{ page.event-start-date | date: "%a %-d %b, %Y" }}</li>
+
+                    {% endif %}
+
+                          <li class="mv1 mv0-ns">{{ page.event-start-time }} &#8211; {{ page.event-end-time }}</li>
 
                     {% if page.event-ticket-url %}
 
@@ -39,8 +43,6 @@
                     {% endif %}
 
                     </ul>
-
-                    {% endif %}
 
                 </div>
 
