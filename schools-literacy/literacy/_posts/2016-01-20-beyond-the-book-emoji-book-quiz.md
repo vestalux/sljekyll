@@ -7,6 +7,11 @@ category: literacy
 excerpt: Can you guess which book title is represented by emoji symbols? A quirky starter for the classroom or fun activity for the family!
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- activity
+- CPD/INSET idea
+- fun
+- starter
 ---
 ![Emoji book quiz](/images/featured/featured-emoji-book-quiz.jpg)
 

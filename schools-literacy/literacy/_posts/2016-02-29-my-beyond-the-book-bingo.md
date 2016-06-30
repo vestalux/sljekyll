@@ -7,6 +7,10 @@ category: literacy
 excerpt: "Fancy reading a book with a blue cover? Join us in playing 'Beyond the Book Bingo' and be introduced to some great authors and books!"
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- activity
+- Beyond the Book
+- starter
 ---
 ![Book bingo in March](/images/featured/featured-book-bingo-march.jpg)
 

@@ -7,6 +7,9 @@ category: literacy
 excerpt: "We start 2016 with a bang by going 'Beyond the Book' with the author of our favorite book of 2015!"
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- Beyond the Book
+- book review
 ---
 ![The World of Norm](/images/featured/featured-anything-that-isnt-this.jpg)
 

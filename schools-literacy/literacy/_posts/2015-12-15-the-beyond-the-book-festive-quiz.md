@@ -7,6 +7,10 @@ category: literacy
 excerpt: The greatest part of knowledge is knowing where to find something...
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- activity
+- education
+- fun
 ---
 ![Beyond the Book Santa Claus](/images/featured/featured-beyond-the-book-santa.jpg)
 

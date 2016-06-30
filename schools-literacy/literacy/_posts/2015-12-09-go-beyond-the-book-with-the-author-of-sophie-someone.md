@@ -7,6 +7,11 @@ category: literacy
 excerpt: 'Meet Hayley Long — Suffolk born author of the Costa Award nominated <cite>Sophie Someone</cite> and soothsayer!'
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- Beyond the Book
+- book review
+- education
+- funny
 ---
 ![Sophie Someone](/images/featured/featured-sophie-someone-guinea-pig.jpg)
 

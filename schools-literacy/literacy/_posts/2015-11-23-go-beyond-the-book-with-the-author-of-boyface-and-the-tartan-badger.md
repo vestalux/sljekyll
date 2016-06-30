@@ -7,6 +7,10 @@ category: literacy
 excerpt: 'Come with us as we go into the strange world of <cite>Boyface and the Tartan Badger</cite> by James Campbell.'
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- Beyond the Book
+- book review
+- funny
 ---
 ![Boyface by James Campbell](/images/featured/featured-boyface.jpg)
 

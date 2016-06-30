@@ -7,6 +7,12 @@ category: literacy
 excerpt: "In week 6 of our ‘Reading Hack’ sessions, the Beccles Book Bunnies ‘Hack’ Minecraft to design a library of the future and take over the issues counter in Beccles library."
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- activity
+- coding
+- education
+- Kano
+- Reading Hack
 ---
 ![Reading Hack Group - Week 6](/images/featured/featured-reading-hack-week-6.jpg)
 

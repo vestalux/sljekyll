@@ -7,6 +7,9 @@ category: literacy
 excerpt: We review the exceptional <cite>Stonebird</cite> and find out what's on author Mike Revell's bookshelf!
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- Beyond the Book
+- book review
 ---
 ![Stonebird by Mike Revell](/images/featured/featured-stonebird.jpg)
 

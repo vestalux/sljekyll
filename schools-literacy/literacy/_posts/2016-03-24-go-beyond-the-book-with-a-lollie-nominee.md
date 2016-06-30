@@ -7,6 +7,10 @@ category: literacy
 excerpt: "Come 'Beyond the Book' and meet Emily Sparkes as she tries to make sense of the mayhem around her. She will make you cry with laughter!"
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- Beyond the Book
+- book review
+- funny
 ---
 ![Vote for Ruth Fitzgerald in the Laugh out Loud Awards](/images/featured/featured-laugh-out-loud-book-awards-ruth-fitzgerald.jpg)
 

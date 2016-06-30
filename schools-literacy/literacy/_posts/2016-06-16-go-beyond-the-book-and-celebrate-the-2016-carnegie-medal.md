@@ -7,6 +7,10 @@ category: literacy
 excerpt: "The 2016 Carnegie Medal will be announced on Monday 20 June. To celebrate, go Beyond the Book with the 2015 winner Tanya Landman!"
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- Beyond the Book
+- book review
+- education
 ---
 ![The CILIP Carnegie and Kate Greenaway Children's Book Awards](/images/featured/featured-the-cilip-carnegie-and-kate-greenaway-childrens-book-awards.jpg)
 
@@ -60,3 +64,20 @@ People have been reading and telling stories to each other since they first evol
 **We have built a rocket to send to Mars. It is a wonderful rocket but rather small. If we were to send only one book for the aliens to read, which book would you choose to sum up what life is like here on Earth?**
 
 A terrible cliché, I'm afraid (but clichés are clichés because they're often true ) –  a volume of Shakespeare's plays. No one sums up the human condition better than him.
+
+Tags:
+<ul class="list ph3 ph5-ns pv4">
+  {% for tags in page.tags %}
+    <li class="dib mr1 mb2"><a href="#" class="f6 f5-ns b db pa2 link dim dark-gray ba b--black-20">{{ tags }}</a></li>
+  {% endfor %}
+</ul>
+
+<h1>Tag Cloud</h1>
+{% assign tags = site.tags | sort %}
+{% for tag in tags %}
+ <li class="dib mr1 mb2">
+    <a href="/tag/{{ tag | first | slugify }}/" class="f6 f5-ns b db pa2 link dim dark-gray ba b--black-20">
+            {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
+    </a>
+ </li>
+{% endfor %}

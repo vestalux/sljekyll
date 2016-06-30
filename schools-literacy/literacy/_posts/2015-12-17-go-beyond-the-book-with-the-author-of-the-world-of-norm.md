@@ -7,6 +7,11 @@ category: literacy
 excerpt: "Ever get the feeling you've been cheated? Or have you ever been tempted to shave a dog? If so, The World of Norm might just be for you!"
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- Beyond the Book
+- book review
+- education
+- funny
 ---
 ![The World of Norm](/images/featured/featured-the-world-of-norm.jpg)
 

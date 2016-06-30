@@ -7,6 +7,12 @@ category: literacy
 excerpt: "In part 2 of our blog series about setting up a Reading Hack group, our 'Beccles Book Bunnies' group create online accounts and Hack a popular card game."
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- activity
+- education
+- fun
+- Reading Hack
+- starter
 ---
 ![Reading Hack Group - Week 2](/images/featured/featured-reading-hack-week-2.jpg)
 

@@ -7,6 +7,10 @@ category: literacy
 excerpt: "As Children's Mental Health Week begins, we look at two ways that libraries and reading can support the mental well-being of children and young people."
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- CPD/INSET idea
+- education
+- LGBTQ+*
 ---
 ![Children's Mental Health Week logo](/images/featured/featured-childrens-mental-health-week-2016.jpg)
 

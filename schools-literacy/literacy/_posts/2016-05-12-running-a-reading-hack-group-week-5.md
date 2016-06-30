@@ -7,6 +7,11 @@ category: literacy
 excerpt: "In week 5 of our ‘Reading Hack’ sessions, the Beccles Book Bunnies 'Hack' poetry in two ways and create some beautiful seaside imagery."
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- activity
+- art
+- Reading Hack
+- starter
 ---
 ![Reading Hack Group - Week 5](/images/featured/featured-reading-hack-week-5.jpg)
 

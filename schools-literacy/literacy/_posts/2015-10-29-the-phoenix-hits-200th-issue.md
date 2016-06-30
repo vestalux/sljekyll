@@ -7,6 +7,12 @@ category: literacy
 excerpt: The weekly independent comic for kids reaches a wonderful milestone.
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- book review
+- comic
+- fun
+- funny
+- graphic
 ---
 ![The Phoenix comic logo](/images/featured/featured-the-phoenix-comic.jpg)
 
