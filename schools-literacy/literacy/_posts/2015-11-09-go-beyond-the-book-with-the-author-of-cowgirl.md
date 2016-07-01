@@ -8,8 +8,8 @@ excerpt: "We have a look at the very funny Cowgirl and its author G.R. Gemin goe
 breadcrumb: literacy
 sidebar: literacy
 tags:
-- Beyond the Book
-- book review
+- beyond-the-book
+- book-review
 - funny
 ---
 ![Cowgirl by Giancarlo Gemin](/images/featured/featured-cow-girl.jpg)

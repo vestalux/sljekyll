@@ -9,7 +9,7 @@ breadcrumb: literacy
 sidebar: literacy
 tags:
 - activity
-- CPD/INSET idea
+- cpd-inset-idea
 - education
 - fun
 - starter

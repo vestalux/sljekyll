@@ -8,8 +8,8 @@ excerpt: "Once a year, Teva separates into two, leaving a younger version of her
 breadcrumb: literacy
 sidebar: literacy
 tags:
-- Beyond the Book
-- book review
+- beyond-the-book
+- book-review
 - scary
 ---
 ![More of Me](/images/featured/featured-more-of-me.jpg)

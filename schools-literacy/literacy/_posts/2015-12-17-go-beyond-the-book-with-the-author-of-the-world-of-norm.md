@@ -8,8 +8,8 @@ excerpt: "Ever get the feeling you've been cheated? Or have you ever been tempte
 breadcrumb: literacy
 sidebar: literacy
 tags:
-- Beyond the Book
-- book review
+- beyond-the-book
+- book-review
 - education
 - funny
 ---

@@ -8,9 +8,9 @@ excerpt: "As Children's Mental Health Week begins, we look at two ways that libr
 breadcrumb: literacy
 sidebar: literacy
 tags:
-- CPD/INSET idea
+- cpd-inset-idea
 - education
-- LGBTQ+*
+- lgbtq
 ---
 ![Children's Mental Health Week logo](/images/featured/featured-childrens-mental-health-week-2016.jpg)
 

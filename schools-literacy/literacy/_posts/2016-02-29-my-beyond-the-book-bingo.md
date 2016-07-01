@@ -9,7 +9,7 @@ breadcrumb: literacy
 sidebar: literacy
 tags:
 - activity
-- Beyond the Book
+- beyond-the-book
 - starter
 ---
 ![Book bingo in March](/images/featured/featured-book-bingo-march.jpg)

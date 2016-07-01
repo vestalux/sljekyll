@@ -8,7 +8,7 @@ excerpt: '"Visited by an unnamed narrator, the signalman spends his days stuck i
 breadcrumb: literacy
 sidebar: literacy
 tags:
-- book review
+- book-review
 - education
 - halloween
 - scary

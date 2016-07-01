@@ -8,8 +8,8 @@ excerpt: 'We travel through time and space to visit ancient Crete in a brilliant
 breadcrumb: literacy
 sidebar: literacy
 tags:
-- Beyond the Book
-- book review
+- beyond-the-book
+- book-review
 - education
 ---
 ![Minotaur](/images/featured/featured-minotaur.jpg)

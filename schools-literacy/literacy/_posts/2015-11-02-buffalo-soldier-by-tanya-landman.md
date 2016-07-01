@@ -8,8 +8,8 @@ excerpt: '“What kind of a girl steals the clothes from a dead man’s back and
 breadcrumb: literacy
 sidebar: literacy
 tags:
-- book review
-- Carnegie
+- book-review
+- carnegie
 ---
 ![Buffalo Soldier by Tanya Landman](/images/featured/featured-buffalo-soldier.jpg)
 

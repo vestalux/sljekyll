@@ -11,7 +11,7 @@ tags:
 - activity
 - education
 - fun
-- Reading Hack
+- reading-hack
 ---
 ![Reading Hack Group - Week 1](/images/featured/featured-reading-hack-week-1.jpg)
 

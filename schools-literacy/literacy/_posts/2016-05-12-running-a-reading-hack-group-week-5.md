@@ -10,7 +10,7 @@ sidebar: literacy
 tags:
 - activity
 - art
-- Reading Hack
+- reading-hack
 - starter
 ---
 ![Reading Hack Group - Week 5](/images/featured/featured-reading-hack-week-5.jpg)

@@ -10,7 +10,7 @@ sidebar: literacy
 tags:
 - activity
 - fun
-- Reading Hack
+- reading-hack
 ---
 ![Reading Hack Group - Week 4](/images/featured/featured-reading-hack-week-4.jpg)
 

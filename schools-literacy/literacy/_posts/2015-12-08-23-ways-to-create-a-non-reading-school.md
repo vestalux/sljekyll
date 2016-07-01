@@ -8,7 +8,7 @@ excerpt: Are you working in a non-reading school? This is a great tongue-in-chee
 breadcrumb: literacy
 sidebar: literacy
 tags:
-- CPD/INSET idea
+- cpd-inset-idea
 - education
 ---
 ![Discarded books in an empty library](/images/featured/featured-empty-library.jpg)

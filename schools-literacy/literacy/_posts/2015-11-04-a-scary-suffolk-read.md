@@ -8,10 +8,10 @@ excerpt: A spooky Suffolk tale set during World War Two that will thrill and chi
 breadcrumb: literacy
 sidebar: literacy
 tags:
-- book review
-- Dyslexia friendly
+- book-review
+- dyslexia-friendly
 - halloween
-- Suffolk tale
+- suffolk-tale
 ---
 ![The Wickford Doom by Chris Priestly with illustrations by Vladimir Stankovic](/images/featured/featured-the-wickford-doom.jpg)
 

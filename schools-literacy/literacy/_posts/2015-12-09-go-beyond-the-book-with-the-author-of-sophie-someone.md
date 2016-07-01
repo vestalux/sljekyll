@@ -8,8 +8,8 @@ excerpt: 'Meet Hayley Long — Suffolk born author of the Costa Award nominated 
 breadcrumb: literacy
 sidebar: literacy
 tags:
-- Beyond the Book
-- book review
+- beyond-the-book
+- book-review
 - education
 - funny
 ---

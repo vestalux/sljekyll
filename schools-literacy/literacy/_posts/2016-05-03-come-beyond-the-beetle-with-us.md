@@ -8,8 +8,8 @@ excerpt: "Come ‘Beyond the Book’ and meet Darkus and Baxter in the amazing B
 breadcrumb: literacy
 sidebar: literacy
 tags:
-- Beyond the Book
-- book review
+- beyond-the-book
+- book-review
 - funny
 ---
 ![Beetle Boy](/images/featured/featured-beetle-boy.jpg)

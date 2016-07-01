@@ -8,7 +8,7 @@ excerpt: The weekly independent comic for kids reaches a wonderful milestone.
 breadcrumb: literacy
 sidebar: literacy
 tags:
-- book review
+- book-review
 - comic
 - fun
 - funny

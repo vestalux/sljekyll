@@ -11,7 +11,7 @@ tags:
 - activity
 - art
 - fun
-- Reading Hack
+- reading-hack
 ---
 ![Reading Hack Group - Week 3](/images/featured/featured-reading-hack-week-3.jpg)
 

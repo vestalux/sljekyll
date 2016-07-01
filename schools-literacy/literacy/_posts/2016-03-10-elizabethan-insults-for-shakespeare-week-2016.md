@@ -9,8 +9,8 @@ breadcrumb: literacy
 sidebar: literacy
 tags:
 - activity
-- Beyond the Book
-- CPD/INSET idea
+- beyond-the-book
+- cpd-inset-idea
 - starter
 ---
 ![Thou droning, pox marked, flap-dragon!](/images/featured/featured-shakespeare-insult.jpg)

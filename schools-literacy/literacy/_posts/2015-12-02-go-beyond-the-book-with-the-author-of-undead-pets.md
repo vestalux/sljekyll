@@ -8,8 +8,8 @@ excerpt: 'Joe Edmunds is a modern Dr Dolittle. Except the animals he talks to ar
 breadcrumb: literacy
 sidebar: literacy
 tags:
-- Beyond the Book
-- book review
+- beyond-the-book
+- book-review
 - funny
 ---
 ![Undead Pets](/images/featured/featured-undead-pets.jpg)

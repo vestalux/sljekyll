@@ -8,8 +8,8 @@ excerpt: "We start 2016 with a bang by going 'Beyond the Book' with the author o
 breadcrumb: literacy
 sidebar: literacy
 tags:
-- Beyond the Book
-- book review
+- beyond-the-book
+- book-review
 ---
 ![The World of Norm](/images/featured/featured-anything-that-isnt-this.jpg)
 

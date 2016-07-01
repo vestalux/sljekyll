@@ -8,8 +8,8 @@ excerpt: 'Come with us as we go into the strange world of <cite>Boyface and the 
 breadcrumb: literacy
 sidebar: literacy
 tags:
-- Beyond the Book
-- book review
+- beyond-the-book
+- book-review
 - funny
 ---
 ![Boyface by James Campbell](/images/featured/featured-boyface.jpg)

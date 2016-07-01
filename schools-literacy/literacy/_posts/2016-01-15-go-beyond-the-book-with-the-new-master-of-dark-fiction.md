@@ -8,8 +8,8 @@ excerpt: "Author William Hussey is in a bit of a pickle. How can a murderer esca
 breadcrumb: literacy
 sidebar: literacy
 tags:
-- Beyond the Book
-- book review
+- beyond-the-book
+- book-review
 - halloween
 - scary
 ---

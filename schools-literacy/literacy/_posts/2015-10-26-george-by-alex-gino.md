@@ -8,10 +8,10 @@ excerpt: A wonderful tale of an American transgender girl who dreams of playing 
 breadcrumb: literacy
 sidebar: literacy
 tags:
-- book review
+- book-review
 - education
 - funny
-- LGBTQ+*
+- lgbtq
 ---
 ![George by Alex Gino](/images/featured/featured-george.jpg)
 
