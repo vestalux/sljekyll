@@ -58,3 +58,10 @@ In April 2016 we started a Reading Hack pilot at Beccles library. We ran a [blog
 * [Blackout Poetry Hack](/assets/doc/beyond-the-book-blackout-poetry-hack.doc) - Transform an old book into a new poetic form!
 * [Minecraft Hack](/assets/doc/beyond-the-book-minecraft-hack.doc) - Use Minecraft to recreate a scene or landscape from your favourite book.
 * [Create your own Hack](/assets/doc/beyond-the-book-create-your-own-hack.doc) - Come up with a new Hack for you and your friends to try out!
+
+### Other activities
+
+* [Author Research Activity](/assets/doc/beyond-the-book-author-research-activity.doc) – Use your skills to research facts about your favourite author.
+* [Go Beyond the Book](/assets/doc/beyond-the-book-go-beyond-the-book.doc) – Ask yourself some questions about your favourite book.
+* [Explore your Library](/assets/doc/beyond-the-book-explore-your-local-library.doc) – An activity to find out more about the world of libraries.
+* [Suffolk Research Activity](/assets/doc/beyond-the-book-suffolk-research-activity.doc) – Dust off your deerstalker and answer some tricky questions about Suffolk!
