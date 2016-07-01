@@ -7,6 +7,11 @@ category: literacy
 excerpt: If you're having book problems I feel bad for you son. Try the page 99 test and then you will have none.
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- activity
+- education
+- funny
+- starter
 ---
 ![99 on a brick wall](/images/featured/featured-99.jpg)
 

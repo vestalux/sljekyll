@@ -7,6 +7,13 @@ category: literacy
 excerpt: Could you be the next David Walliams? Maybe these cunning cubes will unleash the storyteller in you. Then enter the EADT children's short story competition.
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- activity
+- competition
+- education
+- fun
+- starter
+- story
 ---
 ![Rory’s Story Cubes](/images/featured/featured-rorys-story-cubes.jpg)
 

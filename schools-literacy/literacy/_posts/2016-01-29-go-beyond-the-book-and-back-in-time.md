@@ -7,6 +7,10 @@ category: literacy
 excerpt: 'We travel through time and space to visit ancient Crete in a brilliant retelling of the Minotaur myth. Warning: <cite>The Double Axe</cite> is not for the faint-hearted!'
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- Beyond the Book
+- book review
+- education
 ---
 ![Minotaur](/images/featured/featured-minotaur.jpg)
 

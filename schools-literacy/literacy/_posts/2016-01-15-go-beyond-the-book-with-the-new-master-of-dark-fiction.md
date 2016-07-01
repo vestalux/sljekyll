@@ -7,6 +7,11 @@ category: literacy
 excerpt: "Author William Hussey is in a bit of a pickle. How can a murderer escape from a locked room without using the door or windows? Find out by going 'Beyond the Book'!"
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- Beyond the Book
+- book review
+- halloween
+- scary
 ---
 ![Jekyll’s Mirror](/images/featured/featured-jekylls-mirror.jpg)
 

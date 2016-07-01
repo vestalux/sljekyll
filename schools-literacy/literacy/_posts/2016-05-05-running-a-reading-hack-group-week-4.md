@@ -7,6 +7,10 @@ category: literacy
 excerpt: "In week 4 of our 'Reading Hack' sessions, the Beccles Book Bunnies train to be librarians and start to plan their own Hacks. What would Percy Jackson like on his pizza...?"
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- activity
+- fun
+- Reading Hack
 ---
 ![Reading Hack Group - Week 4](/images/featured/featured-reading-hack-week-4.jpg)
 

@@ -7,6 +7,10 @@ category: literacy
 excerpt: How much reading do you do in 24 hours? And how can it help shape attitudes and enjoyment in reading?
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- activity
+- education
+- starter
 ---
 ![Countdown clock](/images/featured/featured-countdown-clock-illustration.jpg)
 

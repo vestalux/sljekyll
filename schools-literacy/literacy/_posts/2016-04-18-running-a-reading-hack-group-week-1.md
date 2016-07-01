@@ -7,6 +7,11 @@ category: literacy
 excerpt: "Are you interested in starting a Reading Hack group but don't know where to start? Find out how our new Reading Hack group the 'Beccles Book Bunnies' get on each week."
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- activity
+- education
+- fun
+- Reading Hack
 ---
 ![Reading Hack Group - Week 1](/images/featured/featured-reading-hack-week-1.jpg)
 

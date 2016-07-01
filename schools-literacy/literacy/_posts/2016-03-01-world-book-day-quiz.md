@@ -7,6 +7,12 @@ categories: literacy
 excerpt: Celebrate World Book Day 2016 with our fun book quiz!
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- activity
+- CPD/INSET idea
+- education
+- fun
+- starter
 ---
 ![World Book Day 2016](/images/featured/featured-beyond-the-book-world-book-day-2016.jpg)
 

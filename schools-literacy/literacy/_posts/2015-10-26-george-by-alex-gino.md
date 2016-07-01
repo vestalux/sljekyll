@@ -7,6 +7,11 @@ category: literacy
 excerpt: A wonderful tale of an American transgender girl who dreams of playing Charlotte the spider in a school production of Charlotte’s Web.
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- book review
+- education
+- funny
+- LGBTQ+*
 ---
 ![George by Alex Gino](/images/featured/featured-george.jpg)
 
