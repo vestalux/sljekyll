@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Creative writing group"
+recurrent-title: "Lost for Words creative writing group"
 recurrent-day: second Thursday of the month
 recurrent-times: 1800-1930
 recurrent-location: chantry-library

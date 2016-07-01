@@ -7,6 +7,9 @@ category: literacy
 excerpt: We look at a range books to help celebrate kindness during Anti-Bullying Week.
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- activity
+- education
 ---
 ![Anti-Bullying Week](/images/featured/featured-anti-bullying-week.jpg)
 

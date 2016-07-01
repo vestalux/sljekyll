@@ -7,6 +7,10 @@ category: literacy
 excerpt: 'Joe Edmunds is a modern Dr Dolittle. Except the animals he talks to are dead! Find out more and meet the author of <cite>Undead Pets</cite>, Sam Hay.'
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- beyond-the-book
+- book-review
+- funny
 ---
 ![Undead Pets](/images/featured/featured-undead-pets.jpg)
 

@@ -7,6 +7,10 @@ category: literacy
 excerpt: "Come ‘Beyond the Book’ and meet Darkus and Baxter in the amazing Beetle Boy by M.G. Leonard. Warning: contains a bucket load of laughs and amazing beetles!"
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- beyond-the-book
+- book-review
+- funny
 ---
 ![Beetle Boy](/images/featured/featured-beetle-boy.jpg)
 

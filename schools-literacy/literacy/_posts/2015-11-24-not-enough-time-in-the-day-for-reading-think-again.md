@@ -7,6 +7,10 @@ category: literacy
 excerpt: A cunning test devised by Book Week Scotland will reveal just how much time you can find in the day for reading.
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- activity
+- education
+- starter
 ---
 ![Scottish flag on map of Scotland](/images/featured/featured-scottish-flag-on-map-of-scotland.jpg)
 

@@ -7,6 +7,10 @@ category: literacy
 excerpt: "Once a year, Teva separates into two, leaving a younger version of herself stuck at the same age. Dive into the astonishing world of 'More of Me'."
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- beyond-the-book
+- book-review
+- scary
 ---
 ![More of Me](/images/featured/featured-more-of-me.jpg)
 

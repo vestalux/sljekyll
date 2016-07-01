@@ -7,6 +7,11 @@ category: literacy
 excerpt: "In week 3 of our 'Reading Hack' sessions, the Beccles Book Bunnies 'Hack' books and green screen technology. Find out how they are transported into bookish worlds."
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- activity
+- art
+- fun
+- reading-hack
 ---
 ![Reading Hack Group - Week 3](/images/featured/featured-reading-hack-week-3.jpg)
 

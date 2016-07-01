@@ -7,6 +7,9 @@ category: literacy
 excerpt: '“What kind of a girl steals the clothes from a dead man’s back and runs off to join the army? A desperate one. That’s who.”'
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- book-review
+- carnegie
 ---
 ![Buffalo Soldier by Tanya Landman](/images/featured/featured-buffalo-soldier.jpg)
 

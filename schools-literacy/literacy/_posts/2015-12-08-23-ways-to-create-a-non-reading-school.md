@@ -7,6 +7,9 @@ category: literacy
 excerpt: Are you working in a non-reading school? This is a great tongue-in-cheek idea for a CPD/INSET session.
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- cpd-inset-idea
+- education
 ---
 ![Discarded books in an empty library](/images/featured/featured-empty-library.jpg)
 

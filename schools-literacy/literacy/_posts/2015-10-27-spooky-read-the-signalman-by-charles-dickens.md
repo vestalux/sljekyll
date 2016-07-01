@@ -7,6 +7,11 @@ category: literacy
 excerpt: '"Visited by an unnamed narrator, the signalman spends his days stuck in a dark, dank railway cutting that rarely sees light&hellip;"'
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- book-review
+- education
+- halloween
+- scary
 ---
 ![The Signalman by Charles Dickens](/images/featured/featured-the-signalman.jpg)
 

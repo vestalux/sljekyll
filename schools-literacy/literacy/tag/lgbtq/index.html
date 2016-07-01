@@ -1,0 +1,26 @@
+---
+layout: sidebar-right
+category: literacy
+title: 'Tag: LGBTQ+*'
+breadcrumb: schools-literacy
+sidebar: literacy
+excerpt: Literacy related news and fun from Suffolk Libraries.
+---
+
+{% for post in site.tags.lgbtq %}
+
+<article class="{% include /c/slot.html %}">
+
+    <header class="{% include /c/slot-header.html %}">
+
+        <h1 class="{% include /c/slot-title.html %}"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+
+        <p class="{% include /c/page-meta.html %}">{% if post.author %}Written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{% assign author = site.data.authors[post.author] %}{{ author.name }}</span></span> &middot; {% endif %}Published {{ post.date | date: "%b %-d, %Y" }}</p>
+
+    </header>
+
+    <p class="{% include /c/slot-excerpt.html %}">{{ post.excerpt }}</p>
+
+</article>
+
+{% endfor %}

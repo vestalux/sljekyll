@@ -7,6 +7,10 @@ category: literacy
 excerpt: "We have a look at the very funny Cowgirl and its author G.R. Gemin goes 'Beyond the Book' by answering some of our questions!"
 breadcrumb: literacy
 sidebar: literacy
+tags:
+- beyond-the-book
+- book-review
+- funny
 ---
 ![Cowgirl by Giancarlo Gemin](/images/featured/featured-cow-girl.jpg)
 
