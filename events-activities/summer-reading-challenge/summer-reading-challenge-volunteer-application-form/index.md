@@ -90,7 +90,7 @@ Complete this form and we'll get back to you as soon as possible. We won't share
         <textarea name="experience" class="border-box w-100"></textarea>
 
         <label>Tell us about any relevant skills, talents and interests</label>
-        <textarea name="experience" class="border-box w-100"></textarea>
+        <textarea name="skills" class="border-box w-100"></textarea>
 
         <label>Do you have any unspent criminal convictions (other than minor driving offences)?</label>
         <label><input type="radio" name="criminal-convictions" value="no"> No</label>
