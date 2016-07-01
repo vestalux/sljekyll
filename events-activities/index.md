@@ -53,7 +53,7 @@ breadcrumb: home
 
             <section class="{% include /c/block.html %}">
 
-                <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/get-online">Free computer courses</a></h1>
+                <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/get-online">Free beginner computer courses</a></h1>
 
                 <p class="{% include /c/block-graf.html %}">Free courses for complete computer and internet beginners.</p>
 

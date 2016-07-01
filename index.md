@@ -57,7 +57,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
                 <section class="{% include /c/block.html %}">
 
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/information-resources">History &amp; research</a></h1>
+                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/information-resources">Research, study &amp; leisure resources</a></h1>
 
                     <p class="{% include /c/block-graf.html %}">Free access to Ancestry, Find my Past &amp; other information resources</p>
 
@@ -161,9 +161,25 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
                 <section class="{% include /c/block.html %}">
 
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/about">About us</a></h1>
+                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/about">About us &amp; jobs</a></h1>
 
                     <p class="{% include /c/block-graf.html %}">Governance, board members, documents, jobs &amp; community groups</p>
+
+                </section>
+
+            </div>
+
+        </div> <!-- end .cf -->
+
+        <div class="cf">
+
+            <div class="custom-g-l2">
+
+                <section class="{% include /c/block.html %}">
+
+                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/help">Help using the service</a></h1>
+
+                    <p class="{% include /c/block-graf.html %}">Finding &amp; reserving, charges &amp; fines, using our computers</p>
 
                 </section>
 
