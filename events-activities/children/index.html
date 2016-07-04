@@ -72,7 +72,7 @@ dynatable: true
     {% if recurrent.recurrent-category == 'children' %}
     <tr>
       <td>{{ recurrent.recurrent-location-display-name }}</td>
-      <td>{{ recurrent.recurrent-title }}</td>
+      <td><a href="{{ recurrent.recurrent-location-display-url }}">{{ recurrent.recurrent-title }}</a></td>
       <td>{{ recurrent.recurrent-day }}</td>
       <td>{{ recurrent.recurrent-times }} </td>
     </tr>
