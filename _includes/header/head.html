@@ -10,10 +10,28 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
 	<![endif]-->
 
+	{% if page.dynatable %}
+
+		<link rel="stylesheet" href="/css/jquery.dynatable.css">
+
+	{% endif %}
+
     <link rel="stylesheet" href="/css/style.css">
 
     <title>{{ page.title}} &#8211; Suffolk Libraries</title>
 
 	<script src="/js/app.js"></script>
+
+	{% if page.jquery %}
+
+		<script src="/js/jquery-1.7.2.min.js"></script>
+
+	{% endif %}
+
+	{% if page.dynatable %}
+
+		<script src="/js/jquery.dynatable.js"></script>
+
+	{% endif %}
 
 </head>

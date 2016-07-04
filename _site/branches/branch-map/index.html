@@ -44,7 +44,7 @@
               <i class='glyphicon glyphicon-repeat'></i>
               Reset
           </a></p>
-          <div class='alert alert-info' id='result_box' ><strong id='result_count'></strong></div>
+          <!-- <div class='alert alert-info' id='result_box' ><strong id='result_count'></strong></div> -->
           <noscript>
             <div class='alert alert-info'>
               <h4>Your JavaScript is disabled</h4>
@@ -59,7 +59,7 @@
     <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
     <script type="text/javascript" src="js/jquery.address.js"></script>
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=false&libraries=places"></script>
+    <script type="text/javascript" src="https://maps.google.com/maps/api/js?key=AIzaSyCzv2ep-hLeNxtPLTejxwBYmqZgXbE6faE&sensor=false&libraries=places"></script>
     <script type="text/javascript" src="js/maps_lib.js"></script>
     <script type='text/javascript'>
       //<![CDATA[
@@ -72,9 +72,9 @@
 
         $(function() {
           var myMap = new MapsLib({
-            fusionTableId:      "1LXYQ9thcac6IFEDue8EkWnUekq7MNK9MHCDTfM9M",
-            googleApiKey:       "AIzaSyAsutd5pKyAybxx98LmGLJbsk67ut6nJb0",
-            locationColumn:     "address",
+            fusionTableId:      "1VaywTis_CDTsYqkFwVnCW3ZJ66mWSvEpapopkIZ3",
+            googleApiKey:       "AIzaSyCzv2ep-hLeNxtPLTejxwBYmqZgXbE6faE",
+            locationColumn:     "Address",
             map_center:         [52.188902, 0.997712],
             locationScope:      "suffolk",
             searchRadius:       805,

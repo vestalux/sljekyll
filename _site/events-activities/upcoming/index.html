@@ -14,11 +14,29 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
 	<![endif]-->
 
+	
+
+		<link rel="stylesheet" href="/css/jquery.dynatable.css">
+
+	
+
     <link rel="stylesheet" href="/css/style.css">
 
     <title>Upcoming events &#8211; Suffolk Libraries</title>
 
 	<script src="/js/app.js"></script>
+
+	
+
+		<script src="/js/jquery-1.7.2.min.js"></script>
+
+	
+
+	
+
+		<script src="/js/jquery.dynatable.js"></script>
+
+	
 
 </head>
 
@@ -80,13 +98,13 @@
 
 
 
-<div class="pv2 pv3-ns cf custom-max-width
+    <div class="pv2 pv3-ns cf custom-max-width
 ">
 
-    <main id="content" class="bg-white pa2 pa5-ns pv4-ns cf mb2 border-box b--light-gray
+        <main id="content" class="bg-white pa2 pa5-ns pv4-ns cf mb2 border-box b--light-gray
 " role="main">
 
-        
+            
 
     
 
@@ -101,154 +119,76 @@
 
 
 
-        <h1 class="page-title">Upcoming events</h1>
+            <h1 class="custom-lh-title f2 pa0 ma0 mb3
+">Upcoming events</h1>
 
-<p>A list of all special events taking place across our libraries.</p>
-
-<div class="custom-prose">
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-      
-
-    
-
-    
-
-    
-
-    
-
-    
-
-      
-
-    
-
-    
-
-    
-
-    
-
-    
-
-      
-
-    
-
-    
-
-    
-
-    
-
-    
-
-      
-
-        <article class="pb3
+            <div class="custom-lh-copy custom-hyphens custom-prose
 ">
 
-          <h1 class="f5 normal ma0 mb1 custom-lh-title
-"><a href="/events/2016-06-30-debenham-party/">September 10th Celebrating The End of the Monarchy</a></h1>
+                <p>A list of all special events taking place across our libraries.</p>
 
-          <p class="f6 f5-ns ma0 mb1 gray
-">
+<p class="mb0">Filter by library:</p>
 
-              
+<select id="search-library" name="library">
+    <option></option>
+    <option>Aldeburgh Library</option>
+    <option>Beccles Library</option></option>
+    <option>Brandon Library</option>
+    <option>Broomhill Library</option>
+    <option>Bungay Library</option>
+    <option>Bury St Edmunds Library</option>
+    <option>Capel St Mary Library</option>
+    <option>Chantry Library</option>
+    <option>Clare Library</option>
+    <option>Debenham Library</option>
+    <option>Elmswell Library</option>
+    <option>Eye Library</option>
+    <option>Felixstowe Library</option>
+    <option>Framlingham Library</option>
+    <option>Gainsborough Community Library</option>
+    <option>Glemsford Library</option>
+    <option>Great Cornard Library</option>
+    <option>Hadleigh Library</option>
+    <option>Halesworth Library</option>
+    <option>Haverhill Library</option>
+    <option>Ipswich County Library</option>
+    <option>Ixworth Library</option>
+    <option>Kedington Library</option>
+    <option>Kesgrave Library</option>
+    <option>Kessingland Library</option>
+    <option>Lakenheath Library</option>
+    <option>Lavenham Library</option>
+    <option>Leiston Library</option>
+    <option>Long Melford Library</option>
+    <option>Lowestoft Library</option>
+    <option>Mildenhall Library</option>
+    <option>Needham Market Library</option>
+    <option>Newmarket Library</option>
+    <option>Oulton Broad Library</option>
+    <option>Rosehill Library</option>
+    <option>Saxmundham Library</option>
+    <option>Southwold Library</option>
+    <option>Stoke Library</option>
+    <option>Stowmarket Library</option>
+    <option>Stradbroke Library</option>
+    <option>Sudbury Library</option>
+    <option>Thurston Library</option>
+    <option>Wickham Market Library</option>
+    <option>Woodbridge Library</option>
+</select>
 
-              <span>Fri 30 Sep, 2016</span> <span>1300</span> &#8211; <span>2300</span>
+<table id="search-table" class="pure-table pure-table-bordered">
 
-              
+    <thead>
+        <tr>
+            <th data-dynatable-column="event">Event</th>
+            <th data-dynatable-column="library">Library</th>
+            <th data-dynatable-column="date">Date</th>
+            <th data-dynatable-column="time">Time</th>
+        </tr>
+    </thead>
 
-              <span> &middot; <a href="/branches/newmarket-library">Newmarket Library</a></span>
-
-          </p>
-
-        </article>
-
-      
-
-    
-
-    
-
-    
-
-    
-
-    
-
-      
-
-        <article class="pb3
-">
-
-          <h1 class="f5 normal ma0 mb1 custom-lh-title
-"><a href="/events/a-second-event/">Another example event</a></h1>
-
-          <p class="f6 f5-ns ma0 mb1 gray
-">
-
-              
-
-              <span>Mon 1 Jan, 2018</span> <span>1300</span> &#8211; <span>1400</span>
-
-              
-
-              <span> &middot; <a href="/branches/lowestoft-library">Lowestoft Library</a></span>
-
-          </p>
-
-        </article>
-
-      
-
-    
-
-    
-
-    
-
-    
-
-    
-
-      
-
-        <article class="pb3
-">
-
-          <h1 class="f5 normal ma0 mb1 custom-lh-title
-"><a href="/events/a-test-event/">A test event</a></h1>
-
-          <p class="f6 f5-ns ma0 mb1 gray
-">
-
-              
-
-              <span>Mon 8 Jan, 2018</span> <span>1300</span> &#8211; <span>Wed 10 Jan</span> <span>1400</span>
-
-              
-
-              <span> &middot; <a href="/branches/ipswich-county-library">Ipswich County Library</a></span>
-
-          </p>
-
-        </article>
-
-      
+    <tbody>
 
     
 
@@ -260,39 +200,151 @@
 
     
 
-      
-
-        <article class="pb3
-">
-
-          <h1 class="f5 normal ma0 mb1 custom-lh-title
-"><a href="/events/another-lowestoft-event/">Another Lowestoft event</a></h1>
-
-          <p class="f6 f5-ns ma0 mb1 gray
-">
-
-              
-
-              <span>Wed 1 Jan, 2020</span> <span>1300</span> &#8211; <span>1400</span>
-
-              
-
-              <span> &middot; <a href="/branches/lowestoft-library">Lowestoft Library</a></span>
-
-          </p>
-
-        </article>
-
-      
+    
 
     
 
-</div>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/2016-06-30-debenham-party/">September 10th Celebrating The End of the Monarchy</a></td>
+            <td>Newmarket Library</td>
+            <td>Fri 30 Sep, 2016</td>
+            <td>1300</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/a-second-event/">Another example event</a></td>
+            <td>Lowestoft Library</td>
+            <td>Mon 1 Jan, 2018</td>
+            <td>1300</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/a-test-event/">A test event</a></td>
+            <td>Ipswich County Library</td>
+            <td>Mon 8 Jan, 2018</td>
+            <td>1300</td>
+
+        </tr>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <tr>
+
+            <td><a href="/events/another-lowestoft-event/">Another Lowestoft event</a></td>
+            <td>Lowestoft Library</td>
+            <td>Wed 1 Jan, 2020</td>
+            <td>1300</td>
+
+        </tr>
+
+    
+
+    
+
+    </tbody>
+
+</table>
+
+<script>
+$('#search-table').dynatable({
+  features: {
+    paginate: false,
+    recordCount: false,
+    sorting: false
+  },
+  inputs: {
+    queries: $('#search-library')
+  }
+});
+</script>
 
 
-    </main>
+            </div>
 
-</div>
+        </main>
+
+    </div>
 
         <footer id="footer" class="pa2 pt3 pa3-ns pt4-ns bg-near-black white">
 

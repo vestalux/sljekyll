@@ -14,11 +14,29 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
 	<![endif]-->
 
+	
+
+		<link rel="stylesheet" href="/css/jquery.dynatable.css">
+
+	
+
     <link rel="stylesheet" href="/css/style.css">
 
     <title>Older people's activities &#8211; Suffolk Libraries</title>
 
 	<script src="/js/app.js"></script>
+
+	
+
+		<script src="/js/jquery-1.7.2.min.js"></script>
+
+	
+
+	
+
+		<script src="/js/jquery.dynatable.js"></script>
+
+	
 
 </head>
 
@@ -107,19 +125,67 @@
             <div class="custom-lh-copy custom-hyphens custom-prose
 ">
 
-                <h2>Meetings for older people</h2>
+                <p>We run groups for older people and their families and carers. You can just drop in for a chat or join theatre groups, do arts and crafts and find out about local history. We also offer advice and information.</p>
 
-<p>We run groups for older people and their families and carers. You can just drop in for a chat or join theatre groups, do arts and crafts and find out about local history. We also offer advice and information.</p>
+<p class="mb0">Filter by library:</p>
 
-<table class="pure-table pure-table-bordered">
-  <thead>
-    <tr>
-      <th>Library</th>
-      <th>Activity</th>
-      <th>Day</th>
-      <th>Times</th>
-    </tr>
-  </thead>
+<select id="search-library" name="library">
+    <option></option>
+    <option>Aldeburgh Library</option>
+    <option>Beccles Library</option></option>
+    <option>Brandon Library</option>
+    <option>Broomhill Library</option>
+    <option>Bungay Library</option>
+    <option>Bury St Edmunds Library</option>
+    <option>Capel St Mary Library</option>
+    <option>Chantry Library</option>
+    <option>Clare Library</option>
+    <option>Debenham Library</option>
+    <option>Elmswell Library</option>
+    <option>Eye Library</option>
+    <option>Felixstowe Library</option>
+    <option>Framlingham Library</option>
+    <option>Gainsborough Community Library</option>
+    <option>Glemsford Library</option>
+    <option>Great Cornard Library</option>
+    <option>Hadleigh Library</option>
+    <option>Halesworth Library</option>
+    <option>Haverhill Library</option>
+    <option>Ipswich County Library</option>
+    <option>Ixworth Library</option>
+    <option>Kedington Library</option>
+    <option>Kesgrave Library</option>
+    <option>Kessingland Library</option>
+    <option>Lakenheath Library</option>
+    <option>Lavenham Library</option>
+    <option>Leiston Library</option>
+    <option>Long Melford Library</option>
+    <option>Lowestoft Library</option>
+    <option>Mildenhall Library</option>
+    <option>Needham Market Library</option>
+    <option>Newmarket Library</option>
+    <option>Oulton Broad Library</option>
+    <option>Rosehill Library</option>
+    <option>Saxmundham Library</option>
+    <option>Southwold Library</option>
+    <option>Stoke Library</option>
+    <option>Stowmarket Library</option>
+    <option>Stradbroke Library</option>
+    <option>Sudbury Library</option>
+    <option>Thurston Library</option>
+    <option>Wickham Market Library</option>
+    <option>Woodbridge Library</option>
+</select>
+
+<table id="search-table" class="pure-table pure-table-bordered">
+    <thead>
+      <tr>
+        <th data-dynatable-column="library">Library</th>
+        <th data-dynatable-column="activity">Activity</th>
+        <th data-dynatable-column="day">Day</th>
+        <th data-dynatable-column="times">Times</th>
+      </tr>
+    </thead>
   <tbody>
     
     
@@ -171,7 +237,7 @@
     
     
     <tr>
-      <td><a href="/branches/beccles-library/">Beccles Library</a></td>
+      <td>Beccles Library</td>
       <td>Top Time family history session</td>
       <td>fourth Thursday of the month</td>
       <td>1400-1500 </td>
@@ -182,7 +248,7 @@
     
     
     <tr>
-      <td><a href="/branches/beccles-library/">Beccles Library</a></td>
+      <td>Beccles Library</td>
       <td>Top Time: events and activities for older people</td>
       <td>Thursday</td>
       <td>1400-1500 </td>
@@ -195,7 +261,7 @@
     
     
     <tr>
-      <td><a href="/branches/brandon-library/">Brandon Library</a></td>
+      <td>Brandon Library</td>
       <td>Brandon Circle coffee morning: for over 50s</td>
       <td>third Monday of the month</td>
       <td>1030-1200 </td>
@@ -234,7 +300,7 @@
     
     
     <tr>
-      <td><a href="/branches/broomhill-library/">Broomhill Library</a></td>
+      <td>Broomhill Library</td>
       <td>Top Time: events and activities for older people</td>
       <td>Monday</td>
       <td>1400-1600 </td>
@@ -275,7 +341,7 @@
     
     
     <tr>
-      <td><a href="/branches/bury-st-edmunds-library/">Bury St Edmunds Library</a></td>
+      <td>Bury St Edmunds Library</td>
       <td>Suffolk Age UK advice in the foyer: assistance with home help, day services, befriending or benefits</td>
       <td>Wednesday</td>
       <td>1000-1300 </td>
@@ -290,7 +356,7 @@
     
     
     <tr>
-      <td><a href="/branches/bury-st-edmunds-library/">Bury St Edmunds Library</a></td>
+      <td>Bury St Edmunds Library</td>
       <td>Top Time: events and activities for older people</td>
       <td>Friday</td>
       <td>1000-1200 </td>
@@ -335,7 +401,7 @@
     
     
     <tr>
-      <td><a href="/branches/chantry-library/">Chantry Library</a></td>
+      <td>Chantry Library</td>
       <td>Top Time: events and activities for older people</td>
       <td>Wednesday</td>
       <td>1030-1200 </td>
@@ -360,7 +426,7 @@
     
     
     <tr>
-      <td><a href="/branches/clare-library/">Clare Library</a></td>
+      <td>Clare Library</td>
       <td>Top Time: events and activities for older people</td>
       <td>Tuesday</td>
       <td>1100-1230 </td>
@@ -403,7 +469,7 @@
     
     
     <tr>
-      <td><a href="/branches/felixstowe-library/">Felixstowe Library</a></td>
+      <td>Felixstowe Library</td>
       <td>Theatre group for older people</td>
       <td>second Tuesday of the month</td>
       <td>1100-1200 </td>
@@ -412,7 +478,7 @@
     
     
     <tr>
-      <td><a href="/branches/felixstowe-library/">Felixstowe Library</a></td>
+      <td>Felixstowe Library</td>
       <td>Top Time: events and activities for older people</td>
       <td>Tuesday</td>
       <td>1400-1600 </td>
@@ -473,7 +539,7 @@
     
     
     <tr>
-      <td><a href="/branches/gainsborough-community-library/">Gainsborough Community Library</a></td>
+      <td>Gainsborough Community Library</td>
       <td>Top Time: events and activities for older people</td>
       <td>Monday</td>
       <td>1400-1600 </td>
@@ -508,7 +574,7 @@
     
     
     <tr>
-      <td><a href="/branches/great-cornard-library/">Great Cornard Library</a></td>
+      <td>Great Cornard Library</td>
       <td>Top Time: events and activities for older people</td>
       <td>Tuesday</td>
       <td>1000-1100 </td>
@@ -531,7 +597,7 @@
     
     
     <tr>
-      <td><a href="/branches/hadleigh-library/">Hadleigh Library</a></td>
+      <td>Hadleigh Library</td>
       <td>Top Time: events and activities for older people</td>
       <td>Wednesday</td>
       <td>1030-1230 </td>
@@ -542,7 +608,7 @@
     
     
     <tr>
-      <td><a href="/branches/halesworth-library/">Halesworth Library</a></td>
+      <td>Halesworth Library</td>
       <td>Age UK: providing free help advice and information</td>
       <td>first and last Wednesday of the month</td>
       <td>1030-1200 </td>
@@ -583,7 +649,7 @@
     
     
     <tr>
-      <td><a href="/branches/halesworth-library/">Halesworth Library</a></td>
+      <td>Halesworth Library</td>
       <td>Top Time: events and activities for older people</td>
       <td>Wednesday</td>
       <td>1030-1200 </td>
@@ -612,7 +678,7 @@
     
     
     <tr>
-      <td><a href="/branches/haverhill-library/">Haverhill Library</a></td>
+      <td>Haverhill Library</td>
       <td>Top Time: events and activities for older people</td>
       <td>Wednesday</td>
       <td>1030-1200 </td>
@@ -669,7 +735,7 @@
     
     
     <tr>
-      <td><a href="/branches/ipswich-county-library/">Ipswich County Library</a></td>
+      <td>Ipswich County Library</td>
       <td>Top Time: events and activities for older people</td>
       <td>Thursday</td>
       <td>1430-1600 </td>
@@ -690,7 +756,7 @@
     
     
     <tr>
-      <td><a href="/branches/ixworth-library/">Ixworth Library</a></td>
+      <td>Ixworth Library</td>
       <td>Top Time: events and activities for older people</td>
       <td>Sunday</td>
       <td>1400-1530 </td>
@@ -735,7 +801,7 @@
     
     
     <tr>
-      <td><a href="/branches/kessingland-library/">Kessingland Library</a></td>
+      <td>Kessingland Library</td>
       <td>Top Time: events and activities for older people</td>
       <td>Wednesday</td>
       <td>1430-1530 </td>
@@ -760,7 +826,7 @@
     
     
     <tr>
-      <td><a href="/branches/long-melford-library/">Long Melford Library</a></td>
+      <td>Long Melford Library</td>
       <td>Top Time: events and activities for older people</td>
       <td>Wednesday</td>
       <td>1430-1630 </td>
@@ -791,7 +857,7 @@
     
     
     <tr>
-      <td><a href="/branches/lowestoft-library/">Lowestoft Library</a></td>
+      <td>Lowestoft Library</td>
       <td>Top Time: events and activities for older people</td>
       <td>Tuesday</td>
       <td>1400-1530 </td>
@@ -814,7 +880,7 @@
     
     
     <tr>
-      <td><a href="/branches/mildenhall-library/">Mildenhall Library</a></td>
+      <td>Mildenhall Library</td>
       <td>Top Time: events and activities for older people</td>
       <td>Thursday</td>
       <td>1400-1530 </td>
@@ -835,7 +901,7 @@
     
     
     <tr>
-      <td><a href="/branches/needham-market-library/">Needham Market Library</a></td>
+      <td>Needham Market Library</td>
       <td>Top Time: events and activities for older people</td>
       <td>Tuesday</td>
       <td>1015-1130 </td>
@@ -860,7 +926,7 @@
     
     
     <tr>
-      <td><a href="/branches/newmarket-library/">Newmarket Library</a></td>
+      <td>Newmarket Library</td>
       <td>Top Time: events and activities for older people</td>
       <td>Thursday</td>
       <td>1030-1100 </td>
@@ -869,7 +935,7 @@
     
     
     <tr>
-      <td><a href="/branches/newmarket-library/">Newmarket Library</a></td>
+      <td>Newmarket Library</td>
       <td>Top Time: events and activities for older people</td>
       <td>Thursday</td>
       <td>1430-1530 </td>
@@ -888,7 +954,7 @@
     
     
     <tr>
-      <td><a href="/branches/oulton-broad-library/">Oulton Broad Library</a></td>
+      <td>Oulton Broad Library</td>
       <td>Top Time: events and activities for older people</td>
       <td>Monday</td>
       <td>1030-1130 </td>
@@ -917,7 +983,7 @@
     
     
     <tr>
-      <td><a href="/branches/rosehill-library/">Rosehill Library</a></td>
+      <td>Rosehill Library</td>
       <td>Top Time: events and activities for older people</td>
       <td>Thursday</td>
       <td>1030-1200 </td>
@@ -932,7 +998,7 @@
     
     
     <tr>
-      <td><a href="/branches/saxmundham-library/">Saxmundham Library</a></td>
+      <td>Saxmundham Library</td>
       <td>Top Time: events and activities for older people</td>
       <td>Thursday</td>
       <td>1030-1230 </td>
@@ -959,7 +1025,7 @@
     
     
     <tr>
-      <td><a href="/branches/southwold-library/">Southwold Library</a></td>
+      <td>Southwold Library</td>
       <td>Top Time: events and activities for older people</td>
       <td>Tuesday</td>
       <td>1400-1530 </td>
@@ -1010,7 +1076,7 @@
     
     
     <tr>
-      <td><a href="/branches/stowmarket-library/">Stowmarket Library</a></td>
+      <td>Stowmarket Library</td>
       <td>Top Time: events and activities for older people</td>
       <td>Thursday</td>
       <td>1445-1600 </td>
@@ -1039,7 +1105,7 @@
     
     
     <tr>
-      <td><a href="/branches/sudbury-library/">Sudbury Library</a></td>
+      <td>Sudbury Library</td>
       <td>Top Time: events and activities for older people</td>
       <td>Tuesday</td>
       <td>1430-1630 </td>
@@ -1070,7 +1136,7 @@
     
     
     <tr>
-      <td><a href="/branches/woodbridge-library/">Woodbridge Library</a></td>
+      <td>Woodbridge Library</td>
       <td>Arts and crafts group: for older people and their carers</td>
       <td>second Wednesday of the month</td>
       <td>1000-1100 </td>
@@ -1117,6 +1183,19 @@
     
   </tbody>
 </table>
+
+<script>
+$('#search-table').dynatable({
+  features: {
+    paginate: false,
+    recordCount: false,
+    sorting: false
+  },
+  inputs: {
+    queries: $('#search-library')
+  }
+});
+</script>
 
 <h2>Home Library Service reading groups</h2>
 

@@ -15,7 +15,7 @@ breadcrumb: home
 
 </div>
 
-<table class="pure-table">
+<table class="pure-table pure-table-bordered">
 
     <thead>
 

@@ -14,11 +14,29 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
 	<![endif]-->
 
+	
+
+		<link rel="stylesheet" href="/css/jquery.dynatable.css">
+
+	
+
     <link rel="stylesheet" href="/css/style.css">
 
     <title>Reading groups that meet in Suffolk libraries &#8211; Suffolk Libraries</title>
 
 	<script src="/js/app.js"></script>
+
+	
+
+		<script src="/js/jquery-1.7.2.min.js"></script>
+
+	
+
+	
+
+		<script src="/js/jquery.dynatable.js"></script>
+
+	
 
 </head>
 
@@ -111,15 +129,65 @@
 
 <p>See our <a href="/new-suggestions/">new titles</a> and <a href="/new-suggestions/book-club-ideas/">book club ideas</a> for reading inspiration.</p>
 
-<table class="pure-table pure-table-bordered">
-  <thead>
-    <tr>
-      <th>Library</th>
-      <th>Reading group</th>
-      <th>Day</th>
-      <th>Times</th>
-    </tr>
-  </thead>
+<p class="mb0">Filter by library:</p>
+
+<select id="search-library" name="library">
+    <option></option>
+    <option>Aldeburgh Library</option>
+    <option>Beccles Library</option></option>
+    <option>Brandon Library</option>
+    <option>Broomhill Library</option>
+    <option>Bungay Library</option>
+    <option>Bury St Edmunds Library</option>
+    <option>Capel St Mary Library</option>
+    <option>Chantry Library</option>
+    <option>Clare Library</option>
+    <option>Debenham Library</option>
+    <option>Elmswell Library</option>
+    <option>Eye Library</option>
+    <option>Felixstowe Library</option>
+    <option>Framlingham Library</option>
+    <option>Gainsborough Community Library</option>
+    <option>Glemsford Library</option>
+    <option>Great Cornard Library</option>
+    <option>Hadleigh Library</option>
+    <option>Halesworth Library</option>
+    <option>Haverhill Library</option>
+    <option>Ipswich County Library</option>
+    <option>Ixworth Library</option>
+    <option>Kedington Library</option>
+    <option>Kesgrave Library</option>
+    <option>Kessingland Library</option>
+    <option>Lakenheath Library</option>
+    <option>Lavenham Library</option>
+    <option>Leiston Library</option>
+    <option>Long Melford Library</option>
+    <option>Lowestoft Library</option>
+    <option>Mildenhall Library</option>
+    <option>Needham Market Library</option>
+    <option>Newmarket Library</option>
+    <option>Oulton Broad Library</option>
+    <option>Rosehill Library</option>
+    <option>Saxmundham Library</option>
+    <option>Southwold Library</option>
+    <option>Stoke Library</option>
+    <option>Stowmarket Library</option>
+    <option>Stradbroke Library</option>
+    <option>Sudbury Library</option>
+    <option>Thurston Library</option>
+    <option>Wickham Market Library</option>
+    <option>Woodbridge Library</option>
+</select>
+
+<table id="search-table" class="pure-table pure-table-bordered">
+    <thead>
+      <tr>
+        <th data-dynatable-column="library">Library</th>
+        <th data-dynatable-column="activity">Activity</th>
+        <th data-dynatable-column="day">Day</th>
+        <th data-dynatable-column="times">Times</th>
+      </tr>
+    </thead>
   <tbody>
     
     
@@ -129,7 +197,7 @@
     
     
     <tr>
-      <td><a href="/branches/aldeburgh-library/">Aldeburgh Library</a></td>
+      <td>Aldeburgh Library</td>
       <td>Britten reading group</td>
       <td>first Sunday of the month</td>
       <td>1430-1530 </td>
@@ -144,7 +212,7 @@
     
     
     <tr>
-      <td><a href="/branches/aldeburgh-library/">Aldeburgh Library</a></td>
+      <td>Aldeburgh Library</td>
       <td>WI reading group</td>
       <td>first Tuesday of the month</td>
       <td>1000-1100 </td>
@@ -177,7 +245,7 @@
     
     
     <tr>
-      <td><a href="/branches/beccles-library/">Beccles Library</a></td>
+      <td>Beccles Library</td>
       <td>Reading group: for more information contact Ruth Sainsbury at ruthsainsbury@yahoo.co.uk</td>
       <td>first Monday of the month</td>
       <td>1900-2030 </td>
@@ -194,7 +262,7 @@
     
     
     <tr>
-      <td><a href="/branches/beccles-library/">Beccles Library</a></td>
+      <td>Beccles Library</td>
       <td>Top Time reading group</td>
       <td>first Thursday of the month</td>
       <td>1400-1500 </td>
@@ -217,7 +285,7 @@
     
     
     <tr>
-      <td><a href="/branches/brandon-library/">Brandon Library</a></td>
+      <td>Brandon Library</td>
       <td>The Original reading group</td>
       <td>third Thursday of the month</td>
       <td>1400-1600 </td>
@@ -246,7 +314,7 @@
     
     
     <tr>
-      <td><a href="/branches/broomhill-library/">Broomhill Library</a></td>
+      <td>Broomhill Library</td>
       <td>Reading group</td>
       <td>third Monday of the month</td>
       <td>1015-1115 </td>
@@ -275,7 +343,7 @@
     
     
     <tr>
-      <td><a href="/branches/bungay-library/">Bungay Library</a></td>
+      <td>Bungay Library</td>
       <td>Reading group</td>
       <td>last Wednesday of the month</td>
       <td>1330-1430 </td>
@@ -286,7 +354,7 @@
     
     
     <tr>
-      <td><a href="/branches/bury-st-edmunds-library/">Bury St Edmunds Library</a></td>
+      <td>Bury St Edmunds Library</td>
       <td>Adventurers reading group</td>
       <td>third Tuesday of the month</td>
       <td>1500-1700 </td>
@@ -295,7 +363,7 @@
     
     
     <tr>
-      <td><a href="/branches/bury-st-edmunds-library/">Bury St Edmunds Library</a></td>
+      <td>Bury St Edmunds Library</td>
       <td>Avid Crime Readers reading group</td>
       <td>fourth Tuesday of the month</td>
       <td>1430-1630 </td>
@@ -306,7 +374,7 @@
     
     
     <tr>
-      <td><a href="/branches/bury-st-edmunds-library/">Bury St Edmunds Library</a></td>
+      <td>Bury St Edmunds Library</td>
       <td>The Bookworms reading group</td>
       <td>first Tuesday of the month</td>
       <td>1400-1600 </td>
@@ -323,7 +391,7 @@
     
     
     <tr>
-      <td><a href="/branches/bury-st-edmunds-library/">Bury St Edmunds Library</a></td>
+      <td>Bury St Edmunds Library</td>
       <td>Top Time reading group</td>
       <td>first Friday of the month</td>
       <td>1000-1200 </td>
@@ -336,7 +404,7 @@
     
     
     <tr>
-      <td><a href="/branches/bury-st-edmunds-library/">Bury St Edmunds Library</a></td>
+      <td>Bury St Edmunds Library</td>
       <td>Tuesday Night reading group</td>
       <td>second Tuesday of the month</td>
       <td>1800-1900 </td>
@@ -351,7 +419,7 @@
     
     
     <tr>
-      <td><a href="/branches/capel-st-mary-library/">Capel St Mary Library</a></td>
+      <td>Capel St Mary Library</td>
       <td>Reading group</td>
       <td>third Friday of the month</td>
       <td>1430-1530 </td>
@@ -370,7 +438,7 @@
     
     
     <tr>
-      <td><a href="/branches/chantry-library/">Chantry Library</a></td>
+      <td>Chantry Library</td>
       <td>Chantry Journeys reading group</td>
       <td>last Thursday of the month</td>
       <td>1800-1930 </td>
@@ -405,7 +473,7 @@
     
     
     <tr>
-      <td><a href="/branches/clare-library/">Clare Library</a></td>
+      <td>Clare Library</td>
       <td>Reading group</td>
       <td>first Wednesday of the month</td>
       <td>1430-1530 </td>
@@ -430,7 +498,7 @@
     
     
     <tr>
-      <td><a href="/branches/eye-library/">Eye Library</a></td>
+      <td>Eye Library</td>
       <td>Chatterbooks reading group for 4-7 year olds</td>
       <td>Sunday</td>
       <td>1330-1430 </td>
@@ -441,7 +509,7 @@
     
     
     <tr>
-      <td><a href="/branches/eye-library/">Eye Library</a></td>
+      <td>Eye Library</td>
       <td>Reading group</td>
       <td>second Monday of the month</td>
       <td>1930-2030 </td>
@@ -460,7 +528,7 @@
     
     
     <tr>
-      <td><a href="/branches/felixstowe-library/">Felixstowe Library</a></td>
+      <td>Felixstowe Library</td>
       <td>Reading group for older people</td>
       <td>fourth Tuesday of the month</td>
       <td>1100-1200 </td>
@@ -477,7 +545,7 @@
     
     
     <tr>
-      <td><a href="/branches/felixstowe-library/">Felixstowe Library</a></td>
+      <td>Felixstowe Library</td>
       <td>Words reading group</td>
       <td>second Thursday of the month</td>
       <td>1100-1200 </td>
@@ -490,7 +558,7 @@
     
     
     <tr>
-      <td><a href="/branches/framlingham-library/">Framlingham Library</a></td>
+      <td>Framlingham Library</td>
       <td>Mrs Fram Library reading group</td>
       <td>second Wednesday of the month</td>
       <td>1930-2030 </td>
@@ -501,7 +569,7 @@
     
     
     <tr>
-      <td><a href="/branches/framlingham-library/">Framlingham Library</a></td>
+      <td>Framlingham Library</td>
       <td>Second Fram Library reading group</td>
       <td>fourth Wednesday of the month</td>
       <td>1930-2030 </td>
@@ -554,7 +622,7 @@
     
     
     <tr>
-      <td><a href="/branches/glemsford-library/">Glemsford Library</a></td>
+      <td>Glemsford Library</td>
       <td>First Edition Top Time reading group for older people</td>
       <td>third Tuesday of the month</td>
       <td>1415-1515 </td>
@@ -567,7 +635,7 @@
     
     
     <tr>
-      <td><a href="/branches/glemsford-library/">Glemsford Library</a></td>
+      <td>Glemsford Library</td>
       <td>Turned Corners Top Time reading group for older people</td>
       <td>second Tuesday of the month</td>
       <td>1430-1530 </td>
@@ -590,7 +658,7 @@
     
     
     <tr>
-      <td><a href="/branches/great-cornard-library/">Great Cornard Library</a></td>
+      <td>Great Cornard Library</td>
       <td>Sunday reading group</td>
       <td>third Sunday of the month</td>
       <td>1000-1130 </td>
@@ -603,7 +671,7 @@
     
     
     <tr>
-      <td><a href="/branches/great-cornard-library/">Great Cornard Library</a></td>
+      <td>Great Cornard Library</td>
       <td>Yummy Mummy reading group: discuss light hearted books</td>
       <td>last Thursday of the month</td>
       <td>1400-1500 </td>
@@ -612,7 +680,7 @@
     
     
     <tr>
-      <td><a href="/branches/great-cornard-library/">Great Cornard Library</a></td>
+      <td>Great Cornard Library</td>
       <td>Yummy Mummy reading group: discuss light hearted books</td>
       <td>last Thursday of the month</td>
       <td>1800-1900 </td>
@@ -639,7 +707,7 @@
     
     
     <tr>
-      <td><a href="/branches/halesworth-library/">Halesworth Library</a></td>
+      <td>Halesworth Library</td>
       <td>Book Wizards: for 7-13 year olds, bring your favourite book – book in advance</td>
       <td>Sunday once a month</td>
       <td>1130-1230 </td>
@@ -670,7 +738,7 @@
     
     
     <tr>
-      <td><a href="/branches/halesworth-library/">Halesworth Library</a></td>
+      <td>Halesworth Library</td>
       <td>Reading group</td>
       <td>third Thursday of the month</td>
       <td>1930-2100 </td>
@@ -687,7 +755,7 @@
     
     
     <tr>
-      <td><a href="/branches/haverhill-library/">Haverhill Library</a></td>
+      <td>Haverhill Library</td>
       <td>Bookworms reading group</td>
       <td>second Saturday of the month</td>
       <td>1430-1600 </td>
@@ -704,7 +772,7 @@
     
     
     <tr>
-      <td><a href="/branches/haverhill-library/">Haverhill Library</a></td>
+      <td>Haverhill Library</td>
       <td>Kids book club</td>
       <td>third Sunday of the month</td>
       <td>1030-1130 </td>
@@ -713,7 +781,7 @@
     
     
     <tr>
-      <td><a href="/branches/haverhill-library/">Haverhill Library</a></td>
+      <td>Haverhill Library</td>
       <td>Page Turns reading group</td>
       <td>third Saturday of the month</td>
       <td>1430-1600 </td>
@@ -730,7 +798,7 @@
     
     
     <tr>
-      <td><a href="/branches/ipswich-county-library/">Ipswich County Library</a></td>
+      <td>Ipswich County Library</td>
       <td>BooksFizz reading group: 50p for hot drinks and biscuits</td>
       <td>last Wednesday of the month</td>
       <td>1400-1500 </td>
@@ -791,7 +859,7 @@
     
     
     <tr>
-      <td><a href="/branches/ixworth-library/">Ixworth Library</a></td>
+      <td>Ixworth Library</td>
       <td>Book Ends reading group</td>
       <td>first Sunday of the month</td>
       <td>1400-1500 </td>
@@ -812,7 +880,7 @@
     
     
     <tr>
-      <td><a href="/branches/kedington-library/">Kedington Library</a></td>
+      <td>Kedington Library</td>
       <td>Ketton Bookworms reading group</td>
       <td>first Tuesday of the month</td>
       <td>1400-1500 </td>
@@ -825,7 +893,7 @@
     
     
     <tr>
-      <td><a href="/branches/kesgrave-library/">Kesgrave Library</a></td>
+      <td>Kesgrave Library</td>
       <td>Afternoon reading group</td>
       <td>Thursday once a month</td>
       <td>1430-1530 </td>
@@ -858,7 +926,7 @@
     
     
     <tr>
-      <td><a href="/branches/lakenheath-library/">Lakenheath Library</a></td>
+      <td>Lakenheath Library</td>
       <td>Top Time reading group</td>
       <td>usually the last Wednesday of the month</td>
       <td>1200-1300 </td>
@@ -871,7 +939,7 @@
     
     
     <tr>
-      <td><a href="/branches/leiston-library/">Leiston Library</a></td>
+      <td>Leiston Library</td>
       <td>Sunday reading group</td>
       <td>Sunday once a month</td>
       <td>1130-1230 </td>
@@ -880,7 +948,7 @@
     
     
     <tr>
-      <td><a href="/branches/leiston-library/">Leiston Library</a></td>
+      <td>Leiston Library</td>
       <td>Top Time reading group</td>
       <td>first Tuesday of the month</td>
       <td>1100-1200 </td>
@@ -891,7 +959,7 @@
     
     
     <tr>
-      <td><a href="/branches/long-melford-library/">Long Melford Library</a></td>
+      <td>Long Melford Library</td>
       <td>Top Time reading group</td>
       <td>last Wednesday of the month</td>
       <td>1430-1630 </td>
@@ -914,7 +982,7 @@
     
     
     <tr>
-      <td><a href="/branches/lowestoft-library/">Lowestoft Library</a></td>
+      <td>Lowestoft Library</td>
       <td>Lowestoft Home Library Service reading group: group for older people</td>
       <td>first Wednesday of the month</td>
       <td>1030-1130 </td>
@@ -925,7 +993,7 @@
     
     
     <tr>
-      <td><a href="/branches/lowestoft-library/">Lowestoft Library</a></td>
+      <td>Lowestoft Library</td>
       <td>Reading group: in the Navigator room</td>
       <td>last Tuesday of the month</td>
       <td>1850-2030 </td>
@@ -952,7 +1020,7 @@
     
     
     <tr>
-      <td><a href="/branches/mildenhall-library/">Mildenhall Library</a></td>
+      <td>Mildenhall Library</td>
       <td>Top Time reading group</td>
       <td>last Thursday of the month</td>
       <td>1400-1530 </td>
@@ -971,7 +1039,7 @@
     
     
     <tr>
-      <td><a href="/branches/needham-market-library/">Needham Market Library</a></td>
+      <td>Needham Market Library</td>
       <td>Reading group: contact Lorraine or Donna in the library</td>
       <td>first Wednesday of the month</td>
       <td>1930-2030 </td>
@@ -996,7 +1064,7 @@
     
     
     <tr>
-      <td><a href="/branches/newmarket-library/">Newmarket Library</a></td>
+      <td>Newmarket Library</td>
       <td>Reading group</td>
       <td>first Friday of the month</td>
       <td>1030-1130 </td>
@@ -1005,7 +1073,7 @@
     
     
     <tr>
-      <td><a href="/branches/newmarket-library/">Newmarket Library</a></td>
+      <td>Newmarket Library</td>
       <td>Reading round reading group: with author Alison Bruce</td>
       <td>Friday</td>
       <td>1300-1500 </td>
@@ -1020,7 +1088,7 @@
     
     
     <tr>
-      <td><a href="/branches/newmarket-library/">Newmarket Library</a></td>
+      <td>Newmarket Library</td>
       <td>Tuesday book club</td>
       <td>second Tuesday of the month</td>
       <td>1100-1200 </td>
@@ -1069,7 +1137,7 @@
     
     
     <tr>
-      <td><a href="/branches/southwold-library/">Southwold Library</a></td>
+      <td>Southwold Library</td>
       <td>Blyth Poets poetry group</td>
       <td>first Wednesday of the month</td>
       <td>1930-2100 </td>
@@ -1084,7 +1152,7 @@
     
     
     <tr>
-      <td><a href="/branches/southwold-library/">Southwold Library</a></td>
+      <td>Southwold Library</td>
       <td>Play reading group</td>
       <td>fourth Monday of the month</td>
       <td>1000-1200 </td>
@@ -1093,7 +1161,7 @@
     
     
     <tr>
-      <td><a href="/branches/southwold-library/">Southwold Library</a></td>
+      <td>Southwold Library</td>
       <td>Reading group</td>
       <td>last Thursday of the month</td>
       <td>1830-1930 </td>
@@ -1136,7 +1204,7 @@
     
     
     <tr>
-      <td><a href="/branches/stowmarket-library/">Stowmarket Library</a></td>
+      <td>Stowmarket Library</td>
       <td>Friday Book Fix reading group</td>
       <td>Friday once a month</td>
       <td>1500-1600 </td>
@@ -1155,7 +1223,7 @@
     
     
     <tr>
-      <td><a href="/branches/stowmarket-library/">Stowmarket Library</a></td>
+      <td>Stowmarket Library</td>
       <td>Sunday Sloths book group for 7-11 year olds</td>
       <td>last Sunday of the month</td>
       <td>1130-1200 </td>
@@ -1170,7 +1238,7 @@
     
     
     <tr>
-      <td><a href="/branches/stradbroke-library/">Stradbroke Library</a></td>
+      <td>Stradbroke Library</td>
       <td>Top Time reading group</td>
       <td>second Thursday of the month</td>
       <td>1430-1530 </td>
@@ -1191,7 +1259,7 @@
     
     
     <tr>
-      <td><a href="/branches/sudbury-library/">Sudbury Library</a></td>
+      <td>Sudbury Library</td>
       <td>Top Time reading group</td>
       <td>third Tuesday of the month</td>
       <td>1430-1630 </td>
@@ -1208,7 +1276,7 @@
     
     
     <tr>
-      <td><a href="/branches/thurston-library/">Thurston Library</a></td>
+      <td>Thurston Library</td>
       <td>Reading group</td>
       <td>first Tuesday of the month</td>
       <td>1800-1900 </td>
@@ -1255,7 +1323,7 @@
     
     
     <tr>
-      <td><a href="/branches/woodbridge-library/">Woodbridge Library</a></td>
+      <td>Woodbridge Library</td>
       <td>Play reading group</td>
       <td>third Thursday of the month</td>
       <td>1400-1500 </td>
@@ -1268,7 +1336,7 @@
     
     
     <tr>
-      <td><a href="/branches/woodbridge-library/">Woodbridge Library</a></td>
+      <td>Woodbridge Library</td>
       <td>Sunday reading group</td>
       <td>first Sunday of the month</td>
       <td>1400-1500 </td>
@@ -1277,7 +1345,7 @@
     
     
     <tr>
-      <td><a href="/branches/woodbridge-library/">Woodbridge Library</a></td>
+      <td>Woodbridge Library</td>
       <td>The Golden Age book club</td>
       <td>first Thursday of the month</td>
       <td>1400-1500 </td>
@@ -1292,6 +1360,19 @@
     
   </tbody>
 </table>
+
+<script>
+$('#search-table').dynatable({
+  features: {
+    paginate: false,
+    recordCount: false,
+    sorting: false
+  },
+  inputs: {
+    queries: $('#search-library')
+  }
+});
+</script>
 
 
             </div>

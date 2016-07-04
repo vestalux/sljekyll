@@ -14,11 +14,29 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
 	<![endif]-->
 
+	
+
+		<link rel="stylesheet" href="/css/jquery.dynatable.css">
+
+	
+
     <link rel="stylesheet" href="/css/style.css">
 
     <title>Children's activities &#8211; Suffolk Libraries</title>
 
 	<script src="/js/app.js"></script>
+
+	
+
+		<script src="/js/jquery-1.7.2.min.js"></script>
+
+	
+
+	
+
+		<script src="/js/jquery.dynatable.js"></script>
+
+	
 
 </head>
 
@@ -107,26 +125,65 @@
             <div class="custom-lh-copy custom-hyphens custom-prose
 ">
 
-                <p>Most Suffolk libraries run activity sessions and events for children:</p>
+                <p>Most libraries run activity sessions and events for children of all ages, including songs, rhymes, stories, playtimes, crafts, clubs, reading groups and Minecraft clubs.</p>
 
-<ul>
-<li><strong>Baby bounce:</strong> soothing songs and gentle nursery rhymes for babies</li>
-<li><strong>Tot Rock</strong>: songs and action rhymes for toddlers</li>
-<li><strong>Baby bounce and Tot Rock</strong>: songs and rhymes for babies and toddlers</li>
-<li><strong>Storytime</strong>: stories and rhymes for pre-school children</li>
-<li><strong>Family playtime</strong>: for 0-4 year olds</li>
-<li><strong>Craft activities</strong>: for primary school age children</li>
-</ul>
+<p class="mb0">Filter by library:</p>
 
-<h2>Library activities</h2>
+<select id="search-library" name="library">
+    <option></option>
+    <option>Aldeburgh Library</option>
+    <option>Beccles Library</option></option>
+    <option>Brandon Library</option>
+    <option>Broomhill Library</option>
+    <option>Bungay Library</option>
+    <option>Bury St Edmunds Library</option>
+    <option>Capel St Mary Library</option>
+    <option>Chantry Library</option>
+    <option>Clare Library</option>
+    <option>Debenham Library</option>
+    <option>Elmswell Library</option>
+    <option>Eye Library</option>
+    <option>Felixstowe Library</option>
+    <option>Framlingham Library</option>
+    <option>Gainsborough Community Library</option>
+    <option>Glemsford Library</option>
+    <option>Great Cornard Library</option>
+    <option>Hadleigh Library</option>
+    <option>Halesworth Library</option>
+    <option>Haverhill Library</option>
+    <option>Ipswich County Library</option>
+    <option>Ixworth Library</option>
+    <option>Kedington Library</option>
+    <option>Kesgrave Library</option>
+    <option>Kessingland Library</option>
+    <option>Lakenheath Library</option>
+    <option>Lavenham Library</option>
+    <option>Leiston Library</option>
+    <option>Long Melford Library</option>
+    <option>Lowestoft Library</option>
+    <option>Mildenhall Library</option>
+    <option>Needham Market Library</option>
+    <option>Newmarket Library</option>
+    <option>Oulton Broad Library</option>
+    <option>Rosehill Library</option>
+    <option>Saxmundham Library</option>
+    <option>Southwold Library</option>
+    <option>Stoke Library</option>
+    <option>Stowmarket Library</option>
+    <option>Stradbroke Library</option>
+    <option>Sudbury Library</option>
+    <option>Thurston Library</option>
+    <option>Wickham Market Library</option>
+    <option>Woodbridge Library</option>
+</select>
 
-<table class="pure-table pure-table-bordered">
+<table id="search-table" class="pure-table pure-table-bordered">
   <thead>
     <tr>
-      <th>Library</th>
-      <th>Activity</th>
-      <th>Day</th>
-      <th>Times</th>
+      <th data-dynatable-column="library">Library</th>
+      <th data-dynatable-column="activity">Activity</th>
+      <th data-dynatable-column="day">Day</th>
+      <th data-dynatable-column="times">Times</th>
     </tr>
   </thead>
   <tbody>
@@ -136,7 +193,7 @@
     
     
     <tr>
-      <td><a href="/branches/aldeburgh-library/">Aldeburgh Library</a></td>
+      <td>Aldeburgh Library</td>
       <td>Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers</td>
       <td>Monday</td>
       <td>1030-1100 </td>
@@ -151,7 +208,7 @@
     
     
     <tr>
-      <td><a href="/branches/aldeburgh-library/">Aldeburgh Library</a></td>
+      <td>Aldeburgh Library</td>
       <td>Minecraft club: bring your own device</td>
       <td>Wednesday</td>
       <td>1630-1730 </td>
@@ -164,7 +221,7 @@
     
     
     <tr>
-      <td><a href="/branches/beccles-library/">Beccles Library</a></td>
+      <td>Beccles Library</td>
       <td>Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers</td>
       <td>Friday</td>
       <td>1100-1200 </td>
@@ -177,7 +234,7 @@
     
     
     <tr>
-      <td><a href="/branches/beccles-library/">Beccles Library</a></td>
+      <td>Beccles Library</td>
       <td>Family playtime: for 0-4 year olds</td>
       <td>Thursday</td>
       <td>0945-1115 </td>
@@ -192,7 +249,7 @@
     
     
     <tr>
-      <td><a href="/branches/beccles-library/">Beccles Library</a></td>
+      <td>Beccles Library</td>
       <td>Grandparents and grandchildren Sessions: free play and talk for grandparents and 0-5 years old grandchildren</td>
       <td>Wednesday</td>
       <td>0945-1115 </td>
@@ -211,7 +268,7 @@
     
     
     <tr>
-      <td><a href="/branches/beccles-library/">Beccles Library</a></td>
+      <td>Beccles Library</td>
       <td>TinyTalk baby signing: to book your place contact Charlotte Ling 07419 322204 or charlottel@tinytalk.co.uk</td>
       <td>Tuesday</td>
       <td>1130-1230 </td>
@@ -220,7 +277,7 @@
     
     
     <tr>
-      <td><a href="/branches/beccles-library/">Beccles Library</a></td>
+      <td>Beccles Library</td>
       <td>TinyTalk toddler classes: to book your place contact Charlotte Ling 07419 322204 or charlottel@tinytalk.co.uk</td>
       <td>Tuesday</td>
       <td>1015-1115 </td>
@@ -235,7 +292,7 @@
     
     
     <tr>
-      <td><a href="/branches/brandon-library/">Brandon Library</a></td>
+      <td>Brandon Library</td>
       <td>Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers</td>
       <td>Monday</td>
       <td>0935-1000 </td>
@@ -244,7 +301,7 @@
     
     
     <tr>
-      <td><a href="/branches/brandon-library/">Brandon Library</a></td>
+      <td>Brandon Library</td>
       <td>Book time: stories and rhymes for pre-school children (term time only)</td>
       <td>Wednesday</td>
       <td>1530-1555 </td>
@@ -255,7 +312,7 @@
     
     
     <tr>
-      <td><a href="/branches/brandon-library/">Brandon Library</a></td>
+      <td>Brandon Library</td>
       <td>Craft activities: for primary school age children</td>
       <td>first and third Sunday of the month</td>
       <td>1115-1230 </td>
@@ -270,7 +327,7 @@
     
     
     <tr>
-      <td><a href="/branches/brandon-library/">Brandon Library</a></td>
+      <td>Brandon Library</td>
       <td>Tot Rock: songs and action rhymes for toddlers</td>
       <td>Thursday</td>
       <td>0935-1000 </td>
@@ -279,7 +336,7 @@
     
     
     <tr>
-      <td><a href="/branches/broomhill-library/">Broomhill Library</a></td>
+      <td>Broomhill Library</td>
       <td>Baby Bounce: soothing songs and gentle nursery rhymes for babies</td>
       <td>Tuesday</td>
       <td>0930-1030 </td>
@@ -288,7 +345,7 @@
     
     
     <tr>
-      <td><a href="/branches/broomhill-library/">Broomhill Library</a></td>
+      <td>Broomhill Library</td>
       <td>Board games club: for 8-12 year olds</td>
       <td>Saturday</td>
       <td>1400-1600 </td>
@@ -299,7 +356,7 @@
     
     
     <tr>
-      <td><a href="/branches/broomhill-library/">Broomhill Library</a></td>
+      <td>Broomhill Library</td>
       <td>Craft activities: for primary school age children (followed by film club from 1400)</td>
       <td>Sunday</td>
       <td>1100-1400 </td>
@@ -322,7 +379,7 @@
     
     
     <tr>
-      <td><a href="/branches/broomhill-library/">Broomhill Library</a></td>
+      <td>Broomhill Library</td>
       <td>Under 5’s Friday club: songs games and stories with accompanying adult</td>
       <td>Friday</td>
       <td>0930-1030 </td>
@@ -331,7 +388,7 @@
     
     
     <tr>
-      <td><a href="/branches/bungay-library/">Bungay Library</a></td>
+      <td>Bungay Library</td>
       <td>About Birth & Babies: antenatal classes – contact 01508 536990</td>
       <td>some Thursdays</td>
       <td>1900-2130 </td>
@@ -340,7 +397,7 @@
     
     
     <tr>
-      <td><a href="/branches/bungay-library/">Bungay Library</a></td>
+      <td>Bungay Library</td>
       <td>About Birth & Babies: antenatal classes – contact 01508 536990</td>
       <td>some Saturdays</td>
       <td>1900-2130 </td>
@@ -349,7 +406,7 @@
     
     
     <tr>
-      <td><a href="/branches/bungay-library/">Bungay Library</a></td>
+      <td>Bungay Library</td>
       <td>Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers	</td>
       <td>Tuesday</td>
       <td>1345-1445 </td>
@@ -376,7 +433,7 @@
     
     
     <tr>
-      <td><a href="/branches/bury-st-edmunds-library/">Bury St Edmunds Library</a></td>
+      <td>Bury St Edmunds Library</td>
       <td>Baby Bounce: soothing songs and gentle nursery rhymes for babies</td>
       <td>Wednesday</td>
       <td>1015-1045 </td>
@@ -387,7 +444,7 @@
     
     
     <tr>
-      <td><a href="/branches/bury-st-edmunds-library/">Bury St Edmunds Library</a></td>
+      <td>Bury St Edmunds Library</td>
       <td>Craft activities: for primary school age children</td>
       <td>Sunday</td>
       <td>1030-1200 </td>
@@ -400,7 +457,7 @@
     
     
     <tr>
-      <td><a href="/branches/bury-st-edmunds-library/">Bury St Edmunds Library</a></td>
+      <td>Bury St Edmunds Library</td>
       <td>Tell me a story</td>
       <td>Saturday</td>
       <td>1000-1200 </td>
@@ -413,7 +470,7 @@
     
     
     <tr>
-      <td><a href="/branches/bury-st-edmunds-library/">Bury St Edmunds Library</a></td>
+      <td>Bury St Edmunds Library</td>
       <td>Tot Rock: songs and action rhymes for toddlers</td>
       <td>Thursday</td>
       <td>1015-1045 </td>
@@ -424,7 +481,7 @@
     
     
     <tr>
-      <td><a href="/branches/capel-st-mary-library/">Capel St Mary Library</a></td>
+      <td>Capel St Mary Library</td>
       <td>Baby Bounce: soothing songs and gentle nursery rhymes for babies (term time only)</td>
       <td>Tuesday</td>
       <td>1400-1430 </td>
@@ -435,7 +492,7 @@
     
     
     <tr>
-      <td><a href="/branches/capel-st-mary-library/">Capel St Mary Library</a></td>
+      <td>Capel St Mary Library</td>
       <td>Minecraft club</td>
       <td>Sunday every 2 weeks</td>
       <td>1030-1230 </td>
@@ -448,7 +505,7 @@
     
     
     <tr>
-      <td><a href="/branches/chantry-library/">Chantry Library</a></td>
+      <td>Chantry Library</td>
       <td>Baby Bounce: soothing songs and gentle nursery rhymes for babies</td>
       <td>Thursday</td>
       <td>1000-1025 </td>
@@ -457,7 +514,7 @@
     
     
     <tr>
-      <td><a href="/branches/chantry-library/">Chantry Library</a></td>
+      <td>Chantry Library</td>
       <td>Craft activities for children and adult colouring</td>
       <td>Saturday and Sunday</td>
       <td>1000-1600 </td>
@@ -474,7 +531,7 @@
     
     
     <tr>
-      <td><a href="/branches/chantry-library/">Chantry Library</a></td>
+      <td>Chantry Library</td>
       <td>Minecraft group: for ages 8-13 – bring your own devices</td>
       <td>Sunday</td>
       <td>1400-1500 </td>
@@ -489,7 +546,7 @@
     
     
     <tr>
-      <td><a href="/branches/chantry-library/">Chantry Library</a></td>
+      <td>Chantry Library</td>
       <td>Street dance, colouring and table tennis</td>
       <td>Thursday</td>
       <td>1630-1730 </td>
@@ -500,7 +557,7 @@
     
     
     <tr>
-      <td><a href="/branches/chantry-library/">Chantry Library</a></td>
+      <td>Chantry Library</td>
       <td>Tot Rock: songs and action rhymes for toddlers</td>
       <td>Thursday</td>
       <td>0915-0940 </td>
@@ -511,7 +568,7 @@
     
     
     <tr>
-      <td><a href="/branches/chantry-library/">Chantry Library</a></td>
+      <td>Chantry Library</td>
       <td>Youth drop-in</td>
       <td>Monday</td>
       <td>1600-1800 </td>
@@ -520,7 +577,7 @@
     
     
     <tr>
-      <td><a href="/branches/clare-library/">Clare Library</a></td>
+      <td>Clare Library</td>
       <td>Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers	</td>
       <td>Friday</td>
       <td>1000-1100 </td>
@@ -541,7 +598,7 @@
     
     
     <tr>
-      <td><a href="/branches/elmswell-library/">Elmswell Library</a></td>
+      <td>Elmswell Library</td>
       <td>Baby Bounce: soothing songs and gentle nursery rhymes for babies	</td>
       <td>Friday</td>
       <td>0945-1030 </td>
@@ -550,7 +607,7 @@
     
     
     <tr>
-      <td><a href="/branches/elmswell-library/">Elmswell Library</a></td>
+      <td>Elmswell Library</td>
       <td>Craft sessions for children of all ages</td>
       <td>Sunday</td>
       <td>1100-1200 </td>
@@ -561,7 +618,7 @@
     
     
     <tr>
-      <td><a href="/branches/elmswell-library/">Elmswell Library</a></td>
+      <td>Elmswell Library</td>
       <td>Storytime: stories and rhymes for pre-school children</td>
       <td>Sunday</td>
       <td>1100-1200 </td>
@@ -570,7 +627,7 @@
     
     
     <tr>
-      <td><a href="/branches/eye-library/">Eye Library</a></td>
+      <td>Eye Library</td>
       <td>Baby Bounce: soothing songs and gentle nursery rhymes for babies</td>
       <td>Monday</td>
       <td>1015-1045 </td>
@@ -581,7 +638,7 @@
     
     
     <tr>
-      <td><a href="/branches/eye-library/">Eye Library</a></td>
+      <td>Eye Library</td>
       <td>Raspberry Pi coding club sessions: book in advance</td>
       <td>Sunday</td>
       <td>1030-1200 </td>
@@ -592,7 +649,7 @@
     
     
     <tr>
-      <td><a href="/branches/eye-library/">Eye Library</a></td>
+      <td>Eye Library</td>
       <td>Tot Rock: songs and action rhymes for toddlers</td>
       <td>Monday</td>
       <td>1100-1200 </td>
@@ -601,7 +658,7 @@
     
     
     <tr>
-      <td><a href="/branches/felixstowe-library/">Felixstowe Library</a></td>
+      <td>Felixstowe Library</td>
       <td>Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers</td>
       <td>Friday</td>
       <td>0930-1000 </td>
@@ -610,7 +667,7 @@
     
     
     <tr>
-      <td><a href="/branches/felixstowe-library/">Felixstowe Library</a></td>
+      <td>Felixstowe Library</td>
       <td>Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers</td>
       <td>Friday</td>
       <td>1130-1200 </td>
@@ -619,7 +676,7 @@
     
     
     <tr>
-      <td><a href="/branches/felixstowe-library/">Felixstowe Library</a></td>
+      <td>Felixstowe Library</td>
       <td>Child health drop-in for parents</td>
       <td>Friday</td>
       <td>1030-1200 </td>
@@ -634,7 +691,7 @@
     
     
     <tr>
-      <td><a href="/branches/felixstowe-library/">Felixstowe Library</a></td>
+      <td>Felixstowe Library</td>
       <td>Stories in the Middle: stories and activities for young children</td>
       <td>Friday</td>
       <td>1015-1045 </td>
@@ -659,7 +716,7 @@
     
     
     <tr>
-      <td><a href="/branches/framlingham-library/">Framlingham Library</a></td>
+      <td>Framlingham Library</td>
       <td>Storytime: stories and rhymes for pre-school children</td>
       <td>Sunday</td>
       <td>1500-1530 </td>
@@ -670,7 +727,7 @@
     
     
     <tr>
-      <td><a href="/branches/gainsborough-community-library/">Gainsborough Community Library</a></td>
+      <td>Gainsborough Community Library</td>
       <td>Bookstart singing</td>
       <td>Friday</td>
       <td>1030-1100 </td>
@@ -679,7 +736,7 @@
     
     
     <tr>
-      <td><a href="/branches/gainsborough-community-library/">Gainsborough Community Library</a></td>
+      <td>Gainsborough Community Library</td>
       <td>Bookstart stay and play</td>
       <td>Friday</td>
       <td>1100-1200 </td>
@@ -688,7 +745,7 @@
     
     
     <tr>
-      <td><a href="/branches/gainsborough-community-library/">Gainsborough Community Library</a></td>
+      <td>Gainsborough Community Library</td>
       <td>Club 4 Teens: video games and crafts for 13-19 year olds</td>
       <td>Monday</td>
       <td>1615-1745 </td>
@@ -697,7 +754,7 @@
     
     
     <tr>
-      <td><a href="/branches/gainsborough-community-library/">Gainsborough Community Library</a></td>
+      <td>Gainsborough Community Library</td>
       <td>Club 4 Teens: video games and crafts for 13-19 year olds</td>
       <td>Friday</td>
       <td>1530-1730 </td>
@@ -708,7 +765,7 @@
     
     
     <tr>
-      <td><a href="/branches/gainsborough-community-library/">Gainsborough Community Library</a></td>
+      <td>Gainsborough Community Library</td>
       <td>Craft activities: for primary school age children</td>
       <td>Sunday</td>
       <td>1300-1500 </td>
@@ -717,7 +774,7 @@
     
     
     <tr>
-      <td><a href="/branches/gainsborough-community-library/">Gainsborough Community Library</a></td>
+      <td>Gainsborough Community Library</td>
       <td>Craft activities and games for children</td>
       <td>Saturday</td>
       <td>1400-1600 </td>
@@ -728,7 +785,7 @@
     
     
     <tr>
-      <td><a href="/branches/gainsborough-community-library/">Gainsborough Community Library</a></td>
+      <td>Gainsborough Community Library</td>
       <td>Girls group</td>
       <td>Monday</td>
       <td>1600-1700 </td>
@@ -737,7 +794,7 @@
     
     
     <tr>
-      <td><a href="/branches/gainsborough-community-library/">Gainsborough Community Library</a></td>
+      <td>Gainsborough Community Library</td>
       <td>Girls self-esteem workshop</td>
       <td>Monday</td>
       <td>1700-1800 </td>
@@ -748,7 +805,7 @@
     
     
     <tr>
-      <td><a href="/branches/gainsborough-community-library/">Gainsborough Community Library</a></td>
+      <td>Gainsborough Community Library</td>
       <td>Mini Teenz: club for 8-12 year olds</td>
       <td>Thursday</td>
       <td>1530-1645 </td>
@@ -771,7 +828,7 @@
     
     
     <tr>
-      <td><a href="/branches/glemsford-library/">Glemsford Library</a></td>
+      <td>Glemsford Library</td>
       <td>Craft activities: for primary school age children</td>
       <td>Sunday</td>
       <td>1200-1400 </td>
@@ -784,7 +841,7 @@
     
     
     <tr>
-      <td><a href="/branches/glemsford-library/">Glemsford Library</a></td>
+      <td>Glemsford Library</td>
       <td>Tot Rock: songs and action rhymes for toddlers (in the adjoining village hall)</td>
       <td>Friday</td>
       <td>1000-1100 </td>
@@ -795,7 +852,7 @@
     
     
     <tr>
-      <td><a href="/branches/great-cornard-library/">Great Cornard Library</a></td>
+      <td>Great Cornard Library</td>
       <td>Baby Bounce: soothing songs and gentle nursery rhymes for babies (term time only)</td>
       <td>Wednesday</td>
       <td>1330-1400 </td>
@@ -804,7 +861,7 @@
     
     
     <tr>
-      <td><a href="/branches/great-cornard-library/">Great Cornard Library</a></td>
+      <td>Great Cornard Library</td>
       <td>Busy Book Time: stories, rhymes and crafts for pre-school children (term time only)</td>
       <td>Friday</td>
       <td>0930-1015 </td>
@@ -813,7 +870,7 @@
     
     
     <tr>
-      <td><a href="/branches/great-cornard-library/">Great Cornard Library</a></td>
+      <td>Great Cornard Library</td>
       <td>Craft activities and homework help: for primary school age children</td>
       <td>Sunday</td>
       <td>1100-1400 </td>
@@ -822,7 +879,7 @@
     
     
     <tr>
-      <td><a href="/branches/great-cornard-library/">Great Cornard Library</a></td>
+      <td>Great Cornard Library</td>
       <td>Homework help for 8-12 year olds</td>
       <td>Thursday</td>
       <td>1510-1610 </td>
@@ -831,7 +888,7 @@
     
     
     <tr>
-      <td><a href="/branches/great-cornard-library/">Great Cornard Library</a></td>
+      <td>Great Cornard Library</td>
       <td>Homework help for 8-12 year olds</td>
       <td>Saturday</td>
       <td>1030-1200 </td>
@@ -848,7 +905,7 @@
     
     
     <tr>
-      <td><a href="/branches/great-cornard-library/">Great Cornard Library</a></td>
+      <td>Great Cornard Library</td>
       <td>Tot Rock: songs and action rhymes for toddlers (term time only)</td>
       <td>Monday</td>
       <td>1015-1045 </td>
@@ -863,7 +920,7 @@
     
     
     <tr>
-      <td><a href="/branches/hadleigh-library/">Hadleigh Library</a></td>
+      <td>Hadleigh Library</td>
       <td>Baby Bounce: soothing songs and gentle nursery rhymes for babies</td>
       <td>Thursday</td>
       <td>1000-1030 </td>
@@ -872,7 +929,7 @@
     
     
     <tr>
-      <td><a href="/branches/hadleigh-library/">Hadleigh Library</a></td>
+      <td>Hadleigh Library</td>
       <td>Craft activities: for primary school age children</td>
       <td>Sunday</td>
       <td>1030-1430 </td>
@@ -881,7 +938,7 @@
     
     
     <tr>
-      <td><a href="/branches/hadleigh-library/">Hadleigh Library</a></td>
+      <td>Hadleigh Library</td>
       <td>Storytime and craft activities</td>
       <td>Thursday</td>
       <td>1400-1500 </td>
@@ -892,7 +949,7 @@
     
     
     <tr>
-      <td><a href="/branches/hadleigh-library/">Hadleigh Library</a></td>
+      <td>Hadleigh Library</td>
       <td>Tot Rock: songs and action rhymes for toddlers</td>
       <td>Friday</td>
       <td>1000-1030 </td>
@@ -903,7 +960,7 @@
     
     
     <tr>
-      <td><a href="/branches/halesworth-library/">Halesworth Library</a></td>
+      <td>Halesworth Library</td>
       <td>Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers</td>
       <td>Tuesday</td>
       <td>1000-1100 </td>
@@ -920,7 +977,7 @@
     
     
     <tr>
-      <td><a href="/branches/halesworth-library/">Halesworth Library</a></td>
+      <td>Halesworth Library</td>
       <td>Craft activities: for primary school age children</td>
       <td>Sunday</td>
       <td>1200-1430 </td>
@@ -941,7 +998,7 @@
     
     
     <tr>
-      <td><a href="/branches/halesworth-library/">Halesworth Library</a></td>
+      <td>Halesworth Library</td>
       <td>Lego club: £2 per builder</td>
       <td>Sunday every 2 weeks</td>
       <td>1000-1100 </td>
@@ -960,7 +1017,7 @@
     
     
     <tr>
-      <td><a href="/branches/haverhill-library/">Haverhill Library</a></td>
+      <td>Haverhill Library</td>
       <td>Baby Bounce: soothing songs and gentle nursery rhymes for babies, up to 18 months old</td>
       <td>Friday</td>
       <td>1000-1030 </td>
@@ -971,7 +1028,7 @@
     
     
     <tr>
-      <td><a href="/branches/haverhill-library/">Haverhill Library</a></td>
+      <td>Haverhill Library</td>
       <td>Craft activities: for primary school age children</td>
       <td>Sunday</td>
       <td>1030-1200 </td>
@@ -994,7 +1051,7 @@
     
     
     <tr>
-      <td><a href="/branches/haverhill-library/">Haverhill Library</a></td>
+      <td>Haverhill Library</td>
       <td>Tot Rock: songs and action rhymes for toddlers, from 18 months to pre-school age</td>
       <td>Tuesday</td>
       <td>1000-1030 </td>
@@ -1003,7 +1060,7 @@
     
     
     <tr>
-      <td><a href="/branches/ipswich-county-library/">Ipswich County Library</a></td>
+      <td>Ipswich County Library</td>
       <td>Baby bounce: soothing songs and gentle nursery rhymes for babies (term time only)</td>
       <td>Wednesday</td>
       <td>1415-1445 </td>
@@ -1020,7 +1077,7 @@
     
     
     <tr>
-      <td><a href="/branches/ipswich-county-library/">Ipswich County Library</a></td>
+      <td>Ipswich County Library</td>
       <td>Children’s craft activities</td>
       <td>Sunday</td>
       <td>1030-1130 </td>
@@ -1033,7 +1090,7 @@
     
     
     <tr>
-      <td><a href="/branches/ipswich-county-library/">Ipswich County Library</a></td>
+      <td>Ipswich County Library</td>
       <td>Dads United: family story and play sessions, £1 per session</td>
       <td>Saturday</td>
       <td>1000-1040, 1045-1125 </td>
@@ -1052,7 +1109,7 @@
     
     
     <tr>
-      <td><a href="/branches/ipswich-county-library/">Ipswich County Library</a></td>
+      <td>Ipswich County Library</td>
       <td>Minecraft club</td>
       <td>Tuesday</td>
       <td>1400-1500 from 26 July - 30 August, then 1530-1630 </td>
@@ -1067,7 +1124,7 @@
     
     
     <tr>
-      <td><a href="/branches/ipswich-county-library/">Ipswich County Library</a></td>
+      <td>Ipswich County Library</td>
       <td>Play, rhyme and storytime: activities for young children	</td>
       <td>Thursday</td>
       <td>1030-1115 </td>
@@ -1086,7 +1143,7 @@
     
     
     <tr>
-      <td><a href="/branches/ipswich-county-library/">Ipswich County Library</a></td>
+      <td>Ipswich County Library</td>
       <td>Tot Rock: songs and action rhymes for toddlers (term time only) – drop-in</td>
       <td>Wednesday</td>
       <td>0945-1015 </td>
@@ -1095,7 +1152,7 @@
     
     
     <tr>
-      <td><a href="/branches/ipswich-county-library/">Ipswich County Library</a></td>
+      <td>Ipswich County Library</td>
       <td>Tot Rock: songs and action rhymes for toddlers (term time only) – drop-in</td>
       <td>Wednesday</td>
       <td>1100-1130 </td>
@@ -1106,7 +1163,7 @@
     
     
     <tr>
-      <td><a href="/branches/ixworth-library/">Ixworth Library</a></td>
+      <td>Ixworth Library</td>
       <td>Baby Bounce: soothing songs and gentle nursery rhymes for babies (term time only)</td>
       <td>Tuesday</td>
       <td>0945-1030 </td>
@@ -1117,7 +1174,7 @@
     
     
     <tr>
-      <td><a href="/branches/ixworth-library/">Ixworth Library</a></td>
+      <td>Ixworth Library</td>
       <td>Craft activities: for primary school age children</td>
       <td>Sunday</td>
       <td>1130-1230 </td>
@@ -1128,7 +1185,7 @@
     
     
     <tr>
-      <td><a href="/branches/ixworth-library/">Ixworth Library</a></td>
+      <td>Ixworth Library</td>
       <td>Tot Rock: songs and action rhymes for toddlers (term time only)</td>
       <td>Tuesday</td>
       <td>1330-1415 </td>
@@ -1137,7 +1194,7 @@
     
     
     <tr>
-      <td><a href="/branches/kedington-library/">Kedington Library</a></td>
+      <td>Kedington Library</td>
       <td>Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers</td>
       <td>Monday</td>
       <td>1000-1200 </td>
@@ -1146,7 +1203,7 @@
     
     
     <tr>
-      <td><a href="/branches/kedington-library/">Kedington Library</a></td>
+      <td>Kedington Library</td>
       <td>Craft activities: for primary school age children</td>
       <td>Sunday</td>
       <td>1400-1600 </td>
@@ -1155,7 +1212,7 @@
     
     
     <tr>
-      <td><a href="/branches/kedington-library/">Kedington Library</a></td>
+      <td>Kedington Library</td>
       <td>Internet training sessions for beginners: book in advance</td>
       <td>Tuesday</td>
       <td>All day </td>
@@ -1168,7 +1225,7 @@
     
     
     <tr>
-      <td><a href="/branches/kedington-library/">Kedington Library</a></td>
+      <td>Kedington Library</td>
       <td>Storytime: stories and rhymes for pre-school children</td>
       <td>Thursday</td>
       <td>1600-1630 </td>
@@ -1179,7 +1236,7 @@
     
     
     <tr>
-      <td><a href="/branches/kesgrave-library/">Kesgrave Library</a></td>
+      <td>Kesgrave Library</td>
       <td>Baby Bounce: soothing songs and gentle nursery rhymes for babies (term time only)</td>
       <td>Thursday</td>
       <td>1030-1100 </td>
@@ -1188,7 +1245,7 @@
     
     
     <tr>
-      <td><a href="/branches/kesgrave-library/">Kesgrave Library</a></td>
+      <td>Kesgrave Library</td>
       <td>Craft activities: for primary school age children</td>
       <td>Sunday</td>
       <td>1000-1200 </td>
@@ -1197,7 +1254,7 @@
     
     
     <tr>
-      <td><a href="/branches/kesgrave-library/">Kesgrave Library</a></td>
+      <td>Kesgrave Library</td>
       <td>Storytime: stories, songs and activities for pre-school children (term time only)</td>
       <td>Friday</td>
       <td>0945-1015 </td>
@@ -1206,7 +1263,7 @@
     
     
     <tr>
-      <td><a href="/branches/kesgrave-library/">Kesgrave Library</a></td>
+      <td>Kesgrave Library</td>
       <td>Tot Rock: songs and action rhymes for toddlers (term time only)</td>
       <td>Thursday</td>
       <td>0945-1015 </td>
@@ -1217,7 +1274,7 @@
     
     
     <tr>
-      <td><a href="/branches/kessingland-library/">Kessingland Library</a></td>
+      <td>Kessingland Library</td>
       <td>Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers</td>
       <td>Monday</td>
       <td>1000-1100 </td>
@@ -1226,7 +1283,7 @@
     
     
     <tr>
-      <td><a href="/branches/kessingland-library/">Kessingland Library</a></td>
+      <td>Kessingland Library</td>
       <td>Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers</td>
       <td>Thursday</td>
       <td>1000-1100 </td>
@@ -1237,7 +1294,7 @@
     
     
     <tr>
-      <td><a href="/branches/kessingland-library/">Kessingland Library</a></td>
+      <td>Kessingland Library</td>
       <td>Craft activities: for primary school age children</td>
       <td>Sunday</td>
       <td>1030-1130 </td>
@@ -1250,7 +1307,7 @@
     
     
     <tr>
-      <td><a href="/branches/lakenheath-library/">Lakenheath Library</a></td>
+      <td>Lakenheath Library</td>
       <td>Craft activities: for primary school age children</td>
       <td>Sunday</td>
       <td>1000-1500 </td>
@@ -1263,7 +1320,7 @@
     
     
     <tr>
-      <td><a href="/branches/leiston-library/">Leiston Library</a></td>
+      <td>Leiston Library</td>
       <td>Baby Bounce: soothing songs and gentle nursery rhymes for babies</td>
       <td>Thursday</td>
       <td>1030-1100 </td>
@@ -1276,7 +1333,7 @@
     
     
     <tr>
-      <td><a href="/branches/long-melford-library/">Long Melford Library</a></td>
+      <td>Long Melford Library</td>
       <td>Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers</td>
       <td>Tuesday</td>
       <td>1430-1500 </td>
@@ -1291,7 +1348,7 @@
     
     
     <tr>
-      <td><a href="/branches/lowestoft-library/">Lowestoft Library</a></td>
+      <td>Lowestoft Library</td>
       <td>Baby Bounce: soothing songs and gentle nursery rhymes for babies (term time only)</td>
       <td>Thursday</td>
       <td>1045-1145 </td>
@@ -1302,7 +1359,7 @@
     
     
     <tr>
-      <td><a href="/branches/lowestoft-library/">Lowestoft Library</a></td>
+      <td>Lowestoft Library</td>
       <td>Checkmates chess club: for 8-16 year olds in the library coffee shop (term time only)</td>
       <td>Thursday</td>
       <td>1700-1800 </td>
@@ -1311,7 +1368,7 @@
     
     
     <tr>
-      <td><a href="/branches/lowestoft-library/">Lowestoft Library</a></td>
+      <td>Lowestoft Library</td>
       <td>Craft activities: for primary school age children</td>
       <td>Sunday</td>
       <td>1100-1200 </td>
@@ -1320,7 +1377,7 @@
     
     
     <tr>
-      <td><a href="/branches/lowestoft-library/">Lowestoft Library</a></td>
+      <td>Lowestoft Library</td>
       <td>Family playtime: for 0-4 year olds (term time only)</td>
       <td>Friday</td>
       <td>1030-1130 </td>
@@ -1335,7 +1392,7 @@
     
     
     <tr>
-      <td><a href="/branches/lowestoft-library/">Lowestoft Library</a></td>
+      <td>Lowestoft Library</td>
       <td>Storytime: stories for preschool children (term time only)</td>
       <td>Monday</td>
       <td>1400-1430 </td>
@@ -1348,7 +1405,7 @@
     
     
     <tr>
-      <td><a href="/branches/lowestoft-library/">Lowestoft Library</a></td>
+      <td>Lowestoft Library</td>
       <td>Tot Rock: songs and rhymes for preschool children (term time only)</td>
       <td>Wednesday</td>
       <td>1100-1130 </td>
@@ -1361,7 +1418,7 @@
     
     
     <tr>
-      <td><a href="/branches/mildenhall-library/">Mildenhall Library</a></td>
+      <td>Mildenhall Library</td>
       <td>Craft activities: for primary school age children</td>
       <td>Sunday</td>
       <td>1100-1200 </td>
@@ -1372,7 +1429,7 @@
     
     
     <tr>
-      <td><a href="/branches/mildenhall-library/">Mildenhall Library</a></td>
+      <td>Mildenhall Library</td>
       <td>Storytime: stories and rhymes for pre-school children</td>
       <td>Wednesday</td>
       <td>1030-1115 </td>
@@ -1385,7 +1442,7 @@
     
     
     <tr>
-      <td><a href="/branches/needham-market-library/">Needham Market Library</a></td>
+      <td>Needham Market Library</td>
       <td>Craft activities and Storytime: for primary school age children</td>
       <td>Sunday</td>
       <td>1115-1215 </td>
@@ -1394,7 +1451,7 @@
     
     
     <tr>
-      <td><a href="/branches/needham-market-library/">Needham Market Library</a></td>
+      <td>Needham Market Library</td>
       <td>Homework club</td>
       <td>Sunday</td>
       <td>1400-1500 </td>
@@ -1409,7 +1466,7 @@
     
     
     <tr>
-      <td><a href="/branches/needham-market-library/">Needham Market Library</a></td>
+      <td>Needham Market Library</td>
       <td>Storytime: stories and rhymes for pre-school children</td>
       <td>Monday</td>
       <td>1415-1445 </td>
@@ -1420,7 +1477,7 @@
     
     
     <tr>
-      <td><a href="/branches/newmarket-library/">Newmarket Library</a></td>
+      <td>Newmarket Library</td>
       <td>Baby Bounce: soothing songs and gentle nursery rhymes for babies</td>
       <td>Tuesday</td>
       <td>1000-1030 </td>
@@ -1431,7 +1488,7 @@
     
     
     <tr>
-      <td><a href="/branches/newmarket-library/">Newmarket Library</a></td>
+      <td>Newmarket Library</td>
       <td>Craft activities: for primary school age children</td>
       <td>Sunday</td>
       <td>1100-1500 </td>
@@ -1454,7 +1511,7 @@
     
     
     <tr>
-      <td><a href="/branches/newmarket-library/">Newmarket Library</a></td>
+      <td>Newmarket Library</td>
       <td>Tot Rock: songs and action rhymes for toddlers</td>
       <td>Thursday</td>
       <td>1000-1030 </td>
@@ -1465,7 +1522,7 @@
     
     
     <tr>
-      <td><a href="/branches/oulton-broad-library/">Oulton Broad Library</a></td>
+      <td>Oulton Broad Library</td>
       <td>Craft activities: for primary school age children</td>
       <td>Sunday</td>
       <td>1100-1445 </td>
@@ -1474,7 +1531,7 @@
     
     
     <tr>
-      <td><a href="/branches/oulton-broad-library/">Oulton Broad Library</a></td>
+      <td>Oulton Broad Library</td>
       <td>Family playtime for 0-4 year olds (term time only)</td>
       <td>Thursday</td>
       <td>1300-1430 </td>
@@ -1489,7 +1546,7 @@
     
     
     <tr>
-      <td><a href="/branches/rosehill-library/">Rosehill Library</a></td>
+      <td>Rosehill Library</td>
       <td>Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers</td>
       <td>Wednesday</td>
       <td>1415-1445 </td>
@@ -1498,7 +1555,7 @@
     
     
     <tr>
-      <td><a href="/branches/rosehill-library/">Rosehill Library</a></td>
+      <td>Rosehill Library</td>
       <td>Craft activities: for primary school age children</td>
       <td>Sunday</td>
       <td>1115-1300 </td>
@@ -1507,7 +1564,7 @@
     
     
     <tr>
-      <td><a href="/branches/rosehill-library/">Rosehill Library</a></td>
+      <td>Rosehill Library</td>
       <td>East Ipswich Children’s Centre: baby babble</td>
       <td>first, third and fifth Monday of the month</td>
       <td>1030-1130 </td>
@@ -1516,7 +1573,7 @@
     
     
     <tr>
-      <td><a href="/branches/rosehill-library/">Rosehill Library</a></td>
+      <td>Rosehill Library</td>
       <td>East Ipswich Children’s Centre: child health clinic</td>
       <td>second and fourth Monday of the month</td>
       <td>1000-1130 </td>
@@ -1525,7 +1582,7 @@
     
     
     <tr>
-      <td><a href="/branches/rosehill-library/">Rosehill Library</a></td>
+      <td>Rosehill Library</td>
       <td>East Ipswich Children’s Centre: drop-in for advice and support</td>
       <td>Monday</td>
       <td>1000-1500 </td>
@@ -1534,7 +1591,7 @@
     
     
     <tr>
-      <td><a href="/branches/rosehill-library/">Rosehill Library</a></td>
+      <td>Rosehill Library</td>
       <td>East Ipswich Children’s Centre: infant massage - book in advance</td>
       <td>Monday</td>
       <td>1315-1430 </td>
@@ -1553,7 +1610,7 @@
     
     
     <tr>
-      <td><a href="/branches/saxmundham-library/">Saxmundham Library</a></td>
+      <td>Saxmundham Library</td>
       <td>Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers (term time only)</td>
       <td>Tuesday</td>
       <td>0930-1000 </td>
@@ -1562,7 +1619,7 @@
     
     
     <tr>
-      <td><a href="/branches/saxmundham-library/">Saxmundham Library</a></td>
+      <td>Saxmundham Library</td>
       <td>Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers (term time only)</td>
       <td>Friday</td>
       <td>1030-1100 </td>
@@ -1573,7 +1630,7 @@
     
     
     <tr>
-      <td><a href="/branches/southwold-library/">Southwold Library</a></td>
+      <td>Southwold Library</td>
       <td>Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers</td>
       <td>Sunday</td>
       <td>1030-1100 </td>
@@ -1584,7 +1641,7 @@
     
     
     <tr>
-      <td><a href="/branches/southwold-library/">Southwold Library</a></td>
+      <td>Southwold Library</td>
       <td>Children’s fun group: crafts, games and puzzles for 7 to 12 year olds</td>
       <td>Sunday</td>
       <td>1215-1300 </td>
@@ -1603,7 +1660,7 @@
     
     
     <tr>
-      <td><a href="/branches/southwold-library/">Southwold Library</a></td>
+      <td>Southwold Library</td>
       <td>Storytime: stories, crafts and colouring for children under 7 years old</td>
       <td>Sunday</td>
       <td>1130-1215 </td>
@@ -1618,7 +1675,7 @@
     
     
     <tr>
-      <td><a href="/branches/stoke-library/">Stoke Library</a></td>
+      <td>Stoke Library</td>
       <td>Craft activities: for primary school age children</td>
       <td>Saturday</td>
       <td>0930-1230 </td>
@@ -1627,7 +1684,7 @@
     
     
     <tr>
-      <td><a href="/branches/stoke-library/">Stoke Library</a></td>
+      <td>Stoke Library</td>
       <td>Craft activities: for primary school age children</td>
       <td>Sunday</td>
       <td>1100-1300 </td>
@@ -1636,7 +1693,7 @@
     
     
     <tr>
-      <td><a href="/branches/stoke-library/">Stoke Library</a></td>
+      <td>Stoke Library</td>
       <td>Minecraft group for ages 8-13: bring your own devices</td>
       <td>Sunday</td>
       <td>1030-1130 </td>
@@ -1645,7 +1702,7 @@
     
     
     <tr>
-      <td><a href="/branches/stoke-library/">Stoke Library</a></td>
+      <td>Stoke Library</td>
       <td>Story rhymes and play for pre-school children</td>
       <td>Tuesday</td>
       <td>1000-1130 </td>
@@ -1656,7 +1713,7 @@
     
     
     <tr>
-      <td><a href="/branches/stowmarket-library/">Stowmarket Library</a></td>
+      <td>Stowmarket Library</td>
       <td>Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers</td>
       <td>Tuesday</td>
       <td>1415-1445 </td>
@@ -1665,7 +1722,7 @@
     
     
     <tr>
-      <td><a href="/branches/stowmarket-library/">Stowmarket Library</a></td>
+      <td>Stowmarket Library</td>
       <td>Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers</td>
       <td>Wednesday</td>
       <td>1415-1445 </td>
@@ -1674,7 +1731,7 @@
     
     
     <tr>
-      <td><a href="/branches/stowmarket-library/">Stowmarket Library</a></td>
+      <td>Stowmarket Library</td>
       <td>Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers</td>
       <td>Thursday</td>
       <td>1415-1445 </td>
@@ -1689,7 +1746,7 @@
     
     
     <tr>
-      <td><a href="/branches/stowmarket-library/">Stowmarket Library</a></td>
+      <td>Stowmarket Library</td>
       <td>Craft activities: for primary school age children</td>
       <td>Sunday</td>
       <td>1030-1130 </td>
@@ -1706,7 +1763,7 @@
     
     
     <tr>
-      <td><a href="/branches/stowmarket-library/">Stowmarket Library</a></td>
+      <td>Stowmarket Library</td>
       <td>Minecraft club: no tuition and bring your own devices</td>
       <td>Saturday</td>
       <td>1100-1200 </td>
@@ -1715,7 +1772,7 @@
     
     
     <tr>
-      <td><a href="/branches/stowmarket-library/">Stowmarket Library</a></td>
+      <td>Stowmarket Library</td>
       <td>Minecraft club: no tuition and bring your own devices</td>
       <td>Sunday</td>
       <td>1100-1200 </td>
@@ -1738,7 +1795,7 @@
     
     
     <tr>
-      <td><a href="/branches/sudbury-library/">Sudbury Library</a></td>
+      <td>Sudbury Library</td>
       <td>Craft activities: for primary school age children</td>
       <td>Sunday</td>
       <td>1030-1200 </td>
@@ -1751,7 +1808,7 @@
     
     
     <tr>
-      <td><a href="/branches/sudbury-library/">Sudbury Library</a></td>
+      <td>Sudbury Library</td>
       <td>Storytime: stories and rhymes for pre-school children</td>
       <td>Thursday</td>
       <td>0945-1015 </td>
@@ -1764,7 +1821,7 @@
     
     
     <tr>
-      <td><a href="/branches/thurston-library/">Thurston Library</a></td>
+      <td>Thurston Library</td>
       <td>Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers</td>
       <td>Tuesday</td>
       <td>0945-1045 </td>
@@ -1775,7 +1832,7 @@
     
     
     <tr>
-      <td><a href="/branches/thurston-library/">Thurston Library</a></td>
+      <td>Thurston Library</td>
       <td>Minecraft club for children: bring your own devices</td>
       <td>Tuesday</td>
       <td>1630-1730 </td>
@@ -1794,7 +1851,7 @@
     
     
     <tr>
-      <td><a href="/branches/wickham-market-library/">Wickham Market Library</a></td>
+      <td>Wickham Market Library</td>
       <td>Storytime: stories and rhymes for pre-school children</td>
       <td>Tuesday</td>
       <td>1100-1130 </td>
@@ -1809,7 +1866,7 @@
     
     
     <tr>
-      <td><a href="/branches/woodbridge-library/">Woodbridge Library</a></td>
+      <td>Woodbridge Library</td>
       <td>Baby Bounce: soothing songs and gentle nursery rhymes for babies</td>
       <td>Wednesday</td>
       <td>1030-1050 </td>
@@ -1832,7 +1889,7 @@
     
     
     <tr>
-      <td><a href="/branches/woodbridge-library/">Woodbridge Library</a></td>
+      <td>Woodbridge Library</td>
       <td>Kid’s Club craft activities: for primary school age children</td>
       <td>Sunday</td>
       <td>1030-1200 </td>
@@ -1849,7 +1906,7 @@
     
     
     <tr>
-      <td><a href="/branches/woodbridge-library/">Woodbridge Library</a></td>
+      <td>Woodbridge Library</td>
       <td>Story and Rhyme time: stories and more for pre-school</td>
       <td>Friday</td>
       <td>1030-1100 </td>
@@ -1862,7 +1919,7 @@
     
     
     <tr>
-      <td><a href="/branches/woodbridge-library/">Woodbridge Library</a></td>
+      <td>Woodbridge Library</td>
       <td>TinyTalk Baby Signing: musical baby signing classes to develop your baby’s communication skills – contact Sam on 07845230624 or samh@tinytalk.co.uk	</td>
       <td>Thursday</td>
       <td>0930-1030 </td>
@@ -1871,7 +1928,7 @@
     
     
     <tr>
-      <td><a href="/branches/woodbridge-library/">Woodbridge Library</a></td>
+      <td>Woodbridge Library</td>
       <td>Tot Rock: songs and action rhymes for toddlers</td>
       <td>Wednesday</td>
       <td>1115-1145 </td>
@@ -1882,7 +1939,18 @@
     
   </tbody>
 </table>
-
+<script>
+$('#search-table').dynatable({
+  features: {
+    paginate: false,
+    recordCount: false,
+    sorting: false
+  },
+  inputs: {
+    queries: $('#search-library')
+  }
+});
+</script>
 <h2>Outreach activities</h2>
 
 <table class="pure-table pure-table-bordered">

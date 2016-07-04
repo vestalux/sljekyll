@@ -2,26 +2,77 @@
 layout: full-width
 title: "Older people's activities"
 breadcrumb: events
+jquery: true
+dynatable: true
 ---
-<h2>Meetings for older people</h2>
 
 <p>We run groups for older people and their families and carers. You can just drop in for a chat or join theatre groups, do arts and crafts and find out about local history. We also offer advice and information.</p>
 
-<table class="pure-table pure-table-bordered">
-  <thead>
-    <tr>
-      <th>Library</th>
-      <th>Activity</th>
-      <th>Day</th>
-      <th>Times</th>
-    </tr>
-  </thead>
+<p class="mb0">Filter by library:</p>
+
+<select id="search-library" name="library">
+    <option></option>
+    <option>Aldeburgh Library</option>
+    <option>Beccles Library</option></option>
+    <option>Brandon Library</option>
+    <option>Broomhill Library</option>
+    <option>Bungay Library</option>
+    <option>Bury St Edmunds Library</option>
+    <option>Capel St Mary Library</option>
+    <option>Chantry Library</option>
+    <option>Clare Library</option>
+    <option>Debenham Library</option>
+    <option>Elmswell Library</option>
+    <option>Eye Library</option>
+    <option>Felixstowe Library</option>
+    <option>Framlingham Library</option>
+    <option>Gainsborough Community Library</option>
+    <option>Glemsford Library</option>
+    <option>Great Cornard Library</option>
+    <option>Hadleigh Library</option>
+    <option>Halesworth Library</option>
+    <option>Haverhill Library</option>
+    <option>Ipswich County Library</option>
+    <option>Ixworth Library</option>
+    <option>Kedington Library</option>
+    <option>Kesgrave Library</option>
+    <option>Kessingland Library</option>
+    <option>Lakenheath Library</option>
+    <option>Lavenham Library</option>
+    <option>Leiston Library</option>
+    <option>Long Melford Library</option>
+    <option>Lowestoft Library</option>
+    <option>Mildenhall Library</option>
+    <option>Needham Market Library</option>
+    <option>Newmarket Library</option>
+    <option>Oulton Broad Library</option>
+    <option>Rosehill Library</option>
+    <option>Saxmundham Library</option>
+    <option>Southwold Library</option>
+    <option>Stoke Library</option>
+    <option>Stowmarket Library</option>
+    <option>Stradbroke Library</option>
+    <option>Sudbury Library</option>
+    <option>Thurston Library</option>
+    <option>Wickham Market Library</option>
+    <option>Woodbridge Library</option>
+</select>
+
+<table id="search-table" class="pure-table pure-table-bordered">
+    <thead>
+      <tr>
+        <th data-dynatable-column="library">Library</th>
+        <th data-dynatable-column="activity">Activity</th>
+        <th data-dynatable-column="day">Day</th>
+        <th data-dynatable-column="times">Times</th>
+      </tr>
+    </thead>
   <tbody>
     {% assign recurrents = site.recurrents | sort: 'recurrent-location'%}
     {% for recurrent in recurrents %}
     {% if recurrent.recurrent-category == 'older' %}
     <tr>
-      <td><a href="{{ recurrent.recurrent-location-display-url }}">{{ recurrent.recurrent-location-display-name }}</a></td>
+      <td>{{ recurrent.recurrent-location-display-name }}</td>
       <td>{{ recurrent.recurrent-title }}</td>
       <td>{{ recurrent.recurrent-day }}</td>
       <td>{{ recurrent.recurrent-times }} </td>
@@ -30,6 +81,19 @@ breadcrumb: events
     {% endfor %}
   </tbody>
 </table>
+
+<script>
+$('#search-table').dynatable({
+  features: {
+    paginate: false,
+    recordCount: false,
+    sorting: false
+  },
+  inputs: {
+    queries: $('#search-library')
+  }
+});
+</script>
 
 <h2>Home Library Service reading groups</h2>
 
