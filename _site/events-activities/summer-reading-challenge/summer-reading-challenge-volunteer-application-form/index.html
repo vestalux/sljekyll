@@ -87,7 +87,7 @@
 
     <img class="ma0 pa0" src="/images/hero/hero-src.jpg" alt="A girl taking part in this year's challenge, The Big Friendly Read">
 
-    <figcaption class="absolute top-0 right-0 ma0 bg-near-black white f6 f5-ns"><p class="ph1 pv0 pa2-ns ma0">A girl taking part in this year's challenge, The Big Friendly Read</p></figcaption>
+    
 
 </figure>
 
@@ -142,7 +142,7 @@
  	<li><a href="/assets/pdf/src-volunteer-policy.pdf">Volunteer policy</a> (PDF)</li>
 </ul>
 
-<form class="pure-form pure-form-stacked" netlify="" name="summer-reading-challenge-volunteer" action="confirmation">
+<form class="pure-form pure-form-stacked" netlify="" netlify-honeypot="bot-field" name="summer-reading-challenge-volunteer" action="confirmation">
 
     <fieldset>
 
@@ -256,6 +256,8 @@
 
         <label>Tell us how you know the 2nd referee</label>
         <textarea name="referee-1-text" class="border-box w-100"></textarea>
+
+        <p class="dn"><label>Bot field: <input name="bot-field" /></label></p>
 
         <button type="submit" class="pure-button pure-button-primary">Submit</button>
 

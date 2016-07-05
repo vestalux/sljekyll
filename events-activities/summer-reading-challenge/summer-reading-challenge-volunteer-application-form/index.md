@@ -3,7 +3,6 @@ layout: sidebar-right
 title: Summer Reading Challenge 2016 volunteer application form
 hero-image: hero-src.jpg
 hero-alt: A girl taking part in this year's challenge, The Big Friendly Read
-hero-caption: A girl taking part in this year's challenge, The Big Friendly Read
 breadcrumb: summer-reading-challenge
 sidebar: summer-reading-challenge
 ---
@@ -16,7 +15,7 @@ Complete this form and we'll get back to you as soon as possible. We won't share
  	<li><a href="/assets/pdf/src-volunteer-policy.pdf">Volunteer policy</a> (PDF)</li>
 </ul>
 
-<form class="pure-form pure-form-stacked" netlify name="summer-reading-challenge-volunteer" action="confirmation">
+<form class="pure-form pure-form-stacked" netlify netlify-honeypot="bot-field" name="summer-reading-challenge-volunteer" action="confirmation">
 
     <fieldset>
 
@@ -130,6 +129,8 @@ Complete this form and we'll get back to you as soon as possible. We won't share
 
         <label>Tell us how you know the 2nd referee</label>
         <textarea name="referee-1-text" class="border-box w-100"></textarea>
+
+        <p class="dn"><label>Bot field: <input name="bot-field"></label></p>
 
         <button type="submit" class="pure-button pure-button-primary">Submit</button>
 
