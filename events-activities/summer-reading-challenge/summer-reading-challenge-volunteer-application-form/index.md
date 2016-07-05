@@ -15,12 +15,12 @@ Complete this form and we'll get back to you as soon as possible. We won't share
  	<li><a href="/assets/pdf/src-volunteer-policy.pdf">Volunteer policy</a> (PDF)</li>
 </ul>
 
-<form class="pure-form pure-form-stacked" netlify netlify-honeypot="bot-field" name="summer-reading-challenge-volunteer" action="confirmation">
+<form id="form" class="pure-form pure-form-stacked" data-parsley-validate netlify netlify-honeypot="bot-field" name="summer-reading-challenge-volunteer" action="confirmation">
 
     <fieldset>
 
-        <label>First name</label>
-        <input type="text" name="first-name">
+        <label>First name *</label>
+        <input type="text" name="first-name" required>
 
         <label>Last name</label>
         <input type="text" name="last-name">

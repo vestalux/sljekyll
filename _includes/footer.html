@@ -96,6 +96,14 @@
 
         </footer>
 
+        {% if page.parsley %}
+
+        <script>
+            $('#form').parsley();
+        </script>
+
+        {% endif %}
+
     </body>
 
 </html>
