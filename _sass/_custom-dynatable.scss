@@ -1,0 +1,23 @@
+@media screen, projection {
+
+    .custom-dynasearch-block .dynatable-search {
+        text-indent: -9999em;
+        display: block !important;
+        float: auto;
+        width: 100%;
+        margin-top: -1.5rem;
+    }
+
+    .custom-dynasearch-block .dynatable-search input {
+        text-indent: 0 !important;
+        display: block !important;
+        float: auto;
+        width: 75%;
+        box-sizing: border-box;
+    }
+
+    a.dynatable-sort-header {
+        text-decoration: none !important;
+    }
+
+}
