@@ -4,17 +4,6 @@ title: Branches
 breadcrumb: home
 ---
 
-<div class="constrain">
-
-    <iframe
-    style="border-style: none;"
-    src="branch-map/index.html"
-    width="992"
-    height="660" >
-    </iframe>
-
-</div>
-
 <table class="pure-table pure-table-bordered">
 
     <thead>
@@ -48,3 +37,9 @@ breadcrumb: home
     </tbody>
 
 </table>
+
+<div class="custom-constrain">
+
+    <iframe src="https://www.google.com/maps/d/embed?mid=19ACrpwlTRgf_EQgSMkvPOH1V7e0" width="760" height="570" frameborder="0" style="border: 0;"></iframe>
+
+</div>
