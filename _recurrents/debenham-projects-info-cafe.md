@@ -5,4 +5,5 @@ recurrent-times: 1400-1600
 recurrent-location: debenham-library
 recurrent-location-display-name: Debenham Library
 recurrent-location-display-url: /branches/debenham-library/
+recurrent-category: cafes-stalls
 ---

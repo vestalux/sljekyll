@@ -5,5 +5,5 @@ recurrent-times: 1000-1300
 recurrent-location: ixworth-library
 recurrent-location-display-name: Ixworth Library
 recurrent-location-display-url: /branches/ixworth-library/
-recurrent-category: arts-crafts
+recurrent-category: arts-crafts-games
 ---

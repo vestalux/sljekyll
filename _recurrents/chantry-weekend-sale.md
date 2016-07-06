@@ -5,4 +5,5 @@ recurrent-times: All day
 recurrent-location: chantry-library
 recurrent-location-display-name: Chantry Library
 recurrent-location-display-url: /branches/chantry-library/
+recurrent-category: cafes-stalls
 ---
