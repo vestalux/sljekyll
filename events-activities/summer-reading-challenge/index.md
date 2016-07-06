@@ -19,7 +19,7 @@ This year's challenge runs from 16 July until 3 September.
 
 Enter our free prize draw in any Suffolk library to win fantastic family prizes, including a Galloway family coach excursion to Cadbury's Chocolate World and tickets to the hit West End show <cite>Charlie and the Chocolate Factory</cite>.
 
-**[Find out more about our Golden Ticket prize draw →](/events-activities/summer-reading-challenge/gold-ticket-family-prize-draw)**
+**[Find out more about our Gold Ticket prize draw →](/events-activities/summer-reading-challenge/gold-ticket-family-prize-draw)**
 
 <div class="vid"><iframe src="https://www.youtube.com/embed/2SxwPtzl34I?rel=0&amp;controls=0&amp;showinfo=0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
