@@ -1,7 +1,7 @@
-{% for tags in page.tags %}
+{% for tag in page.tags %}
     <li class="dib mr1 mb2">
-        <span class="f6 f5-ns b db pa2 link dim dark-gray ba b--black-20">
-            {{ tags }}
-        </span>
+        <a href="/schools-literacy/literacy/tag/{{ tag | slugify }}/" class="f6 f5-ns b db pa2 link dim dark-gray ba b--black-20">
+            {{ tag | replace:'-', ' ' }}
+        </a>
     </li>
 {% endfor %}
