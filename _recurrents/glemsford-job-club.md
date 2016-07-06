@@ -5,4 +5,5 @@ recurrent-times: 1430-1530
 recurrent-location: glemsford-library
 recurrent-location-display-name: Glemsford Library
 recurrent-location-display-url: /branches/glemsford-library/
+recurrent-category: computer-courses
 ---
