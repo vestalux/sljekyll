@@ -5,4 +5,5 @@ recurrent-times: 1930-2030
 recurrent-location: bungay-library
 recurrent-location-display-name: Bungay Library
 recurrent-location-display-url: /branches/bungay-library/
+recurrent-category: reading-groups
 ---
