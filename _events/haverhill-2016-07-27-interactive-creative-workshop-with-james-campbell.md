@@ -3,7 +3,7 @@ id: july-27-event
 name: "Interactive & creative workshop with James Campbell"
 location: haverhill-library
 location-text: Haverhill Library
-event-start-date: 2016-08-11
+event-start-date: 2016-07-27
 event-start-time: 1400
 event-end-time: 1600
 breadcrumb: y

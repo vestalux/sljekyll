@@ -1,9 +1,9 @@
 ---
-id: september-10-event
+id: july-29-event
 name: "Quiz night"
 location: stowmarket-library
 location-text: Stowmarket Library
-event-start-date: 2016-09-10
+event-start-date: 2016-07-29
 event-start-time: 1930
 breadcrumb: y
 ---

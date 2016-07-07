@@ -13,22 +13,6 @@ sidebar: health
 
 <p><a href="/branches/">Select your local library to see what events are happening.</a></p>
 
-<h3>Regular health-based events</h3>
-{% assign health-check = false %}
-  {% assign recurrents = site.recurrents | sort: 'recurrent-category' %}
-    {% for recurrent in recurrents %}
-      {% if recurrent.recurrent-category == "health" %}
-        {% assign health-check = true %}
-          <article class="pb3">
-            <h1 class="f5 normal ma0 mb1 custom-lh-title">{{ recurrent.recurrent-title }}</h1>
-            <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
-          </article>
-      {% endif %}
-    {% endfor %}
-{% if health-check == false %}
-  <p class="{% include /c/page-meta.html %} mb3">No health events.</p>
-{% endif %}
-
 <h3>Upcoming health-based events</h3>
 {% assign special-event-check = false %}
   {% assign events = site.events | sort: 'event-start-date' %}
@@ -57,6 +41,22 @@ sidebar: health
     {% endfor %}
 {% if special-event-check == false %}
   <p class="{% include /c/page-meta.html %} mb3">No upcoming events.</p>
+{% endif %}
+
+<h3>Regular health-based events</h3>
+{% assign health-check = false %}
+  {% assign recurrents = site.recurrents | sort: 'recurrent-category' %}
+    {% for recurrent in recurrents %}
+      {% if recurrent.recurrent-category == "health" %}
+        {% assign health-check = true %}
+          <article class="pb3">
+            <h1 class="f5 normal ma0 mb1 custom-lh-title">{{ recurrent.recurrent-title }}</h1>
+            <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
+          </article>
+      {% endif %}
+    {% endfor %}
+{% if health-check == false %}
+  <p class="{% include /c/page-meta.html %} mb3">No health events.</p>
 {% endif %}
 
 <img src="/images/article/suffolk-family-carers.jpg" alt="Suffolk family carers" />

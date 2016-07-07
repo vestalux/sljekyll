@@ -3,7 +3,7 @@ id: july-29-event
 name: "Top time: Games morning"
 location: bury-st-edmunds-library
 location-text: Bury St Edmunds Library
-event-start-date: 2016-07-30
+event-start-date: 2016-07-29
 event-start-time: 1000
 event-end-time: 1200
 breadcrumb: y
