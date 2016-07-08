@@ -13,6 +13,8 @@ breadcrumb: y
 ---
 Enjoy tea and cake in the company of James Runcie, the author of the books which inspired TV’s nostalgic crime drama <cite>Grantchester</cite>.
 
+<img src="/images/article/bookfest-james-runcie-r.jpg" class="custom-br-50 {% include /c/img-float-right.html %}" />
+
 Attracting millions of viewers, <cite>Grantchester</cite> saw actors James Norton and Robson Green playing the priest-detective Sidney Chambers and police officer Geordie as they tackled crime in 1960s Cambridge.
 
 The hit tv drama which is due for a third series in early 2017, has drawn on the ideas and characters devised by James Runcie.
@@ -27,13 +29,12 @@ The stories are beautifully written, funny at times and moving at others. They a
 
 From 3pm we'll serve tea and homemade cake, provided by the Friends of Lavenham Library, before listening to entertaining conversation with this charming, amusing and fascinating author. At 4.30pm the afternoon will conclude with booksigning. You won’t want to miss it!
 
+<img src="/images/article/james-runcie-sidney-chambers-and-the-shadow-of-death.jpg" alt="Sidney Chambers and The Shadow of Death by James Runcie" class="{% include /c/img-float-left.html %}" />
 
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2016/06/james-runcie-sidney-chambers-and-the-shadow-of-death.jpg" alt="Sidney Chambers and The Shadow of Death by James Runcie" />
+<img src="/images/article/james-runcie-and-the-perils-of-the-night.jpg" alt="Sidney Chambers and The Perils of the Night" class="{% include /c/img-float-left.html %}" />
 
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2016/06/james-runcie-and-the-perils-of-the-night.jpg" alt="Sidney Chambers and The Perils of the Night" />
+<img src="/images/article/james-runcie-sidney-chambers-and-the-problem-of-evil.jpg" alt="Sidney Chambers and The Problem of Evil by James Runcie" class="{% include /c/img-float-left.html %}" />
 
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2016/06/james-runcie-sidney-chambers-and-the-problem-of-evil.jpg" alt="Sidney Chambers and The Problem of Evil by James Runcie" class="alignnone" />
+<img src="/images/article/james-runcie-sidney-chambers-and-the-forgiveness-of-sins.jpg" alt="Sidney Chambers and The Forgiveness of Sins by James Runcie" class="{% include /c/img-float-left.html %}" />
 
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2016/06/james-runcie-sidney-chambers-and-the-forgiveness-of-sins.jpg" alt="Sidney Chambers and The Forgiveness of Sins by James Runcie" class="alignnone" />
-
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2016/06/james-runcie-sidney-chambers-and-the-dangers-of-temptation.jpg" alt="Sidney Chambers and The Dangers of Temptation by James Runcie" class="alignnone" />
+<img src="/images/article/james-runcie-sidney-chambers-and-the-dangers-of-temptation.jpg" alt="Sidney Chambers and The Dangers of Temptation by James Runcie" class="{% include /c/img-float-left.html %}" />
