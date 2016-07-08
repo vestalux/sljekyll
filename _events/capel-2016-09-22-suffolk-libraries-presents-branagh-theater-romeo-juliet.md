@@ -1,6 +1,6 @@
 ---
 id: september-22-event
-name: "Suffolk Libraries Presents: Branagh Theater <cite>Romeo & Juliet</cite>"
+name: "Suffolk Libraries Presents: Branagh Theatre <cite>Romeo & Juliet</cite>"
 location: capel-st-mary-library
 location-text: Capel St Mary Library
 event-start-date: 2016-09-22
