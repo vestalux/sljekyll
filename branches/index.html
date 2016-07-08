@@ -1,12 +1,13 @@
 ---
-layout: full-width
+layout: sidebar-right
 title: Branches
 breadcrumb: home
+sidebar: branches
 ---
 
 <div class="custom-constrain">
 
-    <iframe src="/branches/branch-map/" width="1000" height="900" frameborder="0" style="border: 0;"></iframe>
+    <iframe src="http://slmembers.org/branch-map/" width="1000" height="750" frameborder="0" style="border: 0;"></iframe>
 
 </div>
 
@@ -18,7 +19,7 @@ breadcrumb: home
 
         <p class="{% include /c/page-meta.html %} mb0">{{ branch.address }} &middot; {{ branch.phone }}</a></p>
 
-        {% if branch.room-hire-text %}<p class="{% include /c/page-meta.html %} mt0">Room hire: <a href="{{ branch.room-hire-url }}">{{ branch.room-hire-text}}</p>{% endif %}
+        {% if branch.room-hire-text %}<p class="{% include /c/page-meta.html %} mt0">Room hire: <a href="{{ branch.room-hire-url }}">{{ branch.room-hire-text}}</a></p>{% endif %}
 
     </article>
 
