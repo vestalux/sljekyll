@@ -1,9 +1,29 @@
 @media screen, projection {
 
+    input#dynatable-query-search-mobiles-table {
+        padding-top: 0.125rem;
+        padding-bottom: 0.125rem;
+        font-size: 1.25rem;
+    } /* Monstrous CSS, not my fault */
+
+    #search-library {
+        margin-bottom: 0.25rem;
+    }
+
+    .dynatable-search {
+        float: none !important;
+        clear: both;
+        margin-bottom: 0.25rem;
+        @media (min-width: 40em) {
+            float: right !important;
+            clear: auto;
+        }
+    }
+
     .custom-dynasearch-block .dynatable-search {
         text-indent: -9999em;
         display: block !important;
-        float: auto;
+        float: none;
         width: 100%;
         margin-top: -1.5rem;
     }
