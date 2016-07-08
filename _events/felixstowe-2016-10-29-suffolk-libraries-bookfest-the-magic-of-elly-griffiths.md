@@ -11,13 +11,15 @@ event-category: bookfest
 hnav: bookfest
 breadcrumb: y
 ---
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2016/06/blood-card.jpg" alt="The Blood Card" class="{% include /c/img-float-left.html %}" />
+<img src="/images/article/elly-griffiths-the-blood-card.jpg" alt="The Blood Card" class="{% include /c/img-float-left.html %}" />
 
 If you thought crime was a dark and sinister subject, think again. Elly Griffiths is warm, funny, charming and very entertaining, and this special event to launch her new book is not to be missed.
 
 <cite>The Blood Card</cite> is the third in the Stephens and Mephisto series of books. These mysteries are all set around magicians performing on the south coast in the 1950s, uncovering secrets, lies and crimes.
 
 Elly's publisher has brought forward the release of this title, so that it could be launched in our Bookfest at Felixstowe Library and we've put together a very special evening to mark the occasion.
+
+<img src="/images/article/bookfest-elly-griffiths-r.jpg" class="custom-br-50 {% include /c/img-float-right.html %}" />
 
 There will be a 50s theme to the proceedings, and we have enlisted the help of local magician Mr Bean to show us some intriguing tricks and sleight of hand, themed round Elly’s characters and the world of books.
 

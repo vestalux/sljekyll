@@ -11,6 +11,8 @@ event-category: bookfest
 hnav: bookfest
 breadcrumb: y
 ---
+<img src="/images/article/bookfest-liz-lochhead-r.jpg" class="custom-br-50 {% include /c/img-float-right.html %}" />
+
 We’ll be transforming Woodbridge Library into a Poetry Cafe for this very special evening with the remarkable poet Liz Lochhead.
 
 Join us any time from 7pm. Buy a drink, find a table and listen to local musicians, before we are treated to a reading from Liz at 7.30pm.
@@ -21,8 +23,10 @@ Tickets &pound;8.
 
 It will be a memorable occasion, and more details will follow very soon!
 
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2016/06/liz-lochhead-a-choosing-selected-poems.jpg" alt="A Choosing Selected Poems by Liz Lochhead" class="alignnone" />
+<img src="/images/article/liz-lochhead-a-choosing-selected-poems.jpg" alt="A Choosing Selected Poems by Liz Lochhead" class="{% include /c/img-float-left.html %}" />
 
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2016/06/liz-lochhead-fugitive-colours.jpg" alt="Fugitive Colours by Liz Lochhead" class="alignnone" />
+<img src="/images/article/liz-lochhead-fugitive-colours.jpg" alt="Fugitive Colours by Liz Lochhead" class="{% include /c/img-float-left.html %}" />
 
-<img src="http://suffolklibraries.co.uk/wp-content/uploads/2016/06/liz-lochhead-the-colour-of-black-and-white.jpg" alt="The Colour of Black and White by Liz Lochhead" class="alignnone" />
+<img src="/images/article/liz-lochhead-the-colour-of-black-and-white.jpg" alt="The Colour of Black and White by Liz Lochhead" class="{% include /c/img-float-left.html %}" />
+
+<img src="/images/article/tiffany-atkinson-so-many-moving-parts.jpg" alt="So Many Moving Parts by Tiffany Atkinson" class="{% include /c/img-float-left.html %}" />

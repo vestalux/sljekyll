@@ -19,6 +19,8 @@ Tickets £6 with refreshments for sale on arrival.
 
 Gavin Extence is the author of three stunning novels which are simultaneously funny and compelling as well as thought-provoking and challenging. He tackles potentially difficult and sometimes troubling subjects with a lightness and warmth, wit and humour.
 
+<img src="/images/article/bookfest-gavin-extence-r.jpg" class="custom-br-50 {% include /c/img-float-right.html %}" />
+
 In his debut novel <cite>The Universe Versus Alex Woods</cite>, we meet a teenage science nerd called Alex as he befriends a Vietnam veteran. In a freak accident as a child, Alex was struck by a meteorite. Though he survived, he was forever changed by the experience and develops severe epilepsy.
 
 Next came <cite>The Mirror World of Melody Black</cite>, the story of a young woman carving out a career in journalism. Something sets her apart from everyone else, and it becomes clear this is the thing that could destroy her. It’s a clever, funny and poignant account of what it’s like to live with bipolar disorder.
