@@ -14,19 +14,43 @@
 
         <div class="custom-g-r4">
 
-            <div class="{% include /c/content-box.html %}">
+            <article>
 
-                {% include breadcrumb.html %}
+                <div class="{% include /c/content-box.html %}">
 
-                <h1 class="{% include /c/page-title.html %}}">{{ page.title }}</h1>
+                    {% include breadcrumb.html %}
 
-                <div class="{% include /c/prose.html %}">
+                    <header>
 
-                    {{ content }}
+                        <h1 class="{% include /c/page-title.html %}}">{{ page.title }}</h1>
+
+                        {% if page.category %}
+
+                            {% include post-meta.html %}
+
+                        {% endif %}
+
+                    </header>
+
+                    <div class="{% include /c/prose.html %}">
+
+                        {{ content }}
+
+                    <footer>
+
+                        {% if page.category == 'literacy' %}
+
+                            {% include tag-listing.html %}
+
+                        {% endif %}
+
+                    </footer>
+
+                    </div>
 
                 </div>
 
-            </div>
+            </article>
 
         </div>
 
