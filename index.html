@@ -189,11 +189,11 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
     </section>
 
-    <section class="pb2">
+    <section class="pb3 pb4-ns">
 
         <h1 class="f4 f3-ns pa0 ma0 mb2 pt2 pb2 bb b--light-gray">More</h1>
 
-            <ul class="list ma0 pa0 f5">
+            <ul class="list ma0 mb2 pa0 f5">
 
                 <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="/music-and-drama" class="blue link">Music &amp; Drama Library</a></li>
                 <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="/special-collections" class="blue link">Special collections</a></li>
@@ -205,3 +205,29 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
      </section>
 
 </nav>
+
+{% assign featured_pages = (site.pages|where:"featured","true") %}
+
+{% for post in featured_pages limit:1 %}
+
+    <article class="cf mv2 mv3-ns mt4-ns pt2 pt3-ns bt b--light-gray">
+
+        <div class="custom-g-l3">
+
+            <h1 class="f4 f3-ns pa0 ma0 mb2">{{ post.title }}</h1>
+
+            <p class="ma0 mb3">{{ post.featured-excerpt }}</p>
+
+            <p class="b"><a class="blue" href="{{ post.url }}">Find out more about {{ post.featured-link-text }}&rarr;</a></p>
+
+        </div>
+
+        <div class="custom-g-l3 custom-g-nm">
+
+            <a class="white" href="{{ post.url }}"><img src="{{ post.featured-image }}" alt="{{ post.featured-alt }}"></a>
+
+        </div>
+
+    </article>
+
+{% endfor %}
