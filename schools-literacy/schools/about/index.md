@@ -10,4 +10,4 @@ Our advisory librarians have over 80 years experience and provide advice and sup
 
 We provide better value and more choice for schools by providing a menu based service so schools have the freedom to buy only what they need. You can also opt for a cheaper and more flexible seIf-service option which enables teachers or school staff to choose and borrow books from their nearest library.
 
-For more info call **01473 263800** or email **schools@suffolklibraries.co.uk** for an informal discussion about the service.
+For more info call **01502 512816** or email **schools@suffolklibraries.co.uk** for an informal discussion about the service.
