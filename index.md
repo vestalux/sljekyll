@@ -57,9 +57,9 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
                 <section class="{% include /c/block.html %}">
 
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/information-resources">Research, study &amp; leisure resources</a></h1>
+                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/help">Help using the service</a></h1>
 
-                    <p class="{% include /c/block-graf.html %}">Free access to Ancestry, Find my Past &amp; other information resources</p>
+                    <p class="{% include /c/block-graf.html %}">Finding &amp; reserving, charges &amp; fines, using our computers</p>
 
                 </section>
 
@@ -97,9 +97,9 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
                 <section class="{% include /c/block.html %}">
 
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/health">Mental health &amp; wellbeing</a></h1>
+                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/information-resources">Research, study &amp; leisure resources</a></h1>
 
-                    <p class="{% include /c/block-graf.html %}">Books on Prescription, wellbeing resources, events &amp; a blog</p>
+                    <p class="{% include /c/block-graf.html %}">Free access to Ancestry, Find my Past &amp; other information resources</p>
 
                 </section>
 
@@ -121,9 +121,9 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
                 <section class="{% include /c/block.html %}">
 
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/branches/hub">Ipswich Enterprise + Business Hub</a></h1>
+                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/health">Mental health &amp; wellbeing</a></h1>
 
-                    <p class="{% include /c/block-graf.html %}">Book a meeting space or desk, create with 3D printers and sewing machines</p>
+                    <p class="{% include /c/block-graf.html %}">Books on Prescription, wellbeing resources, events &amp; a blog</p>
 
                 </section>
 
@@ -173,13 +173,13 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
         <div class="cf">
 
-            <div class="custom-g-l2">
+            <div class="custom-g-l2 custom-g-nm">
 
                 <section class="{% include /c/block.html %}">
 
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/help">Help using the service</a></h1>
+                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/branches/hub">Ipswich Enterprise + Business Hub</a></h1>
 
-                    <p class="{% include /c/block-graf.html %}">Finding &amp; reserving, charges &amp; fines, using our computers</p>
+                    <p class="{% include /c/block-graf.html %}">Book a meeting space or desk, create with 3D printers and sewing machines</p>
 
                 </section>
 

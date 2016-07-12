@@ -13,9 +13,9 @@ breadcrumb: home
 
             <section class="{% include /c/block.html %}">
 
-                <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/children">Children</a></h1>
+                <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/children">Regular children&#8217;s activities</a></h1>
 
-                <p class="{% include /c/block-graf.html %}">Songs, stories &amp; crafts for toddlers, pre&#8211;school &amp; primary age.</p>
+                <p class="{% include /c/block-graf.html %}">Songs, stories &amp; crafts, Minecraft, reading &amp; writing groups for toddlers, pre&#8211;school &amp; primary age.</p>
 
             </section>
 
@@ -25,7 +25,7 @@ breadcrumb: home
 
             <section class="{% include /c/block.html %}">
 
-                <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/older">Older people</a></h1>
+                <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/older">Regular older people&#8217;s activities</a></h1>
 
                 <p class="{% include /c/block-graf.html %}">Coffee groups, history, arts &amp; crafts for older people and their carers.</p>
 
@@ -37,9 +37,9 @@ breadcrumb: home
 
             <section class="{% include /c/block.html %}">
 
-                <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/reading-groups">Reading groups</a></h1>
+                <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/upcoming/">Special events</a></h1>
 
-                <p class="{% include /c/block-graf.html %}">Join a library group and find out about setting up your own.</p>
+                <p class="{% include /c/block-graf.html %}">A list of all special events for all ages.</p>
 
             </section>
 
@@ -133,9 +133,9 @@ breadcrumb: home
 
             <section class="{% include /c/block.html %}">
 
-                <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/upcoming/">What's on</a></h1>
+                <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/reading-groups">Reading groups</a></h1>
 
-                <p class="{% include /c/block-graf.html %}">A list of all special events taking place in Suffolk's libraries.</p>
+                <p class="{% include /c/block-graf.html %}">Join a library group and find out about setting up your own.</p>
 
             </section>
 
