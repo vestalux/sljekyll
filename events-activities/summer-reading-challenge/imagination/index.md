@@ -20,4 +20,16 @@ You can share your art and ideas with other young people on [the ImagiNation blo
 
 Hand in your completed log book at your local library by Saturday 3rd September 2016 to claim your reward!
 
-ImagiNation runs between Saturday 16th July and Saturday 3rd September 2016.
+ImagiNation runs between Saturday 16 July and Saturday 3 September 2016.
+
+### ImagiNation sessions
+
+To help young people complete their ImagiNation booklets, we will also be holding ImagiNation sessions in some of our libraries over the summer holidays. Our [Literacy Ambassador](/schools-literacy/literacy) will be running activities for young people aged 11 to 18 including; an introduction to Raspberry Pi coding using our Kano kits, creating blackout poetry, making bookish Top Trumps and other fun literacy activities.
+
+ImagiNation sessions be take place in the following libraries:
+
+* [Newmarket Library](/branches/newmarket-library) on Thursday 4 August, 10am to 3pm
+* [Halesworth Library](/branches/halesworth-library) on Wednesday 10 August, 1pm to 4pm
+* [Chantry Library](/branches/chantry-library) on Thursday 11 August, 1pm to 5pm
+* [Gainsborough Community Library](/branches/gainsborough-community-library) on Wednesday 17 August, 10am to 3pm
+* [Great Cornard Library](/branches/great-cornard-library) on Thursday 18 August, 2pm to 5pm

@@ -8,7 +8,7 @@ breadcrumb: home
 
 <div class="mb3 mb4-ns cf pa2 pa3-ns bg-light-gray">
 
-    <p class="ma0"><span class="b">Download and stream eBooks, eAudio, MP3s and magazines for free.</span> All you need is a library card. If you don't have one, <a class="blue" href="/help/joining-the-library/">apply for a card now &rarr;</a></p>
+    <p class="ma0"><span class="b">Download and stream eBooks, eAudio, MP3s and magazines for free</span> using your library card. If you don't have a card, <a class="blue" href="/help/joining-the-library/">apply for a card now &rarr;</a></p>
 
 </div>
 
@@ -20,7 +20,7 @@ breadcrumb: home
 
             <h1 class="{% include /c/block-title.html %}">Overdrive eBooks &amp; eAudio</h1>
 
-            <img src="/images/card/overdrive.jpg" alt="Screenshot of the OverDrive website">
+            <a class="white" href="/elibrary/overdrive"><img src="/images/card/overdrive.jpg" alt="Screenshot of the OverDrive website"></a>
 
             <p class="{% include /c/block-graf.html %}">Choose from a large range of eBooks and eAudio. Use the OverDrive website with your library card, or download apps for Android and iOS.</p>
 
@@ -41,7 +41,7 @@ breadcrumb: home
 
             <h1 class="{% include /c/block-title.html %}">3M Cloud Library eBooks</h1>
 
-            <img src="/images/card/3m.jpg" alt="Screenshot of the 3M website">
+            <a class="white" href="/elibrary/3m"><img src="/images/card/3m.jpg" alt="Screenshot of the 3M website"></a>
 
             <p class="{% include /c/block-graf.html %}">Choose from hundreds of high quality eBooks. Use the 3M website with your library card, or download apps for Android and iOS.</p>
 
@@ -62,7 +62,7 @@ breadcrumb: home
 
             <h1 class="{% include /c/block-title.html %}">BorrowBox eAudio</h1>
 
-            <img src="/images/card/borrowbox.jpg" alt="Screenshot of the BorrowBox website">
+            <a class="white" href="/elibrary/borrowbox"><img src="/images/card/borrowbox.jpg" alt="Screenshot of the BorrowBox website"></a>
 
             <p class="{% include /c/block-graf.html %}">Choose from a wide range of eAudio books. Use the OverDrive website with your library card, or download apps for Android and iOS.</p>
 
@@ -87,7 +87,7 @@ breadcrumb: home
 
             <h1 class="{% include /c/block-title.html %}">Zinio magazines</h1>
 
-            <img src="/images/card/zinio.jpg" alt="Screenshot of the Zinio website">
+            <a class="white" href="/elibrary/zinio"><img src="/images/card/zinio.jpg" alt="Screenshot of the Zinio website"></a>
 
             <p class="{% include /c/block-graf.html %}">Download titles like <cite>Top Gear Magazine</cite> and <cite>Good Food</cite> to your device to keep forever. Use the Zinio website with your library card, or download apps for Android and iOS.</p>
 
@@ -108,7 +108,7 @@ breadcrumb: home
 
             <h1 class="{% include /c/block-title.html %}">Freegal music</h1>
 
-            <img src="/images/card/freegal.jpg" alt="Screenshot of the Freegal website">
+            <a class="white" href="/elibrary/freegal"><img src="/images/card/freegal.jpg" alt="Screenshot of the Freegal website"></a>
 
             <p class="{% include /c/block-graf.html %}">Download or stream from a choice of hundreds of thousands of songs, including the entire Sony back catalogue. Use the Freegal website with your library card, or download apps for Android and iOS.</p>
 

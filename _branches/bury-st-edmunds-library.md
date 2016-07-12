@@ -2,6 +2,7 @@
 branch-unique-id: bury-st-edmunds-library
 branch-name: Bury St Edmunds Library
 branch-image: /images/branches/bury-library.jpg
+branch-news: "From 23 July, the desk for the Summer Reading Challenge will be open every day at the following times: Mon-Sat: 10am-12pm, 2-4pm and Sun: 10:30am-12pm"
 branch-monday-hours: 0830 – 1730
 branch-tuesday-hours:	0830 – 1930
 branch-wednesday-hours: 0830 – 1730
