@@ -20,4 +20,4 @@ To use any of our online services you will also need a PIN. If you do not know y
 
 ## Replacing a library card
 
-You can update your record and get a replacement library card by taking proof of identification into any Suffolk library. **There is a charge** for a replacement library card. [See the list of charges](/help/charges/ "Charges and what you can borrow").
+You can update your record and get a replacement library card by taking proof of identification into any Suffolk library. **There is a &pound;1.50 charge** for a replacement library card.

@@ -4,17 +4,16 @@ title: Find, reserve and borrow books, music and film
 breadcrumb: help
 sidebar: help
 ---
-## Quick links:
 
-  * [Search for and reserve print books, audio, CDs and DVDs](https://suffolk.spydus.co.uk/)
-  * [Search for eBooks](http://suffolklibraries.lib.overdrive.com/)
-  * [Search for MP3s and downloads](http://suffolklibraries.freegalmusic.com/)
-  * [Search for eAudio](https://fe.bolindadigital.com/wldcs_bol_fo/b2i/mainPage.html?b2bSite=4172)
-  * [Our fiction, non–fiction, children&#8217;s books, film DVD and music lists](/new-suggestions "Book, music and film lists")
+## Print books, audiobooks, CDs and DVDs
 
-## Print books, CDs and DVDs
+**We don&#8217;t charge for reservations**, unless you&#8217;re making an [interlibrary loan](/help/reservations/requests/inter-library-loans/).
 
-Please note: **We don&#8217;t charge for reservations**, unless you&#8217;re making an interlibrary loan.
+You can reserve a title by:
+
+- asking in a [branch](/branches)
+- calling 01473 351242
+- using our online catalogue
 
 ### Finding and reserving online
 
@@ -56,12 +55,13 @@ Reservations take about a week to arrive, but we can&#8217;t guarantee this.
 
 ## eBooks, MP3s or eAudio books
 
-See our [guides to using our eLibrary services](/help/using-our-elibrary-service) for instructions on finding, borrowing and renewing eBooks or eAudio books.
+See our [guides to using our eLibrary services](/elibrary) for instructions on finding, borrowing and renewing eBooks or eAudio books.
 
-When you [‘borrow’ an MP3 or eAudio book](/elibrary/) from us you simply download it to your device.
+When you [‘borrow’ an eBook, MP3 or eAudio book](/elibrary/) from us you simply download it to your device.
 
 ## Further links
 
 * [Guide to using the online catalogue](/help/using-our-online-catalogue/)
-* [Reservation and overdue charges](/help/charges/)
-* [Guide to using our eLibrary service](/help/using-our-elibrary-service/)
+* [Overdue charges](/help/book-cd-audiobook-game-dvd-borrowing-overdues/)
+* [Guide to our eLibrary services](/elibrary/)
+* [Our fiction, non–fiction, children&#8217;s books, film DVD and music lists](/new-suggestions "Book, music and film lists")

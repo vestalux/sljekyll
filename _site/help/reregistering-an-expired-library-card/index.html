@@ -128,20 +128,18 @@
                     <div class="custom-lh-copy custom-hyphens custom-prose
 ">
 
-                        <p>Your library card membership expires automatically after 3 years. This helps us keep our data up to date.</p>
+                        <p>Your library card membership expires automatically after 3 years. This helps us keep your information up to date.</p>
 
-<p>You won’t be able to use our services when this happens.</p>
+<p>You can continue to use our services when this happens, but confirming your details will help us provide a better service.</p>
 
-<h1>Renewing your library card</h1>
-
-<form class="pure-form pure-form-stacked" netlify="" name="re-register-library-card" action="confirmation">
+<form class="pure-form pure-form-stacked" netlify name="re-register-library-card" action="confirmation" netlify-honeypot="bot-field">
 
     <fieldset>
 
-        <label>Name</label>
-        <input type="text" name="name" />
+        <label class="f5 pt2">Name</label>
+        <input type="text" name="name">
 
-        <label>Title</label>
+        <label class="f5 pt2">Title</label>
         <select name="title">
           <option value="miss">Miss</option>
           <option value="mr">Mr</option>
@@ -150,17 +148,17 @@
           <option value="other">Other</option>
         </select>
 
-        <label>Please specify title if you selected 'other'</label>
-        <input type="text" name="other-title" />
+        <label class="f5 pt2">Please specify title if you selected 'other'</label>
+        <input type="text" name="other-title">
 
         <h2>Library card number (with no spaces)</h2>
 
-        <label>This is the number across the middle of your library card. It begins 20127.</label>
-        <input type="text" name="age" maxlength="14" />
+        <label class="f5 pt2">This is the number across the middle of your library card. It begins 20127.</label>
+        <input type="text" name="age" maxlength="14">
 
-        <h1>Date of birth</h1>
+        <h2>Date of birth</h2>
 
-        <label>Day</label>
+        <label class="f5 pt2">Day</label>
         <select name="day">
           <option value="1">1</option>
           <option value="2">2</option>
@@ -195,7 +193,7 @@
           <option value="31">31</option>
         </select>
 
-        <label>Month</label>
+        <label class="f5 pt2">Month</label>
         <select name="month">
           <option value="january">January</option>
           <option value="february">February</option>
@@ -211,31 +209,33 @@
           <option value="december">December</option>
         </select>
 
-        <label>Year (XXXX, e.g. 1945, 2004)</label>
-        <input type="text" name="year" maxlength="4" />
+        <label class="f5 pt2">Year (XXXX, e.g. 1945, 2004)</label>
+        <input type="text" name="year" maxlength="4">
 
-        <label>Email</label>
-        <input type="email" name="email" />
+        <label class="f5 pt2">Email</label>
+        <input type="email" name="email">
 
-        <label>Address</label>
+        <label class="f5 pt2">Address</label>
         <textarea name="address" class="border-box w-100"></textarea>
 
-        <label>Postcode</label>
-        <input type="text" name="postcode" />
+        <label class="f5 pt2">Postcode</label>
+        <input type="text" name="postcode">
 
-        <label>Phone number</label>
-        <input type="tel" name="phone" maxlength="11" />
+        <label class="f5 pt2">Phone number</label>
+        <input type="tel" name="phone" maxlength="11">
 
-        <label>Any further information</label>
+        <label class="f5 pt2">Any further information</label>
         <textarea name="further-info" class="border-box w-100"></textarea>
 
-        <label>Receive our monthly email newsletter? <input type="checkbox" id="newsletter" value="yes" /></label>
+        <label class="f5 pt2">Receive our monthly email newsletter? <input type="checkbox" id="newsletter" value="yes"></label>
 
-        <small>We can send you a monthly email with our latest books, films, DVDs and music. We don't share your email with anyone else and you can unsubscribe at any time.</small><br />
+        <p class="mt0 custom-lh-title"><small>We can send you a monthly email with our latest books, films, DVDs and music. We don't share your email with anyone else and you can unsubscribe at any time.</small></p>
+
+        <p class="dn"><input name="bot-field"></p>
 
         <button type="submit" class="pure-button pure-button-primary">Submit</button>
 
-
+</form>
 
 <p>Alternatively, you can:</p>
 
@@ -247,7 +247,6 @@
 You won’t need to apply for a new library card to re–register.
 
 If you are new to Suffolk Libraries, you can <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/JOIN">apply for a new library card</a>.
-</fieldset></form>
 
 
                     <footer>
