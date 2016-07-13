@@ -5,26 +5,26 @@ breadcrumb: help
 sidebar: help
 ---
 
-Suggest a book, film or music for us to stock.
+<p>Suggest a book, film or music for us to stock.</p>
 
-[Search our catalogue](http://suffolk.spydus.co.uk).
+<p>Have you <a href="http://suffolk.spydus.co.uk">searched our catalogue</a> first? We may well have the title already.</p>
 
-We act on most suggestions, but cannot guarantee to purchase every title.
+<p>We act on most suggestions, but cannot guarantee to purchase every title.</p>
 
-We'll get back to you with a decision as soon as possible.
+<p>We'll get back to you with a decision as soon as possible.</p>
 
-<form class="pure-form pure-form-stacked" netlify name="suggest" action="confirmation">
+<form class="pure-form pure-form-stacked" netlify name="suggest" action="confirmation" netlify-honeypot="bot-field">
 
     <fieldset>
 
-        <label>Your name</label>
-        <input type="text" name="name">
+        <label class="f5 mt2 db">Your name</label>
+        <input type="text" name="name" class="border-box w-100 mb2">
 
-        <label>Your email</label>
-        <input type="email" name="email">
+        <label class="f5 mt2 db">Your email <span class="red">*</span></label>
+        <input type="email" required name="email" class="border-box w-100 mb2">
 
-        <label>Your local library</label>
-        <select name="library">
+        <label class="f5 mt2 db">Your local library</label>
+        <select name="library" class="mb2">
           <option value="aldeburgh">Aldeburgh</option>
           <option value="beccles">Beccles</option>
           <option value="brandon">Brandon</option>
@@ -72,9 +72,13 @@ We'll get back to you with a decision as soon as possible.
           <option value="woodbridge">Woodbridge</option>
         </select>
 
-        <label>Your suggestion</label>
-        <textarea name="message" class="border-box w-100"></textarea>
+        <label class="f5 mt2 db">Your suggestion <span class="red">*</span></label>
+        <textarea name="message" required class="border-box w-100 mb2"></textarea>
 
-        <button type="submit" class="pure-button pure-button-primary">Send your suggestion</button>
+    </fieldset>
+
+    <p class="dn"><input name="bot-field"></p>
+
+    <button type="submit" class="pure-button pure-button-primary">Send your suggestion</button>
 
 </form>
