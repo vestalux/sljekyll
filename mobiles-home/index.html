@@ -3,8 +3,6 @@ layout: sidebar-right
 title: Mobile libraries and home library service
 breadcrumb: home
 sidebar: mobile-home
-jquery: true
-dynatable: true
 ---
 <div class="{% include /c/generic-panel.html %}">
 
@@ -12,9 +10,7 @@ dynatable: true
 
 </div>
 
-<h2>All mobile library stops</h2>
-
-<!-- <p>Find your village or town and see when the mobile library visits you:</p>
+<h2 id="top">All mobile library stops</h2>
 
 <ul class="list ma0 pa0 mv2">
 
@@ -40,13 +36,11 @@ dynatable: true
 	<li class="dib mr2 mb4"><a class="pa2 ph3 bg-light-gray blue" href="#Wmobiles">W</a></li>
 	<li class="dib mr2 mb4"><a class="pa2 ph3 bg-light-gray blue" href="#Ymobiles">Y</a></li>
 
-</ul> -->
+</ul>
 
 <div class="custom-dynasearch-block">
 
-	<p class="ma0 f5">Type a village or town and press <strong><span class="green">enter</span></strong> to see when the mobile library visits. Go <strong><span class="green">back</span></strong> to clear your search:</p>
-
-	<table id="mobiles-table" class="pure-table pure-table-bordered">
+	<table id="mobiles-table" class="pure-table pure-table-bordered mt3">
 	<thead>
 	<tr>
 	<th data-dynatable-column="location" data-dynatable-no-sort>Town village name</th>
@@ -55,7 +49,7 @@ dynatable: true
 	</thead>
 	<tbody>
 	<tr>
-	<td id="Amobiles"><strong>A</strong></td>
+	<td id="Amobiles"><strong>A</strong> (<a href="#top">Back to top &uarr;</a>)</td>
 	<td></td>
 	</tr>
 	<tr>
@@ -116,7 +110,7 @@ dynatable: true
 	</tr>
 
 	<tr>
-	<td id="Bmobiles"><strong>B</strong></td>
+	<td id="Bmobiles"><strong>B</strong> (<a href="#top">Back to top &uarr;</a>)</td>
 	<td></td>
 	</tr>
 	<tr>
@@ -409,7 +403,7 @@ dynatable: true
 	</tr>
 
 	<tr>
-	<td id="Cmobiles"><strong>C</strong></td>
+	<td id="Cmobiles"><strong>C</strong> (<a href="#top">Back to top &uarr;</a>)</td>
 	<td></td>
 	</tr>
 	<tr>
@@ -610,7 +604,7 @@ dynatable: true
 	</tr>
 
 	<tr>
-	<td id="Dmobiles"><strong>D</strong></td>
+	<td id="Dmobiles"><strong>D</strong> (<a href="#top">Back to top &uarr;</a>)</td>
 	<td></td>
 	</tr>
 	<tr>
@@ -664,7 +658,7 @@ dynatable: true
 	</tr>
 
 	<tr>
-	<td id="Emobiles"><strong>E</strong></td>
+	<td id="Emobiles"><strong>E</strong> (<a href="#top">Back to top &uarr;</a>)</td>
 	<td></td>
 	</tr>
 	<tr>
@@ -757,7 +751,7 @@ dynatable: true
 	</tr>
 
 	<tr>
-	<td id="Fmobiles"><strong>F</strong></td>
+	<td id="Fmobiles"><strong>F</strong> (<a href="#top">Back to top &uarr;</a>)</td>
 	<td></td>
 	</tr>
 	<tr>
@@ -830,7 +824,7 @@ dynatable: true
 	</tr>
 
 	<tr>
-	<td id="Gmobiles"><strong>G</strong></td>
+	<td id="Gmobiles"><strong>G</strong> (<a href="#top">Back to top &uarr;</a>)</td>
 	<td></td>
 	</tr>
 	<tr>
@@ -943,7 +937,7 @@ dynatable: true
 	</tr>
 
 	<tr>
-	<td id="Hmobiles"><strong>H</strong></td>
+	<td id="Hmobiles"><strong>H</strong> (<a href="#top">Back to top &uarr;</a>)</td>
 	<td></td>
 	</tr>
 	<tr>
@@ -1180,7 +1174,7 @@ dynatable: true
 	</tr>
 
 	<tr>
-	<td id="Imobiles"><strong>I</strong></td>
+	<td id="Imobiles"><strong>I</strong> (<a href="#top">Back to top &uarr;</a>)</td>
 	<td></td>
 	</tr>
 	<tr>
@@ -1221,7 +1215,7 @@ dynatable: true
 	</tr>
 
 	<tr>
-	<td id="Kmobiles"><strong>K</strong></td>
+	<td id="Kmobiles"><strong>K</strong> (<a href="#top">Back to top &uarr;</a>)</td>
 	<td></td>
 	</tr>
 	<tr>
@@ -1262,7 +1256,7 @@ dynatable: true
 	</tr>
 
 	<tr>
-	<td id="Lmobiles"><strong>L</strong></td>
+	<td id="Lmobiles"><strong>L</strong> (<a href="#top">Back to top &uarr;</a>)</td>
 	<td></td>
 	</tr>
 	<tr>
@@ -1383,7 +1377,7 @@ dynatable: true
 	</tr>
 
 	<tr>
-	<td id="Mmobiles"><strong>M</strong></td>
+	<td id="Mmobiles"><strong>M</strong> (<a href="#top">Back to top &uarr;</a>)</td>
 	<td></td>
 	</tr>
 	<tr>
@@ -1476,7 +1470,7 @@ dynatable: true
 	</tr>
 
 	<tr>
-	<td id="Nmobiles"><strong>N</strong></td>
+	<td id="Nmobiles"><strong>N</strong> (<a href="#top">Back to top &uarr;</a>)</td>
 	<td></td>
 	</tr>
 	<tr>
@@ -1533,7 +1527,7 @@ dynatable: true
 	</tr>
 
 	<tr>
-	<td id="Omobiles"><strong>O</strong></td>
+	<td id="Omobiles"><strong>O</strong> (<a href="#top">Back to top &uarr;</a>)</td>
 	<td></td>
 	</tr>
 	<tr>
@@ -1594,7 +1588,7 @@ dynatable: true
 	</tr>
 
 	<tr>
-	<td id="Pmobiles"><strong>P</strong></td>
+	<td id="Pmobiles"><strong>P</strong> (<a href="#top">Back to top &uarr;</a>)</td>
 	<td></td>
 	</tr>
 	<tr>
@@ -1662,7 +1656,7 @@ dynatable: true
 	<td><b>Day</b></td>
 	</tr>
 	<tr>
-	<td id="Rmobiles"><strong>R</strong></td>
+	<td id="Rmobiles"><strong>R</strong> (<a href="#top">Back to top &uarr;</a>)</td>
 	<td></td>
 	</tr>
 	<tr>
@@ -1823,7 +1817,7 @@ dynatable: true
 	</tr>
 
 	<tr>
-	<td id="Smobiles"><strong>S</strong></td>
+	<td id="Smobiles"><strong>S</strong> (<a href="#top">Back to top &uarr;</a>)</td>
 	<td></td>
 	</tr>
 	<tr>
@@ -2060,7 +2054,7 @@ dynatable: true
 	</tr>
 
 	<tr>
-	<td id="Tmobiles"><strong>T</strong></td>
+	<td id="Tmobiles"><strong>T</strong> (<a href="#top">Back to top &uarr;</a>)</td>
 	<td></td>
 	</tr>
 	<tr>
@@ -2153,7 +2147,7 @@ dynatable: true
 	</tr>
 
 	<tr>
-	<td id="Umobiles"><strong>U</strong></td>
+	<td id="Umobiles"><strong>U</strong> (<a href="#top">Back to top &uarr;</a>)</td>
 	<td></td>
 	</tr>
 	<tr>
@@ -2170,7 +2164,7 @@ dynatable: true
 	</tr>
 
 	<tr>
-	<td id="Wmobiles"><strong>W</strong></td>
+	<td id="Wmobiles"><strong>W</strong> (<a href="#top">Back to top &uarr;</a>)</td>
 	<td></td>
 	</tr>
 	<tr>
@@ -2419,7 +2413,7 @@ dynatable: true
 	</tr>
 
 	<tr>
-	<td id="Ymobiles"><strong>Y</strong></td>
+	<td id="Ymobiles"><strong>Y</strong> (<a href="#top">Back to top &uarr;</a>)</td>
 	<td></td>
 	</tr>
 	<tr>
@@ -2428,7 +2422,7 @@ dynatable: true
 	</tr>
 	</tbody>
 	</table>
-	<script>
+	<!-- <script>
 	$('#mobiles-table').dynatable({
 	  features: {
 	    paginate: false,
@@ -2436,6 +2430,6 @@ dynatable: true
 	    sorting: false
 	  }
 	});
-	</script>
+</script> -->
 
 </div>
