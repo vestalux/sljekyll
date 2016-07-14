@@ -29,7 +29,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
                 <section class="{% include /c/block.html %}">
 
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/branches">Branches</a></h1>
+                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/branches">Libraries</a></h1>
 
                     <p class="{% include /c/block-graf.html %}">Library contact details &amp; events, hire library spaces</p>
 
@@ -161,9 +161,9 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
                 <section class="{% include /c/block.html %}">
 
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/about">About us &amp; jobs</a></h1>
+                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/about">About us</a></h1>
 
-                    <p class="{% include /c/block-graf.html %}">Governance, board members, documents, jobs &amp; community groups</p>
+                    <p class="{% include /c/block-graf.html %}">Governance, board members, documents  &amp; community groups</p>
 
                 </section>
 
@@ -173,13 +173,25 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
         <div class="cf">
 
-            <div class="custom-g-l2 custom-g-nm">
+            <div class="custom-g-l2">
 
                 <section class="{% include /c/block.html %}">
 
                     <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/branches/hub">Ipswich Enterprise + Business Hub</a></h1>
 
                     <p class="{% include /c/block-graf.html %}">Book a meeting space or desk, create with 3D printers and sewing machines</p>
+
+                </section>
+
+            </div>
+
+            <div class="custom-g-l2 custom-g-nm">
+
+                <section class="{% include /c/block.html %}">
+
+                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/about/jobs">Jobs</a></h1>
+
+                    <p class="{% include /c/block-graf.html %}">See our latest vacancies</p>
 
                 </section>
 
@@ -210,7 +222,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
 {% for post in featured_pages limit:1 %}
 
-    <article class="cf mv2 mv3-ns mt4-ns pt2 pt3-ns bt b--light-gray">
+    <article class="cf mv2 mv3-ns mt4-ns pv2 pv3-ns bt b--light-gray">
 
         <div class="custom-g-l3">
 
@@ -229,5 +241,19 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
         </div>
 
     </article>
+
+    <section class="pv2 pv3-ns bt b--light-gray">
+
+        <h1 class="f4 f3-ns pa0 ma0 mb2">Find a library</h1>
+
+        <p class="f5 ma0 mb2">Enter a town, village or postcode and click on the <span class="purple">markers</span> for more details:</p>
+
+        <div class="custom-constrain">
+
+            <iframe src="http://slmembers.org/branch-map/" width="1000" height="700" frameborder="0" style="border: 0;"></iframe>
+
+        </div>
+
+    </section>
 
 {% endfor %}
