@@ -28,7 +28,8 @@
 	
 
 	<script src="https://maps.google.com/maps/api/js?key=AIzaSyCzv2ep-hLeNxtPLTejxwBYmqZgXbE6faE&sensor=false&libraries=places"></script>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+
+	<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
 
 	
 
@@ -94,13 +95,19 @@
 
 
 
-    <div class="pv2 pv3-ns cf custom-max-width
+<div class="pv2 pv3-ns cf custom-max-width
 ">
 
-        <main id="content" class="bg-white pa2 pa5-ns pv4-ns cf mb2 border-box b--light-gray
-" role="main">
+    <main id="content" role="main">
 
-            
+        <div class="custom-g-l4">
+
+            <article>
+
+                <div class="bg-white pa2 pa5-ns pv4-ns cf mb2 border-box b--light-gray
+">
+
+                    
 
     
 
@@ -115,749 +122,857 @@
 
 
 
-            <h1 class="custom-lh-title f2 pa0 ma0 mb3
-">Libraries</h1>
+                    <header>
 
-            <div class="custom-lh-copy custom-hyphens custom-prose
+                        <h1 class="custom-lh-title f2 pa0 ma0 mb3
+}">Libraries</h1>
+
+                        
+
+                    </header>
+
+                    <div class="custom-lh-copy custom-hyphens custom-prose
 ">
 
-                <p class="f5 ma0 mb2">Enter a town, village or postcode and click on the <span class="purple">markers</span> for more details:</p>
+                        <h1 class="custom-lh-title f2 pa0 ma0 mb3
+">Libraries</h1>
 
-<input id="search_address" type="text">
+<section>
 
-<label>within</label>
+    <h1 class="dn">Map</h1>
 
-<select id="search_radius">
+    <p class="f5 ma0 mb2">Enter a town, village or postcode and click on the <span class="purple">markers</span> for more details:</p>
 
-    <option value="805">1/2 mile</option>
-    <option value="1610">1 mile</option>
-    <option value="3220">2 miles</option>
-    <option value="8047" selected="selected">5 miles</option>
-    <option value="16093">10 miles</option>
-    <option value="32186">20 miles</option>
+    <form class="pure-form mb2">
 
-</select>
+        <input id="search_address" class="dib mr1 border-box w-50" type="search">
 
-<a id="search" href="#">Search</a>
-<a id="reset" href="#">Reset</a>
-<!-- <div class='alert alert-info' id='result_box' ><strong id='result_count'></strong></div> -->
+        <label>within</label>
 
-<noscript>
-    <p>Your JavaScript is disabled</p>
-    <p>Please enable JavaScript to view the map.</p>
-</noscript>
+        <select class="mr1" id="search_radius">
 
-<div class="custom-unconstrain-img">
+            <option value="805">1/2 mile</option>
+            <option value="1610">1 mile</option>
+            <option value="3220">2 miles</option>
+            <option value="8047" selected="selected">5 miles</option>
+            <option value="16093">10 miles</option>
+            <option value="32186">20 miles</option>
+
+        </select>
+
+        <a id="find_me" class="f5 dib mr1 blue" href="#">Use my current location</a>
+
+        <input class="dn" type="submit" name="submit" id="submit" value="Find a library">
+
+        <a id="search-button" class="dib mr1 pure-button pure-button-primary white" href="#">Search</a>
+        <a id="reset" class="pure-button" href="#">Reset</a>
+
+    </form>
+    <!-- <div class='alert alert-info' id='result_box' ><strong id='result_count'></strong></div> -->
+
+    <noscript>
+        <p>Your JavaScript is disabled</p>
+        <p>Please enable JavaScript to view the map.</p>
+    </noscript>
 
     <div id="map_canvas"></div>
 
-</div>
+</section>
 
+<section class="custom-prose custom-lh-copy pt2 pt4-ns">
 
+    
 
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/aldeburgh-library/">Aldeburgh Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Victoria Road, Aldeburgh, IP15 5EG &middot; 01728 452502</a></p>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mt0">Room hire: <a href="/branches/room-hire/aldeburgh-library/">Space within library</a></p>
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/beccles-library/">Beccles Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Blyburgate, Beccles, NR34 9TB &middot; 01502 714073</a></p>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mt0">Room hire: <a href="/branches/room-hire/beccles-library/">Meeting room and small meeting room</a></p>
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/brandon-library/">Brandon Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Bury Road, Brandon, IP27 0BQ &middot; 01842 816106</a></p>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mt0">Room hire: <a href="/branches/room-hire/brandon-library/">Space within library</a></p>
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/broomhill-library/">Broomhill Library (formerly Westbourne)</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Sherrington Road, Ipswich, IP1 4HT &middot; 01473 749929</a></p>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mt0">Room hire: <a href="/branches/room-hire/broomhill-library/">Space within library</a></p>
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/bungay-library/">Bungay Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Wharton Street, Bungay, NR35 1EL &middot; 01986 892748</a></p>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mt0">Room hire: <a href="/branches/room-hire/bungay-library/">Mezzanine floor (within library)</a></p>
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/bury-st-edmunds-library/">Bury St Edmunds Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Sergeants Walk, St Andrews Street North, Bury St Edmunds, IP33 1TZ &middot; 01284 732255</a></p>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mt0">Room hire: <a href="/branches/room-hire/bury-st-edmunds-library/">Conference room and meeting room</a></p>
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/capel-st-mary-library/">Capel St Mary Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Village Hall, The Street, Capel St Mary, IP9 2EP &middot; 01473 311699</a></p>
 
-        
+            
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/chantry-library/">Chantry Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Hawthorn Drive, Ipswich, IP2 0QY &middot; 01473 260880</a></p>
 
-        
+            
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/clare-library/">Clare Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">The Guildhall, High Street, Clare, CO10 8NY &middot; 01787 277702</a></p>
 
-        
+            
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/debenham-library">Debenham Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Sir Robert Hitcham CEVAP Primary School, Debenham, Stowmarket, IP14 6PL &middot; 01728 861940</a></p>
 
-        
+            
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/elmswell-library/">Elmswell Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Memorial Library, Cooks Road, Elmswell, IP30 9BX &middot; 01359 240974</a></p>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mt0">Room hire: <a href="/branches/room-hire/elmswell-library/">Space within library</a></p>
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/eye-library/">Eye Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Buckshorn Lane, Eye, IP23 7AZ &middot; 01379 870515</a></p>
 
-        
+            
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/felixstowe-library/">Felixstowe Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Crescent Road, Felixstowe, IP11 7BY &middot; 01394 694880</a></p>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mt0">Room hire: <a href="/branches/room-hire/felixstowe-library/">Large meeting room and small meeting room</a></p>
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/framlingham-library/">Framlingham Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">The Old Court House, Bridge Street, Framlingham, IP13 9BA &middot; 01728 723735</a></p>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mt0">Room hire: <a href="/branches/room-hire/framlingham-library/">The Old Court room</a></p>
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/gainsborough-community-library/">Gainsborough Community Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Clapgate Lane, Ipswich, IP3 0RL &middot; 01473 260888</a></p>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mt0">Room hire: <a href="/branches/room-hire/gainsborough-community-library/">Community room, meeting room, sound studio, café area / space within library</a></p>
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/glemsford-library/">Glemsford Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Village Hall, Glemsford, CO10 7RH &middot; 01787 281803</a></p>
 
-        
+            
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/great-cornard-library/">Great Cornard Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Thomas Gainsborough School (formerly known as the Upper School), Head Lane, Great Cornard, CO10 0JU &middot; 01787 315195</a></p>
 
-        
+            
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/hadleigh-library/">Hadleigh Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">29 High Street, Hadleigh, IP7 5AG &middot; 01473 823778</a></p>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mt0">Room hire: <a href="/branches/room-hire/hadleigh-library/">Meeting room</a></p>
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/halesworth-library/">Halesworth Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Bridge Street, Halesworth, IP19 8AD &middot; 01986 875095</a></p>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mt0">Room hire: <a href="/branches/room-hire/halesworth-library/">Office, gallery within library and space within library</a></p>
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/haverhill-library/">Haverhill Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Camps Road, Haverhill, CB9 8HB &middot; 01440 702638</a></p>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mt0">Room hire: <a href="/branches/room-hire/haverhill-library/">Meeting room and open space</a></p>
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/ipswich-county-library/">Ipswich County Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Northgate Street, Ipswich, IP1 3DE &middot; 01473 263810</a></p>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mt0">Room hire: <a href="/branches/room-hire/ipswich-county-library/">Hub, Northgate room, Lecture hall, space within library</a></p>
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/ixworth-library/">Ixworth Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Village Hall, High Street, Ixworth, IP31 2HH &middot; 01359 231493</a></p>
 
-        
+            
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/kedington-library/">Kedington Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Community Centre, Arms Lane, Kedington, CB9 7QQ &middot; 01440 703449</a></p>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mt0">Room hire: <a href="/branches/room-hire/kedington-library/">Space within library</a></p>
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/kesgrave-library/">Kesgrave Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Kinsey House, Kays Close, Kesgrave, IP5 2HL &middot; 01473 626103</a></p>
 
-        
+            
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/kessingland-library/">Kessingland Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Marram Green, Hall Road, Kessingland, NR33 7AH &middot; 01502 741212</a></p>
 
-        
+            
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/lakenheath-library/">Lakenheath Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">65 High Street, Lakenheath, IP27 9DS &middot; 01842 860723</a></p>
 
-        
+            
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/lavenham-library/">Lavenham Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Lavenham Village Hall, Church Street, Lavenham, CO10 9QT &middot; 01787 247729</a></p>
 
-        
+            
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/leiston-library/">Leiston Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Old Post Office Square, Main Street, Leiston, IP16 4ER &middot; 01728 831252</a></p>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mt0">Room hire: <a href="/branches/room-hire/leiston-library/">Space within library</a></p>
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/long-melford-library/">Long Melford Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">United Reform Church Room, Hall Street, Long Melford, CO10 9JT &middot; 01787 377525</a></p>
 
-        
+            
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/lowestoft-library/">Lowestoft Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Clapham Road South, Lowestoft, NR32 1DR &middot; 01502 674660</a></p>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mt0">Room hire: <a href="/branches/room-hire/lowestoft-library/">Meeting room and space within library</a></p>
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/mildenhall-library/">Mildenhall Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Chestnut Close, Mildenhall, IP28 7NL &middot; 01638 713558</a></p>
 
-        
+            
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/needham-market-library/">Needham Market Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">School Street, Needham Market, IP6 8BB &middot; 01449 720780</a></p>
 
-        
+            
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/newmarket-library/">Newmarket Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">1a the Guineas, Newmarket, CB8 8EQ &middot; 01638 661216</a></p>
 
-        
+            
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/oulton-broad-library/">Oulton Broad Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Council Offices, 92 Bridge Road, Oulton Broad, NR32 3LR &middot; 01502 583135</a></p>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mt0">Room hire: <a href="/branches/room-hire/oulton-broad-library/">Meeting room</a></p>
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/rosehill-library/">Rosehill Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Tomline Road, Ipswich, IP3 8DB &middot; 01473 719279</a></p>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mt0">Room hire: <a href="/branches/room-hire/rosehill-library/">Space within library</a></p>
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/saxmundham-library/">Saxmundham Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">County Offices, Street Farm Road, Saxmundham, IP17 1AL &middot; 01728 652440</a></p>
 
-        
+            
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/southwold-library/">Southwold Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">North Green, Southwold, IP18 6AT &middot; 01502 722519</a></p>
 
-        
+            
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/stoke-library/">Stoke Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">High School, Maidenhall Approach, Ipswich, IP2 8PL &middot; 01473 681751</a></p>
 
-        
+            
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/stowmarket-library/">Stowmarket Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Milton Road, Stowmarket, IP14 1EX &middot; 01449 613143</a></p>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mt0">Room hire: <a href="/branches/room-hire/stowmarket-library/">Small meeting room and space within library</a></p>
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/stradbroke-library/">Stradbroke Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Court House, Queens Street, Stradbroke, IP21 5HG &middot; 01379 384768</a></p>
 
-        
+            
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/sudbury-library/">Sudbury Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Market Hill, Sudbury, CO10 2EN &middot; 01787 242570</a></p>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mt0">Room hire: <a href="/branches/room-hire/sudbury-library/">Meeting room</a></p>
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/thurston-library/">Thurston Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Thurston Community College, Thurston, Bury St Edmunds, IP31 3PB &middot; 01359 235048</a></p>
 
-        
+            
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/west-suffolk-house-library/">West Suffolk House Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Main reception, West Suffolk House, Western Way, Bury St Edmunds, IP33 3YU &middot; 01284 763233</a></p>
 
-        
+            
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/wickham-market-library/">Wickham Market Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">Resource Centre, Chapel Lane, Wickham Market, IP13 0SD &middot; 01728 747216</a></p>
 
-        
+            
 
-    </article>
+        </article>
 
+    
 
-
-    <article class="pb3 pb4-ns pt1 bt b--light-gray
+        <article class="pb3 pb4-ns pt1 bt b--light-gray
 ">
 
-        <h1 class="f4 ma0 pa0 pb1 custom-lh-title
+            <h1 class="f4 ma0 pa0 pb1 custom-lh-title
 "><a href="/branches/woodbridge-library/">Woodbridge Library</a></h1>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mb0">New Street, Woodbridge, IP12 1DT &middot; 01394 446510</a></p>
 
-        <p class="f6 f5-ns ma0 mb1 gray
+            <p class="f6 f5-ns ma0 mb1 gray
  mt0">Room hire: <a href="/branches/room-hire/woodbridge-library/">Meeting room and office</a></p>
 
-    </article>
+        </article>
+
+    
+
+</section>
 
 
+                    <footer>
 
+                        
 
-            </div>
+                    </footer>
 
-        </main>
+                    </div>
+
+                </div>
+
+            </article>
+
+        </div>
+
+    </main>
+
+    <div class="custom-g-l2 custom-g-nm">
+
+        <aside id="sidebar" class="bg-white pa2 pa5-ns pv4-ns cf mb2 border-box b--light-gray
+" role="complementary">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        <section class="pb3 pb4-ns
+">
+
+            <h1 class="ma0 pb2 f5 f4-ns fw6
+">Ipswich Entrerprise + Innovation Hub</h1>
+
+            <p class="ma0 mb2 f6 f5-ns">Use our Makerspace and hire meeting rooms and work desks.</p>
+
+            <p class="ma0 mb2 f6 f5-ns"><a class="blue link
+" href="/branches/hub/">Find out more about the Enterprise + Innovation Hub</a></p>
+
+        </section>
+
+    
+
+</aside>
+
 
     </div>
+
+</div>
 
         <footer id="footer" class="pa2 pt3 pa3-ns pt4-ns bg-near-black white">
 
@@ -984,7 +1099,8 @@
                 map_center:         [52.188902, 0.997712],
                 locationScope:      "suffolk",
                 searchRadius:       8047,
-                defaultZoom:        9
+                defaultZoom:        10,
+                addrMarkerImage:    ""
               });
 
               var autocomplete = new google.maps.places.Autocomplete(document.getElementById('search_address'));
@@ -1001,9 +1117,16 @@
                 myMap.doSearch();
               });
 
-              $('#search').click(function(){
+              $('#search-button').click(function(){
                 myMap.doSearch();
               });
+
+              $("#search_address").keypress(function(event) {
+                    if (event.which == 13) {
+                        event.preventDefault();
+                        myMap.doSearch();
+                    }
+                });
 
               $('#find_me').click(function(){
                 myMap.findMe();

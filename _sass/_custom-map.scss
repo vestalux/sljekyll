@@ -1,5 +1,9 @@
 @media screen, projection {
 
+    #map_canvas img {
+        max-width: none !important;
+    }
+
     /* #libmap {
         height: 400px;
         width: 550px;

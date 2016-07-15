@@ -1,53 +1,68 @@
 ---
-layout: full-width
+layout: sidebar-right
 title: Libraries
 breadcrumb: home
 sidebar: branches
 map: true
 ---
+<h1 class="{% include /c/page-title.html %}">Libraries</h1>
 
-<p class="f5 ma0 mb2">Enter a town, village or postcode and click on the <span class="purple">markers</span> for more details:</p>
+<section>
 
-<input id="search_address" type="text">
+    <h1 class="dn">Map</h1>
 
-<label>within</label>
+    <p class="f5 ma0 mb2">Enter a town, village or postcode and click on the <span class="purple">markers</span> for more details:</p>
 
-<select id="search_radius">
+    <form class="pure-form mb2">
 
-    <option value="805">1/2 mile</option>
-    <option value="1610">1 mile</option>
-    <option value="3220">2 miles</option>
-    <option value="8047" selected="selected">5 miles</option>
-    <option value="16093">10 miles</option>
-    <option value="32186">20 miles</option>
+        <input id="search_address" class="dib mr1 border-box w-50" type="search">
 
-</select>
+        <label>within</label>
 
-<a id="search" href="#">Search</a>
-<a id="reset" href="#">Reset</a>
-<!-- <div class='alert alert-info' id='result_box' ><strong id='result_count'></strong></div> -->
+        <select class="mr1" id="search_radius">
 
-<noscript>
-    <p>Your JavaScript is disabled</p>
-    <p>Please enable JavaScript to view the map.</p>
-</noscript>
+            <option value="805">1/2 mile</option>
+            <option value="1610">1 mile</option>
+            <option value="3220">2 miles</option>
+            <option value="8047" selected="selected">5 miles</option>
+            <option value="16093">10 miles</option>
+            <option value="32186">20 miles</option>
 
-<div class="custom-unconstrain-img">
+        </select>
+
+        <a id="find_me" class="f5 dib mr1 blue" href="#">Use my current location</a>
+
+        <input class="dn" type="submit" name="submit" id="submit" value="Find a library">
+
+        <a id="search-button" class="dib mr1 pure-button pure-button-primary white" href="#">Search</a>
+        <a id="reset" class="pure-button" href="#">Reset</a>
+
+    </form>
+    <!-- <div class='alert alert-info' id='result_box' ><strong id='result_count'></strong></div> -->
+
+    <noscript>
+        <p>Your JavaScript is disabled</p>
+        <p>Please enable JavaScript to view the map.</p>
+    </noscript>
 
     <div id="map_canvas"></div>
 
-</div>
+</section>
 
-{% for branch in site.data.branches %}
+<section class="custom-prose custom-lh-copy pt2 pt4-ns">
 
-    <article class="{% include /c/slot.html %}">
+    {% for branch in site.data.branches %}
 
-        <h1 class="{% include /c/slot-title.html %}"><a href="{{ branch.url }}">{{ branch.name }}</a></h1>
+        <article class="{% include /c/slot.html %}">
 
-        <p class="{% include /c/page-meta.html %} mb0">{{ branch.address }} &middot; {{ branch.phone }}</a></p>
+            <h1 class="{% include /c/slot-title.html %}"><a href="{{ branch.url }}">{{ branch.name }}</a></h1>
 
-        {% if branch.room-hire-text %}<p class="{% include /c/page-meta.html %} mt0">Room hire: <a href="{{ branch.room-hire-url }}">{{ branch.room-hire-text}}</a></p>{% endif %}
+            <p class="{% include /c/page-meta.html %} mb0">{{ branch.address }} &middot; {{ branch.phone }}</a></p>
 
-    </article>
+            {% if branch.room-hire-text %}<p class="{% include /c/page-meta.html %} mt0">Room hire: <a href="{{ branch.room-hire-url }}">{{ branch.room-hire-text}}</a></p>{% endif %}
 
-{% endfor %}
+        </article>
+
+    {% endfor %}
+
+</section>
