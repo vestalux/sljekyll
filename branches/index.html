@@ -1,15 +1,40 @@
 ---
-layout: sidebar-right
+layout: full-width
 title: Libraries
 breadcrumb: home
 sidebar: branches
+map: true
 ---
 
 <p class="f5 ma0 mb2">Enter a town, village or postcode and click on the <span class="purple">markers</span> for more details:</p>
 
-<div class="custom-constrain">
+<input id="search_address" type="text">
 
-    <iframe src="http://slmembers.org/branch-map/" width="1000" height="700" frameborder="0" style="border: 0;"></iframe>
+<label>within</label>
+
+<select id="search_radius">
+
+    <option value="805">1/2 mile</option>
+    <option value="1610">1 mile</option>
+    <option value="3220">2 miles</option>
+    <option value="8047" selected="selected">5 miles</option>
+    <option value="16093">10 miles</option>
+    <option value="32186">20 miles</option>
+
+</select>
+
+<a id="search" href="#">Search</a>
+<a id="reset" href="#">Reset</a>
+<!-- <div class='alert alert-info' id='result_box' ><strong id='result_count'></strong></div> -->
+
+<noscript>
+    <p>Your JavaScript is disabled</p>
+    <p>Please enable JavaScript to view the map.</p>
+</noscript>
+
+<div class="custom-unconstrain-img">
+
+    <div id="map_canvas"></div>
 
 </div>
 
