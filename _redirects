@@ -29,7 +29,8 @@
 /announcements/* /news/:splat
 /book-club-lists/* /new-suggestions/book-club-ideas/:splat
 /book-lists/* /new-suggestions/fiction/:splat
-/branches/debenham-resource-centre/* /branches/debenham-library/:splat
+/branches/debenham-resource-centre/* /libraries/debenham-library/:splat
+/branches/* /libraries/:splat
 /childrens-book-lists/* /new-suggestions/childrens-ya-books/:splat
 /community-services/health/* /health/:splat
 /community-services/home-library-service/* /mobiles-home/home/:splat

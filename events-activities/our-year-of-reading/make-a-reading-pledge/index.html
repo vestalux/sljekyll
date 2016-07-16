@@ -3,79 +3,84 @@ layout: full-width-narrow
 title: "Make a reading pledge"
 breadcrumb: our-year-of-reading
 ---
-<img src="/images/article/year-of-reading-bookface-150.jpg" alt="A book placed in front of a face" class="{% include /c/img-float-right.html %} br-100" />
 
-<p>Make your reading pledge – it could be to read more, to read something different or to encourage other people to visit libraries – and tell us why you think reading is important.</p>
+<div class="custom-constrain-img">
+    
+    <img src="/images/article/year-of-reading-bookface-150.jpg" alt="A book placed in front of a face" class="{% include /c/img-float-right.html %} br-100" />
 
-<p>We may share your pledges on our website or on social media so you do not have to leave your name. We won't use your pledge for anything else.</p>
+    <p>Make your reading pledge – it could be to read more, to read something different or to encourage other people to visit libraries – and tell us why you think reading is important.</p>
 
-<form class="pure-form pure-form-stacked" netlify name="reading-pledge" action="confirmation" netlify-honeypot="bot-field">
+    <p>We may share your pledges on our website or on social media so you do not have to leave your name. We won't use your pledge for anything else.</p>
 
-    <fieldset>
+    <form class="pure-form pure-form-stacked" netlify name="reading-pledge" action="confirmation" netlify-honeypot="bot-field">
 
-        <label class="f5 pt2">Name</label>
-        <input class="border-box w-100" type="text" name="name" required>
+        <fieldset>
 
-        <label class="f5 pt2">Email</label>
-        <input class="border-box w-100"  type="email" name="email">
+            <label class="f5 pt2">Name</label>
+            <input class="border-box w-100" type="text" name="name" required>
 
-        <label class="f5 pt2">Age</label>
-        <input type="text" name="age">
+            <label class="f5 pt2">Email</label>
+            <input class="border-box w-100"  type="email" name="email">
 
-        <label class="f5 pt2">Your local library</label>
-        <select name="library" class="mb2">
-          <option value="aldeburgh">Aldeburgh</option>
-          <option value="beccles">Beccles</option>
-          <option value="brandon">Brandon</option>
-          <option value="broomhill">Broomhill</option>
-          <option value="bungay">Bungay</option>
-          <option value="bury">Bury St Edmunds</option>
-          <option value="capel">Capel St Mary</option>
-          <option value="chantry">Chantry</option>
-          <option value="clare">Clare</option>
-          <option value="debenham">Debenham</option>
-          <option value="elmswell">Elmswell</option>
-          <option value="eye">Eye</option>
-          <option value="felixstowe">Felixstowe</option>
-          <option value="framlingham">Framlingham</option>
-          <option value="gainsborough">Gainsborough</option>
-          <option value="glemsford">Glemsford</option>
-          <option value="great-cornard">Great Cornard</option>
-          <option value="hadleigh">Hadleigh</option>
-          <option value="halesworth">Halesworth</option>
-          <option value="haverhill">Haverhill</option>
-          <option value="ipswich">Ipswich</option>
-          <option value="ixworth">Ixworth</option>
-          <option value="kedington">Kedington</option>
-          <option value="kesgrave">Kesgrave</option>
-          <option value="kessingland">Kessingland</option>
-          <option value="lakenheath">Lakenheath</option>
-          <option value="lavenham">Lavenham</option>
-          <option value="leiston">Leiston</option>
-          <option value="long-melford">Long Melford</option>
-          <option value="lowestoft">Lowestoft</option>
-          <option value="mildenhall">Mildenhall</option>
-          <option value="needham-market">Needham Market</option>
-          <option value="newmarket">Newmarket</option>
-          <option value="oulton-broad">Oulton Broad</option>
-          <option value="rosehill">Rosehill</option>
-          <option value="saxmundham">Saxmundham</option>
-          <option value="southwold">Southwold</option>
-          <option value="stoke">Stoke</option>
-          <option value="stowmarket">Stowmarket</option>
-          <option value="stradbroke">Stradbroke</option>
-          <option value="sudbury">Sudbury</option>
-          <option value="thurston">Thurston</option>
-          <option value="west-suffolk-house">West Suffolk House</option>
-          <option value="wickham-market">Wickham Market</option>
-          <option value="woodbridge">Woodbridge</option>
-        </select>
+            <label class="f5 pt2">Age</label>
+            <input type="text" name="age">
 
-        <label class="f5 pt2">Your reading pledge</label>
-        <textarea name="message" class="border-box w-100" required></textarea>
+            <label class="f5 pt2">Your local library</label>
+            <select name="library" class="mb2">
+              <option value="aldeburgh">Aldeburgh</option>
+              <option value="beccles">Beccles</option>
+              <option value="brandon">Brandon</option>
+              <option value="broomhill">Broomhill</option>
+              <option value="bungay">Bungay</option>
+              <option value="bury">Bury St Edmunds</option>
+              <option value="capel">Capel St Mary</option>
+              <option value="chantry">Chantry</option>
+              <option value="clare">Clare</option>
+              <option value="debenham">Debenham</option>
+              <option value="elmswell">Elmswell</option>
+              <option value="eye">Eye</option>
+              <option value="felixstowe">Felixstowe</option>
+              <option value="framlingham">Framlingham</option>
+              <option value="gainsborough">Gainsborough</option>
+              <option value="glemsford">Glemsford</option>
+              <option value="great-cornard">Great Cornard</option>
+              <option value="hadleigh">Hadleigh</option>
+              <option value="halesworth">Halesworth</option>
+              <option value="haverhill">Haverhill</option>
+              <option value="ipswich">Ipswich</option>
+              <option value="ixworth">Ixworth</option>
+              <option value="kedington">Kedington</option>
+              <option value="kesgrave">Kesgrave</option>
+              <option value="kessingland">Kessingland</option>
+              <option value="lakenheath">Lakenheath</option>
+              <option value="lavenham">Lavenham</option>
+              <option value="leiston">Leiston</option>
+              <option value="long-melford">Long Melford</option>
+              <option value="lowestoft">Lowestoft</option>
+              <option value="mildenhall">Mildenhall</option>
+              <option value="needham-market">Needham Market</option>
+              <option value="newmarket">Newmarket</option>
+              <option value="oulton-broad">Oulton Broad</option>
+              <option value="rosehill">Rosehill</option>
+              <option value="saxmundham">Saxmundham</option>
+              <option value="southwold">Southwold</option>
+              <option value="stoke">Stoke</option>
+              <option value="stowmarket">Stowmarket</option>
+              <option value="stradbroke">Stradbroke</option>
+              <option value="sudbury">Sudbury</option>
+              <option value="thurston">Thurston</option>
+              <option value="west-suffolk-house">West Suffolk House</option>
+              <option value="wickham-market">Wickham Market</option>
+              <option value="woodbridge">Woodbridge</option>
+            </select>
 
-        <p class="dn"><input name="bot-field"></p>
+            <label class="f5 pt2">Your reading pledge</label>
+            <textarea name="message" class="border-box w-100" required></textarea>
 
-        <button type="submit" class="pure-button pure-button-primary">Make a pledge</button>
+            <p class="dn"><input name="bot-field"></p>
 
-</form>
+            <button type="submit" class="pure-button pure-button-primary">Make a pledge</button>
+
+    </form>
+
+</div>
