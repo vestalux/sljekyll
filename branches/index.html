@@ -13,13 +13,13 @@ map: true
 
     <p class="f5 ma0 mb2">Enter a town, village or postcode and click on the <span class="purple">markers</span> for more details:</p>
 
-    <form class="pure-form mb2">
+    <div class="pure-form mb2">
 
-        <input id="search_address" class="dib mr1 mb2 border-box w-50" type="search">
+        <input id="search_address" class="dib mr1 mb2 border-box w-100 w-50-ns" type="search">
 
         <label>within</label>
 
-        <select class="mr1" id="search_radius">
+        <select class="mr1 mb2" id="search_radius">
 
             <option value="805">1/2 mile</option>
             <option value="1610">1 mile</option>
@@ -30,13 +30,11 @@ map: true
 
         </select><br>
 
-        <input class="dn" type="submit" name="submit" id="submit" value="Find a library">
-
         <a id="search-button" class="dib mr1 pure-button pure-button-primary white custom-force-white" href="#">Search</a>
         <a id="reset" class="pure-button mr1 custom-force-dark-gray" href="#">Reset</a>
-        <a id="find_me" class="f5 dib blue" href="#">(or use my current location)</a>
+        <a id="find_me" class="f5 dib blue mv2 mv0-ns" href="#">(or use my current location)</a>
 
-    </form>
+    </div>
     <!-- <div class='alert alert-info' id='result_box' ><strong id='result_count'></strong></div> -->
 
     <noscript>

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Suffolk Libraries reserve, renew, branches and eLibrary
+map: true
 ---
 
 <nav id="nav" class="mb2">
@@ -243,3 +244,42 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
     </article>
 
 {% endfor %}
+
+<section class="mv2 mv3-ns mt4-ns pv2 pv3-ns bt b--light-gray">
+
+    <h1 class="f4 f3-ns pa0 ma0 mb2">Find a library</h1>
+
+    <p class="f5 ma0 mb2">Enter a town, village or postcode and click on the <span class="purple">markers</span> for more details:</p>
+
+    <div class="pure-form mb2">
+
+        <input id="search_address" class="dib mr1 mb2 border-box w-100 w-50-ns" type="search">
+
+        <label>within</label>
+
+        <select class="mr1 mb2" id="search_radius">
+
+            <option value="805">1/2 mile</option>
+            <option value="1610">1 mile</option>
+            <option value="3220">2 miles</option>
+            <option value="8047" selected="selected">5 miles</option>
+            <option value="16093">10 miles</option>
+            <option value="32186">20 miles</option>
+
+        </select><br>
+
+        <a id="search-button" class="dib mr1 pure-button pure-button-primary white custom-force-white" href="#">Search</a>
+        <a id="reset" class="pure-button mr1 custom-force-dark-gray" href="#">Reset</a>
+        <a id="find_me" class="f5 dib blue mv2 mv0-ns" href="#">(or use my current location)</a>
+
+    </div>
+    <!-- <div class='alert alert-info' id='result_box' ><strong id='result_count'></strong></div> -->
+
+    <noscript>
+        <p>Your JavaScript is disabled</p>
+        <p>Please enable JavaScript to view the map.</p>
+    </noscript>
+
+    <div id="map_canvas"></div>
+
+</section>
