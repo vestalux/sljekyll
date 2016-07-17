@@ -23,7 +23,7 @@ branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/woodbridge-library-2
 branch-special-collections: Edward Fitzgerald collection, Seckford collection
 branch-borrowing-ereaders-and-ipads: eReader
-branch-room-hire: /branches/room-hire/woodbridge-library
+branch-room-hire: /libraries/room-hire/woodbridge-library
 branch-display-space: "
 <strong>Display boards</strong>
 <p>Cost: £10 per week</p>

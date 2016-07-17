@@ -18,7 +18,7 @@ branch-social-media: y
 branch-facebook: brandonlibrarysuffolk
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/brandon-library-3
-branch-room-hire: /branches/room-hire/brandon-library
+branch-room-hire: /libraries/room-hire/brandon-library
 branch-display-space: "
 <p>Local and library event posters:</p>
 <ul>

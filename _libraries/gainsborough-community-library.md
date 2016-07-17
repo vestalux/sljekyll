@@ -20,7 +20,7 @@ branch-facebook: gainsboroughlibrary
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/gainsborough-community-library-2
 branch-borrowing-ereaders-and-ipads: eReader
-branch-room-hire: /branches/room-hire/gainsborough-community-library
+branch-room-hire: /libraries/room-hire/gainsborough-community-library
 branch-display-space: "
   <h4>Two cork boards in cafe area for posters</h4>
   <ul>

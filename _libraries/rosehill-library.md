@@ -18,6 +18,6 @@ branch-friends-url: /about/member-organisations/rosehill-library-friends
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/rosehill-library-2
 branch-other-facilities: Available now for £1 – I love Rosehill Library wristbands
-branch-room-hire: /branches/room-hire/rosehill-library
+branch-room-hire: /libraries/room-hire/rosehill-library
 breadcrumb: y
 ---

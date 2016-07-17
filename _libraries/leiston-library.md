@@ -19,6 +19,6 @@ branch-social-media: y
 branch-facebook: leistonlibrary
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/leiston-library-2
-branch-room-hire: /branches/room-hire/leiston-library
+branch-room-hire: /libraries/room-hire/leiston-library
 breadcrumb: y
 ---

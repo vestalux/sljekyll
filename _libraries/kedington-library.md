@@ -18,6 +18,6 @@ branch-social-media: y
 branch-facebook: kedingtonlibrary
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/kedington-library
-branch-room-hire: /branches/room-hire/kedington-library
+branch-room-hire: /libraries/room-hire/kedington-library
 breadcrumb: y
 ---

@@ -22,7 +22,7 @@ branch-instagram: ipswich_county_library
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/ipswich-county-library-2
 branch-special-collections: African Caribbean resources, Indic language resources, Music & drama library
-branch-room-hire: /branches/room-hire/ipswich-county-library
+branch-room-hire: /libraries/room-hire/ipswich-county-library
 branch-display-space: "
 <strong>Double sided display case</strong>
 <p>Please book two weeks in advance. Displays can be put in the case after 2pm on Mondays and must be removed by 12 noon the following Monday.</p>

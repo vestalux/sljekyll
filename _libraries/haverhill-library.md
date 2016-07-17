@@ -20,7 +20,7 @@ branch-facebook: Haverhill-Library-Suffolk-202854396546832
 branch-pinterest: haverhillibrary
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/haverhill-library-2
-branch-room-hire: /branches/room-hire/haverhill-library
+branch-room-hire: /libraries/room-hire/haverhill-library
 branch-display-space: "
 <strong>Display space 1: Foyer (suitable for small table top / banner display)</strong>
 <ul>

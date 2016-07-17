@@ -21,6 +21,6 @@ branch-facebook: sudburylibrary
 branch-instagram: sudburylibrary
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/sudbury-library-2
-branch-room-hire: /branches/room-hire/sudbury-library
+branch-room-hire: /libraries/room-hire/sudbury-library
 breadcrumb: y
 ---

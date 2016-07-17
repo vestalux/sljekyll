@@ -54,7 +54,7 @@ map: true
 
             <h1 class="{% include /c/slot-title.html %}"><a href="{{ branch.url }}">{{ branch.name }}</a></h1>
 
-            <p class="{% include /c/page-meta.html %} mb0">{{ branch.address }} &middot; {{ branch.phone }}</a></p>
+            <p class="{% include /c/page-meta.html %} mb0">{{ branch.address }} &middot; <a href="tel:{{ branch.phone }}">{{ branch.phone }}</a></p>
 
             {% if branch.room-hire-text %}<p class="{% include /c/page-meta.html %} mt0">Room hire: <a href="{{ branch.room-hire-url }}">{{ branch.room-hire-text}}</a></p>{% endif %}
 

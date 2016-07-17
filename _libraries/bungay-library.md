@@ -19,6 +19,6 @@ branch-social-media: y
 branch-facebook: bungaycommunitylibrary
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/bungay-library-2
-branch-room-hire: /branches/room-hire/bungay-library
+branch-room-hire: /libraries/room-hire/bungay-library
 breadcrumb: y
 ---
