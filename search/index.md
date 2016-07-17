@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Search results
+sitemap: false
 ---
 
 <h1 class="{% include /c/page-title.html %}">Search results</h1>

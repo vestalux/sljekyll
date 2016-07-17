@@ -1,6 +1,6 @@
 ---
 title: Board members
-layout: sidebar-right
+layout: sidebar-left
 sidebar: about
 breadcrumb: about
 ---

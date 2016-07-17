@@ -3,184 +3,181 @@ layout: default
 title: New in and suggestions
 breadcrumb: home
 ---
-<nav id="nav">
 
-    <h1 class="page-title">New in &amp; suggestions</h1>
+<h1 class="page-title">New in &amp; suggestions</h1>
 
-    <p class="{% include /c/generic-panel.html %}"><span class="b">Looking for reading, viewing and listening ideas?</span> Our expert staff have hundreds of lists for you. You can also <a class="blue" href="http://eepurl.com/xIZ5D">subscribe to our monthly newsletter</a> for suggestions straight to your inbox.</p>
+<p class="{% include /c/generic-panel.html %}"><span class="b">Looking for reading, viewing and listening ideas?</span> Our expert staff have hundreds of lists for you. You can also <a class="blue" href="http://eepurl.com/xIZ5D">subscribe to our monthly newsletter</a> for suggestions straight to your inbox.</p>
 
-    <div class="cf">
+<div class="cf">
 
-        <div class="custom-g-l2">
+    <div class="custom-g-l2">
 
-            <section class="{% include /c/block.html %}">
+        <section class="{% include /c/block.html %}">
 
-                <h1 class="{% include /c/block-title.html %}">Fiction</h1>
+            <h1 class="{% include /c/block-title.html %}">Fiction</h1>
 
-                <ul class="{% include /c/block-list.html %}">
-                  {% for post in site.categories.['fiction'] limit:3 %}
-                    <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
-                  {% endfor %}
-              </ul>
+            <ul class="{% include /c/block-list.html %}">
+              {% for post in site.categories.['fiction'] limit:3 %}
+                <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+              {% endfor %}
+          </ul>
 
-              <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/new-suggestions/fiction">All fiction lists &rarr;</a></strong></p>
+          <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/new-suggestions/fiction">All fiction lists &rarr;</a></strong></p>
 
-            </section>
+        </section>
 
-        </div>
+    </div>
 
-        <div class="custom-g-l2">
+    <div class="custom-g-l2">
 
-            <section class="{% include /c/block.html %}">
+        <section class="{% include /c/block.html %}">
 
-                <h1 class="{% include /c/block-title.html %}">Non-fiction</h1>
+            <h1 class="{% include /c/block-title.html %}">Non-fiction</h1>
 
-                <ul class="{% include /c/block-list.html %}">
-                {% for post in site.categories.['non-fiction'] limit:3 %}
-                    <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
-                {% endfor %}
-                </ul>
+            <ul class="{% include /c/block-list.html %}">
+            {% for post in site.categories.['non-fiction'] limit:3 %}
+                <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+            {% endfor %}
+            </ul>
 
-                <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/new-suggestions/non-fiction">All non&#8211;fiction lists &rarr;</a></strong></p>
+            <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/new-suggestions/non-fiction">All non&#8211;fiction lists &rarr;</a></strong></p>
 
-            </section>
+        </section>
 
-        </div>
+    </div>
 
-        <div class="custom-g-l2 custom-g-nm">
+    <div class="custom-g-l2 custom-g-nm">
 
-            <section class="{% include /c/block.html %}">
+        <section class="{% include /c/block.html %}">
 
-                <h1 class="{% include /c/block-title.html %}">Children's and YA books</h1>
+            <h1 class="{% include /c/block-title.html %}">Children's and YA books</h1>
 
-                <ul class="{% include /c/block-list.html %}">
-                {% for post in site.categories.['childrens-ya-books'] limit:3 %}
-                    <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
-                {% endfor %}
-                </ul>
+            <ul class="{% include /c/block-list.html %}">
+            {% for post in site.categories.['childrens-ya-books'] limit:3 %}
+                <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+            {% endfor %}
+            </ul>
 
-                <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/new-suggestions/childrens-ya-books">All children &amp; YA lists &rarr;</a></strong></p>
+            <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/new-suggestions/childrens-ya-books">All children &amp; YA lists &rarr;</a></strong></p>
 
-            </section>
+        </section>
 
-        </div>
+    </div>
 
-    </div> <!-- end row -->
+</div> <!-- end row -->
 
-    <div class="cf">
+<div class="cf">
 
-        <div class="custom-g-l2">
+    <div class="custom-g-l2">
 
-            <section class="{% include /c/block.html %}">
+        <section class="{% include /c/block.html %}">
 
-                <h1 class="{% include /c/block-title.html %}">Films and DVDs</h1>
+            <h1 class="{% include /c/block-title.html %}">Films and DVDs</h1>
 
-                <ul class="{% include /c/block-list.html %}">
-                {% for post in site.categories.['films-dvds'] limit:3 %}
-                    <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
-                {% endfor %}
-              </ul>
+            <ul class="{% include /c/block-list.html %}">
+            {% for post in site.categories.['films-dvds'] limit:3 %}
+                <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+            {% endfor %}
+          </ul>
 
-              <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/new-suggestions/films-dvds">All film &amp; DVD lists &rarr;</a></strong></p>
+          <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/new-suggestions/films-dvds">All film &amp; DVD lists &rarr;</a></strong></p>
 
-            </section>
+        </section>
 
-        </div>
+    </div>
 
-        <div class="custom-g-l2">
+    <div class="custom-g-l2">
 
-            <section class="{% include /c/block.html %}">
+        <section class="{% include /c/block.html %}">
 
-                <h1 class="{% include /c/block-title.html %}">Music</h1>
+            <h1 class="{% include /c/block-title.html %}">Music</h1>
 
-                <ul class="{% include /c/block-list.html %}">
-                {% for post in site.categories.['music'] limit:3 %}
-                    <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
-                {% endfor %}
-                </ul>
+            <ul class="{% include /c/block-list.html %}">
+            {% for post in site.categories.['music'] limit:3 %}
+                <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+            {% endfor %}
+            </ul>
 
-                 <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/new-suggestions/music">All music lists &rarr;</a></strong></p>
+             <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/new-suggestions/music">All music lists &rarr;</a></strong></p>
 
-            </section>
+        </section>
 
-        </div>
+    </div>
 
-        <div class="custom-g-l2 custom-g-nm">
+    <div class="custom-g-l2 custom-g-nm">
 
-            <section class="{% include /c/block.html %}">
+        <section class="{% include /c/block.html %}">
 
-                <h1 class="{% include /c/block-title.html %}">Book club ideas</h1>
+            <h1 class="{% include /c/block-title.html %}">Book club ideas</h1>
 
-                <ul class="{% include /c/block-list.html %}">
-                {% for post in site.categories.['book-club-ideas'] limit:3 %}
-                    <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
-                {% endfor %}
-                </ul>
+            <ul class="{% include /c/block-list.html %}">
+            {% for post in site.categories.['book-club-ideas'] limit:3 %}
+                <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+            {% endfor %}
+            </ul>
 
-                 <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/new-suggestions/book-club-ideas">All book club lists &rarr;</a></strong></p>
+             <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/new-suggestions/book-club-ideas">All book club lists &rarr;</a></strong></p>
 
-            </section>
+        </section>
 
-        </div>
+    </div>
 
-    </div> <!-- end row -->
+</div> <!-- end row -->
 
-    <div class="cf">
+<div class="cf">
 
-        <div class="custom-g-l2">
+    <div class="custom-g-l2">
 
-            <section class="{% include /c/block.html %}">
+        <section class="{% include /c/block.html %}">
 
-                <h1 class="{% include /c/block-title.html %}">Local interest</h1>
+            <h1 class="{% include /c/block-title.html %}">Local interest</h1>
 
-                <ul class="{% include /c/block-list.html %}">
-                {% for post in site.categories.['local-interest'] limit:3 %}
-                    <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
-                {% endfor %}
-                </ul>
+            <ul class="{% include /c/block-list.html %}">
+            {% for post in site.categories.['local-interest'] limit:3 %}
+                <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+            {% endfor %}
+            </ul>
 
-                <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/new-suggestions/local-interest">All local interest lists &rarr;</a></strong></p>
+            <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/new-suggestions/local-interest">All local interest lists &rarr;</a></strong></p>
 
-            </section>
+        </section>
 
-        </div>
+    </div>
 
-        <div class="custom-g-l2">
+    <div class="custom-g-l2">
 
-            <section class="{% include /c/block.html %}">
+        <section class="{% include /c/block.html %}">
 
-                <h1 class="{% include /c/block-title.html %}">Staff picks</h1>
+            <h1 class="{% include /c/block-title.html %}">Staff picks</h1>
 
-                <ul class="{% include /c/block-list.html %}">
-                {% for post in site.categories.['staff-picks'] limit:3 %}
-                    <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
-                {% endfor %}
-                </ul>
+            <ul class="{% include /c/block-list.html %}">
+            {% for post in site.categories.['staff-picks'] limit:3 %}
+                <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+            {% endfor %}
+            </ul>
 
-                <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/new-suggestions/staff-picks">All staff picks &rarr;</a></strong></p>
+            <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/new-suggestions/staff-picks">All staff picks &rarr;</a></strong></p>
 
-            </section>
+        </section>
 
-        </div>
+    </div>
 
-        <div class="custom-g-l2 custom-g-nm">
+    <div class="custom-g-l2 custom-g-nm">
 
-            <section class="{% include /c/block.html %}">
+        <section class="{% include /c/block.html %}">
 
-                <h1 class="{% include /c/block-title.html %}">Booked out podcast</h1>
+            <h1 class="{% include /c/block-title.html %}">Booked out podcast</h1>
 
-                <ul class="{% include /c/block-list.html %}">
-                {% for post in site.categories.['booked-out'] limit:3 %}
-                    <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
-                {% endfor %}
-                </ul>
+            <ul class="{% include /c/block-list.html %}">
+            {% for post in site.categories.['booked-out'] limit:3 %}
+                <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+            {% endfor %}
+            </ul>
 
-                <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/new-suggestions/booked-out">All Booked Out podcasts &rarr;</a></strong></p>
+            <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/new-suggestions/booked-out">All Booked Out podcasts &rarr;</a></strong></p>
 
-            </section>
+        </section>
 
-        </div>
+    </div>
 
-    </div> <!-- end row -->
-
-</nav>
+</div> <!-- end cf -->

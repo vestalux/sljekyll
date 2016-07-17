@@ -13,13 +13,13 @@ Fields marked with a <span class="red">*</span> are required.
     <fieldset>
 
         <label class="f5 mt2 db">Your name</label>
-        <input type="text" name="name" class="border-box w-100 mb2">
+        <input type="text" name="name" class="border-box w-100 w-50-ns mb2">
 
         <label class="f5 mt2 db">Your email</label>
-        <input type="email" name="email" class="border-box w-100 mb2">
+        <input type="email" name="email" class="border-box w-100 w-50-ns mb2">
 
         <label class="f5 mt2 db">Your feedback <span class="red">*</span></label>
-        <textarea name="message" required class="border-box w-100 mb2"></textarea>
+        <textarea name="message" required class="border-box w-100 w-50-ns mb2"></textarea>
 
     </fieldset>
 
