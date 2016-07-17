@@ -1,10 +1,10 @@
 ---
 layout: full-width-narrow
-title: Thank for signing up for our newsletter
+title: Thanks for signing up for our newsletter
 sitemap: false
 ---
 
-Thanks for signing up for our newsletter.
+Thanks for signing up for our newsletter. We send it out once a month.
 
 We'll only use your email address to tell you about titles, news and events and we won't pass it on to anyone else.
 
