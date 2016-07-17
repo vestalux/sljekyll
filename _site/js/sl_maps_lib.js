@@ -348,7 +348,7 @@
                 jQuery('#map_canvas').append('<div id="myposition"><i class="fontello-target"></i></div>');
                 setTimeout(function () {
                     jQuery('#myposition').remove();
-                }, 9000); //LP 20160717 (default is 3000)
+                }, 3000); //LP 20160717 (default is 3000)
             }, function error(msg) {
                 alert('Please enable location services on your device.'); // LP 20160717
             }, {
