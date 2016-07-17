@@ -3,7 +3,6 @@ layout: sidebar-right
 title: Summer Reading Challenge
 hero-image: hero-src.jpg
 hero-alt: A girl taking part in this year's challenge, The Big Friendly Read
-hero-caption: A girl taking part in this year's challenge, The Big Friendly Read
 breadcrumb: events
 sidebar: summer-reading-challenge
 featured: yes
