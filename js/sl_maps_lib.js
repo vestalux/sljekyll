@@ -357,7 +357,7 @@
                 enableHighAccuracy: true
             });
         } else {
-            alert("Geolocation API is not supported in your browser.");
+            alert("The Geolocation API is not supported in your browser."); // LP 20160717
         }
     };
     if (typeof module !== 'undefined' && typeof module.exports !== 'undefined') {

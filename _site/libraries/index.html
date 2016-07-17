@@ -123,9 +123,9 @@
 
     <h1 class="dn">Map</h1>
 
-    <p class="f5 ma0 mb2">Enter a town, village or postcode and click on the <span class="purple">markers</span> for more details:</p>
+    <p class="f5 ma0 mb2">Enter a town, village or postcode and <strong><span class="purple">click on the markers</span></strong> for more details:</p>
 
-    <form class="pure-form mb2">
+    <div class="pure-form mb2" id="search-library-form">
 
         <input id="search_address" class="dib mr1 mb2 border-box w-100 w-50-ns" type="search">
 
@@ -142,11 +142,11 @@
 
         </select><br>
 
-        <a id="search-button" class="dib mr1 pure-button pure-button-primary white custom-force-white" href="#">Search</a>
-        <a id="reset" class="pure-button mr1 custom-force-dark-gray" href="#">Reset</a>
-        <a id="find_me" class="f5 dib blue mv2 mv0-ns" href="#">(or use my current location)</a>
+        <a id="search-button" class="dib mr1 pure-button pure-button-primary white custom-force-white" href="#search-library-form">Search</a>
+        <a id="reset" class="pure-button mr1 custom-force-dark-gray" href="#search-library-form">Reset</a>
+        <a id="find_me" class="f5 dib blue mv2 mv0-ns" href="#search-library-form">(or use my current location)</a>
 
-    </form>
+    </div>
     <!-- <div class='alert alert-info' id='result_box' ><strong id='result_count'></strong></div> -->
 
     <noscript>
@@ -1014,10 +1014,10 @@
               });
 
               $("#search_address").keypress(function(event) {
-                    if (event.which == 13) {
-                        event.preventDefault();
-                        myMap.doSearch();
-                    }
+                if (event.which == 13) {
+                    event.preventDefault();
+                    myMap.doSearch();
+                }
                 });
 
               $('#find_me').click(function(){

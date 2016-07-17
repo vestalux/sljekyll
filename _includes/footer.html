@@ -141,10 +141,10 @@
               });
 
               $("#search_address").keypress(function(event) {
-                    if (event.which == 13) {
-                        event.preventDefault();
-                        myMap.doSearch();
-                    }
+                if (event.which == 13) {
+                    event.preventDefault();
+                    myMap.doSearch();
+                }
                 });
 
               $('#find_me').click(function(){
