@@ -118,9 +118,9 @@
                 locationColumn:     "Address",
                 map_center:         [52.188902, 0.997712],
                 locationScope:      "suffolk",
-                searchRadius:       16093,
+                searchRadius:       8047,
                 defaultZoom:        9,
-                addrMarkerImage:    ""
+                addrMarkerImage:    "/images/icons/blue-pushpin.png"
               });
 
               var autocomplete = new google.maps.places.Autocomplete(document.getElementById('search_address'));
@@ -140,13 +140,6 @@
               $('#search-button').click(function(){
                 myMap.doSearch();
               });
-
-              $("#search_address").keypress(function(event) {
-                if (event.which == 13) {
-                    event.preventDefault();
-                    myMap.doSearch();
-                }
-                });
 
               $('#find_me').click(function(){
                 myMap.findMe();

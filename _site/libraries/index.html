@@ -128,7 +128,7 @@
 
     <h1 class="dn">Map</h1>
 
-    <p class="f5 ma0 mb2">Enter a town, village or postcode and <strong><span class="purple">click on the markers</span></strong> for more details:</p>
+    <p class="f5 ma0 mb2" id="#">Enter a town, village or postcode and <strong><span class="purple">click on the markers</span></strong> for more details:</p>
 
     <div class="pure-form mb2" id="search-library-form">
 
@@ -996,9 +996,9 @@
                 locationColumn:     "Address",
                 map_center:         [52.188902, 0.997712],
                 locationScope:      "suffolk",
-                searchRadius:       16093,
+                searchRadius:       8047,
                 defaultZoom:        9,
-                addrMarkerImage:    ""
+                addrMarkerImage:    "/images/icons/blue-pushpin.png"
               });
 
               var autocomplete = new google.maps.places.Autocomplete(document.getElementById('search_address'));
@@ -1018,13 +1018,6 @@
               $('#search-button').click(function(){
                 myMap.doSearch();
               });
-
-              $("#search_address").keypress(function(event) {
-                if (event.which == 13) {
-                    event.preventDefault();
-                    myMap.doSearch();
-                }
-                });
 
               $('#find_me').click(function(){
                 myMap.findMe();
