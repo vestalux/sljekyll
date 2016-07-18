@@ -6,7 +6,7 @@ sidebar: help
 ---
 ## Getting a library card
 
-It&#8217;s free. If you **live in, work in or visit Suffolk** go to [any Suffolk library](/branches/ "Branches") with proof of address, providing it&#8217;s in Suffolk, Norfolk, Cambridgeshire or Essex.
+It&#8217;s free. If you **live in, work in or visit Suffolk** go to [any Suffolk library](/libraries/) or [mobile library](/mobiles/home/) with proof of address, providing it&#8217;s in Suffolk, Norfolk, Cambridgeshire or Essex.
 
 If your home address isn&#8217;t in these counties you&#8217;ll have to provide your work address or the address you&#8217;re visitng.
 
@@ -14,7 +14,7 @@ If you live in Suffolk or a neighbouring county you can **complete the [joining 
 
 If you are 16 or under you will need a guarantor.
 
-To use any of our online services you will also need a PIN. If you do not know your PIN please contact a member of staff, telephone 01473 263838 or email help@suffolklibraries.co.uk with proof of identification.
+To use any of our online services you will also need a PIN. If you do not know your PIN please contact a member of staff with proof of identification or call 01473 351249.
 
 [Join now](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/JOIN)
 
