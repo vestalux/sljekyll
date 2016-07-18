@@ -56,7 +56,7 @@ Under the Copyright, Designs & Patent Act 1988, all unauthorised copies are ille
 
 # Charges
 
-<table class="pure-table">
+<table class="pure-table pure-table-bordered">
   <thead>
     <tr>
       <th>Subscriptions per annum</th>
@@ -67,18 +67,18 @@ Under the Copyright, Designs & Patent Act 1988, all unauthorised copies are ille
   <tbody>
     <tr>
       <td>Music and Drama Library</td>
-      <td>£1.75 per member per annum (minimum £10.50)</td>
-      <td>£3.50 per member per annum (minimum £35.00)</td>
+      <td>£2.20 per member per annum (minimum £13.20)</td>
+      <td>£5.00 per member per annum (minimum £50.00)</td>
     </tr>
     <tr>
       <td>Members of the Schools’ Library Service (LBaRTS)</td>
       <td>£50.00</td>
-      <td>£100.00</td>
+      <td>Non-members: £100.00</td>
     </tr>
   </tbody>
 </table>
 
-<table class="pure-table">
+<table class="pure-table pure-table-bordered">
   <thead>
     <tr>
       <th>Charges</th>
@@ -92,49 +92,49 @@ Under the Copyright, Designs & Patent Act 1988, all unauthorised copies are ille
     <tr>
       <td>Play sets</td>
       <td>12 weeks</td>
-      <td>£4.75</td>
+      <td>£6.50</td>
       <td>50p per day</td>
       <td>£24.50</td>
     </tr>
     <tr>
       <td>Plays on approval</td>
       <td>1 week</td>
-      <td>£1.10</td>
+      <td>£1.50</td>
       <td>50p per day</td>
       <td>£24.50</td>
     </tr>
     <tr>
       <td>Band music sets</td>
       <td>12 weeks</td>
-      <td>£9.45</td>
+      <td>£10.00</td>
       <td>50p per day</td>
       <td>£24.50</td>
     </tr>
     <tr>
       <td>Chamber music sets</td>
       <td>12 weeks</td>
-      <td>£4.00</td>
+      <td>£5.00</td>
       <td>50p per day</td>
       <td>£24.50</td>
     </tr>
     <tr>
       <td>Orchestral music sets</td>
       <td>12 weeks</td>
-      <td>£10.50</td>
+      <td>£15.00</td>
       <td>50p per day</td>
       <td>£24.50</td>
     </tr>
     <tr>
       <td>Vocal score sets</td>
       <td>12 weeks</td>
-      <td>£4.75</td>
+      <td>£6.50</td>
       <td>50p per day</td>
       <td>£24.50</td>
     </tr>
     <tr>
       <td>Vocal score sets in folders</td>
       <td>12 weeks</td>
-      <td>£1.55</td>
+      <td>£2.20</td>
       <td>50p per day</td>
       <td>£24.50</td>
     </tr>
