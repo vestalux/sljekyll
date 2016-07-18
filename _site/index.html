@@ -445,38 +445,39 @@
 
     <h1 class="f4 f3-ns pa0 ma0 mb2">Find a library</h1>
 
-    <p class="f5 ma0 mb2" id="#">Enter a town, village or postcode and <strong><span class="purple">click on the markers</span></strong> for more details:</p>
+    <p class="f5 ma0 mb2" id="map-instructions">Enter a town, village, address or postcode and <strong><span class="purple">click on the markers</span></strong> for more details:</p>
 
-    <div class="pure-form mb2" id="search-library-form">
+<div class="pure-form mb2" id="search-library-form">
 
-        <input id="search_address" class="dib mr1 mb2 border-box w-100 w-50-ns" type="search">
+    <input id="search_address" class="dib mr1 mb2 border-box w-100 w-50-ns" type="search">
 
-        <label>within</label>
+    <label>within</label>
 
-        <select class="mr1 mb2" id="search_radius">
+    <select class="mr1 mb2" id="search_radius">
 
-            <option value="805">1/2 mile</option>
-            <option value="1610">1 mile</option>
-            <option value="3220">2 miles</option>
-            <option value="8047" selected="selected">5 miles</option>
-            <option value="16093">10 miles</option>
-            <option value="32186">20 miles</option>
+        <option value="805">1/2 mile</option>
+        <option value="1610">1 mile</option>
+        <option value="3220">2 miles</option>
+        <option value="8047" selected="selected">5 miles</option>
+        <option value="16093">10 miles</option>
+        <option value="32186">20 miles</option>
 
-        </select><br>
+    </select><br>
 
-        <a id="search-button" class="dib mr1 pure-button pure-button-primary white custom-force-white" href="#map_canvas">Search</a>
-        <a id="reset" class="pure-button mr1 custom-force-dark-gray" href="#map_canvas">Reset</a>
-        <a id="find_me" class="f5 dib blue mv2 mv0-ns" href="#map_canvas">(or use my current location)</a>
+    <a id="search-button" class="dib mr1 pure-button pure-button-primary white custom-force-white" href="#map-instructions">Search</a>
+    <a id="reset" class="pure-button mr1 custom-force-dark-gray" href="#map-instructions">Reset</a>
+    <a id="find_me" class="f5 dib blue mv2 mv0-ns" href="#map-instructions">(or use my current location)</a>
 
-    </div>
-    <!-- <div class='alert alert-info' id='result_box' ><strong id='result_count'></strong></div> -->
+</div>
+<!-- <div class='alert alert-info' id='result_box' ><strong id='result_count'></strong></div> -->
 
-    <noscript>
-        <p>Your JavaScript is disabled</p>
-        <p>Please enable JavaScript to view the map.</p>
-    </noscript>
+<noscript>
+    <p>Your JavaScript is disabled</p>
+    <p>Please enable JavaScript to view the map.</p>
+</noscript>
 
-    <div id="map_canvas"></div>
+<div id="map_canvas"></div>
+
 
 </section>
 
