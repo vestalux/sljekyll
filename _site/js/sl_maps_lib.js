@@ -75,8 +75,8 @@
         //-----end of custom initializers-----
 
         //run the default search when page loads
-        // self.doSearch(); LP 20160718 removing as forces mobile reload
-        // if (options.callback) options.callback(self); LP 20160718 removing as forces mobile reload
+        self.doSearch();
+        if (options.callback) options.callback(self);
     };
 
     //-----custom functions-----
