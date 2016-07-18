@@ -10,4 +10,4 @@ breadcrumb: y
 ---
 Children aged between 8-11 years are invited to join children's comedian and author of the Boyface series, James Campbell. James will be helping you to create and write your own stories in his own hilariously funny style.
 
-£3 per ticket - limited to 20 places.
+£4 per ticket - limited to 20 places.
