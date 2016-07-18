@@ -17,6 +17,10 @@ The Summer Reading Challenge is the UK's biggest reading for pleasure programme 
 
 This year's challenge runs from 16 July until 3 September.
 
+## What's involved?
+
+The Summer Reading Challenge encourages children to read six or more library books of their choice during the summer holidays with collectable incentives and rewards, plus a certificate, or medal for every child who reads all six. Children can sign up at their local library at the start of the summer holidays – it’s absolutely free and many libraries will also be running related activities through the holidays.
+
 ## Will you win a gold ticket?
 
 <img class="{% include /c/img-float-right.html %}" src="/images/article/src-gold-ticket-prize-draw-poster.jpg" alt="Prize draw poster" />
@@ -32,10 +36,6 @@ Enter our free prize draw in any Suffolk library to win fantastic family prizes,
 The Summer Reading Challenge runs throughout the summer holidays but Suffolk Libraries are already on the lookout for volunteers to help support it. Volunteer support is a key part of the summer reading challenge and each library in Suffolk will be looking for help in running activities with children and listening to them discuss the books they have read.
 
 **[Become a volunteer →](/events-activities/summer-reading-challenge/summer-reading-challenge-volunteer-application-form)**
-
-## What's involved?
-
-The Summer Reading Challenge encourages children to read six or more library books of their choice during the summer holidays with collectable incentives and rewards, plus a certificate, or medal for every child who reads all six. Children can sign up at their local library at the start of the summer holidays – it’s absolutely free and many libraries will also be running related activities through the holidays.
 
 ## The Big Friendly Read
 
