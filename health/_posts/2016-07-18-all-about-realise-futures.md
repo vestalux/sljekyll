@@ -8,6 +8,8 @@ excerpt: An interview with Realise Futures.
 breadcrumb: health
 sidebar: health
 ---
+![Realise Futures logo](/images/featured/featured-realise-futures-logo.jpg)
+
 **Hi there! Which organisation/project are you from?**
 
 Realise Futures Learning and Development
