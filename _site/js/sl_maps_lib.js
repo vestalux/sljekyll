@@ -52,13 +52,13 @@
         this.map = new google.maps.Map($("#map_canvas")[0], this.myOptions);
 
         // maintains map centerpoint for responsive design
-        // google.maps.event.addDomListener(self.map, 'idle', function () { LP 20160718
-            // self.calculateCenter(); LP 20160718
-        // }); LP 20160718
-        // google.maps.event.addDomListener(window, 'resize', function () {  LP 20160718
-            // self.map.setCenter(self.map_centroid);  LP 20160718
-        // });  LP 20160718
-        // self.searchrecords = null;  LP 20160718
+        google.maps.event.addDomListener(self.map, 'idle', function () {
+            self.calculateCenter();
+        });
+        google.maps.event.addDomListener(window, 'resize', function () {
+            self.map.setCenter(self.map_centroid);
+        });
+        self.searchrecords = null;
 
         //reset filters
         $("#search_address").val(self.convertToPlainString($.address.parameter('address')));
