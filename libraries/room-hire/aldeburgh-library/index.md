@@ -14,3 +14,6 @@ breadcrumb: branches
 * Free parking
 * Refreshment making facilities available
 * Projector available for additional charge
+
+![Interior of Aldeburgh Library](/images/article/aldeburgh-library-interior.jpg)
+*Interior of Aldeburgh Library*

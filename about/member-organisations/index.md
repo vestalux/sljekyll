@@ -10,7 +10,7 @@ Friends groups have a say in the running and development of their local library.
 
 [Community group member website →](http://members.suffolklibraries.co.uk)
 
-The following member organisations are members of Suffolk's Libraries Industrial and Provident Society Limited. Visit their page or [contact the library](/branches) to find out about joining.
+The following member organisations are members of Suffolk's Libraries Industrial and Provident Society Limited. Visit their page or [contact the library](/libraries) to find out about joining.
 
 * [Aldeburgh Library Foundation](/about/member-organisations/aldeburgh-library-foundation/)
 * [Beccles Library Community Trust (BLCT)](/about/member-organisations/beccles-library-community-trust-bclt/)

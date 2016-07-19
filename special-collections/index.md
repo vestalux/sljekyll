@@ -9,7 +9,7 @@ To access the collection, please bring either a Suffolk Library card or proof of
 
 ## African Caribbean collection
 
-The African-Caribbean collection is located at [Ipswich County Library](/branches/ipswich-county-library/ "Ipswich County Library"). Check the online catalogue to find out what books and DVDs are available.
+The African-Caribbean collection is located at [Ipswich County Library](/libraries/ipswich-county-library/ "Ipswich County Library"). Check the online catalogue to find out what books and DVDs are available.
 
 ## Benjamin Britten collection
 
@@ -33,7 +33,7 @@ Covers most of Fitzgerald&#8217;s publications, including translations from fore
 
   * **Dates covered:** 1809 &#8211; 1880
   * **Material included:** Cuttings, ephemera (e.g. posters), books
-  * **Location:** [Woodbridge Library](/branches/woodbridge-library/ "Woodbridge Library")
+  * **Location:** [Woodbridge Library](/libraries/woodbridge-library/ "Woodbridge Library")
 
 ## Indic language collection
 
@@ -63,7 +63,7 @@ Hire complete play texts and musical scores for your group. [Find out contact de
 Focuses on flat racing, but also includes sporting reminiscences, history and anatomy of the horse. Over 700 volumes, including sets of the Racing Calendar from 1874 and the Bloodstock Breeder&#8217;s Review from 1912.
 
   * **Material included:** Serials, original prints, books
-  * **Location:** [Newmarket Library](/branches/newmarket-library/ "Newmarket Library")
+  * **Location:** [Newmarket Library](/libraries/newmarket-library/ "Newmarket Library")
 
 ## Seckford collection
 
@@ -73,7 +73,7 @@ Covers East Anglia, especially the Woodbridge area, and includes works by local 
 
   * **Dates covered:** 1760 &#8211; 1970 (approximately)
   * **Material included:** Serials, cuttings, photographs, audio cassettes, ephemera, books
-  * **Location:** [Woodbridge Library](/branches/woodbridge-library/)
+  * **Location:** [Woodbridge Library](/libraries/woodbridge-library/)
 
 All collections are for reference only.
 

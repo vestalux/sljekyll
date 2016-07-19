@@ -18,5 +18,6 @@ branch-social-media: y
 branch-twitter: clarelibrary.co.uk
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/clare-library-2
+branch-room-hire: /libraries/room-hire/clare-library
 breadcrumb: y
 ---

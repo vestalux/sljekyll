@@ -11,7 +11,7 @@ sidebar: help
 
 You can reserve a title by:
 
-- asking in a [branch](/branches)
+- asking in a [library](/libraries)
 - calling 01473 351242
 - using our online catalogue
 
@@ -47,7 +47,7 @@ Once you&#8217;ve filled in the form, click the **Place Reservation** button.
 
 Once your reservation is ready we&#8217;ll email or text you, depending on whether you provided us with your email address or mobile number when you created your library account.
 
-If we don&#8217;t have your email address or mobile number you&#8217;ll have to visit [your nearest branch](/branches/ "Branches"), [email or call us](/contact/) to check if it&#8217;s arrived.
+If we don&#8217;t have your email address or mobile number you&#8217;ll have to visit [your nearest library](/libraries/), [email or call us](/contact/) to check if it&#8217;s arrived.
 
 If you&#8217;d like to receive emails or text either visit a branch or [login to your library account](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/LOGINB).
 
