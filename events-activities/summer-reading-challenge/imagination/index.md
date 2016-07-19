@@ -28,8 +28,8 @@ To help young people complete their ImagiNation booklets, we will also be holdin
 
 ImagiNation sessions be take place in the following libraries:
 
-* [Newmarket Library](/branches/newmarket-library) on Thursday 4 August, 10am to 3pm
-* [Halesworth Library](/branches/halesworth-library) on Wednesday 10 August, 1pm to 4pm
-* [Chantry Library](/branches/chantry-library) on Thursday 11 August, 1pm to 5pm
-* [Gainsborough Community Library](/branches/gainsborough-community-library) on Wednesday 17 August, 10am to 3pm
-* [Great Cornard Library](/branches/great-cornard-library) on Thursday 18 August, 2pm to 5pm
+* [Newmarket Library](/libraries/newmarket-library) on Thursday 4 August, 10am to 3pm
+* [Halesworth Library](/libraries/halesworth-library) on Wednesday 10 August, 1pm to 4pm
+* [Chantry Library](/libraries/chantry-library) on Thursday 11 August, 1pm to 5pm
+* [Gainsborough Community Library](/libraries/gainsborough-community-library) on Wednesday 17 August, 10am to 3pm
+* [Great Cornard Library](/libraries/great-cornard-library) on Thursday 18 August, 2pm to 5pm

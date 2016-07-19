@@ -12,7 +12,7 @@ Contact us if you have a question, complaint or need any information about the l
 * Telephone: **01473 263838** (please don't text this number)
 * Email: **help@suffolklibraries.co.uk**
 
-[Find your local library.](/branches/)
+[Find your local library.](/libraries/)
 
 Write to:
 

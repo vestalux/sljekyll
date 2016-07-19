@@ -6,7 +6,7 @@ sidebar: help
 ---
 Our library opening hours vary from library to library.
 
-**[Find a library and its opening times](/branches/ "Branches")**.
+**[Find a library and its opening times](/libraries/)**.
 
 We close for [all UK public holidays](https://www.gov.uk/bank-holidays), including Good Friday and Easter Sunday.
 

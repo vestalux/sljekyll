@@ -4,7 +4,7 @@ title: Using wifi in libraries
 breadcrumb: help
 sidebar: help
 ---
-All our libraries offer free, unlimited wifi. [Find your local library](/branches "Branches").
+All our libraries offer free, unlimited wifi. [Find your local library](/libraries/).
 
 We use 2 wifi providers. Ipswich County, Bury St Edmunds, Lowestoft and Brandon use O2 wifi, while all other libraries use Polkaspots wifi.
 

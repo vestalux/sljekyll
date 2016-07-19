@@ -7,9 +7,9 @@ Check out our [reading group suggestions](/new-suggestions/book-club-ideas/).
 
 # What we'll do
 
-* Provide a free, welcoming space for your group to meet on a regular basis. [Contact your library](/branches/) to book a free space.
+* Provide a free, welcoming space for your group to meet on a regular basis. [Contact your library](/libraries/) to book a free space.
 * Set you up with a free, special library account so you can borrow more books.
-* Publish your meeting dates on [your library page](/branches/) and your library manager can pass on details about the next book you're reading.
+* Publish your meeting dates on [your library page](/libraries/) and your library manager can pass on details about the next book you're reading.
 
 # Setting up a group checklist
 
