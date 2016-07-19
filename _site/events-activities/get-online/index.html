@@ -21,26 +21,6 @@
 
     <title>Get online &#8211; Suffolk Libraries</title>
 
-	<script src="/js/app.js"></script>
-
-	
-
-	<script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
-
-	
-
-	
-
-	<script src="/js/jquery.dynatable.js"></script>
-
-	
-
-	
-
-	
-
-	
-
 </head>
 
 
@@ -1470,6 +1450,35 @@ $('#search-table').dynatable({
             </div>
 
         </footer>
+
+        <script src="/js/app.js"></script>
+
+
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script src="/js/jquery.dynatable.js"></script>
+<script>
+$('#search-table').dynatable({
+  features: {
+    paginate: false,
+    recordCount: false,
+    sorting: false
+  },
+  inputs: {
+    queries: $('#search-library')
+  }
+});
+</script>
+
+
+
+
+
 
         
 
