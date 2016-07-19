@@ -14,9 +14,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: suffolklibrary
 github_username:  suffolklibraries
 message_title: We've changed our website
-message: Contact us with any comments or questions and
+message: Comments or questions?
 message_link: feedback
-message_link_text: leave feedback
+message_link_text: Leave feedback
 
 
 
