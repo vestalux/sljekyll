@@ -9,11 +9,11 @@
 
 	{% if site.message %}
 
-		<div class="bg-black near-white pa2 pa3-ns">
+		<div class="pa2 pv1 ph3-ns">
 
 			<div class="custom-max-width">
 
-				<p class="f6 f5-ns ma0">{% if site.message_title %}<strong>{{ site.message_title }}</strong>: {% endif %}{{ site.message }}{% if site.message_link %} <a class="link aqua" href="/{{ site.message_link }}">{{ site.message_link_text }}</a>.{% endif %}</p>
+				<p class="f6 f5-ns ma0">{% if site.message_title %}<strong>{{ site.message_title }}</strong>: {% endif %}{{ site.message }}{% if site.message_link %} <a class="b link blue" href="/{{ site.message_link }}">{{ site.message_link_text }}</a>.{% endif %}</p>
 
 			</div>
 

@@ -13,7 +13,7 @@
     font-size: 1.5rem;
     margin: 0;
     padding: 0;
-    padding: 1rem 0 0.25rem 0;
+    padding: 1rem 0 0.5rem 0;
     line-height: $lh-title;
 }
 
@@ -21,8 +21,27 @@
     font-size: 1.25rem;
     margin: 0;
     padding: 0;
-    padding: 1rem 0 0.25rem 0;
+    padding: 1rem 0 0.5rem 0;
     line-height: $lh-title;
+}
+
+.custom-prose h4 {
+    font-size: 1.25rem;
+    margin: 0;
+    padding: 0;
+    padding: 1rem 0 0.5rem 0;
+    line-height: $lh-title;
+}
+
+.custom-prose h1 + p,
+.custom-prose h2 + p,
+.custom-prose h3 + p,
+.custom-prose h4 + p,
+.custom-prose h1 + ul,
+.custom-prose h2 + ul,
+.custom-prose h3 + ul,
+.custom-prose h4 + ul {
+    margin-top: 0;
 }
 
 .custom-prose blockquote {
