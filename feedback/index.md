@@ -8,7 +8,7 @@ Leave your feedback here. You can remain anonymous if you want to, but if you do
 
 Fields marked with a <span class="red">*</span> are required.
 
-<form class="pure-form pure-form-stacked" netlify name="feedback" action="confirmation" netlify-honeypot="bot-field">
+<form class="pure-form pure-form-stacked" netlify name="feedback" action="/feedback/confirmation" netlify-honeypot="bot-field">
 
     <fieldset>
 

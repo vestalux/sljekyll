@@ -8,7 +8,7 @@ Complete this form to request a curriculum topic loan from the Literacy, Books a
 
 [Contact your local Literacy, Books and Reading Team for Schools office for more help.](/schools-literacy/schools/contact/)
 
-<form class="pure-form pure-form-stacked" netlify name="curriculum-topic-loan" action="confirmation">
+<form class="pure-form pure-form-stacked" netlify name="curriculum-topic-loan" action="/schools-literacy/schools/curriculum-topic-loan/confirmation">
 
     <fieldset>
 

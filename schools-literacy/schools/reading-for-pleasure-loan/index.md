@@ -4,7 +4,7 @@ title: Reading for pleasure loan
 breadcrumb: schools
 hnav: lbarts
 ---
-<form class="pure-form pure-form-stacked" netlify name="reading-for-pleasure-loan" action="confirmation">
+<form class="pure-form pure-form-stacked" netlify name="reading-for-pleasure-loan" action="/schools-literacy/schools/reading-for-pleasure-loan/confirmation">
 
     <fieldset>
 

@@ -9,7 +9,7 @@ If you were unable to find the information you needed on our site, or you would 
 
 For further information, phone <strong>01473 263819</strong> or email <strong>sarah.lungley@suffolklibraries.co.uk</strong>
 
-<form class="pure-form pure-form-stacked" netlify name="health-contact" action="confirmation">
+<form class="pure-form pure-form-stacked" netlify name="health-contact" action="/health/contact/confirmation">
 
     <fieldset>
 
