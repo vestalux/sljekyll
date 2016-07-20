@@ -9,14 +9,16 @@ sidebar: help
 
 <p>You can continue to use our services when this happens, but confirming your details will help us provide a better service.</p>
 
+<p>Fields marked with a <span class="red">*</span> are required.</p>
+
 <form class="pure-form pure-form-stacked" netlify name="re-register-library-card" action="/help/reregistering-an-expired-library-card/confirmation" netlify-honeypot="bot-field">
 
     <fieldset>
 
-        <label class="f5 pt2">Name</label>
-        <input type="text" name="name">
+        <label class="f5 pt2 mb2">Name <span class="red">*</span></label>
+        <input class="border-box w-100" type="text" required name="name">
 
-        <label class="f5 pt2">Title</label>
+        <label class="f5 pt2 mb2">Title</label>
         <select name="title">
           <option value="miss">Miss</option>
           <option value="mr">Mr</option>
@@ -25,18 +27,18 @@ sidebar: help
           <option value="other">Other</option>
         </select>
 
-        <label class="f5 pt2">Please specify title if you selected 'other'</label>
+        <label class="f5 pt2 mb2">Please specify title if you selected 'other'</label>
         <input type="text" name="other-title">
 
         <h2>Library card number (with no spaces)</h2>
 
-        <label class="f5 pt2">This is the number across the middle of your library card. It begins 20127.</label>
-        <input type="text" name="age" maxlength="14">
+        <label class="f5 pt2 mb2">This is the number across the middle of your library card beginning 20127 <span class="red">*</span></label>
+        <input class="border-box w-100" required type="text" name="age" minlength="14" maxlength="14">
 
         <h2>Date of birth</h2>
 
-        <label class="f5 pt2">Day</label>
-        <select name="day">
+        <label class="f5 pt2 mb2">Day <span class="red">*</span></label>
+        <select required name="day">
           <option value="1">1</option>
           <option value="2">2</option>
           <option value="3">3</option>
@@ -70,8 +72,8 @@ sidebar: help
           <option value="31">31</option>
         </select>
 
-        <label class="f5 pt2">Month</label>
-        <select name="month">
+        <label class="f5 pt2 mb2">Month <span class="red">*</span></label>
+        <select required name="month">
           <option value="january">January</option>
           <option value="february">February</option>
           <option value="march">March</option>
@@ -86,25 +88,25 @@ sidebar: help
           <option value="december">December</option>
         </select>
 
-        <label class="f5 pt2">Year (XXXX, e.g. 1945, 2004)</label>
-        <input type="text" name="year" maxlength="4">
+        <label class="f5 pt2 mb2">Year (XXXX, e.g. 1945, 2004) <span class="red">*</span></label>
+        <input required type="text" name="year" maxlength="4">
 
-        <label class="f5 pt2">Email</label>
-        <input type="email" name="email">
+        <label class="f5 pt2 mb2">Email</label>
+        <input class="border-box w-100" type="email" name="email">
 
-        <label class="f5 pt2">Address</label>
+        <label class="f5 pt2 mb2">Address</label>
         <textarea name="address" class="border-box w-100"></textarea>
 
-        <label class="f5 pt2">Postcode</label>
+        <label class="f5 pt2 mb2">Postcode</label>
         <input type="text" name="postcode">
 
-        <label class="f5 pt2">Phone number</label>
+        <label class="f5 pt2 mb2">Phone number</label>
         <input type="tel" name="phone" maxlength="11">
 
-        <label class="f5 pt2">Any further information</label>
+        <label class="f5 pt2 mb2">Any further information</label>
         <textarea name="further-info" class="border-box w-100"></textarea>
 
-        <label class="f5 pt2">Receive our monthly email newsletter? <input type="checkbox" id="newsletter" value="yes"></label>
+        <label class="f5 pt2 mb2">Receive our monthly email newsletter? <input type="checkbox" id="newsletter" value="yes"></label>
 
         <p class="mt0 custom-lh-title"><small>We can send you a monthly email with our latest books, films, DVDs and music. We don't share your email with anyone else and you can unsubscribe at any time.</small></p>
 
