@@ -1,9 +1,9 @@
 ---
-recurrent-title: "Page Turners reading group"
-recurrent-day: third Saturday of the month
-recurrent-times: 1430-1600
+recurrent-title: "Drama club: summer holidays only"
+recurrent-day: Saturday
+recurrent-times: 1030-1200
 recurrent-location: haverhill-library
 recurrent-location-display-name: Haverhill Library
 recurrent-location-display-url: /branches/haverhill-library/
-recurrent-category: reading-groups
+recurrent-category: arts-crafts-games
 ---

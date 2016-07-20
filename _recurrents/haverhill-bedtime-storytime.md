@@ -1,9 +1,9 @@
 ---
-recurrent-title: "Page Turners reading group"
-recurrent-day: third Saturday of the month
-recurrent-times: 1430-1600
+recurrent-title: "Bedtime Storytime for children"
+recurrent-day: Tuesday
+recurrent-times: 1800-1830
 recurrent-location: haverhill-library
 recurrent-location-display-name: Haverhill Library
 recurrent-location-display-url: /branches/haverhill-library/
-recurrent-category: reading-groups
+recurrent-category: children
 ---
