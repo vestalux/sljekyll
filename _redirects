@@ -66,3 +66,5 @@
 /reading-lists-groups-advice/suffolk-writes/* /events-activities/suffolk-writes/:splat
 /staff-picks/* /new-suggestions/staff-picks/:splat
 /upcoming-events/* /events-activities/upcoming/:splat
+
+/*   /404/index.html   404
