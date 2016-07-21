@@ -16,5 +16,6 @@ branch-tel: 01787 247729
 branch-friends: Friends of Lavenham Library
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/lavenham-library-2
+branch-other-facilities: "<strong>The Big Friendly Read</strong>: 27 July until 31 August will be open Wednesday 10am - 12noon for children to join the Summer Reading Challenge - additional hours courtesy of the Friends of Lavenham Library."
 breadcrumb: y
 ---
