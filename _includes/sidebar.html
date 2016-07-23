@@ -38,13 +38,56 @@
 
     {% endif %}
 
+    {% if page.breadcrumb == 'meet-the-author' %}
+
+        <section class="{% include /c/sidebar-section.html %}">
+
+            <h1 class="{% include /c/sidebar-section-title.html %}">Latest meet the author interviews</h1>
+
+            <ul class="{% include /c/sidebar-section-list.html %}">
+
+                {% for post in site.categories.['meet-the-author'] limit:10 %}
+                    <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+                {% endfor %}
+
+            </ul>
+
+        </section>
+
+        <section class="{% include /c/sidebar-section.html %}">
+
+            <h1 class="{% include /c/sidebar-section-title.html %}">About meet the author</h1>
+
+            <p class="ma0 mb2 f6 f5-ns">Regular interviews with some of the world's biggest-selling authors.</p>
+
+        </section>
+
+        <section class="{% include /c/sidebar-section.html %}">
+
+            <h1 class="{% include /c/sidebar-section-title.html %}">Keep updated</h1>
+
+            <p class="ma0 mb2 f6 f5-ns">Never miss a blog post and get the latest staff picks.</p>
+
+            <ul class="{% include /c/sidebar-section-list.html %}">
+
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/newsletter/">Email newsletter</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="https://facebook.com/suffolklibraries">Facebook</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="https://twitter.com/suffolklibrary">Twitter</a></li>
+                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="https://instagram.com/suffolklibraries">Instagram</a></li>
+
+            </ul>
+
+        </section>
+
+    {% endif %}
+
     {% if page.sidebar == 'blog' %}
 
     <section class="{% include /c/sidebar-section.html %}">
 
         <h1 class="{% include /c/sidebar-section-title.html %}">About our blog</h1>
 
-        <p class="ma0 mb2 f6 f5-ns">A behind the scenes look at Suffolk Libraries and interviews with top authors.</p>
+        <p class="ma0 mb2 f6 f5-ns">A behind the scenes look at Suffolk Libraries.</p>
 
     </section>
 
@@ -64,6 +107,35 @@
             </ul>
 
         </section>
+
+    {% endif %}
+
+    {% if page.sidebar == 'meet-the-author' %}
+
+    <section class="{% include /c/sidebar-section.html %}">
+
+        <h1 class="{% include /c/sidebar-section-title.html %}">About meet the author</h1>
+
+        <p class="ma0 mb2 f6 f5-ns">Regular interviews with some of the world's biggest-selling authors.</p>
+
+    </section>
+
+    <section class="{% include /c/sidebar-section.html %}">
+
+        <h1 class="{% include /c/sidebar-section-title.html %}">Keep updated</h1>
+
+        <p class="ma0 mb2 f6 f5-ns">Never miss an interview or our latest staff picks.</p>
+
+        <ul class="{% include /c/sidebar-section-list.html %}">
+
+            <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/newsletter/">Email newsletter</a></li>
+            <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="https://facebook.com/suffolklibraries">Facebook</a></li>
+            <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="https://twitter.com/suffolklibrary">Twitter</a></li>
+            <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="https://instagram.com/suffolklibraries">Instagram</a></li>
+
+        </ul>
+
+    </section>
 
     {% endif %}
 
