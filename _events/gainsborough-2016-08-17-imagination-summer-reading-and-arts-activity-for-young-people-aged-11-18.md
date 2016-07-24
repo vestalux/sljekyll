@@ -2,7 +2,7 @@
 id: august-17-event
 name: "ImagiNation: summer reading and arts activity for young people aged 11-18"
 location: gainsborough-community-library
-location-text: Gainsborough Library
+location-text: Gainsborough Community Library
 event-start-date: 2016-08-17
 event-start-time: 1000
 event-end-time: 1500
