@@ -1,11 +1,12 @@
 ---
 id: october-27-event
-name: Meeting Queen Bees with historian Sian Evans
+name: "Meeting Queen Bees with historian Sian Evans"
 location: halesworth-library
 location-text: Halesworth Library
 event-start-date: 2016-10-27
 event-start-time: 1930
 event-end-time: 2130
+event-ticket-url: https://www.eventbrite.co.uk/e/meeting-queen-bees-with-historian-sian-evans-tickets-26754017988
 event-category: bookfest
 hnav: bookfest
 breadcrumb: y
