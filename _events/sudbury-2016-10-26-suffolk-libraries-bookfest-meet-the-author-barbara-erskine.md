@@ -1,6 +1,6 @@
 ---
 id: october-26-event
-name: "Suffolk Libraries Bookfest: Meet the author Barbara Erskine"
+name: Meet the author Barbara Erskine
 location: sudbury-library
 location-text: Sudbury Library
 event-start-date: 2016-10-26

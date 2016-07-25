@@ -1,6 +1,6 @@
 ---
 id: october-27-event
-name: "Suffolk Libraries Bookfest: Meeting Queen Bees with historian Sian Evans"
+name: Meeting Queen Bees with historian Sian Evans
 location: halesworth-library
 location-text: Halesworth Library
 event-start-date: 2016-10-27
