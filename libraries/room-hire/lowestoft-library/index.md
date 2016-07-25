@@ -3,20 +3,27 @@ layout: full-width-narrow
 title: 'Lowestoft Library room hire'
 breadcrumb: branches
 ---
-# Meeting room
+## The Britten room
 
-* Capacity: 30 people for meetings, 40 people in rows
-* Cost: £12 per hour for community/charity/private bookings, £18 per hour for commercial/statutory bookings
-* Availability: All day subject to other bookings. Bookings outside library opening hours may attract an additional charge to cover staffing cost.
+![The Britten room](/images/article/lowestoft-library-britten-room.jpg)
 
-# Space within library
+This is the largest room and can hold 40 people seated theatre style, or 30 people boardroom style. The charge is £12 per hour for charity and community groups and £18 per hour for businesses and statutory organisations.
 
-* Capacity: Various (depending on part of library and format) but potentially up to 50 people in rows.
-* Cost: To be negotiated with library manager
-* Availability: Outside library opening hours only, subject to other bookings.
+## The Everitt room
+
+![The Everitt room](/images/article/lowestoft-library-everitt-room.jpg)
+
+This is a large room which can hold 30 people seated theatre style, or 20 people boardroom style. The charge is £10 per hour for charity and community groups and £15 per hour for businesses and statutory organisations.
+
+## The Peto room
+
+![The Peto room](/images/article/lowestoft-library-peto-room.jpg)
+
+This is a small room which can cater for meetings of up to 6 people. It is ideal for one to one meetings. The charge is £7 per hour for charity and community groups and £10.50 per hour for businesses and statutory organisations.
 
 ## Other information
 
-* Located opposite a large pay and display carpark
-* Refreshments available from café during opening hours. Arrangements can be made for café to provide refreshments outside of opening hours
-* Flipchart, projector, screen and PA system available
+* Space within the library is also available for hire outside library opening hours. Price to be negotiated with library manager.
+* The library is located opposite a large pay and display carpark
+* Bookings are subject to a minimum 2 hour booking time
+* Bookings of 10 sessions or more which are paid in full up front will attract a 12.5% discount
