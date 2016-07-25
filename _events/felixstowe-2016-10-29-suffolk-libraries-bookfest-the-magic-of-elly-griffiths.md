@@ -1,6 +1,6 @@
 ---
 id: october-29-event
-name: "Suffolk Libraries Bookfest: The Magic of Elly Griffiths"
+name: The Magic of Elly Griffiths
 location: felixstowe-library
 location-text: Felixstowe Library
 event-start-date: 2016-10-29

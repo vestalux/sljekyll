@@ -1,6 +1,6 @@
 ---
 id: october-27-event
-name: "Suffolk Libraries Bookfest: Taking tea in the library with James Runcie"
+name: Taking tea in the library with James Runcie
 location: lavenham-library
 location-text: Lavenham Library
 event-start-date: 2016-10-27

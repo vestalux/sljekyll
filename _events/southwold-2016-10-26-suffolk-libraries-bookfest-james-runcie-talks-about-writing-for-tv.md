@@ -1,6 +1,6 @@
 ---
 id: october-26-event
-name: "Suffolk Libraries Bookfest: James Runcie talks about writing for TV"
+name: James Runcie talks about writing for TV
 location: southwold-library
 location-text: Southwold Library
 event-start-date: 2016-10-26

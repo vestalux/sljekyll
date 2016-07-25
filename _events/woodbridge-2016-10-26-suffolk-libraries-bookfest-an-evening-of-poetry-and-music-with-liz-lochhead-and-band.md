@@ -1,6 +1,6 @@
 ---
 id: october-26-event
-name: "Suffolk Libraries Bookfest: An evening of poetry and music with Liz Lochhead and band"
+name: An evening of poetry and music with Liz Lochhead and band
 location: woodbridge-library
 location-text: Woodbridge Library
 event-start-date: 2016-10-26

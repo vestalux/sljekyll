@@ -1,6 +1,6 @@
 ---
 id: october-25-event
-name: "Suffolk Libraries Bookfest: North and south: poetry with Liz Lochhead and Tiffany Atkinson"
+name: 'North and south: Poetry with Liz Lochhead and Tiffany Atkinson'
 location: beccles-library
 location-text: Beccles Library
 event-start-date: 2016-10-25

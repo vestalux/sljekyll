@@ -1,6 +1,6 @@
 ---
 id: october-25-event
-name: "Suffolk Libraries Bookfest: Gavin Extence"
+name: "Gavin Extence: The Empathy Problem"
 location: bury-st-edmunds-library
 location-text: Bury St Edmunds Library
 event-start-date: 2016-10-25
