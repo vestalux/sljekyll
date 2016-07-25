@@ -38,15 +38,9 @@ I was lucky enough to spend the whole day with Suffolk Family Carers on their b
 
 <img src="/images/article/mhw16-suffolk-family-carers-great-cornard.jpg" alt="Suffolk Family Carers bus at Great Cornard" />  
      
-<section class="cf">
+<p><img class="{% include /c/img-float-left.html %}" src="/images/article/mhw16-suffolk-family-carers-haverhill.jpg" alt="Suffolk Family Carers bus at Haverhill" /><img class="{% include /c/img-float-left.html %}" src="/images/article/mhw16-suffolk-family-carers-hadleigh.jpg" alt="Suffolk Family Carers bus at Hadleigh" /></p>
 
-<img class="{% include /c/img-float-left.html %}" src="/images/article/mhw16-suffolk-family-carers-haverhill.jpg" alt="Suffolk Family Carers bus at Haverhill" />  
-
-<img class="{% include /c/img-float-left.html %}" src="/images/article/mhw16-suffolk-family-carers-hadleigh.jpg" alt="Suffolk Family Carers bus at Hadleigh" />
-
-</section>
-
-I also attended Richmond Fellowship's event in Sudbury, celebrating more than 20 years of incredible support in the community for those with mental health problems (Congratulations to them!). It was wonderful to see so many different organisations coming together to share their work and support, along with meeting lots of people from the local community.
+<p class="cf">I also attended Richmond Fellowship's event in Sudbury, celebrating more than 20 years of incredible support in the community for those with mental health problems (Congratulations to them!). It was wonderful to see so many different organisations coming together to share their work and support, along with meeting lots of people from the local community.</p>
 
 <img src="/images/article/mhw16-richmond-fellowship-event-sudbury.jpg" alt="Richmond Fellowship at Sudbury Library" />
 
