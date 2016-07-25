@@ -13,6 +13,6 @@ When you read a novel entitled <cite>Signs Preceding the End of the World</cite>
 
 Any signs the reader thinks they may have uncovered never seem to signify quite what you think. The novel is particularly good in describing harsh desert landscapes and the effect they have on their inhabitants. The language used in this translation is evocative and dry, the events extreme and violent, all hung on a simple, straightforward plot-line. Themes of poverty, need, and crossing boarders both physical and moral are never far from the surface. The titular signs, however, remain tantalisingly elusive.
 
-<em><cite>Signs Preceding the End of the World</cite> is one of the 2016 Brave New Reads. [View the rest of the Brave New Reads books.](http://suffolklibraries.co.uk/fiction/brave-new-reads-2016)</em>
+<em><cite>Signs Preceding the End of the World</cite> is one of the 2016 Brave New Reads. [View the rest of the Brave New Reads books.](https://www.suffolklibraries.co.uk/new-suggestions/fiction/brave-new-reads-2016)</em>
 
 [Order <cite>Signs Preceding the End of the World</cite> from our catalogue →](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/13675608?QRY=CTIBIB%3C%20IRN(46866889)&QRYTEXT=Signs%20preceding%20the%20end%20of%20the%20world)

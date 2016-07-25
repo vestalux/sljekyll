@@ -15,6 +15,6 @@ Against this backdrop we follow Jim Harrison, one of the test pilots chosen for 
 
 In this way, mankind's struggle for control in the physical world is contrasted heartbreakingly with one man’s illusion of command of the fragile human world. How far can they go to win the race, these men who reached for the stars? What can they live with, and what must they live without?
 
-<em><cite>The Last Pilot</cite> is one of the 2016 Brave New Reads. [View the rest of the Brave New Reads books.](http://suffolklibraries.co.uk/fiction/brave-new-reads-2016)</em>
+<em><cite>The Last Pilot</cite> is one of the 2016 Brave New Reads. [View the rest of the Brave New Reads books.](https://www.suffolklibraries.co.uk/new-suggestions/fiction/brave-new-reads-2016)</em>
 
 [Order <cite>The Last Pilot</cite> from our catalogue →](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/11062514?QRY=CTIBIB%3C%20IRN(49013453)&QRYTEXT=The%20last%20pilot)
