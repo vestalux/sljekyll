@@ -1,10 +1,10 @@
 ---
 layout: sidebar-right
 title: New music for August 2016
-date: 2016-06-28 11:20:00+00:00
+date: 2016-08-01 09:00:00+00:00
 author: brandon-king
 category: music
-excerpt: Featuring The Avalanches, Bat for Lashes and Biffy Clyro.
+excerpt: Featuring Viola Beach, Bear's Den and NAO.
 breadcrumb: music
 ---
 ![Viola Beach by Viola Beach](/images/featured/featured-viola-beach.jpg)
