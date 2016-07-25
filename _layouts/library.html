@@ -39,7 +39,7 @@
                         <p>{{ page.branch-address }}<br>
                         {{ page.branch-post-code }}</p>
 
-                        <p>Tel: <strong>{{ page.branch-tel }}</strong><br>
+                        <p>Tel: <strong><a href="tel:{{ page.branch-tel }}">{{ page.branch-tel }}</a></strong><br>
                         {% if page.branch-fax %}
                         Fax: <strong>{{ page.branch-fax }}</strong><br>
                         {% endif %}
