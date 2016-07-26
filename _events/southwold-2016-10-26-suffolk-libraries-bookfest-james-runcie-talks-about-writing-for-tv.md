@@ -1,23 +1,26 @@
 ---
 id: october-26-event
-name: James Runcie talks about writing for TV
+name: 'James Runcie on writing for tv, with Paul Heiney'
 location: southwold-library
 location-text: Southwold Library
 event-start-date: 2016-10-26
 event-start-time: 1500
 event-end-time: 1600
+event-alt-location: St Edmund's Hall, Southwold
+event-alt-location-link: https://goo.gl/maps/D4yPngaWEo82
+event-ticket-price: 6
+event-doors-open: 1430
 event-ticket-url: https://www.eventbrite.co.uk/e/james-runcie-talks-about-writing-for-tv-tickets-26051152699
 event-category: bookfest
 hnav: bookfest
 breadcrumb: y
 ---
+
 <img src="/images/article/bookfest-james-runcie-r.jpg" class="custom-br-50 {% include /c/img-float-right.html %}" />
 
-The creator of the <cite>Grantchester</cite> series of novels, James will talk about how his novels have been turned into the hugely successful TV drama series.
+<p class="mt0"><strong>The creator of the <cite>Grantchester</cite> series of novels, James will talk about how his novels have been turned into the hugely successful TV drama series.</strong></p>
 
 An accomplished documentary and film maker in his own right, James will be a fascinating speaker on TV and film writing and adaptation.
-
-Tickets £6.
 
 <img src="/images/article/james-runcie-sidney-chambers-and-the-shadow-of-death.jpg" alt="Sidney Chambers and The Shadow of Death by James Runcie" class="{% include /c/img-float-left.html %}" />
 
