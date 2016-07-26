@@ -6,16 +6,17 @@ location-text: Bury St Edmunds Library
 event-start-date: 2016-10-25
 event-start-time: 1930
 event-end-time: 2130
+event-ticket-price: 6
+event-doors-open: 1900
 event-ticket-url: https://www.eventbrite.co.uk/e/gavin-extence-tickets-26050517800
 event-category: bookfest
 hnav: bookfest
 breadcrumb: y
 ---
-This best-selling, entertaining author will be talking about his latest novel <cite>The Empathy Problem</cite> as well as his other two titles, exploring how he has presented mental health issues with humour and sensitivity.
 
-Tickets £6 with refreshments for sale on arrival.
+**This best-selling, entertaining author will be talking about his latest novel <cite>The Empathy Problem</cite> as well as his other two titles, exploring how he has presented mental health issues with humour and sensitivity.**
 
-<hr>
+Refreshments for sale on arrival.
 
 Gavin Extence is the author of three stunning novels which are simultaneously funny and compelling as well as thought-provoking and challenging. He tackles potentially difficult and sometimes troubling subjects with a lightness and warmth, wit and humour.
 
