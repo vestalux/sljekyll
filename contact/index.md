@@ -2,6 +2,7 @@
 layout: full-width
 title: Contact
 breadcrumb: home
+published: true
 ---
 Contact us if you have a question, complaint or need any information about the library service.
 
@@ -16,9 +17,9 @@ Contact us if you have a question, complaint or need any information about the l
 
 Write to:
 
-Suffolk Libraries
-Ipswich County Library
-Northgate Street
+Suffolk Libraries<br>
+Ipswich County Library<br>
+Northgate Street<br>
 Ipswich, IP1 3DE
 
 Head office telephone: 01473 263811
