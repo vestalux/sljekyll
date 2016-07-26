@@ -1,17 +1,19 @@
 ---
 id: october-25-event
-name: 'North and south: Poetry with Liz Lochhead and Tiffany Atkinson'
+name: Poets Liz Lochhead and Tiffany Atkinson in conversation
 location: beccles-library
 location-text: Beccles Library
 event-start-date: 2016-10-25
 event-start-time: 1930
 event-end-time: 2130
+event-doors-open: 1900
+event-ticket-price: 6
 event-ticket-url: https://www.eventbrite.co.uk/e/liz-lochhead-with-tiffany-atkinson-tickets-26050890916
 event-category: bookfest
 hnav: bookfest
 breadcrumb: y
 ---
-Two remarkable poets of international reputation are coming to Beccles Library for Bookfest!
+**Two remarkable poets of international reputation are coming to Beccles Library for Bookfest!**
 
 <img src="/images/article/bookfest-liz-lochhead-r.jpg" class="custom-br-50 {% include /c/img-float-right.html %}" />
 
@@ -22,8 +24,6 @@ Liz Lochhead was Scots Makar – the Scottish equivalent of Poet Laureate – fr
 Tiffany Atkinson is an award-winning poet and Professor of Creative Writing at the University of East Anglia. A funny and moving reader, her brilliant use of words and unusual imagery makes the everyday fresh and vivid. She is the author of three poetry collections: Kink and Particle (2006), which was a Poetry Book Society Recommendation and winner of the Jerwood Aldeburgh First Collection Prize; Catulla et al (2011), which received a Literature Wales Bursary and was shortlisted for the Wales Book of the Year prize; and So Many Moving Parts (2014), which was a Poetry Book Society Recommendation.
 
 Liz and Tiffany will both read from their work and will be in conversation with library manager, Ellen McAteer. There will be a cash bar serving refreshments when the doors open at 7pm.
-
-Tickets &pound;6
 
 <img src="/images/article/liz-lochhead-a-choosing-selected-poems.jpg" alt="A Choosing Selected Poems by Liz Lochhead" class="{% include /c/img-float-left.html %}" />
 

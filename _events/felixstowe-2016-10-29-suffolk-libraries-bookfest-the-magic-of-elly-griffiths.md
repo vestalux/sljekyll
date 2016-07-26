@@ -6,6 +6,8 @@ location-text: Felixstowe Library
 event-start-date: 2016-10-29
 event-start-time: 1900
 event-end-time: 2100
+event-doors-open: 1830
+event-ticket-price: 8
 event-ticket-url: https://www.eventbrite.co.uk/e/the-magic-of-elly-griffiths-tickets-26051437551
 event-category: bookfest
 hnav: bookfest

@@ -6,6 +6,8 @@ location-text: Halesworth Library
 event-start-date: 2016-10-27
 event-start-time: 1930
 event-end-time: 2130
+event-doors-open: 1900
+event-ticket-price: 6
 event-ticket-url: https://www.eventbrite.co.uk/e/meeting-queen-bees-with-historian-sian-evans-tickets-26754017988
 event-category: bookfest
 hnav: bookfest
@@ -14,6 +16,8 @@ breadcrumb: y
 **In the aftermath of the First World War, the previously strict hierarchies of the British class system were weakened. For a number of ambitious, spirited women, this was the chance they needed to take their place at the top of society as the great hostesses of the time. Cultural historian, Sian Evans tells us more.**
 
 Introducing this witty, entertaining and fascinating account of a social revolution, Sian will be giving an illustrated talk about her book <cite>Queen Bees</cite>, published this autumn.
+
+<img src="/images/article/bookfest-sian-evans-r.jpg" class="custom-br-50 fl mr3" />
 
 Sian is a cultural historian who has worked for the National Trust, the V&A and the Design Museum. She will be explaining how, in an age when the place of women was uncertain, becoming a hostess was not a chore but a career choice, and though some of the hostesses' backgrounds were surprisingly humble, their aspirations were anything but. During the inter-war years, these extraordinary women ruled over London society from their dining tables and salons - entertaining everyone from the Mosleys to the Mitfords, from millionaires to maharajahs, from film stars to royalty.
 
