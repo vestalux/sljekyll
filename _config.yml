@@ -13,10 +13,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.suffolklibraries.co.uk" # the base hostname & protocol for your site
 twitter_username: suffolklibrary
 github_username:  suffolklibraries
-message_title: We've changed our website
-message: Comments or questions?
-message_link: feedback
-message_link_text: Leave feedback
+message_title: Summer Reading Challenge
+message: Get your children reading over the summer.
+message_link: libraries
+message_link_text: Sign up at your local library
 
 
 
