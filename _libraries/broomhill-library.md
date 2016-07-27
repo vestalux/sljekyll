@@ -3,7 +3,7 @@ branch-unique-id: broomhill-library
 branch-name: Broomhill Library (formerly Westbourne)
 branch-image: /images/branches/broomhill-library.jpg
 branch-monday-hours: 0930 – 1230
-branch-tuesday-hours:	0900 – 1700
+branch-tuesday-hours:	0930 – 1700
 branch-wednesday-hours:	0930 – 1700
 branch-thursday-hours: 0930 – 1700
 branch-friday-hours: 0930 – 1830
