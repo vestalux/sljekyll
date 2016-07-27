@@ -50,7 +50,7 @@ Here are some of the organisations and information sources available for a varie
 <h3 id="advocacy">Advocacy and mediation</h3>
 <ul>
 	<li><a href="http://www.aceanglia.com/ace-easy-read">Ace Anglia</a> - An independent Suffolk based advocacy service for people with learning disabilities</li>
-	<li><a href="http://feedbackaspire.co.uk">Feedback</a> - Offers support to help express your views on mental health in Great Yarmouth and Waveney</li>
+	<li><a href="http://feedbackhealth.uk/">Feedback</a> - Offers support to help express your views on mental health in Great Yarmouth and Waveney</li>
 	<li><a href="http://www.suffolkfamilycarers.org">Suffolk Family Carers</a> - Support and advice for unpaid family carers in Suffolk</li>
 	<li><a href="http://www.suffolkuserforum.co.uk">Suffolk User Forum</a> - Operating through the east and west of Suffolk helping to shape the mental health services</li>
 	<li><a href="http://www.voiceability.org/in_your_area/suffolk">Voiceability Total Voice Suffolk</a> - Mental health advocacy service, including IMHA and IMCA services</li>
@@ -110,7 +110,7 @@ Here are some of the organisations and information sources available for a varie
 	<li><a href="http://www.nhs.uk/Livewell/counselling/Pages/Counsellinghome.aspx">NHS Choices</a> - The benefits of talking therapy explained</li>
 	<li><a href="http://www.counselling-directory.org.uk/search.php?search=Suffolk">Counselling Directory</a> - Suffolk based counsellors, contact details and what services they charge</li>
 	<li><a href="http://www.cruse.org.uk">Cruse bereavement care</a> - Organisation to help with grief after the death of someone</li>
-	<li><a href="http://www.llttf.com">Living Life to the Full</a> - UK online based therapy (see <a href="http://www.nice.org.uk/nicemedia/live/11568/33191/33191.pdf">NICE guidance</a>)</li>
+	<li><a href="http://www.llttf.com">Living Life to the Full</a> - UK online based therapy</li>
 	<li><a href="http://ptsdresolution.org">PTSD Resolution</a> - Counselling for veterans and their families</li>
 	<li><a href=" http://www.suffolkmind.org.uk/healthy-mind-counselling.asp">Suffolk Mind</a> - Healthy Minds counselling services information</li>
 </ul>
@@ -184,7 +184,7 @@ Here are some of the organisations and information sources available for a varie
 	<li><a href="http://www.mind.org.uk">Mind</a> - Advice and guidance from national charity with up to date campaign news and facts about living with mental ill health</li>
 	<li><a href="http://www.rethink.org">Rethink</a> - Information and guidance, local support groups and telephone support both locally and nationally</li>
 	<li><a href="http://www.samaritans.org/">Samaritans</a> - Available 24 hours, 7 days a week</li>
-	<li><a href="http://www.sane.org.uk/what_we_do/support/helpline">Saneline</a> - <i>National campaigning charity, phone helpline (available 1800-2300), information and guidance</i></li>
+	<li><a href="http://www.sane.org.uk/what_we_do/support/helpline">Saneline</a> - National campaigning charity, phone helpline (available 1800-2300), information and guidance</li>
 </ul>
 <h3 id="personality">Personality disorder</h3>
 <ul class="xoxo blogroll">

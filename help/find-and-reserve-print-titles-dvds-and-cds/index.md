@@ -7,7 +7,7 @@ sidebar: help
 
 ## Print books, audiobooks, CDs and DVDs
 
-**We don&#8217;t charge for reservations**, unless you&#8217;re making an [interlibrary loan](/help/reservations/requests/inter-library-loans/).
+**We don&#8217;t charge for reservations**, unless you&#8217;re making an [interlibrary loan](/help/reservations-requests-inter-library-loans/).
 
 You can reserve a title by:
 

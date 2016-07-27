@@ -7,7 +7,7 @@ category: blog
 excerpt: Sarah tells us how Rosehill Library is using an inventive technique to get readers interested in new books and genres.
 breadcrumb: blog
 ---
-Our new display at [Rosehill Library](/branches/rosehill-library) draws attention to the fact that we&#8217;re closed over the Easter weekend, by encouraging our readers to try something different.
+Our new display at [Rosehill Library](/libraries/rosehill-library) draws attention to the fact that we&#8217;re closed over the Easter weekend, by encouraging our readers to try something different.
 
 All the books are wrapped in plain paper with the first line of the book, the genre and the accession number printed on the front.
 

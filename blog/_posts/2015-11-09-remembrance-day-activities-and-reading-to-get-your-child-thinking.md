@@ -13,27 +13,35 @@ Try these books, websites and colouring activities to get your child thinking ab
 
 [Reading War](http://www.readingwar.co.uk/index.html) is an online resource from publisher [Barrington Stoke](http://www.barringtonstoke.co.uk/) which is packed with information on World War I and explores war themes in two very different very novels.
 
-### [<cite>Tilly&#8217;s Promise</cite> by Linda Newbery](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4386622?QRY=CTIBIB%3C%20IRN(32304429)&QRYTEXT=Tilly%27s%20Promise)
+<section class="cf">
 
-![Tilly's promise by Linda Newbery](/images/article/tillys-promise.jpg)
+<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4386622?QRY=CTIBIB%3C%20IRN(32304429)&QRYTEXT=Tilly%27s%20Promise"><cite>Tilly&#8217;s Promise</cite> by Linda Newbery</a></h3>
 
-The introduction to <cite>Tilly’s Promise</cite> is right in pointing out that “when we think of the First World War, we think of trenches and soldiers, guns and shells and gas attacks. But the War affected everyone in Britain, including those at home.”
+<a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4386622?QRY=CTIBIB%3C%20IRN(32304429)&QRYTEXT=Tilly%27s%20Promise"><img class="{% include /c/img-float-left.html %}" src="/images/article/tillys-promise.jpg" alt="Tilly's promise by Linda Newbery" /></a>
 
-The book is about a young nurse called Tilly and her brother with learning difficulties who is called up to fight at the front line. Tilly tries to protect her brother, but can she save him?
+<p class="mt0">The introduction to <cite>Tilly’s Promise</cite> is right in pointing out that “when we think of the First World War, we think of trenches and soldiers, guns and shells and gas attacks. But the War affected everyone in Britain, including those at home.”</p>
 
-There are lots of interesting interactive elements on their [microsite](http://www.readingwar.co.uk/tilly-s-promise-home.html), including a video of the author reading the first chapter (which you can alternatively read yourself) and an embroidery activity.
+<p>The book is about a young nurse called Tilly and her brother with learning difficulties who is called up to fight at the front line. Tilly tries to protect her brother, but can she save him?</p>
 
-### [<cite>Over the Line</cite> by Tom Palmer](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4387929?QRY=CTIBIB%3C%20IRN(842960)&QRYTEXT=Over%20the%20line)
+<p>There are lots of interesting interactive elements on their <a href="http://www.readingwar.co.uk/tilly-s-promise-home.html">microsite</a>, including a video of the author reading the first chapter (which you can alternatively read yourself) and an embroidery activity.</p>
 
-![Over the line by Tom Palmer](/images/article/over-the-line.jpg)
+</section>
 
-Did you know that the player who scored England’s first international goal after World War One was a survivor of the trenches?
+<section class="cf">
 
-Set in 1914, this book focuses on a young man called Jack making his debut as a pro footballer. However, as the war drags on, Jack is thrown into a nightmare world he will be lucky to survive.
+<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4387929?QRY=CTIBIB%3C%20IRN(842960)&QRYTEXT=Over%20the%20line"><cite>Over the Line</cite> by Tom Palmer</a></h3>
 
-The [microsite](http://www.readingwar.co.uk/over-the-line-home.html) has lots of amazing stuff that will entertain young people who are into football. There’s information, quizzes, videos about the trenches and you can even listen to author Tom Palmer reading the first chapter of <cite>Over the Line</cite>!
+<a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/4387929?QRY=CTIBIB%3C%20IRN(842960)&QRYTEXT=Over%20the%20line"><img class="{% include /c/img-float-left.html %}" src="/images/article/over-the-line.jpg" alt="Over the line by Tom Palmer" /></a>
 
-You can find more reading inspiration for children and young adults about WWI and WWII in our [Remembrance Day book list](http://suffolklibraries.co.uk/childrens-book-lists/remembrance-day-for-children-and-young-adults-in-2015).
+<p class="mt0">Did you know that the player who scored England’s first international goal after World War One was a survivor of the trenches?</p>
+
+<p>Set in 1914, this book focuses on a young man called Jack making his debut as a pro footballer. However, as the war drags on, Jack is thrown into a nightmare world he will be lucky to survive.</p>
+
+<p>The <a href="http://www.readingwar.co.uk/over-the-line-home.html">microsite</a> has lots of amazing stuff that will entertain young people who are into football. There’s information, quizzes, videos about the trenches and you can even listen to author Tom Palmer reading the first chapter of <cite>Over the Line</cite>!</p>
+
+<p>You can find more reading inspiration for children and young adults about WWI and WWII in our <a href="/new-suggestions/childrens-ya-books/remembrance-day-for-children-and-young-adults-in-2015/">Remembrance Day book list</a>.</p>
+
+</section>
 
 ## History Alive
 
