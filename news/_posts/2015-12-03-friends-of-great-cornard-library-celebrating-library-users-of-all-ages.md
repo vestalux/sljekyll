@@ -12,9 +12,3 @@ The Friends of Great Cornard Community Library have been marking a double celebr
 Joan Herbert, a member of the Friends group, which works to support and develop the library, was 80 on 25 November and was presented with flowers, cards and a cake. Joan is a valued member of the library community – she is also a member of the library’s Top Time group, a summer reading challenge volunteer and helps out on craft and activity days.
 
 This celebration came two days after the birth of the library’s newest member, Nathan Easting, whose mum Kelly-Jane is the Friends group’s treasurer. Nathan visited the library on 27 November where he was signed up as a Suffolk Libraries member and received his first library card.
-
-![Joan Herbert cuts a cake](http://suffolklibraries.co.uk/wp-content/uploads/2015/12/joan-herbert.jpg)
-*Joan Herbert, member of the Friends of Great Cornard Community Library*
-
-![Nathan Easting](http://suffolklibraries.co.uk/wp-content/uploads/2015/12/SAM_0614.jpg)
-*Nathan Easting, Suffolk Libraries&#8217; youngest member*

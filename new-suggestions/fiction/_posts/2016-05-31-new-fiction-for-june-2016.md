@@ -35,7 +35,7 @@ breadcrumb: fiction
 
 <h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/1091168?QRY=CTIBIB%3C%20IRN(1343788)&amp;QRYTEXT=The%20muse"><cite>The muse</cite> by Jessie Burton</a></h2>
 
-<a href="The muse by Jessie Burton"><img class="{% include /c/img-float-left.html %}" src="/images/article/the-muse.jpg" alt="" /></a>
+<a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/1091168?QRY=CTIBIB%3C%20IRN(1343788)&amp;QRYTEXT=The%20muse"><img class="{% include /c/img-float-left.html %}" src="/images/article/the-muse.jpg" alt="The muse by Jessie Burton" /></a>
 
 <p class="mt0">How do you follow up a blockbuster like <cite>The Miniaturist</cite> which sold over a million copies worldwide?</p>
 

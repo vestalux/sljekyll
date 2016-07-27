@@ -73,7 +73,7 @@ Children who read for pleasure do better at school. Before you even get to the e
 
 * Our [children's book lists](/new-suggestions/childrens-ya-books/)
 * Books by genre for [5 - 8 year olds](http://www.booktrust.org.uk/#/d/books/bookfinder/109) and for [9 - 12 years olds](http://www.booktrust.org.uk/#/d/books/bookfinder/110) from Booktrust
-* Featured books for older children from [Lovereading4kids](ttp://www.lovereading4kids.co.uk/genre/7/7-plus-readers.html)
+* Featured books for older children from [Lovereading4kids](http://www.lovereading4kids.co.uk/genre/7/7-plus-readers.html)
 * [The Guardian's](http://www.theguardian.com/childrens-books-site) updates on children's books
 * The best children's books of 2014 from the [Daily Telegraph](http://www.telegraph.co.uk/culture/books/bookreviews/11033621/The-best-childrens-books.html)
 

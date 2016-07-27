@@ -7,7 +7,7 @@ category: news
 excerpt: Stradbroke will soon have a post office again after Suffolk Libraries had an application approved to provide a new facility in Stradbroke Library.
 breadcrumb: news
 ---
-Stradbroke will soon have a post office again after Suffolk Libraries had an application approved to provide a new facility in [Stradbroke Library](/branches/stradbroke-library).
+Stradbroke will soon have a post office again after Suffolk Libraries had an application approved to provide a new facility in [Stradbroke Library](/libraries/stradbroke-library).
 
 The application was approved last week by Post Office Ltd after they interviewed representatives from Suffolk Libraries. Suffolk Libraries has been working in partnership on this project with the Stradbroke Courthouse and Library Trust – the library’s ‘Friends’ group.
 

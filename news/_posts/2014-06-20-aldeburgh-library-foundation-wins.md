@@ -25,4 +25,4 @@ This award is deserved recognition for everyone involved in the project which ha
 
 The Suffolk Adult Learner Awards are organised by Leap and the Suffolk Partnership for Informal Adult Learning (SPIAL) and the event was compered by BBC Radio Suffolk presenter and University Campus Suffolk (UCS) Honorary Graduate, Mark Murphy who also interviewed Lynne Walker from the Aldeburgh Library Foundation about the group&#8217;s success for BBC Radio Suffolk.  The Learning Project of the Year  award was sponsored by the Eastern Enterprise Hub.
 
-For more information about the awards visit the [LEAP website](http://www.leap.ac.uk/) . You can also see a list of courses, events and activities at [Aldeburgh Library](/branches/aldeburgh-library/).
+For more information about the awards visit the [LEAP website](http://www.leap.ac.uk/) . You can also see a list of courses, events and activities at [Aldeburgh Library](/libraries/aldeburgh-library/).

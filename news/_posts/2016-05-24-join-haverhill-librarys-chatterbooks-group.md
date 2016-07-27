@@ -13,7 +13,7 @@ The next Chatterbooks session is running this Saturday (28 May) from 10.30am to 
 
 The Chatterbooks sessions are part of a pilot project running on the last Saturday of the month for four months and if successful will lead to a more permanent session in the library.
 
-Please contact [Haverhill Library](/branches/haverhill-library/) for more information.
+Please contact [Haverhill Library](/libraries/haverhill-library/) for more information.
 
 **Reviews of Chatterbooks:**
 

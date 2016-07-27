@@ -29,7 +29,7 @@ After the war she worked first in Paris and then in New York, on Madison Avenue,
 
 Have you ever had a strange urge to jump from a tall building, or steer your car into oncoming traffic? You are not alone. In this captivating fusion of science, history and personal memoir, writer David Adam explores the weird thoughts that exist within every mind, and how they drive millions of us towards obsessions and compulsions.
 
-## [<cite>Michelle Collins: this is me</cite> by Michelle Collins](hhttps://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20907184?QRY=CTIBIB%3C%20IRN(38545667)&QRYTEXT=Michelle%20Collins%20%3A%20this%20is%20me)
+## [<cite>Michelle Collins: this is me</cite> by Michelle Collins](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20907184?QRY=CTIBIB%3C%20IRN(38545667)&QRYTEXT=Michelle%20Collins%20%3A%20this%20is%20me)
 
 Michelle Collins has played iconic roles in the two most watched soap operas on British television. In the 1990s she played the backstabbing blonde, Cindy Beale, in EastEnders, and in 2011 she joined the cast of Coronation Street and now plays much–loved Rovers Return landlady, Stella Price.
 

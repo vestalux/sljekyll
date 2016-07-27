@@ -19,6 +19,5 @@ The campaign fits in with Suffolk Libraries&#8217; aims to encourage more people
 
 Get started with Weather Watchers:
 
-  * [Watch a short introductory video about the campaign](http://www.bbc.co.uk/weather/features/34716587)
-  * [Sign up for free](http://www.bbc.co.uk/weatherwatchers)
-  * [Frequently asked questions about Weather Watchers](http://www.bbc.co.uk/weatherwatchers/article/34118643/weather-watchers-faqs)
+* [Sign up for free](http://www.bbc.co.uk/weatherwatchers)
+* [Frequently asked questions about Weather Watchers](http://www.bbc.co.uk/weatherwatchers/article/34118643/weather-watchers-faqs)

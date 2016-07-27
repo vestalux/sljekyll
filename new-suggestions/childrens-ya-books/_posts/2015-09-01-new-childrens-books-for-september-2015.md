@@ -141,7 +141,7 @@ The final book of Terry Pratchett’s <cite>Discworld</cite> series, has been ea
 
 ### [<cite>Monsters</cite> by Emerald Fennell](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/24879217?QRY=CTIBIB%3C%20IRN(9096)&QRYTEXT=Monsters)
 
-[![Monsters by Emerald Fennell](/images/article/monsters.jpg)](hhttps://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/24879217?QRY=CTIBIB%3C%20IRN(9096)&QRYTEXT=Monsters)
+[![Monsters by Emerald Fennell](/images/article/monsters.jpg)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/24879217?QRY=CTIBIB%3C%20IRN(9096)&QRYTEXT=Monsters)
 
 “Set in the Cornish town of Fowey, all is not as idyllic as it might seem. When the body of a young woman is discovered in the nets of a fishing boat, a 12 year old girl is delighted, because she loves murders. Soon she is questioning the inhabitants of the town in her own personal investigation. But it is a bit boring on her own. Then Miles Giffard, a similarly odd twelve-year-old boy, arrives in Fowey with his parents, and they start investigating together.”
 

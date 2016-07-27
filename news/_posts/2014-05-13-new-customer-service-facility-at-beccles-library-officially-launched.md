@@ -9,7 +9,7 @@ breadcrumb: news
 ---
 ![Waveney District Council, Suffolk Libraries and the Mayor of Beccles at the launch of the new facility](/images/article/beccles-library-customer-service-facility-launch.jpg)
 
-Waveney District Council&#8217;s new Customer Services facility at [Beccles Library](/branches/beccles-library) has had its official launch.
+Waveney District Council&#8217;s new Customer Services facility at [Beccles Library](/libraries/beccles-library) has had its official launch.
 
 The library now hosts a Waveney District Council customer desk and a private interview area has now been completed which, in due course, will also host housing information and benefits surgeries, as well as being available to other community groups.
 

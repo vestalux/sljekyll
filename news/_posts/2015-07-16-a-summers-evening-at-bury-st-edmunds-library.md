@@ -5,6 +5,7 @@ date: 2015-07-16 08:50:13+00:00
 author: james-powell
 category: news
 excerpt: Bury St Edmunds Library is holding a special summer fundraising event next month to give people a chance to enjoy some of the best local arts whilst experiencing the library in a different way.
+breadcrumb: news
 ---
 Bury St Edmunds Library is holding a special summer fundraising event next month to give people a chance to enjoy some of the best local arts whilst experiencing the library in a different way.
 

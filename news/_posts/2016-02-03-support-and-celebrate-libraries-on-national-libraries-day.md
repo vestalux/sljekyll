@@ -38,6 +38,6 @@ National Libraries Day events are also taking place in libraries in Suffolk on S
   * Lowestoft Library are hosting an information event for people interested in becoming a foster carer from 10am to 4pm. Whilst not directly linked to National Libraries Day this is a great example of the way libraries provide a perfect place for community organisations to get their message out to hundreds of people.
   * Saxmundham Library is also hosting a pottery painting session from 2pm and Halesworth Library is running an Italian workshop from 1pm to 4pm. Anyone interested can contact the libraries directly for more information.
 
-Suffolk Libraries are also currently promoting [a list of children’s books for National Libraries Day](/new-suggestions/childrens-ya-books/national-libraries-day-for-children-in-2016) which all have a library theme.
+Suffolk Libraries are also currently promoting [a list of children’s books for National Libraries Day](/new-suggestions/childrens-ya-books/national-libraries-day-for-children-in-2016/) which all have a library theme.
 
 In the lead up to Suffolk Libraries Day many libraries are also hosting events for Harry Potter Book Night on Thursday 4 February, many of which are already sold out.

@@ -15,7 +15,7 @@ The world’s leading exponent of chap-hop, the musical marriage of civility and
 
 Support comes from Cambridge’s celebrated electronic musical artist Pete Um, who recently supported Hot Chip on their UK arena tour to great acclaim.
 
-[Tickets are available now](https://www.ticketsource.co.uk/date/FEKHEJ) for this unmissable affair, which cost £9 plus booking fee and will soon be available to buy over the counter at Ipswich County Library. If there are any tickets remaining, entry on the night will cost £11. Doors will be open at 7.30pm and a fully-licensed bar will be available on the premises.
+Tickets are available now for this unmissable affair, which cost £9 plus booking fee and will soon be available to buy over the counter at Ipswich County Library. If there are any tickets remaining, entry on the night will cost £11. Doors will be open at 7.30pm and a fully-licensed bar will be available on the premises.
 
 The event follows the success of a sell-out show at Ipswich Library featuring Americana band Police Dog Hogan early in November. The library has other live music performances scheduled for next year including ‘Dream Themes’, a band who specialise in playing television theme tunes, on Saturday 4 June, and Primo Nelson – a 12 piece funk band who will appear on Saturday 12 November.
 

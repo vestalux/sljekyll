@@ -4,7 +4,7 @@ title: Lesley's Readers on BBC Radio Suffolk book choice for June
 date: 2016-06-09 14:27:00 +00:00
 author: james-powell
 category: news
-excerpt: Each month BBC Radio Suffolk presenter Lesley Dolphin is in conversation with journalist, Catherine Larner as part of the Lesley's Reads monthly book group. This month the chosen book is <strong><cite>The Last Pilot</cite></strong> by Benjamin Johncock which is also one of this year's <a href="http://suffolklibraries.co.uk/book-lists/brave-new-reads-2016">Brave New Reads</a> books.
+excerpt: Each month BBC Radio Suffolk presenter Lesley Dolphin is in conversation with journalist, Catherine Larner as part of the Lesley's Reads monthly book group. This month the chosen book is <strong><cite>The Last Pilot</cite></strong> by Benjamin Johncock which is also one of this year's <a href="/new-suggestions/fiction/brave-new-reads-2016/">Brave New Reads</a> books.
 breadcrumb: news
 ---
 Each month BBC Radio Suffolk presenter Lesley Dolphin is in conversation with journalist, Catherine Larner as part of the Lesley's Reads monthly book group.

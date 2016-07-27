@@ -40,9 +40,7 @@ The new environment has been created to cater for the diverse needs of businesse
 The hub aims to provide somewhere to suit all these needs with three meeting rooms, a presentation suite, a hot-desk space, a large breakout area and a dedicated kitchen. Suffolk Libraries will also be working with local schools and academies to explore the potential benefits the space could provide for their students.
 
 ![In the Lab: (L-R) Peter Callaghan, Henry Evans, Alison Wheeler, Jonathan Ogden and Tony Brown.](/images/article/hub-launch-landscape.jpg)
-
 *In the Lab: (L-R) Peter Callaghan, Henry Evans, Alison Wheeler, Jonathan Ogden and Tony Brown.*
 
 ![In the Carnegie Room: (L-R) Sarah Stamp, Tony Brown, Alison Wheeler, Brian Ashley and John Stenhouse.](/images/article/hub-launch-portrait.jpg)
-
 *In the Carnegie Room: (L-R) Sarah Stamp, Tony Brown, Alison Wheeler, Brian Ashley and John Stenhouse.*

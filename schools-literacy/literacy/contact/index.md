@@ -12,5 +12,5 @@ IP1 3DE
 
 Mobile: **07490498191**<br>
 Email: **matthew.shenton@suffolklibraries.co.uk**<br>
-Web: [www.suffolklibraries.co.uk](www.suffolklibraries.co.uk)<br>
+Web: [www.suffolklibraries.co.uk](http://www.suffolklibraries.co.uk)<br>
 Twitter: [@mjes](http://twitter.com/mjes)

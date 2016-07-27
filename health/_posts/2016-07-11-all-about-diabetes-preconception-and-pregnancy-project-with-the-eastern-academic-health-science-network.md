@@ -28,7 +28,7 @@ We have produced a variety of educational materials and are engaging the support
 
 They can contact their GP or their diabetes team. We also have a midwife working on the project who can be contacted at [EAHSN.diabetes@nhs.net](mailto:EAHSN.diabetes@nhs.net).
 
-Further details of the project can be found at [www.eahsn.org](www.eahsn.org).
+Further details of the project can be found at [www.eahsn.org](http://www.eahsn.org).
 
 **If you could give one piece of advice to someone who might be struggling with their mental health or wellbeing, what would it be?**
 

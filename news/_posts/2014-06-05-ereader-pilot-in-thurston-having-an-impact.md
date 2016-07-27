@@ -8,7 +8,7 @@ excerpt: Following our recent launch of a pilot project to lend eReaders to libr
 breadcrumb: news
 ---
 
-Following our recent launch of a pilot project to lend eReaders to library customers at [Thurston Library](/branches/thurston-library), we&#8217;ve already had some great feedback from a customer.
+Following our recent launch of a pilot project to lend eReaders to library customers at [Thurston Library](/libraries/thurston-library), we&#8217;ve already had some great feedback from a customer.
 
 Mr Self from Stowmarket heard about the eReaders and borrowed a NOOK with a Barbara Taylor-Bradford novel downloaded on it for his 91 year old mother. She has issues with her eyesight and was having problems holding heavier large print books. They have both been impressed and Mr Self thinks it will make a big difference to his mother’s life. He says:
 

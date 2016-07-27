@@ -21,7 +21,7 @@ In [week 1](/schools-literacy/literacy/running-a-reading-hack-group-week-1) we l
 
 ## Week 5
 
-This week the Hackers were going to get poetic. I had been keen to do some 'cut-ups' and blackout poetry for a while, and had suggested this to our Hackers who responded enthusiastically. Ellen McAteer, library manager at Beccles, has strong links with [The Poetry Trust](http://www.thepoetrytrust.org/) and suggested I checked out their fantastic [<cite>The Poetry Toolkit: fool proof recipes for teaching poetry in the classroom</cite>](ttp://www.thepoetrytrust.org/poetry_toolkit/) for some ideas.
+This week the Hackers were going to get poetic. I had been keen to do some 'cut-ups' and blackout poetry for a while, and had suggested this to our Hackers who responded enthusiastically. Ellen McAteer, library manager at Beccles, has strong links with [The Poetry Trust](http://www.thepoetrytrust.org/) and suggested I checked out their fantastic [<cite>The Poetry Toolkit: fool proof recipes for teaching poetry in the classroom</cite>](http://www.thepoetrytrust.org/poetry_toolkit/) for some ideas.
 
 Staff at Beccles library collected some withdrawn books for the [blackout poetry](http://readinghack.org.uk/hacks/184) and I adapted the [Poetry Jigsaw](http://readinghack.org.uk/hacks/183) activity from the toolkit. I added both Hacks to the Reading Hack website in advance by adapting a Hack design already available.
 

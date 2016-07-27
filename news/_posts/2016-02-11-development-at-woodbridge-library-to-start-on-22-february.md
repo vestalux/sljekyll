@@ -17,4 +17,4 @@ Please talk to library staff if you have any questions or concerns about the wor
 
 [Read further information about the project.](/news/new-customer-services-development-at-woodbridge-library)
 
-Suffolk Coastal: [Work Starting on One Stop Shop at Woodbridge Library](/news/work-starting-on-one-stop-shop-at-woodbridge-library/)
+Suffolk Coastal: [Work Starting on One Stop Shop at Woodbridge Library](http://choosewoodbridge.co.uk/news/1243-1243)

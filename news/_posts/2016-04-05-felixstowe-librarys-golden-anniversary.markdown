@@ -11,7 +11,7 @@ breadcrumb: news
 
 *Felixstowe Library in 1966.*
 
-This April marks 50 years since [Felixstowe Library](/branches/felixstowe-library) opened for the first time.
+This April marks 50 years since [Felixstowe Library](/libraries/felixstowe-library) opened for the first time.
 
 The library will be marking this milestone in several ways.
 
