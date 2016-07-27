@@ -33,7 +33,8 @@ breadcrumb: elibrary
 10. Then click the ‘Login’ button
 11. Suffolk Libraries 3M Cloud Library service will now be available to use
 
-## Borrowing eBooks with 3M Cloud Library
+
+##Borrowing eBooks with 3M Cloud Library
 
 ### On a tablet or smartphone
 
