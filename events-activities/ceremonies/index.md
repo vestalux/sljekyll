@@ -4,6 +4,7 @@ title: Northgate Room weddings and other ceremonies
 hero-image: hero-ceremonies.jpg
 hero-alt: A couple getting married in the Northgate Room
 breadcrumb: events
+published: true
 ---
 <h1 class="{% include /c/page-title.html %}">Northgate Room hire for weddings and other ceremonies</h1>
 
@@ -47,19 +48,11 @@ breadcrumb: events
 
     <div class="cf">
 
-        <div class="custom-g-r4">
+        <div class="custom-g-l4">
 
             <p>The Northgate Room offers a unique and historic venue for ceremonies in the heart of Ipswich. It would be a great choice for book lovers, regular library customers or anyone looking for a reasonably priced venue with a difference.</p>
 
             <p>The Northgate Room will be available to hire for £350 on Fridays and Saturday and £300 Monday to Thursday. This price covers the hire of the room but not the Registrars or other associated costs. The ceremony license also covers the library’s Lecture Hall and Enterprise and Innovation Hub which are available for hire.</p>
-
-        </div>
-
-    </div>
-
-    <div class="cf">
-
-        <div class="custom-g-l4">
 
             <p>Ipswich County Library is a listed building built in 1924. Its Northgate Room is 100ft long with a vaulted ceiling and old oak bookshelves and tables. It’s a room which celebrates Suffolk’s cultural heritage and historic significance with several coloured glass windows depicting famous historic literary figures, scientists, politicians, artists, soldiers and sailors with links to Suffolk – including life size images of Geoffrey Chaucer, Francis Bacon and Thomas Wolsey. There are also many other smaller coloured glass panels marking the arms of Suffolk towns and commercial families from the county.</p>
 
