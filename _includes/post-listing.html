@@ -4,11 +4,13 @@
 
 {% endif %}
 
-    {% for post in site.categories.[page.category] %}
+{% for post in site.categories.[page.category] %}
 
     <article class="{% include /c/slot.html %}">
 
         <header class="{% include /c/slot-header.html %}">
+
+            {% assign posts-check = true %}
 
             <h1 class="{% include /c/slot-title.html %}"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
 
@@ -20,4 +22,10 @@
 
     </article>
 
-    {% endfor %}
+{% endfor %}
+
+{% if posts-check != true %}
+
+    <p>Unfortunately there are currently no {{ page.category  | downcase }}.</p>
+
+{% endif %}
