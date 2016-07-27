@@ -8,8 +8,8 @@ breadcrumb: member-organisations
 
 ## Contact us
 
-* Telephone the library at <strong>01394 446510</strong> and ask to speak with the library manager, Helen Scrivener
-* Email <strong>friendsofwoodbridgelibrary@gmail.com</strong><
+* Telephone the library at **01394 446510** and ask to speak with the library manager, Helen Scrivener
+* Email **friendsofwoodbridgelibrary@gmail.com**
 
 ## Downloads
 
@@ -17,7 +17,7 @@ breadcrumb: member-organisations
 
 ## Who are we?
 
-We are local people who use the [Woodbridge Library](/branches/woodbridge-library) in a wide variety of ways. We provide practical support to the library and promote it to the Woodbridge community.
+We are local people who use the [Woodbridge Library](/libraries/woodbridge-library/) in a wide variety of ways. We provide practical support to the library and promote it to the Woodbridge community.
 
 ## Why should you join the Friends of Woodbridge Library?
 
