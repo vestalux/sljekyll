@@ -7,6 +7,7 @@ event-start-date: 2016-10-26
 event-start-time: 1930
 event-end-time: 2130
 event-doors-open: 1900
+event-book-signing: 2030
 event-ticket-price: 6
 event-ticket-url: https://www.eventbrite.co.uk/e/meet-the-author-barbara-erskine-tickets-26753898631
 event-category: bookfest

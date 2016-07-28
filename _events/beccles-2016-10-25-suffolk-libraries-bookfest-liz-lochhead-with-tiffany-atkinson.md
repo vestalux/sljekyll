@@ -5,9 +5,10 @@ location: beccles-library
 location-text: Beccles Library
 event-start-date: 2016-10-25
 event-start-time: 1930
-event-end-time: 2130
 event-doors-open: 1900
+event-end-time: 2100
 event-ticket-price: 6
+event-book-signing: 2030
 event-ticket-url: https://www.eventbrite.co.uk/e/liz-lochhead-with-tiffany-atkinson-tickets-26050890916
 event-category: bookfest
 hnav: bookfest

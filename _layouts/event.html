@@ -22,6 +22,12 @@
 
                     <ul class="list ma0 pa0 mb2 mid-gray">
 
+                    {% if page.event-category == 'bookfest' %}
+
+                        <p class="ma0 mb2 mb3-ns"><a href="/events-activities/bookfest/" class="white"><img src="/images/article/bf-logo.jpg" alt="Bookfest"></a></p>
+
+                    {% endif %}
+
                     {% if page.event-alt-location %}
 
                         <li class="mv1 mv0-ns">{% if page.event-alt-location-link %}<a class="blue" href="{{ page.event-alt-location-link }}">{% endif %}{{ page.event-alt-location }}{% if page.event-alt-location-link %}</a>{% endif %}</li><br>
@@ -47,6 +53,12 @@
                     {% if page.event-doors-open %}
 
                           <li class="mv1 mv0-ns">Doors open {{ page.event-doors-open }}</li>
+
+                    {% endif %}
+
+                    {% if page.event-book-signing %}
+
+                          <li class="mv1 mv0-ns">Book signing from {{ page.event-book-signing }}</li>
 
                     {% endif %}
 

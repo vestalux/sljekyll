@@ -7,6 +7,7 @@ event-start-date: 2016-10-27
 event-start-time: 1930
 event-end-time: 2130
 event-doors-open: 1900
+event-book-signing: 2030
 event-ticket-price: 6
 event-ticket-url: https://www.eventbrite.co.uk/e/meeting-queen-bees-with-historian-sian-evans-tickets-26754017988
 event-category: bookfest

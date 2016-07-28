@@ -31,3 +31,11 @@ Now with <cite>The Empathy Problem</cite> released this summer, Gavin turns to t
 Gavin’s novels have won prizes, been featured on the Simon Mayo BBC Radio Two Book Club, and the Richard &amp; Judy Summer Book Club Read, and have sold in 21 countries.
 
 Gavin is a rising star and this event is not to be missed!
+
+<div class="cf">
+
+    <img src="/images/article/universe.jpg" alt="Universe" class="{% include /c/img-float-left.html %} mr3 mb3" />
+    <img src="/images/article/mirror-world.jpg" alt="Mirror World" class="{% include /c/img-float-left.html %} mr3 mb3" />
+    <img src="/images/article/empathy.jpg" alt="Empathy Problem" class="{% include /c/img-float-left.html %} mr3 mb3" />
+
+</div>

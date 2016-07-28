@@ -5,7 +5,7 @@ location: southwold-library
 location-text: Southwold Library
 event-start-date: 2016-10-26
 event-start-time: 1500
-event-end-time: 1600
+event-end-time: 1700
 event-alt-location: St Edmund's Hall, Southwold
 event-alt-location-link: https://goo.gl/maps/D4yPngaWEo82
 event-ticket-price: 6

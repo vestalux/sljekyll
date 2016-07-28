@@ -5,7 +5,7 @@ location: woodbridge-library
 location-text: Woodbridge Library
 event-start-date: 2016-10-26
 event-start-time: 1930
-event-end-time: 2130
+event-end-time: 2100
 event-doors-open: 1900
 event-ticket-price: 8
 event-ticket-url: https://www.eventbrite.co.uk/e/an-evening-of-poetry-and-music-with-liz-lochhead-tickets-26051189810
