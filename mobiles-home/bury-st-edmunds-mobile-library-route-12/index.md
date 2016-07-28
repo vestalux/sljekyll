@@ -222,7 +222,7 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="176">
-      Old Bungalows
+      Church
     </td>
 
     <td valign="bottom" width="97">
