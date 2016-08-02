@@ -1,11 +1,12 @@
 ---
 layout: sidebar-right
-title: New non-fiction for July 2016
-date: 2016-06-28 08:41:00+00:00
+title: New non-fiction for August 2016
+date: {}
 author: brandon-king
 category: non-fiction
 excerpt: Featuring Martin Pearce and Gerard Fiennes.
 breadcrumb: non-fiction
+published: true
 ---
 ![Spymaster: the life of Britain's most decorated cold war spy and head of MI6, Sir Maurice Oldfield by Martin Pearce](/images/featured/featured-spymaster.jpg)
 
