@@ -26,5 +26,6 @@ branch-other-facilities: <a href="http://www.westsuffolk.gov.uk/parking/Travel/s
 branch-display-space: "
 <strong>Wall space for hire</strong>
 <p>Available for exhibitions. Charge is £28 a month, contact the library for more information.</p>"
+branch-news: "The library will be closed Mon 12 Sep to Mon 3 Oct for refurbishment."
 breadcrumb: y
 ---
