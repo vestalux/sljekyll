@@ -1,7 +1,6 @@
 ---
 layout: sidebar-right
 title: New non-fiction for August 2016
-date: {}
 author: brandon-king
 category: non-fiction
 excerpt: Featuring Martin Pearce and Gerard Fiennes.
