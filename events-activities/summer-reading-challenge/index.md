@@ -5,11 +5,6 @@ hero-image: hero-src.jpg
 hero-alt: A girl taking part in this year's challenge, The Big Friendly Read
 breadcrumb: events
 sidebar: summer-reading-challenge
-featured: yes
-featured-excerpt: Get your children reading this summer by taking part in the Big Friendly Read.
-featured-image: /images/featured/featured-src.jpg
-featured-alt: A girl taking part in this year's challenge, The Big Friendly Read
-featured-link-text: The Summer Reading Challenge
 ---
 # The Big Friendly Read is coming!
 

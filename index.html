@@ -232,7 +232,7 @@ jquery: true
 
 </section>
 
-{% assign featured_pages = (site.pages|where:"featured","true") %}
+{% assign featured_pages = (site.posts|where:"featured","true") %}
 
 {% for post in featured_pages limit:1 %}
 
@@ -244,7 +244,7 @@ jquery: true
 
             <p class="ma0 mb3">{{ post.featured-excerpt }}</p>
 
-            <p class="b"><a class="blue" href="{{ post.url }}">Find out more about {{ post.featured-link-text }}&rarr;</a></p>
+            <p class="b"><a class="blue" href="{{ post.url }}">{{ post.featured-link-text }}&rarr;</a></p>
 
         </div>
 

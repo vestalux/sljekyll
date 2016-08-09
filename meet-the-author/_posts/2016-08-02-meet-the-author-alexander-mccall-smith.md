@@ -6,6 +6,11 @@ author: brandon-king
 category: meet-the-author
 excerpt: "Brandon King interviews Alexander McCall Smith."
 breadcrumb: meet-the-author
+featured: yes
+featured-excerpt: '&#8220;I think that people like hearing about human kindness and I like writing about it&hellip; &#8221;'
+featured-image: /images/featured/featured-alexander-mccall-smith.jpg
+featured-alt: Alexander McCall Smith
+featured-link-text: Read our interview with Alexander McCall Smith
 ---
 ![Alexander McCall Smith](/images/featured/featured-alexander-mccall-smith.jpg)
 
