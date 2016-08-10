@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: Rose Tremain'
-date: 2016-08-09 08:00:00+00:00
+date: 2016-08-17
 author: brandon-king
 category: meet-the-author
 excerpt: "Brandon King interviews Rose Tremain."
