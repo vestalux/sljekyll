@@ -347,10 +347,7 @@ breadcrumb: help
         £16.17
       </td>
     </tr>
-    <tr>
-      <td>
-        If items have not been returned, overdue notices are sent after the 4th and 7th week, and a bill for replacement is sent after the 10th week. The bill includes the overdue charge as well as the replacement cost.
-      </td>
-    </tr>
   </tbody>
 </table>
+
+<p>If items have not been returned, overdue notices are sent after the 4th and 7th week, and a bill for replacement is sent after the 10th week. The bill includes the overdue charge as well as the replacement cost.</p>
