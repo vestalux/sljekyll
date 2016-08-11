@@ -15,7 +15,7 @@ breadcrumb: fiction
 
 <a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/18865277?QRY=CTIBIB%3C%20IRN(61599719)&QRYTEXT=The%20empathy%20problem"><img class="{% include /c/img-float-left.html %}" src="/images/article/the-empathy-problem.jpg" alt="The empathy problem by Gavin Extence" /></a>
 
-<p class="mt0">Gavin Extence is [one of our featured Bookfest 2016 authors](https://www.suffolklibraries.co.uk/events/bury-2016-10-25-suffolk-libraries-bookfest-gavin-extence/) and author of <cite>The Universe Versus Alex Woods</cite>.</p>
+<p class="mt0">Gavin Extence is <a href="https://www.suffolklibraries.co.uk/events/bury-2016-10-25-suffolk-libraries-bookfest-gavin-extence/">one of our featured Bookfest 2016 authors</a> and author of <cite>The Universe Versus Alex Woods</cite>.</p>
 
 <p>Banker Gabriel is given only months to live after doctors discover a tumour on his brain. But something strange is happening: the position of the tumour is changing Gabriel's personality. He's becoming less selfish, less mercenary, less unlikeable. But it's a catch-22. The kinder and nicer Gabriel becomes, and the more people get to know the new, nicer version of him, the closer he draws to the inevitable.</p>
 
@@ -85,7 +85,7 @@ breadcrumb: fiction
 
 <h3><a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/18872797?QRY=CTIBIB%3C%20IRN(63831244)&QRYTEXT=The%20sister%27s%20of%20St.%20Croix"><cite>The sisters of St. Croix</cite> by Diney Costeloe</a></h3>
 
-<a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/18872797?QRY=CTIBIB%3C%20IRN(63831244)&QRYTEXT=The%20sister%27s%20of%20St.%20Croix"><img class="{% include /c/img-float-left.html %}" src="/images/article/.jpg" alt="The sisters of St. Croix by Diney Costeloe" /></a>
+<a href="http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/18872797?QRY=CTIBIB%3C%20IRN(63831244)&QRYTEXT=The%20sister%27s%20of%20St.%20Croix"><img class="{% include /c/img-float-left.html %}" src="/images/article/sisters-la-croix.jpg" alt="The sisters of St. Croix by Diney Costeloe" /></a>
 
 <p class="mt0">When France falls to the German army, a group of nuns are forced into the conflict. Collaborating with the resistance, sheltering Jewish orphans, defying the rulings of Vichy France: these are dangerous activities in dangerous times. But the courageous women must give all they've got in order to protect the innocent from the evil menace of the Nazi war machine.</p>
 
