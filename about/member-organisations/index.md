@@ -37,7 +37,7 @@ The following member organisations are members of Suffolk's Libraries Industrial
 * Friends of Kedington Library
 * [Kesgrave Library Community Group](/about/member-organisations/kesgrave-library-community-group/)
 * Friends of the Library in Kessingland
-* Friends of Lakenheath Library (F.O.LK)
+* Friends of Lakenheath Library (F.O.L.K)
 * Friends of Lavenham Library
 * [Leiston Town Council advisory group](/about/member-organisations/leiston-town-council-advisory-group)
 * Friends of Long Melford Library
@@ -54,5 +54,6 @@ The following member organisations are members of Suffolk's Libraries Industrial
 * [Stradbroke Courthouse and Library Trust (SCALT)](/about/member-organisations/stradbroke-courthouse-and-library-trust-scalt/)
 * Friends of Sudbury Library
 * [Friends of Thurston Library](/about/member-organisations/friends-of-thurston-library/)
+* [Friends of Woodbridge Library (FOWL)](/about/member-organisations/friends-of-woodbridge-library-fowl/)
 * Wickham Market Partnership
 * [Friends of Woodbridge Library](/about/member-organisations/friends-of-woodbridge-library-fowl)

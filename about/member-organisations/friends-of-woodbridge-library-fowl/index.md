@@ -19,11 +19,19 @@ breadcrumb: member-organisations
 
 We are local people who use the [Woodbridge Library](/libraries/woodbridge-library/) in a wide variety of ways. We provide practical support to the library and promote it to the Woodbridge community.
 
+<figure>
+
+<img src="/images/article/fowl-unicef.jpg" alt="Woodbridge Library volunteers">
+
+<figcaption><p>Left to right: Friends &amp; volunteers Sue Cornford, Jane Lynam and Jane Guy at our UNICEF exhibition</p></figcaption>
+
+</figure>
+
 ## Why should you join the Friends of Woodbridge Library?
 
 If you are interested in the library and would like to do more to help it flourish in these times of budget austerity, the Friends of Woodbridge Library (FOWL) provides the opportunity to do so.
 
-We promote interesting events,  raise funds for library programme enhancement and we co-operate with and support the hard-working and talented Woodbridge Library staff in much of what it does.
+We promote interesting events, raise funds for library programme enhancement and we co-operate with and support the hard-working and talented Woodbridge Library staff in much of what it does.
 
 ## Who can become a Friend of the Library?
 
