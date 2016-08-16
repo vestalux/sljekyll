@@ -1,15 +1,17 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: Rose Tremain'
-date: 2016-08-17
+date: 2016-08-16
 author: brandon-king
 category: meet-the-author
-excerpt: "Brandon King interviews Rose Tremain."
+excerpt: Brandon King interviews Whitbread winner Rose Tremain.
 breadcrumb: meet-the-author
 ---
 ![Rose Tremain](/images/featured/featured-rose-tremain.jpg)
 
-Rose Tremain was one of only five women writers to be included in Granta’s original list of 20 Best of Young British Novelists in 1983. Her novels and short stories have been published worldwide in 27 countries and have won many prizes, including the Sunday Express book of the Year Award (for Restoration, also shortlisted for the Booker Prize); the Prix Femina Etranger, France (for Sacred Country); the Whitbread Novel of the Year Award (for Music & Silence) and the Orange Prize for Fiction 2008 (for The Road Home). Restoration was filmed in 1995 and a stage version was produced in 2009. Her latest novel is the acclaimed The Gustav Sonata which sees Rose ‘writing at the height of her inimitable powers’ (Observer). [Rose’s books are available through Suffolk Libraries.](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19571153?QRY=CAUBIB%3C%20IRN(3632)&QRYTEXT=Tremain%2C%20Rose)
+Rose Tremain was one of only five women writers to be included in Granta’s original list of 20 Best of Young British Novelists in 1983. Her novels and short stories have been published worldwide in 27 countries and have won many prizes, including the Sunday Express book of the Year Award (for <cite>Restoration</cite>, also shortlisted for the Booker Prize); the Prix Femina Etranger, France (for <cite>Sacred Country</cite>); the Whitbread Novel of the Year Award (for <cite>Music &amp; Silence</cite>) and the Orange Prize for Fiction 2008 (for <cite>The Road Home</cite>). Restoration was filmed in 1995 and a stage version was produced in 2009.
+
+Her latest novel is the acclaimed <cite>The Gustav Sonata</cite> which sees Rose <q>writing at the height of her inimitable powers</q> (<cite>Observer</cite>). [Rose’s books are available through Suffolk Libraries.](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/19571153?QRY=CAUBIB%3C%20IRN(3632)&QRYTEXT=Tremain%2C%20Rose)
 
 **Who were your literary influences when you were growing up?**
 
