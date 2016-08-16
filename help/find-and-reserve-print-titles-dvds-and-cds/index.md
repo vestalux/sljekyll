@@ -12,12 +12,12 @@ sidebar: help
 You can reserve a title by:
 
 - asking in a [library](/libraries)
-- calling 01473 351242
-- using our online catalogue
+- calling 01473 351249
+- using our [online catalogue](https://suffolk.spydus.co.uk)
 
 ### Finding and reserving online
 
-You can [search our catalogue of print books, CDs and DVDs](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/BSEARCH) and reserve any title you find. You can also specify which branch you want to collect your titles from.
+You can [search our catalogue of print books, CDs and DVDs](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/BSEARCH) and reserve any title you find. You can also specify which library you want to collect your titles from.
 
 Try our [fiction, non–fiction, music, children&#8217;s books and DVD film lists](/new-suggestions) for ideas.
 
