@@ -9,7 +9,7 @@ branch-thursday-hours: 0930 – 1730
 branch-friday-hours: 0930 – 1730
 branch-saturday-hours: 1000 – 1630
 branch-sunday-hours: 1000 – 1500
-branch-manager: Lesley Clouting
+branch-manager: Lisa Sanders
 branch-address: Resource Centre, Chapel Lane, Wickham Market
 branch-post-code: IP13 0SD
 branch-tel: 01728 747216

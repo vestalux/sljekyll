@@ -1,6 +1,7 @@
 alexandra-carter:
     name: Alexandra Carter
     job: Woodbridge Library Readers’ Circle
+    bio: I'm a member of of Woodbridge Library Readers’ Circle
 
 alison-wheeler:
     name: Alison Wheeler
@@ -11,22 +12,27 @@ alison-wheeler:
 amanda-king:
     name: Amanda King
     job: Bungay Library manager
+    bio: I'm Bungay Library manager.
 
 anna-hradsky:
     name: Anna Hradsky
     job: library and information advisor
+    bio: I'm a library and information advisor.
 
 booked-out-team:
     name: the Booked Out team
     job: podcasters
+    bio: We record then monthly Booked Out podcast.
 
 brandon-king:
     name: Brandon King
     job: stock team
+    bio: I work in the Suffolk Libraries Stock Team
 
 charlotte-clark:
     name: Charlotte Clark
     job: Southwold Library manager
+    bio: I'm Southwold Library manager.
 
 charmain-osborne:
     name: Charmain Osborne
@@ -37,6 +43,7 @@ charmain-osborne:
 chris-howard:
     name: Chris Howard
     job: Lakenheath Library manager
+    bio: I'm Lakenheath Library manager.
 
 daniel-harvey:
     name: Daniel Harvey
@@ -53,10 +60,12 @@ david-grimmer:
 debra-rowe:
     name: Debra Rowe
     job: library and information advisor
+    bio: I'm a library and information advisor.
 
 emma-raindle:
     name: Emma Raindle
     job: web content editor
+    bio: I'm web content editor.
 
 germaine-bates:
     name: Germaine Bates
@@ -66,10 +75,12 @@ germaine-bates:
 gill-mason:
     name: Gill Mason
     job: library and information advisor
+    bio: I'm a library and information advisor.
 
 harriet-avery:
     name: Harriet Avery
     job: library and information advisor
+    bio: I'm a library and information advisor.
 
 helen-haynes:
     name: Helen Haynes
@@ -80,6 +91,7 @@ helen-haynes:
 helen-scrivener:
     name: Helen Scrivener
     job: Woodbridge Library manager
+    bio: I'm manager at Woodbridge Library.
 
 henry-evans:
     name: Henry Evans
@@ -90,18 +102,22 @@ henry-evans:
 henry-golding:
     name: Henry Golding
     job: library and information advisor
+    bio: I'm a library and information advisor.
 
 james-powell:
     name: James Powell
     job: marketing manager
+    bio: I'm marketing and comms manager at Suffolk Libraries.
 
 jo-dixon:
     name: Jo Dixon
     job: stock team
+    bio: I work for Suffolk Libraries Stock Team.
 
 julie-wheeler:
     name: Julie Wheeler
     job: library and information advisor
+    bio: I'm a library and information advisor.
 
 kate-ashton:
     name: Kate Ashton
@@ -124,6 +140,7 @@ lisa-brennan:
 maddie-smith:
     name: Maddie Smith
     job: Lesley's Readers contributor
+    bio: I'm a Lesley's Readers contributor.
 
 matt-shenton:
     name: Matt Shenton
@@ -134,14 +151,18 @@ matt-shenton:
 nicky-evans:
     name: Nicky Evans
     job: IT projects manager
+    bio: I'm IT projects officer at Suffolk Libraries.
 
 richard-baker:
     name: Richard Baker
     job: library and information advisor
+    bio: I'm a library and information advisor.
+
 
 sarah-jenkins:
     name: Sarah Jenkins
     job: Lesley's Readers contributor
+    bio: I contribute to Lesley's Readers.
 
 sarah-lungley:
     name: Sarah Lungley
