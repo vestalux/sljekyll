@@ -38,6 +38,12 @@
 
                     <footer>
 
+                        {% if page.author %}
+
+                          {% include post-bio.html %}
+
+                        {% endif %}
+
                         {% if page.category == 'literacy' %}
 
                             {% include tag-listing.html %}
