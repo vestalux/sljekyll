@@ -21,5 +21,6 @@ branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/aldeburgh-library-2
 branch-room-hire: /libraries/room-hire/aldeburgh-library
 branch-display-space: "Two cork boards in the foyer: displays adverts for anyone selling items."
+branch-news: "The library will be closed 1-18 Sep for refurbishment."
 breadcrumb: y
 ---
