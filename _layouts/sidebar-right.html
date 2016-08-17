@@ -38,7 +38,7 @@
 
                     <footer>
 
-                        {% if page.author %}
+                        {% if page.author and page.category == 'blog' %}
 
                           {% include post-bio.html %}
 
