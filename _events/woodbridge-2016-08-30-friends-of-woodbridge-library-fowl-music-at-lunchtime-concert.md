@@ -8,6 +8,8 @@ event-start-time: 1245
 event-end-time: 1315
 breadcrumb: y
 ---
-Recently graduated from Colchester, clarinettist Dan Kirkpatrick will be playing a selection of classical, jazz and klezmer music. He may also play the piano for us!
+Talented jazz saxophonist Mr Tim will be playing at our Music at Lunchtime concert.
+Mr Tim ('Timbo' Sadler) has played the saxophone for 47 years and he is often
+found busking in and around Woodbridge.  
 
 Free entry but any donations for the Friends of Woodbridge Library gratefully received.
