@@ -20,6 +20,7 @@ branch-facebook: Haverhill-Library-Suffolk-202854396546832
 branch-pinterest: haverhillibrary
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/haverhill-library-2
+branch-news: "Haverhill Library will be closed on the morning of Mon 19 Sep while we refurbish our mezzanine ceiling."
 branch-room-hire: /libraries/room-hire/haverhill-library
 branch-display-space: "
 <strong>Display space 1: Foyer (suitable for small table top / banner display)</strong>
