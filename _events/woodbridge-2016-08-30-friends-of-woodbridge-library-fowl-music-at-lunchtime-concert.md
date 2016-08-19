@@ -5,7 +5,7 @@ location: woodbridge-library
 location-text: Woodbridge Library
 event-start-date: 2016-08-30
 event-start-time: 1245
-event-end-time: 1315
+event-end-time: 1330
 breadcrumb: y
 ---
 Talented jazz saxophonist Mr Tim will be playing at our Music at Lunchtime concert.

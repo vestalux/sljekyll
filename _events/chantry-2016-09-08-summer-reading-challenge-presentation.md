@@ -5,5 +5,7 @@ location: chantry-library
 location-text: Chantry Library
 event-start-date: 2016-09-08
 event-start-time: 1600
+event-end-time: 1800
 breadcrumb: y
 ---
+Summer Reading Challenge Presentation with the Lord Mayor of Ipswich. 
