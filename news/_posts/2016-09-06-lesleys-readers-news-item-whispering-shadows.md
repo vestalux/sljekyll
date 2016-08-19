@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: Lesley’s Readers on BBC Radio Suffolk – book choice for September
-date: 2016-09-06 13:01:00 +00:00
+date: 2016-08-19
 author: james-powell
 category: news
 excerpt: 'This month Lesley will be discussing <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/35002844/49816466,4(48742142)&QRYTEXT=Our%20souls%20at%20night"><Whispering Shadows</cite></a> by Jan Philipp-Sendker.'
