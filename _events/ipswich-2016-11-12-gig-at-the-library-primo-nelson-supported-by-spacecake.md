@@ -19,9 +19,6 @@ Spacecake are possibly the funkiest acoustic band you'll ever see. The 6-piece o
 
 There will also be a reasonably priced licensed bar at the event selling real ales, lager, wine and soft drinks.
 
-EARLY BIRD TICKET OFFER: Just £5 each before 31st July.
-After that, £8 each or two for £14.
-
 Tickets are available over the counter at Ipswich Library, or online (subject to booking fee).
 
 <a href="https://www.facebook.com/stowfiesta/videos/1757488757802593/">Check out live footage of Primo Nelson playing at a recent festival.</a>
