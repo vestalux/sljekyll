@@ -7,7 +7,7 @@ event-start-date: 2016-10-24
 event-start-time: 1930
 event-end-time: 2100
 event-doors-open: 1900
-event-ticket-price: 8
+event-ticket-price: 6
 event-ticket-url: https://www.eventbrite.co.uk/e/how-to-write-a-thriller-with-erin-kelly-tickets-27003937504
 event-category: bookfest
 hnav: bookfest
@@ -28,7 +28,7 @@ Erin was also chosen to write the novelisation of the BAFTA-winning tv drama <ci
 
 She is a warm, engaging, informative and hugely entertaining speaker - don’t miss meeting her!
 
-Refreshments will be on sale. Booksigning from 8pm.
+Refreshments will be on sale. Booksigning from 8.30pm.
 
 <div class="cf">
 
