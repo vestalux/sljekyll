@@ -5,11 +5,6 @@ hero-image: hero-src.jpg
 hero-alt: A girl taking part in this year's challenge, The Big Friendly Read
 breadcrumb: events
 sidebar: summer-reading-challenge
-featured: true
-featured-excerpt: Take the challenge and read 6 books over the summer.
-featured-link-text: Find out more about the Summer Reading Challenge
-featured-image: /images/featured/featured-src.jpg
-featured-alt: A child with Roald Dahl books
 ---
 # Summer Reading Challenge 2016: The Big Friendly Read
 
