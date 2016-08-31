@@ -1,8 +1,8 @@
 ---
 id: long-melford-meet-the-author
 name: "Author event: Rosy Thornton"
-location: lowestoft-library
-location-text: Lowestoft Library
+location: long-melford-library
+location-text: Long Melford Library
 event-start-date: 2016-09-21
 event-start-time: 1430
 breadcrumb: y
