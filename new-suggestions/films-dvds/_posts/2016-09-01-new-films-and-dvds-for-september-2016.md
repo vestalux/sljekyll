@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: New films and DVDs for September 2016
-date: 2016-09-01
+date: 2016-08-31
 author: brandon-king
 category: films-dvds
 excerpt: 'Featuring <cite>Captain America: Civil War</cite>, <cite>Love &amp; Friendship</cite> and <cite>The Nice Guys</cite>.'

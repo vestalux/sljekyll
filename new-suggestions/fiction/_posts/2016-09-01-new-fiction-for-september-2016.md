@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: New fiction for September 2016
-date: 2016-09-01
+date: 2016-08-31
 author: brandon-king
 category: fiction
 excerpt: A bumper month with new titles from Jilly Cooper, Victoria Hislop and Ian McEwan
