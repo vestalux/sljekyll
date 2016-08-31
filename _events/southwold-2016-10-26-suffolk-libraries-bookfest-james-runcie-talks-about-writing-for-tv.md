@@ -16,7 +16,7 @@ hnav: bookfest
 breadcrumb: y
 ---
 
-The creator of <cite>The Grantchester Mysteries</cite>, James Runcie will talk to TV presenter and author Paul Heiney about how his novels have been turned into the hugely successful ITV drama series.
+**The creator of <cite>The Grantchester Mysteries</cite>, James Runcie will talk to TV presenter and author Paul Heiney about how his novels have been turned into the hugely successful ITV drama series.**
 
 James Runcie is an accomplished documentary and film maker, a playwright and author of several novels. A few years ago, he decided he wanted to write a series of books which would reach a wider audience than his standalone novels had previously achieved. They would have a lighter feel, but have great characterisation, an attractive setting and raise social and moral issues in an entertaining but thoughtful way. The books would be inspired by the life of his father, the former Archbishop of Canterbury Robert Runcie.
 

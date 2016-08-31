@@ -14,13 +14,13 @@ hnav: bookfest
 breadcrumb: y
 ---
 
-One of the country’s favourite politicians, Alan Johnson will be in conversation about the third volume in his bestselling and award-winning memoirs, <cite>The Long and Winding Road</cite>.
+**One of the country’s best known politicians, Alan Johnson will be in conversation about the third volume in his bestselling and award-winning memoirs, <cite>The Long and Winding Road</cite>.**
 
 Alan Johnson is a British Labour Party politician who served as Home Secretary from June 2009 to May 2010, and undertook a variety of posts in the cabinets for both the Blair and Brown governments, including Health Secretary and Education Secretary. Until January 2011, he was Shadow Chancellor of the Exchequer.
 
 <img src="/images/article/bookfest-alan-johnson.jpg" class="custom-br-50 {% include /c/img-float-right.html %}" alt="Alan Johnson" />
 
-When Tony Blair brought Alan Johnson into Parliament in 1997, it was something of a culture shock. Blair famously said to him &#8220;Oh, so you are really working class, aren’t you&#8221;. But, quickly acclimatising to the role, Alan has been widely respected for carrying out his responsibilities with honesty and authenticity, fuelled by his passionately held principles and loyalty to his constituents in Hull West and Hessle.
+When Tony Blair brought Alan Johnson into Parliament in 1997, it was something of a culture shock. Blair famously said to him &#8220;Oh, so you are really working class, aren’t you?&#8221;. But, quickly acclimatising to the role, Alan has been widely respected for carrying out his responsibilities with honesty and authenticity, fuelled by his passionately held principles and loyalty to his constituents in Hull West and Hessle.
 
 Alan will be taking us to the corridors of Westminster and lifting the lid of life as a hard-working constituency MP as he introduces us to his new book <cite>The Long and Winding Road</cite>, the third volume of his autobiography.
 

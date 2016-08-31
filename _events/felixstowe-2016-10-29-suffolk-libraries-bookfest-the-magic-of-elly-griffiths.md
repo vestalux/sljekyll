@@ -14,7 +14,7 @@ hnav: bookfest
 breadcrumb: y
 ---
 
-If you thought crime was a dark and sinister subject, think again. Elly Griffiths is warm, funny, charming and very entertaining, and this special event to launch her new book is not to be missed.
+**If you thought crime was a dark and sinister subject, think again. Elly Griffiths is warm, funny, charming and very entertaining, and this special event to launch her new book is not to be missed.**
 
 <img src="/images/article/bookfest-elly-griffiths-r.jpg" class="custom-br-50 {% include /c/img-float-right.html %}" />
 

@@ -12,7 +12,7 @@ published: true
 
 <h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6121081?QRY=CTIBIB%3C%20IRN(64990807)&QRYTEXT=Elizabeth%20Jane%20Howard%20%3A%20a%20dangerous%20innocence">Elizabeth Jane Howard: A Dangerous Innocence</a></h2>
 
-Elizabeth Jane Howard was an acclaimed novelist who is still fondly remembered in Bungay where she spent her later years and fought to keep her local library open. She is best known for the five-book Cazalet Chronicles, the latest volume of which – All Change – was published just two months before she died. Cooper has completed interviews with Howard, her family and friends and has had full access to the late author’s papers.
+Elizabeth Jane Howard was an acclaimed novelist who is still fondly remembered in Bungay where she spent her later years and fought to keep her local library open. She is best known for the five-book <cite>Cazalet Chronicles</cite>, the latest volume of which – <cite>All Change</cite> – was published just two months before she died. The author has completed interviews with Howard, her family and friends and has had full access to the late author’s papers.
 
 
 <h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6122269?QRY=CTIBIB%3C%20IRN(64989688)&QRYTEXT=The%20pigeon%20tunnel%20%3A%20stories%20from%20my%20life">John Le Carre: The Pigeon Tunnel: Stories from my Life</a></h2>
@@ -21,11 +21,11 @@ Elizabeth Jane Howard was an acclaimed novelist who is still fondly remembered i
 
 <h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6123124?QRY=CTIBIB%3C%20IRN(64990719)&QRYTEXT=Queen%20bees%20%3A%20six%20brilliant%20and%20extraordinary%20society%20hostesses%20between%20the%20wars%20-%20a%20spectacle%20of%20celebrity%2C%20talent%2C%20and%20burning%20ambition">Sian Evans: Queen Bees: Six brilliant and extraordinary society hostesses between the wars - a spectacle of celebrity, talent, and burning ambition</a></h2>
 
-<cite>Queen Bees</cite> details the lives of six remarkable women who made careers out of being society hostesses, including Lady Astor, who went on to become the first female MP, and Mrs Greville, who cultivated relationships with Edward VII, as well as Lady Londonderry, Lady Cunard, Laura Corrigan and Lady Colefax. Sian Evans is one of the speakers at Suffolk Libraries’ Bookfest in October.
+<cite>Queen Bees</cite> details the lives of six remarkable women who made careers out of being society hostesses, including Lady Astor, who went on to become the first female MP, and Mrs Greville, who cultivated relationships with Edward VII, as well as Lady Londonderry, Lady Cunard, Laura Corrigan and Lady Colefax. [Sian Evans is one of the speakers at Suffolk Libraries’ Bookfest in October](/events/halesworth-2016-10-27-suffolk-libraries-bookfest-meeting-queen-bees-with-historian-sian-evans/).
 
 <h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6123799?QRY=CTIBIB%3C%20IRN(38040116)&QRYTEXT=The%20long%20and%20winding%20road">Alan Johnson: The Long and Winding Road</a></h2>
 
-Suffolk Bookfest guest Alan Johnson continues with the latest in his popular autobiographical series.
+[Suffolk Bookfest guest Alan Johnson](/events/ipswich-2016-10-29-suffolk-libraries-bookfest-alan-johnson/) continues with the latest in his popular autobiographical series.
 
 <h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6125799?QRY=CTIBIB%3C%20IRN(180537)&QRYTEXT=Born%20to%20run">Bruce Springsteen: Born to Run</a></h2>
 

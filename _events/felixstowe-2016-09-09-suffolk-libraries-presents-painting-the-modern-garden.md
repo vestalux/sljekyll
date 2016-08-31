@@ -10,9 +10,9 @@ event-ticket-price: 7.50 (advance bookings only)
 breadcrumb: y
 ---
 
-Monet to Matisse
+A filming of the Royal Academy exhibition
 
-"Claude Monet was an avid horticulturist and arguably the most important painter
+Claude Monet was an avid horticulturist and arguably the most important painter
 of gardens in the history of art, but he was not alone. Great artists like
 Van Gogh, Bonnard, Sorolla, Sargent, Pissarro and Matisse all saw the garden as
 a powerful subject for their art. These great artists, along with many other
@@ -22,6 +22,4 @@ Cleveland Museum of Art and The Royal Academy, London.
 From the exhibition walls to the wonder and beauty of artists’ gardens, take a
 magical journey, guided by passionate curators, artists and garden enthusiasts,
 to discover how different contemporaries of Monet built and cultivated modern
-gardens to explore radical and wonderful new ideas."
-
-            -From The Royal Academy of Arts London & Cleveland Museum of Art
+gardens to explore radical and wonderful new ideas.

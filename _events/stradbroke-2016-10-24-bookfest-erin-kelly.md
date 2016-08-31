@@ -14,7 +14,7 @@ hnav: bookfest
 breadcrumb: y
 ---
 
-Bestselling and acclaimed author, Erin Kelly will describe how to create compelling characters and settings, tight plotting and structure, and all the best twists and turns, in the hugely popular genre of psychological thrillers.
+**Bestselling and acclaimed author, Erin Kelly will describe how to create compelling characters and settings, tight plotting and structure, and all the best twists and turns, in the hugely popular genre of psychological thrillers.**
 
 If you want to transform your idea for a novel into a page-turner, or are fascinated by the success of books such as <cite>Gone Girl</cite>, <cite>The Girl on a Train</cite> and <cite>Before I go to Sleep</cite>, then this is an event not to be missed.
 
