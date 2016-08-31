@@ -3,9 +3,9 @@ id: September-13-event
 name: "Roald Dahl Party"
 location: felixstowe-library
 location-text: Felixstowe Library
-event-start-date: 2016-12-09
-event-doors-open: 1630
-event-start-time: 1800
+event-start-date: 2016-09-13
+event-start-time: 1630
+event-end-time: 1800
 event-ticket-price: 2.00 per child. Children to be accompanied.
 breadcrumb: y
 ---
