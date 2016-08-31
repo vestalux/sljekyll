@@ -8,4 +8,4 @@ event-start-time: 1600
 event-end-time: 1800
 breadcrumb: y
 ---
-Summer Reading Challenge Presentation with the Lord Mayor of Ipswich. 
+Summer Reading Challenge Presentation with the Lord Mayor of Ipswich.
