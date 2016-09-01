@@ -16,4 +16,4 @@ Get involved! If you've read the book you can join in the discussion at 2:30pm
 on Tuesday 6th September. Call Radio Suffolk on 01473 250000 or tweet
 [@lesleydolphin](https://twitter.com/lesleydolphin) or visit wwww.facebook.com/LesleysReaders.
 
-[Jan-Philipp Sendker is appearing at Beccles Library on 12th October](https://www.suffolklibraries/co.uk/events/beccles-2016-10-12-jan-philip-sedker-dragon-games/).
+[Jan-Philipp Sendker is appearing at Beccles Library on 12th October](/events/beccles-2016-10-12-jan-phillip-sedker-dragon-games/).
