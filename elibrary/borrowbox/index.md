@@ -3,7 +3,13 @@ title: Setting up BorrowBox on your device
 layout: sidebar-left
 breadcrumb: elibrary
 ---
-BorrowBox allows you to download MP3 files of eAudio books. This service is available on a tablet, smartphone or web browser such as Chrome, Firefox, Opera, Safari or Internet Explorer.
+
+BorrowBox allows you to&nbsp;download eAudio books. This service is available on a tablet, smartphone or web browser such as Chrome, Firefox, Opera, Safari or Internet Explorer.
+
+## Devices compatible with BorrowBox
+
+* Tablets: iPad, iPod touch, Kindle Fire, Nexus, Hudl or any other tablet using Android
+* Smartphones: Any that run on iOS or Android, such as iPhone or Samsung Galaxy
 
 ## Setting up your device to download eAudio books with BorrowBox
 
@@ -18,6 +24,14 @@ BorrowBox allows you to download MP3 files of eAudio books. This service is avai
 7. Register an account with an email address and display name
 8. Agree to the terms and conditions
 9. Suffolk Libraries BorrowBox service will now be available to use
+
+#### Amazon Kindle Fire
+
+On an Amazon Kindle Fire you will need to download the BorrowBox app directly from their website rather than from the Kindle store.
+
+[Download the BorrowBox app for Kindle Fire](http://www.borrowbox.com/kindlefire/install/).
+
+Once you have downloaded the app, follow the steps from step 4 above.
 
 ### On a computer
 

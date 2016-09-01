@@ -3,6 +3,17 @@ title: Setting up 3M Cloud Library on your device
 layout: sidebar-left
 breadcrumb: elibrary
 ---
+
+3M Cloud Library allows you to&nbsp;download eBooks and eAudio books. This service is available on a tablet, smartphone or web browser such as Chrome, Firefox, Opera, Safari or Internet Explorer.
+
+You can also read eBooks on an eReader.
+
+## Devices compatible with 3M Cloud Library
+
+* Tablets: iPad, iPod touch, Kindle Fire, Nexus, Hudl or any other tablet using Android
+* Smartphones: Any that run on iOS or Android, such as iPhone or Samsung Galaxy
+* eReaders: Sony, Kobo, Nook, PocketBook Touch, Tolino Vision (but not Kindle eReaders)
+
 ## Setting up your device to download eBooks with 3M Cloud Library
 
 ### On a tablet or smartphone
@@ -19,6 +30,14 @@ breadcrumb: elibrary
 10. Click on the word ‘Login’ in the top right corner
 11. There will then be a page with the following documents: End User Agreement, Terms of Use and Privacy Policy You will need to accept these by clicking on the word ‘Accept’ in the top right corner
 
+#### Amazon Kindle Fire
+
+On an Amazon Kindle Fire you will need to download the 3M Cloud Library app directly from their website rather than from the Kindle store.
+
+[Download the 3M Cloud Library app for Kindle Fire](http://www.yourcloudlibrary.com/index.php/en-us/get-the-app/kindle-fire).
+
+Once you have downloaded the app, follow the steps from step 4 above.
+
 ### On a computer
 
 1. Go to the [3M Cloud Library website](http://ebook.3m.com/library/suffolk/featured) and click on the blue ‘Download app’ button in the top right corner
@@ -34,7 +53,7 @@ breadcrumb: elibrary
 11. Suffolk Libraries 3M Cloud Library service will now be available to use
 
 
-##Borrowing eBooks with 3M Cloud Library
+## Borrowing eBooks with 3M Cloud Library
 
 ### On a tablet or smartphone
 

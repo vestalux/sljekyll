@@ -3,7 +3,8 @@ title: Setting up Zinio on your device
 layout: sidebar-left
 breadcrumb: elibrary
 ---
-Zinio allows you to download PDF files of magazines for an unlimited time. This service is available through a web browser such as Chrome, Firefox, Opera, Safari or Internet Explorer. A read-only app called Zinio for Libraries is also available.
+
+Zinio allows you to download PDF files of magazines for an unlimited time. This service is available through a web browser such as Chrome, Firefox, Opera, Safari or Internet Explorer. A read-only app called Zinio for Libraries is also available for iOS, Android and Kindle.
 
 ## Setting up your device to download digital magazines with Zinio
 
@@ -24,6 +25,14 @@ Zinio allows you to download PDF files of magazines for an unlimited time. This 
 6. When the Zinio app opens, select your country as ‘UK’, state/province as ‘England’, and library collection name ‘Suffolk County Libraries’
 7. Enter your username and password to sign in
 8. Suffolk Libraries Zinio service will now be available to use
+
+#### Amazon Kindle Fire
+
+On an Amazon Kindle Fire you will need to download the Zinio app directly from their website rather than from the Kindle store.
+
+[Download the 3M Cloud Library app for Kindle Fire](http://imgs.zinio.com/faq/kindlefire.html#installation).
+
+Once you have downloaded the app, follow the steps from step 5 above.
 
 ## Downloading digital magazines with Zinio
 
