@@ -6,6 +6,11 @@ author: leon-paternoster
 category: news
 excerpt: "This month&#8217;s highlights include the new Robert Harris novel <cite>Conclave</cite>, Austen film adaptation <cite>Love &amp; Friendship</cite> and a Jack White acoustic album."
 breadcrumb: news
+featured: true
+featured-excerpt: The latest fiction, music, film, non-fiction and children's literature for September to reserve and collect from your library.
+featured-link-text: See the latest titles 
+featured-image: /images/featured/featured-september.jpg
+featured-alt: September titles
 ---
 
 ![September releases](/images/featured/featured-september.jpg)
