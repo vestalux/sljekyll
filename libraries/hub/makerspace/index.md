@@ -14,7 +14,7 @@ hnav: hub
 
 	<div class="custom-prose custom-lh-copy">
 
-		<p>An open, friendly public space to design and create. Includes two 3D printers, a 3D scanner, two computer coding kits and two professional sewing machines.</p>
+		<p>An open, friendly public space to design and create. Includes two 3D printers, a 3D scanner, two computer coding kits and two professional sewing machines. <a href="https://www.3dhubs.com/what-is-3d-printing">Find out more about 3D printing</a>.</p>
 
 		<div class="{% include /c/generic-panel.html %}"><p class="ma0">Experienced with fashion and textile design, coding or 3D printers? We’re looking for skilled and enthusiastic volunteers to help support the MakerSpace. Contact us at <strong>hub@suffolklibraries.co.uk</strong> or call <strong>01473 263827</strong> to get involved.</p></div>
 
