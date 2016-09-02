@@ -6,12 +6,16 @@ location-text: Halesworth Library
 event-start-date: 2016-09-07
 event-start-time: 1600
 breadcrumb: y
+event-category: src2016
 ---
 
 Congratulations to all of our young readers who completed The Summer Reading
 Challenge, we will be celebrating your achievement in our Medals and Certificates
 Presentation Ceremony. Bring along your family and friends, we hope to see you
 there!
+
+County councillor Tony Goldson will be presenting the awards alongside the Friends
+Group and some of our volunteers. 
 
 We would also like to say a huge thank you to our volunteers. We couldn't have
 done it without you.
