@@ -8,6 +8,7 @@ event-start-time: 1630
 event-end-time: 1800
 event-ticket-price: 2.00 per child. Children to be accompanied.
 breadcrumb: y
+event-category: dahl2016
 ---
 Come and celebrate Roald Dahl's 100th Birthday! Dress up as your favourite
 character and bring a packed lunch to join in our party picnic.

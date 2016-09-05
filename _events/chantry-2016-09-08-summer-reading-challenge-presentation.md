@@ -7,5 +7,7 @@ event-start-date: 2016-09-08
 event-start-time: 1600
 event-end-time: 1800
 breadcrumb: y
+event-category: src2016
 ---
-Summer Reading Challenge Presentation with the Lord Mayor of Ipswich.
+Summer Reading Challenge Presentation with the Lord Mayor of Ipswich councillor
+Roger Fern. 

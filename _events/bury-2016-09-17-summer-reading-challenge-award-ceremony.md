@@ -6,6 +6,7 @@ location-text: Bury Library
 event-start-date: 2016-09-17
 event-start-time: 10am
 breadcrumb: y
+event-category: src2016
 ---
 
 Congratulations to all of our young readers who completed The Summer Reading
