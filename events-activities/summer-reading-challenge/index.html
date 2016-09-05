@@ -1,0 +1,58 @@
+---
+layout: full-width-narrow
+title: Summer Reading Challenge
+hero-image: hero-src.jpg
+hero-alt: A girl taking part in this year's challenge, The Big Friendly Read
+breadcrumb: events
+sidebar: summer-reading-challenge
+---
+
+<strong>Congratulations to everyone who completed this year's challenge. 2016 was a record breaking year!</strong>
+
+<p>If you completed all 6 books, come along to your presentation ceremony to receive your prize:</p>
+
+<table id="search-table" class="pure-table pure-table-bordered">
+
+    <thead>
+
+        <tr>
+
+            <th>Library</th>
+            <th>Date</th>
+            <th>Time</th>
+
+        </tr>
+
+    </thead>
+
+    <tbody>
+
+    {% assign events = (site.events | where: "event-category", "src2016" | sort: 'location') %}
+
+    {% for event in events %}
+
+      {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
+
+      {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
+
+      {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
+
+      {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+
+      {% if now-unix <= event-time %}
+
+          <tr>
+
+              <td><a href="{{ event.url }}">{{ event.location-text }}</a></td>
+              <td>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</td>
+              <td>{{ event.event-start-time }} &#8211; {{ event.event-end-time }}</td>
+
+          </tr>
+
+      {% endif %}
+
+    {% endfor %}
+
+    </tbody>
+
+</table>

@@ -2,7 +2,7 @@
 id: september-10-event
 name: "Summer Reading Challenge presentation"
 location: ipswich-county-library
-location-text: Ipswich Library
+location-text: Ipswich County Library
 event-start-date: 2016-09-10
 event-start-time: 1400
 event-end-time: 1600
