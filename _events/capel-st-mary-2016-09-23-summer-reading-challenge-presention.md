@@ -14,6 +14,11 @@ Challenge, we will be celebrating your achievement in our Medals and Certificate
 Presentation Ceremony. Bring along your family and friends, we hope to see you
 there!
 
+<<<<<<< HEAD
 The awards will be presented by Cabinet Porfolio Holder and County Councillor
 Richard Smith. The awards will be presented by County Councillor Gordon Jones and
 members of the Library Friends Group.
+=======
+The awards will be presented by County Councillor Gordon Jones and
+members of the Library Friend Group.
+>>>>>>> sulu

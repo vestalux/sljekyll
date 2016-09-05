@@ -1,6 +1,6 @@
 ---
 id: september-11-event
-name: "Summer Reading Challenge 1st presentation"
+name: "Summer Reading Challenge 2nd presentation"
 location: great-cornard-library
 location-text: Great Cornard Library
 event-start-date: 2016-09-11

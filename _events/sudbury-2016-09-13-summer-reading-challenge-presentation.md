@@ -1,11 +1,11 @@
 ---
-id: september-10-event
+id: september-13-event
 name: "Summer Reading Challenge presentation"
-location: ipswich-county-library
-location-text: Ipswich County Library
-event-start-date: 2016-09-10
-event-start-time: 1400
-event-end-time: 1600
+location: sudbury-library
+location-text: Sudbury Library
+event-start-date: 2016-09-13
+event-start-time: 1800
+event-end-time: 1900
 breadcrumb: y
 event-category: src2016
 ---
@@ -15,4 +15,5 @@ Challenge, we will be celebrating your achievement in our Medals and Certificate
 Presentation Ceremony. Bring along your family and friends, we hope to see you
 there!
 
-Major of Ipswich councillor Roger Fern will be presenting the awards.
+County Councillor's Sue Ayers, Colin Spence and John Sayers, Town Councillor 
+Mick Cornish and members of the Friend's Group will be presenting the awards.

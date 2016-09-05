@@ -1,5 +1,5 @@
 ---
-id: september-10-event
+id: september-20-event
 name: "Summer Reading Challenge presentation"
 location: leiston-library
 location-text: Leiston Library
@@ -15,7 +15,7 @@ Challenge, we will be celebrating your achievement in our Medals and Certificate
 Presentation Ceremony. Bring along your family and friends, we hope to see you
 there!
 
-The awards will be presented by Cabinet Porfolio Holder and County Councillor
+The awards will be presented by Cabinet Portfolio Holder and County Councillor
 Richard Smith.
 
-Please note that this event is at the Long Shop Museum, and not the at the library. 
+Please note that this event is at the Long Shop Museum, and not the at the library.
