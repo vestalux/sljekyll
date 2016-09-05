@@ -14,6 +14,9 @@ Challenge, we will be celebrating your achievement in our Medals and Certificate
 Presentation Ceremony. Bring along your family and friends, we hope to see you
 there!
 
+The winners of the 'Design a Crazy Character' competition and the Treasure Hunt
+will also be announced at the event.
+
 Please arrive promptly for the session which contains your surname.
 
 Surnames: A-K: 10am
