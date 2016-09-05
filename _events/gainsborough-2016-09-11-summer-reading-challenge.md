@@ -1,7 +1,7 @@
 ---
 id: september-11-event
 name: "Summer Reading Challenge presentation"
-location: gainsborough-library
+location: gainsborough-community-library
 location-text: Gainsborough Library
 event-start-date: 2016-09-11
 event-start-time: 1615

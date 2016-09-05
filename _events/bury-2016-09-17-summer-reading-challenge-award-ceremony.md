@@ -21,3 +21,6 @@ Please arrive promptly for the session which contains your surname.
 
 Surnames: A-K: 10am
 Surnames: L-Z: 11:30am
+
+Local Councillor and Mayor of Edmundsbury Julia Wakelam will be presenting the
+awards. 

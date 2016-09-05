@@ -1,8 +1,8 @@
 ---
 id: september-24-event
 name: "Summer Reading Challenge presentation"
-location: oulton-broad-library
-location-text: Oulton Broad Library
+location: mildenhall-library
+location-text: Mildenhall Library
 event-start-date: 2016-09-24
 event-start-time: 1100
 breadcrumb: y

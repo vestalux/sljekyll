@@ -15,5 +15,4 @@ Presentation Ceremony. Bring along your family and friends, we hope to see you
 there!
 
 The awards will be presented by Cabinet Porfolio Holder and County Councillor
-Richard Smith.The awards will be presented by Cabinet Porfolio Holder and County Councillor
 Richard Smith.

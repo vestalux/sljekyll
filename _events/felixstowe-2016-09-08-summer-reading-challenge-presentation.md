@@ -1,8 +1,8 @@
 ---
 id: september-08-event
 name: "Summer Reading Challenge presentation"
-location: halesworth-library
-location-text: Halesworth Library
+location: felixstowe-library
+location-text: Felixstowe Library
 event-start-date: 2016-09-08
 event-start-time: 1600
 event-end-time: 1700

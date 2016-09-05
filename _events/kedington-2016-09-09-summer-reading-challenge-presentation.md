@@ -1,11 +1,10 @@
 ---
-id: september-10-event
+id: september-09-event
 name: "Summer Reading Challenge presentation"
-location: ipswich-county-library
-location-text: Ipswich Library
-event-start-date: 2016-09-10
-event-start-time: 1400
-event-end-time: 1600
+location: kedington-library
+location-text: Kedington Library
+event-start-date: 2016-09-09
+event-start-time: 1530
 breadcrumb: y
 event-category: src2016
 ---
@@ -15,4 +14,4 @@ Challenge, we will be celebrating your achievement in our Medals and Certificate
 Presentation Ceremony. Bring along your family and friends, we hope to see you
 there!
 
-Major of Ipswich councillor Roger Fern will be presenting the awards.
+County councillor Reg Silvester will be presenting the awards.
