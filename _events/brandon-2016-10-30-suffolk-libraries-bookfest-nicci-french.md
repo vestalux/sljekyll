@@ -9,15 +9,13 @@ event-end-time: 2030
 event-doors-open: 1900
 event-book-signing: 2030
 event-ticket-price: 6
-event-ticket-url: https://www.eventbrite.co.uk/e/meet-the-author-barbara-erskine-tickets-26753898631
+event-ticket-url: https://www.eventbrite.co.uk/e/nicci-french-tickets-27303274830
 event-category: bookfest
 hnav: bookfest
 breadcrumb: y
 ---
 
-**Nicci French is the pseudonym for husband and wife thriller writers Nicci Gerard and Sean French. They have published 14 bestselling novels
-before embarking on their current series, set around the life of psychotherapist, Frieda Klein. Their books have been described as
-“sophisticated, compassionate and gripping” by fellow thriller writer, Sophie Hannah.**
+**Nicci French is the pseudonym for husband and wife thriller writers Nicci Gerard and Sean French. They have published 14 bestselling novels before embarking on their current series, set around the life of psychotherapist, Frieda Klein. Their books have been described as “sophisticated, compassionate and gripping” by fellow thriller writer, Sophie Hannah.**
 
 Nicci and Sean will talk to us about their long success in thriller writing, and speculate on the recent rise in profile of the genre,
 particularly with the female audience.
