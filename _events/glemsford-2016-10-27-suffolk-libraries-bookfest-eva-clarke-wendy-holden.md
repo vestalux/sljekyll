@@ -24,3 +24,5 @@ The women brought their babies home after the war and managed to rebuild their l
 This book is an astonishing account of fighting to survive the Nazi regime and a life-affirming celebration of our capacity to care and to love amid inconceivable cruelty.
 
 One of those babies is Eva Clarke, who lives with her husband in Cambridge. A beautiful, elegant and articulate woman, she travels extensively sharing her story and tonight she will be in conversation with author Wendy Holden.
+
+<img src="/images/article/born-survivors.jpg" alt="Born Survivors" class="{% include /c/img-float-left.html %}" />
