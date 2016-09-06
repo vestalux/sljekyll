@@ -1,5 +1,5 @@
 ---
-id: september-04-event
+id: src-wickham-market
 name: "Summer Reading Challenge Presentation"
 location: wickham-market-library
 location-text: Wickham Market Library

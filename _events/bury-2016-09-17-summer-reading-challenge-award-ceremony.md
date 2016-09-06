@@ -4,7 +4,7 @@ name: "Summer Reading Challenge Award Ceremony"
 location: bury-st-edmunds-library
 location-text: Bury Library
 event-start-date: 2016-09-17
-event-start-time: 10am
+event-start-time: 1000
 breadcrumb: y
 event-category: src2016
 ---
@@ -23,4 +23,4 @@ Surnames: A-K: 10am
 Surnames: L-Z: 11:30am
 
 Local Councillor and Mayor of Edmundsbury Julia Wakelam will be presenting the
-awards. 
+awards.
