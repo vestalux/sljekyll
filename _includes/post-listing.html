@@ -6,21 +6,55 @@
 
 {% for post in site.categories.[page.category] %}
 
-    <article class="{% include /c/slot.html %}">
+  {% if post.expiry-date %}
 
-        <header class="{% include /c/slot-header.html %}">
+        {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
 
-            {% assign posts-check = true %}
+        {% capture expires %}{{post.expiry-date | date: '%s' }}{% endcapture %}
 
-            <h1 class="{% include /c/slot-title.html %}"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+        {% capture expires-date %}{{ expires | divided_by: 86400}}{% endcapture %}
 
-            <p class="{% include /c/page-meta.html %}">{% if post.author %}Written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{% assign author = site.data.authors[post.author] %}{{ author.name }}</span></span> &middot; {% endif %}Published {{ post.date | date: "%b %-d, %Y" }}</p>
+        {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
 
-        </header>
+        {% if now-unix <= expires-date %}
 
-        <p class="{% include /c/slot-excerpt.html %}">{{ post.excerpt }}</p>
+            <article class="{% include /c/slot.html %}">
 
-    </article>
+                <header class="{% include /c/slot-header.html %}">
+
+                    {% assign posts-check = true %}
+
+                    <h1 class="{% include /c/slot-title.html %}"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+
+                    <p class="{% include /c/page-meta.html %}">{% if post.author %}Written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{% assign author = site.data.authors[post.author] %}{{ author.name }}</span></span> &middot; {% endif %}Published {{ post.date | date: "%b %-d, %Y" }}</p>
+
+                </header>
+
+                <p class="{% include /c/slot-excerpt.html %}">{{ post.excerpt }}</p>
+
+            </article>
+
+        {% endif %}
+
+    {% else %}
+
+        <article class="{% include /c/slot.html %}">
+
+            <header class="{% include /c/slot-header.html %}">
+
+                {% assign posts-check = true %}
+
+                <h1 class="{% include /c/slot-title.html %}"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+
+                <p class="{% include /c/page-meta.html %}">{% if post.author %}Written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{% assign author = site.data.authors[post.author] %}{{ author.name }}</span></span> &middot; {% endif %}Published {{ post.date | date: "%b %-d, %Y" }}</p>
+
+            </header>
+
+            <p class="{% include /c/slot-excerpt.html %}">{{ post.excerpt }}</p>
+
+        </article>
+
+    {% endif %}
 
 {% endfor %}
 
