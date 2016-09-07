@@ -5,6 +5,7 @@ category: jobs
 sidebar: about
 breadcrumb: jobs
 excerpt: Part time work Saturdays, closing date Sun 4 Sep.
+expiry-date: 2016-09-04
 ---
 
 We're looking for a library and information advisor at Kesgrave Library.

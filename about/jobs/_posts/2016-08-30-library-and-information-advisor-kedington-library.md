@@ -5,6 +5,7 @@ category: jobs
 sidebar: about
 breadcrumb: jobs
 excerpt: '8 hours a week, 4 hours Sat and 4 hours Sun (can be split between 2 people), closing date 5 Sep.'
+expiry-date: 2016-09-05
 ---
 
 We're looking for a library and information advisor at Kedington Library.
