@@ -7,11 +7,12 @@ event-start-date: 2016-09-27
 event-start-time: 1900
 event-ticket-price: 10
 breadcrumb: y
+published: true
 ---
 
 Artemis Cooper will be speaking about her new biography on the life of Elizabeth Jane Howard.
 
-Elizabeth was a popular and best selling author is her own right. She won the John Llewellyn Rhys prize for her debut novel *The Beautiful Visit*. She was the author behind the beloved *The Cazalet Chronicle* series, as well as numerous other titles which were usually concerned about the way in which love can alter people. Her stepson, Martin Amis, credits her "energy and determination" for inspiring his own love of reading and writing.
+Elizabeth was a popular and best selling author in her own right. She won the John Llewellyn Rhys prize for her debut novel *The Beautiful Visit*. She was the author behind the beloved *The Cazalet Chronicle* series, as well as numerous other titles which were usually concerned about the way in which love can alter people. Her stepson, Martin Amis, credits her "energy and determination" for inspiring his own love of reading and writing.
 
 Her style, sophistication and talent is well documented, as are her associations with famous literary figures of the time. Her most famous marriage was to Kingsley Amis.
 
