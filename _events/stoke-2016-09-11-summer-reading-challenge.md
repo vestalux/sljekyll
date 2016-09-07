@@ -4,7 +4,7 @@ name: "Summer Reading Challenge presentation"
 location: stoke-library
 location-text: Stoke Library
 event-start-date: 2016-09-11
-event-start-time: 1615
+event-start-time: 1100
 breadcrumb: y
 event-category: src2016
 ---
