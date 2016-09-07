@@ -1,14 +1,12 @@
 ---
 id: september-27-event
-name: >-
-  Artemis Cooper introduces her new biography of Elizabeth Jane Howard: <cite>A
-  Dangerous Innocence</cite>
+name: "Artemis Cooper introduces his new biography of Elizabeth Jane Howard: <cite>A Dangerous Innocence</cite>"
 location: bungay-library
 location-text: Bungay Library
-event-start-date: {}
+event-start-date: 2016-09-27
 event-start-time: 1900
 event-ticket-price: 10
-breadcrumb: 'y'
+breadcrumb: y
 published: true
 ---
 
