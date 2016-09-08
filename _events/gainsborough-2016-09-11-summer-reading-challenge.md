@@ -14,4 +14,4 @@ Challenge, we will be celebrating your achievement in our Medals and Certificate
 Presentation Ceremony. Bring along your family and friends, we hope to see you
 there!
 
-County Councillor Kim Fern and members of the Friend's Gtroup will be presenting the awards.
+Kim Clements and members of the friends group will be presenting the awards.
