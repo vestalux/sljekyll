@@ -5,6 +5,7 @@ category: jobs
 sidebar: about
 breadcrumb: jobs
 excerpt: 'Part-time, fixed-term 10 month contract, 15 hours per week. &pound;18,000pa, pro rata for period of contract.'
+expiry-date: 2016-09-27
 ---
 
 [Download the role profile](/assets/pdf/lets-talk-reading-project-administrator-role-profile.pdf)
@@ -30,6 +31,6 @@ This position is part time – 15 hours per week - for a period of ten months (w
 
 Please send a CV together with a supporting statement, referencing the attached role profile, outlining what you could bring to this position to: **recruitment@suffolklibraries.co.uk**
 
-The closing date for applications is 12 noon 27th September and interviews will be held 3rd October in Ipswich.
+The closing date for applications is 1200, 27 September and interviews will be held 3 October in Ipswich.
 
 For more information see the attached role profile, or contact Krystal Vittles – **krystal.vittles@suffolklibraries.co.uk, 07763 356424**.

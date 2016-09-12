@@ -5,6 +5,7 @@ category: jobs
 sidebar: about
 breadcrumb: jobs
 excerpt: 'Full time, 37h per week, &pound;16-18,000, closing date Fri 16 Sep.'
+expiry-date: 2016-09-17
 ---
 
 We’re looking for a web content editor to join our IT team. The position is based at Ipswich County Library, working 37 hours a week. The starting salary is between &pound;16,000 and &pound;18,000 per annum.
