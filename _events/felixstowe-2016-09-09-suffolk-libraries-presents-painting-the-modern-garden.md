@@ -3,14 +3,18 @@ id: September-09-event
 name: "Suffolk Libraries Presents: Painting the Modern Garden"
 location: felixstowe-library
 location-text: Felixstowe Library
+excerpt: "Monet, van Gogh and Matisse feature in an innovative and extensive exhibition from The
+Cleveland Museum of Art and The Royal Academy, London."
 event-start-date: 2016-09-09
 event-doors-open: 1830
 event-start-time: 1900
 event-ticket-price: 7.50 (advance bookings only)
+event-small-image: article/presents-monet.jpg
+event-category: presents
 breadcrumb: y
 ---
 
-A filming of the Royal Academy exhibition
+A filming of the Royal Academy exhibition.
 
 Claude Monet was an avid horticulturist and arguably the most important painter
 of gardens in the history of art, but he was not alone. Great artists like

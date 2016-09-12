@@ -232,7 +232,7 @@ jquery: true
 
 </section>
 
-{% assign featured_pages = (site.posts|where:"featured","true") %}
+{% assign featured_pages = (site.pages|where:"featured","true") %}
 
 {% for post in featured_pages limit:1 %}
 

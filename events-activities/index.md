@@ -64,7 +64,7 @@ breadcrumb: home
 
         <section class="{% include /c/block.html %}">
 
-            <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/presents">Screenings</a></h1>
+            <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/presents"><em>Presents</em> Screenings</a></h1>
 
             <p class="{% include /c/block-graf.html %}"><em>Presents</em>, top quality screenings of theatre, ballet and exhibitions across our libraries.</p>
 
