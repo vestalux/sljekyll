@@ -7,9 +7,9 @@ breadcrumb: jobs
 excerpt: '9.5 hours a week, closing date 20 Sep.'
 ---
 
-We're looking for a library and information advisor at Kedington Library.
+We're looking for a library and information advisor at Chantry Library.
 
-**[Role profile](/assets/pdf/library-and-information-advisor-aug-2016.pdf)** (PDF)
+**[Download a role profile](/assets/pdf/library-and-information-advisor-aug-2016.pdf)** (PDF)
 
 You'll be working for 9.5 hours a week:
 
