@@ -4,8 +4,8 @@ name: "Summer Reading Challenge presentation"
 location: rosehill-library
 location-text: Rosehill Library
 event-start-date: 2016-09-20
-event-start-time: 1800
-event-end-time: 1900
+event-start-time: 1600
+event-end-time: 1400
 breadcrumb: y
 event-category: src2016
 ---
@@ -15,4 +15,4 @@ Challenge, we will be celebrating your achievement in our Medals and Certificate
 Presentation Ceremony. Bring along your family and friends, we hope to see you
 there!
 
-County Councillor Mandy Garland will be presenting the awards.
+County Councillor Mandy Gaylard will be presenting the awards.
