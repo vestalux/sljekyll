@@ -1,6 +1,6 @@
 ---
 id: rory-clements-lowestoft
-name: "Lowestoft Literary Festival: Rory Clements"
+name: "Lowestoft Library Literary Festival: Rory Clements"
 location: lowestoft-library
 location-text: Lowestoft Library
 excerpt: "In 2015, <cite>Holy Spy</cite>, his seventh book in the John Shakespeare series, entered the <cite>Sunday Times</cite> bestseller list. A TV series based on the books is currently in development by Mammoth Screen, producers of <cite>Poldark</cite> and <cite>Endeavour</cite>."

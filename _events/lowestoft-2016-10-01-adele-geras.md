@@ -1,6 +1,6 @@
 ---
 id: adele-geras-lowestoft
-name: "Lowestoft Literary Festival: Adele Geras"
+name: "Lowestoft Library Literary Festival: Adele Geras"
 location: lowestoft-library
 location-text: Lowestoft Library
 excerpt: "Her first adult novel, <cite>Facing the Light</cite> sold to more than 20 countries around the world. Her latest young adult book is <cite>Dido</cite> and for younger readers she has just published the third in the Tutu Tilly series, <cite>My Ballet Dream</cite>."

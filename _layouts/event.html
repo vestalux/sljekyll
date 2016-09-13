@@ -34,6 +34,12 @@
 
                     {% endif %}
 
+                    {% if page.event-category == 'ltfest' %}
+
+                        <p class="ma0 mb2 mb3-ns f5">Part of <a href="/events-activities/lowestoft-library-literary-festival/" class="blue">Lowestoft Library Literary Festival</a></p>
+
+                    {% endif %}
+
                     {% if page.event-alt-location %}
 
                         <li class="mv1 mv0-ns">{% if page.event-alt-location-link %}<a class="blue" href="{{ page.event-alt-location-link }}">{% endif %}{{ page.event-alt-location }}{% if page.event-alt-location-link %}</a>{% endif %}</li><br>

@@ -10,7 +10,7 @@ Contact us if you have a question, complaint or need any information about the l
 
 ### Library account, library card, renewing, PIN number and eBook enquiries
 
-* Telephone: **01473 263838** (please don't text this number)
+* Telephone: **<a href="tel:01473351249">01473 351249</a>** (please don't text this number)
 * Email: **help@suffolklibraries.co.uk**
 
 [Find your local library.](/libraries/)

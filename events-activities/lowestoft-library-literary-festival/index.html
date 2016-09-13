@@ -10,7 +10,7 @@ breadcrumb: events
 
     <h1 class="page-title tc">Lowestoft Library Literary Festival 2016</h1>
 
-    <p class="ma0 fw3 f3 mb2 mb4-ns tc">Saturday 1 October, 0930-1730.  Meet Adele Geras, Rory Clements, Joyce Dunbar and <strong>Anthony Horowitz</strong>. Tickets available from the library:  Morning ticket &pound;3 &middot; Afternoon ticket &pound;4</p>
+    <p class="ma0 fw3 f3 mb2 mb4-ns tc">Saturday 1 October, 0930-1730.  Meet Adele Geras, Rory Clements, Joyce Dunbar and <strong>Anthony Horowitz</strong>. Tickets available from <a href="/libraries/lowestoft-library/">Lowestoft Library</a>: Morning ticket &pound;3 &middot; Afternoon ticket &pound;4</p>
 
   </section>
 
@@ -24,7 +24,7 @@ breadcrumb: events
 
           <article class="{% include /c/slot.html %}">
 
-              <h1 class="{% include /c/slot-title.html %}">{{ current_event.name  | remove: "Lowestoft Literary Festival: " }}</h1>
+              <h1 class="{% include /c/slot-title.html %}">{{ current_event.name  | remove: "Lowestoft Library Literary Festival: " }}</h1>
 
               <p class="{% include /c/page-meta.html %} mb0">{{ current_event.event-start-time }}{% if current_event.event-end-time %}&#8211;{{ current_event.event-end-time }}{% endif %}</p>
 
