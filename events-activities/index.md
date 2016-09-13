@@ -152,4 +152,16 @@ breadcrumb: home
 
     </div>
 
+    <div class="custom-g-l2 custom-g-nm">
+
+        <section class="{% include /c/block.html %}">
+
+            <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/lowestoft-library-literary-festival/">Lowestoft Library Literary Festival 2016</a></h1>
+
+            <p class="{% include /c/block-graf.html %}">This year's one day festival takes place on Saturday 1 October and features Anthony Horrowitz.</p>
+
+        </section>
+
+    </div>
+
 </div> <!-- end row -->
