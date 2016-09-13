@@ -1,6 +1,6 @@
 ---
 id: anthony-horrowitz-lowestoft
-name: "Lowestoft Literary Festival: Anthony Horrowitz"
+name: "Lowestoft Literary Festival: Anthony Horowitz"
 location: lowestoft-library
 location-text: Lowestoft Library
 excerpt: "One of the most prolific and successful writers working in the UK. Anthony is a born polymath, juggling writing books, TV series, films, plays and journalism. He has written over 40 books including the bestselling teen spy series <cite>Alex Rider</cite>, which was adapted into a movie in 2006. He is responsible for writing some of the UK's most beloved and successful TV series, producing the first seven episodes of <cite>Midsomer Murders</cite>. He is the writer and creator of the award-winning drama series <cite>Foyle's War</cite>, which was winner of the Lew Grade Audience award for BAFTA."
