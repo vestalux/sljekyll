@@ -26,6 +26,7 @@
 /update /help/reregistering-an-expired-library-card
 /woodbridge /branches/woodbridge-library
 /writes /events-activities/suffolk-writes
+/lowestoft-festival /events-activities/lowestoft-library-literary-festival
 
 /announcements/* /news/:splat
 /book-club-lists/* /new-suggestions/book-club-ideas/:splat
