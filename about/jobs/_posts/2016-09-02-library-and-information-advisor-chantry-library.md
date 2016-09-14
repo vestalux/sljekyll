@@ -5,6 +5,7 @@ category: jobs
 sidebar: about
 breadcrumb: jobs
 excerpt: '9.5 hours a week, closing date 20 Sep.'
+expiry-date: 2016-09-20
 ---
 
 We're looking for a library and information advisor at Chantry Library.
