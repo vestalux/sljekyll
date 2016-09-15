@@ -5,7 +5,7 @@ location: long-melford-library
 location-text: Long Melford Library
 event-start-date: 2016-09-18
 event-start-time: 1330
-event-end-date: 1500
+event-end-time: 1500
 breadcrumb: y
 event-category: src2016
 ---
@@ -17,4 +17,5 @@ there!
 
 The awards will be presented by District Councillor John Nunn and members of the
 Library Friends Group.
+
 There will also be a Magic Show by [Mr Bean Entertainments](http://www.mrbeanentertainments.co.uk).

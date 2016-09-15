@@ -5,7 +5,7 @@ location: lavenham-library
 location-text: Lavenham Library
 event-start-date: 2016-09-18
 event-start-time: 1030
-event-end-date: 1200
+event-end-time: 1200
 breadcrumb: y
 event-category: src2016
 ---
@@ -15,5 +15,5 @@ Challenge, we will be celebrating your achievement in our Medals and Certificate
 Presentation Ceremony. Bring along your family and friends, we hope to see you
 there!
 
-The awards will be presented by County Councillor Jenny Athill and members of the
+The awards will be presented by County Councillor Jenny Antill and members of the
 Library Friends Group. There will also be a Magic Show by [Mr Bean Entertainments](http://www.mrbeanentertainments.co.uk)
