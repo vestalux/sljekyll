@@ -209,37 +209,31 @@
 
                         <h1 class="f3 ma0 mb3 custom-lh-title">Regular events and activities</h1>
 
-                        <section class="pb2">
+                        {% assign current = page.branch-unique-id %}
 
-                            <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Children's events</h1>
+                        {% assign recurrents = site.recurrents | where: "recurrent-category", "children" | where: "recurrent-location", current %}
 
-                                {% assign children-check = false %}
+                        {% if recurrents.size > 0 %}
 
-                                {% assign current = page.branch-unique-id %}
+                            <section class="pb2">
 
-                                {% assign recurrents = site.recurrents | sort: 'recurrent-category'%}
+                                <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Children's events</h1>
 
                                 {% for recurrent in recurrents %}
 
-                                    {% if recurrent.recurrent-location == current and recurrent.recurrent-category == "children" %}
+                                    <article class="{% include /c/listing.html %}">
 
-                                        {% assign children-check = true %}
+                                    <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
 
-                                        <article class="{% include /c/listing.html %}">
+                                    <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
 
-                                            <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
-
-                                            <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
-
-                                        </article>
-
-                                    {% endif %}
+                                    </article>
 
                                 {% endfor %}
 
-                                {% if children-check == false %}<p class="{% include /c/page-meta.html %} mb3">No children's events.</p>{% endif %}
-
                             </section>
+
+                            {% endif %}
 
                             <section class="pb2">
 
@@ -249,11 +243,11 @@
 
                                 {% assign current = page.branch-unique-id %}
 
-                                {% assign recurrents = site.recurrents | sort: 'recurrent-category'%}
+                                {% assign recurrents = site.recurrents | where: "recurrent-category", "older" %}
 
                                 {% for recurrent in recurrents %}
 
-                                    {% if recurrent.recurrent-location == current and recurrent.recurrent-category == "older" %}
+                                    {% if recurrent.recurrent-location == current %}
 
                                         {% assign older-check = true %}
 
@@ -305,37 +299,31 @@
 
                             </section>
 
-                            <section class="pb2">
+                            {% assign current = page.branch-unique-id %}
 
-                                <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Writing groups</h1>
+                            {% assign recurrents = site.recurrents | where: "recurrent-category", "writing-groups" | where: "recurrent-location", current %}
 
-                                {% assign writing-group-check = false %}
+                            {% if recurrents.size > 0 %}
 
-                                {% assign current = page.branch-unique-id %}
+                                <section class="pb2">
 
-                                {% assign recurrents = site.recurrents | sort: 'recurrent-category'%}
+                                    <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Writing groups</h1>
 
-                                {% for recurrent in recurrents %}
-
-                                    {% if recurrent.recurrent-location == current and recurrent.recurrent-category == "writing-groups" %}
-
-                                        {% assign writing-group-check = true %}
+                                    {% for recurrent in recurrents %}
 
                                         <article class="{% include /c/listing.html %}">
 
-                                            <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
+                                        <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
 
-                                            <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
+                                        <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
 
                                         </article>
 
-                                    {% endif %}
+                                    {% endfor %}
 
-                                {% endfor %}
+                                </section>
 
-                                {% if writing-group-check == false %}<p class="{% include /c/page-meta.html %} mb3">No writing groups.</p>{% endif %}
-
-                            </section>
+                            {% endif %}
 
                             <section class="pb2">
 
