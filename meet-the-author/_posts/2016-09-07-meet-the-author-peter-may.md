@@ -8,7 +8,7 @@ excerpt: 'Brandon King interviews <cite>The Lewis Trilogy</cite> author Peter Ma
 breadcrumb: meet-the-author
 ---
 
-![Paula Hawkins](/images/featured/featured-peter-may.jpg)
+![Peter May](/images/featured/featured-peter-may.jpg)
 
 Peter May is a Scottish television screenwriter, novelist, and crime writer. He is well known to Suffolk library readers for his series <cite>The Lewis Trilogy</cite>, <cite>The Enzo Files</cite> and <cite>The China Thrillers</cite>. Peter’s books have sold more than two million copies in the UK and several million internationally.
 
