@@ -235,69 +235,57 @@
 
                             {% endif %}
 
-                            <section class="pb2">
+                            {% assign current = page.branch-unique-id %}
 
-                                <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Older people's events</h1>
+                            {% assign recurrents = site.recurrents | where: "recurrent-category", "older" | where: "recurrent-location", current %}
 
-                                {% assign older-check = false %}
+                            {% if recurrents.size > 0 %}
 
-                                {% assign current = page.branch-unique-id %}
+                                <section class="pb2">
 
-                                {% assign recurrents = site.recurrents | where: "recurrent-category", "older" %}
+                                    <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Older people's events</h1>
 
-                                {% for recurrent in recurrents %}
-
-                                    {% if recurrent.recurrent-location == current %}
-
-                                        {% assign older-check = true %}
+                                    {% for recurrent in recurrents %}
 
                                         <article class="{% include /c/listing.html %}">
 
-                                            <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
+                                        <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
 
-                                            <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
+                                        <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
 
                                         </article>
 
-                                    {% endif %}
+                                    {% endfor %}
 
-                                {% endfor %}
+                                </section>
 
-                                {% if older-check == false %}<p class="{% include /c/page-meta.html %} mb3">No older people's events.</p>{% endif %}
+                            {% endif %}
 
-                            </section>
+                            {% assign current = page.branch-unique-id %}
 
-                            <section class="pb2">
+                            {% assign recurrents = site.recurrents | where: "recurrent-category", "reading-groups" | where: "recurrent-location", current %}
 
-                                <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Reading groups</h1>
+                            {% if recurrents.size > 0 %}
 
-                                {% assign reading-group-check = false %}
+                                <section class="pb2">
 
-                                {% assign current = page.branch-unique-id %}
+                                    <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Reading groups</h1>
 
-                                {% assign recurrents = site.recurrents | sort: 'recurrent-category'%}
-
-                                {% for recurrent in recurrents %}
-
-                                    {% if recurrent.recurrent-location == current and recurrent.recurrent-category == "reading-groups" %}
-
-                                        {% assign reading-group-check = true %}
+                                    {% for recurrent in recurrents %}
 
                                         <article class="{% include /c/listing.html %}">
 
-                                            <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
+                                        <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
 
-                                            <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
+                                        <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
 
                                         </article>
 
-                                    {% endif %}
+                                    {% endfor %}
 
-                                {% endfor %}
+                                </section>
 
-                                {% if reading-group-check == false %}<p class="{% include /c/page-meta.html %} mb3">No reading groups.</p>{% endif %}
-
-                            </section>
+                            {% endif %}
 
                             {% assign current = page.branch-unique-id %}
 
@@ -325,197 +313,161 @@
 
                             {% endif %}
 
-                            <section class="pb2">
+                            {% assign current = page.branch-unique-id %}
 
-                                <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Computer courses</h1>
+                            {% assign recurrents = site.recurrents | where: "recurrent-category", "computer-courses" | where: "recurrent-location", current %}
 
-                                {% assign computer-check = false %}
+                            {% if recurrents.size > 0 %}
 
-                                {% assign current = page.branch-unique-id %}
+                                <section class="pb2">
 
-                                {% assign recurrents = site.recurrents | sort: 'recurrent-category'%}
+                                    <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Computer courses</h1>
 
-                                {% for recurrent in recurrents %}
-
-                                    {% if recurrent.recurrent-location == current and recurrent.recurrent-category == "computer-courses" %}
-
-                                        {% assign computer-check = true %}
+                                    {% for recurrent in recurrents %}
 
                                         <article class="{% include /c/listing.html %}">
 
-                                            <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
+                                        <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
 
-                                            <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
+                                        <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
 
                                         </article>
 
-                                    {% endif %}
+                                    {% endfor %}
 
-                                {% endfor %}
+                                </section>
 
-                                {% if computer-check == false %}<p class="{% include /c/page-meta.html %} mb3">No computer courses.</p>{% endif %}
+                            {% endif %}
 
-                            </section>
+                            {% assign current = page.branch-unique-id %}
 
-                            <section class="pb2">
+                            {% assign recurrents = site.recurrents | where: "recurrent-category", "language-courses" | where: "recurrent-location", current %}
 
-                                <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Language courses</h1>
+                            {% if recurrents.size > 0 %}
 
-                                {% assign language-check = false %}
+                                <section class="pb2">
 
-                                {% assign current = page.branch-unique-id %}
+                                    <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Language courses</h1>
 
-                                {% assign recurrents = site.recurrents | sort: 'recurrent-category'%}
-
-                                {% for recurrent in recurrents %}
-
-                                    {% if recurrent.recurrent-location == current and recurrent.recurrent-category == "language-courses" %}
-
-                                        {% assign language-check = true %}
+                                    {% for recurrent in recurrents %}
 
                                         <article class="{% include /c/listing.html %}">
 
-                                            <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
+                                        <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
 
-                                            <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
+                                        <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
 
                                         </article>
 
-                                    {% endif %}
+                                    {% endfor %}
 
-                                {% endfor %}
+                                </section>
 
-                                {% if language-check == false %}<p class="{% include /c/page-meta.html %} mb3">No language courses.</p>{% endif %}
+                            {% endif %}
 
-                            </section>
+                            {% assign current = page.branch-unique-id %}
 
-                            <section class="pb2">
+                            {% assign recurrents = site.recurrents | where: "recurrent-category", "arts-crafts-games" | where: "recurrent-location", current %}
 
-                                <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Arts, crafts &amp; games</h1>
+                            {% if recurrents.size > 0 %}
 
-                                {% assign arts-check = false %}
+                                <section class="pb2">
 
-                                {% assign current = page.branch-unique-id %}
+                                    <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Arts, crafts &amp; games</h1>
 
-                                {% assign recurrents = site.recurrents | sort: 'recurrent-category'%}
-
-                                {% for recurrent in recurrents %}
-
-                                    {% if recurrent.recurrent-location == current and recurrent.recurrent-category == "arts-crafts-games" %}
-
-                                        {% assign arts-check = true %}
+                                    {% for recurrent in recurrents %}
 
                                         <article class="{% include /c/listing.html %}">
 
-                                            <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
+                                        <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
 
-                                            <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
+                                        <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
 
                                         </article>
 
-                                    {% endif %}
+                                    {% endfor %}
 
-                                {% endfor %}
+                                </section>
 
-                                {% if arts-check == false %}<p class="{% include /c/page-meta.html %} mb3">No arts, crafts or games events.</p>{% endif %}
+                            {% endif %}
 
-                            </section>
+                            {% assign current = page.branch-unique-id %}
 
-                            <section class="pb2">
+                            {% assign recurrents = site.recurrents | where: "recurrent-category", "health" | where: "recurrent-location", current %}
 
-                                <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Health &amp; wellbeing events</h1>
+                            {% if recurrents.size > 0 %}
 
-                                {% assign health-check = false %}
+                                <section class="pb2">
 
-                                {% assign current = page.branch-unique-id %}
+                                    <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Health &amp; wellbeing events</h1>
 
-                                {% assign recurrents = site.recurrents | sort: 'recurrent-category'%}
-
-                                {% for recurrent in recurrents %}
-
-                                    {% if recurrent.recurrent-location == current and recurrent.recurrent-category == "health" %}
-
-                                        {% assign health-check = true %}
+                                    {% for recurrent in recurrents %}
 
                                         <article class="{% include /c/listing.html %}">
 
-                                            <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
+                                        <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
 
-                                            <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
+                                        <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
 
                                         </article>
 
-                                    {% endif %}
+                                    {% endfor %}
 
-                                {% endfor %}
+                                </section>
 
-                                {% if health-check == false %}<p class="{% include /c/page-meta.html %} mb3">No health or wellbeing events.</p>{% endif %}
+                            {% endif %}
 
-                            </section>
+                            {% assign current = page.branch-unique-id %}
 
-                            <section class="pb2">
+                            {% assign recurrents = site.recurrents | where: "recurrent-category", "surgeries-advice" | where: "recurrent-location", current %}
 
-                                <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Councillor surgeries &amp; professional advice</h1>
+                            {% if recurrents.size > 0 %}
 
-                                {% assign advice-check = false %}
+                                <section class="pb2">
 
-                                {% assign current = page.branch-unique-id %}
+                                    <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Councillor surgeries &amp; professional advice</h1>
 
-                                {% assign recurrents = site.recurrents | sort: 'recurrent-category'%}
-
-                                {% for recurrent in recurrents %}
-
-                                    {% if recurrent.recurrent-location == current and recurrent.recurrent-category == "surgeries-advice" %}
-
-                                        {% assign advice-check = true %}
+                                    {% for recurrent in recurrents %}
 
                                         <article class="{% include /c/listing.html %}">
 
-                                            <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
+                                        <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
 
-                                            <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
+                                        <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
 
                                         </article>
 
-                                    {% endif %}
+                                    {% endfor %}
 
-                                {% endfor %}
+                                </section>
 
-                                {% if advice-check == false %}<p class="{% include /c/page-meta.html %} mb3">No councillor surgeries or professional advice sessions.</p>{% endif %}
+                            {% endif %}
 
-                            </section>
+                            {% assign current = page.branch-unique-id %}
 
-                            <section class="pb2">
+                            {% assign recurrents = site.recurrents | where: "recurrent-category", "cafes-stalls" | where: "recurrent-location", current %}
 
-                                <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Cafés, stalls &amp; book sales</h1>
+                            {% if recurrents.size > 0 %}
 
-                                {% assign cafes-check = false %}
+                                <section class="pb2">
 
-                                {% assign current = page.branch-unique-id %}
+                                    <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Cafés, stalls &amp; book sales</h1>
 
-                                {% assign recurrents = site.recurrents | sort: 'recurrent-category'%}
-
-                                {% for recurrent in recurrents %}
-
-                                    {% if recurrent.recurrent-location == current and recurrent.recurrent-category == "cafes-stalls" %}
-
-                                        {% assign cafes-check = true %}
+                                    {% for recurrent in recurrents %}
 
                                         <article class="{% include /c/listing.html %}">
 
-                                            <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
+                                        <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
 
-                                            <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
+                                        <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
 
                                         </article>
 
-                                    {% endif %}
+                                    {% endfor %}
 
-                                {% endfor %}
+                                </section>
 
-                                {% if cafes-check == false %}<p class="{% include /c/page-meta.html %} mb3">No cafés, stalls or book sales.</p>{% endif %}
-
-                            </section>
+                            {% endif %}
 
                         </section> <!-- end #regular-events -->
 

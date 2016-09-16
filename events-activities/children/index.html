@@ -21,16 +21,14 @@ dynatable: true
     </tr>
   </thead>
   <tbody>
-    {% assign recurrents = site.recurrents | sort: 'recurrent-location'%}
+    {% assign recurrents = site.recurrents | where: "recurrent-category", "children" | sort: 'recurrent-location' %}
     {% for recurrent in recurrents %}
-    {% if recurrent.recurrent-category == 'children' %}
     <tr>
       <td>{{ recurrent.recurrent-location-display-name }}</td>
       <td><a href="{{ recurrent.recurrent-location-display-url }}">{{ recurrent.recurrent-title }}</a></td>
       <td>{{ recurrent.recurrent-day }}</td>
       <td>{{ recurrent.recurrent-times }} </td>
     </tr>
-    {% endif %}
     {% endfor %}
   </tbody>
 </table>
