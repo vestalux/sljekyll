@@ -32,6 +32,6 @@ We're looking for someone who:
 
 The starting rate of pay is &pound;7.93 per hour.
 
-To apply send a CV with a supporting statement outlining what you will bring to Suffolk Libraries to: **recruitment@suffolklibraries.co.uk**
+To apply send a CV and a supporting statement outlining what you will bring to Suffolk Libraries to: **recruitment@suffolklibraries.co.uk**
 
-The closing date for applications is Tuesday 4 September 2016 and if successful you will be asked to attend an interview on Thursday 13 October 2016.
+The closing date for applications is Tuesday 4 October 2016 and if successful you will be asked to attend an interview on Thursday 13 October 2016.
