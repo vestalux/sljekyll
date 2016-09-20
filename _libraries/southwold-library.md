@@ -21,6 +21,5 @@ branch-twitter: southwoldlib
 branch-facebook: southwoldlibrary
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/southwold-library-2
-branch-news: "The library will be closed Sun 18 Sep to have new shelving installed."
 breadcrumb: y
 ---
