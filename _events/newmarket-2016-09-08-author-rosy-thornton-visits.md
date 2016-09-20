@@ -1,11 +1,14 @@
 ---
-id: september-08-event
-name: "Top Time: Author Rosy Thornton visits Newmarket Library"
+id: newmarket-musical-opening
+name: "Music at the library"
 location: newmarket-library
 location-text: Newmarket Library
-event-start-date: 2016-09-08
-event-start-time: 1430
-event-end-time: 1530
+event-start-date: 2016-10-15
+event-doors-open: 1900
+event-start-time: 1930
 breadcrumb: y
 ---
-Free to attend.
+
+Featuring the Kitchen Choir, the children from the theatre company [Nomads](http://www.nomadskingstheatre.com/) and local musician [Louise Eatock with her band Flaming June](https://flamingjuneuk.bandcamp.com/).
+
+Tickets &pound;2, on sale in the library after we are open again on 4 October.
