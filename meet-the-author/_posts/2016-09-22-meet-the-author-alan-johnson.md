@@ -10,9 +10,9 @@ breadcrumb: meet-the-author
 
 ![Alan Johnson](/images/featured/featured-alan-johnson.jpg)
 
-Alan Johnson is one of the country’s best known politicians. He has recently finished the third volume in his bestselling and award-winning memoirs, <cite><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16445356?QRY=CTIBIB%3C%20IRN(38040116)&QRYTEXT=The%20long%20and%20winding%20road">The Long and Winding Road</a></cite>. He is also one of the speakers at the [Suffolk Libraries Bookfest](/events/ipswich-2016-10-29-suffolk-libraries-bookfest-alan-johnson/) on Sat 29 October.
+<p class="f3">Alan Johnson is one of the country’s best known politicians. He has recently finished the third volume in his bestselling and award-winning memoirs, <cite><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16445356?QRY=CTIBIB%3C%20IRN(38040116)&QRYTEXT=The%20long%20and%20winding%20road">The Long and Winding Road</a></cite>. He is also one of the speakers at the [Suffolk Libraries Bookfest](/events/ipswich-2016-10-29-suffolk-libraries-bookfest-alan-johnson/) on Sat 29 October.</p>
 
-He's a British Labour Party politician who served as home secretary from June 2009 to May 2010, and undertook a variety of posts in the cabinets for both the Blair and Brown governments, including health secretary and education secretary. Until January 2011, he was shadow chancellor of the Exchequer.
+Johnson is a British Labour Party politician who served as home secretary from June 2009 to May 2010, and undertook a variety of posts in the cabinets for both the Blair and Brown governments, including health secretary and education secretary. Until January 2011, he was shadow chancellor of the Exchequer.
 
 ## Who were your literary influences as you were growing up?
 

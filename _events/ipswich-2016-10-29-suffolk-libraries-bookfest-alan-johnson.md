@@ -28,6 +28,8 @@ Alan has visited Suffolk before, speaking about his earlier two volumes <cite>Th
 
 Alan will be in conversation with journalist, Catherine Larner. He will be available to sign copies of his book from 8.30pm.
 
+<div class="{% include /c/generic-panel.html %}"><p>>a href="/meet-the-author/meet-the-author-alan-jognson/">Read our interview with Alan Johnson</a>.</div>
+
 <div class="cf">
 
 <img src="/images/article/alan-johnson-this-boy.jpg" alt="This Boy" class="{% include /c/img-float-left.html %}" />

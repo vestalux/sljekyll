@@ -16,6 +16,7 @@ branch-tel: 01473 719279
 branch-friends: Rosehill Library Friends
 branch-friends-url: /about/member-organisations/rosehill-library-friends
 branch-wifi: y
+branch-news: Rosehill Library will open at 2pm on Wed 28 Sep so building work can be carried out.
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/rosehill-library-2
 branch-other-facilities: Available now for £1 – I love Rosehill Library wristbands
 branch-room-hire: /libraries/room-hire/rosehill-library
