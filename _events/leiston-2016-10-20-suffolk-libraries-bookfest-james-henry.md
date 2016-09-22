@@ -8,7 +8,7 @@ event-start-time: 1930
 event-end-time: 2030
 event-doors-open: 1900
 event-ticket-price: 6
-event-ticket-url: https://www.eventbrite.co.uk/e/taking-tea-in-the-library-with-james-runcie-tickets-26051385395
+event-ticket-url: https://www.eventbrite.co.uk/e/meet-the-author-james-henry-tickets-27624937933
 event-category: bookfest
 hnav: bookfest
 breadcrumb: y

@@ -8,6 +8,7 @@ event-start-time: 1930
 event-end-time: 2130
 event-doors-open: 1900
 event-ticket-price: 6
+event-ticket-url: https://www.eventbrite.co.uk/e/born-survivors-eva-clarke-with-author-wendy-holden-tickets-27624969026
 event-category: bookfest
 hnav: bookfest
 breadcrumb: y
