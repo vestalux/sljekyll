@@ -13,9 +13,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.suffolklibraries.co.uk" # the base hostname & protocol for your site
 twitter_username: suffolklibrary
 github_username:  suffolklibraries
-message: Completed the Summer Reading Challenge?
-message_link: events-activities/summer-reading-challenge/
-message_link_text: See when your presentation ceremony takes place
+# message: Completed the Summer Reading Challenge?
+# message_link: events-activities/summer-reading-challenge/
+# message_link_text: See when your presentation ceremony takes place
 
 
 

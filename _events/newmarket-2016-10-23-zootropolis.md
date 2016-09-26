@@ -1,6 +1,6 @@
 ---
-id: secret-life-pets-newmarket
-name: "Newmarket Library Showcase: The Secret Life of Pets"
+id: zootropolis-newmarket
+name: "Newmarket Library Showcase: Zootropolis"
 location: newmarket-library
 location-text: Newmarket Library
 event-start-date: 2016-10-23
@@ -10,7 +10,7 @@ event-ticket-price: 4 (inc. drink and snack)
 breadcrumb: y
 ---
 
-See <cite>The Secret Life of Pets</cite> with our top quality projection equipment.
+See <cite>Zootropolis</cite> with our top quality projection equipment.
 
 Tickets available to buy from the library from 6 October. Limited space – 30 tickets available.
 
