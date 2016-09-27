@@ -3,23 +3,14 @@ layout: full-width-narrow
 title: Ipswich Mobile Library Route 1
 breadcrumb: mobiles-home
 ---
+
 ## Contact us:
-
-  Unfortunately Ipswich Mobile Library will not be able to visit the
-  following stops today:
-
-  Falcon Mobile Home Park
-  Douglas Bader
-
-  This is because the bus has broken down. We hope it will be fixed in time for
-  tomorrow morning. We will keep you updated on our progress.
-  Please call 01473 263838 if you need to renew your books.
 
 Managers: Andrew Little and David Cook
 
 Email: [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk?subject=Mobile%20library%20enquiry)
 
-Telephone: 01473 263838
+Telephone: 01473 351249
 
 ## Route timetable
 
