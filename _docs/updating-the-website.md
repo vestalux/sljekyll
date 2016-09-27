@@ -47,9 +47,9 @@ There are several ways to make changes locally before pushing them to our stagin
 
 ### 1. Developer makes own changes on a local-only branch
 
-You can serve the site to see changes as you make them. Use the `jekyll s` command.
+You can serve the site at `127.0.0.0:4000` to see changes as you make them. Use the `jekyll s` command.
 
-Only the `dev`, `staging` and `master` branches should be tracked. Developers can make fix bugs, add features and content on their own local branches. They can then serve the site locally using Jekyll to see their work in progress.
+Only the `dev`, `staging` and `master` branches should be tracked. Developers can fix bugs, add features and content on their own local branches. They can then serve the site locally using Jekyll to see their work in progress.
 
 The Git commands are (assuming all changes haven't been committed yet):
 
@@ -99,7 +99,7 @@ Again, you can't be sure who's worked on the site since you started working on a
 
 ### Serve the site to fix conflicts in the `_site` folder
 
-Re-serving the site will fix conflicts in the `_site` folder, and these account for 99% of site conflicts after you've merged one branch into another.
+Re-serving the site will fix conflicts in the `_site` folder.  These account for 99% of site conflicts after you've merged one branch into another.
 
 Once you've served the site remember to:
 

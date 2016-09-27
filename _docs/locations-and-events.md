@@ -17,7 +17,7 @@ Some libraries have extended names (e.g. the include the word 'Saint' or 'County
 
 ### Template
 
-The website uses the `library.html` layout file to create library pages.
+The website uses the `library.html` layout file to create library pages (e.g. https://www.suffolklibraries.co.uk/libraries/bury-st-edmunds-library/).
 
 You can use the following YAML:
 
@@ -54,3 +54,97 @@ You can use the following YAML:
   <li>Non-profit organisation hire: £40.15 per week</li>
 </ul>"`)
 - `breadcrumb`: boolean (just tests for its presence), always present
+
+## Events
+
+The website uses two types of events.
+
+### Recurrent events
+
+These occur on a regular basis and are only created once. They live in the `_recurrents` collection folder.
+
+You can find recurrent events in the following sections of the website:
+
+- Library pages
+- Regular children's events
+- Regular older people's events
+- Free beginner computer courses
+- Reading groups
+- Health events
+
+#### Recurrent event categories
+
+The site uses recurrent event categories (`recurrent-category`) to produce categorised and ordered event lists. Recurrent events should always have one of the following categories:
+
+- `children`
+- `older`
+- `reading-groups`
+- `writing-groups`
+- `computer-courses`
+- `language-courses`
+- `arts-crafts-games`
+- `health`
+- `surgeries-advice`
+- `cafes-stalls`
+
+There is no description for these events. All the information about the event is contained in its YAML:
+
+- `recurrent-title: "Art group"`
+- `recurrent-day: Wednesday`
+- `recurrent-times: 1515-1715`
+- `recurrent-location: aldeburgh-library`
+- `recurrent-location-display-name: Aldeburgh Library`
+- `recurrent-location-display-url: /branches/aldeburgh-library/``
+- `recurrent-category: arts-crafts-games`
+
+#### Creating a new recurrent event
+
+1. Create a new Markdown in the file in the `_recurrents` folder
+2. Complete the appropriate YAML
+3. Save the file using a `library-location-short-description` format (e.g. `aldeburgh-art-group.md`)
+
+### Special events
+
+These are one-off, special events.  They live in the `_events` collection folder.
+
+You can find one-off events all over the website:
+
+- Library pages
+- Upcoming events
+- _Presents_
+- _Bookfest_
+- Lowestoft Library Literary festival
+
+One-off events also generate their own page that you can link to (e.g. https://www.suffolklibraries.co.uk/events/haverhill-2016-10-26-suffolk-libraries-bookfest-mark-mason/). The event description will be displayed on this page.
+
+#### Event YAML
+
+- `id: october-26-event`
+- `name: 'James Runcie on writing for tv, with Paul Heiney'`
+- `location: southwold-library`
+- `location-text: Southwold Library`
+- `event-start-date: 2016-10-26`
+- `event-start-time: 1500`
+- `event-end-time: 1700`
+- `event-alt-location: St Edmund's Hall, Southwold`
+- `event-alt-location-link: https://goo.gl/maps/D4yPngaWEo82`
+- `event-ticket-price: 6`
+- `event-doors-open: 1430`
+- `event-ticket-url: https://www.eventbrite.co.uk/e/james-runcie-talks-about-writing-for-tv-tickets-26051152699`
+- `event-category: bookfest`
+- `hnav: bookfest`
+- `breadcrumb: y`
+
+#### Event categories
+
+Event categories (`event-category`) are used to place events within a larger group of events:
+
+- bookfest
+- presents
+- ltfest
+
+#### Adding new special events
+
+1. Create a new Markdown in the file in the `_events` folder
+2. Complete the appropriate YAML and add a description
+3. Save the file using a `library-location-short-description-YYYY-MM-DD-name` format (e.g. `lowestoft-2016-10-01-anthony-horowitz.md`)
