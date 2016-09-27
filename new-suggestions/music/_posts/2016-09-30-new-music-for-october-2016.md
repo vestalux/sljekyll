@@ -8,15 +8,22 @@ excerpt: 'New Kings of Leon, Michael Buble and Kate Tempest'
 breadcrumb: music
 ---
 
-![Jack White](/images/featured/featured-october-music.jpg)
+![Kings of Leon, Kate Tempest and Norah Jones](/images/featured/featured-october-music.jpg)
 
-<h2>Kings of Leon – </cite>WALLS</cite></h2>
+<h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/22712774?QRY=CTIBIB%3C%20IRN(23931690)&QRYTEXT=Walls%20%5Bsound%20recording%5D">Kings of Leon – </cite>WALLS</cite></a></h2>
 
 A new album from multi-platinum selling rock band Kings of Leon is a huge event. You may have seen them on Jools Holland’s <cite>Later</cite> programme recently. First single <cite>Waste a Moment</cite> has an anthemic feel to it. They are produced this time round by Markus Dravs whose credits include albums by Arcade Fire, Coldplay and Florence + the Machine. Dravs has a reputation for being uncompromising and his tough approach seems to have brought the best out of them this time round. KOL will be touring in 2017.
 
 <h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20588885?QRY=CTIBIB%3C%20IRN(67689218)&QRYTEXT=Revolution%20radio%20%5Bsound%20recording%5D">Green Day – <cite>Revolution Radio</cite></a></h2>
 
 First new album from Billie Joe and the boys since their ill fated trio of albums <cite>¡Uno!</cite>, <cite>¡Dos!</cite>, <cite>¡Tré!</cite> in 2012. This is what the reviews would call a ‘return to form’ and sees the band back at their snarling best. It is reminiscent of their early work and short on ballads.
+
+<h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/22715756?QRY=CTIBIB%3C%20IRN(20511185)&QRYTEXT=Lazarus%20%5Bsound%20recording%5D">David Bowie – <cite>Lazarus</cite></a></h2>
+
+This is by Bowie in as far as it is the original cast recording of the show, created by David Bowie and Enda Walsh and inspired by the novel, <cite>The Man Who Fell To Earth</cite>. The sold-out production of <cite>Lazarus</cite>, starring Michael C. Hall, ran off-Broadway and received ecstatic reviews.
+
+Standing alongside the cast’s interpretations of classics from his canon are the three final David Bowie studio recordings, co-produced by Bowie and Tony Visconti and recorded with Donny McCaslin and his quartet, the same band that played on Bowie’s last album. These last three songs — <cite>No Plan</cite>, <cite>Killing A Little Time</cite> and <cite>When I Met You</cite> — bring completely new dimensions to their cast counterparts.
+
 
 <h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20590061?QRY=CTIBIB%3C%20IRN(67407012)&QRYTEXT=Day%20breaks%20%5Bsound%20recording%5D">Norah Jones – <cite>Day Breaks</cite></a></h2>
 
