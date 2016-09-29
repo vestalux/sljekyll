@@ -60,7 +60,11 @@
 
                     {% endif %}
 
+                    {% if page.event-start-time %}
+
                           <li class="mv1 mv0-ns">{{ page.event-start-time }} &#8211; {{ page.event-end-time }}</li>
+
+                    {% endif %}
 
                     {% if page.event-doors-open %}
 

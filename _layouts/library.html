@@ -487,7 +487,15 @@
 
                                     {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
 
-                                    {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
+                                    {% if event.event-end-date %}
+
+                                        {% capture event-time-seconds %}{{event.event-end-date | date: '%s' }}{% endcapture %}
+
+                                    {% else %}
+
+                                        {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
+
+                                    {% endif %}
 
                                     {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
 
@@ -505,7 +513,7 @@
 
                                             {% if event.event-end-date %}
 
-                                                <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-date | date: "%a %-d %b" }}</span> <span>{{ event.event-end-time }}</span>
+                                                <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-end-time }}</span>
 
                                                 {% else %}
 

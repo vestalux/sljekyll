@@ -29,7 +29,15 @@ dynatable: true
 
     {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
 
-    {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
+    {% if event.event-end-date %}
+
+        {% capture event-time-seconds %}{{event.event-end-date | date: '%s' }}{% endcapture %}
+
+    {% else %}
+
+        {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
+
+    {% endif %}
 
     {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
 
