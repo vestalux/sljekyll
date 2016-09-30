@@ -10,7 +10,11 @@ breadcrumb: films-dvds
 
 ![Alice Through the Looking Glass, Warcraft and Central Intelligence](/images/featured/featured-october-dvds.jpg)
 
-## The Angry Birds Movie
+<h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/24701762?QRY=CTIBIB%3C%20IRN(66008216)&QRYTEXT=The%20angry%20birds%20movie%20%5Bvideorecording%5D">The Angry Birds Movie</a></h2>
+
+Clay Kaytis directs this animated children's feature based on the popular mobile app game.
+
+Angry birds Red (voice of Jason Sudeikis), Chuck (Josh Gad) and Bomb (Danny McBride) live on a remote island populated by other flightless birds. Used to being shunned by their fellow birds, outsiders Red, Chuck and Bomb have learned to take care of themselves. When King Pig Leonard (Bill Hader) and his crew arrive onto the island shrouded in mystery and secrets, it is clear something is being planned and the three outcasts decide to try to figure out what's going on. The all-star cast also includes Peter Dinklage, Ike Barinholtz, Maya Rudolph and Kate McKinnon.
 
 
 <h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/22943514?QRY=CTIBIB%3C%20IRN(23266684)&QRYTEXT=Alice%20through%20the%20looking%20glass%20%5Bvideorecording%5D">Alice Through the Looking Glass</a></h2>
