@@ -4,7 +4,7 @@ title: New children’s books for October 2016
 date: 2016-09-30
 author: jo-dixon
 category: childrens-ya-books
-excerpt: 'A riot of new children&#8217;s and young adult&#8217;s fiction and non-fiction, including <cite>The Ministry of strange, unusual and impossible things</cite>, a picture book entitled <cite>The Knight who wouldn&#8217;t fight</cite> and a John Agard book narrated by the book itself.'
+excerpt: "This month's children's and young adult featured titles include a heart-warming <cite>Alfie</cite> story from Shirley Hughes, a dark tale of mass vanishings and a realm of magic terror entitled <cite>The Beginning Wood</cite> and a lovely children's cook and story book from <cite>Bake Off's</cite> Nadiya Hussein."
 breadcrumb: childrens-ya-books
 ---
 
@@ -93,7 +93,7 @@ Liv Bloom's life is complicated. Her father walked out on the family when she wa
 
 <h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/24708355?QRY=CTIBIB%3C%20IRN(65592963)&QRYTEXT=Goldenhand">Garth Nix – <cite>Goldenhand</cite></a></h3>
 
-Lirael is no longer a shy Second Assistant Librarian. She is the Abhorsen-in-Waiting, with dead creatures to battle and Free Magic entities to bind. She's also a Remembrancer, and wielder of the Dark Mirror. When Lirael finds Nicholas Sayre lying unconscious after being attacked by a hideous Free Magic creature, she uses her powers to save him. But Nicholas is deeply tainted with Free magic and Lirael must seek help for him at her childhood home, the Clayr's Glacier. But even as she returns to the Clayr, a messenger is trying to reach Lirael with a dire warning from her long-dead mother, Arielle, about the Witch with No Face. But who is the Witch, and what is she planning?
+Lirael is no longer a shy second assistant librarian. She is the Abhorsen-in-Waiting, with dead creatures to battle and Free Magic entities to bind. She's also a Remembrancer, and wielder of the Dark Mirror. When Lirael finds Nicholas Sayre lying unconscious after being attacked by a hideous Free Magic creature, she uses her powers to save him. But Nicholas is deeply tainted with Free magic and Lirael must seek help for him at her childhood home, the Clayr's Glacier. But even as she returns to the Clayr, a messenger is trying to reach Lirael with a dire warning from her long-dead mother, Arielle, about the Witch with No Face. But who is the Witch, and what is she planning?
 
 <h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/24708982?QRY=CTIBIB%3C%20IRN(37516)&QRYTEXT=The%20hypnotist">Laurence Anholt – <cite>The Hypnotist</cite></a></h3>
 
