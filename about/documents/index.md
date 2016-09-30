@@ -11,6 +11,7 @@ Highlights from our libraries and their friends groups.
 * [Suffolk Libraries Annual Review 2012-2013](/assets/pdf/suffolk-libraries-annual-review-2012-2013.pdf) (PDF)
 * [Suffolk Libraries Annual Review 2013-2014](/assets/pdf/suffolk-libraries-annual-review-2013-2014.pdf) (PDF)
 * [Suffolk Libraries Annual Review 2014-2015](/assets/pdf/suffolk-libraries-annual-review-2014-2015.pdf) (PDF)
+* [Suffolk Libraries Annual Review 2015-2016](/assets/pdf/suffolk-libraries-annual-review-2015-2016.pdf) (PDF)
 
 Contact our marketing and communications manager for a full report:
 

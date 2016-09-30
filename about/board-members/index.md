@@ -9,11 +9,11 @@ Our member organisations elect our board.
 ## Board members
 
 * Tony Brown (Beccles Library Community Trust) — board chair
-* Sue Buck (The Friends of Long Melford Library)
+* Richard Bull (The Friends of Woodbridge Library)
 * Peter Callaghan (Friends of Brandon Library)
 * Sylvia Knights (Bungay Community Library) — board vice chair
 * Jonathan Ogden (Kesgrave Library Community) — board honorary secretary
-* Anne Mallalieu (Glemsford Library Friends Group)
+* Maureen Garrett Simpson (Ipswich County Library Friends Group)
 * Colin Rockall (Friends of Lavenham Library)
 * Suffolk Libraries general manager, Alison Wheeler (_ex officio_)
 
@@ -28,12 +28,6 @@ He moved to Suffolk in 1991 when he was appointed director of Management Educati
 
 He has led successful bids to national and regional funding bodies, and implemented change management programmes with, among others, Virgin and Norfolk Constabulary.
 
-### Sue Buck
-
-Sue was a self employed barrister for many years. She's also familiar with the financial aspects of running a large organisation, and spent 13 years as staff liaison officer.
-
-She's secretary of her village library friends group and was instrumental in securing its IPS membership.
-
 ### Peter Callaghan
 
 Peter is a governor at a Brandon primary school and is involved with the school’s literacy and reading programmes. He is interested in developing library activities at a primary level in partnership with the schools’ library service and very keen on investigating the use of new technologies within the library service.
@@ -45,12 +39,6 @@ Sylvia has volunteered her support for many libraries, as well as her local libr
 She was appointed an interim board member of the IPS in February 2012 and was recently re-elected as a trustee and secretary to the Friends of Bungay Community Library. She helped the friends group achieve CIO registration.
 
 Sylvia is Bungay deputy town mayor and a trustee of Bungay Town Trust.
-
-### Anne Mallalieu
-
-Anne helped formulate the plan for Glemsford Library two years ago. She is treasurer of the friends group, which was the first to join the IPS.
-
-She is vice chairman of Glemsford Parish Council and has worked in banking, farming, retail management and run her own businesses. She has also been a financial and management accountant in engineering, motor dealership, manufacturing, importing and exporting and the entertainment industries.
 
 ### Jonathan Ogden
 
