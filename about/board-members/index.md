@@ -33,7 +33,9 @@ He has led successful bids to national and regional funding bodies, and implemen
 Peter is a governor at a Brandon primary school and is involved with the school’s literacy and reading programmes. He is interested in developing library activities at a primary level in partnership with the schools’ library service and very keen on investigating the use of new technologies within the library service.
 
 The Friends of Brandon Library have contributed two Chromebooks and a Wi-Fi printer for general use, and these services have proved effective and popular. Peter believes that there is potential for further developments through the use of e-readers linked to the Overdrive system, especially for older and partially sighted people.
-<h3>Sylvia Knights</h3>
+
+### Sylvia Knights
+
 Sylvia has volunteered her support for many libraries, as well as her local library in Bungay.
 
 She was appointed an interim board member of the IPS in February 2012 and was recently re-elected as a trustee and secretary to the Friends of Bungay Community Library. She helped the friends group achieve CIO registration.
@@ -55,6 +57,18 @@ Much of his professional career was spent in local government and during the per
 In 2000, he joined the Audit Commission, followed by a four year period with the Office of the Deputy Prime Minister (ODPM) as a Lead Official. In this role, he represented the Department by working to improve ‘failing’ authorities, reporting to Ministers and senior civil servants. When ODPM was disbanded he became, and still is, a self- employed consultant, continuing to work directly to local authorities on performance and improvement issues.
 
 Within Lavenham, Colin undertakes voluntary work, which includes being a Director of the Lavenham Literary Festival since 2009. He is currently Company Secretary.
+
+### Richard Bull
+
+Richard is Chairman of the Friends of Woodbridge library. Originally from a mechanical engineering background in the petro-chemical industry he transferred his management skills to Economic Development for Suffolk County Council. He moved back to the private sector joining Pleasure World ltd. to lead the construction of major tourist attractions. More recently, he has run his own construction and development consultancy. Richard has now almost retired.
+
+Richard’s enthusiasm to join the Board of this not for profit corporation model stems from his strongly held view that there are some services which should remain closely associated with the public sector, and libraries is one.
+
+### Maureen Garrett Simpson
+
+Maureen has been the chair of the Friends of Ipswich County Library for almost two years; she brings great enthusiasm to the role.  She is experienced in media, having worked for the BBC and lectured in Media Studies at New Suffolk College.  In earlier years, Maureen worked for Cambridgeshire libraries and when her children were small, ran some story time sessions in Gainsborough and Ipswich libraries.  As a teacher, she has worked with students of many nationalities and varied ages and has seen at first hand the need for good books that are readily available to aid research and lead to qualifications that enhance a person’s life and self-esteem.  Maureen’s personal interests involve reading and early music.
+
+Maureen would be a great asset to the Board, being able to put the point of view of the larger libraries.  She has taken part in several County Library events, most recently, Multi-Cultural Day.  She has some knowledge of libraries and how they operate and would be able to further her knowledge with the Board.
 
 ### Alison Wheeler
 
