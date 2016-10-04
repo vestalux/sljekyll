@@ -17,11 +17,9 @@ sidebar: health
 
 {% assign special-event-check = false %}
 
-  {% assign events = site.events | sort: 'event-start-date' %}
+  {% assign events = site.events | where: "event-category", "health" | sort: 'event-start-date' %}
 
     {% for event in events %}
-
-      {% if event.event-category == 'health' %}
 
         {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
 
@@ -57,8 +55,6 @@ sidebar: health
               </div>
 
           {% endif %}
-
-      {% endif %}
 
     {% endfor %}
 
