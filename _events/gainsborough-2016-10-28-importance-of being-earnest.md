@@ -7,7 +7,7 @@ excerpt: "Recorded at the Vaudeville Theatre in London, Adrian Noble's productio
 event-start-date: 2016-10-29
 event-doors-open: 1330
 event-start-time: 1400
-event-ticket-price: 7.50
+event-ticket-price: "7.50&nbsp;"
 event-image-small: article/presents-suchet.jpg
 event-category: presents
 breadcrumb: y
