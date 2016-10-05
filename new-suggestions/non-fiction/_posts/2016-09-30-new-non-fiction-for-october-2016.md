@@ -25,7 +25,7 @@ Described as the European Pele, the late Johan Cruyff is widely regarded as one 
 
 <h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20555674?QRY=CTIBIB%3C%20IRN(67086790)&QRYTEXT=A%20life%20in%20questions"><cite>A Life in Questions</cite>, by Jeremy Paxman</a></h2>
 
-Autobiography of bestselling author of <cite>The Victorians</cite>, Jeremy Paxman, whose career at the BBC included 25 years as the uncompromising presenter of <cite>Newsnight/cite> and host of <cite>University Challenge/cite>.
+Autobiography of bestselling author of <cite>The Victorians</cite>, Jeremy Paxman, whose career at the BBC included 25 years as the uncompromising presenter of <cite>Newsnight</cite> and host of <cite>University Challenge</cite>.
 
 
 <h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20558325?QRY=CTIBIB%3C%20IRN(65595131)&QRYTEXT=Peggy%20and%20me"><cite>Peggy and Me</cite>, by Miranda Hart</a></h2>
