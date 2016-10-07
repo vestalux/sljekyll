@@ -2,7 +2,7 @@
 id: earnest-gainsborough
 name: "Suffolk Libraries Presents: David Suchet in <cite>The Importance of Being Earnest</cite>"
 location: gainsborough-community-library
-location-text: Gainsborough Library
+location-text: Gainsborough Community Library
 excerpt: "Recorded at the Vaudeville Theatre in London, Adrian Noble's production of Wilde's classic play is majestically amusing. Stars David Suchet as Lady Bracknell."
 event-start-date: 2016-10-29
 event-doors-open: 1330

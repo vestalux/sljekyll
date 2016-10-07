@@ -2,7 +2,7 @@
 id: yoga-gainsborough
 name: "Free yoga session at Gainsborough Library"
 location: gainsborough-community-library
-location-text: Gainsborough Library
+location-text: Gainsborough Community Library
 event-start-date: 2016-10-10
 event-start-time: 1400
 breadcrumb: y
