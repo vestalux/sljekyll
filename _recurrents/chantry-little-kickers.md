@@ -1,7 +1,7 @@
 ---
-recurrent-title: "Minecraft group: for ages 8-13 – bring your own devices"
-recurrent-day: Sunday
-recurrent-times: 1400-1500
+recurrent-title: "'Little Kickers' Football Skills for Pre-School Children (from 3 November)"
+recurrent-day: Thursday
+recurrent-times: 1100-1145
 recurrent-location: chantry-library
 recurrent-location-display-name: Chantry Library
 recurrent-location-display-url: /branches/chantry-library/
