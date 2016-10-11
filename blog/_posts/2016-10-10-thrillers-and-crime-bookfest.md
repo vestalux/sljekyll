@@ -10,19 +10,19 @@ breadcrumb: blog
 **Writers Erin Kelly, James Runcie, Alison Bruce, James Henry, Elly Griffiths, and Nicci French are all coming to Suffolk for this year's Bookfest**
 ---
 
-![Erin Kelly](/images/article/erin-kelly-r-73.jpg)
+![Erin Kelly](/images/article/erin-kelly-r.jpg)
 
 It's said that everyone has a novel in them.  Why not coax yours out at our 'How to write a thriller' session at Stradbroke Library on Monday 24 October, as part of Bookfest?  Author **Erin Kelly**, who has published five thrillers, including the novelisation of the hugely successful ITV drama <cite>Broadchurch</cite>, will be offering advice in how to create compelling characters and settings, a tight plot and structure, and twists and turns that will make your readers gasp.  She will also be signing books.
 
 While you're writing your novel, what music might get you in the mood to write, or feature in your story?  **Alison Bruce**, author of the <cite>DC Gary Goodhew</cite> series of murder mysteries set in Cambridge, will be appearing at Brandon Library on Thursday 27 October with her husband Jacen to discuss and play some of the music that underpins her novels.  They will also talk about their experiences of living and working together as two creative individuals.  Bruce will also talk about the classic British crime novels, American pulp fiction, black and white movies, and TV crime that have inspired her work, and will be signing books.
 
-![James Runcie](/images/article/bookfest-james-runcie-r-73.jpg)
+![James Runcie](/images/article/bookfest-james-runcie-r.jpg)
 
 **James Runcie**, creator of the <cite>Grantchester</cite> book and television series, will be appearing not just once, but twice at Bookfest.  He will be in Southwold on Wednesday 26 October, talking to writer and broadcaster Paul Heiney about the particular challenges and rewards of writing for television.  On Thursday 27 October, he will be in Lavenham discussing the <cite>Grantchester</cite> novels.  The Friends of Lavenham Library will provide tea and homemade cake.  Both talks promise fascinating insights and entertainment, as Runcie is a skilled orator.  Fans can get their books signed at either event.
 
 **Elly Griffiths**, another acclaimed mystery-writer, will be launching her new novel at a special event at Felixstowe Library on Saturday 29 October.  Griffiths' <cite>Stephens and Mephisto</cite> novels centre around magicians performing on the south coast in the 1950s, and the secrets, lies, and crimes that surround them.  To launch the third novel in the series, <cite>The Blood Card</cite>, the library is adopting a '50s theme and enlisting local magician Mr. Bean to entertain and confound guests with his intriguing tricks and sleights of hand as they arrive, and during the book signing at the end of the evening.
 
-![James Henry](/images/featured/james-henry-73.jpg)
+![James Henry](/images/article/james-henry-200.jpg)
 
 Thriller-lovers will no doubt have heard of **James Henry**, who has written a series of prequels to RD Wingfield's <cite>DI Frost</cite> novels.  At Leiston Library on Friday 28 October, he will be discussing his latest novel, <cite>Blackwater</cite>, the first book in a new series set just down the road around the Essex coast and estuary, featuring smugglers, dealers and the criminal underworld.  A book signing will follow the discussion.
 

@@ -9,7 +9,6 @@ Our member organisations elect our board.
 ## Board members
 
 * Tony Brown (Beccles Library Community Trust) — board chair
-* Richard Bull (The Friends of Woodbridge Library)
 * Peter Callaghan (Friends of Brandon Library)
 * Sylvia Knights (Bungay Community Library) — board vice chair
 * Jonathan Ogden (Kesgrave Library Community) — board honorary secretary
@@ -57,12 +56,6 @@ Much of his professional career was spent in local government and during the per
 In 2000, he joined the Audit Commission, followed by a four year period with the Office of the Deputy Prime Minister (ODPM) as a Lead Official. In this role, he represented the Department by working to improve ‘failing’ authorities, reporting to Ministers and senior civil servants. When ODPM was disbanded he became, and still is, a self- employed consultant, continuing to work directly to local authorities on performance and improvement issues.
 
 Within Lavenham, Colin undertakes voluntary work, which includes being a Director of the Lavenham Literary Festival since 2009. He is currently Company Secretary.
-
-### Richard Bull
-
-Richard is Chairman of the Friends of Woodbridge library. Originally from a mechanical engineering background in the petro-chemical industry he transferred his management skills to Economic Development for Suffolk County Council. He moved back to the private sector joining Pleasure World ltd. to lead the construction of major tourist attractions. More recently, he has run his own construction and development consultancy. Richard has now almost retired.
-
-Richard’s enthusiasm to join the Board of this not for profit corporation model stems from his strongly held view that there are some services which should remain closely associated with the public sector, and libraries is one.
 
 ### Maureen Garrett Simpson
 
