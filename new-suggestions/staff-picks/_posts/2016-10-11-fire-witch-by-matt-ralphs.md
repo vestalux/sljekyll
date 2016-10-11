@@ -8,7 +8,7 @@ excerpt: Emily reviews the second book in Matt Ralphs' Fire Girl series.
 breadcrumb: staff-picks
 ---
 
-![Fire Witch](/images/feautred/featured-fire-witch.jpg)
+![Fire Witch](/images/featured/featured-fire-witch.jpg)
 
 Hazel Hooper isn’t your normal teenager. She is a Fire Witch and she is furious. Ever since her mother, Hecate, sacrificed herself to the demon world in order to stop a literal invasion of Hell on Earth, Hazel has been determined to get her back. No matter what it costs.
 
