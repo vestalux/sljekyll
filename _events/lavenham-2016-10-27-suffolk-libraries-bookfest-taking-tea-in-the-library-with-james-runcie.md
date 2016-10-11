@@ -6,6 +6,7 @@ location-text: Lavenham Library
 event-start-date: 2016-10-27
 event-start-time: 1500
 event-end-time: 1630
+event-alt-location: Lavenham Village Hall
 event-doors-open: 1430
 event-ticket-price: 8
 event-ticket-url: https://www.eventbrite.co.uk/e/taking-tea-in-the-library-with-james-runcie-tickets-26051385395
