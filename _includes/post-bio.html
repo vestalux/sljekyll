@@ -3,9 +3,9 @@
 {% assign author = site.data.authors[page.author] %}
 
   <footer class="pb4 pb5-ns pt1 bt b--light-gray">
-    {% if author.img %}<img src="{{ author.img }}" class="ma2 custom-br-50 {% include /c/img-float-left.html %}" alt="{{ author.name }}" />{% endif %}
+    {% if author.img %}<img src="{{ author.img }}" class="db ma2 mw4 mw5-ns custom-br-50 {% include /c/img-float-left.html %}" alt="{{ author.name }}" />{% endif %}
     {% if author.name %}<h1 class="f4 ma0 pa0 pb1">{{ author.name }}</a></h1>{% endif %}
     {% if author.bio %}<p class="ma0">{{ author.bio }}</p>{% endif %}
   </footer>
-  
+
 {% endif %}
