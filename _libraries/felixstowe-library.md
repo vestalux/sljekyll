@@ -19,5 +19,6 @@ branch-facebook: felixstowelibrary
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/felixstowe-library-2
 branch-room-hire: /libraries/room-hire/felixstowe-library
+branch-borrowing-ereaders-and-ipads: an iPad
 breadcrumb: y
 ---

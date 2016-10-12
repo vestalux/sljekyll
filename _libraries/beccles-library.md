@@ -25,5 +25,6 @@ branch-room-hire: /libraries/room-hire/beccles-library
 branch-display-space: "
   <strong>Double sided notice board</strong>
   <p>Displays posters for local non-commercial events, such as church fetes.</p>"
+branch-borrowing-ereaders-and-ipads: an iPad
 breadcrumb: y
 ---
