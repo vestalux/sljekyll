@@ -20,5 +20,6 @@ branch-facebook: capellibrary
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/capel-st-mary-library-2
 branch-display-space: "Small notice board: Displays local notices. Free to display notices."
+branch-borrowing-ereaders-and-ipads: an iPad
 breadcrumb: y
 ---

@@ -6,9 +6,8 @@ location-text: Ipswich County Library
 event-start-date: 2016-10-29
 event-start-time: 1930
 event-end-time: 2100
-event-ticket-price: 6
+event-ticket-price: ' <span class="pa2 bg-red white">Sold out!</span>'
 event-doors-open: 1900
-event-ticket-url: https://www.eventbrite.co.uk/e/alan-johnson-tickets-26801896193
 event-category: bookfest
 hnav: bookfest
 breadcrumb: y
