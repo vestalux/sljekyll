@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: Fire Witch by Matt Ralphs
-date: 2016-09-09
+date: 2016-10-11
 author: emily-mitchell
 category: staff-picks
 excerpt: Emily reviews the second book in Matt Ralphs' Fire Girl series.

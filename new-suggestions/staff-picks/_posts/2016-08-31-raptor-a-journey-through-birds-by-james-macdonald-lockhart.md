@@ -1,10 +1,10 @@
 ---
 layout: sidebar-right
-title: Harry Potter and the Cursed Child by JK Rowling and J Thorne
+title: "Raptor: A Journey Through Birds by James MacDonald Lockhart"
 date: 2016-09-12
 author: helen-haynes
 category: staff-picks
-excerpt: "Helen reviews the latest chapter in the Harry Potter series"
+excerpt: "Helen reviews a hymn to the magnificent buzzards and kestrels of the British Isles."
 breadcrumb: staff-picks
 ---
 ![A kestrel](/images/featured/featured-kestrel.jpg)
