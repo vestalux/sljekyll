@@ -10,9 +10,9 @@ We&#8217;re lending eReaders so you can access our collection of over 7,000 eBoo
 
 ### Libraries that lend eReaders
 
-  * [Gainsborough Community Library](/libraries/gainsborough-community-library)
-  * [Thurston Library](/libraries/thurston-library)
-  * [Woodbridge Library](/libraries/woodbridge-library)
+* [Gainsborough Community Library](/libraries/gainsborough-community-library)
+* [Thurston Library](/libraries/thurston-library)
+* [Woodbridge Library](/libraries/woodbridge-library)
 
 ### How to borrow an eReader
 
@@ -46,6 +46,13 @@ The main terms of the loan are:
 
   * [Halesworth Library](/libraries/halesworth-library)
   * [Ixworth Library](/libraries/ixworth-library)
+  * [Beccles Library](/libraries/beccles-library)
+  * [Capel Library](/libraries/capel-st-mary-library)
+  * [Clare Library](/libraries/clare-library)
+  * [Felixstowe Library](/libraries/felixstowe-library)
+  * [Kedington Library](/libraries/kedington-library)
+  * [Leiston Library](/libraries/leiston-library)
+  * [Southwold Library](/libraries/southwold-library)
 
 ### How to borrow an iPad
 

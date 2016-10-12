@@ -12,7 +12,7 @@ breadcrumb: blog
 
 ## Sian Evans
 
-![Sian Evans](images/article/bookfest-sian-evans-r.jpg)
+![Sian Evans](/images/article/bookfest-sian-evans-r.jpg)
 
 This year's Bookfest promises two fantastic evenings devoted to women's history.  Cultural historian **Sian Evans** will be at Halesworth Library on Thursday 27 October, discussing her new book <cite>Queen Bees</a>.  This book uncovers the stories of six ambitious, spirited society women as strict hierarchies relaxed following the First World War: Nancy Astor, Lady Colefax, Lady Londonderry, Lady Emerald Cunard, Mrs Laura Corrigan and Mrs Margaret Greville.
 
@@ -24,7 +24,7 @@ Sian will punctuate her talk with illustrations relating to the book, which are 
 
 ## Eva Clarke and Wendy Holden
 
-![Eva Clarke and Wendy Holden](images/article/wendy-holden-eva-clarke-200.jpg)
+![Eva Clarke and Wendy Holden](/images/article/wendy-holden-eva-clarke-200.jpg)
 
 Holocaust survivor **Eva Clarke** and author Wendy Holden will be speaking at Glemsford Village Hall on Thursday 27 October.  Clarke is one of three 'infant' survivors interviewed by Holden for her book <cite>Born Survivors</cite>.  The book recounts the extraordinary lives of the three infants' mothers, Priska, Rachel and Anka, who were all in the early stages of pregnancy when they were sent to the Mauthausen death camp in Austria.  
 
