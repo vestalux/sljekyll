@@ -58,3 +58,5 @@ Fenn Halflin is set in the future where paper is a rare commodity, books are sca
 ## We have built a rocket to send to Mars. It is a wonderful rocket but rather small. If we were to send only one book for the aliens to read, which book would you choose to sum up what life is like here on Earth?
 
 I can’t think of just one book that'd do that, so I’ll send up Pippi Longstocking instead; if aliens think all the little girls on planet earth are that strong they’ll think twice before invading. Also Pippi represents (to me) the best of human spirit; she’s generous, subversive, wild, funny, a cock-a-snooker at self-importance but above all - kind.
+
+[Children aged 8-12 can learn to craft imaginative stories with Francesca Armour-Chelu at Suffolk Bookfest on Friday 28 October](/events/woodbridge-2016-10-28-suffolk-libraries-bookfest-francesca/)
