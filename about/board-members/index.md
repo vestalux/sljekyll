@@ -12,7 +12,7 @@ Our member organisations elect our board.
 * Peter Callaghan (Friends of Brandon Library)
 * Sylvia Knights (Bungay Community Library) — board vice chair
 * Jonathan Ogden (Kesgrave Library Community) — board honorary secretary
-* Maureen Garrett Simpson (Ipswich County Library Friends Group)
+* Maureen Garratt Simpson (Ipswich County Library Friends Group)
 * Colin Rockall (Friends of Lavenham Library)
 * Suffolk Libraries general manager, Alison Wheeler (_ex officio_)
 
@@ -57,7 +57,7 @@ In 2000, he joined the Audit Commission, followed by a four year period with the
 
 Within Lavenham, Colin undertakes voluntary work, which includes being a Director of the Lavenham Literary Festival since 2009. He is currently Company Secretary.
 
-### Maureen Garrett Simpson
+### Maureen Garratt Simpson
 
 Maureen has been the chair of the Friends of Ipswich County Library for almost two years; she brings great enthusiasm to the role.  She is experienced in media, having worked for the BBC and lectured in Media Studies at New Suffolk College.  In earlier years, Maureen worked for Cambridgeshire libraries and when her children were small, ran some story time sessions in Gainsborough and Ipswich libraries.  As a teacher, she has worked with students of many nationalities and varied ages and has seen at first hand the need for good books that are readily available to aid research and lead to qualifications that enhance a person’s life and self-esteem.  Maureen’s personal interests involve reading and early music.
 
