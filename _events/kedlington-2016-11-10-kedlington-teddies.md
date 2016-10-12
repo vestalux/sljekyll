@@ -1,0 +1,11 @@
+---
+id: kedlington-teddies
+name: "Teddy Bears' Picnic"
+location: kedlington-library
+location-text: Kedlington Library
+event-start-date: 2016-11-10
+event-start-time: 0600
+event-category: Children
+breadcrumb: y
+---
+Bring your teddy to our regular Storytime session for homemade biscuits and cake supplied by Friends of Kedlington Library.
