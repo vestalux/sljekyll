@@ -1,8 +1,8 @@
 ---
-id: kedlington-teddies
+id: kedington-teddies
 name: "Teddy Bears' Picnic"
-location: kedlington-library
-location-text: Kedlington Library
+location: kedington-library
+location-text: Kedington Library
 event-start-date: 2016-11-10
 event-start-time: 0600
 event-category: Children
