@@ -1,5 +1,5 @@
 ---
-id: earnest-gainsborough
+id: billy-ixworth
 name: "Suffolk Libraries Presents: <cite>Billy Elliott: The Musical</cite>"
 location: ixworth-library
 location-text: Ixworth Library
@@ -8,7 +8,7 @@ event-start-date: 2016-10-16
 event-doors-open: 1430
 event-start-time: 1500
 event-ticket-price: "7.50&nbsp;&nbsp;"
-event-image-small: .jpg
+event-image-small: article/presents-billy.jpg
 event-category: presents
 breadcrumb: y
 ---
