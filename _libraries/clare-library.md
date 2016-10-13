@@ -9,7 +9,7 @@ branch-thursday-hours: Closed
 branch-friday-hours: 1230 – 1700
 branch-saturday-hours: 0930 – 1300
 branch-sunday-hours: 1100 – 1600
-branch-manager: Lisa Dunn
+branch-manager: Karla Greenwood
 branch-address: The Guildhall, High Street, Clare
 branch-post-code: CO10 8NY
 branch-tel: 01787 277702
