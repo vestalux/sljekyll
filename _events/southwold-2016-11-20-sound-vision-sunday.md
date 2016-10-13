@@ -1,6 +1,6 @@
 ---
 id: southwold-sound-vision-sale
-name: "Friends of Southwold Library donated sound and vision sale - Saturday"
+name: "Friends of Southwold Library donated sound and vision sale - Sunday"
 location: southwold-library
 location-text: Southwold Library
 event-start-date: 2016-11-20
