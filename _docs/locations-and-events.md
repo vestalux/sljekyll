@@ -8,7 +8,7 @@ All locations include a `branch-unique-id`. The website looks for this unique id
 
 These take the format `place-library`, e.g. `aldeburgh-library`, `leiston-library`, `wickham-market-library`.
 
-Some libraries have extended names (e.g. the include the word 'Saint' or 'County'). These have the following unique ids:
+Some libraries have extended names (e.g. they include the word 'Saint' or 'County'). These have the following unique ids:
 
 - `capel-st-mary-library`
 - `bury-st-edmunds-library`
@@ -86,6 +86,8 @@ The site uses recurrent event categories (`recurrent-category`) to produce categ
 - `health`
 - `surgeries-advice`
 - `cafes-stalls`
+- `film-music-events`
+- `business`
 
 There is no description for these events. All the information about the event is contained in its YAML:
 
