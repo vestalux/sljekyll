@@ -5,8 +5,6 @@ title: Book a computer
 
 **Choose where you'd like to book a computer.**
 
-You'll go to another website where you'll be asked to enter your library card number and PIN.
-
 If you don't have a card number or don't remember your PIN please contact customer service:
 
 - help@suffolklibraries.co.uk
@@ -22,7 +20,7 @@ If you don't have a card number or don't remember your PIN please contact custom
 - [Bury St Edmunds Library](http://netloan.suffolklibraries.co.uk/)
 - [Capel St Mary Library](http://netloan.suffolklibraries.co.uk/)
 - [Chantry Library](http://netloan.suffolklibraries.co.uk/)
-- [Clare Library](http://netloan.suffolklibraries.co.uk/)
+- [Clare Library](http://78.31.106.220/netloan/Login.aspx)
 - [Debenham Library](http://78.31.106.220/netloan/Login.aspx)
 - [Elmswell Library](http://netloan.suffolklibraries.co.uk/)
 - [Eye Library](http://netloan.suffolklibraries.co.uk/)
