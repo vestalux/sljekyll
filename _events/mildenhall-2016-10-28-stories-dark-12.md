@@ -1,5 +1,5 @@
 ---
-name: "Stories in the Dark - 11am"
+name: "Stories in the Dark - 12pm"
 location: mildenhall-library
 location-text: Mildenhall Library
 event-start-date: 2016-10-28
