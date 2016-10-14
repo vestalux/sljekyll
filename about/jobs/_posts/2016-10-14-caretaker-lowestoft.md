@@ -4,7 +4,7 @@ title: Relief caretaker Lowestoft Library
 category: jobs
 sidebar: about
 breadcrumb: jobs
-excerpt: annual leave and sickness cover, closing date Tue 1 Nov.
+excerpt: Annual leave and sickness cover, closing date Tue 1 Nov.
 expiry-date: 2016-10-28
 ---
 
