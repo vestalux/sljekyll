@@ -20,9 +20,13 @@ But will library services be the same in the future?
 
 Unlikely.  I foresee two major factors which will determine this.
 
+**Competition**
+
 Firstly, theres a lot of competition out there.  Twenty years ago, we had a monopoly on providing books and information for those who didn't automatically stroll into a bookshop.  That's changed.  With Google, Wikipedia, Amazon, charity shops and community bookswaps, we no longer have a monopoly and we appear to be irrelevant and anachronistic to the influential decision makers.
 
 Our greatest strength is that we offer great people services by great people.  Let's keep that high on our own agenda, and everyone else's.
+
+**Councils**
 
 Secondly, most library services are run from within costly Councils, and they are not high on a Cabinet or CMT agenda.  There are notable exceptions, I agree, and this is no criticism of library staff or their leaders, just a reflection of where we are now.
 
@@ -36,6 +40,8 @@ It's easy to see why there is such a move via channel shift to online delivery a
 
 Our library mutual is in its fifth year, and it's been a steady slog to establish a new organisation with community ownership, keep all our libraries open and ensure we still have expert staff.  In the beginning it was especially hard to do all of this while running the service, reassure the customers and motivate the staff.
 
+**Into the future**
+
 The most important measure for me each year is that over 90 percent of our customers believe that the service has maintained a good standard, or improved, and over 90% of our staff are proud to work for us.
 
 Each year, we try to diversify, stretch the library brand a bit more, and attract people in to our libraries, or online to keep their interest and engagement.  My 16-year-old self would be astonished at what our libraries do, and I’m proud of that.
@@ -48,7 +54,7 @@ I expect there will be more clustering of services to reduce management costs, o
 
 In the future I also expect the library brand to be continuously stretched and redefined.  I firmly believe that survival is not by the fittest but by those who are able to adapt. Our customers’ needs have flexed, has our service flexed enough to meet them?
 
-Its a lifetime away from 1974, but where else has the world stayed static?
+It's a lifetime away from 1974, but where else has the world stayed static?
 
 I predict that with meaningful evolution and enterprising responses to local needs there will be individual or groups of library services, people-focussed, operating effectively in a competitive environment, able to adapt and flex. Library staff and leaders will need to have very different and more complex skills sets to create and then deliver these adapting services.
 
