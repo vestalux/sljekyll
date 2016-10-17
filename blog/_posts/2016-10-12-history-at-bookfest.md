@@ -4,7 +4,7 @@ title: Events for history fans at Suffolk Libraries Bookfest
 date: 2016-10-12
 author: alice-violett
 category: blog
-excerpt: History lovers won't want to miss these Bookfest talks
+excerpt: "History lovers won't want to miss these Bookfest talks."
 breadcrumb: blog
 ---
 **Historian Sian Evans, and Holocaust survivor Eva Clarke and author Wendy Holden, will be appearing at Bookfest**

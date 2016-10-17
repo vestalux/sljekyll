@@ -4,7 +4,7 @@ title: Two evenings for poetry lovers at Suffolk Libraries Bookfest
 date: 2016-10-11
 author: alice-violett
 category: blog
-excerpt: Bookfest brings poetry fans two evenings of lyrical wonder
+excerpt: "Bookfest brings poetry fans two evenings of lyrical wonder."
 breadcrumb: blog
 ---
 **Suffolk poetry fans can enjoy two evenings in the company of former Scottish Poet Laureate Liz Lochhead.  On Tuesday 25 October, she can be heard in conversation with award-winning poet Tiffany Atkinson at Beccles Library, and on Wednesday 26 October, she will be accompanied by local Celtic fusion band Aartwork at Woodbridge Library.**
