@@ -14,7 +14,7 @@ breadcrumb: blog
 
 ![Sian Evans](/images/article/bookfest-sian-evans-r.jpg)
 
-This year's Bookfest promises two fantastic evenings devoted to women's history.  Cultural historian **Sian Evans** will be at Halesworth Library on Thursday 27 October, discussing her new book <cite>Queen Bees</a>.  This book uncovers the stories of six ambitious, spirited society women as strict hierarchies relaxed following the First World War: Nancy Astor, Lady Colefax, Lady Londonderry, Lady Emerald Cunard, Mrs Laura Corrigan and Mrs Margaret Greville.
+This year's Bookfest promises two fantastic evenings devoted to women's history.  Cultural historian **Sian Evans** will be at Halesworth Library on Thursday 27 October, discussing her new book <cite>Queen Bees</cite>.  This book uncovers the stories of six ambitious, spirited society women as strict hierarchies relaxed following the First World War: Nancy Astor, Lady Colefax, Lady Londonderry, Lady Emerald Cunard, Mrs Laura Corrigan and Mrs Margaret Greville.
 
 Evans' book shows how these wealthy, privileged women used their hostessing skills to move in the best circles, with royalty, politicians, artists and social luminaries.  She makes the argument that, at the parties they hosted, they were able to exert an influence over policy and art in spite of the limitations society placed on women.  
 
