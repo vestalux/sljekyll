@@ -31,7 +31,7 @@ breadcrumb: events
 
           <article class="{% include /c/slot.html %}">
 
-              <h1 class="{% include /c/slot-title.html %}"><a class="blue" href="{{ presents_event.url }}">{{ presents_event.name }} at {{ presents_event.location-text }}</a></h1>
+              <h1 class="{% include /c/slot-title.html %}"><a class="blue" href="{{ presents_event.url }}">{{ presents_event.name  | remove: "Suffolk Libraries Presents: " }} at {{ presents_event.location-text }}</a></h1>
 
               <p class="{% include /c/page-meta.html %} mb0"><a href="/libraries/{{ presents_event.location }}">{{ presents_event.location-text }}</a> &middot; {{ presents_event.event-start-date | date: "%a %-d %b %Y" }}, {{ presents_event.event-start-time }} {% if presents_event.event-end-time %}-{{ presents_event.event-end-time }}{% endif %}{% if presents_event.event-ticket-price %} &middot; &pound;{{ presents_event.event-ticket-price }}{% endif %}<br><strong>For tickets visit or call <a href="/libraries/{{ presents_event.location }}">{{ presents_event.location-text }}</a></strong></p>
 
