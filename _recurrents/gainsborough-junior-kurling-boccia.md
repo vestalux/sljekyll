@@ -1,9 +1,9 @@
 ---
-recurrent-title: "Summer activity: Hama-beads and loombands"
-recurrent-day: Wednesday until 1 September
-recurrent-times: 1500-1600
+recurrent-title: "New age kurling and boccia free junior session"
+recurrent-day: Tuesday
+recurrent-times: 1530-1645
 recurrent-location: gainsborough-community-library
 recurrent-location-display-name: Gainsborough Community Library
 recurrent-location-display-url: /branches/gainsborough-community-library/
-recurrent-category: arts-crafts-games
+recurrent-category: health
 ---

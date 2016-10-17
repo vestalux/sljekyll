@@ -1,9 +1,9 @@
 ---
-recurrent-title: "Summer activity: New Age Kurling & Boccia free junior session"
-recurrent-day: Tuesday
-recurrent-times: 1500-1630
+recurrent-title: "Family craft and choir - starting 4 November"
+recurrent-day: Friday
+recurrent-times: 1600-1800
 recurrent-location: gainsborough-community-library
 recurrent-location-display-name: Gainsborough Community Library
 recurrent-location-display-url: /branches/gainsborough-community-library/
-recurrent-category: health
+recurrent-category: art-crafts-games
 ---
