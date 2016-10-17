@@ -1,9 +1,9 @@
 ---
-recurrent-title: "Summer activity: girls group"
-recurrent-day: Monday until 1 September
-recurrent-times: 1600-1700
+recurrent-title: "Lego animation club - starts 7 November"
+recurrent-day: Monday
+recurrent-times: 1600-1800
 recurrent-location: gainsborough-community-library
 recurrent-location-display-name: Gainsborough Community Library
 recurrent-location-display-url: /branches/gainsborough-community-library/
-recurrent-category: health
+recurrent-category: children
 ---
