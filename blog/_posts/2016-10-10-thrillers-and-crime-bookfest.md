@@ -4,7 +4,7 @@ title: Treats for crime and thriller fans at Suffolk Libraries Bookfest
 date: 2016-10-11
 author: alice-violett
 category: blog
-excerpt: Crime and thriller lovers are in for a treat at this year's Bookfest
+excerpt: "Crime and thriller lovers are in for a treat at this year's Bookfest."
 breadcrumb: blog
 ---
 **Writers Erin Kelly, James Runcie, Alison Bruce, James Henry, Elly Griffiths, and Nicci French are all coming to Suffolk for this year's Bookfest**

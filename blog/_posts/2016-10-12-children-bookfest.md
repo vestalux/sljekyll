@@ -4,7 +4,7 @@ title: Creative fun for children at Suffolk Libraries Bookfest
 date: 2016-10-12
 author: alice-violett
 category: blog
-excerpt: Your children can enjoy fun activities with their favourite authors at Woodbridge Library
+excerpt: "Your children can enjoy fun activities with their favourite authors at Woodbridge Library."
 breadcrumb: blog
 ---
 **Children's Authors Francesca Armour-Chelu and Emily Hughes will be entertaining and inspiring young creative minds Suffolk Libraries Bookfest**
