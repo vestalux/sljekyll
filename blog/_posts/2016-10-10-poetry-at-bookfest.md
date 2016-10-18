@@ -16,7 +16,7 @@ corn was grated from the husk
 patchwork was pieced
 or the darning was done...</pre>
 
-So goes one of Scotland's favourite literary quotes, from <cite>The Storyteller Poems</cite> by Scottish poet **Liz Lochhead**, who has recently left the post of Scots Makar - the Scottish equivalent of Poet Laureate - and last year won the Queen's Gold Medal for Poetry, will be reading her evocative poetry in Suffolk on two consecutive nights as part of Suffolk Libraries Bookfest.  Lochhead's work, while warm and witty, has real power and seeks to challenge the reader.  She has published 18 books since 1972.
+So goes one of Scotland's favourite literary quotes, from <cite>The Storyteller Poems</cite> by Scottish poet **Liz Lochhead**, who has recently left the post of Scots Makar - the Scottish equivalent of Poet Laureate - and last year won the Queen's Gold Medal for Poetry. She will be reading her evocative poetry in Suffolk on two consecutive nights as part of Suffolk Libraries Bookfest.  Lochhead's work, while warm and witty, has real power and seeks to challenge the reader.  She has published 18 books since 1972.
 
 <pre>Driving back in the slipstream
 of the windfarm, each arc of white-
