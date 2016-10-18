@@ -6,7 +6,7 @@ breadcrumb: home
 ---
 Suffolk’s Libraries Industrial and Provident Society Limited is our formally registered name. We call ourselves **Suffolk Libraries**.
 
-We are an [Industrial and Provident Society](http://www.fca.org.uk/firms/firm-types/mutual-societies/industrial), a not for profit, independent and charitable organisation set up in August 2012 to run the service for the benefit of the people of Suffolk.
+We are an [Industrial and Provident Society](http://www.fsa.gov.uk/doing/small_firms/msr/societies), a not for profit, independent and charitable organisation set up in August 2012 to run the service for the benefit of the people of Suffolk. Following the Co-operative and Community Benefit Societies Act 2014, such societies are now generally referred to as [‘Registered Societies’[(https://www.fca.org.uk/firms/registered-societies-introduction/co-operative-community-benefit-societies-act-2014)].
 
 All libraries in Suffolk are run by Suffolk Libraries. We're contracted by [Suffolk County Council](http://www.suffolk.gov.uk/) to run the service.
 
