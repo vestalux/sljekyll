@@ -23,6 +23,6 @@ Benjamin Johncock, author of Brave New Reads pick The Last Pilot, says:
 
 Brave New Reads is coordinated by Writers’ Centre Norwich, in collaboration with the Norfolk, Suffolk and Cambridgeshire Library Services and funded by the National Lottery through Arts Council England.
 
-For more information visit [www.bravenewreads.org.uk](http://www.bravenewreads.org.uk).
+For more information visit [www.bravenewreads.org.uk](http://www.writerscentrenorwich.org.uk/main-events/brave-new-reads/).
 
 See the [list of Brave New Reads books](/new-suggestions/fiction/brave-new-reads-2016).

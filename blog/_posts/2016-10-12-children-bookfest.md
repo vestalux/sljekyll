@@ -22,7 +22,7 @@ Armour-Chelu's first book, <cite>Fenn Halflin and the Fearzero</cite> was publis
 
 Having produced such an imaginative debut, there is little doubt that Armour-Chelu will have excellent advice for young writers who want to spin their own otherworldly yarns.
 
-You can read an interview with Hughes [here](schools-literacy/literacy/go-beyond-the-book-fenn-halflin/).
+You can read an interview with Hughes [here](/schools-literacy/literacy/go-beyond-the-book-fenn-halflin/).
 
 ## Emily Hughes
 

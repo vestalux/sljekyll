@@ -17,7 +17,7 @@ Includes all published scores. Full, vocal, choral scores and librettos – abou
 
   * **Dates covered:** Up to 1973
   * **Material included:** Audio cassettes, music scores, video cassettes, books
-  * **Location:** [Lowestoft Record Office](https://www.suffolk.gov.uk/culture-heritage-and-leisure/suffolk-record-office/using-the-suffolk-record-office/suffolk-record-office-contact-details-and-opening-times/)
+  * **Location:** [Lowestoft Record Office](http://www.suffolkarchives.co.uk/planning-your-visit/suffolk-record-office-branches/lowestoft-branch/)
 
 ## Cullum collection
 
