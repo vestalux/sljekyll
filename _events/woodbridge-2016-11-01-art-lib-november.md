@@ -15,4 +15,4 @@ Laura says: “As an artist you’re always fascinated by what’s happening in 
 
 Laura’s paintings also investigate the relationship between figurative and abstract elements. The result is often something that at first glance looks easily recognisable but, on reflection, is playful and questioning.
 
-For more information, please see [www.lbm-art.com/events](www.lbm-art.com/events)
+For more information, please see [www.lbm-art.com/events](http://www.lbm-art.com/events)

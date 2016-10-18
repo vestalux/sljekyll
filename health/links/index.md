@@ -130,7 +130,7 @@ Here are some of the organisations and information sources available for a varie
 <ul>
 	<li><a href="https://www.gov.uk/contact-jobcentre-plus">Job Centre Plus</a> - How to contact your local JobCentre and benefits information</li>
 	<li><a href="http://www.realisefutures.org/our-services/employment">Realise Futures</a> - Employment advisor details, with help from job searching to employment skills</li>
-	<li><a href="http://www.shaw-trust.org.uk/individuals/">Shaw Trust</a> - Specialist help and support to find work</li>
+	<li><a href="https://www.shaw-trust.org.uk/en-GB/Services/Employment-Services">Shaw Trust</a> - Specialist help and support to find work</li>
 	<li><a href="http://www.papworthtrust.org.uk/work-and-training">Papworth</a> - Can help you find the job that’s right for you</li>
 	<li><a href="https://www.how2become.com/resources/ultimate-guide-to-building-a-cv/">Ultimate Guide to Building a CV</a> - Step by step guide to writing a CV</li>
 	<li><a href="http://www.youthcentral.vic.gov.au/jobs-careers/applying-for-jobs/how-to-write-a-resume">How to Write a Resume</a> - Includes checklist for CV essentials</li>

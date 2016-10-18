@@ -59,7 +59,7 @@ I love Suffolk. I’ve sailed out of Orford many times and we are going to stay 
 
 Peter James on social media:
 
-* His brand new YouTube channel: <a href="http://www.peterjames.com/YouTube">www.peterjames.com/YouTube</a>
+* His brand new YouTube channel: <a href="https://www.youtube.com/c/peterjamespjtv">www.peterjames.com/YouTube</a>
 * Website: <a href="http://www.peterjames.com">www.peterjames.com</a>
 * Facebook: <a href="http://www.facebook.com/peterjames.roygrace">http://www.facebook.com/peterjames.roygrace</a>
 * Twitter: <a href="http://twitter.com/peterjamesuk">http://twitter.com/peterjamesuk</a>
