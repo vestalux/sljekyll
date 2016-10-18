@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Poetry and creative writing group"
-recurrent-day: Wednesday every 2 weeks
+recurrent-day: Wednesday
 recurrent-times: 1430-1530
 recurrent-location: newmarket-library
 recurrent-location-display-name: Newmarket Library
