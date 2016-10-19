@@ -7,7 +7,7 @@ alice-violett:
     name: Alice Violett
     job: web content editor
     img: /images/authors/alice-violett.jpg
-    bio: I write and edit content for the Suffolk Libraries website
+    bio: I write and edit content for the Suffolk Libraries website.
 
 alison-wheeler:
     name: Alison Wheeler
@@ -28,7 +28,7 @@ anna-hradsky:
 booked-out-team:
     name: the Booked Out team
     job: podcasters
-    bio: We record then monthly Booked Out podcast.
+    bio: We record the monthly Booked Out podcast.
 
 brandon-king:
     name: Brandon King
@@ -74,7 +74,7 @@ emma-raindle:
     bio: I'm web content editor.
 
 emily-mitchell:
-    name: Emily Mithcell
+    name: Emily Mitchell
     job: book reviewer
 
 germaine-bates:
