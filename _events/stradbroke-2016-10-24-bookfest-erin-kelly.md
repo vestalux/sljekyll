@@ -8,7 +8,6 @@ event-start-time: 1930
 event-end-time: 2100
 event-doors-open: 1900
 event-ticket-price: ' <span class="pa2 bg-red white">Sold out!</span>'
-event-ticket-url: https://www.eventbrite.co.uk/e/how-to-write-a-thriller-with-erin-kelly-tickets-27003937504
 event-category: bookfest
 hnav: bookfest
 breadcrumb: y
