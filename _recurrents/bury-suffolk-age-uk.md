@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Suffolk Age UK advice in the foyer: assistance with home help, day services, befriending or benefits"
+recurrent-title: "Suffolk Age UK advice in the foyer: assistance with home help, day services, befriending or benefits - no session on 21 or 28 December"
 recurrent-day: Wednesday
 recurrent-times: 1000-1300
 recurrent-location: bury-st-edmunds-library

@@ -19,7 +19,6 @@ branch-twitter: burylibsuffolk
 branch-facebook: burystedmundslibrary
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/bury-st-edmunds-library-2
-branch-other-facilities: "<strong>The Big Friendly Read</strong> opening times: Mondays to Saturdays 10am-12pm, 2pm-4pm and Sundays 10.30am-12pm."
 branch-room-hire: /libraries/room-hire/bury-st-edmunds-library
 branch-display-space: "
 <strong>Internal Foyer (suitable for table top / banner display)</strong>
