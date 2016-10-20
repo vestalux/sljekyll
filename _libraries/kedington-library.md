@@ -13,6 +13,7 @@ branch-manager: Dawn Bamford
 branch-address: Community Centre, Arms Lane, Kedington
 branch-post-code: CB9 7QQ
 branch-tel: 01440 703449
+branch-news: Kedington Library is closed temporarily for refurbishment and reopens Tuesday 25 October. Customers can use Clare or Haverhill Library during this work and Suffolk Libraries apologises for any inconvenience.
 branch-friends: Friends of Kedington Library
 branch-social-media: y
 branch-facebook: kedingtonlibrary
