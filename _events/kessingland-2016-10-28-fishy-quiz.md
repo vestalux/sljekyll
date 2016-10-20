@@ -1,6 +1,6 @@
 ---
-id: kessingland-fishy-tales
-name: "Fishy Crafts and Fishy Tales"
+id: kessingland-fishy-quiz
+name: "Fishy quiz with fish and chips"
 location: kessingland-library
 location-text: Kessingland Library
 event-start-date: 2016-10-28
