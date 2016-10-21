@@ -14,7 +14,7 @@ Seasoned East Anglian storytellers Maryjane Edgar, Harvey Salmon, and Marion Lee
 
 The workshops will run once per month on Monday afternoons from November 2016 – April 2017, giving participants the chance to fully develop as performers at a comfortable pace. They will also then be able to form their own Mildenhall Storytellers group based at the library.
 
-Applications to the programme are now very much welcome – contact Denise at Mildenhall Library on <a href="tel:01638 713558">01638 713558</a> or at denise.gray@suffolklibraries.co.uk to request a short application form. Applications will close at 5pm on Monday 24 October. Successful applicants will then be notified and the first workshop will take place on Monday 7 November.
+Applications to the programme are now very much welcome – contact Denise at Mildenhall Library on <a href="tel:01638 713558">01638 713558</a> or at denise.gray@suffolklibraries.co.uk to request a short application form. Applications will close at 5pm on Monday 31 October. Successful applicants will then be notified and the first workshop will take place on Monday 7 November.
 
 The workshops have been funded by the Market Place Development Commission Fund, which granted Mildenhall Library £2,000 in May 2016 to grow storytelling in Mildenhall. Market Place is an arts development organisation set up by Arts Council England in 2015 to engage new audiences in the arts across Fenland and Forest Heath.
 

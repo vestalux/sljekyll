@@ -60,6 +60,6 @@ Children also have the opportunity to **meet birds and mini-beasts** at some of 
 
 - On the spooky/mystical theme, [Hadleigh Library](https://www.suffolklibraries.co.uk/events/hadleigh-2016-10-25-harry-potter-night/) are holding what looks to be a fantastic **<cite>Harry Potter</cite>**-themed night on Tuesday 25 October.  For £5 your child can make their own wand and a Hogwarts school hat, and enjoy a <cite>Harry Potter</cite>-themed area with props. There’s also a **free <cite>Harry Potter</cite> creature competition and optional extras**; see the event page for full details.
 
-- Children in [Stowmarket](https://www.suffolklibraries.co.uk/events/southwold-2016-10-25-meet-catherine-pearson/) have the opportunity to partake in **activities led by Catherine Pearson, author of Southwold-based children’s book <cite>The Sole Bay Railway</cite>**. This sounds like a really exciting book, so this event is bound to be special.
+- Children in [Southwold](https://www.suffolklibraries.co.uk/events/southwold-2016-10-25-meet-catherine-pearson/) have the opportunity to partake in **activities led by Catherine Pearson, author of Southwold-based children’s book <cite>The Sole Bay Railway</cite>**. This sounds like a really exciting book, so this event is bound to be special.
 
 Hopefully, with all these activities, you won’t have to hear the dreaded strains of ‘I’m bored!’.
