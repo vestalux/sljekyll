@@ -12,7 +12,7 @@ branch-sunday-hours: 1000 – 1600
 branch-manager: Ursula Scott
 branch-address: Milton Road, Stowmarket
 branch-post-code: IP14 1EX
-branch-tel: 01449 613143
+branch-tel: 01449 700549
 branch-fax: 01449 672629
 branch-friends: Friends of Stowmarket Library
 branch-friends-url: /about/member-organisations/friends-of-stowmarket-library
