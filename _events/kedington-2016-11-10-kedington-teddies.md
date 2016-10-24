@@ -8,4 +8,4 @@ event-start-time: 1600
 event-category: Children
 breadcrumb: y
 ---
-Bring your teddy to our regular Storytime session for homemade biscuits and cake supplied by Friends of Kedlington Library.
+Bring your teddy to our regular Storytime session for homemade biscuits and cake supplied by Friends of Kedington Library.
