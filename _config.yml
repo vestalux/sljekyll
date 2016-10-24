@@ -13,9 +13,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.suffolklibraries.co.uk" # the base hostname & protocol for your site
 twitter_username: suffolklibrary
 github_username:  suffolklibraries
-message: Phone outage at some libraries 21-23 Oct.
-message_link: news/phone-outage/
-message_link_text: List of affected libraries
+# message: Phone outage at some libraries 21-23 Oct.
+# message_link: news/phone-outage/
+# message_link_text: List of affected libraries
 
 
 
