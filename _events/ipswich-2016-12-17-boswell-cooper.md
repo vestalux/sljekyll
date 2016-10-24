@@ -1,6 +1,6 @@
 ---
 id: ipswich-boswell-cooper
-name: "Boswell & Cooper's 'Figgy Pudding'"
+name: 'Boswell &amp; Cooper&#8217;s "Figgy Pudding"'
 location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2016-12-17
