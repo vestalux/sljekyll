@@ -22,6 +22,8 @@ There are also Halloween-themed craft sessions at:
 
 - [Gainsborough Library on Monday 24 October](https://www.suffolklibraries.co.uk/events/gainsborough-2016-10-24-halloween/).
 
+- [Halesworth Library on Wednesday 26 October](https://www.suffolklibraries.co.uk/events/halesworth-2016-10-26-halloween-crafts/)
+
 - [Great Cornard Library on Friday 28 October](https://www.suffolklibraries.co.uk/events/great-cornard-2016-10-28-halloween/).
 
 - [Oulton Broad Library on Sunday 30 October](https://www.suffolklibraries.co.uk/events/oulton-broad-2016-10-30-halloween/).

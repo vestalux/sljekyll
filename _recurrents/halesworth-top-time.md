@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Top Time: events and activities for older people"
+recurrent-title: "Time Out: events and activities for older people"
 recurrent-day: Wednesday
 recurrent-times: 1030-1200
 recurrent-location: halesworth-library
