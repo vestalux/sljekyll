@@ -6,7 +6,7 @@ location-text: Woodbridge Library
 event-start-date: 2016-10-28
 event-start-time: 1000
 event-end-time: 1130
-event-ticket-price: 5
+event-ticket-price: ' <span class="pa2 bg-red white">Sold out!</span>'
 event-ticket-url: http://www.eventbrite.co.uk/e/cook-up-a-story-with-francesca-armour-chelu-tickets-27403795490
 event-category: bookfest
 event-book-signing: 1130
