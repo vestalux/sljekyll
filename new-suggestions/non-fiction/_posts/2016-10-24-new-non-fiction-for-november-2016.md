@@ -9,6 +9,9 @@ breadcrumb: non-fiction
 published: true
 ---
 
+## Please note that, due to an online catalogue upgrade, no new reservations can be placed between 31 October and 9 November inclusive. <a href="https://www.suffolklibraries.co.uk/news/online-catalogue-upgrade/">Find out more</a>.
+
+
 ![Steve Jones, Johnny Marr and Mick 'Woody' Woodmansey](/images/featured/featured-november-non-fiction.jpg)
 
 <h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5902239?QRY=CTIBIB%3C%20IRN(56735711)&QRYTEXT=Fragments%20%3A%20on%20writing%2C%20reading%2C%20and%20absence"><cite>Fragments: on writing, reading, and absence</cite>, by Elena Ferrante (translated by Ann Goldstein)</a></h2>

@@ -8,6 +8,9 @@ excerpt: New titles from Lee Child, Zadie Smith and Jodi Picoult
 breadcrumb: fiction
 ---
 
+## Please note that, due to an online catalogue upgrade, no new reservations can be placed between 31 October and 9 November inclusive. <a href="https://www.suffolklibraries.co.uk/news/online-catalogue-upgrade/">Find out more</a>.
+
+
 ![Jack Reacher, Jodi Picoult, Ian Rankin and Zadie Smith](/images/featured/featured-november-fiction.jpg)
 
 <h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/5875036/67089490,3"><cite>Night School</cite>, by Lee Child</a></h2>
