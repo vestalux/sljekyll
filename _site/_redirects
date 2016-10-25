@@ -29,6 +29,7 @@
 /lowestoft-festival /events-activities/lowestoft-library-literary-festival
 
 /announcements/* /news/:splat
+/category/blog/* /blog/:splat
 /book-club-lists/* /new-suggestions/book-club-ideas/:splat
 /book-lists/* /new-suggestions/fiction/:splat
 /branches/debenham-resource-centre/* /libraries/debenham-library/:splat
