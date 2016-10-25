@@ -7,9 +7,11 @@ category: fiction
 excerpt: New titles from Lee Child, Zadie Smith and Jodi Picoult
 breadcrumb: fiction
 ---
+<div class="{% include /c/generic-panel.html %}">
 
-## Please note that, due to an online catalogue upgrade, no new reservations can be placed between 31 October and 9 November inclusive. <a href="https://www.suffolklibraries.co.uk/news/online-catalogue-upgrade/">Find out more</a>.
+    <p class="mt0">Please note that, due to an online catalogue upgrade, no new reservations can be placed between 31 October and 9 November inclusive. <a href="https://www.suffolklibraries.co.uk/news/online-catalogue-upgrade/">Find out more</a>.</p>
 
+</div>
 
 ![Jack Reacher, Jodi Picoult, Ian Rankin and Zadie Smith](/images/featured/featured-november-fiction.jpg)
 
