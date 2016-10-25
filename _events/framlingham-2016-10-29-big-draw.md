@@ -17,3 +17,5 @@ The Big Draw is a free event for all ages, which aims to promote drawing and its
 As well as the library, various locations around the town such as St Michael's Church and St Michael’s Rooms and Framlingham Unitarian Meeting House are getting involved with The Big Draw.  The central base will be in the market on Market Hill.
 
 There will be a town art trail, eye catching visual displays, and artists including cartoonist Simon Farr, portrait artist Jack Stephenson and The Suffolk Group’s Graham and Julie Giles will be on hand to help to inspire your creativity. The day will culminate in celebration of drawing with a display of artwork produced.
+
+Further information can be found on [the Flipside website](http://www.flipsidefestival.org/whats-on-at-flipside-festival.aspx).
