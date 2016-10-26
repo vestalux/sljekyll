@@ -22,5 +22,6 @@ All library services will remain available during the upgrade but customers shou
 - Reservations placed before the start of the upgrade will be processed
 - No overdue notices can be sent during the upgrade. **We will automatically extend return dates for books due during this period to 11 November**.
 - Reservations and pre-overdue notices will continue to be issued.
+- Title suggestions will take 3 weeks to process
 
 The upgrade is an essential part of developing and improving the library catalogue. We apologise for any inconvenience this work causes.
