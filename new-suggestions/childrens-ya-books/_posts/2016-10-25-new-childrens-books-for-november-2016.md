@@ -61,6 +61,52 @@ John Watson has barely settled into his new school, Baker Street Academy, when h
 
 <h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6713824?QRY=CTIBIB%3C%20IRN(69495049)&QRYTEXT=DogZombies%20rule%20(for%20now)">Liz Pinchon - <cite>DogZombies Rule (for now)</cite></a></h3>
 
-"Here's my excellent plan to make DogZombies the best band in the whole wide world! How hard can it be? I'm going to: 1. Write more songs (not about teachers). 2. Make a spectacular music video (easy). 3. Get some sleep (tricky when you're being kept awake by loud noises). 4. Annoy Delia (nothing to do with DogZombies but always fun)."
+*"Here's my excellent plan to make DogZombies the best band in the whole wide world! How hard can it be? I'm going to: 1. Write more songs (not about teachers). 2. Make a spectacular music video (easy). 3. Get some sleep (tricky when you're being kept awake by loud noises). 4. Annoy Delia (nothing to do with DogZombies but always fun)."*
 
 The 11th book in the <cite>Tom Gates</cite> series looks as funny as the first ten. LOL.
+
+<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/7002693/66051136,1">Sibéal Pounder - <cite>Witch Glitch</cite></a></h3>
+
+It's a new era for the <cite>Witch Wars</cite> witches. Felicity Bat is no longer evil, Tiga has at last found her mum and there's the whole of Silver City to explore. But it's not long before the witches find themselves at the centre of another adventure. When a magical book called The Karens offers to grant Fran the Fabulous Fairy's dearest wish, it seems too good to be true. And it is. Before you can say 'frogknuckles', Tiga and the gang are in a race against time - can they save Fran before she explodes in a large ball of glittery dust?”
+
+## Picture books for older readers
+
+<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/7004335/65173356,2">Madalena Matoso - <cite>Story Path: choose a path, tell a story</cite></a></h3>
+
+This is a choose-your-own-adventure picture book. How cool is that! Obviously it could be used to inspire creative writing in schools, but it would be a great book to take on a journey or to read on a long rainy day too, because each time you come back to it you can create a different story.
+
+## Young teen novels
+
+<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/7007212/64674708,2">Sarah Moore Fitzgerald - <cite>A Very Good Chance</cite></a></h3>
+
+This engaging third novel by Sarah Moore Fitzgerald is thoroughly recommended both as a good read and as a motivational tale about the power of friendship and perseverance. It stars two young teenagers both of whom feel displaced from their usual worlds. Minty, whose parents have just separated, is intrigued and inspired by Ned, who can ride like the wind.
+
+<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7007795?QRY=CTIBIB%3C%20IRN(1086634)&QRYTEXT=Word%20nerd">Susin Nielson-Fernlund - <cite>Word Nerd</cite></a></h3>
+
+Twelve-year-old Ambrose is a glass-half-full kind of guy. A self-described 'friendless nerd,' he moves from place to place every couple of years with his overprotective mother, Irene. When some bullies at his new school almost kill him by slipping a peanut into his sandwich, Ambrose is philosophical.
+
+<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7008478?QRY=CTIBIB%3C%20IRN(66284219)&QRYTEXT=Going%20Solo">Zoe Sugg - <cite>Going Solo</cite></a></h3>
+
+We’ve had keen fans waiting for the publication of this novel by the internet vlogger ‘Zoella’ since it was first announced. It’s the third title of her <cite>Girl Online</cite> series. Her brother Joe’s new graphic novel book <cite>Regenerated</cite> came out last month – a talented family!
+
+## Junior non-fiction
+
+<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7009868?QRY=CTIBIB%3C%20IRN(68177405)&QRYTEXT=Modelling%20clay%20animals%20%3A%20with%203%20basic%20shapes">Bernadette Cuxart - <cite>Modelling Clay Animals with 3 basic shapes</cite></a></h3>
+
+This well-illustrated guide gives simple instructions for modelling 26 different animals, all of which look adorable. Possibly the best craft book we have bought this year!
+
+<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7013139?QRY=CTIBIB%3C%20IRN(65164428)&QRYTEXT=Gruffalo%20crumble%20and%20other%20recipes%20%3A%2024%20recipes%20from%20the%20deep%20dark%20wood">Julia Donaldson and Axel Scheffler - <cite>Gruffalo Crumble and other recipes: 24 recipes from the deep dark wood</cite></a></h3>
+
+The blurb says: *twenty-four recipes specially designed for adults to use with children, easy-to-follow, step-by-step instructions and lots of hints and tips on what to do next*, but what it omits to mention is the names of the recipes. So here to tempt you, are just a few: mouse toast, frog muffins, orange eyes, turned out toes, toadstool pizza, swirly snails. Now if anything can persuade a child to eat several sticks of celery, I would hazard a guess that calling it "snake’s logpile house" might do the trick. If you’re planning a <cite>Gruffalo</cite> party this book is just the job.
+
+<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/7014158/65546279,1">Warren Elsmore - <cite>Brick By Brick - Space</cite></a></h3>
+
+<cite>Brick By Brick - Space</cite> will teach you how to build amazing space projects, giving step by step instructions - simple and easy. And all you need for it to work are LEGO bricks!
+
+<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/7015049/64471071,4">Catherine Saunders - <cite>Children just like me: a NEW celebration of children from around the world</cite></a></h3>
+
+This DK book would be simply perfect for PSHE topics in schools and playgroups, and because it’s packed with interesting detail and about families and clothes, food and pets. With full colour photos on every page, it is a great book to just look at too.
+
+<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/7016067/65355529,1">Justin Richards - <cite>A History of Humankind: The Doctor’s official guide</cite></a></h3>
+
+Over billions of years of time travel, the Doctor has run into his fair share of important people - and he's formed opinions on most of them too. Now the Twelfth Doctor has got hold of a history textbook from Coal Hill School, and he's decided to improve it with notes of his own. From Nefertiti to Robin Hood, this essential Doctor's guide gives us his unique take on Earth's most famous historical figures. Through annotations, scribblings and his trademark snarky humour, the Doctor has plenty to say about the pudding-brained humans he's met on his travels. It's history - but perhaps not quite as you know it.
