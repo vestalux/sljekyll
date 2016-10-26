@@ -27,7 +27,7 @@ This bright and cheerful tactile board book is bound to become a favourite. The 
 
 <h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/6690716/65758600,3">Peter Bently &amp; Sernur Isik - <cite>Potion Commotion</cite></a></h3>
 
-When little witch Betty tries her hand at cooking, into the cauldron goes everything from strawberry jam to slices of ham! Betty's potion keeps on growing and soon it's spreading all over town. But when a hungry dragon arrives, can Betty's brew save the day?
+*"When little witch Betty tries her hand at cooking, into the cauldron goes everything from strawberry jam to slices of ham! Betty's potion keeps on growing and soon it's spreading all over town. But when a hungry dragon arrives, can Betty's brew save the day?"*"
 
 <h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6695385?QRY=CTIBIB%3C%20IRN(67942632)&QRYTEXT=The%20storm%20whale%20in%20winter">Benji Davies - <cite>The Storm Whale in Winter</cite></a></h3>
 
@@ -45,7 +45,7 @@ A cautionary tale about the dangers of internet safety, told and illustrated wit
 
 <h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6702045?QRY=CTIBIB%3C%20IRN(65785403)&QRYTEXT=Rover%20and%20the%20big%20fat%20baby">Roddy Doyle - <cite>Rover and the Big Fat Baby</cite></a></h3>
 
-It's the summer holidays and Rover is busy searching for poo. He works for The Gigglers, small furry creatures who make sure grown-ups are nice to their kids. If they aren't, they get the Giggler Treatment - a smelly, squishy present on the end of their shoe, which is where Rover comes in. But Rover and his nephew Messi (who is actually very tidy) are distracted from their job by a Big Fat Baby (B.F.B) who's fallen out of her Granny's backpack.
+*"It's the summer holidays and Rover is busy searching for poo. He works for The Gigglers, small furry creatures who make sure grown-ups are nice to their kids. If they aren't, they get the Giggler Treatment - a smelly, squishy present on the end of their shoe, which is where Rover comes in. But Rover and his nephew Messi (who is actually very tidy) are distracted from their job by a Big Fat Baby (B.F.B) who's fallen out of her Granny's backpack."*
 
 <h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6705586?QRY=CTIBIB%3C%20IRN(65593829)&QRYTEXT=The%20war%20next%20door">Phil Earle - <cite>The War Next Door</cite></a></h3>
 
@@ -57,7 +57,7 @@ This is a wonderful Viking tale written by Neil Gaiman, about a boy called Odd, 
 
 <h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6711076?QRY=CTIBIB%3C%20IRN(69495617)&QRYTEXT=Sherlock%20Holmes%20and%20the%20disappearing%20diamond">Sam Hearn - <cite>Sherlock Holmes and the Disappearing Diamond</cite></a></h3>
 
-John Watson has barely settled into his new school, Baker Street Academy, when his teacher announces a trip to one of London's top museums, home to the world's most famous jewel. But it's been stolen! When police catch the thief it seems the case is closed. Can Sherlock Holmes uncover the mystery behind this extraordinary gem?
+*"John Watson has barely settled into his new school, Baker Street Academy, when his teacher announces a trip to one of London's top museums, home to the world's most famous jewel. But it's been stolen! When police catch the thief it seems the case is closed. Can Sherlock Holmes uncover the mystery behind this extraordinary gem?"*
 
 <h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6713824?QRY=CTIBIB%3C%20IRN(69495049)&QRYTEXT=DogZombies%20rule%20(for%20now)">Liz Pinchon - <cite>DogZombies Rule (for now)</cite></a></h3>
 
@@ -67,7 +67,7 @@ The 11th book in the <cite>Tom Gates</cite> series looks as funny as the first t
 
 <h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/7002693/66051136,1">Sibéal Pounder - <cite>Witch Glitch</cite></a></h3>
 
-It's a new era for the <cite>Witch Wars</cite> witches. Felicity Bat is no longer evil, Tiga has at last found her mum and there's the whole of Silver City to explore. But it's not long before the witches find themselves at the centre of another adventure. When a magical book called The Karens offers to grant Fran the Fabulous Fairy's dearest wish, it seems too good to be true. And it is. Before you can say 'frogknuckles', Tiga and the gang are in a race against time - can they save Fran before she explodes in a large ball of glittery dust?”
+*"It's a new era for the <cite>Witch Wars</cite> witches. Felicity Bat is no longer evil, Tiga has at last found her mum and there's the whole of Silver City to explore. But it's not long before the witches find themselves at the centre of another adventure. When a magical book called The Karens offers to grant Fran the Fabulous Fairy's dearest wish, it seems too good to be true. And it is. Before you can say 'frogknuckles', Tiga and the gang are in a race against time - can they save Fran before she explodes in a large ball of glittery dust?"*
 
 ## Picture books for older readers
 
@@ -83,7 +83,7 @@ This engaging third novel by Sarah Moore Fitzgerald is thoroughly recommended bo
 
 <h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7007795?QRY=CTIBIB%3C%20IRN(1086634)&QRYTEXT=Word%20nerd">Susin Nielson-Fernlund - <cite>Word Nerd</cite></a></h3>
 
-Twelve-year-old Ambrose is a glass-half-full kind of guy. A self-described 'friendless nerd,' he moves from place to place every couple of years with his overprotective mother, Irene. When some bullies at his new school almost kill him by slipping a peanut into his sandwich, Ambrose is philosophical.
+*"Twelve-year-old Ambrose is a glass-half-full kind of guy. A self-described 'friendless nerd,' he moves from place to place every couple of years with his overprotective mother, Irene. When some bullies at his new school almost kill him by slipping a peanut into his sandwich, Ambrose is philosophical."*
 
 <h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/7008478?QRY=CTIBIB%3C%20IRN(66284219)&QRYTEXT=Going%20Solo">Zoe Sugg - <cite>Going Solo</cite></a></h3>
 
@@ -101,7 +101,7 @@ The blurb says: *twenty-four recipes specially designed for adults to use with c
 
 <h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/7014158/65546279,1">Warren Elsmore - <cite>Brick By Brick - Space</cite></a></h3>
 
-<cite>Brick By Brick - Space</cite> will teach you how to build amazing space projects, giving step by step instructions - simple and easy. And all you need for it to work are LEGO bricks!
+*"<cite>Brick By Brick - Space</cite> will teach you how to build amazing space projects, giving step by step instructions - simple and easy. And all you need for it to work are LEGO bricks!"*"
 
 <h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/7015049/64471071,4">Catherine Saunders - <cite>Children just like me: a NEW celebration of children from around the world</cite></a></h3>
 
@@ -109,4 +109,4 @@ This DK book would be simply perfect for PSHE topics in schools and playgroups, 
 
 <h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/7016067/65355529,1">Justin Richards - <cite>A History of Humankind: The Doctor’s official guide</cite></a></h3>
 
-Over billions of years of time travel, the Doctor has run into his fair share of important people - and he's formed opinions on most of them too. Now the Twelfth Doctor has got hold of a history textbook from Coal Hill School, and he's decided to improve it with notes of his own. From Nefertiti to Robin Hood, this essential Doctor's guide gives us his unique take on Earth's most famous historical figures. Through annotations, scribblings and his trademark snarky humour, the Doctor has plenty to say about the pudding-brained humans he's met on his travels. It's history - but perhaps not quite as you know it.
+*"Over billions of years of time travel, the Doctor has run into his fair share of important people - and he's formed opinions on most of them too. Now the Twelfth Doctor has got hold of a history textbook from Coal Hill School, and he's decided to improve it with notes of his own. From Nefertiti to Robin Hood, this essential Doctor's guide gives us his unique take on Earth's most famous historical figures. Through annotations, scribblings and his trademark snarky humour, the Doctor has plenty to say about the pudding-brained humans he's met on his travels. It's history - but perhaps not quite as you know it."*
