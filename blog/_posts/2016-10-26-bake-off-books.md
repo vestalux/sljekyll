@@ -4,7 +4,7 @@ title: Inspired by <cite>The Great British Bake Off</cite>? We pick some of the 
 date: 2016-10-26
 author: alice-violett
 category: blog
-excerpt: “The 2016 series of <cite>The Great British Bake Off</cite> draws to a close tonight. Help your children create their own showstoppers this half-term with these fabulous titles.”
+excerpt: "The 2016 series of <cite>The Great British Bake Off</cite> draws to a close tonight. Help your children create their own showstoppers this half-term with these fabulous titles."
 breadcrumb: blog
 ---
 
