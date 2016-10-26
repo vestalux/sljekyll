@@ -18,7 +18,7 @@ This work will provide several benefits:
 
 All library services will remain available during the upgrade but customers should be aware of the following:
 
-- We **cannot accept new reservations during this period** (either online or in the library)
+- We **cannot accept new reservations during this period** (either online or in the library). **Please note we can't accept reservations on books we haven't ordered yet from 28 Oct - 9 Nov**.
 - Reservations placed before the start of the upgrade will be processed
 - No overdue notices can be sent during the upgrade. **We will automatically extend return dates for books due during this period to 11 November**.
 - Reservations and pre-overdue notices will continue to be issued.
