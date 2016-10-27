@@ -14,6 +14,7 @@ branch-address: Crescent Road, Felixstowe
 branch-post-code: IP11 7BY
 branch-tel: 01394 694880
 branch-friends: Felixstowe Town Council
+branch-for-sale: charity Christmas cards, local Christmas card deliveries in aid of the Scouts 25 Nov-8 Dec
 branch-social-media: y
 branch-facebook: felixstowelibrary
 branch-wifi: y
