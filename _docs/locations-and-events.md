@@ -43,6 +43,7 @@ You can use the following YAML:
 - `branch-facebook`: the Facebook account handle (e.g. `ipswichcountylibrary`)
 - `branch-instagram`: the Instagram account handle (e.g. `ipswich_county_library`)
 - `branch-wifi`: boolean (just tests for its presence)
+- `branch-for-sale`: any for sale items in a string
 - `branch-accessibility`: link to the library's DisableGo page (e.g. `http://www.disabledgo.com/access-guide/suffolk-county-council/ipswich-county-library-2`)
 - `branch-special-collections`: list of special collections in the library (e.g. `African Caribbean resources, Indic language resources, Music & drama library`)
 - `branch-room-hire`: link to the library's room hire page (e.g. `/libraries/room-hire/ipswich-county-library`)
