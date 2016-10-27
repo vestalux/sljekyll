@@ -4,7 +4,7 @@ title: New music for November 2016
 date: 2016-10-25
 author: brandon-king
 category: music
-excerpt: 'New music from Emeli Sandé, Rumer and Wiley'
+excerpt: 'New music from Emeli Sandé, Kate Bush and Rumer'
 breadcrumb: music
 ---
 
@@ -38,10 +38,6 @@ This album features Rumer, recently described as ‘the heir to Dusty Springfiel
 <h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=TI&ENTRY=live+lounge+2016&ENTRY1_OPER=%2B&ENTRY2_NAME=AU&ENTRY2=&ENTRY2_TYPE=K&ENTRY3_NAME=SU&ENTRY3=&ENTRY_TYPE=K&ENTRY3_OPER=%2B&NRECS=20&SORTS=HBT.SOVR&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FOPAC%2FBSEARCH&CF=GEN&ISGLB=0&GQ=live+lounge+2016">Various Artists - <cite>Radio 1's Live Lounge 2016</cite></a></h2>
 
 Radio 1’s seasonal compilation continues to attract the best acts in the world. The bands and artists perform their own track, and a cover version. The tracks are live and stripped down, showing the true quality of the musicianship and craft of the song. Big names on this album include Coldplay, Biffy Clyro and Laura Mvula.
-
-<h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=TI&ENTRY=godfather&ENTRY1_OPER=%2B&ENTRY2_NAME=AU&ENTRY2=wiley&ENTRY2_TYPE=K&ENTRY3_NAME=SU&ENTRY3=&ENTRY_TYPE=K&ENTRY3_OPER=%2B&NRECS=20&SORTS=HBT.SOVR&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FOPAC%2FBSEARCH&CF=GEN&ISGLB=0&GQ=godfather">Wiley – <cite>Godfather</cite></a></h2>
-
-Fourteen years after debuting with the classic white label <cite>Eskimo</cite> legendary grime figurehead Wiley is set to reaffirm his status as the pioneer of the genre with his album <cite>Godfather</cite>.
 
 <h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=TI&ENTRY=acoustic&ENTRY1_OPER=%2B&ENTRY2_NAME=AU&ENTRY2=simple+minds&ENTRY2_TYPE=K&ENTRY3_NAME=SU&ENTRY3=&ENTRY_TYPE=K&ENTRY3_OPER=%2B&NRECS=20&SORTS=HBT.SOVR&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FOPAC%2FBSEARCH&CF=GEN&ISGLB=0&GQ=acoustic">Simple Minds – <cite>Acoustic</cite></a></h2>
 
