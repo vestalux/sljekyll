@@ -7,7 +7,7 @@ event-start-date: 2016-10-29
 event-start-time: 1130
 event-end-time: 1230
 event-book-signing: 1230
-event-ticket-price: 5
+event-ticket-price: ' <span class="pa2 bg-red white">Sold out!</span>'
 event-ticket-url: http://www.eventbrite.co.uk/e/going-wild-with-emily-hughes-tickets-27303103317
 event-category: bookfest
 hnav: bookfest
