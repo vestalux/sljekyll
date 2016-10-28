@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "Tell us what you think of our resources"
+title: "Tell us what you think of our online resources"
 date: 2016-10-26
 author: james-powell
 excerpt: Suffolk Libraries is asking customers for their views on its online research, study and leisure resources.
