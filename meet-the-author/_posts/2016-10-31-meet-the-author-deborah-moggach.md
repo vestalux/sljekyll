@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: Deborah Moggach'
-date: 2016-10-19
+date: 2016-10-31
 author: brandon-king
 category: meet-the-author
 excerpt: 'Deborah discusses her childhood love for <cite>Just William</cite>, the pleasure of having her novel <cite>These Foolish Things</cite> adapted into <cite>The Best Exotic Marigold Hotel</cite>, and the challenge of adapting <cite>Pride and Prejudice</cite> for the big screen.'
