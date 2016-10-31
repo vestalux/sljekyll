@@ -16,8 +16,7 @@ breadcrumb: blog
 
 You could kit out a whole Halloween party with this book, as it features instructions for making costumes, crafts and food. You could serve your guests monster pop cakes dressed as a spider, or witches’ hat-shaped cookies while dressed as an alien. If you’re bored of the same old faces, you could take inspiration from this book’s pumpkin carving ideas.
 
-## Jill Williams Grover - [<cite>Scary scenes for Halloween</cite>](
-https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/8855956/1316501,42)
+## Jill Williams Grover - [<cite>Scary scenes for Halloween</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/8855956/1316501,42)
 
 Another all-rounder, this book features a whopping 75 crafts and recipes. Set your table with Halloween-themed place settings, name cards, dripping candles and folded napkins, and serve your guests Dracula bow tie pasta or creamy chicken baked in a pumpkin.
 
