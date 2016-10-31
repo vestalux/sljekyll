@@ -9,7 +9,7 @@ event-start-time: 1500
 event-end-time: 1700
 event-category: presents
 event-doors-open: 1430
-event-ticket-price: "7.5"
+event-ticket-price: "7.50"
 event-image-small: article/presents-the-nutcracker.jpg
 breadcrumb: y
 ---
