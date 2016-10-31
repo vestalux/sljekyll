@@ -18,10 +18,11 @@ This work will provide several benefits:
 
 All library services will remain available during the upgrade but customers should be aware of the following:
 
-- We **cannot accept new reservations during this period** (either online or in the library). **Please note we can't accept reservations on books we haven't ordered yet from 28 Oct - 9 Nov**.
-- Reservations placed before the start of the upgrade will be processed
+- We **cannot accept new reservations during this period** (either online or in the library).
+- Reservations placed before the start of the upgrade will be processed, but may take longer than normal to arrive.
 - No overdue notices can be sent during the upgrade. **We will automatically extend return dates for books due during this period to 11 November**.
-- Reservations and pre-overdue notices will continue to be issued.
-- Title suggestions will take 3 weeks to process
+- We'll still send emails saying that your reservation is available and that your loans are due back in 3 days.
+- Title suggestions will take 3 weeks to process.
+- You won't be able to request [inter-library loans](/help/reservations-requests-inter-library-loans/).
 
 The upgrade is an essential part of developing and improving the library catalogue. We apologise for any inconvenience this work causes.
