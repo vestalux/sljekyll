@@ -1,6 +1,6 @@
 ---
 id: nutcracker-gainsborough
-name: "Suffolk Libraries Presents: New York City Ballet <cite>The Nutcracker</cite>"
+name: "Suffolk Libraries Presents: New York City Ballet's <cite>The Nutcracker</cite>"
 location: gainsborough-community-library
 location-text: Gainsborough Community Library
 excerpt: "In the New York City Ballet’s famously extravagant staging of Tchaikovsky’s beloved melodies, one of the most complex theatrical staged ballets in the Company's active repertory, George Balanchine’s stunning choreography shines amidst awe-inspiring set pieces."
