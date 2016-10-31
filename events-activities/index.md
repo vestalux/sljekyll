@@ -76,13 +76,9 @@ breadcrumb: home
 
         <section class="{% include /c/block.html %}">
 
-            <div class="{% include /c/generic-panel.html %}">
+            <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/reading-groups">Reading groups</a></h1>
 
-                <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/bookfest">Bookfest</a></h1>
-
-                <p class="{% include /c/block-graf.html %}">Our annual book festival will take place on 22-30 October 2016 and features former chancellor Alan Johnson, <cite>Broadchurch</cite> author Erin Kelly and local crimewriting duo Nicci French, along with workshops for adults and children.</p>
-
-            </div>
+            <p class="{% include /c/block-graf.html %}">Join a library group and find out about setting up your own.</p>
 
         </section>
 
@@ -117,22 +113,6 @@ breadcrumb: home
     </div>
 
     <div class="custom-g-l2 custom-g-nm">
-
-        <section class="{% include /c/block.html %}">
-
-            <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/reading-groups">Reading groups</a></h1>
-
-            <p class="{% include /c/block-graf.html %}">Join a library group and find out about setting up your own.</p>
-
-        </section>
-
-    </div>
-
-</div> <!-- end row -->
-
-<div class="cf">
-
-    <div class="custom-g-l2">
 
         <section class="{% include /c/block.html %}">
 
