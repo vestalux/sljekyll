@@ -23,7 +23,7 @@ breadcrumb: home
 
             <section class="{% include /c/block.html %}" id="overdrive">
 
-                <h1 class="{% include /c/block-title.html %}">Overdrive eBooks &amp; eAudio</h1>
+                <h1 class="{% include /c/block-title.html %}">OverDrive eBooks &amp; eAudio</h1>
 
                 <a class="white" href="/elibrary/overdrive"><img src="/images/card/overdrive.jpg" alt="Screenshot of the OverDrive website"></a>
 
@@ -31,7 +31,7 @@ breadcrumb: home
 
                 <ul class="{% include /c/block-list.html %}">
 
-                    <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}"  href="/elibrary/overdrive">Overdrive instructions</a></li>
+                    <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}"  href="/elibrary/overdrive">OverDrive instructions</a></li>
                     <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}"  href="http://suffolklibraries.lib.overdrive.com/">OverDrive website</a></li>
 
                 </ul>
@@ -69,7 +69,7 @@ breadcrumb: home
 
                 <a class="white" href="/elibrary/borrowbox"><img src="/images/card/borrowbox.jpg" alt="Screenshot of the BorrowBox website"></a>
 
-                <p class="{% include /c/block-graf.html %}">Choose from a wide range of eAudio books. Use the OverDrive website with your library card, or download apps for Android and iOS.</p>
+                <p class="{% include /c/block-graf.html %}">Choose from a wide range of eAudio books. Use the BorrowBox website with your library card, or download apps for Android and iOS.</p>
 
                 <ul class="{% include /c/block-list.html %}">
 
