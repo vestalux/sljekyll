@@ -3,7 +3,7 @@ id: haverhill-teddies
 name: "Teddy bears' picnic"
 location: haverhill-library
 location-text: Haverhill Library
-event-start-date: 2016-11-10
+event-start-date: 2016-11-08
 event-start-time: 0930
 event-end-time: 1300
 event-category: Children
