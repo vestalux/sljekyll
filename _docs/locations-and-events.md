@@ -89,6 +89,7 @@ The site uses recurrent event categories (`recurrent-category`) to produce categ
 - `cafes-stalls`
 - `film-music-events`
 - `business`
+- `history`
 
 There is no description for these events. All the information about the event is contained in its YAML:
 
