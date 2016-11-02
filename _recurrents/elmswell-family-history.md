@@ -5,5 +5,5 @@ recurrent-times: 1430-1630
 recurrent-location: elmswell-library
 recurrent-location-display-name: Elmswell Library
 recurrent-location-display-url: /branches/elmswell-library/
-recurrent-category: computer-courses
+recurrent-category: history
 ---
