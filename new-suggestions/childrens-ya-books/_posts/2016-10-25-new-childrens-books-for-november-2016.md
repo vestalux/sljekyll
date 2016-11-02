@@ -4,7 +4,7 @@ title: New children’s books for November 2016
 date: 2016-10-25
 author: jo-dixon
 category: childrens-ya-books
-excerpt: " "
+excerpt: "New titles from Benki Davies, Neil Gaiman and Zoe Sugg, aka Zoella"
 breadcrumb: childrens-ya-books
 ---
 
