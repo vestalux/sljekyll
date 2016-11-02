@@ -9,4 +9,4 @@ event-end-time: 1300
 event-category: Children
 breadcrumb: y
 ---
-Bring your teddy to the library for refreshments, fun activities and a chance to meet Bookstart Bear.
+Bring your teddy to the library for fun activities and a chance to meet Bookstart Bear. Bring your own snack.
