@@ -9,4 +9,4 @@ event-end-time: 1300
 event-category: Children
 breadcrumb: y
 ---
-Bring your teddy bear on a trip to the library for storytelling, treasure hunting, a picnic, crafts, and to meet a very special bear.
+Bring your teddy bear on a trip to the library for storytelling, treasure hunting, a picnic and crafts.
