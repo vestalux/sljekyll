@@ -32,4 +32,4 @@ Several libraries will be celebrating the launch of <cite>Bear’s Reading Adven
 
 [Gainsborough Community Library in Ipswich – Teddy bears’ picnic from 11am to 1pm](https://www.suffolklibraries.co.uk/events/gainsborough-2016-11-10-teddies/). Teddy crisps, juice and fruit provided, or you can bring your own drinks and snacks.
 
-[Haverhill Library are having their teddy bears’ picnic from 9.30am to 1pm on Tuesday 8 November as opposed to Thursday 10 November.](https://www.suffolklibraries.co.uk/events/haverhill-2016-11-08-teddies/). Refreshments, fun activities and a chance to meet Bookstart Bear.
+[Haverhill Library are having their teddy bears’ picnic from 9.30am to 1pm on Tuesday 8 November as opposed to Thursday 10 November.](https://www.suffolklibraries.co.uk/events/haverhill-2016-11-08-teddies/). There will be fun activities and a chance to meet Bookstart Bear.
