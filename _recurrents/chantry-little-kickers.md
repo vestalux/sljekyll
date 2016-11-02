@@ -1,5 +1,5 @@
 ---
-recurrent-title: "'Little Kickers' Football Skills for Pre-School Children (from 3 November)"
+recurrent-title: "'Little Kickers' Football Skills for Pre-School Children"
 recurrent-day: Thursday
 recurrent-times: 1100-1145
 recurrent-location: chantry-library
