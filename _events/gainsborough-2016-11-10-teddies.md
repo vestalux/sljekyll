@@ -5,6 +5,7 @@ location: gainsborough-community-library
 location-text: Gainsborough Community Library
 event-start-date: 2016-11-10
 event-start-time: 1100
+event-end-time: 1300
 category: children
 breadcrumb: y
 ---
