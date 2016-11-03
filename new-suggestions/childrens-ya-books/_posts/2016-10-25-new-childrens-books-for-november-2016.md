@@ -21,9 +21,9 @@ This bright and cheerful tactile board book is bound to become a favourite. The 
 
 ## Picture books
 
-<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/6690716/65758600,3">Peter Bently &amp; Sernur Isik - <cite>Potion Commotion</cite></a></h3>
+<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=TI&ENTRY=potion+commotion&ENTRY1_OPER=%2B&ENTRY2_NAME=AU&ENTRY2=peter+bently&ENTRY2_TYPE=K&ENTRY3_NAME=SU&ENTRY3=&ENTRY_TYPE=K&ENTRY3_OPER=%2B&NRECS=20&SORTS=HBT.SOVR&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FOPAC%2FBSEARCH&CF=GEN&ISGLB=0&GQ=potion+commotion">Peter Bently &amp; Sernur Isik - <cite>Potion Commotion</cite></a></h3>
 
-*"When little witch Betty tries her hand at cooking, into the cauldron goes everything from strawberry jam to slices of ham! Betty's potion keeps on growing and soon it's spreading all over town. But when a hungry dragon arrives, can Betty's brew save the day?"*"
+*"When little witch Betty tries her hand at cooking, into the cauldron goes everything from strawberry jam to slices of ham! Betty's potion keeps on growing and soon it's spreading all over town. But when a hungry dragon arrives, can Betty's brew save the day?"*
 
 <h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6695385?QRY=CTIBIB%3C%20IRN(67942632)&QRYTEXT=The%20storm%20whale%20in%20winter">Benji Davies - <cite>The Storm Whale in Winter</cite></a></h3>
 
@@ -47,7 +47,7 @@ A cautionary tale about the dangers of internet safety, told and illustrated wit
 
 The Jessop family arrive on Storey Street, pitching their caravan in the waste ground known to generations of Storey Street children as "The House That Was Stolen".  Jemima Jessop, tightrope walker extraordinaire, defeats the bullying Milner family, who want to build on the patch of land, using the powers of kindness and understanding. It sounds pious, but it is a laugh-out-loud treat full of larks and japes made all the more enjoyable by Sara Ogilvie’s brilliant illustrations. This is the third book in the <cite>Storey Street</cite> series (think <cite>Demolition Dad</cite> and <cite>Superhero Street</cite>) and I hope Phil Earle is planning another ten at least.
 
-<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/6708105/67560146,2">Neil Gaiman &amp; Chris Riddell - <cite>Odd and the Frost Giants</cite></a></h3>
+<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12101709?QRY=CTIBIB%3C%20IRN(123545)&QRYTEXT=Odd%20and%20the%20frost%20giants">Neil Gaiman &amp; Chris Riddell - <cite>Odd and the Frost Giants</cite></a></h3>
 
 This is a wonderful Viking tale written by Neil Gaiman, about a boy called Odd, who journeys across frozen lands after the death of his father. Chris Riddell’s illustrations are extraordinary and the book itself is so beautifully engineered that you’ll want to own a copy.
 
@@ -61,19 +61,19 @@ This is a wonderful Viking tale written by Neil Gaiman, about a boy called Odd, 
 
 The 11th book in the <cite>Tom Gates</cite> series looks as funny as the first ten. LOL.
 
-<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/7002693/66051136,1">Sibéal Pounder - <cite>Witch Glitch</cite></a></h3>
+<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=TI&ENTRY=witch+glitch&ENTRY1_OPER=%2B&ENTRY2_NAME=AU&ENTRY2=&ENTRY2_TYPE=K&ENTRY3_NAME=SU&ENTRY3=&ENTRY_TYPE=K&ENTRY3_OPER=%2B&NRECS=20&SORTS=HBT.SOVR&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FOPAC%2FBSEARCH&CF=GEN&ISGLB=0&GQ=witch+glitch">Sibéal Pounder - <cite>Witch Glitch</cite></a></h3>
 
 *"It's a new era for the <cite>Witch Wars</cite> witches. Felicity Bat is no longer evil, Tiga has at last found her mum and there's the whole of Silver City to explore. But it's not long before the witches find themselves at the centre of another adventure. When a magical book called The Karens offers to grant Fran the Fabulous Fairy's dearest wish, it seems too good to be true. And it is. Before you can say 'frogknuckles', Tiga and the gang are in a race against time - can they save Fran before she explodes in a large ball of glittery dust?"*
 
 ## Picture books for older readers
 
-<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/7004335/65173356,2">Madalena Matoso - <cite>Story Path: choose a path, tell a story</cite></a></h3>
+<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=TI&ENTRY=story+path&ENTRY1_OPER=%2B&ENTRY2_NAME=AU&ENTRY2=madalena+matoso&ENTRY2_TYPE=K&ENTRY3_NAME=SU&ENTRY3=&ENTRY_TYPE=K&ENTRY3_OPER=%2B&NRECS=20&SORTS=HBT.SOVR&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FOPAC%2FBSEARCH&CF=GEN&ISGLB=0&GQ=story+path">Madalena Matoso - <cite>Story Path: choose a path, tell a story</cite></a></h3>
 
 This is a choose-your-own-adventure picture book. How cool is that! Obviously it could be used to inspire creative writing in schools, but it would be a great book to take on a journey or to read on a long rainy day too, because each time you come back to it you can create a different story.
 
 ## Young teen novels
 
-<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/7007212/64674708,2">Sarah Moore Fitzgerald - <cite>A Very Good Chance</cite></a></h3>
+<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=TI&ENTRY=a+very+good+chance&ENTRY1_OPER=%2B&ENTRY2_NAME=AU&ENTRY2=sarah+moore+fitzgerald&ENTRY2_TYPE=K&ENTRY3_NAME=SU&ENTRY3=&ENTRY_TYPE=K&ENTRY3_OPER=%2B&NRECS=20&SORTS=HBT.SOVR&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FOPAC%2FBSEARCH&CF=GEN&ISGLB=0&GQ=a+very+good+chance">Sarah Moore Fitzgerald - <cite>A Very Good Chance</cite></a></h3>
 
 This engaging third novel by Sarah Moore Fitzgerald is thoroughly recommended both as a good read and as a motivational tale about the power of friendship and perseverance. It stars two young teenagers both of whom feel displaced from their usual worlds. Minty, whose parents have just separated, is intrigued and inspired by Ned, who can ride like the wind.
 
@@ -95,14 +95,14 @@ This well-illustrated guide gives simple instructions for modelling 26 different
 
 The blurb says: *twenty-four recipes specially designed for adults to use with children, easy-to-follow, step-by-step instructions and lots of hints and tips on what to do next*, but what it omits to mention is the names of the recipes. So here to tempt you, are just a few: mouse toast, frog muffins, orange eyes, turned out toes, toadstool pizza, swirly snails. Now if anything can persuade a child to eat several sticks of celery, I would hazard a guess that calling it "snake’s logpile house" might do the trick. If you’re planning a <cite>Gruffalo</cite> party this book is just the job.
 
-<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/7014158/65546279,1">Warren Elsmore - <cite>Brick By Brick - Space</cite></a></h3>
+<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=TI&ENTRY=brick+by+brick&ENTRY1_OPER=%2B&ENTRY2_NAME=AU&ENTRY2=warren+elsmore&ENTRY2_TYPE=K&ENTRY3_NAME=SU&ENTRY3=&ENTRY_TYPE=K&ENTRY3_OPER=%2B&NRECS=20&SORTS=HBT.SOVR&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FOPAC%2FBSEARCH&CF=GEN&ISGLB=0&GQ=brick+by+brick">Warren Elsmore - <cite>Brick By Brick - Space</cite></a></h3>
 
 *"<cite>Brick By Brick - Space</cite> will teach you how to build amazing space projects, giving step by step instructions - simple and easy. And all you need for it to work are LEGO bricks!"*"
 
-<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/7015049/64471071,4">Catherine Saunders - <cite>Children just like me: a NEW celebration of children from around the world</cite></a></h3>
+<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=TI&ENTRY=children+just+like+me&ENTRY1_OPER=%2B&ENTRY2_NAME=AU&ENTRY2=catherine+saunders&ENTRY2_TYPE=K&ENTRY3_NAME=SU&ENTRY3=&ENTRY_TYPE=K&ENTRY3_OPER=%2B&NRECS=20&SORTS=HBT.SOVR&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FOPAC%2FBSEARCH&CF=GEN&ISGLB=0&GQ=children+just+like+me">Catherine Saunders - <cite>Children just like me: a NEW celebration of children from around the world</cite></a></h3>
 
 This DK book would be simply perfect for PSHE topics in schools and playgroups, and because it’s packed with interesting detail and about families and clothes, food and pets. With full colour photos on every page, it is a great book to just look at too.
 
-<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/7016067/65355529,1">Justin Richards - <cite>A History of Humankind: The Doctor’s official guide</cite></a></h3>
+<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=TI&ENTRY=a+history+of+humankind&ENTRY1_OPER=%2B&ENTRY2_NAME=AU&ENTRY2=justin+richards&ENTRY2_TYPE=K&ENTRY3_NAME=SU&ENTRY3=&ENTRY_TYPE=K&ENTRY3_OPER=%2B&NRECS=20&SORTS=HBT.SOVR&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FOPAC%2FBSEARCH&CF=GEN&ISGLB=0&GQ=a+history+of+humankind">Justin Richards - <cite>A History of Humankind: The Doctor’s official guide</cite></a></h3>
 
 *"Over billions of years of time travel, the Doctor has run into his fair share of important people - and he's formed opinions on most of them too. Now the Twelfth Doctor has got hold of a history textbook from Coal Hill School, and he's decided to improve it with notes of his own. From Nefertiti to Robin Hood, this essential Doctor's guide gives us his unique take on Earth's most famous historical figures. Through annotations, scribblings and his trademark snarky humour, the Doctor has plenty to say about the pudding-brained humans he's met on his travels. It's history - but perhaps not quite as you know it."*

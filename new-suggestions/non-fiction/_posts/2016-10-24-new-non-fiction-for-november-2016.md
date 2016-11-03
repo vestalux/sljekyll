@@ -33,7 +33,7 @@ London in 1934. Clever young civil servant Doreen Bates is working in the same o
 
 Johnny Marr was born in 1960s Manchester to Irish parents and knew from an early age that he would be a musician. Forming his first band at thirteen, Marr spent his teenage years on the council estates of Wythenshawe playing guitar, devouring pop culture and inventing his own musical style. It wasn't until the early 80s, when Marr turned up on the doorstep of a singer named Steven Patrick Morrissey, that both a unique songwriting partnership and the group recognised as one of the most iconic bands of all time were formed. Here, for the first time, he tells his own side of the story.
 
-<h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/6152116/67089755,2"><cite>Lonely Boy</cite>, by Steve Jones</a></h2>
+<h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=TI&ENTRY=lonely+boy&ENTRY1_OPER=%2B&ENTRY2_NAME=AU&ENTRY2=steve+jones&ENTRY2_TYPE=K&ENTRY3_NAME=SU&ENTRY3=&ENTRY_TYPE=K&ENTRY3_OPER=%2B&NRECS=20&SORTS=HBT.SOVR&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FOPAC%2FBSEARCH&CF=GEN&ISGLB=0&GQ=lonely+boy</cite>, by Steve Jones</a></h2>
 
 Without the Sex Pistols there would be no punk. And without Steve Jones there would be no Sex Pistols. It was Steve who formed Kutie Jones and his Sex Pistols, the band that eventually went on to become the Sex Pistols, with his schoolmate Paul Cook.  Steve's modern Dickensian tale begins in the streets of Hammersmith and Shepherd's Bush, West London, where as a lonely, neglected boy living off his wits and his petty thievery, he is given purpose by the glam art rock of David Bowie and Roxy Music and becomes one of the first generation of ragamuffin punks taken under the wings of Malcolm McLaren and Vivienne Westwood.
 
@@ -41,7 +41,7 @@ Without the Sex Pistols there would be no punk. And without Steve Jones there wo
 
 Return to the wizarding world and discover how director David Yates and producer David Heyman brought J.K. Rowling's <cite>Fantastic Beasts and Where to Find Them</cite> to the big screen. <cite>Inside the Magic</cite> introduces filmmaking fans to Newt Scamander, Magizoologist, and the principal characters, locations, artefacts and beasts that he encounters in 1920s New York. Each section contains profiles of the key characters, with revealing insights from Eddie Redmayne, Katherine Waterston, Alison Sudol, Dan Fogler, Colin Farrell and many others.
 
-<h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/6155049/67089626,1"><cite>Smile Please</cite>, by Jean Rhys</a></h2>
+<h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=TI&ENTRY=smile+please&ENTRY1_OPER=%2B&ENTRY2_NAME=AU&ENTRY2=jean+rhys&ENTRY2_TYPE=K&ENTRY3_NAME=SU&ENTRY3=&ENTRY_TYPE=K&ENTRY3_OPER=%2B&NRECS=20&SORTS=HBT.SOVR&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FOPAC%2FBSEARCH&CF=GEN&ISGLB=0&GQ=smile+please"><cite>Smile Please</cite>, by Jean Rhys</a></h2>
 
 A brilliant companion piece to 'Wide Sargasso Sea', this is Jean Rhys's beautifully written, bitter-sweet (uncompleted) autobiography, covering her early years in Dominica, England and Paris.
 

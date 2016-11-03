@@ -11,17 +11,17 @@ breadcrumb: fiction
 
 ![Jack Reacher, Jodi Picoult, Ian Rankin and Zadie Smith](/images/featured/featured-november-fiction.jpg)
 
-<h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/5875036/67089490,3"><cite>Night School</cite>, by Lee Child</a></h2>
+<h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12017763?QRY=CTIBIB%3C%20IRN(26382)&QRYTEXT=Night%20school"><cite>Night School</cite>, by Lee Child</a></h2>
 
-November is the month when many of the big hitters have a book out and we start with ‘Suffolk’s Favourite Author&#8482; &trade;’. Year after year Lee Child tops the lists of the most borrowed books in Suffolk Libraries. <cite>Night School</cite> sees Jack Reacher go back to his army days.  We already have a sizeable list for this one but we are getting lots of copies!
+November is the month when many of the big hitters have a book out and we start with ‘Suffolk’s Favourite Author&trade;’. Year after year Lee Child tops the lists of the most borrowed books in Suffolk Libraries. <cite>Night School</cite> sees Jack Reacher go back to his army days.  We already have a sizeable list for this one but we are getting lots of copies!
 
-<h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/5877130/66648639,2"><cite>This Was a Man</cite>, by Jeffrey Archer</a></h2>
+<h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=TI&ENTRY=this+was+a+man&ENTRY1_OPER=%2B&ENTRY2_NAME=AU&ENTRY2=jeffrey+archer&ENTRY2_TYPE=K&ENTRY3_NAME=SU&ENTRY3=&ENTRY_TYPE=K&ENTRY3_OPER=%2B&NRECS=20&SORTS=HBT.SOVR&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FOPAC%2FBSEARCH&CF=GEN&ISGLB=0&GQ=this+was+a+man"><cite>This Was a Man</cite>, by Jeffrey Archer</a></h2>
 
 Jeffrey Archer delivers the final volume in his hugely popular Clifton Chronicles. <cite>This Was a Man</cite> opens with a shot being fired, but who pulled the trigger, and who lives and who dies?  In Whitehall, Giles Barrington discovers the truth about his wife Karin from the Cabinet Secretary. Is she a spy or a pawn in a larger game?.
 
 <h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5879803?QRY=CTIBIB%3C%20IRN(67086396)&QRYTEXT=The%20blood%20card"><cite>The Blood Card</cite>, by Elly Griffiths</a></h2>
 
-<a href="https://www.suffolklibraries.co.uk/events/felixstowe-2016-10-29-suffolk-libraries-bookfest-the-magic-of-elly-griffiths/">Suffolk Libraries Bookfest guest Elly Griffiths</a> returns with another case for DI Edgar Stephens and magician Max Mephisto. Elizabeth II's coronation is looming, but the murder of their wartime commander, Colonel Cartwright, spoils the happy mood. A playbill featuring another deceased comrade is found in Colonel Cartwright's possession, and a playing card, the ace of hearts: the blood card.
+Suffolk Libraries Bookfest guest Elly Griffiths returns with another case for DI Edgar Stephens and magician Max Mephisto. Elizabeth II's coronation is looming, but the murder of their wartime commander, Colonel Cartwright, spoils the happy mood. A playbill featuring another deceased comrade is found in Colonel Cartwright's possession, and a playing card, the ace of hearts: the blood card.
 
 <h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5882866?QRY=CTIBIB%3C%20IRN(5586022)&QRYTEXT=Swing%20time"><cite>Swing Time</cite>, by Zadie Smith</a></h2>
 

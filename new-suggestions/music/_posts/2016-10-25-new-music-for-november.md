@@ -13,7 +13,7 @@ breadcrumb: music
 
 ![Emeli Sandé, Kate Bush and Rumer](/images/featured/featured-november-music.jpg)
 
-<h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/10030667/68747326,2">Emeli Sandé – </cite>Long Live The Angels</cite></a></h2>
+<h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=TI&ENTRY=long+live+the+angels&ENTRY_TYPE=K&ENTRY1_OPER=%2B&ENTRY2_NAME=AU&ENTRY2=emeli+sande&ENTRY2_TYPE=K&NRECS=20&SORTS=HBT.SOVR&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FMUSIC%2FBSEARCH&CF=MUSIC&ISGLB=0&GQ=long+live+the+angels">Emeli Sandé – </cite>Long Live The Angels</cite></a></h2>
 
 Long awaited second album from Emeli Sandé; including new single <cite>Hurts</cite>. Sandé released her debut album, <cite>Our Version of Events</cite>, in 2012 and was overwhelmed by the success. The album was certified multi platinum, spent seven non-consecutive weeks at number one and exceeded The Beatles’ previous record by spending 63 consecutive weeks in the top 10 and selling over 4.6 million copies worldwide. How do you follow that? <cite>Hurts</cite> is an everything but the kitchen sink production with strings and a gospel choir. This is set to be one of the albums of the year.
 
@@ -27,7 +27,7 @@ The album is split into three "acts", following the structure of her concerts: 
 
 82 year old Leonard Cohen releases his 14th studio album. Eagle-eared fans may already have caught a snippet of his new material during a scene in the BBC drama <cite>Peaky Blinders</cite>. Insiders have specifically highlighted one of the new songs, <cite>Treaty</cite>, describing it as Cohen “making peace, not only with his Maker, but with everyone and all things”.
 
-<h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/10031168/66871085,2">Rumer – <cite>This Girl's In Love</cite></a></h2>
+<h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=TI&ENTRY=rumer&ENTRY_TYPE=K&ENTRY1_OPER=%2B&ENTRY2_NAME=AU&ENTRY2=this+girl%27s+in+love&ENTRY2_TYPE=K&NRECS=20&SORTS=HBT.SOVR&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FMUSIC%2FBSEARCH&CF=MUSIC&ISGLB=0&GQ=rumer">Rumer – <cite>This Girl's In Love</cite></a></h2>
 
 This album features Rumer, recently described as ‘the heir to Dusty Springfield and Karen Carpenter’ tackle some of Burt Bacharach and Hal David’s most memorable compositions. <cite>This Girl’s In Love</cite> even includes an appearance by Bacharach himself on piano.
 
