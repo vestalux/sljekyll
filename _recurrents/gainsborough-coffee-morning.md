@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Coffee morning in the cafe"
+recurrent-title: "Coffee morning in the cafe: adult colouring available or bring your own craft"
 recurrent-day: Tuesday
 recurrent-times: 1030-1200
 recurrent-location: gainsborough-community-library

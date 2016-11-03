@@ -11,10 +11,11 @@ Our member organisations elect our board.
 * Tony Brown (Beccles Library Community Trust) — board chair
 * Peter Callaghan (Friends of Brandon Library)
 * Sylvia Knights (Bungay Community Library) — board vice chair
-* Jonathan Ogden (Kesgrave Library Community) — board honorary secretary
-* Maureen Garratt Simpson (Ipswich County Library Friends Group)
+* Jonathan Ogden (Kesgrave Library Community)
+* Maureen Garratt Simpson (Ipswich County Library Friends Group) - board honorary secretary
 * Colin Rockall (Friends of Lavenham Library)
-* Suffolk Libraries general manager, Alison Wheeler (_ex officio_)
+* Suffolk Libraries Chief Executive, Alison Wheeler (_ex officio_)
+* Sarah Wilson (Friends of Capel St Mary Library) - co-opted
 
 [Suffolk Libraries board member photos](/assets/zip/suffolk-libraries-IPS-board-members-photos.zip) (ZIP file, 2.2MB)
 
@@ -76,3 +77,15 @@ Alison has worked at regional and national levels to develop partnerships and pr
 Most recently Alison spent four years working in Adult Social Care as head of Information and Advice.
 
 Alison’s other passions are reading, swimming, dancing and Ipswich Town Football Club. She's also a school governor and is on the Eastern Angles board.
+
+### Sarah Wilson
+
+Sarah has lived in Suffolk for over 30 years.  Her husband is a farmer and they have 3 grown up children.  Sarah has been a lifelong user of public libraries, starting in South London where she was brought up, to the current day, where she is a regular user of Capel St Mary library (and Hadleigh and Felixstowe branches) and she has been a member of a book group, which sources books through Suffolk Libraries, for 25 years!  Sarah is very aware of how lucky the people of Suffolk are to have access to such an excellent library service, and strongly supports the inclusive and diverse services it offers to everyone in the community.
+
+Sarah has had along, varied and interesting career in the public sector associated with farming and the environment.  After graduating with a BSc in Agricultural Economics, Sarah joined the Ministry of Agriculture, Fisheries and Food and was posted to east Suffolk as an agronomist and farm business adviser.
+
+After several years Sarah moved into work designing, testing and launching new government grant schemes to encourage arable farmers to carry out land management for wildlife and the environment.  This included a 2 year secondment to Defra in Westminster in 2004-6 to work with Ministers, EU Brussels officials and stakeholders to design and launch a new government funded ‘agri-environment’ scheme aiming for an uptake of 70% of all farmers in England.
+
+Following this policy work Sarah had various management roles in Natural England including several years as Area Manager for Norfolk and Suffolk, overseeing delivery by a team of 80+ staff.  During this time Sarah went on a temporary secondment to a national performance programme, led by external consultants, to carry out organizational business analysis and develop new design proposals to maintain service delivery with reduced resources.
+
+Most recently Sarah has led several work programmes in Norfolk and Suffolk, including delivering Natural England advice on large infrastructure projects, the roll-out of the England Coast Path, and the introduction of new services to bring in commercial income.  Sarah left Natural England in September 2016.
