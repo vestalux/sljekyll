@@ -9,4 +9,4 @@ event-ticket-price: 3
 event-category: horror
 breadcrumb: y
 ---
-Be thrilled and spooked by a talk on local ghosts by Lowestoft historian and author Ian Bunn.  Tickets are available to buy from the library.
+Be thrilled and spooked by a talk on local ghosts by Lowestoft historian and author Ivan Bunn.  Tickets are available to buy from the library.

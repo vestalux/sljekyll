@@ -8,7 +8,7 @@ excerpt: "Want to make some Halloween decorations and food with your children, b
 breadcrumb: blog
 ---
 
-![10 minute Halloween crafts, The Halloween activity book, Drawing book of Halloween, Halloween crafts ](/images/featured/featured-halloween-crafts-collage.jpg)
+![10 minute Halloween crafts, The Halloween activity book, Drawing book of Halloween, Halloween crafts](/images/featured/featured-halloween-crafts-collage.jpg)
 
 **Halloween is fast approaching. We’ve had [Halloween-themed crafts sessions across our libraries](https://www.suffolklibraries.co.uk/news/halloween-activities/) this half term, and have a few left to go this weekend, but perhaps your family is holding a Halloween party and you need to make lots of decorations together. Maybe your children were so inspired by a session you attended that they want to make more Halloween crafts. Alternatively, you might be looking for ideas of food to serve on Halloween. It might be that you need to costume together. Our Halloween-themed arts and crafts titles are here to inspire and help you.**
 
