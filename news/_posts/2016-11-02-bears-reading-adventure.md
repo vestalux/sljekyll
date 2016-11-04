@@ -30,7 +30,7 @@ Several libraries will be celebrating the launch of <cite>Bear’s Reading Adven
 
 [Gainsborough Community Library in Ipswich – Teddy bears’ picnic from 11am to 1pm](/events/gainsborough-2016-11-10-teddies/). Teddy crisps, juice and fruit provided, or you can bring your own drinks and snacks.
 
-[Lowestofy Library - Teddy bears' picnic from 11am](/events/lowestoft-2016-11-10-teddies/). There will be a special picnic.
+[Lowestoft Library - Teddy bears' picnic from 11am](/events/lowestoft-2016-11-10-teddies/). There will be a special picnic.
 
 [Needham Market Library - Teddy bears' picnic from 11.30am to 1.30pm](/events/needham-market-2016-11-10-teddies/). Stories, crafts and a picnic lunch. Book a place at the library or call [01449 720780](tel:01449720780).
 
