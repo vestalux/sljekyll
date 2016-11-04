@@ -4,7 +4,7 @@ name: "Top Time: visit from author Annie Hallett"
 location: newmarket-library
 location-text: Newmarket Library
 event-start-date: 2016-11-10
-event-doors-open: 1030
+event-start-time: 1030
 breadcrumb: y
 ---
 

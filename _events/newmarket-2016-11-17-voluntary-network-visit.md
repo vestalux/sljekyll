@@ -4,7 +4,7 @@ name: "Top Time: visit from Caroline from the Voluntary Network"
 location: newmarket-library
 location-text: Newmarket Library
 event-start-date: 2016-11-17
-event-doors-open: 1430
+event-start-time: 1430
 breadcrumb: y
 ---
 

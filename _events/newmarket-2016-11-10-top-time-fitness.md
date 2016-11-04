@@ -4,7 +4,7 @@ name: "Top Time: Gerry Cowley visits for Health & Fitness"
 location: newmarket-library
 location-text: Newmarket Library
 event-start-date: 2016-11-10
-event-doors-open: 1430
+event-start-time: 1430
 breadcrumb: y
 ---
 
