@@ -1,0 +1,12 @@
+@media screen, projection {
+
+.custom-banner-image {
+    background-image: url('/images/hero/main-splash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    // -webkit-filter: grayscale(0.5) hue-rotate(210deg) invert(0.3) opacity(0.9);
+    // filter: grayscale(0.5) hue-rotate(210deg) invert(0.3) opacity(0.9);
+}
+
+
+}
