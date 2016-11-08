@@ -13,7 +13,7 @@ branch-manager: Maureen John
 branch-address: Court House, Queens Street, Stradbroke
 branch-post-code: IP21 5HG
 branch-tel: 01379 384768
-branch-news: No on-site car parking from 21 November to 2 December as the car park is being resurfaced. Apologies for any inconvenience caused.
+branch-news: No on-site car parking from 21 November to 2 December as the car park is being resurfaced. We recommend parking in Queen Street if possible. Apologies for any inconvenience caused.
 branch-friends: Stradbroke Courthouse and Library Trust
 branch-friends-url: /about/member-organisations/stradbroke-courthouse-and-library-trust-scalt
 branch-wifi: y
