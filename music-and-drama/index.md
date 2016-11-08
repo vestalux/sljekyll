@@ -145,6 +145,6 @@ Under the Copyright, Designs & Patent Act 1988, all unauthorised copies are ille
 
 ## Customer Request Charges
 
-For music sets or play sets not in stock, which are requested from libraries outside Suffolk: £10.00 each set, £20.00 if supplied by more than one authority.
+For music sets or play sets not in stock, which are requested from libraries outside Suffolk: £15.00 each set, £30.00 if supplied by more than one authority.
 
 If items have not been returned, overdue notices are sent after the 4th and 7th week, and a bill for replacement is sent after the 10th week. The bill includes the overdue charge as well as the replacement cost.
