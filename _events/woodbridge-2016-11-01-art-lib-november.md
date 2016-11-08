@@ -1,5 +1,5 @@
 ---
-id: art-lib-october
+id: art-lib-november
 name: "ArtLib: 'My county and other animals' - paintings by Laura Bearsell-Moore"
 location: woodbridge-library
 location-text: Woodbridge Library
