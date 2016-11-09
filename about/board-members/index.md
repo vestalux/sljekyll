@@ -17,7 +17,7 @@ Our member organisations elect our board.
 * Suffolk Libraries Chief Executive, Alison Wheeler (_ex officio_)
 * Sarah Wilson (Friends of Capel St Mary Library) - co-opted
 
-[Suffolk Libraries board member photos](/assets/zip/suffolk-libraries-IPS-board-members-photos.zip) (ZIP file, 2.2MB)
+[Suffolk Libraries board member photos](/assets/zip/suffolk-libraries-IPS-board-members-photos.zip) (ZIP file, 2.5MB)
 
 ## Biographies
 
