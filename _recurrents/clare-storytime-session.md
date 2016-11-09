@@ -1,7 +1,7 @@
 ---
-recurrent-title: "Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers"
-recurrent-day: Friday
-recurrent-times: 1015-1045
+recurrent-title: "Storytime session"
+recurrent-day: Tuesday
+recurrent-times: 1515-1545
 recurrent-location: clare-library
 recurrent-location-display-name: Clare Library
 recurrent-location-display-url: /branches/clare-library/
