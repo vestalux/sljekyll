@@ -32,7 +32,7 @@ Your reservations are listed under the _Reservations/Bookings_ heading
 
 ## Searching the catalogue
 
-Go to the catalogue home page. Type one or more of the title, author and subject you wish to search for and click _Search_.
+Go to the catalogue home page. Type one or more of the title, author/artist and subject you wish to search for and click _Search_.
 
 <img src="/images/help/new-quick-search.jpg" alt="The quick search box" />
 
