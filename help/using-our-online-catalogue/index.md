@@ -14,7 +14,7 @@ To view your account, once you are logged in, click the 'My Account' link in the
 
 <img src="/images/help/new-my-account.jpg" alt="My account page" />
 
-The account summary page. Click on the 'Personal Details' link above your account summary or the 'Change My Details' link in the sidebar to change details such as your email address and set up an alert when a new title becomes available.
+Click on the 'Personal Details' link above your account summary or the 'Change My Details' link in the sidebar to change details such as your email address and set up an alert when a new title becomes available.
 
 ### Loans
 
