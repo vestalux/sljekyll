@@ -8,9 +8,6 @@ excerpt: "New titles from Benki Davies, Neil Gaiman and Zoe Sugg, aka Zoella"
 breadcrumb: childrens-ya-books
 ---
 
-{% include /c/upgrade-panel.html %}
-
-
 ![Owl Bat Bat Owl, The War Next Door](/images/featured/featured-nov-childrens-ya.jpg)
 
 ## Board books

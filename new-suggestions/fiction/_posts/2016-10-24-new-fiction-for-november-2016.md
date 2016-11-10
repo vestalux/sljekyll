@@ -7,7 +7,6 @@ category: fiction
 excerpt: New titles from Lee Child, Zadie Smith and Jodi Picoult
 breadcrumb: fiction
 ---
-{% include /c/upgrade-panel.html %}
 
 ![Jack Reacher, Jodi Picoult, Ian Rankin and Zadie Smith](/images/featured/featured-november-fiction.jpg)
 

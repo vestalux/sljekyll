@@ -8,9 +8,6 @@ excerpt: 'New music from Emeli Sandé, Kate Bush and Rumer'
 breadcrumb: music
 ---
 
-{% include /c/upgrade-panel.html %}
-
-
 ![Emeli Sandé, Kate Bush and Rumer](/images/featured/featured-november-music.jpg)
 
 <h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=TI&ENTRY=long+live+the+angels&ENTRY_TYPE=K&ENTRY1_OPER=%2B&ENTRY2_NAME=AU&ENTRY2=emeli+sande&ENTRY2_TYPE=K&NRECS=20&SORTS=HBT.SOVR&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FMUSIC%2FBSEARCH&CF=MUSIC&ISGLB=0&GQ=long+live+the+angels">Emeli Sandé – </cite>Long Live The Angels</cite></a></h2>
