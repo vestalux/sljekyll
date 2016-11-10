@@ -14,6 +14,7 @@ branch-address: Market Hill, Sudbury
 branch-post-code: CO10 2EN
 branch-tel: 01787 242570
 branch-friends: Friends of Sudbury Library
+branch-for-sale: Christmas raffle tickets £1 - prize draw on 17 December, Christmas quiz sheet £1 - £10 prize for first correct entry drawn on 4 January.
 branch-social-media: y
 branch-twitter: sudburylibrary
 branch-facebook: sudburylibrary
