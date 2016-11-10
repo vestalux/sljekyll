@@ -13,8 +13,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.suffolklibraries.co.uk" # the base hostname & protocol for your site
 twitter_username: suffolklibrary
 github_username:  suffolklibraries
-message: "Online catalogue upgrade 31 Oct&#8211;9 Nov. No new reservations can be placed during this period."
-message_link: news/online-catalogue-upgrade/
+message: "Online catalogue upgrade work complete. You can now place reservations again."
+message_link: news/catalogue-upgrade-complete/
 message_link_text: Find out more
 
 
