@@ -30,7 +30,7 @@ If you don't have a card number or don't remember your PIN please contact custom
 - [Glemsford Library](http://78.31.106.220/netloan/Login.aspx)
 - [Great Cornard Library](http://netloan.suffolklibraries.co.uk/)
 - [Hadleigh Library](http://netloan.suffolklibraries.co.uk/)
-- [Halesworth Library](http://netloan.suffolklibraries.co.uk/)
+- [Halesworth Library](http://78.31.106.220/netloan/Login.aspx)
 - [Haverhill Library](http://netloan.suffolklibraries.co.uk/)
 - [Ipswich County Library](http://netloan.suffolklibraries.co.uk/)
 - [Ixworth Library](http://netloan.suffolklibraries.co.uk/)
