@@ -53,7 +53,9 @@ When you do an advanced search you can fill in up to 4 fields. You can choose w
 
 We sort search results alphabetically. You can change this by clicking the _Sort Set_ button.
 
-You can narrow your search results by clicking the _Refine search_ button. This will take you to a new page where you can search for more specific results within your first search.
+You can narrow your search results by clicking the _Refine Set_ button. This will take you to a new page where you can search for more specific results within your first search.
+
+<img src="/images/help/sort-refine.jpg" alt="The advanced search box lets you fine tune your search" />
 
 ### Placing reservations from search results
 
