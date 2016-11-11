@@ -56,5 +56,3 @@ The [Royal British Legion](http://www.britishlegion.org.uk/) has produced the fo
   * [Medals](http://www.britishlegion.org.uk/media/3161/colouringsheet_medals.pdf)
 
 _See more posts like this at [Beyond the Book](http://suffolklibraries.co.uk/literacy), Matt&#8217;s blog about his travels as our literacy ambassador._
-
-{% include post-bio.html %}
