@@ -5,7 +5,7 @@ breadcrumb: branches
 ---
 # Small meeting room
 
-* Capacity: 5 people for meetings
+* Capacity: 12 people for meetings
 * Cost: £5 per hour for community/charity/private bookings, £7.50 per hour for commercial/statutory bookings
 * Availability: All day subject to other bookings. Bookings outside library opening hours may attract an additional charge to cover staffing cost.
 
