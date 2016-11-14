@@ -16,6 +16,7 @@ branch-tel: 01502 722519
 branch-fax: 01502 722519
 branch-friends: Friends of Southwold Library
 branch-friends-url: /about/member-organisations/friends-of-southwold-library-fosl
+branch-for-sale: Reydon and Southwold Pantomime Group <cite>Aladdin</cite> tickets - performances on 22, 24, 26, 27 and 28 January (on sale from 26 November)
 branch-social-media: y
 branch-twitter: southwoldlib
 branch-facebook: southwoldlibrary
