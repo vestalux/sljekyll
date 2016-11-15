@@ -5,5 +5,5 @@ recurrent-times: 1830
 recurrent-location: southwold-library
 recurrent-location-display-name: Southwold Library
 recurrent-location-display-url: /branches/southwold-library/
-recurrent-category: arts-crafts
+recurrent-category: arts-crafts-games
 ---
