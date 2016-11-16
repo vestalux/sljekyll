@@ -7,7 +7,7 @@ event-start-date: 2016-12-09
 event-start-time: 1000
 event-end-time: 1400
 event-ticket-price: 5
-event-category: Crafts
+event-category: christmas
 breadcrumb: y
 ---
 

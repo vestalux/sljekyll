@@ -7,6 +7,7 @@ event-start-date: 2016-11-26
 event-start-time: 1000
 event-end-time: 1600
 event-ticket-price: free
+event-category: christmas
 breadcrumb: y
 ---
 

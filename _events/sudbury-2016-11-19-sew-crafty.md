@@ -7,7 +7,7 @@ event-start-date: 2016-11-19
 event-start-time: 1415
 event-end-time: 1615
 event-price: 5
-event-category: Children
+event-category: christmas
 breadcrumb: y
 ---
 
