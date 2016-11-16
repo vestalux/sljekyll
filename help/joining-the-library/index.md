@@ -6,6 +6,8 @@ sidebar: help
 ---
 ## Getting a library card
 
+Your library card allows you to borrow titles from our libraries. You can also use your **library card number and the 4 digit PIN issued with it** to renew, reserve and view your details and loans online and download our ebooks, online magazines, audiobooks, music and films.
+
 It&#8217;s free. If you **live in, work in or visit Suffolk** go to [any Suffolk library](/libraries/) or [mobile library](/mobiles-home/) with proof of address, providing it&#8217;s in Suffolk, Norfolk, Cambridgeshire or Essex.
 
 If your home address isn&#8217;t in these counties you&#8217;ll have to provide your work address or the address you&#8217;re visiting.

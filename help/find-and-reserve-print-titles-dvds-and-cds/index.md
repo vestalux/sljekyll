@@ -17,6 +17,8 @@ You can reserve a title by:
 
 ### Finding and reserving online
 
+You can use your **library card number and the 4 digit pin issued with it** to reserve items from our online catalogue, as well as download our ebooks, online magazines, audiobooks, music and films.
+
 You can [search our catalogue of print books, CDs and DVDs](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/BSEARCH) and reserve any title you find. You can also specify which library you want to collect your titles from.
 
 Try our [fiction, non–fiction, music, children&#8217;s books and DVD film lists](/new-suggestions) for ideas.
