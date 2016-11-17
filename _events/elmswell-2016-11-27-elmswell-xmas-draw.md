@@ -6,6 +6,7 @@ location-text: Elmswell Library
 event-start-date: 2016-11-27
 event-start-time: 1300
 event-alt-location: The Fox, Elmswell
+event-category: christmas
 breadcrumb: y
 ---
 

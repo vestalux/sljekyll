@@ -5,7 +5,7 @@ location: southwold-library
 location-text: Southwold Library
 event-start-date: 2016-12-22
 event-start-time: 1400
-event-category: children
+event-category: christmas
 breadcrumb: y
 ---
 

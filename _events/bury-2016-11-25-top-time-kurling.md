@@ -6,6 +6,7 @@ location-text: Bury St Edmunds Library
 event-start-date: 2016-11-25
 event-start-time: 1000
 event-end-time: 1200
+event-category: health
 breadcrumb: y
 ---
 
