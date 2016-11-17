@@ -39,7 +39,7 @@ breadcrumb: member-organisations
 
 ## Recent successes
 
-![Friends of Newmarket Library at Newmarket carnival](/images/article/friends-of-newmarket-library-at-newmarket-carnival.jpg)
+![The refurbished library October 2016](/images/branches/newmarket-library-2.jpg)
 
 *Friends of Newmarket Library at Newmarket carnival*
 
