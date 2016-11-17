@@ -13,7 +13,7 @@ For Anti Bullying Week, we've put together a list of recommendations for childre
 
 Bullying can be frightening and isolating, so we hope that these titles help young people who are being bullied to feel less alone, and seek help. Even if they're not being bullied, it's important for children to understand how it feels to be in such a situation and learn what to do if they experience or witness bullying.
 
-![Whatever's in the collage](/images/featured/featured-bullying-collage.jpg)
+![Elmer and the Big Bird, My Brother Bernadette, How to Fly with Broken Wings, The Weight of Water, The Knife that Killed Me, Bullies, Cyberbullies and Frenemies](/images/featured/featured-bullying-collage.jpg)
 
 <h2>Picture books</h2>
 

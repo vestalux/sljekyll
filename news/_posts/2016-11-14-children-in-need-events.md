@@ -1,14 +1,14 @@
 ---
 layout: sidebar-right
 title: "Children in Need events being held at Suffolk Libraries"
-date: 2017-11-15
+date: 2016-11-17
 author: alice-violett
 excerpt: Fundraising events for Children in Need are taking place across Suffolk Libraries over the next two weeks.
 category: news
 breadcrumb: news
 ---
 
-This year's BBC Children in Need fundraising extravaganza takes place on Friday 18 November, and we're marking it with events at several of our libraries.
+This year's BBC Children in Need fundraising extravaganza takes place on Friday 18 November, and we're marking it with events at some of our libraries.
 
 **Lowestoft** and **Ipswich County** libraries are fundraising with events for young children and their carers. Lowestoft are holding a [special family play session on Friday 18 November](/events/lowestoft-2016-11-18-pudsey-family-play/) as well as a [Pudsey-themed craft session on Saturday 19 November](/events/lowestoft-2016-11-19-pudsey-craft/). At the family play session, 0-4 year-olds can have their faces painted and meet the Bookstart bear, while the craft session is aimed at older children.
 
