@@ -8,15 +8,15 @@ breadcrumb: member-organisations
 
 * To promote Newmarket Library in the local community
 * To help raise funds to develop new services
-* To support the manager and library Staff
+* To support the manager and library staff
 * To have a voice in the development of library services in Suffolk
 
 ## Who we are
 
-* Library manager: Grace Myers-Crump
+* Library manager: Kate Ashton
 * Chair: Rachel Wood
 * Secretary: Margaret Jocelyn
-* Treasurer: Tanya Collins
+* Treasurer: Jack Merrell
 
 ## Contact us
 
@@ -26,10 +26,11 @@ breadcrumb: member-organisations
 
 ## How to join:
 
-* Just fill in a [Friends of Newmarket Library membership form](/assets/pdf/friends-of-newmarket-library-membership-form.pdf); you may also join at our next meeting (see below for details).
-* Membership costs £1/year; these funds will go to the library. Any extra donations are always welcome.
+* Just fill in a [Friends of Newmarket Library membership form](/assets/pdf/friends-of-newmarket-library-membership-form.pdf). Details of our meetings appear on the Friends of Newmarket Library noticeboard and you are welcome to join us.
+* Membership costs £1 per year; these funds will go to the library. Any extra donations are always welcome.
+* Community membership is £10 per year.
 * Membership runs from April 6 to the following April 5.
-* You are under no obligation to join in any further activities or fundraising, although you will of course always be welcome.
+* You are under no obligation to join in any further activities or fundraising, although your input would be be most welcome so that we can continue to raise money for the library.
 * Individuals and local organisations that support the work of the Friends are welcome to become members. Any member organisation may nominate a representative to attend our meetings.
 
 ## The story so far
@@ -42,14 +43,12 @@ breadcrumb: member-organisations
 
 *Friends of Newmarket Library at Newmarket carnival*
 
-* Involved in the launch of a local history book, <cite>Exning Remembers</cite> by Tony Pringle, which sold out
-* Held a successful quiz night at the Wildwood restaurant
-* Helped to run a chocolate event in partnership with local shop, The Artistry in Cocoa
+* Involved in the launch of a local history book, <cite>Exning Remembers</cite> by Tony Pringle, which sold out.
+* We raised money to provide the refurbished library with badly needed mobile shelving.
+* We applied for funding from various bodies and most of our applications were successful.
 
 ## Future plans
 
-We hold monthly meetings at which every member is welcome. If you want to get involved here's how you can help:
+We hold monthly meetings; currently they are held at the library on the third Wednesday of every month. Every member is welcome. If you want to get involved here's how you can help:
 
-* We’re supporting the Newmarket News ‘Let’s Read’ scheme. To volunteer to help local schoolchildren with their reading, please let us know: the Newmarket News will sort out the paperwork so that you can start asap.
-* The Newmarket News will be running a monthly column of news from the library – which library activities do you think should be featured?
-* Knitting Club – do you know any keen knitters who would like to meet regularly in the library?
+* We aim to support fundraising events in the refurbished library and we will need helpers for these events such as looking after refreshments and other preparations.
