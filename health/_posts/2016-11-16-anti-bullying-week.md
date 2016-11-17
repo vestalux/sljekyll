@@ -2,7 +2,7 @@
 layout: sidebar-right
 title: Top titles about bullying for children and young adults for Anti Bullying Week 2016
 date: 2016-11-16
-author: alice-violett
+author: jo-dixon
 category: health
 excerpt: For Anti Bullying Week, we've put together a list of recommendations for children and young adults on the subject of bullying.
 breadcrumb: health
