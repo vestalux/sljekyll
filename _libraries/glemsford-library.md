@@ -15,7 +15,7 @@ branch-post-code: CO10 7RH
 branch-tel: 01787 281803
 branch-friends: Friends of Glemsford Library
 branch-social-media: y
-branch-facebook: glemsford_library
+branch-facebook: glemsfordlibrary
 branch-instagram: glemsfordlibrary
 branch-wifi: y
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/glemsford-library-2

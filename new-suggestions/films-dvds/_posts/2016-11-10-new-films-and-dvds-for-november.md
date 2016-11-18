@@ -22,7 +22,7 @@ Computer-animated children's comedy about what New York pets get up to while the
 
 Pampered terrier Max (Louis C.K.) is shocked when his owner brings home a huge, sloppy mongrel named Duke (Stonestreet) from the dog pound. An intense rivalry quickly sparks between the two pets, with a jealous Max desperate to regain the attention he once had. However, the duo must put their differences to one side when cunning rabbit Snowball (Hart) begins to build an army of neglected ex-pets intent on getting revenge on all happily-owned pets and their owners. With the help of the other animals in his Manhattan building, Max must put a stop to Snowball's evil schemes before it's too late.
 
-<h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/10466642/66647875,1">The BFG</a></h2>
+<h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2052114">The BFG</a></h2>
 
 Mark Rylance stars as the Big Friendly Giant in this adaptation of Roald Dahl's novel directed by Steven Spielberg.
 

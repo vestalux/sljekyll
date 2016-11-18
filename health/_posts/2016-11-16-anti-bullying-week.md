@@ -161,7 +161,7 @@ Skye Green's mum is driving her insane! When she's not posting embarrassing pict
 
 As if this wasn't horrific enough, Skye's mum has also enlisted the new neighbour's son to come and 'babysit' when she's at dance class, and he's only a year older than Skye! Talk about mortifying in the extreme! At least Skye's best friend, Aubrey is there to help Skye cope with her family's madness. They've been friends since before they can remember, and nothing will ever change that - right?
 
-<h3>Jacqueline Wilson - <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/REFSET/OPAC/BIBENQ/20887529?REFINE_OPER=&QRY=AU%3A%20%27.%20WILSON%20JACQUELINE%20.%27&SQL=&QRYTEXT=Personal%20Author%3A%20Wilson%2C%20Jacqueline">Bad Girls</cite></a></h3>
+<h3>Jacqueline Wilson - <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=250508">Bad Girls</cite></a></h3>
 
 Mandy White is being bullied at school. Life is miserable until she meets Tanya. Four years older and ten times cooler, orange-haired Tanya is an unlikely friend.
 
@@ -189,7 +189,7 @@ Alex has worked out a foolproof way to avoid being picked on. Don't React. It's 
 
 This moving novel deals with the pain of social isolation and bullying so bad it leads to an attempted suicide. It’s utterly absorbing and thought provoking.
 
-<h3>Sarah Crossan - <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/REFSET/OPAC/BIBENQ/20894552?REFINE_OPER=&QRY=AU%3A%20%27.%20CROSSAN%20SARAH%20.%27&SQL=&QRYTEXT=Personal%20Author%3A%20Crossan%2C%20Sarah"><cite>The Weight of Water</cite></a></h3>
+<h3>Sarah Crossan - <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1291000"><cite>The Weight of Water</cite></a></h3>
 
 Armed with a suitcase and an old laundry bag filled with clothes, Kasienka and her mother leave Poland and head for the UK to find her father. Life is lonely for Kasienka. At home her mother's heart is breaking and at school Kasienka is treated as stupid and finds it impossible to make new friends because her English is so poor. Swimming becomes her escape.
 
@@ -277,7 +277,7 @@ But when a girl with ties to both Romy and Kellan goes missing after a party, an
 
 <h2>Young adult non-fiction</h2>
 
-<h3>Michele Elliott - <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/REFSET/OPAC/BIBENQ/20918267?REFINE_OPER=&QRY=AU%3A%20%27.%20ELLIOTT%20MICHELE%20.%27&SQL=&QRYTEXT=Personal%20Author%3A%20Elliott%2C%20Michele"><cite>Teen Life Confidential: bullies, cyberbullies and frenemies</cite></a></h3>
+<h3>Michele Elliott - <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1283288"><cite>Teen Life Confidential: bullies, cyberbullies and frenemies</cite></a></h3>
 
 Are there practical things you can do to stop being bullied - at home, at school and online? What are frenemies and how can you deal with them? How can you learn to make friends and respect yourself? This guide will tell you what bullying is, where it happens, and what you can do about it.
 
