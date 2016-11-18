@@ -41,7 +41,7 @@ breadcrumb: member-organisations
 
 ![The refurbished library October 2016](/images/branches/newmarket-library-2.jpg)
 
-*Friends of Newmarket Library at Newmarket carnival*
+*The refurbished library October 2016*
 
 * Involved in the launch of a local history book, <cite>Exning Remembers</cite> by Tony Pringle, which sold out.
 * We raised money to provide the refurbished library with badly needed mobile shelving.
