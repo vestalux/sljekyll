@@ -62,8 +62,8 @@ Here are some of the organisations and information sources available for a varie
 	<li><a href="http://www.drinkaware.co.uk">Drinkaware</a> - Hints and tips on managing alcohol intake and fact sheets</li>
 	<li><a href="http://www.focus12.co.uk">Focus 12</a> - Drug and alcohol rehabilitation charity based in Bury St Edmunds</li>
 	<li><a href="http://www.healthysuffolk.org.uk/healthy-you/drugsandalcohol/">Healthy Suffolk: Drug and alcohol treatment</a> - Information and contact numbers for services across Suffolk</li>
-	<li><a href="http://www.mentalhealth.org.uk/help-information/mental-health-a-z/A/alcohol">Mental Health Foundation: Alcohol and mental health</a> - Fact sheet from national charity on the effects of drinking on your mental wellbeing</li>
-	<li><a href="http://www.mentalhealth.org.uk/help-information/mental-health-a-z/D/drugs">Mental Health Foundation: Substance abuse</a> - Fact sheet on how substance misuse has a negative impact on your mental and physical wellbeing</li>
+	<li><a href="https://www.mentalhealth.org.uk/a-to-z/a/alcohol-and-mental-health">Mental Health Foundation: Alcohol and mental health</a> - Fact sheet from national charity on the effects of drinking on your mental wellbeing</li>
+	<li><a href="https://www.mentalhealth.org.uk/a-to-z/d/drugs">Mental Health Foundation: Substance abuse</a> - Fact sheet on how substance misuse has a negative impact on your mental and physical wellbeing</li>
 </ul>
 <h3 id="anger">Anger management</h3>
 <ul>
@@ -92,7 +92,7 @@ Here are some of the organisations and information sources available for a varie
 </ul>
 <h3 id="bipolar">Bipolar disorder</h3>
 <ul class="xoxo blogroll">
-	<li><a href="http://www.mentalhealth.org.uk/help-information/mental-health-a-z/B/bi-polar">Mental Health Foundation</a> - Information on what Bipolar is and how it can be treated</li>
+	<li><a href="https://www.mentalhealth.org.uk/a-to-z/b/bipolar-disorder">Mental Health Foundation</a> - Information on what Bipolar is and how it can be treated</li>
 	<li><a href="http://www.rcpsych.ac.uk/mentalhealthinfo/problems/bipolardisorder/medicationsformania.aspx">Royal College of Psychiatrists</a> - Printable leaflet on medications prescribed to help mood swings</li>
 	<li><a href="http://downloads.bbc.co.uk/headroom/bipolar/bipolar.pdf">BBC</a><b> - </b>Printable 24-page booklet on Bipolar with preface by Stephen Fry</li>
 	<li><a href="http://www.bipolaruk.org.uk/self-help-group-map.html">Bipolar UK</a> - Information from the National Bipolar Charity and find your local support group</li>
@@ -188,7 +188,7 @@ Here are some of the organisations and information sources available for a varie
 </ul>
 <h3 id="personality">Personality disorder</h3>
 <ul class="xoxo blogroll">
-	<li><a href="http://www.mentalhealth.org.uk/help-information/mental-health-a-z/P/personality-disorders">Mental Health Foundation</a> - Defines personality disorders and how they will affect you</li>
+	<li><a href="https://www.mentalhealth.org.uk/a-to-z/p/personality-disorders">Mental Health Foundation</a> - Defines personality disorders and how they will affect you</li>
 	<li><a href="http://www.rcpsych.ac.uk/mentalhealthinfo/problems/personalitydisorders/personalitydisordersfacts.aspx">Royal College of Psychiatrists</a> - How does it feel to have a personality disorder? How many different types are there?</li>
 	<li><a href="http://www.suffolkmind.org.uk/personality-disorder-service---waves.asp">Suffolk Mind Waves Support Group</a> - Local support group in the east and west of Suffolk</li>
 </ul>
@@ -224,7 +224,7 @@ Here are some of the organisations and information sources available for a varie
 <ul>
 	<li><a href="http://www.nsft.nhs.uk/Our-services/Pages/Access-and-Assessment-Service-Suffolk.aspx">Norfolk and Suffolk NHS Foundation Trust</a> - Telephone number and access to mental health services to direct you to the support you need</li>
 	<li><a href="http://www.samaritans.org/">Samaritans</a> - If something's troubling you, then get in touch. Available 24 hours a day, 365 days a year</li>
-	<li><a href="http://www.mentalhealth.org.uk/help-information/mental-health-a-z/S/suicide/">Mental Health Foundation</a> - Information and guidance regarding suicide prevention</li>
+	<li><a href="https://www.mentalhealth.org.uk/a-to-z/s/suicide">Mental Health Foundation</a> - Information and guidance regarding suicide prevention</li>
 	<li><a href="https://www.thecalmzone.net/about-calm/what-is-calm/">CALM (Campaign Against Living Miserably)</a> - Offering support to men in the UK, of any age, who are down or in crisis via a helpline and website</li>
 	<li><a href="http://uk-sobs.org.uk/">Survivors of Bereavement by Suicide</a> - National helpline and local groups in Ipswich, Bury St Edmunds, Lowestoft and Norfolk that provide support for those affected by suicide</li>
 	<li><a href="http://media.wix.com/ugd/a72b48_5318444c562a4d6195afc6bf4ff116ff.pdf">Norfolk and Suffolk NHS Foundation Trust (PDF)</a> - Local suicide prevention strategy on providing care and support</li>

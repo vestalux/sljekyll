@@ -1,8 +1,8 @@
 ---
 id: ipswich-cin
 name: "Jumping for Pudsey and teddy bears' picnic"
-location: ipswich-library
-location-text: Ipswich Library
+location: ipswich-county-library
+location-text: Ipswich County Library
 event-start-date: 2016-11-18
 event-start-time: 1030
 event-end-time: 1130

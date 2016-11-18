@@ -38,9 +38,9 @@ Although this book can be used to provide daily exercises over the course of a y
 
 Bookfest may have come and gone, but we still have a few authors visiting our libraries who we’re sure will be happy to talk about their craft.
 
-If you’re writing a horror novel, Lowestoft Library are holding a [special horror event](/events/lowestoft-2016-11-05-horror-in-the-east/) on Saturday 5 November, where you can meet authors David Moody and Alexander Gordon Smith.
+If you’re writing a horror novel, Lowestoft Library are holding a special horror event on Saturday 5 November, where you can meet authors David Moody and Alexander Gordon Smith.
 
-If your novel is set in the past, or a thriller (or, indeed, a historical thriller), author Nick Brown will be speaking about his <cite>Agents of Rome</cite> series of historical thrillers set in Rome around 270AD at [Bungay Library on Thursday 10 November](/events/bungay-2016-11-10-nick-brown/).
+If your novel is set in the past, or a thriller (or, indeed, a historical thriller), author Nick Brown will be speaking about his <cite>Agents of Rome</cite> series of historical thrillers set in Rome around 270AD at Bungay Library on Thursday 10 November.
 
 Author David E. Merrifield’s latest novel <cite>I’ve Got Your Number</cite> blends fantasy and sci-fi. His talk at [Southwold Library on Monday 21 November](/events/southwold-2016-11-21-meet-david-merrifield/) might also inspire you to publish your work, as he took up full time writing after a career in the Civil Service, proving that it’s never too late.
 
