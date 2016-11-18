@@ -56,4 +56,3 @@ The following member organisations are members of Suffolk's Libraries Industrial
 * [Friends of Thurston Library](/about/member-organisations/friends-of-thurston-library/)
 * [Friends of Woodbridge Library (FOWL)](/about/member-organisations/friends-of-woodbridge-library-fowl/)
 * Wickham Market Partnership
-* [Friends of Woodbridge Library](/about/member-organisations/friends-of-woodbridge-library-fowl)
