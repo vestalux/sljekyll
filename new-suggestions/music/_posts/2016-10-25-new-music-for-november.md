@@ -10,7 +10,7 @@ breadcrumb: music
 
 ![Emeli Sandé, Kate Bush and Rumer](/images/featured/featured-november-music.jpg)
 
-<h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=TI&ENTRY=long+live+the+angels&ENTRY_TYPE=K&ENTRY1_OPER=%2B&ENTRY2_NAME=AU&ENTRY2=emeli+sande&ENTRY2_TYPE=K&NRECS=20&SORTS=HBT.SOVR&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FMUSIC%2FBSEARCH&CF=MUSIC&ISGLB=0&GQ=long+live+the+angels">Emeli Sandé – </cite>Long Live The Angels</cite></a></h2>
+<h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=TI&ENTRY=long+live+the+angels&ENTRY_TYPE=K&ENTRY1_OPER=%2B&ENTRY2_NAME=AU&ENTRY2=emeli+sande&ENTRY2_TYPE=K&NRECS=20&SORTS=HBT.SOVR&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FMUSIC%2FBSEARCH&CF=MUSIC&ISGLB=0&GQ=long+live+the+angels">Emeli Sandé – <cite>Long Live The Angels</cite></a></h2>
 
 Long awaited second album from Emeli Sandé; including new single <cite>Hurts</cite>. Sandé released her debut album, <cite>Our Version of Events</cite>, in 2012 and was overwhelmed by the success. The album was certified multi platinum, spent seven non-consecutive weeks at number one and exceeded The Beatles’ previous record by spending 63 consecutive weeks in the top 10 and selling over 4.6 million copies worldwide. How do you follow that? <cite>Hurts</cite> is an everything but the kitchen sink production with strings and a gospel choir. This is set to be one of the albums of the year.
 
