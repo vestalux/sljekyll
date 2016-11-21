@@ -4,7 +4,7 @@ title: Top Freegal titles to celebrate the life, music and influence of Freddie 
 date: 2016-11-24
 author: lisa-brennan
 category: music
-excerpt: 'To mark 25 years since the death of legendary Queen frontman Freddie Mercury, we've picked some great music you can listen to for free with your library card'
+excerpt: 'To mark 25 years since the death of legendary Queen frontman Freddie Mercury, we have picked some great music you can listen to for free with your library card'
 breadcrumb: music
 ---
 

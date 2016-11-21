@@ -9,8 +9,6 @@ breadcrumb: non-fiction
 published: true
 ---
 
-{% include /c/upgrade-panel.html %}
-
 ![Steve Jones, Johnny Marr and Mick 'Woody' Woodmansey](/images/featured/featured-november-non-fiction.jpg)
 
 <h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5902239?QRY=CTIBIB%3C%20IRN(56735711)&QRYTEXT=Fragments%20%3A%20on%20writing%2C%20reading%2C%20and%20absence"><cite>Fragments: on writing, reading, and absence</cite>, by Elena Ferrante (translated by Ann Goldstein)</a></h2>
