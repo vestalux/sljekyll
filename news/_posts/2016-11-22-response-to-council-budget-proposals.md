@@ -26,3 +26,9 @@ Tony Brown, Chair of Suffolk Libraries Board added “Over the past year we have
 “However, we are still in discussion about the final sum. People will be consulted on any changes and we will strive to minimise the impact on customers, and ensure that people will still have access to the same wide range of services and activities in their community.”
 
 “Suffolk Libraries’ Board is committed to keeping libraries open and for local services to flourish. The Suffolk community has shown a huge amount of support for local libraries over the past few years, and this has never been more needed, or valued.”
+
+<div class="{% include /c/generic-panel.html %}">
+
+    <p class="ma0">Want to show your support for your library service? Email us at help@suffolklibraries.co.uk, tweet <a href="https://twitter.com/suffolklibrary">@suffolklibrary</a> or comment on <a href="http://facebook.com/suffolklibraries">our Facebook page</a>. You can also contact <a href="http://suffolk.gov.uk">Suffolk County Council</a>.</p>
+
+</div>
