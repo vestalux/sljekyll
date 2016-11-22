@@ -7,6 +7,7 @@ category: childrens-ya-books
 excerpt: "Buying presents for children this Christmas? Our stock expert Jo has some fantastic book suggestions for 0-11 year-olds"
 breadcrumb: childrens-ya-books
 ---
+![Yawn, Macavity's Not There, Captain Firebeard's School For Pirates, The Best Bear In All The World](/images/featured/featured-childrens-xmas.jpg)
 
 <h2>Board books</h2>
 
@@ -67,3 +68,33 @@ Set in an invented Victorian era where travelling by airships was commonplace an
 The sash on the cover describes this book as "a stunning adventure of danger and daring" and it really is a *tour de force* of a children’s novel, gathering plaudits from many other writers. It would make a brilliant family read for the Christmas holiday and a super present for any 8–12 year-old.
 
 <h3>Pete Johnson - <cite>How To Update Your Parents</cite></h3>
+
+The hilarious diary of Louis (aka Louis-the-Laugh) whose parents ban all screens in an attempt to reconnect as a family, and yes, that’s all screens, including their own. So that’s no TV, no tablets, no laptops, no PCs, and worst of all no mobiles, and I leave you to imagine the sort of reconnecting they all do. Louis’s best friend Maddy is so smart, she trained her parents to ignore her in Pete Johnson’s first <cite>How to</cite> book, and in <cite>How to Update</cite>, she is more or less in charge of strategy planning.
+
+Pete Johnson is a master of comedy. It’s impossible to read this book without laughing out loud, so I would recommend reading it by yourself if you don’t want a pillow thrown at your head. Or better still, ban all screens for the afternoon and read it out loud to all the family.
+
+<h3>Andy Riley - <cite>King Flashypants and the Evil Emperor</cite></h3>
+
+This is the first title in a riotously funny new series about King Edwin, who tries to rule his own kingdom (there’s a map and everything). We can’t wait for the next episode due out in February, <cite>King Flashypants and the Creature from Crong</cite>. The illustrations are brilliant too.
+
+<h3>Clara Vulliamy - <cite>Dotty Detective</cite></h3>
+
+The first title of a super new series about Dotty and her little dog, who go around finding mysteries to solve together. A perfect present for children who can read by themselves, but still prefer their pages lightened with illustrations.
+
+<h3><cite>The Best Bear In All The World</cite></h3>
+
+Subtitled *"A collection of stories inspired by A.A. Milne and E.H. Shepard"*, this Winnie the Pooh-esque sequel is a beautiful and captivating celebration of his 90th. Mark Burgess’s illustrations, inspired by Shepard, are sheer delight, full of *"warmth and wit"*.
+
+Each of the seasonal stories, by 4 of our best writers, read like a dream. For example, Jeanne Willis’s Spring story *"in which Eeyore suspects Another Donkey is after his thistles"*, perfectly captures Eeyore’s gloomy paranoia and Pooh’s cheerfulness, and Kate Saunders’s Summer story *"in which Pooh dreams of the Sauce of the Nile"* has hilarious and predictable consequences. If ever a book deserved to be bought for Christmas...
+
+<h2>Junior non-fiction</h2>
+
+<h3>Katie Daynes and Marta Alvarez Miguens - <cite>What Is Poo?</cite></h3>
+
+This little Usborne lift-the-flap book appears to be aimed at babies because of the board book format, but I would hazard a guess that it will interest both girls and boys, and the adults who bought it in the first place.
+
+<h3>Piotr Socha &amp; Wojciech Grajkowski - <cite>The Book of Bees</cite></h3>
+
+*"How do bees communicate? What does a beekeeper do? Did you know that Napoleon loved bees? Who survived being stung by 2,443 bees? This book answers all these questions and many more, tracking the history of bees from the time of the dinosaurs to their current plight."*
+
+Filled with amazing illustrations, this is 37cm of beautiful and fascinating bookishness. It’s a gorgeous object, an heirloom in the making, and a great idea for a Christmas present.
