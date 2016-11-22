@@ -4,8 +4,8 @@ name: "Christmas Spectacular"
 location: woodbridge-library
 location-text: Woodbridge Library
 event-start-date: 2016-12-15
-event-start-time: 1900
-event-doors-open: 1730
+event-start-time: 0900
+event-end-time: 1730
 event-category: christmas
 breadcrumb: y
 ---
