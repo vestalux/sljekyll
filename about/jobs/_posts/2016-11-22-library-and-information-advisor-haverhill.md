@@ -17,10 +17,10 @@ You'll be working 6 hours every other Sunday
 We're looking for someone who:
 
 - Has an aspiration to deliver great customer service
-- Can demonstrate appropriate and effective communication skills with the aim of building positive and supportive relations with our customers, team and community.
-- Is enthusiastic, keen and willing to deliver the programme of activities we offer including children’s activities and crafts.
-- Is IT literate and competent in the use of: the internet, email, mobile devices and applications and who could also offer guidance to customers.
-- Has the ability to work as an effective team member.
+- Can demonstrate appropriate and effective communication skills with the aim of building positive and supportive relations with our customers, team and community
+- Is enthusiastic, keen and willing to deliver the programme of activities we offer including children’s activities and crafts
+- Is IT literate and competent in the use of: the internet, email, mobile devices and applications and who could also offer guidance to customers
+- Has the ability to work as an effective team member
 - Understands Suffolk Libraries services and what it delivers
 
 If have experience in a customer facing role, enjoy helping people, have a willingness to work within a team in a busy environment and an interest in books and computers, we would like to hear from you.  
