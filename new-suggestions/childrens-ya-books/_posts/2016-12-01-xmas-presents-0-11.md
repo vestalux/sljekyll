@@ -12,7 +12,7 @@ breadcrumb: childrens-ya-books
 
 <h2>Board books</h2>
 
-<h3>Sally Symes and Nick Sharratt - <cite>Yawn</cite></h3>
+<h3>Sally Symes &amp; Nick Sharratt - <cite>Yawn</cite></h3>
 
 This rhyming board book, first published in 2012, is more or less guaranteed to help you (and your child?) nod off to sleep. Each page has a large die-cast hole, it’s very sturdy and it should last almost to next Christmas before you need to buy another copy. Warning: the yawn is infectious.
 
