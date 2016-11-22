@@ -4,7 +4,7 @@ name: "Christmas Storytime"
 location: haverhill-library
 location-text: Haverhill Library
 event-start-date: 2016-12-20
-event-time: 1730
+event-start-time: 1730
 event-category: christmas
 breadcrumb: y
 ---
