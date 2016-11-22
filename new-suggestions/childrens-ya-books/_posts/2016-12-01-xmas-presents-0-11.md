@@ -4,9 +4,10 @@ title: Children's books to buy for Christmas 2016
 date: 2016-12-01
 author: jo-dixon
 category: childrens-ya-books
-excerpt: "Buying presents for children this Christmas? Our stock expert Jo has some fantastic book suggestions for 0-11 year-olds"
+excerpt: "Buying presents for children this Christmas? Our book expert Jo has some fantastic book suggestions for 0-11 year-olds"
 breadcrumb: childrens-ya-books
 ---
+
 ![Yawn, Macavity's Not There, Captain Firebeard's School For Pirates, The Best Bear In All The World](/images/featured/featured-childrens-xmas.jpg)
 
 <h2>Board books</h2>
