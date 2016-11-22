@@ -29,3 +29,15 @@ The era is familiar, but Thomas Cromwell’s story isn’t. Once you realise how
 I published an earlier collection, <cite>Learning to Talk</cite>, where all the stories are first person and all are about childhood. They’re not autobiographical by any means, but they are often sparked by an incident from my own life - they are about something unexplained, something that has stayed with me as a puzzle through the years. The story is an attempt to work my way to an answer, but I know I might never get there. The first person suits this exploratory mission, because its knowledge is limited to what can be felt, seen, processed by that central consciousness; and it’s not a fact that’s sought, it’s some kind of emotional resolution, an explanation that might not be true, but which makes sense.
 
 I write stories quite slowly, often over a period of years, so it will be a while before another collection, I expect.
+
+## 5. Do you have a message for your many readers in Suffolk Libraries?
+
+Keep using your library. Celebrate and promote it. Our libraries are under threat and once they’ve gone, they’ve gone.
+
+## 6. What is the best advice you were ever given?
+
+Don’t write to a perceived market - just write the best you can.
+
+## 7. You have been interviewed many times. Is there one thing you could tell us that none of your readers would know?
+
+I wish I’d been a playwright. The theatre is where my heart lies.
