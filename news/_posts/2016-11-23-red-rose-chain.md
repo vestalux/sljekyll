@@ -17,4 +17,4 @@ Our Mental Health and Wellbeing coordinator, Sarah Lungley, said "Suffolk’s Li
 
 "Wellbeing is ingrained in everything we do here, whether that is books, signposting for services, groups and events or just somewhere safe and warm to be and we will continue to develop and innovate the way we work with young people to ensure we are providing the best service possible. We are very excited to share this animated video with you and hope you enjoy it."
 
-If you are a young person and feel that your library helps your wellbeing, or if you are an adult who has used their local library in the past, we’d love to hear from you. Please [fill in our survey](https://t.co/svqJfiZ3H2) to tell us why your library is important to you, and how it’s helped your wellbeing
+If you are a young person and feel that your library helps your wellbeing, or if you are an adult who has used their local library in the past, we’d love to hear from you. Please [fill in our survey](https://t.co/svqJfiZ3H2) to tell us why your library is important to you, and how it’s helped your wellbeing.
