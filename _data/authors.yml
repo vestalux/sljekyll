@@ -63,8 +63,18 @@ david-grimmer:
     img: /images/authors/david-grimmer.jpg
     bio: I'm the health and wellbeing information coordinator at Suffolk Libraries.
 
+dawn-bamford:
+    name: Dawn Bamford
+    job: library manager
+    bio: I'm the manager at Kedington Library.
+
 debra-rowe:
     name: Debra Rowe
+    job: library and information advisor
+    bio: I'm a library and information advisor.
+
+emma-maguire:
+    name: Emma Maguire
     job: library and information advisor
     bio: I'm a library and information advisor.
 
@@ -73,9 +83,15 @@ emma-raindle:
     job: web content editor
     bio: I'm web content editor.
 
+emma-yarrow:
+    name: Emma Yarrow
+    job: library manager
+    bio: I'm the manager at Elmswell Library.
+
 emily-mitchell:
     name: Emily Mitchell
     job: book reviewer
+    bio: I'm a library volunteer.
 
 germaine-bates:
     name: Germaine Bates
@@ -163,11 +179,15 @@ nicky-evans:
     job: IT projects manager
     bio: I'm IT projects officer at Suffolk Libraries.
 
+nilima-banerji:
+    name: Nilima Banerji
+    job: library and information advisor
+    bio: I'm a library and information advisor.
+
 richard-baker:
     name: Richard Baker
     job: library and information advisor
     bio: I'm a library and information advisor.
-
 
 sarah-jenkins:
     name: Sarah Jenkins
