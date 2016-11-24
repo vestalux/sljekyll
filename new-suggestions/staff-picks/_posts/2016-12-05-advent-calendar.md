@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: Suffolk Libraries Advent Calendar: Day 5
+title: Suffolk Libraries Advent Calendar Day 5
 date: 2016-12-05
 author: nilima-banerji
 category: staff-picks

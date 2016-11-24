@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: Suffolk Libraries Advent Calendar: Day 3
+title: Suffolk Libraries Advent Calendar Day 3
 date: 2016-12-03
 author: dawn-bamford
 category: staff-picks

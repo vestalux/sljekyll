@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: Suffolk Libraries Advent Calendar: Day 4
+title: Suffolk Libraries Advent Calendar Day 4
 date: 2016-12-04
 author: emma-yarrow
 category: staff-picks
