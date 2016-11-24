@@ -5,7 +5,7 @@ breadcrumb: branches
 ---
 # Meeting room
 
-[Booking form for Sudbury Library premises](/assets/rtf/booking-form-for-sudbury-library-premises.rtf)
+[Booking form for Sudbury Library premises](/assets/doc/booking-form-for-sudbury-library-premises.docx)
 
 * Capacity: 12 people for meetings, 20 people in rows
 * Cost: £7.50 per hour for community/charity/private bookings, £11.25 per hour for commercial/statutory bookings
