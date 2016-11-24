@@ -6,6 +6,7 @@ author: alice-violett
 category: blog
 excerpt: "Once again, aspiring wordsmiths around the world are furiously scribbling or tapping away for National Novel Writing Month. We hope our advice books, writing groups and author visits can help Suffolk 'wrimos' smash the 50,000-word target. You can even publish your work afterwards using our Suffolk Writes service."
 breadcrumb: blog
+comments: yes
 ---
 
 ![Creative Writing for Dummies, Creative Writing, Robert’s Rules of Writing, 365 Ways to Get You Writing](/images/featured/featured-creative-writing.jpg)
