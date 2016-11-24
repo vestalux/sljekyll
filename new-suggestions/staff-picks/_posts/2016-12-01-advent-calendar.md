@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: Suffolk Libraries Advent Calendar: Day 1
+title: Suffolk Libraries Advent Calendar Day 1
 date: 2016-12-01
 author: jo-dixon
 category: staff-picks
