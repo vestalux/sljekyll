@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: The Merchant of Venice: A Shakespeare Story by Andrew Matthews and Tony Ross
+title: "The Merchant of Venice: A Shakespeare Story by Andrew Matthews and Tony Ross"
 date: 2016-12-06
 author: katie-olivia-mitton
 category: staff-picks
