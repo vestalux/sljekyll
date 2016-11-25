@@ -10,4 +10,4 @@ event-category: christmas
 breadcrumb: y
 ---
 
-Pop in to the library for a some festive face-painting before visiting Leiston Christmas Fair.
+Pop in to the library for some festive face-painting before visiting Leiston Christmas Fair.
