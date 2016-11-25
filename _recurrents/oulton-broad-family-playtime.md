@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Family playtime for 0-4 year olds (term time only)"
+recurrent-title: "Family playtime for 0-4 year olds (term time only) - no session on 1 December"
 recurrent-day: Thursday
 recurrent-times: 1300-1430
 recurrent-location: oulton-broad-library
