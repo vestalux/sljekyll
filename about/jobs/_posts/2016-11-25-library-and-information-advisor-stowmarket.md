@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: Library and information advisor Haverhill Library
+title: Library and information advisor Stowmarket Library
 category: jobs
 sidebar: about
 breadcrumb: jobs
