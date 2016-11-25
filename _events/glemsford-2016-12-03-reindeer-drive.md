@@ -6,7 +6,6 @@ location-text: Glemsford Library
 event-alt-location: Glemsford Village Hall
 event-start-date: 2016-12-03
 event-start-time: 1930
-event-end-time: 1200
 event-price: £2.50 (adults), £1 (children)
 event-category: christmas
 breadcrumb: y
