@@ -8,7 +8,7 @@ excerpt: Every day until Christmas Eve, a member of Suffolk Libraries staff will
 breadcrumb: staff-picks
 ---
 
-Every day until Christmas Eve, a member of Suffolk Libraries staff will reveal a book, CD or DVD they will be giving as a Christmas present, and why. Today, Bury St Edmunds Library assistant manager Gill Turner recommends A Visit From St Nicholas, or, as it's more commonly known, <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1651533"><cite>The Night Before Christmas</cite></a>, by Clement C. Moore.
+Every day until Christmas Eve, a member of Suffolk Libraries staff will reveal a book, CD or DVD they will be giving as a Christmas present, and why. Today, Bury St Edmunds Library assistant manager Gill Turner recommends <cite>A Visit From St Nicholas</cite>, or, as it's more commonly known, <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1651533"><cite>The Night Before Christmas</cite></a>, by Clement C. Moore.
 
 ![The Night Before Christmas](/images/featured/featured-night-before-xmas.jpg)
 
