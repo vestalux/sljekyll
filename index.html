@@ -49,21 +49,218 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
     </section>
 
-    <section class="pb3 pb4-ns">
+     <section class="mv2 mv3-ns">
 
-        <h1 class="f4 f3-ns pa0 ma0 mb2 pt2 pb2 bb b--light-gray">More</h1>
+         <h1 class="f4 f3-ns pa0 ma0 mb3 pb2 bb b--light-gray">Featured</h1>
 
-            <ul class="list ma0 mb2 pa0 f5">
+         <div class="cf">
 
-                <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="/music-and-drama" class="blue link">Music &amp; Drama Library</a></li>
-                <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="/special-collections" class="blue link">Special collections</a></li>
-                <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="http://www.fundingcentral.org.uk/default.aspx" class="blue link">Get help funding your project</a></li>
-                <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="/prison-libraries" class="blue link">Prison library service</a></li>
-                <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="/volunteer" class="blue link">Volunteering</a></li>
+             <div class="custom-g-l3">
 
-            </ul>
+                 {% assign featured_pages = (site.posts|where:"top-feature","true") %}
+
+                 {% for post in featured_pages limit:1 %}
+
+                    <article class="pb2 pb3-ns">
+
+                         <h1 class="{% include /c/block-title.html %}"><a href="{{ post.url }}" class="blue">{{ post.title }}</a></h1>
+
+                         <a class="white" href="{{ post.url }}"><img class="custom-constrain-img" src="{{ post.featured-image }}" alt="{{ post.featured-alt }}"></a>
+
+                         <p class="ma0 f5 {% include /c/prose.html %}">{{ post.featured-excerpt }} <a class="blue" href="{{ post.url }}">{{ post.featured-link-text }} &rarr;</a></p>
+
+                     </article>
+
+                 {% endfor %}
+
+             </div>
+
+             <div class="custom-g-l3 custom-g-nm">
+
+                  {% assign featured_pages = (site.posts|where:"category","fiction") %}
+
+                  {% for post in featured_pages limit:1 %}
+
+                    <article class="pb2 pb3-ns">
+
+                        <h1 class="{% include /c/block-title.html %}"><a href="#" class="blue">New in</a></h1>
+
+                        <a class="white" href="#"><img class="custom-constrain-img" src="{{ post.featured-image }}" alt="{{ post.featured-alt }}"></a>
+
+                  {% endfor %}
+
+                  <p class="ma0 f5 {% include /c/prose.html %}">Our pick of the best latest <a class="blue" href="#">Fiction</a>, <a class="blue" href="#">Non-fiction</a>, <a class="blue" href="#">DVDs</a> and <a class="blue" href="#">Music</a></p>
+
+             </div>
+
+         </div>
+
+         <div class="cf">
+
+              <div class="custom-g-l2">
+
+                  <section class="pb2 pb3-ns">
+
+                      <h1 class="{% include /c/block-title.html %}"><a href="#" class="blue">Children's</a></h1>
+
+                  {% assign featured_pages = (site.posts|where:"category","staff-picks") %}
+
+                  {% for post in featured_pages limit:1 %}
+
+                      <article>
+
+                        <a class="white" href="{{ post.url }}"><img class="custom-constrain-img" src="{{ post.featured-image }}" alt="{{ post.featured-alt }}"></a>
+
+                        <p class="f5 ma0 mb1 pb1 bb b--light-gray">Reading ideas for toddlers through to primary school children.</p>
+
+                        <h1 class="f5 b fw6 ma0 custom-lh-title"><span class="ttu tracked db gray normal f6">Latest</span><a href="{{ post.url }}" class="blue">{{ post.title }}</a></h1>
+
+                    </article>
+
+                  {% endfor %}
+
+                </section>
+
+              </div>
+
+              <div class="custom-g-l2">
+
+                  <section class="pb2 pb3-ns">
+
+                      <h1 class="{% include /c/block-title.html %}"><a href="#" class="blue">Young adults</a></h1>
+
+                  {% assign featured_pages = (site.posts|where:"category","staff-picks") %}
+
+                  {% for post in featured_pages limit:1 %}
+
+                      <article>
+
+                        <a class="white" href="{{ post.url }}"><img class="custom-constrain-img" src="{{ post.featured-image }}" alt="{{ post.featured-alt }}"></a>
+
+                        <h1 class="f5 b fw6 ma0 mb1 pb1 bb b--light-gray custom-lh-title"><span class="ttu tracked db gray normal f6">Latest</span><a href="{{ post.url }}" class="blue">{{ post.title }}</a></h1>
+
+                        <p class="f5 ma0">Blogs, reviews and articles written by young adults.</p>
+
+                    </article>
+
+                  {% endfor %}
+
+                </section>
+
+              </div>
+
+              <div class="custom-g-l2 custom-g-nm">
+
+                  <section class="pb2 pb3-ns">
+
+                      <h1 class="{% include /c/block-title.html %}"><a href="#" class="blue">Reviews</a></h1>
+
+                  {% assign featured_pages = (site.posts|where:"category","staff-picks") %}
+
+                  {% for post in featured_pages limit:1 %}
+
+                      <article>
+
+                        <a class="white" href="{{ post.url }}"><img class="custom-constrain-img" src="{{ post.featured-image }}" alt="{{ post.featured-alt }}"></a>
+
+                        <h1 class="f5 b fw6 ma0 mb1 pb1 bb b--light-gray custom-lh-title"><span class="ttu tracked db gray normal f6">Latest</span><a href="{{ post.url }}" class="blue">{{ post.title }}</a></h1>
+
+                        <p class="f5 ma0">Reviews and recommendations from staff and customers.</p>
+
+                    </article>
+
+                  {% endfor %}
+
+                </section>
+
+              </div>
+
+          </div>
+
+          <div class="cf">
+
+              <div class="custom-g-l2">
+
+                  <section class="pb2 pb3-ns">
+
+                      <h1 class="{% include /c/block-title.html %}"><a href="#" class="blue">Booked Out podcast</a></h1>
+
+                  {% assign featured_pages = (site.posts|where:"category","staff-picks") %}
+
+                  {% for post in featured_pages limit:1 %}
+
+                      <article>
+
+                        <a class="white" href="{{ post.url }}"><img class="custom-constrain-img" src="{{ post.featured-image }}" alt="{{ post.featured-alt }}"></a>
+
+                        <h1 class="f5 b fw6 ma0 mb1 pb1 bb b--light-gray custom-lh-title"><span class="ttu tracked db gray normal f6">Latest</span><a href="{{ post.url }}" class="blue">{{ post.title }}</a></h1>
+
+                        <p class="f5 ma0">Our monthly books podcast from Woodbridge Library.</p>
+
+                    </article>
+
+                  {% endfor %}
+
+                </section>
+
+              </div>
+
+              <div class="custom-g-l2">
+
+                  <section class="pb2 pb3-ns">
+
+                      <h1 class="{% include /c/block-title.html %}"><a href="#" class="blue">Meet the author</a></h1>
+
+                  {% assign featured_pages = (site.posts|where:"category","staff-picks") %}
+
+                  {% for post in featured_pages limit:1 %}
+
+                      <article>
+
+                        <a class="white" href="{{ post.url }}"><img class="custom-constrain-img" src="{{ post.featured-image }}" alt="{{ post.featured-alt }}"></a>
+
+                        <h1 class="f5 b fw6 ma0 mb1 pb1 bb b--light-gray custom-lh-title"><span class="ttu tracked db gray normal f6">Latest</span><a href="{{ post.url }}" class="blue">{{ post.title }}</a></h1>
+
+                        <p class="f5 ma0">Interviews with some of the biggest selling authors.</p>
+
+                    </article>
+
+                  {% endfor %}
+
+                </section>
+
+              </div>
+
+              <div class="custom-g-l2 custom-g-nm">
+
+                  <section class="pb2 pb3-ns">
+
+                      <h1 class="{% include /c/block-title.html %}"><a href="#" class="blue">Articles</a></h1>
+
+                  {% assign featured_pages = (site.posts|where:"category","staff-picks") %}
+
+                  {% for post in featured_pages limit:1 %}
+
+                      <article>
+
+                        <a class="white" href="{{ post.url }}"><img class="custom-constrain-img" src="{{ post.featured-image }}" alt="{{ post.featured-alt }}"></a>
+
+                        <h1 class="f5 b fw6 ma0 mb1 pb1 bb b--light-gray custom-lh-title"><span class="ttu tracked db gray normal f6">Latest</span><a href="{{ post.url }}" class="blue">{{ post.title }}</a></h1>
+
+                        <p class="f5 ma0">Lists and thoughts on books, music and film.</p>
+
+                    </article>
+
+                  {% endfor %}
+
+                </section>
+
+              </div>
+
+          </div>
 
      </section>
+
 
 {% assign featured_pages = (site.pages|where:"featured","true") %}
 
@@ -90,3 +287,19 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
     </article>
 
 {% endfor %}
+
+<section class="pb3 pb4-ns">
+
+    <h1 class="f4 f3-ns pa0 ma0 mb2 pt2 pb2 bb b--light-gray">More</h1>
+
+    <ul class="list ma0 mb2 pa0 f5">
+
+        <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="/music-and-drama" class="blue link">Music &amp; Drama Library</a></li>
+        <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="/special-collections" class="blue link">Special collections</a></li>
+        <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="http://www.fundingcentral.org.uk/default.aspx" class="blue link">Get help funding your project</a></li>
+        <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="/prison-libraries" class="blue link">Prison library service</a></li>
+        <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="/volunteer" class="blue link">Volunteering</a></li>
+
+    </ul>
+
+ </section>

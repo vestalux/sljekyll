@@ -6,6 +6,8 @@ author: brandon-king
 category: fiction
 excerpt: New titles from Lee Child, Zadie Smith and Jodi Picoult
 breadcrumb: fiction
+featured-image: /images/featured/featured-a-god-in-ruins.jpg
+featured-alt: A God in Ruins
 ---
 
 ![Jack Reacher, Jodi Picoult, Ian Rankin and Zadie Smith](/images/featured/featured-november-fiction.jpg)

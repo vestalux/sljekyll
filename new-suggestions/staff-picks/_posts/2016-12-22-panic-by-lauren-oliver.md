@@ -10,7 +10,7 @@ breadcrumb: staff-picks
 
 ![Panic](/images/featured/featured-panic.jpg)
 
-<cite>Panic</cite> by Lauren Oliver is a <cite>Hunger Games</cite>-esque YA novel about love, danger and revenge. It follows teenagers Heather and Dodge as they play Panic, a dangerous but legendary game played by graduating seniors in the small, isolated town of Carp. The contestants face both physical and psychological challenges as this edgier take on dares teeters on the edge of anarchy.
+<cite>Panic</cite> by Lauren Oliver is a <cite>Hunger Games</cite>-esque YA novel about love, danger and revenge. It follows teenagers Heather and Dodge as they play Panic, a dangerous but legendary game for graduating seniors in the small, isolated town of Carp. The contestants face both physical and psychological challenges as this edgier take on dares teeters on the edge of anarchy.
 
 For me, a particular highlight was the tense chapters when the protagonists face their deepest fears, showing the cracks in their facades of recklessness.
 
