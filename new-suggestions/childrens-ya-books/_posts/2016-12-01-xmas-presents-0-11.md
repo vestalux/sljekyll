@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: Children's books to buy for Christmas 2016
-date: 2016-12-01
+date: 2016-11-29
 author: jo-dixon
 category: childrens-ya-books
 excerpt: "Buying presents for children this Christmas? Our book expert Jo has some fantastic book suggestions for 0-11 year-olds"
