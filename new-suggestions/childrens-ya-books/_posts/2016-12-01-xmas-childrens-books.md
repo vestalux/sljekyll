@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: Christmassy children's books for 2016
-date: 2016-12-01
+date: 2016-11-29
 author: jo-dixon
 category: childrens-ya-books
 excerpt: "Sensory books for babies, picture books for young children, and stories for juniors and young teens feature in this festive round-up"
