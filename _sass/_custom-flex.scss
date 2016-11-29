@@ -1,0 +1,19 @@
+@media screen, projection {
+
+    .custom-flex-container {
+        display: flex;
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        -webkit-flex-flow: row wrap;
+        justify-content: space-around;
+    }
+
+    .custom-flex-row {
+        flex-direction: row;
+        width: 16.53em; /* Gives us thirds roughly */
+        margin-bottom: 1rem;
+    }
+
+}

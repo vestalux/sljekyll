@@ -1,0 +1,27 @@
+---
+layout: default
+title: Advent calendar 2016
+breadcrumb: staff-picks
+---
+
+<p>Our staff share their recommendations for Christmas gifts:</p>
+
+<div class="custom-flex-container">
+
+{% assign advent_posts = (site.posts | where: "category", "fiction") %}
+
+{% for post in advent_posts limit:22 %}
+
+    <article class="custom-flex-row">
+
+        <p class="f5 ttu tracked b red ma0 mb2 pr2">{{ post.date | date: "%B %e" }}</p>
+
+        <a class="white" href="{{ post.url }}"><img class="custom-constrain-img" src="/images/featured/featured-hangar-10.jpg" alt="{{ post.featured-alt }}"></a>
+
+        <h1 class="f4 fw6 ma0 pa0"><a href="{{ post.url }}" class="blue">{{ post.title }}</a></h1>
+
+        <p class="f5 ma0 pr2">{{ post.excerpt }}</p>
+
+    </article>
+
+{% endfor %}
