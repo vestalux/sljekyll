@@ -7,7 +7,7 @@ category: blog
 excerpt: "2016 has been a tough year in many respects. Why not get away from all the problems and curl up with a funny book? Here are a few suggestions."
 featured-image: /images/featured/featured-funny-books.jpg
 featured-alt: Me Talk Pretty One Day, Notes from a Small Island, The Ladybird Book of the Mid-life Crisis
-featured-link-text: Funny titles to bring some cheer to the end of 2016
+featured-link-text: Looking for some reading to cheer you up? Take a look at our funny book suggestions.
 ---
 
 ![Me Talk Pretty One Day, Notes from a Small Island, The Ladybird Book of the Mid-life Crisis](/images/featured/featured-funny-books.jpg)

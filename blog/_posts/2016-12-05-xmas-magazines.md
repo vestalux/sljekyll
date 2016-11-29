@@ -1,14 +1,17 @@
 ---
 layout: sidebar-right
 title: Have a home-made Christmas with the help of our digital magazines
-date: 2016-12-05
+date: 2016-12-01
 author: lisa-brennan
 category: blog
 excerpt: "Deck the halls and spoil your Christmas guests with the help of free titles from our digital magazine service, Zinio"
+featured-image: /images/featured/featured-xmas-magazines-740.jpg
+featured-alt: Artists and Illustrators, Good Food, Practical Photography and Good Housekeeping
+featured-link-text: Planning your Christmas presents, food and decorations? Take a look at our suggestions of free magazines that can help.
 breadcrumb: blog
 ---
 
-![Artists and Illustrators, Good Good, Practical Photography and Good Housekeeping](/images/featured/featured-xmas-magazines.jpg)
+![Artists and Illustrators, Good Food, Practical Photography and Good Housekeeping](/images/featured/featured-xmas-magazines.jpg)
 
 Although you can buy lovely decorations, food and gifts, there's something special about handmade decorations and presents and home cooking at Christmas. Some of the latest issues of magazines available on our online magazine platform, Zinio, [which you can access for free with your library card](https://www.suffolklibraries.co.uk/elibrary/zinio/) feature lots of ideas for festive food and crafts.
 
