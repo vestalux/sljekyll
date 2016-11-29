@@ -6,10 +6,6 @@ author: emily-mitchell
 category: staff-picks
 excerpt: Emily finds <cite>Rose in the Blitz</cite> cleverly mixes past and present, deals sensitively with the subject of dementia, and effectively delivers the message that love conquers all.
 breadcrumb: staff-picks
-featured-image: /images/featured/featured-hilary-mantel-2.jpg
-featured-alt: Hilary Mantel
-featured-excerpt: Our greatest historical fiction writer discusses Thomas Cromwell, her influences and where her heart truly lies.
-featured-link-text: Read the full Hilary Mantel interview
 ---
 
 ![Rose in the Blitz](/images/featured/featured-rose-in-the-blitz.jpg)

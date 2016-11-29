@@ -9,7 +9,6 @@ breadcrumb: meet-the-author
 top-feature: true
 featured-image: /images/featured/featured-hilary-mantel-2.jpg
 featured-alt: Hilary Mantel
-featured-excerpt: Our greatest historical fiction writer discusses Thomas Cromwell, her influences and where her heart truly lies.
 featured-link-text: Read the full Hilary Mantel interview
 ---
 

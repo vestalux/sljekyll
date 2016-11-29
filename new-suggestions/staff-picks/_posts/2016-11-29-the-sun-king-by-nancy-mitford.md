@@ -6,6 +6,10 @@ author: gill-mason
 category: staff-picks
 excerpt: "In <cite>The Sun King</cite>, Nancy Mitford describes Louis XIV's arts patronage, luxurious and extravagant lifestyle at Versailles, absolutist style of rule and colourful personal life."
 breadcrumb: staff-picks
+featured-image: /images/featured/featured-sun-king.jpg
+featured-alt: The Sun King
+featured-excerpt: Gill Mason discusses a different Louis to the TV drama
+featured-link-text: Read our The Sun King review
 ---
 
 ![The Sun King](/images/featured/featured-sun-king.jpg)
