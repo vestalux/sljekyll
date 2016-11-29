@@ -5,6 +5,9 @@ date: 2016-11-29
 author: jo-dixon
 category: childrens-ya-books
 excerpt: "Buying presents for teens this Christmas? Our book expert Jo is here to help"
+featured-image: /images/featured/featured-ya-xmas-740.jpg
+featured-alt: Word Nerd, The Leaving, The Raven King, Tanya Bakes
+featured-link-text: Check out these books perfect for teenage Christmas stockings.
 breadcrumb: childrens-ya-books
 ---
 
