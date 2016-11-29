@@ -10,7 +10,7 @@ breadcrumb: staff-picks
 
 ![The Sun King](/images/featured/featured-sun-king.jpg)
 
-Having seen the recent TV drama <cite>Versailles<cite>, I was tempted to read a biography of Louis XIV ('The Sun King'), to see how it compared. I chose Nancy Mitford’s 1966 version, since her fictional exposés of the lives and loves of the English upper classes were so brilliantly written. I was not disappointed.
+Having seen the recent TV drama <cite>Versailles</cite>, I was tempted to read a biography of Louis XIV ('The Sun King'), to see how it compared. I chose Nancy Mitford’s 1966 version, since her fictional exposés of the lives and loves of the English upper classes were so brilliantly written. I was not disappointed.
 
 Louis XIV became King of France in 1643 at the age of 4. A lifelong supporter of the arts, he contributed much to the present-day cultural fabric of France, including the creation of his lavish 'playground' at Versailles. Mitford describes the luxurious and extravagant lifestyle of those at court, a world away from the starvation and hardships suffered by ordinary Parisians.
 
