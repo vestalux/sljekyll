@@ -5,6 +5,10 @@ date: 2016-12-20
 author: brandon-king
 category: meet-the-author
 excerpt: "Alan Bennett talks about his childhood love of <cite>Just William</cite> and his mother's exaltation of writers, and encourages readers to use their local libraries"
+featured-image: /images/featured/featured-alan-bennett-740.jpg
+featured-alt: Alan Bennett
+featured-link-text: Read our interview with literary heavyweight Alan Bennett.
+top-feature: true
 breadcrumb: meet-the-author
 ---
 
