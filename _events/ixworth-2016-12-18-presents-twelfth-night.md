@@ -7,7 +7,7 @@ excerpt: "Outrageous high comedy ensues as the pangs of unrequited love affect t
 event-start-date: 2016-12-18
 event-doors-open: 1500
 event-start-time: 1530
-event-ticket-price: 7.50 (advance bookings only)
+event-ticket-price: 7.50
 event-image-small: article/presents-twelfth-night.jpg
 event-category: presents
 breadcrumb: y

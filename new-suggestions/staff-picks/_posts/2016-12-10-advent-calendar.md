@@ -4,11 +4,14 @@ title: Suffolk Libraries Advent Calendar Day 10
 date: 2016-12-10
 author: charlotte-clark
 category: staff-picks
-excerpt: Every day until Christmas Eve, a member of Suffolk Libraries staff will reveal a book, CD or DVD they will be giving as a Christmas present, and why.
+excerpt: Southwold Library manager Charlotte Clark recommends <cite>The Tailor of Gloucester</cite>, by Beatrix Potter.
+featured-image: /images/featured/featured-tailor-of-gloucester.jpg
+featured-alt: The Tailor of Gloucester
+tag: advent
 breadcrumb: staff-picks
 ---
 
-Every day until Christmas Eve, a member of Suffolk Libraries staff will reveal a book, CD or DVD they will be giving as a Christmas present, and why. Today, Southwold Library manager Charlotte Clarke recommends <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=209150"><cite>The Tailor of Gloucester</cite></a>, by Beatrix Potter.
+Every day until Christmas Eve, a member of Suffolk Libraries staff will reveal a book, CD or DVD they will be giving as a Christmas present, and why. Today, Southwold Library manager Charlotte Clark recommends <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=209150"><cite>The Tailor of Gloucester</cite></a>, by Beatrix Potter.
 
 ![The Tailor of Gloucester](/images/featured/featured-tailor-of-gloucester.jpg)
 
