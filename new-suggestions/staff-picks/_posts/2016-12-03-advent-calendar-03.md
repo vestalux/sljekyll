@@ -1,10 +1,10 @@
 ---
 layout: sidebar-right
-title: Suffolk Libraries Advent Calendar Day 3
+title: "<cite>Ten Little Elves</cite>, by Michael Brownlow &amp; Simon Rickerty."
 date: 2016-12-03
 author: dawn-bamford
 category: staff-picks
-excerpt: Kedington Library manager Dawn Bamford recommends <cite>Ten Little Elves</cite>, by Michael Brownlow & Simon Rickerty.
+excerpt: "Kedington Library manager Dawn Bamford recommends <cite>Ten Little Elves</cite>, by Michael Brownlow &amp; Simon Rickerty."
 featured-image: /images/featured/featured-ten-little-elves.jpg
 featured-alt: Ten Little Elves
 tag: advent

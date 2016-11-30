@@ -1,10 +1,10 @@
 ---
 layout: sidebar-right
-title: Suffolk Libraries Advent Calendar Day 8
+title: "<cite>The Bubble Boy</cite>, by Stewart Foster"
 date: 2016-12-08
 author: krystal-vittles
 category: staff-picks
-excerpt: Libraries Innovation and Development Manager Krystal Vittles recommends <cite>The Bubble Boy</cite>, by Stewart Foster.
+excerpt: "Libraries Innovation and Development Manager Krystal Vittles recommends <cite>The Bubble Boy</cite>, by Stewart Foster."
 featured-image: /images/featured/featured-bubble-boy.jpg
 featured-alt: The Bubble Boy
 tag: advent

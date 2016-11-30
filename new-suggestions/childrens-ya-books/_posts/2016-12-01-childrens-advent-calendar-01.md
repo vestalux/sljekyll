@@ -1,10 +1,10 @@
 ---
 layout: sidebar-right
-title: Children's and YA Advent Calendar Day 1
+title: "<cite>Owl Babies</cite>, by Martin Waddell"
 date: 2016-12-01
 author: jo-dixon
 category: childrens-ya-books
-excerpt: Today's book is <cite>Owl Babies</cite>, by Martin Waddell
+excerpt: "Today's book is <cite>Owl Babies</cite>, by Martin Waddell"
 featured-image: /images/featured/featured-owl-babies.jpg
 featured-alt: Owl Babies
 tag: childrens-advent

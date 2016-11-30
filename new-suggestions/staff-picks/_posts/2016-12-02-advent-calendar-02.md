@@ -1,10 +1,10 @@
 ---
 layout: sidebar-right
-title: Suffolk Libraries Advent Calendar Day 2
+title: "<cite>The Dinosaur That Pooped Christmas</cite>, by Tom Fletcher, Dougie Poynter &amp; Garry Parsons"
 date: 2016-12-02
 author: emma-maguire
 category: staff-picks
-excerpt: Library and information advisor Emma Maguire recommends <cite>The Dinosaur That Pooped Christmas</cite>, by Tom Fletcher, Dougie Poynter &amp; Garry Parsons.
+excerpt: "Library and information advisor Emma Maguire recommends <cite>The Dinosaur That Pooped Christmas</cite>, by Tom Fletcher, Dougie Poynter &amp; Garry Parsons."
 featured-image: /images/featured/featured-dinosaur-pooped-740.jpg
 featured-alt: The Dinosaur That Pooped Christmas
 tag: advent

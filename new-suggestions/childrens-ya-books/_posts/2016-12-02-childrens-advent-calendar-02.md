@@ -1,10 +1,10 @@
 ---
 layout: sidebar-right
-title: Children's and YA Advent Calendar Day 2
+title: "<cite>Where The Wild Things Are</cite>, by Maurice Sendak."
 date: 2016-12-02
 author: jo-dixon
 category: childrens-ya-books
-excerpt: Today's book is <cite>Where The Wild Things Are</cite>, by Maurice Sendak.
+excerpt: "Today's book is <cite>Where The Wild Things Are</cite>, by Maurice Sendak."
 featured-image: /images/featured/featured-wild-things.jpg
 featured-alt: Where The Wild Things Are
 tag: childrens-advent

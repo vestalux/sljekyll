@@ -1,10 +1,10 @@
 ---
 layout: sidebar-right
-title: Suffolk Libraries Advent Calendar Day 7
+title: "<cite>The Book Thief</cite>, by Markus Zusak."
 date: 2016-12-07
 author: tanya-collins
 category: staff-picks
-excerpt: Enquiry officer Tanya Collins recommends <cite>The Book Thief</cite>, by Markus Zusak.
+excerpt: "Enquiry officer Tanya Collins recommends <cite>The Book Thief</cite>, by Markus Zusak."
 featured-image: /images/featured/featured-book-thief.jpg
 featured-alt: The Book Thief
 tag: advent
