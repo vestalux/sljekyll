@@ -5,6 +5,10 @@ date: 2016-11-29
 author: jo-dixon
 category: childrens-ya-books
 excerpt: "Sensory books for babies, picture books for young children, and stories for juniors and young teens feature in this festive round-up"
+featured-image: /images/featured/featured-xmas-titles.jpg
+featured-alt: Elmer's Christmas, Winnie and Wilbur Meet Santa, The Cat Who Ate Christmas
+featured-link-text: See our suggestions for Christmassy books your children can read with you or by themselves.
+top-feature: true
 breadcrumb: childrens-ya-books
 ---
 
@@ -79,9 +83,3 @@ Julia Donaldson’s latest book includes added Christmas extras like recipes for
 <em>"<cite>The Christmasaurus</cite> is a story about a boy named William Trundle, and a dinosaur, the Christmasaurus. It's about how they meet one Christmas Eve and have a magical adventure. It's about friendship and families, sleigh bells and Santa, singing elves and flying reindeer, music and magic. It's about discovering your heart's true desire, and learning that the impossible might just be possible."</em>
 
 As well as writing songs for McFly, Tom Fletcher loves dinosaurs, and has written a whole series of picture books about <cite>The Dinosaur That Pooped</cite>. Right at the end of <cite>The Christmasaurus</cite> Tom has written some Christmassy dinosaur lyrics.
-
-<h2>Young teen</h2>
-
-<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2037898">Fleur Hitchcock - <cite>Murder in Midwinter</cite></a></h3>
-
-<em>"When Maya takes a photo from the top of a bus, she has no idea of the trouble it will bring. The bright shop window is gorgeous but the couple arguing in front of it look as if they want to kill each other. And when her flash goes off, they look as if they want to kill her too. Then a body turns up. The police suggest that Maya should go away for a while - somewhere remote, somewhere safe. Her aunt's farm in the Welsh mountains is a perfect place to hide, and soon it's snowing hard enough to cut them off completely. No one can get in and no one can get out. But does that mean there's nothing to fear?"</em>

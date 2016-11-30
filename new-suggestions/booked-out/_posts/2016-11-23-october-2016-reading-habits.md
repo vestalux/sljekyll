@@ -5,6 +5,9 @@ date: 2016-10-31
 author: booked-out-team
 category: booked-out
 excerpt: "Sheila and guests discuss reading habits: Where we read, when we read, what we read and why?"
+featured-image: /images/featured/featured-booked-out-team.jpg
+featured-alt: The Booked Out team
+featured-link-text: Listen to the latest podcast from Woodbridge Library.
 breadcrumb: booked-out
 ---
 

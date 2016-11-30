@@ -4,17 +4,19 @@ title: Advent calendar 2016
 breadcrumb: staff-picks
 ---
 
-<p>Our staff share their recommendations for Christmas gifts:</p>
+<h1 class="{% include /c/page-title.html %} tc custom-icon-xmas-24 dib mb4-ns">Suffolk Libraries advent calendar 2016</h1>
+
+<p class="pa3 ma0 mb4 bg-red white">Every day until Christmas Eve a member of Suffolk Libraries reveals a book, album or film they'll be giving as a Christmas present, and why.</p>
 
 <div class="custom-flex-container">
 
-{% assign advent_posts = (site.posts | where: "category", "fiction") %}
+{% assign advent_posts = (site.posts | where: "category", "fiction" | reverse ) %}
 
-{% for post in advent_posts limit:22 %}
+{% for post in advent_posts limit:24 %}
 
-    <article class="custom-flex-row">
+    <article class="custom-flex-row pb2">
 
-        <p class="f5 ttu tracked b red ma0 mb2 pr2">{{ post.date | date: "%B %e" }}</p>
+        <p class="custom-icon-xmas-{{ forloop.index }} f4 ttu tracked dark-green ma0 mb2 pr2">{{ post.date | date: "%B %e" }}</p>
 
         <a class="white" href="{{ post.url }}"><img class="custom-constrain-img" src="/images/featured/featured-hangar-10.jpg" alt="{{ post.featured-alt }}"></a>
 
