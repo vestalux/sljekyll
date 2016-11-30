@@ -4,7 +4,10 @@ title: Suffolk Libraries Advent Calendar Day 5
 date: 2016-12-05
 author: nilima-banerji
 category: staff-picks
-excerpt: Every day until Christmas Eve, a member of Suffolk Libraries staff will reveal a book, CD or DVD they will be giving as a Christmas present, and why.
+excerpt: Library and information advisor Nilima Banerji recommends the film <cite>Room</cite>
+featured-image: /images/featured/featured-room.jpg
+featured-alt: Room
+tag: advent
 breadcrumb: staff-picks
 ---
 

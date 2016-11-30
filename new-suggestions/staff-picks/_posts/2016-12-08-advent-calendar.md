@@ -4,7 +4,10 @@ title: Suffolk Libraries Advent Calendar Day 8
 date: 2016-12-08
 author: krystal-vittles
 category: staff-picks
-excerpt: Every day until Christmas Eve, a member of Suffolk Libraries staff will reveal a book, CD or DVD they will be giving as a Christmas present, and why.
+excerpt: Libraries Innovation and Development Manager Krystal Vittles recommends <cite>The Bubble Boy</cite>, by Stewart Foster.
+featured-image: /images/featured/featured-bubble-boy.jpg
+featured-alt: The Bubble Boy
+tag: advent
 breadcrumb: staff-picks
 ---
 

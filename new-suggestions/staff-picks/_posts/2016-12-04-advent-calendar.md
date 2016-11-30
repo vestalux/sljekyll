@@ -4,7 +4,10 @@ title: Suffolk Libraries Advent Calendar Day 4
 date: 2016-12-04
 author: emma-yarrow
 category: staff-picks
-excerpt: Every day until Christmas Eve, a member of Suffolk Libraries staff will reveal a book, CD or DVD they will be giving as a Christmas present, and why.
+excerpt: Elmswell Library manager Emma Yarrow recommends the film <cite>Elf</cite>.
+featured-image: /images/featured/featured-elf.jpg
+featured-alt: Elf
+tag: advent
 breadcrumb: staff-picks
 ---
 
