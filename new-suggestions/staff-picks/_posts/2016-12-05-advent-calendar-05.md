@@ -1,10 +1,10 @@
 ---
 layout: sidebar-right
-title: Suffolk Libraries Advent Calendar Day 5
+title: "<cite>Room</cite>"
 date: 2016-12-05
 author: nilima-banerji
 category: staff-picks
-excerpt: Library and information advisor Nilima Banerji recommends the film <cite>Room</cite>
+excerpt: "Library and information advisor Nilima Banerji recommends the film <cite>Room</cite>"
 featured-image: /images/featured/featured-room.jpg
 featured-alt: Room
 tag: advent
