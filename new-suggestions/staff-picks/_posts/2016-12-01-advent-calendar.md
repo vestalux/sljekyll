@@ -4,7 +4,10 @@ title: Suffolk Libraries Advent Calendar Day 1
 date: 2016-12-01
 author: jo-dixon
 category: staff-picks
-excerpt: Every day until Christmas Eve, a member of Suffolk Libraries staff will reveal a book, CD or DVD they will be giving as a Christmas present, and why.
+excerpt: Stock team member Jo Dixon recommends <cite>The Secret Diary of Hendrik Groen, 83 &frac14;</cite>, by an anonymous Dutch author.
+featured-image: /images/featured/featured-secret-diary.jpg
+featured-alt: The Secret Diary of Hendrik Groen, 83 &frac14;
+tag: advent
 breadcrumb: staff-picks
 ---
 

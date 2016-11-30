@@ -5,6 +5,9 @@ date: 2016-11-28
 author: brandon-king
 category: music
 excerpt: 'Brandon King rounds up the latest releases and some other 2016 albums worth borrowing from the library'
+featured-image: /images/featured/featured-december-music-740.jpg
+featured-alt: The Rolling Stones, Iggy Pop
+featured-link-text: Check out the latest music we have in stock.
 breadcrumb: music
 ---
 

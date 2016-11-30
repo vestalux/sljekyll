@@ -4,7 +4,10 @@ title: Suffolk Libraries Advent Calendar Day 7
 date: 2016-12-07
 author: tanya-collins
 category: staff-picks
-excerpt: Every day until Christmas Eve, a member of Suffolk Libraries staff will reveal a book, CD or DVD they will be giving as a Christmas present, and why.
+excerpt: Enquiry officer Tanya Collins recommends <cite>The Book Thief</cite>, by Markus Zusak.
+featured-image: /images/featured/featured-book-thief.jpg
+featured-alt: The Book Thief
+tag: advent
 breadcrumb: staff-picks
 ---
 

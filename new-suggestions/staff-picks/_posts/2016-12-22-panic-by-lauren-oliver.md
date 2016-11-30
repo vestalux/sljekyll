@@ -5,6 +5,9 @@ date: 2016-12-22
 author: emily-mitchell
 category: staff-picks
 excerpt: <cite>Panic</cite> meets Lauren Oliver's usual high standards of characterisation and realism.
+featured-image: /images/featured/featured-panic.jpg
+featured-alt: Panic
+featured-link-text: Read Emily Mitchell's review of <cite>Panic</cite>, by Lauren Oliver.
 breadcrumb: staff-picks
 ---
 

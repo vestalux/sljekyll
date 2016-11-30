@@ -4,7 +4,10 @@ title: Suffolk Libraries Advent Calendar Day 9
 date: 2016-12-09
 author: gill-turner
 category: staff-picks
-excerpt: Every day until Christmas Eve, a member of Suffolk Libraries staff will reveal a book, CD or DVD they will be giving as a Christmas present, and why.
+excerpt: Bury St Edmunds Library assistant manager Gill Turner recommends <cite>A Visit From St Nicholas</cite>, by Clement C. Moore.
+featured-image: /images/featured/featured-night-before-xmas.jpg
+featured-alt: The Night Before Christmas
+tag: advent
 breadcrumb: staff-picks
 ---
 
