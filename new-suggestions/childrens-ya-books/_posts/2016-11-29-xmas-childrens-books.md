@@ -62,24 +62,24 @@ If you like your princesses a bit wishy-washy, don’t read this book, because P
 
 <h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY=winnie+and+wilbur+meet+santa&ENTRY_NAME=BS&ENTRY_TYPE=K&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FOPAC%2FBSEARCH%3FHOMEPRMS%3DBSEARCHPARAMS&SORTS=SQL_REL_TITLE&ISGLB=0&GQ=winnie+and+wilbur+meet+santa">Valérie Thomas - <cite>Winnie and Wilbur Meet Santa</cite></a></h3>
 
-<em>"It's Christmas Eve and Winnie and Wilbur are super excited. They've posted their letters to the North Pole and made everything festive. But then disaster strikes. Santa gets stuck in their chimney! He desperately needs help with his deliveries otherwise Christmas just won't happen."</em>
+> "It's Christmas Eve and Winnie and Wilbur are super excited. They've posted their letters to the North Pole and made everything festive. But then disaster strikes. Santa gets stuck in their chimney! He desperately needs help with his deliveries otherwise Christmas just won't happen."
 
 <h2>Junior novels</h2>
 
 <h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY=the+cat+who+ate+christmas&ENTRY_NAME=BS&ENTRY_TYPE=K&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FOPAC%2FBSEARCH%3FHOMEPRMS%3DBSEARCHPARAMS&SORTS=SQL_REL_TITLE&ISGLB=0&GQ=the+cat+who+ate+christmas">Lil Chase and Thomas Docherty - <cite>The Cat Who Ate Christmas</cite></a></h3>
 
-<em>"It's Christmas, and everyone in the Hudson family is very excited - including their kitten. First he knocks the Christmas tree over, then he shreds the presents, and finally he eats the entire Christmas turkey! Mum gets cross, and the kitten runs away. But when he doesn't come back, the Hudson family have to venture out on Christmas Day to find their naughty kitten. Can they have a merry Christmas after all?"</em>"
+> "It's Christmas, and everyone in the Hudson family is very excited - including their kitten. First he knocks the Christmas tree over, then he shreds the presents, and finally he eats the entire Christmas turkey! Mum gets cross, and the kitten runs away. But when he doesn't come back, the Hudson family have to venture out on Christmas Day to find their naughty kitten. Can they have a merry Christmas after all?"
 
 Just the right length for the child who wants to read a whole book by themselves, but lacks the stamina for a solid wall of print, this familiar tale about a naughty kitten who jumps on the Christmas tree is punctuated with enough funny illustrations to power you on to the end. Super.
 
 <h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY=christmas+with+princess+mirror-belle&ENTRY_NAME=BS&ENTRY_TYPE=K&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FOPAC%2FBSEARCH%3FHOMEPRMS%3DBSEARCHPARAMS&SORTS=SQL_REL_TITLE&ISGLB=0&GQ=christmas+with+princess+mirror-belle">Julia Donaldson and Lydia Monks - <cite>Christmas with Princess Mirror-Belle</cite></a></h3>
 
-<em>"Ellen gets a big shock when her reflection climbs out of a mirror. But Mirror-Belle is a double with a difference! She is a princess, and a very mischievous one at that. Join Mirror-Belle as she sweeps Ellen into hilarious Christmassy escapades - from joining in with the Christmas ballet show to attending Ellen's friend's fancy dress party and trying to catch Father Christmas! You can always guarantee that wherever Mirror-Belle goes, trouble will follow."</em>
+> "Ellen gets a big shock when her reflection climbs out of a mirror. But Mirror-Belle is a double with a difference! She is a princess, and a very mischievous one at that. Join Mirror-Belle as she sweeps Ellen into hilarious Christmassy escapades - from joining in with the Christmas ballet show to attending Ellen's friend's fancy dress party and trying to catch Father Christmas! You can always guarantee that wherever Mirror-Belle goes, trouble will follow."
 
 Julia Donaldson’s latest book includes added Christmas extras like recipes for salt dough and instructions for how to make a snow globe.
 
 <h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY=the+christmasaurus&ENTRY_NAME=BS&ENTRY_TYPE=K&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FOPAC%2FBSEARCH%3FHOMEPRMS%3DBSEARCHPARAMS&SORTS=SQL_REL_TITLE&ISGLB=0&GQ=the+christmasaurus">Tom Fletcher - <cite>The Christmasaurus</cite></a></h3>
 
-<em>"<cite>The Christmasaurus</cite> is a story about a boy named William Trundle, and a dinosaur, the Christmasaurus. It's about how they meet one Christmas Eve and have a magical adventure. It's about friendship and families, sleigh bells and Santa, singing elves and flying reindeer, music and magic. It's about discovering your heart's true desire, and learning that the impossible might just be possible."</em>
+> "<cite>The Christmasaurus</cite> is a story about a boy named William Trundle, and a dinosaur, the Christmasaurus. It's about how they meet one Christmas Eve and have a magical adventure. It's about friendship and families, sleigh bells and Santa, singing elves and flying reindeer, music and magic. It's about discovering your heart's true desire, and learning that the impossible might just be possible."
 
 As well as writing songs for McFly, Tom Fletcher loves dinosaurs, and has written a whole series of picture books about <cite>The Dinosaur That Pooped</cite>. Right at the end of <cite>The Christmasaurus</cite> Tom has written some Christmassy dinosaur lyrics.
