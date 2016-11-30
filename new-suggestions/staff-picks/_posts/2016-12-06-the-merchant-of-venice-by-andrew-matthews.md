@@ -7,7 +7,7 @@ category: staff-picks
 excerpt: "Young library customers Katie and Olivia really enjoyed this retelling of Shakespeare's Venetian play"
 featured-image: /images/featured/featured-merchant-of-venice.jpg
 featured-alt: The Merchant of Venice
-featured-link-text: Read Katie and Olivia Mitton's review of <cite>The Merchant of Venice: A Shakespeare Story</cite>by Andrew Matthews and Tony Ross.
+featured-link-text: "Read Katie and Olivia Mitton's review of <cite>The Merchant of Venice: A Shakespeare Story</cite>by Andrew Matthews and Tony Ross."
 breadcrumb: staff-picks
 ---
 
