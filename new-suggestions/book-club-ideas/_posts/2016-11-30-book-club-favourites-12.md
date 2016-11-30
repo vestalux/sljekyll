@@ -11,7 +11,7 @@ featured-link-text: See our latest recommendations for book clubs.
 breadcrumb: book-club-ideas
 ---
 
-![The Tea Planter's Wife, The Night Circus, The Buried Giant](/images.featured/featured-book-club-12)
+![The Tea Planter's Wife, The Night Circus, The Buried Giant](/images/featured/featured-book-club-12)
 
 ## [<cite>The Tea Planter's Wife</cite> by Dinah Jefferies](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1747725)
 
