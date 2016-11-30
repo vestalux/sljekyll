@@ -5,6 +5,9 @@ date: 2016-12-05
 author: lisa-brennan
 category: music
 excerpt: "Getting into the spirit of the season, holding a Christmas party, or looking for music to listen to while opening your presents? Look no further than these digital titles you can access for free with your library card"
+featured-image: /images/featured/featured-xmas-music-740.jpg
+featured-alt: She & Him, Mariah Carey
+featured-link-text: Check out the Christmassy music you can access on Freegal.
 breadcrumb: music
 ---
 

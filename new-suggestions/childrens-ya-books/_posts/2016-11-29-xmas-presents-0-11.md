@@ -99,6 +99,6 @@ This little Usborne lift-the-flap book appears to be aimed at babies because of 
 
 <h3>Piotr Socha &amp; Wojciech Grajkowski - <cite>The Book of Bees</cite></h3>
 
-*"How do bees communicate? What does a beekeeper do? Did you know that Napoleon loved bees? Who survived being stung by 2,443 bees? This book answers all these questions and many more, tracking the history of bees from the time of the dinosaurs to their current plight."*
+> "How do bees communicate? What does a beekeeper do? Did you know that Napoleon loved bees? Who survived being stung by 2,443 bees? This book answers all these questions and many more, tracking the history of bees from the time of the dinosaurs to their current plight."
 
 Filled with amazing illustrations, this is 37cm of beautiful and fascinating bookishness. It’s a gorgeous object, an heirloom in the making, and a great idea for a Christmas present.
