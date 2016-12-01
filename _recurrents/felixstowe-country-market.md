@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Country market: home grown crafted and made produce"
+recurrent-title: "Country market: home grown crafted and made produce - no session 30 December"
 recurrent-day: Friday
 recurrent-times: 0930-1115
 recurrent-location: felixstowe-library
