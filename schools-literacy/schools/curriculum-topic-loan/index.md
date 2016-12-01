@@ -41,19 +41,19 @@ Complete this form to request a curriculum topic loan from the Literacy, Books a
 
         <p>Choose subject(s) or give details of “other” below</p>
 
-        <label><input type="checkbox" id="subjects" name="subject" value="art"> Art and design</label>
-        <label><input type="checkbox" id="subjects" name="subject" value="citizenship"> Citizenship</label>
-        <label><input type="checkbox" id="subjects" name="subject" value="design"> Design and technology</label>
-        <label><input type="checkbox" id="subjects" name="subject" value="geography"> Geography</label>
-        <label><input type="checkbox" id="subjects" name="subject" value="history"> History</label>
-        <label><input type="checkbox" id="subjects" name="subject" value="ict"> ICT</label>
-        <label><input type="checkbox" id="subjects" name="subject" value="literacy"> Literacy</label>
-        <label><input type="checkbox" id="subjects" name="subject" value="mathematics"> Mathematics</label>
-        <label><input type="checkbox" id="subjects" name="subject" value="mfl"> MFL</label>
-        <label><input type="checkbox" id="subjects" name="subject" value="music"> Music</label>
-        <label><input type="checkbox" id="subjects" name="subject" value="re"> RE</label>
-        <label><input type="checkbox" id="subjects" name="subject" value="science"> Science</label>
-        <label><input type="checkbox" id="subjects" name="subject" value="other"> Other</label>
+        <label><input type="checkbox" id="subjects" name="subject1" value="art"> Art and design</label>
+        <label><input type="checkbox" id="subjects" name="subject2" value="citizenship"> Citizenship</label>
+        <label><input type="checkbox" id="subjects" name="subject3" value="design"> Design and technology</label>
+        <label><input type="checkbox" id="subjects" name="subject4" value="geography"> Geography</label>
+        <label><input type="checkbox" id="subjects" name="subject5" value="history"> History</label>
+        <label><input type="checkbox" id="subjects" name="subject6" value="ict"> ICT</label>
+        <label><input type="checkbox" id="subjects" name="subject7" value="literacy"> Literacy</label>
+        <label><input type="checkbox" id="subjects" name="subject8" value="mathematics"> Mathematics</label>
+        <label><input type="checkbox" id="subjects" name="subject9" value="mfl"> MFL</label>
+        <label><input type="checkbox" id="subjects" name="subject10" value="music"> Music</label>
+        <label><input type="checkbox" id="subjects" name="subject11" value="re"> RE</label>
+        <label><input type="checkbox" id="subjects" name="subject12" value="science"> Science</label>
+        <label><input type="checkbox" id="subjects" name="subject13" value="other"> Other</label>
 
         <h1>Requirements</h1>
 
