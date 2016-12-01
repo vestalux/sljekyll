@@ -32,3 +32,7 @@ breadcrumb: films-dvds
 ## [<cite>Pete's Dragon</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2098839)
 
 > "David Lowery directs this Disney fantasy adventure remake starring Bryce Dallas Howard, Oakes Fegley and Robert Redford. Young boy Pete (Fegley) has lived in a forest for the last 6 years alongside his best friend, a dragon called Elliot (voice of John Kassir). When forest ranger Grace (Dallas Howard) discovers the boy she takes him home with her, hoping to help find his family. She soon learns of the dragon's existence and, when he comes under threat from a hunter (Karl Urban), Pete, Grace, her father (Redford) and lumber mill owner (Wes Bentley)'s daughter Natalie (Oona Laurence) set out to protect him."
+
+## [<cite>War Dogs</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2071061)
+
+> "Todd Phillips directs and co-writes this biographical comedy based on the book by Guy Lawson. Jonah Hill and Miles Teller play Efraim Diveroli and David Packouz, two arms dealers who win a Pentagon contract worth $300 million to supply weapons to US troops and allies in Afghanistan. Of course, it isn't long before they're in hot water both in Afghanistan and back home."
