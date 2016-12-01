@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: New films and DVDs for December 2016
-date: 2016-12-02
+date: 2016-12-01
 author: brandon-king
 category: films-dvds
 excerpt: "Featuring <cite>Suicide Squad</cite>, <cite>Absolutely Fabulous: The Movie</cite> and <cite>Bad Moms</cite>."
