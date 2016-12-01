@@ -47,6 +47,8 @@ The loan consists of a box of up to 8 related/themed artefacts to support curric
         <label>Tell us which artefact boxes you need</label>
         <textarea name="message" class="border-box w-100"></textarea>
 
+        <p class="dn"><input name="bot-field"></p>
+
         <button type="submit" class="pure-button pure-button-primary">Submit</button>
 
 </form>

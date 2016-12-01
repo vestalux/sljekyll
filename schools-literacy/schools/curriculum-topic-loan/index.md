@@ -14,14 +14,14 @@ Complete this form to request a curriculum topic loan from the Literacy, Books a
 
         <h1>Contact details</h1>
 
-        <label>School name</label>
-        <input type="text" name="school-name">
+        <label>School name <span class="red">*</span></label>
+        <input type="text" required name="school-name">
 
-        <label>Teacher requesting topic box</label>
-        <input type="text" name="teacher-name">
+        <label>Teacher requesting topic box <span class="red">*</span></label>
+        <input type="text" required name="teacher-name">
 
-        <label>Email address</label>
-        <input type="email" name="email">
+        <label>Email address <span class="red">*</span></label>
+        <input type="email" required name="email">
 
         <h1>Group details</h1>
 
