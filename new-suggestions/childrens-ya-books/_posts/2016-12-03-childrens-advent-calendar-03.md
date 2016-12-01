@@ -11,6 +11,6 @@ tag: childrens-advent
 breadcrumb: childrens-ya-books
 ---
 
-Every day until Christmas Eve, stock team member and book expert Jo Dixon will recommend a great title for children or young adults. Today's book is <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=562291"><cite>Mad Iris</cite></a>, by Jeremy Strong.
+Every day until Christmas Eve, stock team member and book expert Jo Dixon will recommend a great title for children. Today's book is <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=562291"><cite>Mad Iris</cite></a>, by Jeremy Strong.
 
 This is the hilarious story of an escaped ostrich, who Ross and Katie attempt to hide in the school toilets. Slapstick humour, action aplenty and strong characters make this a classic Jeremy Strong story. Even better, this book is dyslexia-friendly.
