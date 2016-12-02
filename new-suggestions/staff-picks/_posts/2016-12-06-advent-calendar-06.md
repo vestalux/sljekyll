@@ -4,7 +4,7 @@ title: "<cite>The BFG</cite>"
 date: 2016-12-06
 author: kate-bacon
 category: staff-picks
-excerpt: "Bookstart administator Kate Bacom recommends the film <cite>The BFG</cite>."
+excerpt: "Bookstart administator Kate Bacon recommends the film <cite>The BFG</cite>."
 featured-image: /images/featured/featured-bfg.jpg
 featured-alt: The BFG
 tag: advent
