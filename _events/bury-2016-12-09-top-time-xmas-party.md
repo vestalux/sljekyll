@@ -10,4 +10,4 @@ event-category: older
 breadcrumb: y
 ---
 
-Older people are invited to a Christmas celebration at the library during our customary Top Time slot.
+Join us for food, drink and Christmas cheer, featuring The Horringer & Ickworth WI bell ringers.

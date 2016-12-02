@@ -10,4 +10,4 @@ event-category: older
 breadcrumb: y
 ---
 
-Older people are invited to have a go at circle dancing.
+Older people are invited to have a go at circle dancing for Christmas.

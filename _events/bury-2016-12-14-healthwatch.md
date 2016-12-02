@@ -10,4 +10,4 @@ event-category: health
 breadcrumb: y
 ---
 
-Drop in for some health advice in the library foyer.
+Come along and get your voice heard on topics affecting your local health services.

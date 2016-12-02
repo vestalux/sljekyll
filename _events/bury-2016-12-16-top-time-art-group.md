@@ -10,4 +10,4 @@ event-category: older
 breadcrumb: y
 ---
 
-Arts and crafts for older people.
+Bring your own art and craft project and share a skill with others.

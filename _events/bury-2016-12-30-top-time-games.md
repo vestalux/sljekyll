@@ -10,4 +10,4 @@ event-category: older
 breadcrumb: y
 ---
 
-Older people are invited to come to the library to play board or card games.
+Older people are invited to come to the library to play board games.

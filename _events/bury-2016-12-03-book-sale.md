@@ -11,4 +11,4 @@ breadcrumb: y
 
 Book sale to raise funds for the library.
 
-The Friends will also be presenting the library with new children's chairs as a result of their fundraising efforts.
+The Friends will also be presenting the library with colourful new children's chairs bought with the proceeds of previous book sales - thank you for your support.
