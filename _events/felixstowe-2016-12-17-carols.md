@@ -1,6 +1,6 @@
 ---
 id: felixstowe-carols
-name: "Felixstowe Community CHoir perform Christmas songs and carols from the library balcony"
+name: "Felixstowe Community Choir perform Christmas songs and carols from the library balcony"
 location: felixstowe-library
 location-text: Felixstowe Library
 event-start-date: 2016-12-17
