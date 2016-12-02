@@ -1,6 +1,6 @@
 ---
 id: saxmundham-natter
-name: "Have a natter"
+name: "Top Time: have a natter"
 location: saxmundham-library
 location-text: Saxmundham Library
 event-start-date: 2016-12-29
