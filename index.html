@@ -231,7 +231,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
 </section>
 
-{% assign featured_pages = (site.pages|where:"featured","true") %}
+{% assign featured_pages = (site.posts|where:"featured","true") %}
 
 {% for post in featured_pages limit:1 %}
 
@@ -243,7 +243,7 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
             <p class="ma0 mb3 {% include /c/prose.html %}">{{ post.featured-excerpt }}</p>
 
-            <p class="b"><a class="blue" href="{{ post.url }}">{{ post.featured-link-text }}&rarr;</a></p>
+            <p class="b"><a class="blue" href="{{ post.url }}">{{ post.featured-link-text }} &rarr;</a></p>
 
         </div>
 

@@ -6,7 +6,7 @@ author: jo-dixon
 category: childrens-ya-books
 excerpt: "Today's book is <cite>I'll Wait, Mr Panda</cite>, by Steve Antony"
 featured-image: /images/featured/featured-mr-panda.jpg
-featured-alt: I'll Wait, Mr Panda
+featured-alt: "I'll Wait, Mr Panda"
 tag: childrens-advent
 breadcrumb: childrens-ya-books
 ---

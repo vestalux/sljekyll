@@ -1,12 +1,12 @@
 ---
 layout: sidebar-right
-title: Christmassy children's books for 2016
+title: "Christmassy children's books for 2016"
 date: 2016-11-29
 author: jo-dixon
 category: childrens-ya-books
 excerpt: "Sensory books for babies, picture books for young children, and stories for juniors and young teens feature in this festive round-up"
 featured-image: /images/featured/featured-xmas-titles.jpg
-featured-alt: Elmer's Christmas, Winnie and Wilbur Meet Santa, The Cat Who Ate Christmas
+featured-alt: "Elmer's Christmas, Winnie and Wilbur Meet Santa, The Cat Who Ate Christmas"
 featured-link-text: See our suggestions for Christmassy books your children can read with you or by themselves.
 top-feature: true
 breadcrumb: childrens-ya-books

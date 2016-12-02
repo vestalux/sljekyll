@@ -15,11 +15,11 @@
 
 	{% elsif page.url contains "/events/" %}
 
-		<title>{{ page.name }} &#8211; Suffolk Libraries</title>
+		<title>{{ page.name | strip_html  }} &#8211; Suffolk Libraries</title>
 
 	{% else %}
 
-    	<title>{{ page.title}} &#8211; Suffolk Libraries</title>
+    	<title>{{ page.title | strip_html }} &#8211; Suffolk Libraries</title>
 
 	{% endif %}
 
