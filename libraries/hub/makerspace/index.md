@@ -14,77 +14,9 @@ hnav: hub
 
 	<div class="custom-prose custom-lh-copy">
 
-		<p>An open, friendly public space to design and create. Includes two 3D printers, a 3D scanner, two computer coding kits and two professional sewing machines. <a href="https://www.3dhubs.com/what-is-3d-printing">Find out more about 3D printing</a>.</p>
+		<p>An open, friendly public space to design and create. Includes two computer coding kits and two professional sewing machines.</a>.</p>
 
-		<div class="{% include /c/generic-panel.html %}"><p class="ma0">Experienced with fashion and textile design, coding or 3D printers? We’re looking for skilled and enthusiastic volunteers to help support the MakerSpace. Contact us at <strong>hub@suffolklibraries.co.uk</strong> or call <strong>01473 263827</strong> to get involved.</p></div>
-
-		<h2>Cubify Pro Duo 3D Printer (materials included)</h2>
-
-		<p><img  src="/images/article/cubifyduo.jpg" alt="Cubify Pro Duo 3D Printer"></p>
-
-		<table class="pure-table">
-		<thead>
-		<tr>
-		<th>Advance booking (per hour)</th>
-		<th>Walk-in booking (per hour)</th>
-		</tr>
-		</thead>
-		<tbody>
-		<tr>
-		<td>£16</td>
-		<td>£18</td>
-		</tr>
-		</tbody>
-		</table>
-
-		<p>The CubePro Duo by 3D Systems is a professional desktop 3D printer with a large build size and an enclosed heated chambers, which helps to create a controlled environment for more consistent print performance.</p>
-
-		<p>The CubePro has dual extruders capable of printing in PLA, ABS and Nylon materials in cartridge form, making it ideal for engineering applications such as jigs, fixtures and larger prototypes.</p>
-
-		<p>Features:</p>
-
-		<ul>
-			<li>Large build size: 243mm (W), 270mm (D), 230mm (H)</li>
-			<li>Dual colour and material print capabilities</li>
-			<li>USB connectivity</li>
-			<li>Wi-Fi capabilities</li>
-			<li>Dedicated desktop computer with Cubify Invent software installed</li>
-			<li>Reasonable usage of CubePro cartridges included in rate</li>
-			<li>Desktop and Sense Scanner: Free for 3D Print users, first come first serve basis, reserve via hub@suffolklibraries.co.uk</li>
-		</ul>
-
-		<h2>Cubify 3D Printer (materials included)</h2>
-
-		<p><img  src="/images/article/cubify.jpg" alt="Cubify 3D Printer"></p>
-
-		<table class="pure-table">
-		<thead>
-		<tr>
-		<th>Advance booking (per hour)</th>
-		<th>Walk-in booking (per hour)</th>
-		</tr>
-		</thead>
-		<tbody>
-		<tr>
-		<td>£8</td>
-		<td>£10</td>
-		</tr>
-		</tbody>
-		</table>
-
-		<p>The Cube 3 is ideal for producing small prototypes and models quickly. With USB and Wi-Fi connectivity, the Cube 3 allows multiple users to access the print and is capable of dual material (ABS and PLA) as well as dual-cloud printing. Each material cartridge has a preloaded filament jet, which simplifies the process of switching colours and cartridges.</p>
-
-		<p>Features:</p>
-
-		<ul>
-			<li>Build size: 152mm (W), 152mm (D), 152mm (H)</li>
-			<li>Dual colour and material print capabilities</li>
-			<li>USB connectivity</li>
-			<li>Wi-Fi capabilities</li>
-			<li>Prep and print from your smartphone using the Cubify app</li>
-			<li>Reasonable usage of Cube 3 cartridges included in rate</li>
-			<li>Desktop and Sense Scanner: Free for 3D Print users, first come first serve basis, reserve via hub@suffolklibraries.co.uk</li>
-		</ul>
+		<div class="{% include /c/generic-panel.html %}"><p class="ma0">Experienced with fashion and textile design, or coding? We’re looking for skilled and enthusiastic volunteers to help support the MakerSpace. Contact us at <strong>hub@suffolklibraries.co.uk</strong> or call <strong>01473 263827</strong> to get involved.</p></div>
 
 		<h2>KANO Raspberry Pi Kit</h2>
 
