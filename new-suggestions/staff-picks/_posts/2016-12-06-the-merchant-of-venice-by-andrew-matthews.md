@@ -13,6 +13,8 @@ breadcrumb: staff-picks
 
 ![The Merchant of Venice](/images/featured/featured-merchant-of-venice.jpg)
 
+**[See <cite>The Merchant of Venice: A Shakespeare Story</cite> in our catalogue](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=429094).**
+
 This story takes place in Venice in Italy. It is about two great friends and what their friendship means to them. One of the friends borrows some money from a moneylender but he agrees to some gruesome consequences if he doesn’t pay the money back by a certain time. There is also a beautiful love story within this book.
 
 One of the main characters is Antonio, a successful merchant. He is a brave, considerate and merciful man. Bassanio is Antonio’s best friend. He is in love with Portia. He is very loyal and always there for Antonio. Shylock is a moneylender who is a selfish and cold-hearted man. Our favourite characters are Portia, a noblewoman of Belmont and Antonio the merchant. We particularly liked these characters because they are both helpful and kind. They have great personalities and are the type of people we would like to meet in real life.

@@ -13,6 +13,8 @@ breadcrumb: staff-picks
 
 ![Bus Stop Baby](/images/featured/featured-bus-stop-baby.jpg)
 
+**[See <cite>Bus Stop Baby</cite> in our catalogue](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1983629).**
+
 Highbury Upton is a sleepy, rural town where nothing ever happens. That is until Amy hears a strange mewling noise coming from the bus shelter on her way home. She finds a tiny baby left all alone. As Amy delves into the past to find the baby’s mother, she stumbles on a secret hidden long ago that will change everything.
 
 <cite>Bus Stop Baby</cite> is a touching story about friendship, family and abandonment. It is very truthful about the highs and lows of teenage friendship, with minor disagreements being worked up into major arguments. While most books look at school through a rose-tinted lens, this book does not, which is a nice change from your standard pre-teen fare.

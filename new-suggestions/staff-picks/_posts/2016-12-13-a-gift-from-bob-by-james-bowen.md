@@ -13,6 +13,8 @@ breadcrumb: staff-picks
 
 ![A Gift From Bob](/images/featured/featured-gift-from-bob.jpg)
 
+**[See <cite>A Gift From Bob</cite> in our catalogue](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1655736).**
+
 With the fabulous film <cite>A Street Cat Named Bob</cite> now showing locally, I just had to read this seasonal sequel from James Bowen in the lead up to Christmas. The book’s subtitle is: "How a Street Cat Helped One Man Learn the Meaning of Christmas" but I have my own: "Bob is the Gift that Keeps on Giving".
 
 The story starts with James and Bob partying with London’s social elite in 2013, where Bob is undoubtedly the star of the show, the one everyone wants to meet. Having thrown off the traumas of unhappy childhood Christmases and later relying on the generosity of Shelter for a turkey dinner, James reflects on how his life has changed since he found Bob lying injured in a doorway six years before.
