@@ -1,0 +1,49 @@
+---
+layout: sidebar-right
+title: "What&#8217;s new"
+breadcrumb: home
+---
+
+{% assign featured_pages = (site.posts|where:"top-feature","true") %}
+
+{% for post in featured_pages limit:1 %}
+
+   <article class="pb2 pb3-ns">
+
+        <h1 class="{% include /c/block-title.html %}"><a href="{{ post.url }}" class="{% include /c/block-title-link.html %}">{{ post.title }}</a></h1>
+
+        <a class="white link no-underline" href="{{ post.url }}"><img class="custom-constrain-img" src="{{ post.featured-image }}" alt="{{ post.featured-alt }}"></a>
+
+        <p class="{% include /c/block-graf.html %}">{{ post.excerpt }} <a class="blue" href="{{ post.url }}">{{ post.featured-link-text }} &rarr;</a></p>
+
+    </article>
+
+{% endfor %}
+
+<div class="custom-flex-container">
+
+{% assign featured_pages = (site.posts) %}
+
+{% for post in featured_pages limit:6 %}
+
+    {% if post.category == 'childrens-ya-books' or post.category == 'booked-out' or post.category == 'meet-the-author' or post.category == 'staff-picks' or post.category == 'fiction' or post.category == 'films-dvds' or post.category == 'music' or post.category == 'non-fiction' %}
+
+        {% unless post.top-feature %}
+
+            <article class="custom-flex-row-content-2 pb3">
+
+                <a class="white link no-underline" href="{{ post.url }}"><img class="custom-constrain-img" src="{{ post.featured-image }}" alt="{{ post.featured-alt }}"></a>
+
+                <h1 class="f5 fw6 ma0 pa0 mb2"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+
+                <p class="{% include /c/block-graf.html %}">{{ post.excerpt }} <a class="blue" href="{{ post.url }}">{{ post.featured-link-text }} &rarr;</a></p>
+
+            </article>
+
+        {% endunless %}
+
+    {% endif %}
+
+{% endfor %}
+
+</div>
