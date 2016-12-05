@@ -4,7 +4,7 @@ name: "Friends of Haverhill Library Christmas quiz sheet"
 location: haverhill-library
 location-text: Haverhill Library
 event-start-date: 2016-12-05
-event-end=date: 2017-01-06
+event-end-date: 2017-01-06
 event-ticket-price: 1
 event-category: christmas
 breadcrumb: y
@@ -17,3 +17,5 @@ Pick up a Christmas quiz sheet suitable for all the family. Have fun picking you
 2nd prize: £15 book token courtesy of Friends of Haverhill Library.
 
 3rd prize: 4 x DVD/CD library vouchers courtesy of Suffolk Libraries.
+
+Return your entry to the library by 6 January 2017.
