@@ -4,7 +4,7 @@ title: 'Meet the Author: Peter Lovesey'
 date: 2016-12-06
 author: brandon-king
 category: meet-the-author
-excerpt: 'Peter Lovesey explains how he discovered true crime at the age of 8 after his family's home was hit by a Doodlebug, how his crime-writing career began with winning a competition, and why you should submit stock suggestions to your local library service.'
+excerpt: "Peter Lovesey explains how he discovered true crime at the age of 8 after his family's home was hit by a Doodlebug, how his crime-writing career began with winning a competition, and why you should submit stock suggestions to your local library service."
 featured-image: /images/featured/featured-peter-lovesey.jpg
 featured-alt: Peter Lovesey
 featured-link-text: Read our Meet the Author interview with Peter Lovesey
