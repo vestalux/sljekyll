@@ -19,7 +19,7 @@ breadcrumb: music
 
 A new album from the Stones is always an event. This one harks back to the early days of the band when they used to cover songs by classic bluesmen. This time round the songs include Howlin' Wolf (<cite>Commit a Crime</cite>), Little Walter (<cite>I Gotta Go</cite>) and Jimmy Reed (<cite>Little Rain</cite>). Eric Clapton guests on the group's cover of Little Johnny Taylor's <cite>Everybody Knows About My Good Thing</cite> and Otis Rush's <cite>I Can't Quit You Baby</cite>.
 
-<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY=oxygene+3&ENTRY_NAME=BS&ENTRY_TYPE=K&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FOPAC%2FBSEARCH%3FHOMEPRMS%3DBSEARCHPARAMS&SORTS=SQL_REL_TITLE&GQ=oxygene+3">Jean-Michael Jarre - <cite>Oxygene 3</cite></a></h3>
+<h3><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY=oxygene+3&ENTRY_NAME=BS&ENTRY_TYPE=K&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FOPAC%2FBSEARCH%3FHOMEPRMS%3DBSEARCHPARAMS&SORTS=SQL_REL_TITLE&GQ=oxygene+3">Jean-Michel Jarre - <cite>Oxygene 3</cite></a></h3>
 
 40 years after the huge international success of <cite>Oxygene</cite>, and 20 years from its second volume <cite>Oxygene 7-13</cite>, Jean-Michel Jarre is fulfilling a trilogy of albums with <cite>Oxygene 3</cite>, containing seven newly composed and recorded pieces, consistently titled parts 14-20. Jarre references some of the music from his entire body of work on <cite>Oxygene 3</cite>. It’s a state-of-the-art recording which embraces both classic and modern ways of music production.
 
