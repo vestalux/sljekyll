@@ -9,6 +9,11 @@ alice-violett:
     img: /images/authors/alice-violett.jpg
     bio: I write and edit content for the Suffolk Libraries website.
 
+alison-catchpole:
+    name: Alison Catchpole
+    job: staff member at Gainsborough
+    bio: I work at Gainsborough Library
+
 alison-wheeler:
     name: Alison Wheeler
     job: general manager
@@ -198,6 +203,11 @@ matt-shenton:
     job: literacy ambassador
     img: /images/authors/matt-shenton.jpg
     bio: I’m the Literacy Ambassador for Suffolk Libraries. Follow my travels around the glorious county of Suffolk <a href="http://www.twitter.com/mjes">@mjes</a>
+
+natasha-catchpole:
+    name: Natasha Catchpole
+    job: staff at Bury St Edmunds
+    bio: I work at Bury St Edmunds Library.
 
 nicky-evans:
     name: Nicky Evans

@@ -5,6 +5,9 @@ date: 2016-11-10
 author: brandon-king
 category: films-dvds
 excerpt: "Featuring <cite>The Secret Life of Pets</cite>, <cite>Jason Bourne</cite> and <cite>Star Trek Beyond</cite>."
+featured-image: /images/featured/featured-november-dvds-740.jpg
+featured-alt: Finding Dory and The BFG
+featured-link-text: Check out our new films and DVDs for November 2016.
 breadcrumb: films-dvds
 ---
 

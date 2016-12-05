@@ -1,6 +1,6 @@
 ---
 id: saxmundham-drink-chat
-name: "Drink and chat"
+name: "Top Time: drink and chat"
 location: saxmundham-library
 location-text: Saxmundham Library
 event-start-date: 2016-12-22

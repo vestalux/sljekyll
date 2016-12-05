@@ -5,6 +5,10 @@ date: 2016-11-22
 author: brandon-king
 category: meet-the-author
 excerpt: 'Dame Hilary Mantel tells us why she chose to write about Thomas Cromwell, the advantages of writing short stories in the first person, and the importance of using, celebrating and promoting your local library.'
+featured-image: /images/featured/featured-hilary-mantel-2.jpg
+featured-alt: Dame Hilary Mantel
+featured-link-text: Read our Meet the Author interview with Hilary Mantel.
+top-feature: true
 breadcrumb: meet-the-author
 top-feature: true
 featured-image: /images/featured/featured-hilary-mantel-2.jpg

@@ -27,6 +27,8 @@
 /woodbridge /branches/woodbridge-library
 /writes /events-activities/suffolk-writes
 /lowestoft-festival /events-activities/lowestoft-library-literary-festival
+/advent-calendar /new-suggestions/staff-picks/advent-calendar-2016/
+/childrens-advent-calendar /new-suggestions/childrens-ya-books/childrens-advent-calendar-2016/
 
 /announcements/* /news/:splat
 /category/blog/* /blog/:splat

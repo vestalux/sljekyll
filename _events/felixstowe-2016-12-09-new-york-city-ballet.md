@@ -7,7 +7,7 @@ excerpt: "In the New York City Ballet’s famously extravagant staging of Tchaik
 event-start-date: 2016-12-09
 event-doors-open: 1830
 event-start-time: 1900
-event-ticket-price: 7.50 (advance bookings only)
+event-ticket-price: ' <span class="pa2 bg-red white">Sold out!</span>'
 event-image-small: article/presents-the-nutcracker.jpg
 event-category: presents
 breadcrumb: y

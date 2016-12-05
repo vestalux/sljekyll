@@ -5,12 +5,15 @@ date: 2016-10-24
 author: brandon-king
 category: fiction
 excerpt: New titles from Lee Child, Zadie Smith and Jodi Picoult
+featured-image: /images/featured/featured-november-fiction-740.jpg
+featured-alt: Small Great Things, Rather Be The Devil and Swing Time
+featured-link-text: Check out our new fiction titles for November 2016
 breadcrumb: fiction
 featured-image: /images/featured/featured-a-god-in-ruins.jpg
 featured-alt: A God in Ruins
 ---
 
-![Jack Reacher, Jodi Picoult, Ian Rankin and Zadie Smith](/images/featured/featured-november-fiction.jpg)
+![Jack Reacher, Small Great Things, Rather Be The Devil and Swing Time](/images/featured/featured-november-fiction.jpg)
 
 <h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12017763?QRY=CTIBIB%3C%20IRN(26382)&QRYTEXT=Night%20school"><cite>Night School</cite>, by Lee Child</a></h2>
 
