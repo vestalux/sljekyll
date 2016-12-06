@@ -7,7 +7,7 @@ category: staff-picks
 excerpt: "Helen is impressed by Rebanks' realistic viewpoint and various talents."
 featured-image: /images/featured/featured-the-shepherds-life.jpg
 featured-alt: The Shepherd's Life
-featured-link-text: Read Helen Scrivener's review of <cite>The Shepherd's Life: a tale of the Lake District</cite>, by James Rebanks.
+featured-link-text: "Read Helen Scrivener's review of <cite>The Shepherd's Life: a tale of the Lake District</cite>, by James Rebanks."
 breadcrumb: staff-picks
 ---
 
