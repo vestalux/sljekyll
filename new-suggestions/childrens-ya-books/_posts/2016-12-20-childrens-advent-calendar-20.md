@@ -6,7 +6,7 @@ author: jo-dixon
 category: childrens-ya-books
 excerpt: "Today's book is <cite>Wigglesbottom Primary: The Magic Hamster</cite>, by Pamela Butchart &amp; Becka Moor."
 featured-image: /images/featured/featured-magic-hamster.jpg
-featured-alt: Wigglesbottom Primary: The Magic Hamster
+featured-alt: "Wigglesbottom Primary: The Magic Hamster"
 tag: childrens-advent
 breadcrumb: childrens-ya-books
 ---
