@@ -35,6 +35,11 @@ andrew-miller:
     job: library and information advisor
     bio: I'm a library and information advisor.
 
+  audrey-woodley:
+    name: Audrey Woodley
+    job: enquiry officer
+    bio: I'm an enquiry officer at Haverhill Library
+
 bev-dann:
     name: Bev Dann
     job: library and information advisor
@@ -108,6 +113,11 @@ emily-mitchell:
     job: book reviewer
     bio: I'm a library volunteer.
 
+gayla-rowling:
+    name: Gayla Rowling
+    job: library manager
+    bio: I'm the library manager at Leison Library
+
 germaine-bates:
     name: Germaine Bates
     job: stock assistant
@@ -133,6 +143,11 @@ helen-haynes:
     job: information and content librarian
     img: /images/authors/helen-haynes.jpg
     bio: I'm an information and content librarian.
+
+helen-kerridge:
+    name: Helen Kerridge
+    job: library and information advisor
+    bio: I'm a library and information advisor.
 
 helen-scrivener:
     name: Helen Scrivener
