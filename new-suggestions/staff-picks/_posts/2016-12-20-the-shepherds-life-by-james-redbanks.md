@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: The Shepherd's Life: a tale of the Lake District by James Rebanks
+title: "The Shepherd's Life: a tale of the Lake District by James Rebanks"
 date: 2016-12-20
 author: helen-scrivener
 category: staff-picks
