@@ -4,27 +4,33 @@ title: "What&#8217;s new"
 breadcrumb: home
 ---
 
+<p class="f4">Book, music and DVD lists, staff and customer reviews and articles on reading. Never miss a new post: <a href="/newsletter/">Subscribe to our monthly newsletter</a>, <a href="https://twitter.com/suffolklibrary">follow us on Twitter</a> and <a href="https://facebook.com/suffolklibraries/">like us on Facebook</a>.</p>
+
 {% assign featured_pages = (site.posts|where:"top-feature","true") %}
 
 {% for post in featured_pages limit:1 %}
 
    <article class="pb2 pb3-ns">
 
-        <h1 class="{% include /c/block-title.html %}"><a href="{{ post.url }}" class="{% include /c/block-title-link.html %}">{{ post.title }}</a></h1>
+       <div class="{% include /c/generic-panel.html %}">
 
-        <a class="white link no-underline" href="{{ post.url }}"><img class="custom-constrain-img" src="{{ post.featured-image }}" alt="{{ post.featured-alt }}"></a>
+            <h1 class="{% include /c/block-title.html %}"><a href="{{ post.url }}" class="{% include /c/block-title-link.html %}">{{ post.title }}</a></h1>
 
-        <p class="{% include /c/block-graf.html %}">{{ post.excerpt }} <a class="blue" href="{{ post.url }}">{{ post.featured-link-text }} &rarr;</a></p>
+            <a class="light-gray link custom-no-underline" href="{{ post.url }}"><img class="custom-constrain-img" src="{{ post.featured-image }}" alt="{{ post.featured-alt }}"></a>
+
+            <p class="{% include /c/block-graf.html %}">{{ post.excerpt }} <a class="blue" href="{{ post.url }}">{% if post.featured-link-text %}{{ post.featured-link-text }} {% else %}Read more {% endif %} &rarr;</a></p>
+
+        </div>
 
     </article>
 
 {% endfor %}
 
-<div class="custom-flex-container">
+<section class="custom-flex-container">
 
 {% assign featured_pages = (site.posts) %}
 
-{% for post in featured_pages limit:6 %}
+{% for post in featured_pages limit:7 %}
 
     {% if post.category == 'childrens-ya-books' or post.category == 'booked-out' or post.category == 'meet-the-author' or post.category == 'staff-picks' or post.category == 'fiction' or post.category == 'films-dvds' or post.category == 'music' or post.category == 'non-fiction' %}
 
@@ -32,11 +38,11 @@ breadcrumb: home
 
             <article class="custom-flex-row-content-2 pb3">
 
-                <a class="white link no-underline" href="{{ post.url }}"><img class="custom-constrain-img" src="{{ post.featured-image }}" alt="{{ post.featured-alt }}"></a>
+                <a class="white link custom-no-underline" href="{{ post.url }}"><img class="custom-constrain-img" src="{{ post.featured-image }}" alt="{{ post.featured-alt }}"></a>
 
                 <h1 class="f5 fw6 ma0 pa0 mb2"><a href="{{ post.url }}">{{ post.title }}</a></h1>
 
-                <p class="{% include /c/block-graf.html %}">{{ post.excerpt }} <a class="blue" href="{{ post.url }}">{{ post.featured-link-text }} &rarr;</a></p>
+                <p class="{% include /c/block-graf.html %}">{{ post.excerpt }} <a class="blue" href="{{ post.url }}">{% if post.featured-link-text %}{{ post.featured-link-text }} {% else %}Read more {% endif %} &rarr;</a></p>
 
             </article>
 
@@ -46,4 +52,30 @@ breadcrumb: home
 
 {% endfor %}
 
-</div>
+</section>
+
+<section class="pt2 bt b--light-gray">
+
+    <h1 class="f5 fw6 ma0 pa0 mb2">More new in, reviews &amp; articles</h1>
+
+    <ul class="pa0 ma0 list">
+
+        {% assign featured_pages = (site.posts) %}
+
+        {% for post in featured_pages limit:10 | offset:7 %}
+
+            {% if post.category == 'childrens-ya-books' or post.category == 'booked-out' or post.category == 'meet-the-author' or post.category == 'staff-picks' or post.category == 'fiction' or post.category == 'films-dvds' or post.category == 'music' or post.category == 'non-fiction' %}
+
+                {% unless post.top-feature %}
+
+                <li class="f5 mb2"><a href="{{ post.url }}">{{ post.title }}</a>{% if post.author %} posted by {% assign author = site.data.authors[post.author] %}{{ author.name }}{% endif %}</li>
+
+                {% endunless %}
+
+            {% endif %}
+
+        {% endfor %}
+
+    </ul>
+
+</section>
