@@ -23,21 +23,24 @@ One of the factors in our decision to stay with OverDrive is their [new website]
 What's changed?
 
 **Better Browsing:**
-* Simple availability banners
-* New ways to find titles
-* New account-level audience filters
-* The whole digital library on any device
+
+- Simple availability banners
+- New ways to find titles
+- New account-level audience filters
+- The whole digital library on any device
 
 **Easier Borrowing:**
-* More options for signing in
-* Easy-to-customize lending periods
-* Instant access to titles from the details page
-* "Books" icon takes you right to borrowed titles
+
+- More options for signing in
+- Easy-to-customize lending periods
+- Instant access to titles from the details page
+- "Books" icon takes you right to borrowed titles
 
 **Other improved features:**
-* Improvements to placing and retrieving holds
-* Instant recommendations for your library
-* Changes to the renewal process
+
+- Improvements to placing and retrieving holds
+- Instant recommendations for your library
+- Changes to the renewal process
 
 The website is more flexible for staff and will allow us to create different shelf displays and to promote new titles and collections in a more interesting way, just as we do with physical books in a library building.
 
