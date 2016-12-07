@@ -11,7 +11,7 @@ tag: advent
 breadcrumb: staff-picks
 ---
 
-Every day until Christmas Eve, a member of Suffolk Libraries staff will reveal a book, CD or DVD they will be giving as a Christmas present, and why. Today, Lakenheath Library manager Chris Howard recommends <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1673013"><cite>The Last of the Spirits</cite>, by Chris Priestley.
+Every day until Christmas Eve, a member of Suffolk Libraries staff will reveal a book, CD or DVD they will be giving as a Christmas present, and why. Today, Lakenheath Library manager Chris Howard recommends <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1673013"><cite>The Last of the Spirits</cite></a>, by Chris Priestley.
 
 ![The Last of the Spirits](/images/featured/featured-last-of-spirits.jpg)
 

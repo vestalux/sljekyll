@@ -11,7 +11,7 @@ tag: advent
 breadcrumb: staff-picks
 ---
 
-Every day until Christmas Eve, a member of Suffolk Libraries staff will reveal a book, CD or DVD they will be giving as a Christmas present, and why. Today, Leiston Library manager Gayla Rowling recommends <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1983205"><cite>Fresh India: 130 quick, easy and delicious vegetarian recipes for every day</cite>, by Meera Sodha.
+Every day until Christmas Eve, a member of Suffolk Libraries staff will reveal a book, CD or DVD they will be giving as a Christmas present, and why. Today, Leiston Library manager Gayla Rowling recommends <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1983205"><cite>Fresh India: 130 quick, easy and delicious vegetarian recipes for every day</cite></a>, by Meera Sodha.
 
 ![Fresh India](/images/featured/featured-fresh-india.jpg)
 

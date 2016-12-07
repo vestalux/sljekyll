@@ -239,6 +239,11 @@ nilima-banerji:
     job: library and information advisor
     bio: I'm a library and information advisor.
 
+paul-howarth:
+    name: Paul Howarth
+    job: stock and content manager
+    bio: I'm the stock and content manager.
+
 richard-baker:
     name: Richard Baker
     job: library and information advisor
@@ -271,3 +276,8 @@ tanya-collins:
     name: Tanya Collins
     job: enquiry officer
     bio: I'm an enquiry officer at Newmarket Library.
+
+theo-clarke:
+    name: Theo Clarke
+    job: library and information advisor
+    bio: I'm a library and information advisor
