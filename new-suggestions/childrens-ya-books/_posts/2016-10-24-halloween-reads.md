@@ -2,13 +2,9 @@
 layout: sidebar-right
 title: Ten of the best scary reads for Halloween
 author: matt-shenton
-category: literacy
+category: childrens-ya-books
 excerpt: "With Halloween approaching, I thought I would share ten of my favourite scary reads. From dancing skeletons falling apart to an unseen ‘monster’ who imprisons random people in the dark, the following books have truly terrified me at various points in my life. I dare you to try reading one by candlelight!"
-breadcrumb: literacy
-sidebar: literacy
-tags:
-- book-review
-- scary
+breadcrumb: childrens-ya-books
 ---
 
 **With Halloween approaching, I thought I would share ten of my favourite scary reads. From dancing skeletons falling apart to an unseen ‘monster’ who imprisons random people in the dark, the following books have truly terrified me at various points in my life. I dare you to try reading one by candlelight!**

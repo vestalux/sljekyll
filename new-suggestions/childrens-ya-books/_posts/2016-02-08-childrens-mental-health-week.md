@@ -1,17 +1,13 @@
 ---
 layout: sidebar-right
 title: 'Children&#8217;s Mental Health Week'
-date: 2016-02-08 11:02:55+00:00
+date: 2016-02-08
 author: matt-shenton
-category: literacy
+category: childrens-ya-books
 excerpt: "As Children's Mental Health Week begins, we look at two ways that libraries and reading can support the mental well-being of children and young people."
-breadcrumb: literacy
-sidebar: literacy
-tags:
-- cpd-inset-idea
-- education
-- lgbtq
+breadcrumb: childrens-ya-books
 ---
+
 ![Children's Mental Health Week logo](/images/featured/featured-childrens-mental-health-week-2016.jpg)
 
 [Children&#8217;s Mental Health Week](https://www.place2be.org.uk/our-story/childrens-mental-health-week/) starts on the 8 February and the theme for this year is &#8216;building resilience&#8217; and teaching children to &#8216;bounce forward&#8217; from life&#8217;s challenges. Organisers [Place2Be](https://www.place2be.org.uk/) comment that “while we cannot always change children&#8217;s circumstances, we can teach them the skills to cope with the difficulties life throws at them.”
