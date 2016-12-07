@@ -1,16 +1,13 @@
 ---
 layout: sidebar-right
 title: <cite>Buffalo Soldier</cite> by Tanya Landman
-date: 2015-11-02 09:22:20+00:00
+date: 2015-11-02
 author: matt-shenton
-category: literacy
+category: staff-picks
 excerpt: '“What kind of a girl steals the clothes from a dead man’s back and runs off to join the army? A desperate one. That’s who.”'
-breadcrumb: literacy
-sidebar: literacy
-tags:
-- book-review
-- carnegie
+breadcrumb: staff-picks
 ---
+
 ![Buffalo Soldier by Tanya Landman](/images/featured/featured-buffalo-soldier.jpg)
 
 <q>What kind of a girl steals the clothes from a dead man’s back and runs off to join the army? A desperate one. That’s who.</q>

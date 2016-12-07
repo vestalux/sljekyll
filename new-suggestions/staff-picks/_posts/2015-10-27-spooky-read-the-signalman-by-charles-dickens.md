@@ -1,18 +1,13 @@
 ---
 layout: sidebar-right
-title: "Spooky Read: <cite>The Signalman</cite> by Charles Dickens"
-date: 2015-10-27 09:46:10+00:00
+title: The Signalman by Charles Dickens"
+date: 2015-10-27
 author: matt-shenton
-category: literacy
+category: staff-picks
 excerpt: '"Visited by an unnamed narrator, the signalman spends his days stuck in a dark, dank railway cutting that rarely sees light&hellip;"'
-breadcrumb: literacy
-sidebar: literacy
-tags:
-- book-review
-- education
-- halloween
-- scary
+breadcrumb: staff-picks
 ---
+
 ![The Signalman by Charles Dickens](/images/featured/featured-the-signalman.jpg)
 
 Admission number one – I haven’t read that much by Charles Dickens recently. As a child we had a collection (in faux leather!) on the family bookshelves and I dipped into [<cite>Great Expectations</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/993521?QRY=CTIBIB%3C%20IRN(13579)&QRYTEXT=Great%20expectations) and [<cite>A Christmas Carol</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/995465?QRY=CTIBIB%3C%20IRN(2055337)&QRYTEXT=A%20christmas%20carol) but then I moved on. I found them a bit stuffy and long-winded to be honest.
@@ -29,4 +24,4 @@ The short story thrilled and chilled Victorian readers in their millions. It als
 
 As luck would have it, you can watch the episode on YouTube, but I recommend that you first gather around a fire and read this short tale for yourself. The terrifying images Dickens can create in your mind with his word wizardry will be far more chilling…
 
-<cite>The Signal-Man</cite> by Charles Dickens, approx 30 pages, ages 8+
+<cite>The Signalman</cite> by Charles Dickens, approx 30 pages, ages 8+. [Reserve <cite>The Signalman</cite> from Suffolk Libraries](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=448346).
