@@ -235,4 +235,4 @@ Telephone: 01473 263838
 
 **2016:** 8 January, 5 February, 4 March, 1 April, 29 April, 27 May, 24 June, 22 July, 19 August, 16 September, 14 October, 11 November, 9 December
 
-**2016:** 6 January, 3 February
+**2017:** 6 January, 3 February
