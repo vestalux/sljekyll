@@ -28,7 +28,7 @@
 /writes /events-activities/suffolk-writes
 /lowestoft-festival /events-activities/lowestoft-library-literary-festival
 /advent-calendar /new-suggestions/staff-picks/advent-calendar-2016/
-/childrens-advent-calendar /new-suggestions/childrens-ya-books/childrens-advent-calendar-2016/
+/childrens-advent-calendar /parents-carers-and-children/childrens-ya-books/childrens-advent-calendar-2016/
 
 /announcements/* /news/:splat
 /category/blog/* /blog/:splat
@@ -75,5 +75,7 @@
 /blog/meet-the-author* /meet-the-author/meet-the-author:splat
 /schools-literacy/schools/* /schools/:splat
 /schools-literacy/literacy/ /schools/online-resources/:splat
+/schools-literacy/reading-advice/* /parents-carers-and-children/
+/new-suggestions/childrens-ya-books/* /parents-carers-and-children/childrens-ya-books/:splat
 
 /*   /404/index.html   404

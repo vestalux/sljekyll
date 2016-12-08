@@ -1,8 +1,8 @@
 ---
 layout: sidebar-right
 title: Dyslexia and Irlen syndrome
-breadcrumb: reading-advice
-sidebar: reading-advice
+breadcrumb: children-parents
+sidebar: children-parents
 ---
 ## Table of contents
 
