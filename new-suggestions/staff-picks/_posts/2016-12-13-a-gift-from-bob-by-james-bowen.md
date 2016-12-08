@@ -7,7 +7,7 @@ category: staff-picks
 excerpt: "Have tissues at the ready for this instalment of the 'sensitive and moving' rags-to-riches tale of James and his superstar cat."
 featured-image: /images/featured/featured-gift-from-bob.jpg
 featured-alt: A Gift From Bob
-featured-link-text: Read Gill Mason's review of <cite>A Gift From Bob</cite>, by James Bowen.
+featured-link-text: "Read Gill Mason's review of <cite>A Gift From Bob</cite>, by James Bowen."
 breadcrumb: staff-picks
 ---
 

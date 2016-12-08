@@ -4,14 +4,16 @@ title: Panic by Lauren Oliver
 date: 2016-12-22
 author: emily-mitchell
 category: staff-picks
-excerpt: <cite>Panic</cite> meets Lauren Oliver's usual high standards of characterisation and realism.
+excerpt: "<cite>Panic</cite> meets Lauren Oliver's usual high standards of characterisation and realism."
 featured-image: /images/featured/featured-panic.jpg
 featured-alt: Panic
-featured-link-text: Read Emily Mitchell's review of <cite>Panic</cite>, by Lauren Oliver.
+featured-link-text: "Read Emily Mitchell's review of <cite>Panic</cite>, by Lauren Oliver."
 breadcrumb: staff-picks
 ---
 
 ![Panic](/images/featured/featured-panic.jpg)
+
+**[See <cite>Panic</cite> in our catalogue](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1631468).**
 
 <cite>Panic</cite> by Lauren Oliver is a <cite>Hunger Games</cite>-esque YA novel about love, danger and revenge. It follows teenagers Heather and Dodge as they play Panic, a dangerous but legendary game played by graduating seniors in the small, isolated town of Carp. The contestants face both physical and psychological challenges as this edgier take on dares teeters on the edge of anarchy.
 
