@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: Go &#8216;Beyond the Book&#8217; with the author of Cowgirl
+title: "Go &#8216;Beyond the Book&#8217; with the author of <cite>Cowgirl</cite>"
 author: matt-shenton
 excerpt: "We have a look at the very funny Cowgirl and its author G.R. Gemin goes 'Beyond the Book' by answering some of our questions!"
 breadcrumb: schools-resources
