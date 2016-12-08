@@ -7,7 +7,7 @@ category: staff-picks
 excerpt: "A bittersweet novel about Freddie Whitemouse, a young mouse who wishes he was anything but."
 featured-image: /images/featured/featured-freddie-whitemouse.jpg
 featured-alt: The Amazing Adventures of Freddie Whitemouse
-featured-link-text: Read Amanda King's review of <cite>The Amazing Adventures of Freddie Whitemouse</cite>, by Elizabeth Jane Howard.
+featured-link-text: "Read Amanda King's review of <cite>The Amazing Adventures of Freddie Whitemouse</cite>, by Elizabeth Jane Howard."
 breadcrumb: staff-picks
 ---
 

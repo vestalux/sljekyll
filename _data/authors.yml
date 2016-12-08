@@ -37,8 +37,8 @@ andrew-miller:
 
 audrey-woodley:
     name: Audrey Woodley
-    job: enquiry officer
-    bio: I'm an enquiry officer at Haverhill Library
+    job: library and information advisor
+    bio: I'm a library and information advisor.
 
 bev-dann:
     name: Bev Dann
@@ -116,7 +116,7 @@ emily-mitchell:
 gayla-rowling:
     name: Gayla Rowling
     job: library manager
-    bio: I'm the library manager at Leison Library
+    bio: I'm the library manager at Leiston Library
 
 germaine-bates:
     name: Germaine Bates
@@ -164,6 +164,11 @@ henry-golding:
     name: Henry Golding
     job: library and information advisor
     bio: I'm a library and information advisor.
+
+jacky-offord:
+    name: Jacky Offord
+    job: lead advisory librarian
+    bio: I'm the lead advisory librarian for the Literacy, Books and Reading Team for Schools (LBaRTS)
 
 james-powell:
     name: James Powell
@@ -274,8 +279,8 @@ sophie-green:
 
 tanya-collins:
     name: Tanya Collins
-    job: enquiry officer
-    bio: I'm an enquiry officer at Newmarket Library.
+    job: library and information advisorr
+    bio: I'm a library and information advisor.
 
 theo-clarke:
     name: Theo Clarke

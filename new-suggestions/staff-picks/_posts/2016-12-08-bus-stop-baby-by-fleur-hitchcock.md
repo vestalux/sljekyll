@@ -7,7 +7,7 @@ category: staff-picks
 excerpt: "'A touching story about friendship, family and abandonment' for pre-teens."
 featured-image: /images/featured/featured-bus-stop-baby.jpg
 featured-alt: Bus Stop Baby
-featured-link-text: Read Emily Mitchell's review of <cite>BUs Stop Baby</cite>, by Fleur Hitchcock.
+featured-link-text: "Read Emily Mitchell's review of <cite>BUs Stop Baby</cite>, by Fleur Hitchcock."
 breadcrumb: staff-picks
 ---
 
