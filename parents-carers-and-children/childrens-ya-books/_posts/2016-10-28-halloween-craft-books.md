@@ -3,9 +3,9 @@ layout: sidebar-right
 title: Five fiendishly good Halloween-themed arts and crafts books for children
 date: 2016-10-28
 author: alice-violett
-category: blog
+category: childrens-ya-books
 excerpt: "Want to make some Halloween decorations and food with your children, but looking for inspiration and instruction? Our Halloween crafts titles are here to help."
-breadcrumb: blog
+breadcrumb: childrens-ya-books
 ---
 
 ![10 minute Halloween crafts, The Halloween activity book, Drawing book of Halloween, Halloween crafts](/images/featured/featured-halloween-crafts-collage.jpg)

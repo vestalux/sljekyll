@@ -71,7 +71,7 @@ Pastel coloured exercise books alleviate glare from white paper. They are availa
 * Advice for parents of dyslexic children from the [British Dyslexia Association](http://www.bdadyslexia.org.uk/parent)
 * [Being dyslexic](http://www.beingdyslexic.co.uk/) has information for teenage and adult dyslexics
 
-## Tips for searching our catalogue<
+## Tips for searching our catalogue
 
 1. Visit [our catalogue](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/BSEARCH)
 2. Click on [Advanced Search](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/COMB)

@@ -52,9 +52,9 @@ If you have issues with any of the files please email help@suffolklibraries.co.u
 
 ### Other activities
 
-* [Battle of the books](/schools/battle-of-the-books/) - find out what happened when Matt attended a 'Battle of the books' between four Suffolk secondary schools.
+* [Battle of the books](/schools/battle-of-the-books/online-resources/classroom-activities/activities) - find out what happened when Matt attended a 'Battle of the books' between four Suffolk secondary schools.
 * [23 ways to create a non-reading school](/schools/online-resources/classroom-activities/activities/23-ways-to-create-a-non-reading-school/) - a great tongue-in-cheek idea that could be discussed with colleagues at your next CPD/INSET session.
-* [24 hour reading recordschools/online-resources/classroom-activities/activities/24-hour-reading-record/) - keep a record of everything you read in 24 hours, ask your pupils to do the same, and compare your results.
+* [24 hour reading record](schools/online-resources/classroom-activities/activities/24-hour-reading-record/) - keep a record of everything you read in 24 hours, ask your pupils to do the same, and compare your results.
 * [The page 99 test](/schools/online-resources/classroom-activities/activities/the-page-99-test/) - activity where pupils judge whether they want to read a book by looking at page 99.
 * [The Beyond the Book festive quiz](/schools/online-resources/classroom-activities/activities/the-beyond-the-book-festive-quiz/) - Christmas quiz suitable for secondary school age upwards.
 

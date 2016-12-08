@@ -3,9 +3,9 @@ layout: sidebar-right
 title: Inspired by <cite>The Great British Bake Off</cite>? We pick some of the best books to get your family baking
 date: 2016-10-26
 author: alice-violett
-category: blog
+category: childrens-ya-books
 excerpt: "The 2016 series of <cite>The Great British Bake Off</cite> draws to a close tonight. Help your children create their own showstoppers this half-term with these fabulous titles."
-breadcrumb: blog
+breadcrumb: childrens-ya-books
 ---
 
 ![Bake Me A Story, Let's Bake, The Great Fairy Bake Off and Cool Stuff To Bake](/images/featured/featured-baking-books-collage.jpg)
