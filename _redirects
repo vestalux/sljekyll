@@ -76,5 +76,6 @@
 /schools-literacy/literacy/ /schools/online-resources/:splat
 /schools-literacy/reading-advice/* /parents-carers-and-children/
 /new-suggestions/childrens-ya-books/* /parents-carers-and-children/childrens-ya-books/:splat
+/beyond-the-book/* /schools/online-resources/:splat
 
 /*   /404/index.html   404
