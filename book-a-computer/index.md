@@ -43,7 +43,7 @@ If you don't have a card number or don't remember your PIN please contact custom
 - [Long Melford Library](http://78.31.106.220/netloan/Login.aspx)
 - [Lowestoft Library](http://netloan.suffolklibraries.co.uk/)
 - [Mildenhall Library](http://netloan.suffolklibraries.co.uk/)
-- [Needham Market Library](http://netloan.suffolklibraries.co.uk/)
+- [Needham Market Library](http://78.31.106.220/netloan/Login.aspx)
 - [Newmarket Library](http://netloan.suffolklibraries.co.uk/)
 - [Oulton Broad Library](http://78.31.106.220/netloan/Login.aspx)
 - [Rosehill Library](http://netloan.suffolklibraries.co.uk/)
