@@ -42,7 +42,7 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="198">
-      Woodbine Cottage
+      Field House
     </td>
 
     <td valign="bottom" width="97">
@@ -233,4 +233,6 @@ Telephone: 01473 263838
 
 **Calling every 4 weeks on Tuesdays:**
 
-**2016:** 12 January, 9 February, 8 March, 5 April, 3 May, 31 May, 28 June, 26 July, 24 August, 20 September, 18 October, 15 November, 13 December
+**2016:** 13 December
+
+**2017:** 10 January, 7 February, 7 March, 4 April, 2 May, 30 May, 27 June, 25 July, 22 August, 19 September, 17 October, 14 November, 12 December

@@ -38,15 +38,15 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="139">
-      Thorpeness
+      Aldringham
     </td>
 
     <td valign="bottom" width="176">
-      Almshouses
+      Ogilvie Homes
     </td>
 
     <td valign="bottom" width="97">
-      0940 &#8211; 0955
+      0945 &#8211; 1005
     </td>
   </tr>
 
@@ -56,15 +56,15 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="139">
-      Aldringham
+      Thorpeness
     </td>
 
     <td valign="bottom" width="176">
-      Church
+      Almshouses
     </td>
 
     <td valign="bottom" width="97">
-      1000 &#8211; 1015
+      1010 &#8211; 1025
     </td>
   </tr>
 
@@ -78,11 +78,11 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="176">
-      Ogilvie Homes
+      Church
     </td>
 
     <td valign="bottom" width="97">
-      1020 &#8211; 1040
+      1030 &#8211; 1045
     </td>
   </tr>
 
@@ -100,7 +100,7 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="97">
-      1045 &#8211; 1100
+      1050 &#8211; 1105
     </td>
   </tr>
 
@@ -118,7 +118,7 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="97">
-      1105 &#8211; 1135
+      1110 &#8211; 1140
     </td>
   </tr>
 
@@ -136,7 +136,7 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="97">
-      1145 &#8211; 1200
+      1145 &#8211; 1155
     </td>
   </tr>
 
@@ -154,7 +154,7 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="97">
-      1210 &#8211; 1235
+      1205 &#8211; 1235
     </td>
   </tr>
 
@@ -215,4 +215,6 @@ Telephone: 01473 263838
 
 **Calling every 4 weeks on Fridays:**
 
-**2016:** 22 January, 19 February, 18 March, 15 April, 13 May, 10 June, 8 July, 5 August, 2 September, 30 September, 28 October, 25 November, 23 December
+**2016:** 23 December
+
+**2017:** 20 January, 17 February, 17 March, **no visit in April**, 12 May, 9 June, 7 July, 4 August, 1 September, 29 September, 27 October, 24 November, 22 December

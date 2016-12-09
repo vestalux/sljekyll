@@ -38,6 +38,42 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="139">
+      Chediston
+    </td>
+
+    <td valign="bottom" width="176">
+      Midsummer Cottage
+    </td>
+
+    <td valign="bottom" width="97">
+      1015 &#8211; 1025
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="bottom" width="44">
+      12B
+    </td>
+
+    <td valign="bottom" width="139">
+      Chediston
+    </td>
+
+    <td valign="bottom" width="176">
+      New Dawn
+    </td>
+
+    <td valign="bottom" width="97">
+      1030 &#8211; 1040
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="bottom" width="44">
+      12C
+    </td>
+
+    <td valign="bottom" width="139">
       Linstead Parva
     </td>
 
@@ -46,13 +82,13 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="97">
-      1040 &#8211; 1105
+      1050 &#8211; 1105
     </td>
   </tr>
 
   <tr>
     <td valign="bottom" width="44">
-      12B
+      12D
     </td>
 
     <td valign="bottom" width="139">
@@ -70,7 +106,7 @@ Telephone: 01473 263838
 
   <tr>
     <td valign="bottom" width="44">
-      12C
+      12E
     </td>
 
     <td valign="bottom" width="139">
@@ -78,7 +114,7 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="176">
-      Wingfield Road (junction with Weybread Road)
+      Wingfield Road (Junction with Weybread Road)
     </td>
 
     <td valign="bottom" width="97">
@@ -88,7 +124,7 @@ Telephone: 01473 263838
 
   <tr>
     <td valign="bottom" width="44">
-      12D
+      12F
     </td>
 
     <td valign="bottom" width="139">
@@ -96,51 +132,55 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="176">
-      Post Box
+      Post box
     </td>
 
     <td valign="bottom" width="97">
       1345 &#8211; 1410
     </td>
   </tr>
+</table>
 
-  <tr>
-    <td valign="bottom" width="44">
-      12E
-    </td>
+<tr>
+  <td valign="bottom" width="44">
+    12G
+  </td>
 
-    <td valign="bottom" width="139">
-      Fressingfield
-    </td>
+  <td valign="bottom" width="139">
+    Fressingfield
+  </td>
 
-    <td valign="bottom" width="176">
-      Priory Crescent
-    </td>
+  <td valign="bottom" width="176">
+    Priory Crescent
+  </td>
 
-    <td valign="bottom" width="97">
-      1425 &#8211; 1455
-    </td>
-  </tr>
+  <td valign="bottom" width="97">
+    1425 &#8211; 1455
+  </td>
+</tr>
+</table>
 
-  <tr>
-    <td valign="bottom" width="44">
-      12F
-    </td>
+<tr>
+  <td valign="bottom" width="44">
+    12H
+  </td>
 
-    <td valign="bottom" width="139">
-      Fressingfield
-    </td>
+  <td valign="bottom" width="139">
+    Fressingfield
+  </td>
 
-    <td valign="bottom" width="176">
-      Sancroft Hall
-    </td>
+  <td valign="bottom" width="176">
+    Sancroft Hall
+  </td>
 
-    <td valign="bottom" width="97">
-      1500 &#8211; 1530
-    </td>
-  </tr>
+  <td valign="bottom" width="97">
+    1500 &#8211; 1530
+  </td>
+</tr>
 </table>
 
 **Calling every 4 weeks on Fridays:**
 
-**2016:** No visit 1 January, 29 January, 26 February, no visit Good Friday, 22 April, 20 May, 17 June, 15 July, 12 August, 9 September, 7 October, 4 November, 2 December, 30 December
+**2016:** 30 December
+
+**2017:** 27 January, 24 February, 24 March, 21 April, 19 May, 16 June, 14 July, 11 August, 8 September, 6 October, 3 November, 1 December, 29 December

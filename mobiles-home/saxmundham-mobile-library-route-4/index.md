@@ -82,7 +82,7 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="97">
-      1035 &#8211; 1110
+      1035 &#8211; 1100
     </td>
   </tr>
 
@@ -168,7 +168,7 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="176">
-      Bus Shelter
+      Bell Inn
     </td>
 
     <td valign="bottom" width="97">
@@ -179,4 +179,6 @@ Telephone: 01473 263838
 
 **Calling every 4 weeks on Fridays:**
 
-**2016:** 15 January, 12 February, 11 March, 8 April, 6 May, 3 June, 1 July, 29 July, 26 August, 23 September, 21 October, 18 November, 16 December
+**2016:** 16 December
+
+**2017:** 13 January, 10 February, 10 March, 7 April, 5 May, 2 June, 30 June, 28 July, 25 August, 22 September, 20 October, 17 November, 15 December
