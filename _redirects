@@ -73,7 +73,7 @@
 /upcoming-events/* /events-activities/upcoming/:splat
 /blog/meet-the-author* /meet-the-author/:splat
 /schools-literacy/schools/* /schools/:splat
-/schools-literacy/literacy/ /schools/online-resources/
+/schools-literacy/literacy/* /schools/online-resources/
 /schools-literacy/reading-advice/* /parents-carers-and-children/
 /new-suggestions/childrens-ya-books/* /parents-carers-and-children/childrens-ya-books/:splat
 
