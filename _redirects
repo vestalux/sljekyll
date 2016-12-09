@@ -71,7 +71,7 @@
 /reading-lists-groups-advice/suffolk-writes/* /events-activities/suffolk-writes/:splat
 /staff-picks/* /new-suggestions/staff-picks/:splat
 /upcoming-events/* /events-activities/upcoming/:splat
-/blog/meet-the-author* /meet-the-author/meet-the-author:splat
+/blog/meet-the-author* /meet-the-author/:splat
 /schools-literacy/schools/* /schools/:splat
 /schools-literacy/literacy/ /schools/online-resources/:splat
 /schools-literacy/reading-advice/* /parents-carers-and-children/
