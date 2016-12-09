@@ -164,11 +164,11 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="139">
-      Rymer Point
+      Honington
     </td>
 
     <td valign="bottom" width="176">
-      Kingsmead
+      Rymer Court
     </td>
 
     <td valign="bottom" width="97">
@@ -190,7 +190,7 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="97">
-      1240-13.00
+      1240-1300
     </td>
   </tr>
 
@@ -262,7 +262,7 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="97">
-      1530-1555
+      1530-1600
     </td>
   </tr>
 
@@ -280,11 +280,13 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="97">
-      1600-1620
+      1605-1620
     </td>
   </tr>
 </table>
 
 **Calling every 4 weeks on Thursdays:**
 
-**2016:** 28 January, 25 February, 24 March, 21 April, 19 May, 16 June, 14 July, 11 August, 8 September, 6 October, 3 November, 1 December, 29 December
+**2016:** 29 December
+
+**2017:** 26 January, 23 February, 23 March, 20 April, 18 May, 15 June, 13 July, 10 August, 7 September, 5 October, 2 November, 30 November, 28 December

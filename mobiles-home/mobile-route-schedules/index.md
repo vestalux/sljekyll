@@ -37,15 +37,15 @@ breadcrumb: mobiles-home
   * [Route 10 Tuesdays](/mobiles-home/bury-st-edmunds-mobile-library-route-10/ "Bury St Edmunds Mobile Library Route 10")
   * [Route 11 Wednesdays](/mobiles-home/bury-st-edmunds-mobile-library-route-11/ "Bury St Edmunds Mobile Library Route 11")
   * [Route 12 Thursdays](/mobiles-home/bury-st-edmunds-mobile-library-route-12/ "Bury St Edmunds Mobile Library Route 12")
-  * [Route 13 Friday](/mobiles-home/bury-st-edmunds-mobile-library-route-13/ "Bury St Edmunds Mobile Library Route 13")
-  * [Route 14 Saturday](/mobiles-home/bury-st-edmunds-mobile-library-route-14/ "Bury St Edmunds Mobile Library Route 14")
+  * [Route 13 Fridays](/mobiles-home/bury-st-edmunds-mobile-library-route-13/ "Bury St Edmunds Mobile Library Route 13")
+  * [Route 14 Saturdays](/mobiles-home/bury-st-edmunds-mobile-library-route-14/ "Bury St Edmunds Mobile Library Route 14")
   * [Route 15 Sundays](/mobiles-home/bury-st-edmunds-mobile-library-route-15/ "Bury St Edmunds Mobile Library Route 15")
 
 #### Week 4
 
   * [Route 16 Mondays](/mobiles-home/bury-st-edmunds-mobile-library-route-16/ "Bury St Edmunds Mobile Library Route 16")
-  * [Route 17 Tuesday](/mobiles-home/bury-st-edmunds-mobile-library-route-17/ "Bury St Edmunds Mobile Library Route 17")
-  * [Route 18 Wednesday](/mobiles-home/bury-st-edmunds-mobile-library-route-18/ "Bury St Edmunds Mobile Library Route 18")
+  * [Route 17 Tuesdays](/mobiles-home/bury-st-edmunds-mobile-library-route-17/ "Bury St Edmunds Mobile Library Route 17")
+  * [Route 18 Wednesdays](/mobiles-home/bury-st-edmunds-mobile-library-route-18/ "Bury St Edmunds Mobile Library Route 18")
   * [Route 19 Thursdays](/mobiles-home/bury-st-edmunds-mobile-library-route-19/ "Bury St Edmunds Mobile Library Route 19")
   * [Route 20 Saturdays](/mobiles-home/bury-st-edmunds-mobile-library-route-20/ "Bury St Edmunds Mobile Library Route 20")
 

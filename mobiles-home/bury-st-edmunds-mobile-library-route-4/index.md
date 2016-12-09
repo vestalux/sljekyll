@@ -60,7 +60,7 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="176">
-      Village Hall
+      Food Hall
     </td>
 
     <td valign="bottom" width="97">
@@ -233,4 +233,6 @@ Telephone: 01473 263838
 
 **Calling every 4 weeks on Saturdays:**
 
-**2016:** 16 January, 13 February, 12 March, 9 April, 7 May, 4 June, 2 July, 30 July, 27 August, 24 September, 22 October, 19 November, 17 December
+**2016:** 17 December
+
+**2017:** 14 Janaury, 11 February, 11 March, 8 April, 6 May, 3 June, 1 July, 29 July, 26 August, 23 September, 21 October, 18 November, 16 December

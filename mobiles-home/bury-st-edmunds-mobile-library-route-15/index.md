@@ -287,4 +287,6 @@ Telephone: 01473 263838
 
 **Calling every 4 weeks on Sundays:**
 
-**2016:** 3 January, 31 January, 28 February, no visit in March, 24 April, 22 May, 19 June, 17 July, 14 August, 11 September, 9 October, 6 November, 4 December
+**2016:** 4 December
+
+**2017:** 29 January, 26 February, 26 March, 23 April, 21 May, 18 June, 16 July, 13 August, 10 September, 8 October, 5 November, 3 December, 31 December

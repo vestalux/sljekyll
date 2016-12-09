@@ -100,7 +100,7 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="97">
-      1025 &#8211; 1055
+      1025 &#8211; 1050
     </td>
   </tr>
 
@@ -114,11 +114,11 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="176">
-      Benyon Garden
+      Village Hall
     </td>
 
     <td valign="bottom" width="97">
-      1105 &#8211; 1125
+      1100 &#8211; 1130
     </td>
   </tr>
 
@@ -136,7 +136,7 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="97">
-      1130 &#8211; 1140
+      1135 &#8211; 1145
     </td>
   </tr>
 
@@ -251,4 +251,6 @@ Telephone: 01473 263838
 
 **Calling every 4 weeks on Tuesdays:**
 
-**2016:** 12 January, 9 February, 8 March, 5 April, 3 May, 31 May, 28 June, 26 July, 23 August, 20 September, 18 October, 15 November, 13 December
+**2016**: 13 December
+
+**2017:** 10 January, 7 February, 7 March, 4 April, 2 May, 30 May, 27 June, 25 July, 22 August, 19 September, 17 October, 14 November, 12 December

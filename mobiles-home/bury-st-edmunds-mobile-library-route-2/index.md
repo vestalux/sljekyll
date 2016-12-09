@@ -190,7 +190,7 @@ Telephone: 01473 263838
     </td>
 
     <td>
-      1435 – 1450
+      1435 – 1445
     </td>
   </tr>
 
@@ -252,4 +252,6 @@ Telephone: 01473 263838
 
 **Calling every 4 weeks on Wednesday:**
 
-**2016:** 13 January, 10 February, 9 March, 6 April, 4 May, 1 June, 29 June, 27 July, 24 August, 21 September, 19 October, 16 November, 14 December
+**2016:** 14 December
+
+**2017:** 11 January, 8 February, 8 March, 5 April, 3 May, 31 May, 28 June, 26 July, 23 August, 20 September, 18 October, 15 November, 13 December
