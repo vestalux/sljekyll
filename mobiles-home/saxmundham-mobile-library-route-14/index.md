@@ -182,19 +182,55 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="139">
-      Ilketshall St Lawrence
+      Ilketshall St Margaret
     </td>
 
     <td valign="bottom" width="176">
-      School View
+      Church
     </td>
 
     <td valign="bottom" width="97">
       1445 &#8211; 1500
     </td>
   </tr>
+
+  <tr>
+    <td valign="bottom" width="44">
+      14K
+    </td>
+
+    <td valign="bottom" width="139">
+      St Margaret S. Elmham
+    </td>
+
+    <td valign="bottom" width="176">
+      Green
+    </td>
+
+    <td valign="bottom" width="97">
+      1510 &#8211; 1530
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="bottom" width="44">
+      14K
+    </td>
+
+    <td valign="bottom" width="139">
+      St Margaret S Elmham
+    </td>
+
+    <td valign="bottom" width="176">
+      Green Farm
+    </td>
+
+    <td valign="bottom" width="97">
+      1540 &#8211; 1550
+    </td>
+  </tr>
 </table>
 
 **Calling every 4 weeks on Wednesdays:**
 
-**2016:** 6 January, 3 February, 2 March, 30 March, 27 April, 25 May, 22 June, 20 July, 17 August, 15 September, 12 October, 9 November, 7 December
+**2017:** 4 January, 1 February, 1 March, 29 March, 26 April, 24 May, 21 June, 19 July, 16 August, 13 September, 11 October, 8 November, 6 December

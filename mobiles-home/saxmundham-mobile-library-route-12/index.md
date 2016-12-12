@@ -38,6 +38,136 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="139">
+      Linstead Parva
+    </td>
+
+    <td valign="bottom" width="176">
+      Village Hall
+    </td>
+
+    <td valign="bottom" width="97">
+      1040 &#8211; 1105
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="bottom" width="44">
+      12B
+    </td>
+
+    <td valign="bottom" width="139">
+      Metfield
+    </td>
+
+    <td valign="bottom" width="176">
+      Church
+    </td>
+
+    <td valign="bottom" width="97">
+      1115 &#8211; 1145
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="bottom" width="44">
+      12C
+    </td>
+
+    <td valign="bottom" width="139">
+      Syleham
+    </td>
+
+    <td valign="bottom" width="176">
+      Wingfield Road (junction with Weybread Road)
+    </td>
+
+    <td valign="bottom" width="97">
+      1215 &#8211; 1235
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="bottom" width="44">
+      12D
+    </td>
+
+    <td valign="bottom" width="139">
+      Wingfield
+    </td>
+
+    <td valign="bottom" width="176">
+      Post Box
+    </td>
+
+    <td valign="bottom" width="97">
+      1345 &#8211; 1410
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="bottom" width="44">
+      12E
+    </td>
+
+    <td valign="bottom" width="139">
+      Fressingfield
+    </td>
+
+    <td valign="bottom" width="176">
+      Priory Crescent
+    </td>
+
+    <td valign="bottom" width="97">
+      1425 &#8211; 1455
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="bottom" width="44">
+      12F
+    </td>
+
+    <td valign="bottom" width="139">
+      Fressingfield
+    </td>
+
+    <td valign="bottom" width="176">
+      Sancroft Hall
+    </td>
+
+    <td valign="bottom" width="97">
+      1500 &#8211; 1530
+    </td>
+  </tr>
+</table>
+
+## 2017 route timetable
+
+<table class="pure-table">
+  <tr>
+    <td valign="bottom" width="44">
+      <strong>Stop</strong>
+    </td>
+
+    <td valign="bottom" width="139">
+      <strong>Village</strong>
+    </td>
+
+    <td valign="bottom" width="176">
+      <strong>Location</strong>
+    </td>
+
+    <td valign="bottom" width="97">
+      <strong>Time</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="bottom" width="44">
+      12A
+    </td>
+
+    <td valign="bottom" width="139">
       Chediston
     </td>
 

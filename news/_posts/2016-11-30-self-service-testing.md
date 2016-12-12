@@ -19,7 +19,7 @@ We will also need to complete some tests here in the library. You can choose whe
 
 ## Waterstones vouchers
 
-As a thank you we'll give you a free DVD Premier loan (normal value &pound;3). We'll also enter you into a prize drawer for one of six &pound;10 Waterstones vouchers.
+As a thank you we'll give you a free DVD Premier loan (normal value &pound;3). We'll also enter you into a prize draw for one of six &pound;10 Waterstones vouchers.
 
 ## How to sign up
 

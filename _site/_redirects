@@ -1,4 +1,4 @@
-/beyond-the-book /schools-literacy/literacy
+/beyond-the-book /schools/online-resources/
 /bookedout /new-suggestions/booked-out
 /bookfest /events-activities/bookfest
 /ceremonies /events-activities/ceremonies
@@ -9,7 +9,7 @@
 /hubnewsletter http://suffolklibraries.us4.list-manage.com/subscribe?u=8fdb8e824d6cb5f95be2c5b88&id=747a12b906
 /jobs /about/jobs
 /libraries-and-mobiles /mobiles-home
-/literacy /schools-literacy/literacy
+/literacy /schools/online-resources/
 /mhis /health
 /mobiles /mobiles-home
 /myaccount http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/LOGINB
@@ -17,9 +17,8 @@
 /presents /events-activities/presents
 /research /information-resources
 /reading /events-activities/our-year-of-reading
-/schools /schools-literacy/schools
 /slaughter /events-activities/slaughter-in-southwold
-/sls /schools-literacy/schools
+/sls /schools
 /src /events-activities/summer-reading-challenge/
 /suffolkwrites /events-activities/suffolk-writes
 /upcoming-events /events-activities/upcoming
@@ -72,9 +71,9 @@
 /reading-lists-groups-advice/suffolk-writes/* /events-activities/suffolk-writes/:splat
 /staff-picks/* /new-suggestions/staff-picks/:splat
 /upcoming-events/* /events-activities/upcoming/:splat
-/blog/meet-the-author* /meet-the-author/meet-the-author:splat
+/blog/meet-the-author* /meet-the-author/:splat
 /schools-literacy/schools/* /schools/:splat
-/schools-literacy/literacy/ /schools/online-resources/:splat
+/schools-literacy/literacy/* /schools/online-resources/
 /schools-literacy/reading-advice/* /parents-carers-and-children/
 /new-suggestions/childrens-ya-books/* /parents-carers-and-children/childrens-ya-books/:splat
 
