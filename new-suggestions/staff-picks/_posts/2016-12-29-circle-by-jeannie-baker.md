@@ -4,7 +4,7 @@ title: Circle by Jeannie Baker
 date: 2016-12-29
 author: jacky-offord
 category: staff-picks
-excerpt: ""
+excerpt: "<cite>Circle</cite> provides a 'stunning', 'meticulously collaged' and 'seamless' account of the godwit's annual migration."
 featured-image: /images/featured/featured-circle.jpg
 featured-alt: Circle
 featured-link-text: "Read Jacky Offord's review of <cite>Circle</cite>, by Jeannie Baker."
@@ -21,6 +21,6 @@ A young boy in a wheelchair has been pushed down to the beach to watch the birds
 
 We, as readers, observe the full story of migration as the birds follow 'ancient invisible pathways'.  We feel the impact that extensive building has had on their ability to find places to land for rest and food in Southeast Asia and see the relatively unchanged landscape in Alaska where they breed before winter sets in.
 
-All the double page spreads are meticulously collaged.  Combining seamlessly with the lyrical text, we are taken on a journey of discovery and wonder at these birds who make 'the longest unbroken journey of any animal in the world'.
+All the double page spreads are meticulously collaged. Combining seamlessly with the lyrical text, we are taken on a journey of discovery and wonder at these birds who make 'the longest unbroken journey of any animal in the world'.
 
 My copy of <cite>Circle</cite> was a gift from a close friend and has a special place on my bookshelf but has made several journeys of its own into schools and meetings to be enjoyed by adults and children.
