@@ -19,6 +19,8 @@ He's going to be enjoying an extended winter stay in Sudbury, thanks to Sudbury 
 
 We're also holding craft sessions to keep your children occupied during the holidays and help them produce beautiful decorations. Many of our [regular craft sessions for children](/events-activities/children/) will be Christmas-themed this month. Children can also help Capel St Mary Library produce a handprint Christmas wall on [Friday 16 December](/events/capel-2016-12-16-xmas-wall-fri-16/), [Saturday 17 December](/events/capel-2016-12-17-xmas-wall-sat-17/) and [Sunday 18 December](/events/capel-2016-12-18-xmas-wall-sun-18/).
 
+There will also be activities for children at Thurston Christmas Tree Festival at Thurston Library and St Peter's Church on [Saturday 17 December](/events/thurston-2016-12-17-xmas-tree-festival/) and [Sunday 18 December](/events/thurston-2016-12-18/). On the Saturday, there is even a biscuit bake-off - decorate some biscuits or a gingerbread structure at home, and bring them to the library for judging.
+
 Haverhill Library are offering the opportunity to make some festive essentials in the form of [decorated ceramic plates for Santa's treats on Sunday 18 December](/events/haverhill-2016-12-18-xmas-plates-18/) and ['Santa stop here' signs on Monday 19 December](/events/haverhill-2016-12-19-xmas-crafts/), while at children can create quirky tortoise-shaped decorations at [Southwold Library on Thursday 22 December](/events/southwold-2016-12-22-festive-tortoise/).
 
 ## Competitions
