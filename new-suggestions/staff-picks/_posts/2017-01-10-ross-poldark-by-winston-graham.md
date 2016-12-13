@@ -15,7 +15,6 @@ breadcrumb: staff-picks
 
 **[See <cite>Ross Poldark</cite> in our catalogue](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1712156).**
 
-
 > "Tired from a grim war in America, Ross Poldark returns to his land and his family. But the joyful homecoming he has looked forward to turns sour, for his father is dead, his estate is derelict, and the girl he loves is engaged to his cousin."
 
 This book, the first in the <cite>Poldark</cite> series, is set in Cornwall and is written in beautiful literary language.
