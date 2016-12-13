@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: "Children's books about dancing to mark the end of this year's <cite>Strictly</cite>"
-date: 2016-12-16
+date: 2016-12-17
 author: jo-dixon
 category: childrens-ya-books
 excerpt: "As this year's series of <cite>Strictly Come Dancing</cite> draws to a close, why not pick up a dancing-themed book for your child?"
