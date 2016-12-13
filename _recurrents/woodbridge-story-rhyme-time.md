@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Story and Rhyme time: stories and more for pre-school"
+recurrent-title: "Story and Rhyme time: stories and more for pre-school children"
 recurrent-day: Friday
 recurrent-times: 1030-1100
 recurrent-location: woodbridge-library
