@@ -215,6 +215,8 @@ Telephone: 01473 263838
 
 **Calling every 4 weeks on Wednesdays:**
 
-**2016:** 27 January, 24 February, 23 March, 20 April, 18 May, 15 June, 13 July, 10 August, 7 September, 5 October, 2 November, 30 November, 28 December
+**2016:** 28 December
 
-**2017:** 25 January
+**2017:** 25 January, 22 February, 22 March, 19 April, 17 May, 14 June, 12 July, 9 August, 6 September, 4 October, 1 November, 29 November, 27 December
+
+**2018:** 24 January

@@ -222,7 +222,7 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="138">
-      Wingfield Meadow
+      Walnut Tree Meadow
     </td>
 
     <td valign="bottom" width="127">
@@ -269,6 +269,8 @@ Telephone: 01473 263838
 
 **Calling every 4 weeks on Fridays:**
 
-**2016:** January (no visit), 29 January, 26 February, March (no visit), 22 April, 20 May, 17 June, 15 July, 12 August, 9 September, 7 October, 4 November, 2 December, 30 December
+**2016:** 30 December
 
-**2017:** 27 January
+**2017:** 27 January, 24 February, 24 March, 21 April, 19 May, 16 June, 14 July, 11 August, 8 September, 6 October, 3 November, 1 December, 29 December
+
+**2018:** 26 January
