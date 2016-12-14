@@ -8,7 +8,6 @@ breadcrumb: member-organisations
 
 Patrons:
 
-* (The Rt Hon) The Lord Prior
 * [Luke Wright](http://www.lukewright.co.uk/)
 * [Louis de Bernières](http://www.louisdebernieres.co.uk/)
 
@@ -19,11 +18,13 @@ Trustees:
 * Treasurer: Amanda King
 * Frances Swann
 * Judy Cloke
-* Terry Reeve
 * Maureen Davies
 * Dave Wolfenden
 * Chris Davey
 * Jane Paul
+* Carol Matthews
+* Jan Hazell
+* Christine Douglas
 
 ## Contact us
 
