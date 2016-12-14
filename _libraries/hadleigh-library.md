@@ -18,6 +18,7 @@ branch-social-media: y
 branch-facebook: hadleighlibrarysuffolk
 branch-twitter: hadleighlibrary
 branch-wifi: y
+branch-netloan: old
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/hadleigh-library-2
 branch-room-hire: /libraries/room-hire/hadleigh-library
 breadcrumb: y

@@ -103,32 +103,46 @@
                             <ul class="pl0-ns">
 
                                 {% if page.branch-wifi %}
-                                <li>
-                                Free wifi available
-                                </li>
-                                <li>
-                                <a class="blue" href="/help/printing-copying-scanning">Scanning, printing and photocopying facilities</a>
-                                </li>
+                                  <li>
+                                  Free wifi available
+                                  </li>
+                                  <li>
+                                  <a class="blue" href="/help/printing-copying-scanning">Scanning, printing and photocopying facilities</a>
+                                  </li>
                                 {% endif %}
+
                                 {% if page.branch-accessibility %}
-                                <li>
-                                <a  class="blue" href="{{ page.branch-accessibility }}">Accessibility information</a>
-                                </li>
+                                  <li>
+                                  <a  class="blue" href="{{ page.branch-accessibility }}">Accessibility information</a>
+                                  </li>
                                 {% endif %}
+
                                 {% if page.branch-special-collections %}
-                                <li>
-                                <a class="blue" href="/special-collections/">Special collections:</a> {{ page.branch-special-collections }}</a>
-                                </li>
+                                  <li>
+                                  <a class="blue" href="/special-collections/">Special collections:</a> {{ page.branch-special-collections }}</a>
+                                  </li>
                                 {% endif %}
-                                {% if page.branch-other-facilities %}
-                                <li class="custom-prose">
-                                {{ page.branch-other-facilities }}
-                                </li>
-                                {% endif %}
+
                                 {% if page.branch-borrowing-ereaders-and-ipads %}
+                                  <li>
+                                  <a class="blue" href="/help/borrowing-ereaders-and-ipads/">Borrow {{ page.branch-borrowing-ereaders-and-ipads }}</a> from the library
+                                  </li>
+                                {% endif %}
+
+                                {% if page.branch-netloan %}
                                 <li>
-                                <a class="blue" href="/help/borrowing-ereaders-and-ipads/">Borrow {{ page.branch-borrowing-ereaders-and-ipads }}</a> from the library
+                                  {% if page.branch-netloan == 'old' %}
+                                    <a href="http://netloan.suffolklibraries.co.uk" class="blue">Book a computer</a>
+                                  {% elsif page.branch-netloan == 'new' %}
+                                    <a href="http://78.31.106.220/netloan/Login.aspx" class="blue">Book a computer</a>
+                                  {% endif %}
                                 </li>
+                                {% endif %}
+
+                                {% if page.branch-other-facilities %}
+                                  <li class="custom-prose">
+                                  {{ page.branch-other-facilities }}
+                                  </li>
                                 {% endif %}
 
 

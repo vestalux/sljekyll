@@ -18,6 +18,7 @@ branch-newsletter: http://suffolklibraries.us13.list-manage.com/subscribe?u=bdf6
 branch-social-media: y
 branch-facebook: mildenhalllibrary
 branch-wifi: y
+branch-netloan: old
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/mildenhall-library-2
 breadcrumb: y
 ---

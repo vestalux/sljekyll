@@ -17,6 +17,7 @@ branch-friends: Friends of Stoke Library
 branch-social-media: y
 branch-facebook: stokelibrary
 branch-wifi: y
+branch-netloan: old
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/stoke-library-2
 breadcrumb: y
 ---

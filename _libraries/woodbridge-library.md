@@ -21,6 +21,7 @@ branch-facebook: Woodbridge-Library-Suffolk-575433289169395
 branch-booked-out-podcast: /new-suggestions/booked-out/
 branch-for-sale: Friends of Woodbridge Library cotton shopping bags (£3) and magnetic bookmarks (£1)
 branch-wifi: y
+branch-netloan: old
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/woodbridge-library-2
 branch-special-collections: Edward Fitzgerald collection, Seckford collection
 branch-borrowing-ereaders-and-ipads: an eReader

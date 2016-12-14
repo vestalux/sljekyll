@@ -18,6 +18,7 @@ branch-friends-url: /about/member-organisations/elmswell-library-friends-elf
 branch-social-media: y
 branch-facebook: Elmswell-Library-Friends-ELF-653230698059103
 branch-wifi: y
+branch-netloan: old
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/elmswell-library-2
 branch-room-hire: /libraries/room-hire/elmswell-library
 breadcrumb: y

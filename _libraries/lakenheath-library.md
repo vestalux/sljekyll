@@ -15,6 +15,7 @@ branch-post-code: IP27 9DS
 branch-tel: 01842 860723
 branch-friends: Friends of Lakenheath Library
 branch-wifi: y
+branch-netloan: new
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/lakenheath-library-2
 breadcrumb: y
 ---

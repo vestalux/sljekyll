@@ -19,6 +19,7 @@ branch-social-media: y
 branch-twitter: halesworthlib
 branch-facebook: Halesworth-Library-391603700955116
 branch-wifi: y
+branch-netloan: new
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/halesworth-library-2
 branch-borrowing-ereaders-and-ipads: an iPad
 branch-room-hire: /libraries/room-hire/halesworth-library

@@ -15,6 +15,7 @@ branch-post-code: IP14 6PL
 branch-tel: 01728 861940
 branch-friends: Debenham Library Foundation
 branch-wifi: y
+branch-netloan: new
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/debenham-resource-centre-2
 breadcrumb: y
 ---

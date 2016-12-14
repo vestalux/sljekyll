@@ -19,6 +19,7 @@ branch-twitter: haverhillibrary
 branch-facebook: Haverhill-Library-Suffolk-202854396546832
 branch-pinterest: haverhillibrary
 branch-wifi: y
+branch-netloan: old
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/haverhill-library-2
 branch-room-hire: /libraries/room-hire/haverhill-library
 branch-display-space: "

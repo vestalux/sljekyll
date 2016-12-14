@@ -17,6 +17,7 @@ branch-friends: Friends of Great Cornard Community Library
 branch-social-media: y
 branch-facebook: groups/348670135277550
 branch-wifi: y
+branch-netloan: old
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/great-cornard-library-2
 breadcrumb: y
 ---

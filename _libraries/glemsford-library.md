@@ -18,6 +18,7 @@ branch-social-media: y
 branch-facebook: glemsfordlibrary
 branch-instagram: glemsfordlibrary
 branch-wifi: y
+branch-netloan: new
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/glemsford-library-2
 breadcrumb: y
 ---

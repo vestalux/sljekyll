@@ -21,6 +21,7 @@ branch-social-media: y
 branch-twitter: southwoldlib
 branch-facebook: southwoldlibrary
 branch-wifi: y
+branch-netloan: old
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/southwold-library-2
 branch-borrowing-ereaders-and-ipads: an iPad
 breadcrumb: y

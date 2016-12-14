@@ -21,6 +21,7 @@ branch-social-media: y
 branch-facebook: Stowmarket-Library-252331724951185
 branch-twitter: StowLibrary
 branch-wifi: y
+branch-netloan: old
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/stowmarket-library-2
 branch-room-hire: /libraries/room-hire/stowmarket-library
 breadcrumb: y

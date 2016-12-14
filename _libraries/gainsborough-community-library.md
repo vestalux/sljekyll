@@ -18,6 +18,7 @@ branch-friends-url: /about/member-organisations/voices-for-gainsborough-communit
 branch-social-media: y
 branch-facebook: gainsboroughlibrary
 branch-wifi: y
+branch-netloan: old
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/gainsborough-community-library-2
 branch-borrowing-ereaders-and-ipads: an eReader
 branch-room-hire: /libraries/room-hire/gainsborough-community-library

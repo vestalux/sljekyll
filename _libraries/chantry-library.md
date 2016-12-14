@@ -18,6 +18,7 @@ branch-social-media: y
 branch-facebook: Chantry-Library-797858243630998
 branch-twitter: Chantry_Library
 branch-wifi: y
+branch-netloan: old
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/chantry-library-2
 branch-display-space: "
 <strong>Glass display cabinet</strong>

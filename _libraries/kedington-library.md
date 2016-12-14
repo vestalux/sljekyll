@@ -17,6 +17,7 @@ branch-friends: Friends of Kedington Library
 branch-social-media: y
 branch-facebook: kedingtonlibrary
 branch-wifi: y
+branch-netloan: new
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/kedington-library
 branch-room-hire: /libraries/room-hire/kedington-library
 branch-borrowing-ereaders-and-ipads: an iPad

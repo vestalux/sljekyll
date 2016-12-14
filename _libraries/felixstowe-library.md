@@ -18,6 +18,7 @@ branch-for-sale: charity Christmas cards, local Christmas card deliveries in aid
 branch-social-media: y
 branch-facebook: felixstowelibrary
 branch-wifi: y
+branch-netloan: old
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/felixstowe-library-2
 branch-room-hire: /libraries/room-hire/felixstowe-library
 branch-borrowing-ereaders-and-ipads: an iPad

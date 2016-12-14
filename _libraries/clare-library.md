@@ -17,6 +17,7 @@ branch-friends: Friends of Clare Library
 branch-social-media: y
 branch-facebook: clarelibrary.co.uk
 branch-wifi: y
+branch-netloan: new
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/clare-library-2
 branch-room-hire: /libraries/room-hire/clare-library
 branch-borrowing-ereaders-and-ipads: an iPad

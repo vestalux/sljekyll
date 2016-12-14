@@ -17,6 +17,7 @@ branch-friends: Friends of Oulton Broad Library
 branch-social-media: y
 branch-facebook: Oulton-Broad-Library-224683134540328
 branch-wifi: y
+branch-netloan: new
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/oulton-broad-library-2
 branch-room-hire: /libraries/room-hire/oulton-broad-library
 breadcrumb: y

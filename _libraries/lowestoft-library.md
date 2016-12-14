@@ -22,6 +22,7 @@ branch-twitter: lowestoftlib
 branch-facebook: lowestoftlibrary
 branch-pinterest: lowlib
 branch-wifi: y
+branch-netloan: old
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/lowestoft-library-2
 branch-room-hire: /libraries/room-hire/lowestoft-library
 breadcrumb: y

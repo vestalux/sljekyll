@@ -15,6 +15,7 @@ branch-post-code: IP13 9BA
 branch-tel: 01728 723735
 branch-friends: Framlingham Town Council
 branch-wifi: y
+branch-netloan: old
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/framlingham-library-2
 branch-room-hire: /libraries/room-hire/framlingham-library
 breadcrumb: y

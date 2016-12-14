@@ -18,6 +18,7 @@ branch-friends-url: /about/member-organisations/kesgrave-library-community-group
 branch-social-media: y
 branch-facebook: kesgravelibrary
 branch-wifi: y
+branch-netloan: new
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/kesgrave-library-2
 branch-display-space: "
 <strong>Posters – A4 or smaller</strong>

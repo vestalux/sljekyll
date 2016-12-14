@@ -18,6 +18,7 @@ branch-friends-url: /about/member-organisations/aldeburgh-library-foundation/
 branch-social-media: y
 branch-facebook: aldeburghlibrary
 branch-wifi: y
+branch-netloan: new
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/aldeburgh-library-2
 branch-room-hire: /libraries/room-hire/aldeburgh-library
 branch-display-space: "Two cork boards in the foyer: displays adverts for anyone selling items."

@@ -19,6 +19,7 @@ branch-social-media: y
 branch-twitter: burylibsuffolk
 branch-facebook: burystedmundslibrary
 branch-wifi: y
+branch-netloan: old
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/bury-st-edmunds-library-2
 branch-room-hire: /libraries/room-hire/bury-st-edmunds-library
 branch-display-space: "
