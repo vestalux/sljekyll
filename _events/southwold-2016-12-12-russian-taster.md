@@ -1,5 +1,5 @@
 ---
-id: southwold-coffee-morning
+id: southwold-russian-taster
 name: "Russian taster session"
 location: southwold-library
 location-text: Southwold Library

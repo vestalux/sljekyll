@@ -25,7 +25,7 @@ Haverhill Library are offering the opportunity to make some festive essentials i
 
 ## Competitions
 
-Drop in to Haverhill Library to pick up a [Friends of Southwold Library quiz sheet](/events/haverhill-2016-12-05-xmas-quiz/). This festive quiz is suitable for the whole family. Complete and return it by Friday 6 January for the chance to win a top prize of tickets for a family of 4 to see <cite>Cinderella</cite> at Haverhill Arts Centre, courtesy of Centre Stage.
+Drop in to Haverhill Library to pick up a [Friends of Southwold Library quiz sheet](/events/haverhill-2016-12-05-xmas-quiz/). This festive quiz is suitable for the whole family. Complete and return it by Friday 6 January for the chance to win a top prize of tickets for a family of 4 to see <cite>Cinderella</cite> at Haverhill Arts Centre, courtesy of Centre Stage. Southwold Library have a [book quiz sheet](/events/southwold-2016-12-14-book-quiz/) with questions for all ages. Return it by Tuesday 31 January 2017 for the chance to win a £10 book token.
 
 Alternatively, if your child is a budding artist, they might want to enter [Southwold Library's colouring competition](/events/southwold-2016-11-14-pantomime-competition/), which runs until Sunday 15 January, for the chance to win tickets for a family of 4 to see Reydon and Southwold Pantomime Group's production of <cite>Aladdin</cite>.
 
