@@ -4,7 +4,7 @@ title: Events and activities
 breadcrumb: home
 ---
 
-<h1 class="page-title">Events &amp; activities</h1>
+<h1 class="{% include /c/page-title.html %}">Events &amp; activities</h1>
 
 <div class="cf">
 
