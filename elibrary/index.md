@@ -6,7 +6,7 @@ breadcrumb: home
 
 <div class="custom-constrain-img">
 
-    <h1 class="page-title">eLibrary</h1>
+    <h1 class="{% include /c/page-title.html %}">eLibrary</h1>
 
     <div class="mb3 mb4-ns cf pa2 pa3-ns bg-light-gray custom-lh-copy">
 
