@@ -14,8 +14,8 @@ url: "https://www.suffolklibraries.co.uk" # the base hostname & protocol for you
 twitter_username: suffolklibrary
 github_username:  suffolklibraries
 # message: "Suffolk County Council proposes to reduce the library budget."
-# message_link: news/response-to-council-budget-proposals/
-# message_link_text: Read our response to the Council proposals
+message_link: news/xmas-opening-hours/
+message_link_text: Check our Christmas and new year's opening hours
 
 
 
