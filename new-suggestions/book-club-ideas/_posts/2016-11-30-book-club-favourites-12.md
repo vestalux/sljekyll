@@ -17,7 +17,7 @@ breadcrumb: book-club-ideas
 
 Nineteen-year-old Gwendolyn Hooper is newly married to a rich and charming widower, eager to join him on his tea plantation, and determined to be the perfect wife and mother. But life in 1920s Ceylon is not what Gwen had expected. Left on her own expecting twins Gwen is faced with a difficult decision which leaves her hiding a heartbreaking secret which could destroy her marriage.
 
-## [<cite>The Night Circus: A Novel</cite> by Erin Morgenstern](ttps://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=246688)
+## [<cite>The Night Circus: A Novel</cite> by Erin Morgenstern](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=246688)
 
 In 1886 a mysterious travelling circus becomes an international sensation. Open only at night, constructed entirely in black & white, *Le Cirque des Reves* delights all who wander its circular paths. The story of The Night Circus begins with two magicians who both have different ideas on the best way to train an apprentice in the art of magic. They agree to a challenge and decide to pit their trainees against each other in a game that will take years to complete, a challenge that only one of them will survive.
 

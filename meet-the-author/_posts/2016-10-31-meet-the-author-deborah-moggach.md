@@ -10,7 +10,7 @@ breadcrumb: meet-the-author
 
 ![Deborah Moggach](/images/featured/deborah-moggach.jpg)
 
-Deborah Moggach is an English writer. She has written 18 novels including <cite>The Ex-Wives</cite>, <cite>Tulip Fever</cite>, <cite>These Foolish Things</cite> (adapted into the film <cite>The Best Exotic Marigold Hotel<cite>) and <cite>Heartbreak Hotel</cite>. Deborah’s most recent book <cite>Something to Hide</cite> is [available from Suffolk Libraries](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/10358747/50319884,1).
+Deborah Moggach is an English writer. She has written 18 novels including <cite>The Ex-Wives</cite>, <cite>Tulip Fever</cite>, <cite>These Foolish Things</cite> (adapted into the film <cite>The Best Exotic Marigold Hotel<cite>) and <cite>Heartbreak Hotel</cite>. Deborah’s most recent book <cite>Something to Hide</cite> is [available from Suffolk Libraries](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1784587).
 
 
 ## 1. Who were your literary influences as you were growing up?

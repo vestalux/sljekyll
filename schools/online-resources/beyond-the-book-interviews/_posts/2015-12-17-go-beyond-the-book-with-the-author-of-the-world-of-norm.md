@@ -69,4 +69,4 @@ Interest Level: Middle Years
 
 AR Points: 4.0
 
-Jonathan Meres is an amazingly funny author, [Chatterbooks champion](http://readingagency.org.uk/children/news/chatterbooks-week-2015.html) and in 2016 will be a [World Book Day author](http://worldbookday.com/book/welcome-to-the-world-of-norm/)!
+Jonathan Meres is an amazingly funny author, [Chatterbooks champion](http://readingagency.org.uk/children/news/chatterbooks-week-2015.html) and in 2016 will be a World Book Day author!

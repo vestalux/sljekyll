@@ -11,8 +11,7 @@ tag: advent
 breadcrumb: staff-picks
 ---
 
-Every day until Christmas Eve, a member of Suffolk Libraries staff will reveal a book, CD or DVD they will be giving as a Christmas present, and why. Today, library and information advisor Tanya Collins recommends <a href="The book thief
-https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1507540"><cite>The Book Thief</cite></a>, by Markus Zusak.
+Every day until Christmas Eve, a member of Suffolk Libraries staff will reveal a book, CD or DVD they will be giving as a Christmas present, and why. Today, library and information advisor Tanya Collins recommends <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1507540"><cite>The Book Thief</cite></a>, by Markus Zusak.
 
 ![The Book Thief](/images/featured/featured-book-thief.jpg)
 

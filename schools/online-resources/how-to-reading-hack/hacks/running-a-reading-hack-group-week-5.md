@@ -11,7 +11,7 @@ hnav: lbarts
 
 ## Week 5
 
-This week the hackers were going to get poetic. I had been keen to do some 'cut-ups' and blackout poetry for a while, and had suggested this to our hackers who responded enthusiastically. Ellen McAteer, library manager at Beccles, has strong links with [The Poetry Trust](http://www.thepoetrytrust.org/) and suggested I checked out their fantastic [<cite>The Poetry Toolkit: fool proof recipes for teaching poetry in the classroom</cite>](http://www.thepoetrytrust.org/poetry_toolkit/) for some ideas.
+This week the hackers were going to get poetic. I had been keen to do some 'cut-ups' and blackout poetry for a while, and had suggested this to our hackers who responded enthusiastically.
 
 Staff at Beccles library collected some withdrawn books for the [blackout poetry](http://readinghack.org.uk/hacks/184) and I adapted the [Poetry Jigsaw](http://readinghack.org.uk/hacks/183) activity from the toolkit. I added both hacks to the Reading Hack website in advance by adapting a hack design already available.
 
@@ -48,7 +48,5 @@ Each hacker approached the hack in a different way – some went totally [Willia
 Next week I am not providing any activities. The group have all been working on their own hacks to share with each other. There will be Gandalf’s social media experiment, literary Christmas carols, create a Percy Jackson weapon and a top secret hack involving hair… I can’t wait!
 
 ## Hints and Tips
-
-**Resources:** The Poetry Toolkit from The Poetry Trust is full of brilliant activities for all ages and abilities. I intend to use it again outside of Reading Hack sessions.
 
 **Making a mess:** If you use permanent markers for the blackout poetry, make sure that there is something for people to lean on. The ink ran through the pages and all over the tables!
