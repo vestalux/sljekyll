@@ -16,9 +16,13 @@ github_username:  suffolklibraries
 # message: "Suffolk County Council proposes to reduce the library budget."
 message_link: news/xmas-opening-hours/
 <<<<<<< HEAD
+<<<<<<< HEAD
 message_link_text: Check our Christmas opening hours
 =======
 message_link_text: Check our Christmas and new year's opening hours
+>>>>>>> staging
+=======
+message_link_text: Check our Christmas and new year's opening times
 >>>>>>> staging
 
 
