@@ -7,13 +7,13 @@
 
 	</ul>
 
-	{% if site.message %}
+	{% if site.message or site.message_link_text %}
 
 		<div class="bg-black white pa2 pv1 pv3-ns ph3-ns">
 
 			<div class="custom-max-width">
 
-				<p class="f6 f5-ns ma0">{% if site.message_title %}<strong>{{ site.message_title }}</strong>: {% endif %}{{ site.message }}{% if site.message_link %} <a class="b link aqua" href="/{{ site.message_link }}">{{ site.message_link_text }}</a>.{% endif %}</p>
+<p class="f6 f5-ns ma0">{% if site.message %}<strong>{{ site.message }}</strong> {% endif %}<a class="b link aqua" href="/{{ site.message_link }}">{% if site.message_link_text %}{{ site.message_link_text }}</a>{% endif %}</p>
 
 			</div>
 
