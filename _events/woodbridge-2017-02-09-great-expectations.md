@@ -15,4 +15,4 @@ Trained at LAMDA, James has a professional acting career that spans more than 30
 
 Ticket price includes an interval drink.  
 
-To book, please contact Woodbridge Library on [01394 446510](01394446510).
+To book, please contact Woodbridge Library on [01394 446510](tel:01394446510).

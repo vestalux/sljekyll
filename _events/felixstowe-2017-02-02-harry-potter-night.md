@@ -21,4 +21,4 @@ The train leaves Platform 9&frac34; (aka Felixstowe Library) for an evening of s
 
 This event is recommended for ages 7+ with all children accompanied by an adult (not required to have a ticket themselves and we will allow entry to muggles). You may want to bring some money to spend in Flourish and Blotts.
 
-Please visit the [Felixstowe Book Festival website](www.felixstowebookfestival.co.uk), ring [01394 694880](tel:01394694880) or send an owl to Felixstowe Library for more info. Tickets sold out very quickly last year so hop on your Firebolt and whizz down to Felixstowe Library before they’re all gone!
+Please visit the [Felixstowe Book Festival website](http://www.felixstowebookfestival.co.uk), ring [01394 694880](tel:01394694880) or send an owl to Felixstowe Library for more info. Tickets sold out very quickly last year so hop on your Firebolt and whizz down to Felixstowe Library before they’re all gone!

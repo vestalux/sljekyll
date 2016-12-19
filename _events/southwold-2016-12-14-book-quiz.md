@@ -13,4 +13,4 @@ Take our book quiz, suitable for the whole family. Pick up a quiz sheet from the
 
 The winner is the person with the most correct answers or, in the event of a draw, the first out of the hat.
 
-Return your completed sheet to the library by Tuesday 31 January 2017; original sheets only, no photocopies will be accepted. For further information call Charlotte Clark on [01502 722519](01502722519).
+Return your completed sheet to the library by Tuesday 31 January 2017; original sheets only, no photocopies will be accepted. For further information call Charlotte Clark on [01502 722519](tel:01502722519).

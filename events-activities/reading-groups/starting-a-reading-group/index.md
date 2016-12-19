@@ -29,7 +29,6 @@ For ideas, you can also check out book recommendations from these websites:
 
 * [Reading group guides](http://www.readinggroupguides.com/guides)
 * [Reading Groups for Everyone](http://readinggroups.org/)
-* [Penguin reading group recommendations](http://www.penguin.co.uk/recommends/penguin-selections/readers-group/)
 * [Bookgroup.info](http://www.bookgroup.info/)
 * [Lovereading](http://www.lovereading.com/)
 * [Gnooks](http://www.gnooks.com/)
