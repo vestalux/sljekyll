@@ -4,7 +4,8 @@ name: "Meet Santa"
 location: lowestoft-library
 location-text: Lowestoft Library
 event-start-date: 2016-12-23
-event-start-time: 1000-1130
+event-start-time: 1000
+event-end-time: 1130
 event-category: christmas
 breadcrumb: y
 ---
