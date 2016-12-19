@@ -5,7 +5,7 @@ date: 2016-12-10
 author: jo-dixon
 category: childrens-ya-books
 excerpt: "Today's book is <cite>Rabbit's Bad Habits</cite>, by Julian Gough &amp; Jim Field."
-featured-image: /images/featured/rabbits-bad-habits.jpg
+featured-image: /images/featured/featured-rabbits-bad-habits.jpg
 featured-alt: Rabbit's Bad Habits
 tag: childrens-advent
 breadcrumb: childrens-ya-books
