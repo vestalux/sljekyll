@@ -17,17 +17,18 @@ branch-friends: Voices for Gainsborough Community Library
 branch-friends-url: /about/member-organisations/voices-for-gainsborough-community-library
 branch-social-media: y
 branch-facebook: gainsboroughlibrary
+branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/gainsborough-community-library-2
+branch-parking: small car park available at rear of library
+branch-bookdrop: y
+branch-toilet: y
+branch-refreshments: available in our café
+branch-display-space: two cork boards in cafe area for A3, A4 or A5 posters
 branch-wifi: y
 branch-netloan: old
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/gainsborough-community-library-2
 branch-borrowing-ereaders-and-ipads: an eReader
+branch-colour-printing: A4 or smaller available
+branch-photocopying: black and white, A4 or A3 available
+branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/gainsborough-community-library
-branch-display-space: "
-  <h4>Two cork boards in cafe area for posters</h4>
-  <ul>
-    <li>A5: 25p per sheet</li>
-    <li>A4: 50p per sheet</li>
-    <li>A3: £1 per sheet</li>
-  </ul>"
 breadcrumb: y
 ---

@@ -20,9 +20,18 @@ branch-for-sale: Reydon and Southwold Pantomime Group <cite>Aladdin</cite> ticke
 branch-social-media: y
 branch-twitter: southwoldlib
 branch-facebook: southwoldlibrary
+branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/southwold-library-2
+branch-parking: on-street parking only
+branch-bookdrop: y
+branch-refreshments: hot drinks for sale
+branch-for-sale: "crafts, local authors' books, branded bags and pens"
+branch-other-facilities: laminating (up to A4)
 branch-wifi: y
 branch-netloan: old
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/southwold-library-2
 branch-borrowing-ereaders-and-ipads: an iPad
+branch-colour-printing: available up to A4 size
+branch-photocopying: available in colour and black and white up to A4 size
+branch-faxing: y
+branch-scan-to-email: y
 breadcrumb: y
 ---
