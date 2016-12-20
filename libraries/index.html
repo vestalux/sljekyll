@@ -8,28 +8,42 @@ jquery: true
 ---
 <h1 class="{% include /c/page-title.html %}">Libraries</h1>
 
-<section>
+<div class="cf">
 
-    <h1 class="dn">Map</h1>
+    <div class="custom-g-l2">
 
-    {% include map.html %}
+        <section class="custom-lh-copy" id="library-list">
 
-</section>
+            <h1 class="dn">Libraries</h1>
 
-<section class="custom-prose custom-lh-copy pt2 pt4-ns" id="library-list">
+            {% for library in site.libraries %}
 
-    {% for library in site.libraries %}
+                <article class="{% include /c/slot.html %}">
 
-        <article class="{% include /c/slot.html %}">
+                    <h1 class="{% include /c/slot-title.html %}"><a class="blue" href="{{ library.branch-unique-id }}">{{ library.branch-name }}</a></h1>
 
-            <h1 class="{% include /c/slot-title.html %}"><a href="{{ library.branch-unique-id }}">{{ library.branch-name }}</a></h1>
+                    <p class="{% include /c/page-meta.html %} mb0">{{ library.branch-address }}, {{ library.branch-post-code }} &middot; <a class="blue" href="tel:{{ branch.phone }}">{{ library.branch-tel }}</a></p>
 
-            <p class="{% include /c/page-meta.html %} mb0">{{ library.branch-address }}, {{ library.branch-post-code }} &middot; <a href="tel:{{ branch.phone }}">{{ library.branch-tel }}</a></p>
+                    {% if library.branch-room-hire %}<p class="{% include /c/page-meta.html %} mt0"><a class="blue" href="{{ library.branch-room-hire }}">Room hire details</a>.</p>{% endif %}
 
-            {% if library.branch-room-hire %}<p class="{% include /c/page-meta.html %} mt0"><a href="{{ library.branch-room-hire }}">Room hire details</a>.</p>{% endif %}
+                </article>
 
-        </article>
+            {% endfor %}
 
-    {% endfor %}
+        </section>
 
-</section>
+    </div>
+
+    <div class="custom-g-l4 custom-g-nm">
+
+        <section class="pt1 bt b--light-gray">
+
+            <h1 class="dn">Map</h1>
+
+            {% include map.html %}
+
+        </section>
+
+    </div>
+
+</div>
