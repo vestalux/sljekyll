@@ -14,13 +14,18 @@ branch-address: Crescent Road, Felixstowe
 branch-post-code: IP11 7BY
 branch-tel: 01394 694880
 branch-friends: Felixstowe Town Council
-branch-for-sale: charity Christmas cards, local Christmas card deliveries in aid of the Scouts 25 Nov-8 Dec
 branch-social-media: y
 branch-facebook: felixstowelibrary
+branch-parking: Pay & Display car park opposite
+branch-bookdrop: y
+branch-toilet: y
+branch-refreshments: available in our café
 branch-wifi: y
 branch-netloan: old
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/felixstowe-library-2
-branch-room-hire: /libraries/room-hire/felixstowe-library
 branch-borrowing-ereaders-and-ipads: an iPad
+branch-photocopying: available
+branch-colour-printing: available
+branch-scan-to-email: y
+branch-room-hire: /libraries/room-hire/felixstowe-library
 breadcrumb: y
 ---

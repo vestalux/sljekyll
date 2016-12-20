@@ -94,22 +94,13 @@
 
                 <div class="cf mt4 pt3 bt b--light-gray">
 
-                    <section class="custom-g-l3" id="facilities">
+                    <section class="custom-g-l3" id="branch facilities">
 
                         <section>
 
-                            <h1 class="f3 ma0 mb3 custom-lh-title">Facilities</h2>
+                            <h1 class="f3 ma0 mb3 custom-lh-title">Branch facilities</h2>
 
                             <ul class="pl0-ns">
-
-                                {% if page.branch-wifi %}
-                                  <li>
-                                  Free wifi available
-                                  </li>
-                                  <li>
-                                  <a class="blue" href="/help/printing-copying-scanning">Scanning, printing and photocopying facilities</a>
-                                  </li>
-                                {% endif %}
 
                                 {% if page.branch-accessibility %}
                                   <li>
@@ -123,54 +114,109 @@
                                   </li>
                                 {% endif %}
 
-                                {% if page.branch-borrowing-ereaders-and-ipads %}
+                                {% if page.branch-parking %}
                                   <li>
-                                  <a class="blue" href="/help/borrowing-ereaders-and-ipads/">Borrow {{ page.branch-borrowing-ereaders-and-ipads }}</a> from the library
+                                  Parking: {{ page.branch-parking }}
                                   </li>
                                 {% endif %}
 
-                                {% if page.branch-netloan %}
-                                <li>
-                                  {% if page.branch-netloan == 'old' %}
-                                    <a href="http://netloan.suffolklibraries.co.uk" class="blue">Book a computer</a>
-                                  {% elsif page.branch-netloan == 'new' %}
-                                    <a href="http://78.31.106.220/netloan/Login.aspx" class="blue">Book a computer</a>
-                                  {% endif %}
-                                </li>
+                                {% if page.branch-bookdrop %}
+                                  <li>
+                                  Out-of-hours book return available
+                                  </li>
+                                {% endif %}
+
+                                {% if page.branch-toilet %}
+                                  <li>
+                                  Customer toilet available
+                                  </li>
+                                {% endif %}
+
+                                {% if page.branch-refreshments %}
+                                  <li>
+                                  Refreshments: {{ page.branch-refreshments }}
+                                  </li>
+                                {% endif %}
+
+                                {% if page.branch-display-space %}
+                                  <li>
+                                  Display space: {{ page.branch-display-space }}
+                                  </li>
+                                {% endif %}
+
+                                {% if page.branch-for-sale %}
+                                  <li>
+                                  <strong>For sale</strong>: {{ page.branch-for-sale }}
+                                  </li>
                                 {% endif %}
 
                                 {% if page.branch-other-facilities %}
-                                  <li class="custom-prose">
-                                  {{ page.branch-other-facilities }}
+                                  <li>
+                                  Also available: {{ page.branch-other-facilities }}
                                   </li>
                                 {% endif %}
 
 
                             </ul>
 
-                        </section>
+                        <h1 class="f3 ma0 mb3 custom-lh-title">IT and printing facilities</h2>
 
-                        <section>
+                        <ul class="pl0-ns">
 
-                            {% if page.branch-room-hire %}
+                            {% if page.branch-wifi %}
+                              <li>
+                              Free wifi available
+                              </li>
+                              {% endif %}
 
-                                <p><a class="pure-button" href="{{ page.branch-room-hire }}">Room hire</a></p>
-
+                            {% if page.branch-netloan %}
+                            <li>
+                              {% if page.branch-netloan == 'old' %}
+                                <a href="http://netloan.suffolklibraries.co.uk" class="blue">Book a computer</a>
+                              {% elsif page.branch-netloan == 'new' %}
+                                <a href="http://78.31.106.220/netloan/Login.aspx" class="blue">Book a computer</a>
+                              {% endif %}
+                            </li>
                             {% endif %}
 
-                            {% if page.branch-display-space %}
-
-                                <h1 class="f4 ma0 mb2 custom-lh-title">Display space</h1>
-
-                                <p>{{ page.branch-display-space }}</p>
-
+                            {% if page.branch-borrowing-ereaders-and-ipads %}
+                              <li>
+                              <a class="blue" href="/help/borrowing-ereaders-and-ipads/">Borrow {{ page.branch-borrowing-ereaders-and-ipads }}</a> from the library
+                              </li>
                             {% endif %}
 
-                            {% if page.branch-for-sale %}
-
-                                <p><strong>For sale:</strong> {{ page.branch-for-sale }}</p>
-
+                            {% if page.branch-photocopying %}
+                              <li>
+                              Photocopying: {{ page.branch-photocopying }}
+                              </li>
                             {% endif %}
+
+                            {% if page.branch-colour-printing %}
+                              <li>
+                              Colour printing: {{ page.branch-colour-printing }}
+                              </li>
+                            {% endif %}
+
+                            {% if page.branch-scan-to-email %}
+                              <li>
+                              Scan to email available
+                              </li>
+                            {% endif %}
+
+                            {% if page.branch-faxing %}
+                                <li>
+                                Fax services available
+                                </li>
+                            {% endif %}
+
+
+                        </ul>
+
+                        {% if page.branch-room-hire %}
+
+                            <p><a class="pure-button" href="{{ page.branch-room-hire }}">Room hire</a></p>
+
+                        {% endif %}
 
                         </section>
 

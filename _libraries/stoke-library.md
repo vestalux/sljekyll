@@ -16,8 +16,13 @@ branch-tel: 01473 681751
 branch-friends: Friends of Stoke Library
 branch-social-media: y
 branch-facebook: stokelibrary
+branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/stoke-library-2
+branch-parking: available on school site
+branch-toilet: y
 branch-wifi: y
 branch-netloan: old
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/stoke-library-2
+branch-colour-printing: available
+branch-photocopying: available on printer
+branch-scan-to-email: y
 breadcrumb: y
 ---

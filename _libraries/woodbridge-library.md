@@ -19,17 +19,21 @@ branch-social-media: y
 branch-twitter: woodbridgelib
 branch-facebook: Woodbridge-Library-Suffolk-575433289169395
 branch-booked-out-podcast: /new-suggestions/booked-out/
+branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/woodbridge-library-2
+branch-parking: Pay & Display available outside
+branch-bookdrop: y
+branch-toilet: y
+branch-other-facilities: Suffolk Coastal customer services
+branch-special-collections: Edward Fitzgerald collection, Seckford collection
+branch-display-space: Display boards and staffed table display available for hire
 branch-for-sale: Friends of Woodbridge Library cotton shopping bags (£3) and magnetic bookmarks (£1)
 branch-wifi: y
 branch-netloan: old
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/woodbridge-library-2
-branch-special-collections: Edward Fitzgerald collection, Seckford collection
 branch-borrowing-ereaders-and-ipads: an eReader
+branch-colour-printing: available
+branch-photocopying: available
+branch-scan-to-email: y
+branch-faxing: y
 branch-room-hire: /libraries/room-hire/woodbridge-library
-branch-display-space: "
-<strong>Display boards</strong>
-<p>Cost: £10 per week</p>
-<strong>Staffed table display in main library/</strong>
-<p>Cost: £10 per day</p>"
 breadcrumb: y
 ---

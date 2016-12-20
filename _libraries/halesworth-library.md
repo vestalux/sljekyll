@@ -18,10 +18,18 @@ branch-friends-url: /about/member-organisations/friends-of-halesworth-county-lib
 branch-social-media: y
 branch-twitter: halesworthlib
 branch-facebook: Halesworth-Library-391603700955116
+branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/halesworth-library-2
+branch-parking: unavailable
+branch-bookdrop: y
+branch-toilet: y
+branch-refreshments: £1 for a cup of coffee or tea
 branch-wifi: y
 branch-netloan: new
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/halesworth-library-2
 branch-borrowing-ereaders-and-ipads: an iPad
+branch-colour-printing: available in A4 only
+branch-photocopying: available
+branch-scan-to-email: y
+branch-faxing: y
 branch-room-hire: /libraries/room-hire/halesworth-library
 breadcrumb: y
 ---
