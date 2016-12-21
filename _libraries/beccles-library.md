@@ -18,14 +18,20 @@ branch-friends-url: /about/member-organisations/beccles-library-community-trust-
 branch-social-media: y
 branch-facebook: beccleslibrarysuffolk
 branch-twitter: beccleslib
+branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/beccles-library-2
+branch-parking: public car park available with 6 free 1 hour spaces, paid parking also available
+branch-toilet: y
+branch-bookdrop: y
+branch-refreshments: Fairtrade coffee machine and snacks for sale
+branch-other-facilities: Beccles Library is a Trusted Advisor organisation offering support accessing information for your health and social needs, help to navigate Suffolk Infolink and other online information resources and information about other organisations in the area and help to contact them
 branch-wifi: y
 branch-netloan: old
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/beccles-library-2
-branch-other-facilities: Beccles Library is a Trusted Advisor organisation offering support accessing information for your health and social needs, help to navigate Suffolk Infolink and other online information resources and information about other organisations in the area and help to contact them
+branch-colour-printing: available
+branch-photocopying: available
+branch-scan-to-email: y
+branch-faxing: y
 branch-room-hire: /libraries/room-hire/beccles-library
-branch-display-space: "
-  <strong>Double sided notice board</strong>
-  <p>Displays posters for local non-commercial events, such as church fetes.</p>"
+branch-display-space: Double-sided noticeboard for non-commercial event posters "
 branch-borrowing-ereaders-and-ipads: an iPad
 breadcrumb: y
 ---
