@@ -17,15 +17,15 @@ branch-friends: Friends of Chantry Library
 branch-social-media: y
 branch-facebook: Chantry-Library-797858243630998
 branch-twitter: Chantry_Library
+branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/chantry-library-2
+branch-parking: available
+branch-bookdrop: y
+branch-toilet: y
+branch-display-space: Glass display cabinet available for hire in whole or part
 branch-wifi: y
 branch-netloan: old
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/chantry-library-2
-branch-display-space: "
-<strong>Glass display cabinet</strong>
-<p>Displays items for up to a month.</p>
-<ul>
-  <li>General use: £5 per month for a shelf, £5 per week for the entire cabinet</li>
-  <li>Charities and local community organisations: free</li>
-</ul>"
+branch-colour-printing: available
+branch-photocopying: black and white available
+branch-scan-to-email: y
 breadcrumb: y
 ---

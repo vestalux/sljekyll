@@ -19,9 +19,14 @@ branch-social-media: y
 branch-twitter: sudburylibrary
 branch-facebook: sudburylibrary
 branch-instagram: sudburylibrary
+branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/sudbury-library-2
+branch-parking: unavailable
+branch-bookdrop: y
 branch-wifi: y
 branch-netloan: old
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/sudbury-library-2
+branch-colour-printing: available
+branch-photocopying: available
+branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/sudbury-library
 breadcrumb: y
 ---

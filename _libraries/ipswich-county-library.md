@@ -19,17 +19,16 @@ branch-social-media: y
 branch-twitter: ipswich_library
 branch-facebook: ipswichcountylibrary
 branch-instagram: ipswich_county_library
+branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/ipswich-county-library-2
+branch-bookdrop: y
+branch-toilet: y
+branch-special-collections: African Caribbean resources, Indic language resources, Music & drama library
+branch-display-space: Double sided display case available for hire - please book 2 weeks in advance
 branch-wifi: y
 branch-netloan: old
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/ipswich-county-library-2
-branch-special-collections: African Caribbean resources, Indic language resources, Music & drama library
+branch-colour-printing: available
+branch-photocopying: available
+branch-faxing: y
 branch-room-hire: /libraries/room-hire/ipswich-county-library
-branch-display-space: "
-<strong>Double sided display case</strong>
-<p>Please book 2 weeks in advance. Displays can be put in the case after 2pm on Mondays and must be removed by 12 noon the following Monday.</p>
-<ul>
-  <li>Profit organisation hire: £80.30 per week</li>
-  <li>Non-profit organisation hire: £40.15 per week</li>
-</ul>"
 breadcrumb: y
 ---
