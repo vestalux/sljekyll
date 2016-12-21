@@ -16,16 +16,15 @@ branch-tel: 01842 816106
 branch-friends: Friends of Brandon Library
 branch-social-media: y
 branch-facebook: brandonlibrarysuffolk
+branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/brandon-library-3
+branch-parking: free car park available adjacent to the library
+branch-toilet: y
+branch-room-hire: /libraries/room-hire/brandon-library
+branch-display-space: Space for A3, A4 and A5 posters advertising local events
 branch-wifi: y
 branch-netloan: old
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/brandon-library-3
-branch-room-hire: /libraries/room-hire/brandon-library
-branch-display-space: "
-<p>Local and library event posters:</p>
-<ul>
-<li>A3 poster: £1</li>
-<li>A4 poster: 50p</li>
-<li>A5 poster: 20p</li>
-</ul>"
+branch-colour-printing: available
+branch-photocopying: available
+branch-scan-to-email: y
 breadcrumb: y
 ---

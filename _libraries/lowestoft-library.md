@@ -21,9 +21,17 @@ branch-social-media: y
 branch-twitter: lowestoftlib
 branch-facebook: lowestoftlibrary
 branch-pinterest: lowlib
+branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/lowestoft-library-2
+branch-parking: available in public car parks nearby
+branch-bookdrop: y
+branch-toilets: y
+branch-refreshments: café open 1000-1600 Tuesday-Friday
 branch-wifi: y
 branch-netloan: old
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/lowestoft-library-2
+branch-colour-printing: available
+branch-photocopying: available
+branch-scan-to-email: y
+branch-faxing: y
 branch-room-hire: /libraries/room-hire/lowestoft-library
 breadcrumb: y
 ---
