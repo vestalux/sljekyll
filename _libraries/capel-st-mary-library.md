@@ -17,10 +17,16 @@ branch-friends: Friends of Capel Library
 branch-social-media: y
 branch-twitter: capellibrary
 branch-facebook: capellibrary
+branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/capel-st-mary-library-2
+branch-parking: car parks available beside the children's play area and in the shopping precinct a short distance away
+branch-bookdrop: y
+branch-toilet: y
+branch-display-space: Small, free local noticeboard available
 branch-wifi: y
 branch-netloan: old
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/capel-st-mary-library-2
-branch-display-space: "Small notice board: Displays local notices. Free to display notices."
+branch-colour-printing: available
+branch-photocopying: available courtesy of the Community Trust
+branch-scan-to-email: y
 branch-borrowing-ereaders-and-ipads: an iPad
 breadcrumb: y
 ---

@@ -16,8 +16,13 @@ branch-tel: 01728 652440
 branch-friends: Saxmundham Library Friends
 branch-social-media: y
 branch-facebook: Saxmundham-Library-453545194727269
+branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/saxmundham-library-2
+branch-parking: 6 spaces available, one of which is reserved for disabled customers
+branch-toilet: y
 branch-wifi: y
 branch-netloan: old
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/saxmundham-library-2
+branch-colour-printing: available
+branch-photocopying: available
+branch-scan-to-email: y
 breadcrumb: y
 ---

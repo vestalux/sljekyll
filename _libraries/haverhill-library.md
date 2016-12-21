@@ -18,24 +18,17 @@ branch-social-media: y
 branch-twitter: haverhillibrary
 branch-facebook: Haverhill-Library-Suffolk-202854396546832
 branch-pinterest: haverhillibrary
+branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/haverhill-library-2
+branch-parking: available for disabled customers and deliveries only
+branch-bookdrop: y
+branch-toilet: y
+branch-refreshments: café open 1000-1600 on weekdays
 branch-wifi: y
 branch-netloan: old
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/haverhill-library-2
+branch-colour-printing: available
+branch-photocopying: available
+branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/haverhill-library
-branch-display-space: "
-<strong>Display space 1: Foyer (suitable for small table top / banner display)</strong>
-<ul>
-  <li>Per day (manned): £5</li>
-  <li>Per week (unmanned): £20</li>
-</ul>
-<strong>Display space 2: in library (suitable for small table top / banner display)</strong>
-<ul>
-  <li>Per day (manned): £5</li>
-  <li>Per week (unmanned): £20</li>
-</ul>
-<strong>Glass Display Cabinet: in library (suitable for exhibiting crafts, handmade goods, collections)</strong>
-<p>Per week (maximum 2 weeks): £7.50 per week</p>
-<strong>Large Display board: in library (suitable for exhibition displays, local project information, public notices)</strong>
-  <p>Per week (maximum 2 weeks): £7.50 per week</p>"
+branch-display-space: Small table top/banner display spaces available in the foyer and library, glass display cabinet and large display board available in the library
 breadcrumb: y
 ---
