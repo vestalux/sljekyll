@@ -1,6 +1,8 @@
 @media screen, projection {
 
     .custom-flex-container {
+        max-width: 100%;
+        overflow: auto;
         display: -webkit-box;
         display: -moz-box;
         display: -ms-flexbox;
