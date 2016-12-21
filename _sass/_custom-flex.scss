@@ -1,6 +1,7 @@
 @media screen, projection {
 
     .custom-flex-container {
+        flex: 1;
         display: flex;
         display: -webkit-box;
         display: -moz-box;
@@ -12,7 +13,7 @@
 
     .custom-flex-row {
         flex-direction: row;
-        width: 16.53em; /* Gives us thirds roughly */
+        width: 16.53em; /* Gives us thirds roughly, but I could be a bit more width agnostic here */
         margin-bottom: 1rem;
     }
 
