@@ -1,7 +1,7 @@
 ---
 branch-unique-id: newmarket-library
 branch-name: Newmarket Library
-branch-image: /images/branches/newmarket-library-2.jpg
+branch-image: /images/branches/newmarket-library-3.jpg
 branch-monday-hours: Closed
 branch-tuesday-hours:	0830 – 1800
 branch-wednesday-hours: 0900 – 1700
