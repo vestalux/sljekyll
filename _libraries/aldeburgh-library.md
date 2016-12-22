@@ -17,9 +17,15 @@ branch-friends: Aldeburgh Library Foundation
 branch-friends-url: /about/member-organisations/aldeburgh-library-foundation/
 branch-social-media: y
 branch-facebook: aldeburghlibrary
+branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/aldeburgh-library-2
+branch-parking: free parking available nearby
+branch-bookdrop: y
+branch-toilet: y
 branch-wifi: y
 branch-netloan: new
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/aldeburgh-library-2
+branch-colour-printing: available
+branch-photocopying: available
+branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/aldeburgh-library
 branch-display-space: "Two cork boards in the foyer: displays adverts for anyone selling items."
 breadcrumb: y
