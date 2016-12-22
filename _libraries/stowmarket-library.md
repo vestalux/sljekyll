@@ -20,9 +20,14 @@ branch-friends-url: /about/member-organisations/friends-of-stowmarket-library
 branch-social-media: y
 branch-facebook: Stowmarket-Library-252331724951185
 branch-twitter: StowLibrary
+branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/stowmarket-library-2
+branch-bookdrop: y
+branch-toilet: y
 branch-wifi: y
 branch-netloan: old
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/stowmarket-library-2
+branch-colour-printing: available
+branch-photocopying: available
+branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/stowmarket-library
 breadcrumb: y
 ---
