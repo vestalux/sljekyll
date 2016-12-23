@@ -16,7 +16,7 @@ We would like to advise customers of our library opening hours during the festiv
 - Wednesday 28 December – open as usual
 - Thursday 29 December – open as usual
 - Friday 30 December - open as usual
-- Saturday 31 December – open as usual
+- Saturday 31 December – branches open as usual, customer service line closed
 - Sunday 1 January – closed
 - Monday 2 January – closed
 - Tuesday 3 January onwards – open as usual.
@@ -25,4 +25,6 @@ Please note these are general opening hours and we recommend that you refer to s
 
 If your library loan is due back on a Bank Holiday we will automatically extend the return date until when the library is open again. Don’t forget you can also [renew and reserve items on our website](https://suffolk.spydus.co.uk/), or [use our online services](/elibrary).
 
-You can also call us on [01473 351249](tel:01473351249) or email us at **help@suffolklibraries.co.uk**. If you contact us when we are closed, we will respond to you when we reopen.
+You can also call us on [01473 351249](tel:01473351249) or email us at **help@suffolklibraries.co.uk**.
+
+**Please note that the customer service line will be closed on 31 December.** If you contact us when we are closed, we will respond to you when we reopen.
