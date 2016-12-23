@@ -5,12 +5,6 @@ date: 2016-12-02
 author: leon-paternoster
 category: blog
 excerpt: "What better gift than a book, album or film for Christmas? Whoever the gift is for, we've got loads of ideas for you."
-featured-image: /images/featured/featured-xmas-blog.jpg
-featured-alt: Books and magazines for Christmas
-breadcrumb: blog
-featured: true
-featured-excerpt: "What better gift than a book, album or film for Christmas? Whoever the gift is for, we've got loads of ideas for you, as well as lots of free digital magazines full of craft, present and cooking ideas."
-featured-link-text: See our Christmas ideas
 ---
 
 Every month we publish [round ups of the latest books, films and music](/new-suggestions/) available from our libraries. They're a popular part of our website.

@@ -15,7 +15,7 @@ twitter_username: suffolklibrary
 github_username:  suffolklibraries
 # message: "Suffolk County Council proposes to reduce the library budget."
 message_link: /news/xmas-opening-hours/
-message_link_text: Check our Christmas and new year's opening times
+message_link_text: "Christmas and new year's opening times &rarr;"
 
 # Build settings
 markdown: kramdown
