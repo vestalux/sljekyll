@@ -18,28 +18,17 @@ branch-for-sale: Stamps, A4 envelopes, plastic wallets, ballpoint pens, canvas b
 branch-social-media: y
 branch-twitter: burylibsuffolk
 branch-facebook: burystedmundslibrary
+branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/bury-st-edmunds-library-2
+branch-bookdrop: y
+branch-toilet: y
+branch-refreshments: café selling drinks and snacks
 branch-wifi: y
 branch-netloan: old
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/bury-st-edmunds-library-2
+branch-colour-printing: available
+branch-photocopying: available
+branch-scan-to-email: y
+branch-faxing: y
 branch-room-hire: /libraries/room-hire/bury-st-edmunds-library
-branch-display-space: "
-<strong>Internal Foyer (suitable for table top / banner display)</strong>
-<p>Per day (manned):</p>
-<ul>
-<li>Charitable and voluntary: £12</li>
-<li>Other (commercial and statutory bodies): £20</li>
-</ul>
-<strong>External Foyer (suitable for table top / banner display)</strong>
-<p>Per week:</p>
-<ul>
-<li>Charitable and voluntary: £12</li>
-<li>Other (commercial and statutory bodies) £20</li>
-</ul>
-<strong>Paid for Display board</strong>
-<p>Public notices for services/goods. Per week (to a maximum of six weeks):</p>
-<ul>
-<li>A5: 50p per week</li>
-<li>A4: £1 per week</li>
-</ul>"
+branch-display-space: Space available for table top or banner displays in internal and external foyer. Public notice board also available.
 breadcrumb: y
 ---
