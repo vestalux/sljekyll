@@ -114,7 +114,7 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="176">
-      Coopersfield
+      Gracechurch Street/Henry Street
     </td>
 
     <td valign="bottom" width="97">
