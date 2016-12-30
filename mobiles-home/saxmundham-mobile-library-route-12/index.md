@@ -269,7 +269,6 @@ Telephone: 01473 263838
       1345 &#8211; 1410
     </td>
   </tr>
-</table>
 
 <tr>
   <td valign="bottom" width="44">
@@ -288,7 +287,6 @@ Telephone: 01473 263838
     1425 &#8211; 1455
   </td>
 </tr>
-</table>
 
 <tr>
   <td valign="bottom" width="44">
