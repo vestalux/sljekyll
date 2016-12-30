@@ -9,9 +9,9 @@ breadcrumb: news
 ---
 
 Each month BBC Radio Suffolk presenter Lesley Dolphin discusses a book with
-journalist Catherine Larner as part of Lesley's Reads Monthly book group.
+journalist Catherine Larner as part of Lesley's Readers Monthly book group.
 
-This months chosen book is Whispering Shadows by Jan-Philipp Sendker.
+This month's chosen book is <cite>Whispering Shadows</cite> by Jan-Philipp Sendker.
 Get involved! If you've read the book you can join in the discussion at 2:30pm
 on Tuesday 6th September. Call Radio Suffolk on 01473 250000 or tweet
 [@lesleydolphin](https://twitter.com/lesleydolphin) or visit wwww.facebook.com/LesleysReaders.
