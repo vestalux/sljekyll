@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers - no session 23 or 30 December"
+recurrent-title: "Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers"
 recurrent-day: Friday
 recurrent-times: 1130-1200
 recurrent-location: felixstowe-library
