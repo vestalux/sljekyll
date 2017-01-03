@@ -11,7 +11,7 @@ featured-link-text: Check out our new films and DVDs for December 2016.
 breadcrumb: films-dvds
 ---
 
-![](/images/featured/featured-december-dvds.jpg)
+![Ice Age: Collision Course and Pete's Dragon](/images/featured/featured-december-dvds.jpg)
 
 ## [<cite>Suicide Squad</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2060482)
 

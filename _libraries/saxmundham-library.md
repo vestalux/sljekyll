@@ -25,5 +25,4 @@ branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y
 breadcrumb: y
-branch-news: Please note that there will be no heating in the library on Wednesday 28, Thursday 29 and Friday 30 December due to maintenance work. For this reason, there will be no Top Time session on Thursday 29 December.
 ---
