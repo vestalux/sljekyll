@@ -100,25 +100,13 @@ breadcrumb: home
 
     </div>
 
-    <div class="custom-g-l2">
+    <div class="custom-g-l2 custom-g-nm">
 
         <section class="{% include /c/block.html %}">
 
             <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/suffolk-writes">Suffolk Writes</a></h1>
 
             <p class="{% include /c/block-graf.html %}">Suffolk Writes is a project giving you the opportunity to make your written work available to Suffolk Libraries customers to borrow.</p>
-
-        </section>
-
-    </div>
-
-    <div class="custom-g-l2 custom-g-nm">
-
-        <section class="{% include /c/block.html %}">
-
-            <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/our-year-of-reading">Our Year of Reading</a></h1>
-
-            <p class="{% include /c/block-graf.html %}">Celebrate and promote reading across Suffolk in 2016 and help us improve literacy, encourage reading for pleasure and remind everyone of the importance of reading.</p>
 
         </section>
 
