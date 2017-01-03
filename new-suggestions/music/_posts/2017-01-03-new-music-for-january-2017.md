@@ -6,12 +6,12 @@ author: brandon-king
 category: music
 excerpt: 'Brandon King rounds up the latest music available at Suffolk Libraries.'
 featured-image: /images/featured/featured-music-january-2017.jpg
-featured-alt:
+featured-alt: Leonard Cohen, The Flaming Lips
 featured-link-text: Check out the latest music we have in stock.
 breadcrumb: music
 ---
 
-![](/images/featured/featured-music-january-2017.jpg)
+![Leonard Cohen, The Flaming Lips](/images/featured/featured-music-january-2017.jpg)
 
 ## [The xx - <cite>I See You</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2116893)
 
