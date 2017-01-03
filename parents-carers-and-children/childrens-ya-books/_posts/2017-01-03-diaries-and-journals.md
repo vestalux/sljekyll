@@ -115,6 +115,12 @@ This diary is a good read and the expressive narrative should enrich learning fr
 
 ## Young teen
 
+### [<cite>The Vlogger Diaries: confessions of an internet sensation</cite>, by Tim Collins](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2101004)
+
+> "If you can't make friends, make subscribers. Olivia Warren is living the vlogging dream. With thousands of subscribers, a gorgeous boyfriend and freebies coming through the door, it couldn't be going better. But Olivia has a secret. The girl on the vlog isn't her. How long can it last? Will Olivia be exposed as a fraud? And will Olivia's cat ever stop sleeping and do something cute enough to go viral? Discover the hilarious story of one teenage girl's journey from geeky nobody to online superstar - sort of."
+
+This book is very funny!
+
 ### [<cite>My Smoky Bacon Crisp Obsession</cite>, by J. A. Buckle](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1736326)
 
 > "16-year-old Josh Walker is starting sixth form college and is determined to form a band, get a lot closer to his new girlfriend Becky and, hopefully, pass the odd A level. A few days in and he's already embarrassed himself in front of a class - he'll need all the help his ferret, a little witchcraft and a lot of smoky bacon crisps can give."
