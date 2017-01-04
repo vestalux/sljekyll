@@ -15,4 +15,4 @@ breadcrumb: y
 
 In George Balanchine’s <cite>The Nutcracker</cite>, Tchaikovsky’s beloved melodies transport the young and young at heart to a magical world where mischievous mice besiege a battalion of toy soldiers, and an onstage blizzard leads to an enchanted Land of Sweets.
 
-New York City Ballet’s famously extravagant staging features Balanchine’s stunning choreography amidst awe-inspiring set pieces, ornate costumes and grand one-of-a-kind visual effects, like the one-tonne Christmas tree that grows to an astonishing 12 metres.
+New York City Ballet’s famously extravagant staging features Balanchine’s stunning choreography amidst awe-inspiring set pieces, ornate costumes and grand one-of-a-kind visual effects, such as the one-tonne Christmas tree that grows to an astonishing 12 metres.
