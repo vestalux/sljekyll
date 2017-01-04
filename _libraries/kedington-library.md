@@ -16,9 +16,14 @@ branch-tel: 01440 703449
 branch-friends: Friends of Kedington Library
 branch-social-media: y
 branch-facebook: kedingtonlibrary
+branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/kedington-library
+branch-parking: available
+branch-refreshments: available
 branch-wifi: y
 branch-netloan: new
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/kedington-library
+branch-colour-printing: available
+branch-photocopying: available
+branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/kedington-library
 branch-borrowing-ereaders-and-ipads: an iPad
 breadcrumb: y
