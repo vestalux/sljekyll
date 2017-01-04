@@ -23,7 +23,7 @@ branch-parking: public car park available with 6 free 1 hour spaces, paid parkin
 branch-toilet: y
 branch-bookdrop: y
 branch-refreshments: Fairtrade coffee machine and snacks for sale
-branch-other-facilities: Beccles Library is a Trusted Advisor organisation offering support accessing information for your health and social needs, help to navigate Suffolk Infolink and other online information resources and information about other organisations in the area and help to contact them
+branch-other-facilities: "Trusted Advisor organisation: Get health &amp; social services info &amp; advice."
 branch-wifi: y
 branch-netloan: old
 branch-colour-printing: available
@@ -31,7 +31,7 @@ branch-photocopying: available
 branch-scan-to-email: y
 branch-faxing: y
 branch-room-hire: /libraries/room-hire/beccles-library
-branch-display-space: Double-sided noticeboard for non-commercial event posters "
+branch-display-space: Double-sided noticeboard for non-commercial event posters
 branch-borrowing-ereaders-and-ipads: an iPad
 breadcrumb: y
 ---
