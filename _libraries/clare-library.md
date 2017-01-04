@@ -16,9 +16,16 @@ branch-tel: 01787 277702
 branch-friends: Friends of Clare Library
 branch-social-media: y
 branch-facebook: clarelibrary.co.uk
+branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/clare-library-2
+branch-parking: available
+branch-bookdrop: y
+branch-toilet: y
+branch-refreshments: available
 branch-wifi: y
 branch-netloan: new
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/clare-library-2
+branch-colour-printing: available
+branch-photocopying: available
+branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/clare-library
 branch-borrowing-ereaders-and-ipads: an iPad
 breadcrumb: y
