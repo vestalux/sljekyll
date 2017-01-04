@@ -15,7 +15,7 @@ featured-excerpt: '&#8220;My mother had an exalted notion of writers (without al
 featured: true
 ---
 
-![Alan Bennett](/images/featured/featured-alan-bennett.jpg)
+{% include /c/figure.html alt="Alan Bennett" src="/images/featured/featured-alan-bennett.jpg" caption="Alan Bennett" %}
 
 Alan Bennett is an English playwright, screenwriter, actor and author. His collaboration as writer and performer with Dudley Moore, Jonathan Miller and Peter Cook in the satirical revue <cite>Beyond the Fringe</cite> at the 1960 Edinburgh Festival brought him instant fame. He gave up academia, and turned to writing full-time, his first stage play <cite>Forty Years On</cite> being produced in 1968.
 
