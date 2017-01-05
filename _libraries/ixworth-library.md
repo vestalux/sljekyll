@@ -17,9 +17,15 @@ branch-friends: Friends of Ixworth Library
 branch-friends-url: /about/member-organisations/friends-of-ixworth-library-foil
 branch-social-media: y
 branch-facebook: Ixworth-Library-1454121214829698
+branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/ixworth-library-2
+branch-parking: available
+branch-toilet: y
 branch-wifi: y
 branch-netloan: old
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/ixworth-library-2
+branch-colour-printing: available
+branch-photocopying: available
+branch-scan-to-email: y
+branch-faxing: y
 branch-borrowing-ereaders-and-ipads: iPad
 breadcrumb: y
 ---

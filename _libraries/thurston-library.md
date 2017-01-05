@@ -17,9 +17,16 @@ branch-friends: Friends of Thurston Library
 branch-friends-url: /about/member-organisations/friends-of-thurston-library
 branch-social-media: y
 branch-twitter: thurstonlibrary
+branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/thurston-library-2
+branch-parking: available
+branch-toilet: y
+branch-refreshments: available
 branch-wifi: y
 branch-netloan: old
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/thurston-library-2
+branch-colour-printing: available
+branch-photocopying: available
+branch-scan-to-email: y
+branch-faxing: y
 branch-borrowing-ereaders-and-ipads: an eReader
 breadcrumb: y
 ---
