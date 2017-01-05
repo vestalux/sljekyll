@@ -1,5 +1,5 @@
 ---
-recurrent-title: 'Learn to play ukulele - see <a href="http://www.frombeginnerstoperformers.co.uk/426321855/category/724805/courses-and-lessons">instructor Zoe Wadey's website for more information</a> - £60 for a 6 week course'
+recurrent-title: 'Learn to play ukulele - see <a href="http://www.frombeginnerstoperformers.co.uk/426321855/category/724805/courses-and-lessons">ihttp://www.frombeginnerstoperformers.co.uk/426321855/category/724805/courses-and-lessons for more information</a> - £60 for a 6 week course'
 recurrent-day: Fridays for 6 weeks from 27 January
 recurrent-times: 1400-1600
 recurrent-location: beccles-library
