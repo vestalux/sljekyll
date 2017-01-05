@@ -1,6 +1,6 @@
 ---
 id: felixstowe-harry-potter
-name: "Harry Potter book night"
+name: "Harry Potter Book Night"
 location: felixstowe-library
 location-text: Felixstowe Library
 event-start-date: 2017-02-02
