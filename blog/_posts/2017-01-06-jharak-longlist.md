@@ -36,7 +36,7 @@ Malorie Blackman used to be the Children's Laureate and her books are very popul
 
 > "Nina does not have a drinking problem. She likes a drink, sure. But what 17-year-old doesn't? Nina's mum isn't so sure. But she's busy with her new husband and five-year-old Katie. And Nina's almost an adult after all. And if Nina sometimes wakes up with little memory of what happened the night before, then her friends are all too happy to fill in the blanks. Nina's drunken exploits are the stuff of college legend. But then one dark Sunday morning, even her friends can't help piece together Saturday night. All Nina feels is a deep sense of shame, that something very bad has happened to her."
 
-Comedian Shappi Khorsandi's debut novel is described by publishers eBury as "darkly funny and sometimes shocking."
+Comedian Shappi Khorsandi has withdrawn from the longlist, but we still think her book looks well worth a read.
 
 ## [<cite>Orangeboy</cite>, by Patrice Lawrence](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1976767)
 
@@ -68,7 +68,7 @@ This novel for young teens incorporates myths, magic and monsters.
 
 <cite>The Daily Telegraph</cite> selected <cite>A Rising Man</cite> as one of its Books of 2016, describing it as "a lip-smacking and highly entertaining mystery, set in a Calcutta so convincingly evoked that readers will find sweat bursting from their foreheads."
 
-## [<cite>Speak Gigantular</cite>, by Irenosen Okojie]()
+## [<cite>Speak Gigantular</cite>, by Irenosen Okojie](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2136971)
 
 > "A startling debut short story collection from one of Britain's rising literary stars. These stories are captivating, erotic, enigmatic and disturbing. Irenosen Okojie's gift is in her understated humour, her light touch, her razor-sharp assessment of the best and worst of humankind, and her unflinching gaze into the darkest corners of the human experience.
 
@@ -88,7 +88,7 @@ David Olusoga is a Bafta-award winning broadcaster and historian, and this book 
 
 This Radio 4 Book of the Week looks both back at the past of Indian medicine, and forward to the challenges it will face in the future.
 
-## [<cite>The Bone Readers</cite>, by Jacob Ross]()
+## [<cite>The Bone Readers</cite>, by Jacob Ross](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2016602)
 
 > "When Michael (Digger) Digson is recruited into DS Chilman's new plainclothes squad in the small Caribbean island of Camaho he brings his own mission to discover who amongst a renegade police squad killed his mother in a political demonstration.
 

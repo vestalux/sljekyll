@@ -20,4 +20,4 @@ So far, five libraries have announced that they are holding Harry Potter-themed 
 
 * [Southwold Library's event](/events/southwold-2017-02-02-harry-potter/) offers inter-house competitions (once the Sorting Hat ceremony has taken place!) as well as crafts and games. There's also a prize for the person with the best costume.
 
-* [Sudbury Library's event](/events/sudbury-2017-02-02-harry-potter-night/) will feature Platform 9¾, a Sorting Hat ceremony, crafts, games and refreshments.
+* [Sudbury Library's event](/events/sudbury-2017-02-02-harry-potter-night/) will feature Platform 9¾, a Sorting Hat ceremony, crafts, games and refreshments. They also have a [quiz sheet](/events/sudbury-2017-01-09-harry-potter-quiz). Fill it in and return it by 17 February for the chance to win a book token!
