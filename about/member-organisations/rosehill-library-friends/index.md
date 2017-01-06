@@ -4,7 +4,7 @@ title: Rosehill Library Friends
 sidebar: about
 breadcrumb: member-organisations
 ---
-![Rosehill Library Friends logo](/images/article/logo-rosehill-library-friends.jpg)
+![Rosehill Library Friends logo](/images/featured/logo-rosehill-library-friends-2.jpg)
 
 ## Our Aims
 
@@ -22,7 +22,7 @@ To promote the use of libraries and support library staff in Suffolk and specifi
 Committee members:
 
 * Mark Vaughan
-* Mandy Grimwood (library representative)
+* Kate Byford (library representative)
 * Tony Crunden
 * Christine Yates
 
