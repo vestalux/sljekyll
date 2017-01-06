@@ -16,6 +16,7 @@ branch-tel: 01394 694880
 branch-friends: Felixstowe Town Council
 branch-social-media: y
 branch-facebook: felixstowelibrary
+branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/felixstowe-library-2
 branch-parking: Pay & Display car park opposite
 branch-bookdrop: y
 branch-toilet: y
