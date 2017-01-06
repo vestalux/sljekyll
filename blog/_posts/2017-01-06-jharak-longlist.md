@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: Diversify your reading with the Jharak Prize longlist
-date: 2017-01-07
+date: 2017-01-06
 author: alice-violett
 category: blog
 excerpt: "Is it your new year's resolution to read more diversely? Why not start with the longlist for the inaugural Jharak Prize, which seeks to recognise the best books published by BAME authors in the past year?"
