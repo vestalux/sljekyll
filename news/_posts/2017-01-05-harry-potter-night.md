@@ -10,7 +10,9 @@ breadcrumb: news
 
 All aboard the Hogwarts Express! For Harry Potter Book Night on Thursday 2 February, we're recreating the wizarding world in some of our libraries. These events were really popular last year, as you can see from [<cite>The Ipswich Star</cite>'s gallery of photos from Felixstowe and Ipswich's 2016 Harry Potter Book Nights](http://www.ipswichstar.co.uk/news/ipswich_events_announced_for_this_year_s_harry_potter_night_1_4837271) so we recommend you book early to avoid disappointment.
 
-So far, five libraries have announced that they are holding Harry Potter-themed events:
+So far, seven libraries have announced that they are holding Harry Potter-themed events:
+
+* [Chantry Library's event](/events/chantry-2017-02-02-harry-potter-night/) is run in association with Ipswich Children's Book Group, and promises magical activities and food and drink from the wizarding world. Attendees are encouraged to dress up as Harry Potter characters.
 
 * [Felixstowe Library's event](/events/felixstowe-2017-02-02-harry-potter-night/) not only promises 'storytelling and magical activities' but also the chance to meet characters from the books and shop at Flourish and Blotts.
 
