@@ -18,9 +18,9 @@ Have you been very lucky this Christmas and received a brand new tablet? Perhaps
 
 1. [OverDrive](/elibrary/overdrive) – our ebook and eaudio app gives you access to over 10,000 titles covering adults and children’s content, fiction and non-fiction. All easy to find within the app and ready to be downloaded and enjoyed.
 
-2. [Fantastic Fiction](https://www.fantasticfiction.com/) – not sure what you want to download from OverDrive? Then look no further than the Fantastic Fiction app that makes provides information on over 40,000 authors and details of over 500,000 books.
+2. [Fantastic Fiction](https://www.fantasticfiction.com/) – not sure what you want to download from OverDrive? Then look no further than the Fantastic Fiction app that provides information on over 40,000 authors and details of over 500,000 books.
 
-3. [Freegal](/elibrary/freegal/) – if you’ve had a busy festive season, why not relax with some music, free music downloaded straight to your tablet and yours to keep, forever? Freegal is one of our library apps with over 9 million songs to choose from. Whatever your taste, you really are sure to find something to enjoy.
+3. [Freegal](/elibrary/freegal/) – if you’ve had a busy festive season, why not relax with some free music downloaded straight to your tablet and yours to keep, forever? Freegal is one of our library apps with over 9 million songs to choose from. Whatever your taste, you really are sure to find something to enjoy.
 
 4. [Farrago Comics](http://www.farragocomics.com/) – if comics are more your thing, take a look at try out this free app that gives you access to a broad range of the best comics available.
 
