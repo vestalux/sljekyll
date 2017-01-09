@@ -4,6 +4,7 @@ title: Friends of Halesworth County Library
 sidebar: about
 breadcrumb: member-organisations
 ---
+
 ## Our aims
 
 * To promote Halesworth Library as a vital part of the community
@@ -29,6 +30,12 @@ breadcrumb: member-organisations
 * Tel: 01986 875 095
 * Email: friendsofhalesworthlibrary@gmail.com
 * Newsletter: [Friends of Halesworth County Library](http://issuu.com/hucklberryfinn/docs)
+
+## Get involved
+
+* [One-off donation form](/assets/doc/fohcl-donation-form.docx) (.docx)
+* [Standing order form](/assets/doc/fohcl-standing-order-form.docx) (.docx)
+* [Membership form](/assets/doc/fohcl-membership-form.docx) (.docx)
 
 ## The story so far
 

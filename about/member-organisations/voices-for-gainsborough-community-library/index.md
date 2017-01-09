@@ -6,33 +6,35 @@ breadcrumb: member-organisations
 ---
 ## Our Aims
 
-* To promote the use of libraries and support library staff in Suffolk and specifically Gainsborough Community Library by any of the following
-* Developing co-operation between libraries and its communities and ensuring all sections of the community have a voice within this
-* Facilitating communication between local people and their local library in an empowering way
-* Encouraging use of the library by underrepresented groups
-* Helping to recruit and organise volunteers for specific purposes to support the library and the running of the voices cafe
-* Fundraising, obtaining sponsorship and donations, through events and the voices cafe
-* Helping to safeguard the future of libraries and develop innovations in service delivery
+* To promote the use of libraries and support library staff in Suffolk and specifically Gainsborough Community Library by any of the following:
+  * Developing co-operation between libraries and its communities and ensuring all sections of the community have a voice within this
+  * Facilitating communication between local people and their local library in an empowering way
+  * Encouraging use of the library by underrepresented groups
+  * Helping to recruit and organise volunteers for specific purposes to support the library and the running of the Voices café
+  * Fundraising, obtaining sponsorship and donations, through events and the Voices café
+  * Helping to safeguard the future of libraries and develop innovations in service delivery
 
 ## Who we are
 
 Committee members for Voices:
 
-* Chair: Allie C
-* Vice chair: Juliet W
+* Chair: Carol D
+* Vice chair: Allie C
 * Secretary: Carol D
-* Treasurer: Colin M
-* Library representative: Mandy Grimwood
+* Treasurer & library representative: Mandy Grimwood
 * Library representative: Britta Ambler
 
 Other Committee members:
 
-* Leon P (Club 4 Teenz)
+* Elizabeth S
+* Sue
+* Christine
+* Juliet
+* Josh G
+* Stacey R
+* Jonny
+* Leon P
 * Lauren B
-* Kirsty L
-* Georgina B
-* Mai B
-* Maggie F
 
 ## Contact us
 
@@ -41,40 +43,39 @@ Other Committee members:
 
 ## The story so far
 
-We were established in March 2008 to enable the local community to work with Suffolk County Council on the Lottery Funded project to re-build the library, which opened in 2009. Since then a new team of volunteers have taken over the committee and are very active in the library.
+We were established in March 2008 to enable the local community to work with Suffolk County Council on the Lottery Funded project to re-build the library, which opened in 2009. Since then a new team of volunteers have taken over the committee and are very active in the library. Voices became a charity in January 2016; registered charity number: 1165302.
 
 ## Recent successes
 
-* Running of the library café, staffed by volunteers and open seven days a week
-* Provided uniforms and new equipment for the café through funding from our local councillor
-* The upkeep of the library garden, which has won Ipswich in Bloom Awards three years running
-* Set up a bank account for donations and funds raised
-* Supported successful World Book Day and World Book Night Events
+* Running of the library café, staffed by volunteers
+* Supported successful library events such as Harry Potter Night, World Book Day and World Book Night Events
 * Supported the annual Summer Reading Challenge, offering weekly craft sessions through the holiday
-* Helped to organised a community weekend and birthday celebration for the library
-* Obtained £3000 funding for the development of further activities for children and young people
+* Jointly worked with Friends of Landseer Park to offer two successful Gainsborough Community Fun Days, in 2015 & 2016, bringing organisations together to offer more in the local community
+* Helped to organise a community weekend and birthday celebration for the library
+* Obtained funding for the development of further activities for children and young people
+* Obtained funding to create an additional room and to make all library shelving mobile
+* Obtained funding to support Top Time activities for older people
 * Introduced new groups and activities to promote health and well being
-* Held a successful Adult Learner’s Week in 2013, with funding from SPIAL
-* Supported Summer holiday trips for young people
+* Supported summer holiday trips for young people
 * Supported a reward trip to the pantomime for young people
-* A young volunteer was awarded Young Tennant of the Year 2013 for his work at the library
-* Upkeep of community garden - two silver awards in Ipswich in Bloom for three successive years
 * Organised and funded Food Safety and First Aid qualifications for local people
-* Gained funding and organised monthly healthy cooking workshops
-* Held a Park-a-thon and purchase four new bean bags stools for the library
-* Held a successful National Libraries Day raising £260 for library activities
+* Held a Talent Night for young People
+* Held a live music night
+* Held a Flash Mob & Teenz take over the library to raise over £300 for Children in Need
+* Held annual Christmas Fair
+* Held a Christmas disco for local young people
 
 ## Future plans
 
 We're currently developing a range of plans to help support and promote Gainsborough Community Library. These include:
 
-* Applying for funds to offer additional activities and groups.
-* A community art project
+* Applying for funds to offer additional activities and groups
 * Investigate advancement of community café
 * Provide public events to raise funds
 * Expand youth activities within the library
 * Offer more volunteering opportunities
 * Offer more opportunities to learn life skills
+* Sourcing funding to add a garden room extension
 
 ## Documents
 

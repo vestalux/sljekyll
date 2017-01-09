@@ -16,9 +16,14 @@ branch-tel: 01502 583135
 branch-friends: Friends of Oulton Broad Library
 branch-social-media: y
 branch-facebook: Oulton-Broad-Library-224683134540328
+branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/oulton-broad-library-2
+branch-parking: available
+branch-bookdrop: y
 branch-wifi: y
 branch-netloan: new
-branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/oulton-broad-library-2
+branch-colour-printing: A4 available
+branch-photocopying: A4 available
+branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/oulton-broad-library
 breadcrumb: y
 ---
