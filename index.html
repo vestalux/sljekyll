@@ -1,139 +1,8 @@
 ---
 layout: default
 title: Suffolk Libraries reserve, renew, branches and eLibrary
+featured-story: false
 ---
-
-<section class="{% include /c/block.html %}">
-
-     <h1 class="f3 ma0 pa0 mb1">Reading, viewing &amp; listening: Ideas, lists, interviews, reviews &amp; articles</h1>
-
-     <p class="{% include /c/block-graf.html %} mb2 mb3-ns">Thousands of reading, listening &amp; viewing suggestions, reviews from staff and customers, author interviews and our monthly podcast.</p>
-
-    <div class="cf">
-
-        {% for post in site.posts limit:50 %}
-
-            {% if post.category == 'fiction' or post.category == 'non-fiction' or post.category == 'meet-the-author' or post.category == 'staff-picks' %}
-
-                <span class="dn">{% increment counter %}</span>
-
-                {% if counter == 7 %}
-
-                    {% break %}
-
-                {% endif %}
-
-                {% if counter < 6 %}
-
-                <div class="custom-g-l1">
-
-                {% elsif counter == 6 %}
-
-                <div class="custom-g-l1 custom-g-nm">
-
-                {% endif %}
-
-                <article class="pb2 pb3-ns">
-
-                    <a class="white" href="{{ post.url }}"><img class="custom-constrain-img" src="{{ post.featured-image }}" alt="{{ post.featured-alt }}"></a>
-
-                    <h1 class="f6 normal ma0 pa0 mb1"><a href="{{ post.url }}" class="{% include /c/block-title-link.html %}">{{ post.title }}</a></h1>
-
-                </article>
-
-                </div>
-
-            {% endif %}
-
-        {% endfor %}
-
-    </div>
-
-    <p class="ma0"><a href="/new-suggestions/" class="pure-button pure-button-primary">See all ideas, lists &amp; reviews &rarr;</a></p>
-
-</section>
-
-<section class="{% include /c/generic-panel.html %}">
-
-    <div class="cf">
-
-     <div class="custom-g-l3">
-
-         <section class="pb3 pb4-ns">
-
-             <h1 class="f4 f3-ns pa0 ma0 mb2 pt2 pb2 bb b--white">News</h1>
-
-             <ul class="list ma0 mb2 pa0">
-
-                 {% assign featured_pages = (site.posts | where: "category", "news") %}
-
-                 {% for post in featured_pages limit:1 %}
-
-                 <li class="mb2 mb3-ns"><a href="{{ post.url }}" class="blue">{{ post.title }}</a> <span class="gray db">{{ post.date | date: "%b %-d, %Y" }}</span></li>
-
-                 {% endfor %}
-
-             </ul>
-
-             <p class="mb0"><strong><a class="blue" href="/news/">See all news articles &rarr;</a></strong></p>
-
-          </section>
-
-      </div>
-
-      <div class="custom-g-l3 custom-g-nm">
-
-          <section class="pb3 pb4-ns">
-
-              <h1 class="f4 f3-ns pa0 ma0 mb2 pt2 pb2 bb b--white">From the blog</h1>
-
-              <ul class="list ma0 mb2 pa0">
-
-                  {% assign featured_pages = (site.posts | where: "category", "blog") %}
-
-                  {% for post in featured_pages limit:1 %}
-
-                  <li class="mb2 mb3-ns"><a href="{{ post.url }}" class="blue">{{ post.title }}</a> <span class="gray db">{{ post.date | date: "%b %-d, %Y" }}</span></li>
-
-                  {% endfor %}
-
-              </ul>
-
-              <p class="mb0"><strong><a class="blue" href="/blog/">Read more blog posts &rarr;</a></strong></p>
-
-           </section>
-
-       </div>
-
-    </div>
-
-</section>
-
-{% assign featured_pages = (site.posts | where: "featured", "true") %}
-
-{% for post in featured_pages limit:1 %}
-
-    <article class="cf mv2 mv3-ns mt4-ns pv2 pv3-ns bt b--light-gray">
-
-        <div class="custom-g-l3">
-
-            <h1 class="f4 f3-ns pa0 ma0 mb2">{{ post.title }}</h1>
-
-            <p class="ma0 mb3 {% include /c/prose.html %}">{{ post.featured-excerpt }}</p>
-
-            <p class="b"><a class="blue" href="{{ post.url }}">{{ post.featured-link-text }} &rarr;</a></p>
-
-        </div>
-
-        <div class="custom-g-l3 custom-g-nm">
-
-            <a class="white" href="{{ post.url }}"><img class="custom-constrain-img" src="{{ post.featured-image }}" alt="{{ post.featured-alt }}"></a>
-
-        </div>
-
-    </article>
-
-{% endfor %}
 
 <section class="pb3 pb4-ns">
 
@@ -141,6 +10,8 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
 
     <ul class="list ma0 mb2 pa0 f5">
 
+        <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="/news" class="blue link">News</a></li>
+        <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="/blog" class="blue link">Blog</a></li>
         <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="/music-and-drama" class="blue link">Music &amp; Drama Library</a></li>
         <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="/special-collections" class="blue link">Special collections</a></li>
         <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="http://www.fundingcentral.org.uk/default.aspx" class="blue link">Get help funding your project</a></li>
@@ -150,3 +21,53 @@ title: Suffolk Libraries reserve, renew, branches and eLibrary
     </ul>
 
  </section>
+
+ {% if page.featured-story %}
+
+     {% assign featured_pages = (site.posts | where: "featured", "true") %}
+
+     {% for post in featured_pages limit:1 %}
+
+         <article class="cf mv2 mv3-ns mt4-ns pv2 pv3-ns bt b--light-gray">
+
+             <div class="custom-g-l3">
+
+                 <h1 class="ff4 f3-ns pa0 ma0 mb2 pt2 pb2 bb b--light-gray">{{ post.title }}</h1>
+
+                 <p class="ma0 mb3 {% include /c/prose.html %}">{{ post.featured-excerpt }}</p>
+
+                 <p class="b"><a class="blue" href="{{ post.url }}">{{ post.featured-link-text }} &rarr;</a></p>
+
+             </div>
+
+             <div class="custom-g-l3 custom-g-nm">
+
+                 <a class="white" href="{{ post.url }}"><img class="custom-constrain-img" src="{{ post.featured-image }}" alt="{{ post.featured-alt }}"></a>
+
+             </div>
+
+         </article>
+
+     {% endfor %}
+
+ {% elsif page.featured-story == false %}
+
+     <article class="cf mv2 mv3-ns mt4-ns pv2 pv3-ns">
+
+         <h1 class="f4 f3-ns pa0 ma0 mb2 pt2 pb2 bb b--light-gray"><a class="blue link" href="/whats-new">Lists, ideas, reviews &amp; interviews</a></h1>
+
+         <div class="custom-g-l3">
+
+             <p class="ma0 mb3 {% include /c/prose.html %}">Looking for reading, viewing &amp; listening inspiration? Check out our lists, reviews, articles, blogs, podcast and author interviews for readers of all ages.</p>
+
+         </div>
+
+         <div class="custom-g-l3 custom-g-nm">
+
+             <a class="white" href="/whats-new/"><img class="custom-constrain-img" src="/images/featured/featured-alienography-2.jpg" alt="First Aid "></a>
+
+         </div>
+
+     </article>
+
+ {% endif %}
