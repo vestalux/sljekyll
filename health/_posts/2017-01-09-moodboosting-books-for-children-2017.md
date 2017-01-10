@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: New moodboosting books for young people for 2017
-date: 2017-01-11
+date: 2017-01-10
 author: alice-violett
 category: health
 excerpt: Books for children from our <cite>Moodboosting</cite> collection.
@@ -57,13 +57,17 @@ sidebar: health
 
 > "Evie, Amber and Lottie: three girls facing down tough issues with the combined powers of friendship, feminism and cheesy snacks. Both hilarious and heart-rending, this is Evie's no-holds-barred story of struggling to live a 'normal' teen life in the grip of OCD."
 
-## [<cite>This One Summer</cite>, by Jillian and Mariko Tamaki]()
+## [<cite>This One Summer</cite>, by Jillian and Mariko Tamaki](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1771450)
+
+> "Every summer, Rose goes with her mum and dad to a lake house in Awago Beach. It's their getaway, their refuge. Rosie's friend Windy is always there, too, like the little sister she never had. But this summer is different. Rose's mum and dad won't stop fighting, and when Rose and Windy seek a distraction from the drama, they find themselves with a whole new set of problems. It's a summer of secrets and sorrow and growing up, and it's a good thing Rose and Windy have each other."
 
 ## [<cite>Matilda</cite>, by Roald Dahl](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1926612)
 
 > "Matilda's parents have called her some terrible things. The truth is, she's a genius and they're the stupid ones. Find out how she gets the better of them and her spiteful headmistress, as well as discovering that she has a very special power."
 
-## [<cite>Milk and Honey</cite>, by Rupi Kaur]()
+## [<cite>Milk and Honey</cite>, by Rupi Kaur](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1860973)
+
+> "This is a collection of poetry and prose about survival. About the experience of violence, abuse, love, loss, and femininity. The book is divided into four chapters, and each chapter serves a different purpose; deals with a different pain; heals a different heartache."
 
 ## JK Rowling's <cite>Harry Potter</cite> series
 

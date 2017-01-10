@@ -15,7 +15,7 @@ breadcrumb: films-dvds
 
 <h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=TI&ENTRY=finding+dory&ENTRY_TYPE=K&ENTRY1_OPER=%2B&ENTRY2_NAME=AU&ENTRY2=&ENTRY2_TYPE=K&NRECS=20&SORTS=HBT.SOVR&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FDVD%2FBSEARCH&CF=DVD&ISGLB=0&GQ=finding+dory">Finding Dory</a></h2>
 
-Ellen DeGeneres, Albert Brooks and Hayden Rolence's voices star in the sequal to 2003's <cite>Finding Nemo</cite.
+Ellen DeGeneres, Albert Brooks and Hayden Rolence's voices star in the sequal to 2003's <cite>Finding Nemo</cite>.
 
 Six months after the events of <cite>Finding Nemo</cite>, forgetful Pacific regal blue tang fish Dory unexpectedly remembers something about her childhood which leads her on a journey to find her family, accompanied by clownfish Marlin and his son Nemo. As with <cite>Finding Nemo</cite>, expect laughter, tears and life lessons.
 
