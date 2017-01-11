@@ -16,6 +16,8 @@ So far, seven libraries have announced that they are holding Harry Potter-themed
 
 * [Felixstowe Library's event](/events/felixstowe-2017-02-02-harry-potter-night/) not only promises 'storytelling and magical activities' but also the chance to meet characters from the books and shop at Flourish and Blotts.
 
+* [Gainsborough's event](/events/gainsborough-2017-02-02-harry-potter/) promises all the Hogwarts classes and characters, including potions with Professor Snape, transfiguration with Professor McGonagall and care of magical creatures with Hagrid.
+
 * [Great Cornard Library's event](/events/great-cornard-2017-02-02-harry-potter/) promises 'magical fun, activities and spells!' Attendees are encouraged to dress up.
 
 * [Ipswich County Library's event](/events/ipswich-2017-02-02-harry-potter/) offers a potions class, fantastic beast-hunting, spellcasting battles, a quiz and a fancy dress competition.

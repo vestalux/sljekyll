@@ -1,5 +1,5 @@
 ---
-id: cornard-harry-potter
+id: great-cornard-harry-potter
 name: "Harry Potter Book Night"
 location: great-cornard-library
 location-text: Great Cornard Library
