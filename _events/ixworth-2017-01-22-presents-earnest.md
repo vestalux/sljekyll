@@ -1,10 +1,10 @@
 ---
-id: lowestoft-car-man
+id: ixworth-earnest
 name: "Suffolk Libraries Presents: <cite>The Importance of Being Earnest</cite>"
 location: ixworth-library
 location-text: Ixworth Library
 event-alt-location: Ixworth Village Hall
-excerpt: "This new production of Oscar Wilde’s superb satire on Victorian manners, opened to critical acclaim, and stars one of Britain’s best known stage and screen actors."
+excerpt: "This production of Oscar Wilde’s superb satire on Victorian manners opened to critical acclaim, and stars one of Britain’s best known stage and screen actors."
 event-start-date: 2017-01-22
 event-start-time: 1500
 event-doors-open: 1430

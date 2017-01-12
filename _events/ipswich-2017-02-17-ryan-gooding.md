@@ -5,7 +5,7 @@ location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2017-02-17
 event-start-time: 2000
-event-ticket-price: £10; £8 if bought before 31 December
+event-ticket-price: 10
 breadcrumb: y
 ---
 
