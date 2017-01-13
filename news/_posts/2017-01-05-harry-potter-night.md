@@ -20,7 +20,7 @@ So far, seven libraries have announced that they are holding Harry Potter-themed
 
 * [Great Cornard Library's event](/events/great-cornard-2017-02-02-harry-potter/) promises 'magical fun, activities and spells!' Attendees are encouraged to dress up.
 
-* [Ipswich County Library's event](/events/ipswich-2017-02-02-harry-potter/) offers a potions class, fantastic beast-hunting, spellcasting battles, a quiz and a fancy dress competition.
+* [Ipswich County Library's event](/events/ipswich-2017-02-02-harry-potter/) offers a sorting ceremony, spellcasting battle, potions class, treasure hunt, quiz and fancy dress competition. There will also be the opportunity to create a new class with a new professor!
 
 * [Newmarket Library's event](/events/newmarket-2017-02-02-harry-potter/) invites young witches and wizards to join in the magical fun and games while dressed as their favourite Harry Potter characters.
 

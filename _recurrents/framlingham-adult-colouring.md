@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Adult colouring in club - all materials and refreshments provided but donations welcome - starts 13 January"
+recurrent-title: "Adult colouring in club - all materials and refreshments provided but donations welcome"
 recurrent-day: Thursday
 recurrent-times: 1000-1200
 recurrent-location: framlingham-library

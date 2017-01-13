@@ -11,6 +11,10 @@ event-category: children
 breadcrumb: y
 ---
 
-Join us at Ipswich County Library for a night at Hogwarts! Celebrate all things Harry Potter and take part in a potions class, hunt the fantastic beasts, and battle with spell casting. We will have a magical quiz and if you come dressed as a character you’re in for a chance to win a prize!
+Join us at Ipswich County Library for a night at Hogwarts! Take part in a sorting ceremony, test your spell casting spells with Professor Hooch, take part in a potions class and choose a new subject with a new professor.
+
+There will also be a treasure hunt, and Professor Snape will be hosting a magical quiz.
+
+If you come dressed as a character you’re in for a chance to win a prize!
 
 Best suited for ages 5+ with all children accompanied by an adult (accompanying adult comes free). Buy your tickets at the library.
