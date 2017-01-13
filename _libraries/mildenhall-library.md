@@ -20,5 +20,6 @@ branch-facebook: mildenhalllibrary
 branch-wifi: y
 branch-netloan: old
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/mildenhall-library-2
+branch-news: '<a href="/news/consultation-launched-for-mildenhall-hub-project">Consultation launched for Mildenhall Hub project which would include a new library</a>'
 breadcrumb: y
 ---
