@@ -1,24 +1,24 @@
 ---
 layout: sidebar-right
-title: Diversify your reading with the Jharak Prize longlist
+title: Diversify your reading with the Jhalak Prize longlist
 date: 2017-01-06
 author: alice-violett
 category: blog
-excerpt: "Is it your new year's resolution to read more diversely? Why not start with the longlist for the inaugural Jharak Prize, which seeks to recognise the best books published by BAME authors in the past year?"
-featured-image: /images/featured/featured-jharak.jpg
-featured-alt: Books on the Jharak Prize longlist
+excerpt: "Is it your new year's resolution to read more diversely? Why not start with the longlist for the inaugural Jhalak Prize, which seeks to recognise the best books published by BAME authors in the past year?"
+featured-image: /images/featured/featured-jhalak.jpg
+featured-alt: Books on the Jhalak Prize longlist
 breadcrumb: blog
-featured-excerpt: "Is it your new year's resolution to read more diversely? Why not start with the longlist for the inaugural Jharak Prize, which seeks to recognise the best books published by BAME authors in the past year?"
-featured-link-text: Checkout the Jharak Prize longlist
+featured-excerpt: "Is it your new year's resolution to read more diversely? Why not start with the longlist for the inaugural Jhalak Prize, which seeks to recognise the best books published by BAME authors in the past year?"
+featured-link-text: Checkout the Jhalak Prize longlist
 ---
 
-![Books on the Jharak Prize longlist](/images/featured/featured-jharak.jpg)
+![Books on the Jhalak Prize longlist](/images/featured/featured-jharak.jpg)
 
-Many readers have made a new year's resolution to read more diversely by making a concerted effort to pick up more books by non-white authors, thereby being more inclusive, discovering different voices, viewpoints and ideas, and learning about unfamiliar experiences and cultures. We think that the longlist for the inaugural Jharak Prize will prove an excellent place to start.
+Many readers have made a new year's resolution to read more diversely by making a concerted effort to pick up more books by non-white authors, thereby being more inclusive, discovering different voices, viewpoints and ideas, and learning about unfamiliar experiences and cultures. We think that the longlist for the inaugural Jhalak Prize will prove an excellent place to start.
 
 The new prize, co-founded by authors Sunny Singh and Nikesh Shukla and run in conjunction with Media Diversified and with support from the Authors' Club and an anonymous benefactor, aims to champion British BAME writers who have been "often ignored, overlooked and erased." It encompasses all genres, as well as traditionally- and self-published authors.
 
-The Jharak Prize shortlist will be announced on 6 February 2017. The winner, who wins a prize of £1,000, will be announced during the Bare Lit Festival in March 2017. The Prize will be judged by Sunny Singh, YA author Catherine Johnson, author and poet Alex Wheatle MBE, poet and broadcaster Musa Okwonga and author Yvette Edwards.
+The Jhalak Prize shortlist will be announced on 6 February 2017. The winner, who wins a prize of £1,000, will be announced during the Bare Lit Festival in March 2017. The Prize will be judged by Sunny Singh, YA author Catherine Johnson, author and poet Alex Wheatle MBE, poet and broadcaster Musa Okwonga and author Yvette Edwards.
 
 ## [<cite>Chasing The Stars</cite>, by Malorie Blackman](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1549952)
 
