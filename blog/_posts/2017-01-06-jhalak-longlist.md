@@ -12,7 +12,7 @@ featured-excerpt: "Is it your new year's resolution to read more diversely? Why 
 featured-link-text: Checkout the Jhalak Prize longlist
 ---
 
-![Books on the Jhalak Prize longlist](/images/featured/featured-jharak.jpg)
+![Books on the Jhalak Prize longlist](/images/featured/featured-jhalak.jpg)
 
 Many readers have made a new year's resolution to read more diversely by making a concerted effort to pick up more books by non-white authors, thereby being more inclusive, discovering different voices, viewpoints and ideas, and learning about unfamiliar experiences and cultures. We think that the longlist for the inaugural Jhalak Prize will prove an excellent place to start.
 
