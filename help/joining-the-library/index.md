@@ -5,7 +5,7 @@ breadcrumb: help
 sidebar: help
 ---
 
-You can apply for a library card if you **live in Suffolk, Norfolk or Cambridgeshire**.
+You can apply for a library card if you **live in Suffolk, Norfolk, Cambridgeshire or Essex**.
 
 If you work in or visit Suffolk but don't live here you can also apply for a card.
 
@@ -22,17 +22,16 @@ Your library card is free.
 
 ### Visit a library
 
-Go to [any Suffolk library](/libraries/) or [mobile library](/mobiles-home/) with proof of address, providing it&#8217;s in Suffolk, Norfolk, Cambridgeshire or Essex.
-
-If your home address isn&#8217;t in these counties you&#8217;ll have to provide your work address or the address you&#8217;re visiting.
+- If you live in Suffolk, Norfolk, Cambridgeshire or Essex go to [any Suffolk library](/libraries/) or [mobile library](/mobiles-home/) with proof of address, providing it&#8217;s.
+- If your home address isn&#8217;t in these counties provide your work address or the address you&#8217;re visiting.
 
 ### Apply for a card online
 
+You can only apply for a card online if you live in Suffolk, Norfolk, Cambridgeshire or Essex.
+
 When you apply online you'll be taken to a different website.
 
-<p><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/JOIN" class="pure-button pure-button-primary custom-force-white">Apply for a card now</a></p>
-
-If you live in Suffolk or a neighbouring county you can complete the [joining form](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/JOIN) and have your card posted to you.
+<p><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/JOIN" class="pure-button pure-button-primary custom-force-white">Apply for a card now &rarr;</a></p>
 
 Please **allow 10 days** for us to send you the card.
 
