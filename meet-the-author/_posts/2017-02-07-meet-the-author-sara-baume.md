@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: Sara Baume'
-date: 2017-01-17
+date: 2017-02-07
 author: brandon-king
 category: meet-the-author
 excerpt: "Award-winning novelist Sara Baume discusses the influences of the authors she read as a teenager, her own experiences, and art on her writing"

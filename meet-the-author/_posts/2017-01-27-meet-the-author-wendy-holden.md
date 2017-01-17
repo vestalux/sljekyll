@@ -7,7 +7,7 @@ category: meet-the-author
 excerpt: "To mark Holocaust Memorial Day 2017, we've interviewed Wendy Holden. Wendy is the author of <cite>Born Survivors</cite>, which tells the story of three remarkable women who, along with their babies, beat the odds to survive the Nazi camps."
 featured-image: /images/featured/featured-wendy-holden-eva-clarke.jpg
 featured-alt: Wendy Holden with infant Holocaust survivor Eva Clarke
-featured-link-text: "Read our interview with writher Wendy Holden."
+featured-link-text: "Read our interview with writer Wendy Holden."
 top-feature: true
 breadcrumb: meet-the-author
 ---
