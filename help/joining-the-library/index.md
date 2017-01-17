@@ -4,22 +4,44 @@ title: Joining the library
 breadcrumb: help
 sidebar: help
 ---
+
+You can apply for a library card if you **live in Suffolk, Norfolk or Cambridgeshire**.
+
+If you work in or visit Suffolk but don't live here you can also apply for a card.
+
+Your library card allows you to borrow titles from all [our libraries](/libraries/).
+
+You can also use your **library card number and the 4 digit PIN issued with it** to:
+
+- renew, reserve and view your details and loans online
+- download ebooks, online magazines, audiobooks and music for free
+
+Your library card is free.
+
 ## Getting a library card
 
-Your library card allows you to borrow titles from our libraries. You can also use your **library card number and the 4 digit PIN issued with it** to renew, reserve and view your details and loans online and download our ebooks, online magazines, audiobooks, music and films.
+### Visit a library
 
-It&#8217;s free. If you **live in, work in or visit Suffolk** go to [any Suffolk library](/libraries/) or [mobile library](/mobiles-home/) with proof of address, providing it&#8217;s in Suffolk, Norfolk, Cambridgeshire or Essex.
+Go to [any Suffolk library](/libraries/) or [mobile library](/mobiles-home/) with proof of address, providing it&#8217;s in Suffolk, Norfolk, Cambridgeshire or Essex.
 
 If your home address isn&#8217;t in these counties you&#8217;ll have to provide your work address or the address you&#8217;re visiting.
 
-If you live in Suffolk or a neighbouring county you can **complete the [joining form](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/JOIN)** and have your card posted to you. Please **allow 10 days** for us to send you the card.
+### Apply for a card online
+
+When you apply online you'll be taken to a different website.
+
+<p><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/JOIN" class="pure-button pure-button-primary custom-force-white">Apply for a card now</a></p>
+
+If you live in Suffolk or a neighbouring county you can complete the [joining form](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/JOIN) and have your card posted to you.
+
+Please **allow 10 days** for us to send you the card.
 
 If you are 16 or under you will need a guarantor.
-
-To use any of our online services you'll also need a PIN. If you do not know your PIN please contact a member of staff with proof of identification or call 01473 351249.
-
-[Join now](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/JOIN)
 
 ## Replacing a library card
 
 You can update your record and get a replacement library card by taking proof of identification into any Suffolk library. **There is a &pound;1.50 charge** for a replacement library card.
+
+## Lost PINs
+
+If you don't know or you've lost your PIN please contact a member of staff with proof of identification or call 01473 351249.
