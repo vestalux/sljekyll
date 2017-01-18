@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Reading round reading group: with author Alison Bruce"
+recurrent-title: "Reading round reading group"
 recurrent-day: Friday
 recurrent-times: 1300-1500
 recurrent-location: newmarket-library
