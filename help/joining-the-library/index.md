@@ -5,14 +5,14 @@ breadcrumb: help
 sidebar: help
 ---
 
-You can apply for a library card if you **live in Suffolk, Norfolk, Cambridgeshire or Essex**.
+You can apply for a library card if you:
 
-If you work in or visit Suffolk but don't live here you can also apply for a card.
+- live in Suffolk, Norfolk, Cambridgeshire or Essex
+- work in or visit Suffolk, but don't live here
 
-Your library card allows you to borrow titles from all [our libraries](/libraries/).
+Your library card allows you to:
 
-You can also use your **library card number and the 4 digit PIN issued with it** to:
-
+- borrow titles from all [our libraries](/libraries/)
 - renew, reserve and view your details and loans online
 - download ebooks, online magazines, audiobooks and music for free
 
@@ -22,8 +22,10 @@ Your library card is free.
 
 ### Visit a library
 
-- If you live in Suffolk, Norfolk, Cambridgeshire or Essex go to [any Suffolk library](/libraries/) or [mobile library](/mobiles-home/) with proof of address, providing it&#8217;s.
-- If your home address isn&#8217;t in these counties provide your work address or the address you&#8217;re visiting.
+Go to any [any Suffolk library](/libraries/) or [mobile library](/mobiles-home/):
+
+- If you live in Suffolk, Norfolk, Cambridgeshire or Essex bring proof of address
+- If your home address isn&#8217;t in these counties bring your work address or the address you&#8217;re visiting
 
 ### Apply for a card online
 
