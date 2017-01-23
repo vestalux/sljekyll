@@ -5,7 +5,7 @@ location: woodbridge-library
 location-text: Woodbridge Library
 event-start-date: 2017-02-09
 event-start-time: 1900
-event-price: £10 (£5 for full-time students)
+event-ticket-price: 10 (£5 for full-time students)
 breadcrumb: y
 ---
 

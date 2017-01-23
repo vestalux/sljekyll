@@ -4,7 +4,7 @@ name: "A talk with professional designer and photographer, Roland Blunk"
 location: beccles-library
 location-text: Beccles Library
 event-start-date: 2017-01-27
-event-start-time: Time TBC
+event-start-time: 1900
 event-ticket-price: 3
 breadcrumb: y
 ---
