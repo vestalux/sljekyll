@@ -16,44 +16,26 @@ breadcrumb: member-organisations
 
 ## Who we are
 
-* Chairman: Roland Unsworth
-* Acting Joint Treasurers: Peter Longfield, Ruth Fenton
-* Secretary: Kate Wilkinson
-* Trustees: Ruth Fenton, Graham Hunt, Sarah Chandler, Kate Wilkinson
-* Ex-officio members: Cathy McDonald, Jack Norman
-* Fundraising Officer: Graham Hunt
-* Publicity Officer: Peter Longfield
+* Chair: Debra Reay
+* Treasurer: Lesley Sloane
+* Secretary: Frances Ferneyhough
+* Trustees: Ruth Fenton, Ruth Fenton, Sarah Chandler
+* Ex-officio members: Cathy McDonald, Jack Norman, Kaye Atkins
 
-## Contact us
-
-* Chairman, Roland Unsworth: rolandunsworth@hotmail.co.uk
-* Library manager, Cathy McDonald: cathy.mcdonald@suffolklibraries.co.uk
-* Tel: 01359 231493 or 01359 235048
 
 ## The story so far
 
-Friends of Ixworth Library (FOIL) was set up in 2013 to support the library in this beautiful and historical village. We have been fundraising to support and improve the service the library provides to the community.
+Friends of Ixworth Library (FOIL) was set up in 2013 to support the library in this beautiful and historical village. We fundraise to help buy equipment, support refurbishment projects and enhance activities.
 
-FOIL was set up in 2013 following the creation of Suffolk Libraries IPS to help support the library in Ixworth. The main criteria was to raise funds for the (now defunct) community contribution. But once the pressure eased and this was disregarded, FOIL decided to raise funds to support the service staff provide.
+In January 2015, FOIL launched a weekly art group that meets when the library is closed. The art group has been an enormous success, giving members of the community somewhere to come and meet like-minded individuals, practice techniques, learn from each other and make new friends. The art group displays their work to the public in the library with a view to selling them to raise further funds for FOIL.
 
-To date they have helped buy equipment ranging from the new colour printer to new trolleys for the For Sale books to smaller items for displaying books.
+We have supported the purchase of eReaders for library customers to borrow and offer introductory training courses for older users.
 
-The committee has also supported the library when it held a Harry Potter Day, by funding a book token as a first prize during the ‘Design a Wizard’s Hat’ competition.
+Since 2016, thanks to investment from Suffolk Libraries and Arts Council, we have run a monthly Film Night in the Village Hall.
 
-In January 2015, FOIL launched a weekly art group that meets when the library is closed. A new table was purchased for the members to use. The art group has been an enormous success, giving members of the community somewhere to come and meet like-minded individuals, practice techniques, learn from each other and make new friends.
+## Contact us
 
-In April 2015, the art group started displaying their pieces of work to the public in the library with a view to selling them to raise further funds for FOIL.
+We welcome new members. To find out more contact:
 
-![Commitee member Peter Longfield taking part in the art group](/images/article/friends-of-ixworth-library-art-group-peter-longfield.jpg)
-
-*Commitee member Peter Longfield taking part in the art group*
-
-## Future plans
-
-FOIL is looking to expand the use of the library during the hours it is closed by potentially setting up classes and clinics aimed at older people who would like to learn how to use computers, tablets and digital devices.
-
-The group would also like to fund eReaders for customers to borrow - a scheme which is being piloted elsewhere in the county’s libraries.
-
-The committee is keen to forge links with the local schools to encourage literacy in children and young people.
-
-They continue to support the staff in all their endeavours, and for that they have their deep thanks.
+* Chair, Debra Reay: debra.j.reay@gmail.com
+* Library manager, Cathy McDonald: cathy.mcdonald@suffolklibraries.co.uk, [01359 231493](tel:01359231493)/[01359 235048](tel:01359235048)

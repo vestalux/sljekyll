@@ -12,6 +12,8 @@ breadcrumb: y
 
 On this day-long course, you can learn ways to paint expressive works inspired by nature and plants as well as produce vivid colours and striking stencil patterns using gouache, a water-based paint that is easy to use and very versatile.
 
+Ideal for adult learners, beginners and people interested in starting a new creative hobby.
+
 Demonstration, all art materials and refreshments provided.
 
-Please book early at the library front desk to secure your place. Call the library on [01473 263810](tel:01473263810) for more information.
+Please secure your place in advance with a deposit of £10 at the library front desk. Call the library on [01473 263810](tel:01473263810) for more information.
