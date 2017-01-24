@@ -67,7 +67,7 @@ Under the Copyright, Designs & Patent Act 1988, all unauthorised copies are ille
   <tbody>
     <tr>
       <td>Music and Drama Library</td>
-      <td>£2.20 per member per annum (minimum £13.20)</td>
+      <td>£2.40 per member per annum (minimum £14.40)</td>
       <td>£5.00 per member per annum (minimum £50.00)</td>
     </tr>
     <tr>
@@ -92,14 +92,14 @@ Under the Copyright, Designs & Patent Act 1988, all unauthorised copies are ille
     <tr>
       <td>Play sets</td>
       <td>12 weeks</td>
-      <td>£6.50</td>
+      <td>£7.00</td>
       <td>50p per day</td>
       <td>£24.50</td>
     </tr>
     <tr>
       <td>Plays on approval</td>
       <td>1 week</td>
-      <td>£1.50</td>
+      <td>£1.75</td>
       <td>50p per day</td>
       <td>£24.50</td>
     </tr>
@@ -120,14 +120,14 @@ Under the Copyright, Designs & Patent Act 1988, all unauthorised copies are ille
     <tr>
       <td>Orchestral music sets</td>
       <td>12 weeks</td>
-      <td>£15.00</td>
+      <td>£15.50</td>
       <td>50p per day</td>
       <td>£24.50</td>
     </tr>
     <tr>
       <td>Vocal score sets</td>
       <td>12 weeks</td>
-      <td>£6.50</td>
+      <td>£7.00</td>
       <td>50p per day</td>
       <td>£24.50</td>
     </tr>
