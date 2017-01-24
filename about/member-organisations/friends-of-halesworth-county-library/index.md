@@ -35,6 +35,7 @@ breadcrumb: member-organisations
 
 * [One-off donation form](/assets/doc/fohcl-donation-form.docx) (.docx)
 * [Standing order form](/assets/doc/fohcl-standing-order-form.docx) (.docx)
+* [Standing order form - 100 club](/assets/doc/fohcl-100-club-form.docx) (.docx)
 * [Membership form](/assets/doc/fohcl-membership-form.docx) (.docx)
 
 ## The story so far
