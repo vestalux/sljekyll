@@ -7,6 +7,7 @@ category: staff-picks
 excerpt: Bungay Library manager Amanda King reviews a compelling thriller.
 breadcrumb: staff-picks
 ---
+
 ![The kind worth killing by Peter Swanson](/images/featured/featured-the-kind-worth-killing.jpg)
 
 Narrated in chapters by each of the main characters, <cite>The kind worth killing</cite> starts with what appears to be a chance meeting at Heathrow airport.
@@ -17,4 +18,4 @@ This starts a chain reaction of events somewhat reminiscent of Patricia Highsmit
 
 I found this easy to read, utterly compelling and full of unexpected plot twists. None of the main characters command any sympathy and I hoped they would all get their comeuppance, which of course they do – in one way or another. If you have recently read and liked <cite>Girl on a train</cite> or <cite>Gone girl</cite> then this is the ideal next read for you!
 
-[Order <cite>The kind worth killing</cite> from our catalogue →](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/16293792?QRY=CTIBIB%3C%20IRN(45622654)&QRYTEXT=The%20kind%20worth%20killing)
+[Order <cite>The kind worth killing</cite> from our catalogue →](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1823674)
