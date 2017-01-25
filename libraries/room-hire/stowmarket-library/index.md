@@ -6,13 +6,7 @@ breadcrumb: branches
 
 We have two small meeting rooms, as well as the option of using the library for events out of hours. Please use our [booking form](/assets/doc/stowmarket-room-booking-form.docx) (.docx) and refer to our [terms and conditions](/assets/pdf/stowmarket-room-terms-and-conditions.pdf) (.pdf).
 
-# Small meeting room 1
-
-* Capacity: 12 people for meetings
-* Cost: £5 per hour for community/charity/private bookings, £7.50 per hour for commercial/statutory bookings
-* Availability: All day subject to other bookings. Bookings outside library opening hours may attract an additional charge to cover staffing cost.
-
-## Small meeting room 2
+## Small meeting room
 
 * Capacity: 12 people for meetings
 * Projector available
