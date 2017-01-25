@@ -4,14 +4,14 @@ title: "New children's books for February 2017"
 date: 2017-01-30
 author: jo-dixon
 category: childrens-ya-books
-excerpt: "This month's new titles feature a lion, a wolf, our old friend Spot the dog, a parade of bears and more"
+excerpt: "This month's new titles feature a wolf, our old friend Spot the dog, a parade of bears and more"
 featured-image: /images/featured/featured-childrens-february-2017.jpg
-featured-alt: "Where's Mr Lion, Good Little Wolf"
+featured-alt: "Good Little Wolf, This Bear, That Bear!"
 featured-link-text: "Check out our latest titles for children."
 breadcrumb: childrens-ya-books
 ---
 
-![Where's Mr Lion, Good Little Wolf](/images/featured/featured-childrens-february-2017.jpg)
+![Good Little Wolf, This Bear, That Bear!](/images/featured/featured-childrens-february-2017.jpg)
 
 ## Board books
 
@@ -52,6 +52,10 @@ One day back in 2008, the Armitages came to Suffolk Libraries, carelessly omitti
 ### [<cite>Who Ate The Cake?</cite>, by Kate Leake](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2080548)
 
 Poor long suffering Bob, Freddie’s pet dog, gets blamed for a string of catastrophes. The real culprit is a pelican with a beak like the Tardis. The facial expressions of dog, small boy and pelican are wonderful. Quite a long read, but well worth it if your audience likes mess and slapstick.
+
+### [<cite>Eat Your People!</cite>, by Lou Kunezler & David Wojtowycz](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2078816)
+
+It’s lunchtime in the monster household, where exasperated parents use threats and bartering to persuade Monty to eat his food. "I’LL eat ALL my vegetables, but I WON’T EAT MY PEOPLE!" shouts Monty. This book is very funny, a joyous thing for fussy eaters everywhere.
 
 ## Beginner reads
 
