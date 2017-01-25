@@ -17,4 +17,4 @@ This month's chosen book is <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus
 
 If you've read the book, why not join in the discussion at 2:30pm
 on Tuesday 7 February? Call Radio Suffolk on 01473 250000, email lesley.dolphin@bbc.co.uk, tweet
-[@lesleydolphin](https://twitter.com/lesleydolphin) or visit the [www.facebook.com/LesleysReaders](Lesley's Readers Facebook page).
+[@lesleydolphin](https://twitter.com/lesleydolphin) or visit the [Lesley's Readers Facebook page](http://www.facebook.com/LesleysReaders).

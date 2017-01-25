@@ -15,7 +15,7 @@ branch-post-code: IP13 0SD
 branch-tel: 01728 747216
 branch-friends: Wickham Market Partnership
 branch-social-media: y
-branch-facebook: Wickham-Market-Library/759680887398867
+branch-facebook: Wickham-Market-Library/759680887398867?fref=ts
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/wickham-market-library
 branch-parking: available
 branch-toilet: y

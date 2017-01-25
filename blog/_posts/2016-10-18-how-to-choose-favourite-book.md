@@ -37,5 +37,4 @@ There are a whole host of ways, then, to choose your one favourite book - hopefu
 
 <p><a href="http://www.bbc.co.uk/programmes/articles/57pvFwzbJHfmp3Gpjt44vQc/lovetoread-celebrating-the-pleasures-of-reading">Click here</a> to find out more about the <a href="https://twitter.com/hashtag/lovetoread?f=tweets&vertical=news&src=hash">BBC #LovetoRead campaign</a>.</p>
 
-<p>While you're thinking about books, we know it's late in the year, but why not make a 2016 Reading Pledge by clicking<a href="https://www.suffolklibraries.co.uk/events-activities/our-year-of-reading/make-a-reading-pledge/"> here</a>?</p>
 </div>
