@@ -4,7 +4,7 @@ title: Taking on NaNoWriMo? Let us help!
 date: 2016-11-03
 author: alice-violett
 category: blog
-excerpt: "Once again, aspiring wordsmiths around the world are furiously scribbling or tapping away for National Novel Writing Month. We hope our advice books, writing groups and author visits can help Suffolk 'wrimos' smash the 50,000-word target. You can even publish your work afterwards using our Suffolk Writes service."
+excerpt: "Once again, aspiring wordsmiths around the world are furiously scribbling or tapping away for National Novel Writing Month. We hope our advice books and writing groups can help Suffolk 'wrimos' smash the 50,000-word target. You can even publish your work afterwards using our Suffolk Writes service."
 breadcrumb: blog
 comments: yes
 ---
@@ -34,16 +34,6 @@ This entertaining book is perfect for NaNoWriMo as it not only helps you improve
 <h3>Jane Cooper - <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/12332937?QRY=CTIBIB%3C%20IRN(999281)&QRYTEXT=365%20ways%20to%20get%20you%20writing%20%3A%20daily%20inspiration%20and%20advice%20for%20creative%20writers"><cite>365 Ways to Get You Writing: daily inspiration and advice for creative writers</cite></a></h3>
 
 Although this book can be used to provide daily exercises over the course of a year, we only let you renew books six times, and there’s no reason you can’t dip in and out of it when you’re feeling ‘blocked’, looking to introduce a new character, or figuring out what could happen in your next chapter.
-
-<h2>Author talks</h2>
-
-Bookfest may have come and gone, but we still have a few authors visiting our libraries who we’re sure will be happy to talk about their craft.
-
-If you’re writing a horror novel, Lowestoft Library are holding a special horror event on Saturday 5 November, where you can meet authors David Moody and Alexander Gordon Smith.
-
-If your novel is set in the past, or a thriller (or, indeed, a historical thriller), author Nick Brown will be speaking about his <cite>Agents of Rome</cite> series of historical thrillers set in Rome around 270AD at Bungay Library on Thursday 10 November.
-
-Author David E. Merrifield’s latest novel <cite>I’ve Got Your Number</cite> blends fantasy and sci-fi. His talk at [Southwold Library on Monday 21 November](/events/southwold-2016-11-21-meet-david-merrifield/) might also inspire you to publish your work, as he took up full time writing after a career in the Civil Service, proving that it’s never too late.
 
 <h2>Writing groups</h2>
 
