@@ -9,7 +9,7 @@ event-doors-open: 1330
 event-start-time: 1400
 event-ticket-price: 7.50 (adults), £5 (children)
 event-image-small: featured/featured-presents-railway-children.jpg
-event-category: presents half-term
+event-category: presents
 breadcrumb: y
 ---
 
