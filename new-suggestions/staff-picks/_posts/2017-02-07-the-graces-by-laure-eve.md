@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: The Graces by Laure Eve
-date: 2017-01-31
+date: 2017-02-07
 author: emily-mitchell
 category: staff-picks
 excerpt: 'Library volunteer Emily found <cite>The Graces</cite> dreamy, dark, enigmatic and unputdownable.'
