@@ -1,6 +1,6 @@
 ---
 id: top-time-lisa-frain
-name: "Top Time: Lisa Frain visits from the Alzeimers Society"
+name: "Top Time: Lisa Frain visits from the Alzheimer's Society"
 location: newmarket-library
 location-text: Newmarket Library
 event-start-date: 2017-02-09
@@ -10,6 +10,4 @@ event-category: older
 breadcrumb: y
 ---
 
-Lisa Frain visits from the Alzeimers Society
-
-Mon 20th February   Pete Norman visits for a slide show
+Drop in for information and advice on Alzheimer's disease.

@@ -1,7 +1,7 @@
 ---
-recurrent-title: "Top Time: events and activities for older people"
+recurrent-title: "Top Time: events and activities for older people. £1 per person to include refreshments"
 recurrent-day: Thursday
-recurrent-times: 1030-1230
+recurrent-times: 1000-1200
 recurrent-location: saxmundham-library
 recurrent-location-display-name: Saxmundham Library
 recurrent-location-display-url: /branches/saxmundham-library/
