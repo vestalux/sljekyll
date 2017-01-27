@@ -14,9 +14,9 @@ breadcrumb: meet-the-author
 
 {% include /c/figure.html alt="Wendy Holden with infant Holocaust survivor Eva Clarke" src="/images/featured/featured-wendy-holden-eva-clarke.jpg" caption="Wendy Holden with infant Holocaust survivor Eva Clarke" %}
 
-Suffolk author Wendy Holden has written both fiction and non-fiction. Her titles include <cite>Memories Are Made Of This</cite> - a biography of Dean Martin - and <cite>Footprints in the Snow</cite>, which was made into a TV film.
+Suffolk author Wendy Holden has written both fiction and non-fiction. Her titles include [<cite>Memories Are Made Of This</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=675118) - a biography of Dean Martin, written with his daughter Deana - and [<cite>Haatchi and Little B: the inspiring true story of one boy and his dog</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1536670).
 
-Wendy's latest book <cite>Born Survivors</cite> tells the incredible true story of three remarkable women who survived the selection process at Auschwitz, slave labour in a Dresden armaments factory and a hellish 17 day train transport to Mauthausen concentration camp in Austria, giving birth before, during and right at the end of that journey.
+Wendy's latest book [<cite>Born Survivors</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1833799) tells the incredible true story of three remarkable women who survived the selection process at Auschwitz, slave labour in a Dresden armaments factory and a hellish 17 day train transport to Mauthausen concentration camp in Austria, giving birth before, during and right at the end of that journey.
 
 In 2016 Suffolk Libraries was delighted to welcome Wendy to Glemsford Library where she spoke at a Bookfest event along with Eva Clarke, one of the children whose birth features in <cite>Born Survivors</cite>.
 
