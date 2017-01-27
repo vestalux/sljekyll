@@ -1,0 +1,25 @@
+---
+layout: full-width
+title: Room hire
+breadcrumb: home
+---
+
+<div class="{% include /c/generic-panel.html %}">
+
+    <p class="ma0 f4">These libraries offer room and venue hire:</p>
+
+</div>
+
+<ul>
+
+    {% for library in site.libraries %}
+
+        {% if library.branch-room-hire %}
+
+            <li><a href="{{ library.branch-room-hire}}">{{ library.branch-name }}</a></li>
+
+        {% endif %}
+
+    {% endfor %}
+
+</ul>
