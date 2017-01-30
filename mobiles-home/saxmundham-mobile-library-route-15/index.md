@@ -13,4 +13,4 @@ Telephone: 01473 263838
 
 ## Route timetable
 
-**Please note that the stops from this route have been redistributed onto [Route 12](/mobiles-home/saxmundham-mobile-library-route-12/) and [Route 15](/mobiles-home/saxmundham-mobile-library-route-15/)**
+**Please note that the stops from this route have been redistributed onto [Route 12](/mobiles-home/saxmundham-mobile-library-route-12/) and [Route 14](/mobiles-home/saxmundham-mobile-library-route-14/)**
