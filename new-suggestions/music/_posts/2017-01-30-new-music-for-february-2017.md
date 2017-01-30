@@ -33,6 +33,6 @@ Amy MacDonald's first new album since 2012’s <cite>Life in a Beautiful Light</
 
 <cite>Heavy Fire</cite> is the follow up to BSR's acclaimed 2015 release <cite>The Killer Instinct</cite> and finds the quintet - frontman Ricky Warwick, guitarists Scott Gorham and Damon Johnson, bassist Robbie Crane and drummer Jimmy DeGrasso - in electric form, crashing through 10 tracks of swaggering, life-affirming hard rock.
 
-## [Wilko Johnson - <cite>I Keep It To Myself: The Best of Wilko Johnson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2129463)
+## [Wilko Johnson - <cite>I Keep It To Myself: The Best of Wilko Johnson</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2129463)
 
 Collected together for the first time on CD, the first of two volumes presenting the finest recordings of one of the most idiosyncratic and iconic guitarists in rock history, Wilko Johnson. Includes key tracks from both Wilko's time with Dr. Feelgood and his solo career.
