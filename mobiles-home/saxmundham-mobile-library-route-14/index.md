@@ -218,7 +218,7 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="139">
-      St Margaret S Elmham
+      St Michael S. Elmham
     </td>
 
     <td valign="bottom" width="176">
