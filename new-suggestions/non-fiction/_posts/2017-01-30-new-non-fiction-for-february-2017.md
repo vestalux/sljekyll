@@ -17,7 +17,7 @@ breadcrumb: non-fiction
 
 > "<cite>The Last of the Tsars</cite> is a study of a man who was almost entirely out of his depth, perhaps even willfully so. It is also a compelling account of the social, economic and political foment in Russia in the aftermath of Alexander Kerensky's February Revolution, the Bolshevik seizure of power in October 1917 and the beginnings of Lenin's Soviet republic."
 
-## [<cite>Felix the Railway Cat<cite>, by Kate Moore](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2102599)
+## [<cite>Felix the Railway Cat</cite>, by Kate Moore](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2102599)
 
 > "The Huddersfield Train Station cat Felix is a much-loved and hugely popular member of staff at Huddersfield Train Station - and also just so happens to be a fluffy kitten. By day, she spends her time meowing over the tannoy and getting in the way of the ticket printer. By night, she plays a vital role as their official Pest Control Manager, patrolling the platforms in her high-viz vest.
 
