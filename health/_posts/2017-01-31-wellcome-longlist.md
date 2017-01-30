@@ -9,7 +9,7 @@ breadcrumb: health
 sidebar: health
 ---
 
-[The Golden Age, A Brief History of Everyone Who Ever Lived, I Contain Multitudes](/images/featured/featured-wellcome-longlist-2017.jpg)
+![The Golden Age, A Brief History of Everyone Who Ever Lived, I Contain Multitudes](/images/featured/featured-wellcome-longlist-2017.jpg)
 
 Are you interested in health or medicine, or simply looking for something new and different to read? The 2017 Wellcome Prize longlist features fiction and non-fiction titles across several genres. Lose yourself in a novel, learn something new - or even do both at once!
 
