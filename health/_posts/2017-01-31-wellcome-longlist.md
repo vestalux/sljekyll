@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: Check out a health or medicine-related book from the longlist for the 2017 Wellcome Prize
-date: 2017-01-31
+date: 2017-01-30
 author: alice-violett
 category: health
 excerpt: Are you interested in health or medicine, or simply looking for something new and different to read? The 2017 Wellcome Prize longlist features fiction and non-fiction titles across several genres.
