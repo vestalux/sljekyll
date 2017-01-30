@@ -8,6 +8,32 @@ breadcrumb: home
 
 <p class="{% include /c/generic-panel.html %} custom-lh-copy"><span class="b">Looking for reading, viewing and listening ideas?</span> Our expert staff have hundreds of lists for you. You can also <a class="blue" href="/newsletter">subscribe to our monthly newsletter</a> for suggestions straight to your inbox.</p>
 
+<div class="bb bw4 b--gray">
+
+{% for current in site.data.cats-suggestions %}
+
+<div class="dib-ns w-33-ns ph2-ns v-top">
+
+    <section class="{% include /c/block.html %}">
+
+        <h1 class="{% include /c/block-title.html %}">{{ current.full-name }}</h1>
+
+        <ul class="{% include /c/block-list.html %}">
+          {% for post in site.categories.[current.stub] limit:3 %}
+            <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+          {% endfor %}
+      </ul>
+
+      <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/new-suggestions/{{ current.stub }}">All {{ current.full-name }} &rarr;</a></strong></p>
+
+    </section>
+
+</div>
+
+{% endfor %}
+
+</div>
+
 <div class="cf">
 
     <div class="custom-g-l2">
