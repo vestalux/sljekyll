@@ -6,12 +6,12 @@ author: brandon-king
 category: films-dvds
 excerpt: "Featuring <cite>The Girl on the Train</cite>, <cite>Trolls</cite> and <cite>A Street Cat Named Bob</cite>."
 featured-image: /images/featured/featured-february-2017-dvds.jpg
-featured-alt: ""
+featured-alt: "The Girl on the Train"
 featured-link-text: Check out our new films and DVDs for February 2017.
 breadcrumb: films-dvds
 ---
 
-![](/images/featured/featured-february-2017-dvds.jpg)
+![The Girl on the Train](/images/featured/featured-february-2017-dvds.jpg)
 
 [<cite>The Girl on the Train</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2088206)
 
@@ -22,5 +22,3 @@ breadcrumb: films-dvds
 [<cite>Trolls</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2127838)
 
 > "Animated comedy featuring the voice talents of Justin Timberlake, Anna Kendrick, Gwen Stefani and James Corden. Branch (Timberlake) is a grumpy, paranoid loner who is quite content living on his own, away from the ridiculously happy population of Troll Village. When the village is invaded by troll-eating Bergens, the overly optimistic and annoyingly chirpy troll leader Poppy (Kendrick) comes to Branch for help. As the unlikely pair go on a journey to rescue their kidnapped friends, they both find themselves realising what they have been missing."
-
-[<cite>Miss Peregrine's Home For Peculiar Children</cite>]
