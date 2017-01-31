@@ -14,7 +14,7 @@ So far, seven libraries have announced that they are holding Harry Potter-themed
 
 * [Chantry Library's event](/events/chantry-2017-02-02-harry-potter-night/) is run in association with Ipswich Children's Book Group, and promises magical activities and food and drink from the wizarding world. Attendees are encouraged to dress up as Harry Potter characters.
 
-* [Felixstowe Library's event](/events/felixstowe-2017-02-02-harry-potter-night/) not only promises 'storytelling and magical activities' but also the chance to meet characters from the books and shop at Flourish and Blotts.
+* [Felixstowe Library's event](/events/felixstowe-2017-02-02-harry-potter-night/) not only promises 'storytelling and magical activities' but also the chance to meet characters from the books and shop at Flourish and Blotts. SOLD OUT.
 
 * [Gainsborough's event](/events/gainsborough-2017-02-02-harry-potter/) promises all the Hogwarts classes and characters, including potions with Professor Snape, transfiguration with Professor McGonagall and care of magical creatures with Hagrid.
 
