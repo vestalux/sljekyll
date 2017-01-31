@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: Get Connected at Lakenheath Library
+title: Get Connected with new iPad lending service at Lakenheath Library
 date: 2017-01-18
 author: james-powell
 category: news

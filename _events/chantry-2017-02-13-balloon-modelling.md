@@ -1,6 +1,6 @@
 ---
 id: chantry-balloon
-name: "Learn balloon modelling and other circus activities with Mr Bean entertainments"
+name: "Learn balloon modelling and other circus activities with Mr Bean Entertainments"
 location: chantry-library
 location-text: Chantry Library
 event-start-date: 2017-02-13
