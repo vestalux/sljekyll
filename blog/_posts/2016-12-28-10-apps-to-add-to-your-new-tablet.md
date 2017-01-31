@@ -6,7 +6,7 @@ author: helen-haynes
 category: blog
 excerpt: "Have you been very lucky this Christmas and received a brand new tablet? Perhaps you’re feeling overwhelmed by the number of apps available to you. Suffolk Libraries can help with our Top 10 recommended apps."
 featured-image: /images/featured/featured-tablet-apps.jpg
-featured-alt: A woman reading from an eReader
+featured-alt: An image of a tablet with app icons flying out of it
 breadcrumb: blog
 featured-excerpt: "Have you been very lucky this Christmas and received a brand new tablet? Perhaps you’re feeling overwhelmed by the number of apps available to you. Suffolk Libraries can help with our Top 10 recommended apps."
 featured-link-text: See which apps we recommend for your new tablet
