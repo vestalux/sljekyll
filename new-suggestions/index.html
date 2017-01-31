@@ -16,9 +16,19 @@ breadcrumb: home
 
         <h1 class="{% include /c/block-title.html %}">{{ current.full-name }}</h1>
 
+        {% for post in site.categories.[current.stub] limit:1 %}
+
+          {% if post.featured-image %}
+
+            <a href="{{ post.url }}" class="dib custom-no-underline white mb2"><img src="{{ post.featured-image }}"{% if post.featured-alt %} alt="post.featured-alt"{% endif %}></a>
+
+          {% endif %}
+
+        {% endfor %}
+
         <ul class="{% include /c/block-list.html %}">
           {% for post in site.categories.[current.stub] limit:3 %}
-            <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+            <li class="{% include /c/block-list-item.html %}"><a class="{% include /c/block-title-link.html %}" href="{{ post.url }}">{{ post.title }}</a></li>
           {% endfor %}
       </ul>
 

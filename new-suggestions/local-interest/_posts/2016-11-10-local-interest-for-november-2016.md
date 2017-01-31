@@ -5,6 +5,9 @@ date: 2016-11-10
 author: brandon-king
 category: local-interest
 excerpt: Bury St Edmunds Abbey, the Mildenhall Treasure, the origins of Lowestoft, 18th and 19th century life and trade and desperate times in a farming family feature in our latest Suffolk fiction and non-fiction titles.
+featured-image: /images/featured/featured-burystedmunds.jpg
+featured-alt: Bury St Edmunds cathedral and Abbeu Gardens
+featured-link-text: Check out our latest local interest titles
 breadcrumb: local-interest
 ---
 
