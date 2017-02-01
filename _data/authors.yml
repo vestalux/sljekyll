@@ -55,6 +55,11 @@ brandon-king:
     job: stock team
     bio: I work in the Suffolk Libraries Stock Team
 
+chantry-journeys:
+    name: Chantry Journeys reading group
+    job: reading group
+    bio: We're a reading group who use Chantry Library
+
 charlotte-clark:
     name: Charlotte Clark
     job: Southwold Library manager
@@ -285,7 +290,7 @@ tanya-collins:
 the-borrowers:
     name: The Borrowers Book Group
     job: book group
-    bio: We're a book group who borrow from Kesgrave Library
+    bio: We're a book group who use Kesgrave Library
 
 theo-clarke:
     name: Theo Clarke

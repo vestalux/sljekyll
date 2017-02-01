@@ -1,12 +1,12 @@
 ---
-id: haverhill-origami-flowers-25
+id: haverhill-origami-flowers
 name: "Learn to make Origami flowers"
 location: haverhill-library
 location-text: Haverhill Library
-event-start-date: 2017-02-25
+event-start-date: 2017-03-11
 event-start-time: 1030
 event-end-time: 1130
-event-ticket-price: ' <span class="pa2 bg-red white">Sold out!</span>'
+event-ticket-price: 5
 breadcrumb: y
 ---
 
