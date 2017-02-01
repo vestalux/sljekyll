@@ -457,203 +457,81 @@
 
         <section class="{% include /c/sidebar-section.html %}">
 
-            <h1 class="{% include /c/sidebar-section-title.html %}">More lists</h1>
+            <h1 class="{% include /c/sidebar-section-title.html %}">More suggestions</h1>
 
             <ul class="{% include /c/sidebar-section-list.html %}">
 
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/fiction">Fiction</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/non-fiction">Non-fiction</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/childrens-ya-books">Children's and YA books</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/films-dvds">Films and DVDs</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/music">Music</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/book-club-ideas">Book club ideas</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/local-interest">Local interest</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/staff-picks">Staff picks</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/booked-out">Booked Out podcast</a></li>
+            {% for current in site.data.cats-suggestions %}
 
+                {% if current.stub != 'staff-picks' %}
 
-            </ul>
+                  <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/{{ current.stub }}/">{{ current.full-name }}</a></li>
 
-        </section>
+                {% else %}
 
-    {% endif %}
+                  <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/reviews/">{{ current.full-name }}</a></li>
 
-    {% if page.breadcrumb == 'films-dvds' %}
+                {% endif %}
 
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">More films and DVDs</h1>
-
-            <ul class="{% include /c/sidebar-section-list.html %}">
-
-                {% for post in site.categories.['films-dvds'] limit:10 %}
-                  <li class="{% include /c/sidebar-section-list-item.html %}">
-                    <a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                  </li>
-                {% endfor %}
-
-            </ul>
-
-        </section>
-
-    {% endif %}
-
-    {% if page.breadcrumb == 'staff-picks' %}
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">More staff picks</h1>
-
-            <ul class="{% include /c/sidebar-section-list.html %}">
-
-                {% for post in site.categories.['staff-picks'] limit:10 %}
-                  <li class="{% include /c/sidebar-section-list-item.html %}">
-                    <a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                  </li>
-                {% endfor %}
-
-            </ul>
-
-        </section>
-
-    {% endif %}
-
-    {% if page.breadcrumb == 'local-interest' %}
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">More local interest</h1>
-
-            <ul class="{% include /c/sidebar-section-list.html %}">
-
-                {% for post in site.categories.['local-interest'] limit:10 %}
-                  <li class="{% include /c/sidebar-section-list-item.html %}">
-                    <a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                  </li>
-                {% endfor %}
-
-            </ul>
-
-        </section>
-
-    {% endif %}
-
-    {% if page.breadcrumb == 'booked-out' %}
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">More Booked Out episodes</h1>
-
-            <ul class="{% include /c/sidebar-section-list.html %}">
-
-                {% for post in site.categories.['booked-out'] limit:10 %}
-                  <li class="{% include /c/sidebar-section-list-item.html %}">
-                    <a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                  </li>
-                {% endfor %}
-
-            </ul>
-
-        </section>
-
-    {% endif %}
-
-    {% if page.breadcrumb == 'book-club-ideas' %}
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">More book club ideas</h1>
-
-            <ul class="{% include /c/sidebar-section-list.html %}">
-
-                {% for post in site.categories.['book-club-ideas'] limit:10 %}
-                  <li class="{% include /c/sidebar-section-list-item.html %}">
-                    <a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                  </li>
-                {% endfor %}
-
-            </ul>
-
-        </section>
-
-    {% endif %}
-
-    {% if page.breadcrumb == 'music' %}
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">More music</h1>
-
-            <ul class="{% include /c/sidebar-section-list.html %}">
-
-
-                {% for post in site.categories.['music'] limit:10 %}
-                  <li class="{% include /c/sidebar-section-list-item.html %}">
-                    <a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                  </li>
-                {% endfor %}
-
-            </ul>
-
-        </section>
-
-    {% endif %}
-
-    {% if page.breadcrumb == 'childrens-ya-books' %}
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">More children's books</h1>
-
-            <ul class="{% include /c/sidebar-section-list.html %}">
-
-                {% for post in site.categories.['childrens-ya-books'] limit:10 %}
-                  <li class="{% include /c/sidebar-section-list-item.html %}">
-                    <a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                  </li>
-                {% endfor %}
-
-            </ul>
-
-        </section>
-
-    {% endif %}
-
-    {% if page.breadcrumb == 'fiction' %}
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">More fiction</h1>
-
-            <ul class="{% include /c/sidebar-section-list.html %}">
-
-            {% for post in site.categories.['fiction'] limit:10 %}
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
             {% endfor %}
 
+
             </ul>
 
         </section>
 
     {% endif %}
 
-    {% if page.breadcrumb == 'non-fiction' %}
+    {% if page.category and page.breadcrumb != 'new-suggestions' %}
 
-        <section class="{% include /c/sidebar-section.html %}">
+        {% for current in site.data.cats-suggestions %}
 
-            <h1 class="{% include /c/sidebar-section-title.html %}">More non-fiction books</h1>
+            {% if page.category == current.stub %}
 
-            <ul class="{% include /c/sidebar-section-list.html %}">
+                <section class="{% include /c/sidebar-section.html %}">
 
-                {% for post in site.categories.['non-fiction'] limit:10 %}
-                  <li class="{% include /c/sidebar-section-list-item.html %}">
-                    <a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                  </li>
-                {% endfor %}
+                    <h1 class="{% include /c/sidebar-section-title.html %}">More {{ current.full-name }}</h1>
 
-            </ul>
+                    <ul class="{% include /c/sidebar-section-list.html %}">
 
-        </section>
+                        {% for post in site.categories.[current.stub] limit:10 %}
+
+                            <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url }}">{{ post.title }}</a></li>
+
+                        {% endfor %}
+
+                    </ul>
+
+                </section>
+
+                <section class="{% include /c/sidebar-section.html %}">
+
+                    <h1 class="{% include /c/sidebar-section-title.html %}">More suggestions</h1>
+
+                    <ul class="{% include /c/sidebar-section-list.html %}">
+
+                    {% for current in site.data.cats-suggestions %}
+
+                        {% if current.stub != 'staff-picks' %}
+
+                          <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/{{ current.stub }}/">{{ current.full-name }}</a></li>
+
+                        {% else %}
+
+                          <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/new-suggestions/reviews/">{{ current.full-name }}</a></li>
+
+                        {% endif %}
+
+                    {% endfor %}
+
+
+                    </ul>
+
+                </section>
+
+            {% endif %}
+
+        {% endfor %}
 
     {% endif %}
 
