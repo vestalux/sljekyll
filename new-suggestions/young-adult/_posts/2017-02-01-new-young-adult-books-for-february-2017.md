@@ -80,3 +80,39 @@ breadcrumb: young-adult
 > "How can you have a future if you can't accept your past? Mel Hannigan doesn't have it easy. Mourning the death of her firework of a brother, she tries to fit back into a school she's been conspicuously absent from, as well as dealing with the loss of three friendships that used to mean everything.
 
 > "So Mel tries to lock away her heart, to numb the highs and lows, to live quietly without hope - but also without pain. However, someone new shows her that it can be worth taking a risk, and that opening up to life is what can make it glorious."
+
+## [<cite>Unconventional</cite>, by Maggie Harcourt](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2101665)
+
+> "Lexi spends her life at conventions, thanks to her dad's job as top organizer - it's her world. So when she finds smug (but cute) interloper Aidan in her Green Room at the first event of the year, she is not impressed. That is until she discovers that Aidan is actually Haydn Swift - author of Lexi's new favourite novel - and sparks begin to fly."
+
+## [<cite>Dramarama</cite>, by E. Lockhart](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2101159)
+
+> "All-round theatre-enthusiast, Sarah - better known by her showbiz name, Sayde - is a girl with ambitions too big for the small and conventional town she lives in. Her life doesn't have the razzle-dazzle she craves. For once she wants to feel special, noticed and be the centre of attention. This summer Sadye has her talents set on Wildewood's prestigious theatre summer camp. And with her best friend Demi - a flamboyant falsetto, who is equally thrilled to be leaving their small town of Brenton - they will both experience a season of hormones, hissy fits, jazz hands, song and dance, true love and unitards!
+
+> "But despite all the glitz and glam, there comes rivalry and competition, and Sadye will have to prove her talents more than she has ever had to before. Summer at Wildewood will not only determine Sadye's future - but will also test her friendships."
+
+## [<cite>Ariadnis</cite>, by Josh Martin](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2100288)
+
+> "Joomia and Aula are Chosen. They will never be normal. They can never be free. On the last island on Erthe, Chosen Ones are destined to enter Ariadnis on the day they turn eighteen. There, they must undertake a mysterious and deadly challenge. For Joomia and Aula, this means competing against each other, to end the war that has seethed between their cities for nine generations.
+
+> "As the day draws nearer, all thoughts are on the trial ahead. There's no space for friendship. No time for love. However much the girls might crave them. But how you prepare for a task you know nothing certain about? Nothing, except that you must win, at whatever cost, or lose everything."
+
+## [<cite>Gone Wild</cite>, by Robert Muchamore](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2098417)
+
+> "The <cite>Rock War</cite> TV show is the most-watched reality show on British telly, and it's only halfway through. Jay, Summer, Dylan and their bands have all made it past the tough Boot Camp stage, into Battle Zone. The last six bands will fight it out until the season's finale, live on Christmas Eve.
+
+> "But it's not all about the music. Summer was hit by a motorbike at the end of Boot Camp. Jay's brother Theo can't keep out of trouble - or out of handcuffs. And Dylan, the outsider, is investigating corruption within the workings of the competition itself. They've got everything to play for!"
+
+## [<cite>Wild Lily</cite>, by K. M. Peyton](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2096566)
+
+> "It's the 1920s and cars and aeroplanes are new. Lily Gabriel is 13 years old: she's scruffy and confident and takes no nonsense from anyone. Antony is 17: he's rich, spoiled and arrogant - and Lily is completely and utterly - no nonsense! - in love with him. So join Lily as she falls. Falls in love. Falls out of the sky. Falls through time - and effortlessly, inescapably, falls into her future. Life is never what you expect or what you predict. But if you're lucky, you hold onto exactly what you need - a young and wild heart."
+
+## [<cite>History Is All You Left Me</cite>, by Adam Silvera](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2098452)
+
+> "OCD-afflicted seventeen-year-old, Griffin, has just lost his first love - his best friend, ex-boyfriend and the boy he believed to be his ultimate life partner - in a drowning accident. In a desperate attempt to hold onto every last piece of the past, a broken Griffin forges a friendship with Theo's new college boyfriend, Jackson. And Griffin will stop at nothing to learn every detail of Theo's new college life, and ultimate death. But as the grieving pair grows closer, readers will question Griffin's own version of the truth - both in terms of what he's willing to hide, and what true love ultimately means."
+
+## [<cite>Our Own Private Universe</cite>, by Robin Talley](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2093962)
+
+> "15-year-old Aki Simon has a theory. And it's mostly about sex. No, it isn't that kind of theory. Aki already knows she's bisexual - even if, until now, it's mostly been in the hypothetical sense. Aki's theory is that she's only got one shot at living an interesting life - and that means she's got to stop sitting around and thinking so much. It's time for her to actually do something. Or at least try.
+
+> "So when Aki and her friend Lori set off on a trip to a small Mexican town for the summer, and Aki meets Christa - slightly-older, far-more-experienced - it seems her theory is prime for the testing. But something tells her its not going to be that easy."
