@@ -32,7 +32,15 @@ breadcrumb: home
           {% endfor %}
       </ul>
 
-      <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/new-suggestions/{{ current.stub }}">All {{ current.full-name }} &rarr;</a></strong></p>
+      {% if current.stub != 'staff-picks' %}
+
+        <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/new-suggestions/{{ current.stub }}">All {{ current.full-name }} &rarr;</a></strong></p>
+
+      {% else %}
+
+        <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/new-suggestions/reviews/">All {{ current.full-name }} &rarr;</a></strong></p>
+
+      {% endif %}
 
     </section>
 

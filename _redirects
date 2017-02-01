@@ -28,6 +28,18 @@
 /lowestoft-festival /events-activities/lowestoft-library-literary-festival
 /advent-calendar /new-suggestions/staff-picks/advent-calendar-2016/
 /childrens-advent-calendar /parents-carers-and-children/childrens-ya-books/childrens-advent-calendar-2016/
+/new-suggestions/staff-picks/the-making-of-mollie-by-anna-carey/ /new-suggestions/young-adult/the-making-of-mollie-by-anna-carey/
+/new-suggestions/staff-picks/panic-by-lauren-oliver/ /new-suggestions/young-adult/panic-by-lauren-oliver/
+/new-suggestions/staff-picks/bus-stop-baby-by-fleur-hitchcock/ /new-suggestions/young-adult/bus-stop-baby-by-fleur-hitchcock/
+/new-suggestions/staff-picks/rose-in-the-blitz-by-rebecca-stevens/ /new-suggestions/young-adult/rose-in-the-blitz-by-rebecca-stevens/
+/new-suggestions/staff-picks/ever-never-handbook/ /new-suggestions/young-adult/ever-never-handbook/
+/new-suggestions/staff-picks/unboxed-by-non-pratt/ /new-suggestions/young-adult/unboxed-by-non-pratt/
+/new-suggestions/staff-picks/fire-witch-by-matt-ralphs/ /new-suggestions/young-adult/fire-witch-by-matt-ralphs/
+/blog/10-apps-to-add-to-your-new-tablet/ /new-suggestions/articles/10-apps-to-add-to-your-new-tablet/
+/blog/jhalak-longlist/ /new-suggestions/articles/jhalak-longlist/
+/blog/10-more-apps-to-add-to-your-new-tablet/ /new-suggestions/articles/10-more-apps-to-add-to-your-new-tablet/
+
+
 
 /announcements/* /news/:splat
 /category/blog/* /blog/:splat
@@ -76,5 +88,9 @@
 /schools-literacy/literacy/* /schools/online-resources/
 /schools-literacy/reading-advice/* /parents-carers-and-children/
 /new-suggestions/childrens-ya-books/* /parents-carers-and-children/childrens-ya-books/:splat
+/new-suggestions/book-club-ideas/* /new-suggestions/articles/:splat
+/new-suggestions/local-interest/* /new-suggestions/articles/:splat
+/new-suggestions/staff-picks/* /new-suggestions/reviews/:splat
+/new-suggestions/staff-picks/* /new-suggestions/reviews/:splat
 
 /*   /404/index.html   404

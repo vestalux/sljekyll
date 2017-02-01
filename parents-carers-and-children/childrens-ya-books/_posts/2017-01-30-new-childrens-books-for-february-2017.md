@@ -94,19 +94,3 @@ Illustrated by Tim Wesson and aimed at 7-11 year-olds, this series already has i
 ### [<cite>Lesser Spotted Animals</cite>, by Martin Brown](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2049088)
 
 > "Bison are banned and tigers are taboo. Say goodbye to the gnu, cheerio to the cheetah and poo poo to the panda. The world of lesser spotted animals starts here! Discover the brilliant beasts you never knew you needed to know about - from the numbat to the zorilla and everything in between."
-
-## Young teen novels
-
-### [<cite>Life in a Fishbowl</cite>, by Len Vlahos](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2083324)
-
-> "Jackie's life wasn't perfect, but at least it was normal. That is, until her dad received a terminal cancer diagnosis. Then he went and did what anyone faced with mountains of medical bills and a family to support would do: he sold his life to the highest bidder. Which turned out to be a TV station.
-
-> "Suddenly everyone from psychotic millionaires to cyber-savvy nuns wants a piece of Jackie's family as they become a reality TV sensation. Jackie's life spirals out of control just as her dad's starts to run out, and meanwhile the whole world is tuning in to watch her family fall apart."
-
-## YA
-
-### [<cite>We Come Apart</cite>, by Sarah Crossan & Brian Conaghan](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1998151)
-
-> "Jess would never have looked twice at Nicu if her friends hadn't left her in the lurch. Nicu is all big eyes and ill-fitting clothes. He's working on his English but he has to practise with the teachers because no one speaks to him. He's so not her type.
-
-> "Appearances matter to Jess. She's got a lot to hide. Nicu thinks Jess is beautiful. His dad brought Nicu and his mum here for a better life, but now all they talk about is going back home to find Nicu a wife. The last thing he wants is to get married. He wants to get educated, do better, stay here in England. But his dad's fists are the most powerful force in Nicu's life, and in the end, he'll have to do what his dad wants."
