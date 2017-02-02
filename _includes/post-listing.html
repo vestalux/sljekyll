@@ -32,7 +32,7 @@
 
                 {% if post.featured-image %}
 
-                    <img class="db mb2" src="{{ post.featured-image }}" alt="post.featured-alt">
+                    <a href="{{ post.url }}" class="white"><img class="db mb2" src="{{ post.featured-image }}" alt="post.featured-alt"></a>
 
                     <p class="{% include /c/slot-excerpt.html %} dib-ns">{{ post.excerpt }}</p>
 
@@ -62,7 +62,7 @@
 
             {% if post.featured-image %}
 
-                <img class="db mb2" src="{{ post.featured-image }}" alt="post.featured-alt">
+                <a href="{{ post.url }}" class="white"><img class="db mb2" src="{{ post.featured-image }}" alt="post.featured-alt"></a>
 
                 <p class="{% include /c/slot-excerpt.html %} dib-ns">{{ post.excerpt }}</p>
 

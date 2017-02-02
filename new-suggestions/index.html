@@ -14,7 +14,7 @@ breadcrumb: home
 
     <section class="{% include /c/block.html %}">
 
-        <h1 class="{% include /c/block-title.html %}">{% if current.stub !='staff-picks' %}<a class="blue" href="/new-suggestions/{{ current.stub }}">{{ current.full-name }}</a>{% else %}<a class="blue" href="/new-suggestions/reviews/">{{ current.full-name }}{% endif %}</a></h1>
+        <h1 class="{% include /c/block-title.html %}">{% if current.stub !='staff-picks' and current.stub !='childrens-ya-books' %}<a class="blue" href="/new-suggestions/{{ current.stub }}">{{ current.full-name }}</a>{% elsif current.stub == 'staff-picks' %}<a class="blue" href="/new-suggestions/reviews/">{{ current.full-name }}{% elsif current.stub == 'childrens-ya-books' %}<a class="blue" href="/parents-carers-and-children/childrens-ya-books/">Children's books</a>{% endif %}</h1>
 
         {% for post in site.categories.[current.stub] limit:1 %}
 
