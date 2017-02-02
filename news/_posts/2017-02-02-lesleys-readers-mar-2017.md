@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: Lesley’s Readers on BBC Radio Suffolk – book choice for February
+title: Lesley’s Readers on BBC Radio Suffolk – book choice for March
 date: 2017-02-02
 author: alice-violett
 category: news
