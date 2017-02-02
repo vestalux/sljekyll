@@ -90,7 +90,6 @@
 /new-suggestions/childrens-ya-books/* /parents-carers-and-children/childrens-ya-books/:splat
 /new-suggestions/book-club-ideas/* /new-suggestions/articles/:splat
 /new-suggestions/local-interest/* /new-suggestions/articles/:splat
-/new-suggestions/staff-picks/* /new-suggestions/reviews/:splat
-/new-suggestions/staff-picks/* /new-suggestions/reviews/:splat
+/new-suggestions/staff-picks/* /new-suggestions/reviews/staff-picks/:splat
 
 /*   /404/index.html   404

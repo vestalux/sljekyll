@@ -14,7 +14,7 @@ breadcrumb: home
 
     <section class="{% include /c/block.html %}">
 
-        <h1 class="{% include /c/block-title.html %}">{{ current.full-name }}</h1>
+        <h1 class="{% include /c/block-title.html %}">{% if current.stub !='staff-picks' %}<a class="blue" href="/new-suggestions/{{ current.stub }}">{{ current.full-name }}</a>{% else %}<a class="blue" href="/new-suggestions/reviews/">{{ current.full-name }}{% endif %}</a></h1>
 
         {% for post in site.categories.[current.stub] limit:1 %}
 
@@ -32,13 +32,21 @@ breadcrumb: home
           {% endfor %}
       </ul>
 
-      {% if current.stub != 'staff-picks' %}
+      {% if current.stub != 'staff-picks' and current.stub != 'childrens-ya-books' %}
 
         <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/new-suggestions/{{ current.stub }}">All {{ current.full-name }} &rarr;</a></strong></p>
 
       {% else %}
 
-        <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/new-suggestions/reviews/">All {{ current.full-name }} &rarr;</a></strong></p>
+        {% if current.stub == 'staff-picks' %}
+
+            <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/new-suggestions/reviews/">All {{ current.full-name }} &rarr;</a></strong></p>
+
+        {% elsif current.stub == 'childrens-ya-books' %}
+
+            <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/parents-carers-and-children/childrens-ya-books/">All {{ current.full-name }} &rarr;</a></strong></p>
+
+        {% endif %}
 
       {% endif %}
 
