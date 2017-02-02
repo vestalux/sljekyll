@@ -1,7 +1,7 @@
 ---
 layout: full-width-narrow
 title: 'Sudbury Library room hire'
-breadcrumb: branches
+breadcrumb: branch-room-hire
 ---
 # Meeting room
 

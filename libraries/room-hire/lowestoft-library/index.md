@@ -1,7 +1,7 @@
 ---
 layout: full-width-narrow
 title: 'Lowestoft Library room hire'
-breadcrumb: branches
+breadcrumb: branch-room-hire
 ---
 ## The Britten room
 
