@@ -40,4 +40,4 @@ The rate of pay is &pound;7.93 per hour.
 
 If you are interested, please send a CV and supporting statement outlining what you could bring to this position and Suffolk Libraries to: **recruitment@suffolklibraries.co.uk**
 
-The closing date for applications is Sunday 19 February 2017. Interviews will be held on Thursday 2 2017.
+The closing date for applications is Sunday 19 February 2017. Interviews will be held on Thursday 2 March 2017.
