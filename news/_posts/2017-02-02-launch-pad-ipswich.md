@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: Ipswich Library to host 'Launch Pad' sessions to help jobseekers
+title: Ipswich Library to host 'Launch Pad' sessions for unemployed people
 date: 2017-02-02
 author: james-powell
 category: news

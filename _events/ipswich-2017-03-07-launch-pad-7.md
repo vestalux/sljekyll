@@ -1,6 +1,6 @@
 ---
 id: ipswich-launch-pad-mar-7
-name: Launch Pad skills session for jobseekers
+name: Launch Pad skills session for unemployed people
 location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2017-03-07
