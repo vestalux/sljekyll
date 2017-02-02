@@ -4,7 +4,7 @@ title: New Young Adult books for February 2017
 date: 2017-02-01
 author: jo-dixon
 category: young-adult
-excerpt: 'Featuring'
+excerpt: 'Featuring <cite>Life in a Fishbowl</cite>, <cite>We Come Apart</cite>, <cite>Traitor to the Throne</cite>, <cite>All About Mia</cite>, <cite>Fir</cite> and <cite>Silver Stars</cite>'
 featured-image: /images/featured/featured-young-adult-february-2017.jpg
 featured-alt: Life in a Fishbowl, We Come Apart, Traitor to the Throne, All About Mia, Fir, Silver Stars
 featured-link-text: Check out our new Young Adult books for February 2017.
