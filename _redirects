@@ -83,7 +83,7 @@
 /reading-lists-groups-advice/suffolk-writes/* /events-activities/suffolk-writes/:splat
 /staff-picks/* /new-suggestions/staff-picks/:splat
 /upcoming-events/* /events-activities/upcoming/:splat
-/blog/meet-the-author* /meet-the-author/:splat
+/blog/meet-the-author* /new-suggestions/meet-the-author/:splat
 /schools-literacy/schools/* /schools/:splat
 /schools-literacy/literacy/* /schools/online-resources/
 /schools-literacy/reading-advice/* /parents-carers-and-children/
@@ -91,5 +91,6 @@
 /new-suggestions/book-club-ideas/* /new-suggestions/articles/:splat
 /new-suggestions/local-interest/* /new-suggestions/articles/:splat
 /new-suggestions/staff-picks/* /new-suggestions/reviews/staff-picks/:splat
+/meet-the-author/* /new-suggestions/meet-the-author/:splat
 
 /*   /404/index.html   404
