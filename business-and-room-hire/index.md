@@ -14,7 +14,7 @@ breadcrumb: home
 
 <div class="cf">
 
-    <div class="custom-g-l3">
+    <div class="custom-g-l2">
 
         <section class="{% include /c/block.html %}">
 
@@ -28,7 +28,7 @@ breadcrumb: home
 
     </div>
 
-    <div class="custom-g-l3 custom-g-nm">
+    <div class="custom-g-l2">
 
         <section class="{% include /c/block.html %}">
 
@@ -37,6 +37,19 @@ breadcrumb: home
             <a class="white" href="/libraries/room-hire/"><img src="/images/featured/featured-hub-pod.jpg" class="custom-constrain-img" alt="Desks around a table next to a flipchart"></a>
 
             <p class="{% include /c/block-graf.html %}">Most our libraries offer excellent value spaces for hire. Some also offer refreshments, projectors and other meeting equipment.</p>
+
+        </section>
+
+    </div>
+    <div class="custom-g-l2 custom-g-nm">
+
+        <section class="{% include /c/block.html %}">
+
+            <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/ceremonies/">Northgate room hire</a></h1>
+
+            <a class="white" href="/events-activities/ceremonies/"><img src="/images/featured/featured-ceremonies.jpg" class="custom-constrain-img" alt="A wedding in a room lined with books"></a>
+
+            <p class="{% include /c/block-graf.html %}">Hire the Northgate room in Ipswich County Library for weddings and other ceremonies.</p>
 
         </section>
 
