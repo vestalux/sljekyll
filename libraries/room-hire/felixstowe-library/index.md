@@ -1,7 +1,7 @@
 ---
 layout: full-width-narrow
 title: 'Felixstowe Library room hire'
-breadcrumb: branches
+breadcrumb: branch-room-hire
 ---
 # Large meeting room
 

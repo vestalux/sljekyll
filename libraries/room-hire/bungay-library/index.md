@@ -1,7 +1,7 @@
 ---
 layout: full-width-narrow
 title: 'Bungay Library room hire'
-breadcrumb: branches
+breadcrumb: branch-room-hire
 ---
 # Mezzanine floor (within library)
 

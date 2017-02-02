@@ -1,7 +1,7 @@
 ---
 layout: full-width-narrow
 title: 'Stowmarket Library room hire'
-breadcrumb: branches
+breadcrumb: branch-room-hire
 ---
 
 We have two small meeting rooms, as well as the option of using the library for events out of hours. Please use our [booking form](/assets/doc/stowmarket-room-booking-form.docx) (.docx) and refer to our [terms and conditions](/assets/pdf/stowmarket-room-terms-and-conditions.pdf) (.pdf).

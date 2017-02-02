@@ -1,7 +1,7 @@
 ---
 layout: full-width-narrow
 title: 'Gainsborough Community Library room hire'
-breadcrumb: branches
+breadcrumb: branch-room-hire
 ---
 # Community room
 
