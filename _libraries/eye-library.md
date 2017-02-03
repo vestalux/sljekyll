@@ -23,5 +23,4 @@ branch-colour-printing: available
 branch-photocopying: A4 available
 branch-scan-to-email: y
 breadcrumb: y
-branch-news: Customers are advised that the library will be opening at 3pm on Thursday 2 February due to staff sickness.
 ---
