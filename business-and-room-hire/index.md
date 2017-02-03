@@ -20,9 +20,9 @@ breadcrumb: home
 
             <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/libraries/hub/">Ipswich Enterprise &amp; Innovation Hub</a></h1>
 
-            <a class="white" href="/libraries/hub/"><img src="/images/featured/featured-hub-lounge-collage.jpg" class="custom-constrain-img" alt="Collage of presentation suite and desks in the hub"></a>
+            <a class="white" href="/libraries/hub/"><img src="/images/featured/featured-hub-lounge-collage.jpg" class="custom-constrain-img" alt="Collage of presentation suite and facilities in the hub"></a>
 
-            <p class="{% include /c/block-graf.html %}">Business meeting spaces, free business advice, presentation suite, MakerSpace and work desks.</p>
+            <p class="{% include /c/block-graf.html %}">Business meeting spaces, free business advice, presentation suite, MakerSpace and lounge.</p>
 
         </section>
 
@@ -34,7 +34,7 @@ breadcrumb: home
 
             <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/libraries/room-hire/">Room &amp; venue hire</a></h1>
 
-            <a class="white" href="/libraries/room-hire/"><img src="/images/featured/featured-hub-pod.jpg" class="custom-constrain-img" alt="Desks around a table next to a flipchart"></a>
+            <a class="white" href="/libraries/room-hire/"><img src="/images/featured/featured-hub-pod.jpg" class="custom-constrain-img" alt="Chairs around a table next to a flipchart"></a>
 
             <p class="{% include /c/block-graf.html %}">Most our libraries offer excellent value spaces for hire. Some also offer refreshments, projectors and other meeting equipment.</p>
 
