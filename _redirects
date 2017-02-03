@@ -39,8 +39,6 @@
 /blog/jhalak-longlist/ /new-suggestions/articles/jhalak-longlist/
 /blog/10-more-apps-to-add-to-your-new-tablet/ /new-suggestions/articles/10-more-apps-to-add-to-your-new-tablet/
 
-
-
 /announcements/* /news/:splat
 /category/blog/* /blog/:splat
 /book-club-lists/* /new-suggestions/book-club-ideas/:splat
@@ -76,7 +74,7 @@
 /press-releases/* /news/:splat
 /reading-lists-groups-advice/booked-out/* /new-suggestions/booked-out/:splat
 /reading-lists-groups-advice/dyslexia-and-irlen-syndrome/* /schools-literacy/reading-advice/dyslexia-irlen/:splat
-/reading-lists-groups-advice/reading-advice-and-information-babies-toddlers-and-pre-school-children/* /schools-literacy/reading-advice/pre-school/:splat
+/reading-lists-groups-advice/reading-advice-and-information-babies-toddlers-and-pre-school-children/*/schools-literacy/reading-advice/pre-school/:splat
 /reading-lists-groups-advice/reading-advice-and-information-primary-school-age-children/* /schools-literacy/reading-advice/primary-school/:splat
 /reading-lists-groups-advice/reading-advice-and-information-teenagers/* /schools-literacy/reading-advice/secondary-school/:splat
 /reading-lists-groups-advice/reading-groups/* /events-activities/reading-groups/:splat
@@ -90,7 +88,7 @@
 /new-suggestions/childrens-ya-books/* /parents-carers-and-children/childrens-ya-books/:splat
 /new-suggestions/book-club-ideas/* /new-suggestions/articles/:splat
 /new-suggestions/local-interest/* /new-suggestions/articles/:splat
-/new-suggestions/staff-picks/* /new-suggestions/reviews/staff-picks/:splat
+/new-suggestions/staff-picks/* /new-suggestions/reviews/reviews/:splat
 /meet-the-author/* /new-suggestions/meet-the-author/:splat
 
 /*   /404/index.html   404
