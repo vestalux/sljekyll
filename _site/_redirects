@@ -89,6 +89,10 @@
 /new-suggestions/book-club-ideas/* /new-suggestions/articles/:splat
 /new-suggestions/local-interest/* /new-suggestions/articles/:splat
 /new-suggestions/staff-picks/* /new-suggestions/reviews/reviews/:splat
+<<<<<<< HEAD
 /meet-the-author/* /new-suggestions/meet-the-author/:splat
+=======
+/meet-the-author/* /new-suggestions/reviews/meet-the-author/:splat
+>>>>>>> b28b18942cd25c2883849f688cf3b2594c25043d
 
 /*   /404/index.html   404
