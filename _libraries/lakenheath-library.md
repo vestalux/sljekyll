@@ -23,5 +23,6 @@ branch-netloan: new
 branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y
+branch-borrowing-ereaders-and-ipads: an iPad
 breadcrumb: y
 ---
