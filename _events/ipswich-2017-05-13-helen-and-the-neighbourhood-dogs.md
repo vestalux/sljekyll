@@ -1,6 +1,6 @@
 ---
 id: ipswich-helen-neighbourhood-dogs
-name: Gig: Helen and the Neighbourhood Dogs with support from Doozer McDooze and Fern Teather
+name: "Gig: Helen and the Neighbourhood Dogs with support from Doozer McDooze and Fern Teather"
 location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2017-05-13
