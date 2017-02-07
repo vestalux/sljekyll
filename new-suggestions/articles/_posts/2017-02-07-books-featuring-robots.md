@@ -18,6 +18,8 @@ To mark the opening of [the Science Museum's major new <cite>Robots</cite> exhib
 
 Ever wondered why they're called 'robots'? Czech playwright Karel Čapek coined the word from the Czech verb 'robota', 'to work'.
 
+This list was compiled with the help of Lakenheath Library manager Chris Howard.
+
 ## Board books
 
 ### [<cite>The Robot Book</cite>, by Heather Brown](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=254716)
