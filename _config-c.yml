@@ -1,0 +1,5 @@
+limit_posts: 1
+incremental: false
+exclude:
+  - README.md
+  - Gemfile
