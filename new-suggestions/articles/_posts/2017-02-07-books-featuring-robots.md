@@ -180,7 +180,7 @@ The title story in this collection is about robot butler NDR, aka Andrew, who in
 
 > "Meanwhile, retired synth scientist Dr. George Millican (William Hurt) starts to experience problems with his outdated synth Odi (Will Tudor) while elsewhere another synth scientist, Professor Edwin Hobbs (Danny Webb), leads a search for a trio of missing synths."
 
-### [<cite>Blade Runner - The Final Cut](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=877382)
+### [<cite>Blade Runner - The Final Cut</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=877382)
 
 > "Extended version of Ridley Scott's cult classic. Ex-cop Rick Deckard (Harrison Ford) is hired to track down a group of androids who have escaped from a satellite colony. As two of the AWOL 'replicants' (Rutger Hauer and Daryl Hannah) seek refuge in a geneticist's house, Deckard takes his investigation to the Tyrell Corporation, where he falls in love with Rachael (Sean Young), herself an android, but with a memory chip that convinces her she is human."
 
