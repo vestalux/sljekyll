@@ -5,7 +5,7 @@ location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2017-02-17
 event-start-time: 2000
-event-ticket-price: 10
+event-ticket-price: ' <span class="pa2 bg-red white">Sold out!</span>'
 breadcrumb: y
 ---
 
