@@ -16,6 +16,8 @@ featured-link-text: Check out our recommended books featuring robots
 
 To mark the opening of [the Science Museum's major new <cite>Robots</cite> exhibition](https://beta.sciencemuseum.org.uk/robots/), as well as the beginning of the [Radio 4 series <cite>The Rise of the Robots</cite>](http://www.bbc.co.uk/programmes/b08fg08m), we've picked out a selection of great books for all ages that feature robots.
 
+Ever wondered why they're called 'robots'? Czech playwright Karel Čapek coined the word from the Czech verb 'robota', 'to work'.
+
 ## Board books
 
 ### [<cite>The Robot Book</cite>, by Heather Brown](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=254716)
@@ -36,6 +38,10 @@ To mark the opening of [the Science Museum's major new <cite>Robots</cite> exhib
 
 > "Norton the Robot is intrigued by his discovery of a lone flower one day and sets about trying to care for it, with amusing and ultimately poignant results. A new book from the acclaimed creator of <cite>Blue & Bertie</cite>, Kristyna Litten, about making friends, appreciating the wonder of nature, and seeing that sometimes there is more to life than it might seem."
 
+### [<cite>The Robot and the Bluebird</cite>, by David Lucas](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=660147)
+
+> "There was once a robot with a broken heart, good for nothing but expiring slowly on a scrap heap. Then one winter's day a migrating bluebird lands on his shoulder. The robot offers her shelter in the place where his heart used to be and her warmth and companionship stir up the last glimmer of energy the robot has."
+
 ### [<cite>Robot Rumpus!</cite>, by Sean Taylor](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1621023)
 
 > "When mum and dad go out for the evening they think they've left their daughter in safe hands with robots designed to get her to bed. There's Cook-bot to make great spaghetti for dinner, Clean-bot to do the washing-up, Wash-bot for bath time and even Book-bot for a bedtime story. What could possibly go wrong?"
@@ -51,6 +57,10 @@ Winnie gets more then she bargains for when she unintentionally makes a robot in
 > "When Harry's toy robot stops marching, he sends it to the robot hospital to be fixed. Harry and Nan decide to make their own robots to play with while they wait for it to return. But before they can start, Nan is taken to hospital herself."
 
 ## Short chapter books
+
+### [<cite>Robot Girl</cite>, by Malorie Blackman](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1708845)
+
+> "Claire is keen to find out what her dad has been working on in his lab. He's been really excited about it and Claire knows it must be something that will make him even more famous. But the big reveal isn't at all what she expected and now Claire has a dilemma on her hands - what do you do when your dad has created a monster?"
 
 ### [<cite>Robot Riot</cite>, by Tim Healey & Chris Mould](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1791958)
 
@@ -75,6 +85,20 @@ After the mysterious disappearance of her inventor father, Lily travels to Londo
 ### [<cite>The Iron Man</cite>, by Ted Hughes](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1484988)
 
 > "A clanking iron giant topples from a cliff and lies smashed on the rocks below. Then his various parts begin to stir and reach out for one another. The Iron Man is ready to walk again, and he is very hungry."
+
+### [<cite>Clash of the Rival Robots</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1807253)
+
+> "The Steampunk Pirates are lured back to England by the promise of gold. But when their inventor Mr Richmond Swift appears on the scene, sparks begin to fly!"
+
+This is the third rollicking book relating the adventures of the Steampunk Pirates.
+
+### [<cite>The Everything Machine</cite>, by Ali Kennen](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2101659)
+
+> "Eleven-year-old Olly has a very special delivery - a 3D printing machine, stamped with PROPERTY OF M.O.D and BRITISH SPACE AGENCY. WARNING. DO NOT TAMPER, which has magical powers. It has a name, it speaks, and it can print ANYTHING Olly asks it to - a never-ending supply of sweets, a swimming pool in the shed - but what Olly really wants is his dad, who has separated from his mum and moved out of the family home. Cue the creation of Dad-Bot - he looks just like Dad (on a good day) but is totally chaotic - and his antics tip Olly and co into a heart-racing and heart-warming adventure!"
+
+### [<cite>The Mouse and his Child</cite>, by Russell Hoban](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1812896)
+
+Published in 1967, this classic allegorical tale about mechanical toys tells of their struggles through a hostile world and their quest to become self-winding. It features some memorable characters such as Manny Rat, the ruthless amoral villain, a fortunetelling frog who preys on the gullible and a troupe of travelling rooks called The Caws of Art. If you haven’t come across it before, give it a try but don’t be deluded by the gentle cover. It’s quite a read.
 
 ### [<cite>Robot Revolution</cite>, by James Patterson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2091163)
 
@@ -132,9 +156,19 @@ This book teaches you how to draw a variety of futuristic robots and machines wi
 
 > "In these classic sci fi stories, Isaac Asimov ushers in the Robot Age, where Earth is ruled by master-machines who are governed by Three Laws of Robotics, designed to ensure humans maintain the upper hand. But what happens when a rogue robot’s idea of what is good for society contravenes the Three Laws?"
 
+If you prefer listening to reading, why not listen to the recent [Radio 4 dramatisation of <cite>I, Robot</cite>](http://www.bbc.co.uk/programmes/b08f1dfw) while it's still on iPlayer?
+
 ### [<cite>The Hitchhiker's Guide to the Galaxy</cite>, by Douglas Adams](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1763829)
 
 Follow the adventures of the last surviving man from Earth, Arthur Dent, after the planet is demolished by Vogons to make way for a hyperspace bypass. Exploring the galaxy with his alien friend and rescuer Ford Prefect, he meets all manner of unusual characters, including depressed robot Marvin, the Paranoid Android.
+
+### [<cite>Do Android Dream of Electric Sheep?</cite>, by Philip K. Dick](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=199062)
+
+> "Popularly known as <cite>Blade Runner</cite> due to its movie adaptation, <cite>Do Androids Dream of Electric Sheep?</cite> is Dick's most famous title. Stalking androids in 21st century megalopolis, Deckard begins to question just who is human and what human is."
+
+### [<cite>Rossum's Universal Robots</cite>, by Karel Čapek (trans. David Short)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=691180)
+
+> "Determined to liberate the mass-produced but highly intelligent robots forged in the machinery of Rossum's island factory, Helena Gory arrives in a blaze of righteousness. Soon perplexed by the robots' seeming humanity but lack of sentience, she deserts her strident campaigning and falls in love with Domin, the factory's general manager."
 
 ### [<cite>V.</cite>, by Thomas Pynchon](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=242005)
 
@@ -147,6 +181,10 @@ Follow the adventures of the last surviving man from Earth, Arthur Dent, after t
 ### [<cite>Bicentennial Man</cite>, by Isaac Asimov](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=464537)
 
 The title story in this collection is about robot butler NDR, aka Andrew, who increasingly feels and identifies as human, but cannot be recognised as such unless he becomes mortal.
+
+### [<cite>Frankenstein</cite>, by Mary Shelley](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1976672)
+
+> "Written when Mary Shelley was only 19 years old, this chilling tale of a young scientist's desire to create life still resonates today. Victor Frankenstein's monster is stitched together from the stolen limbs of the dead, and the result is a grotesque being who, rejected by his maker, sets out on a journey to wreak his revenge. In the most famous gothic horror story ever told, Shelley confronts the limitations of science, the nature of human cruelty and the pathway to forgiveness with rich language and evocative imagery."
 
 ## Adult non-fiction
 
@@ -167,6 +205,12 @@ The title story in this collection is about robot butler NDR, aka Andrew, who in
 ### [<cite>Making Simple Automata</cite>, by Robert Race](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1643282)
 
 > "Designing and making successful automata involves combining materials, mechanisms, and magic. This book explains how to design and construct small scale, simple mechanical devices made for fun. Illustrated with examples throughout, it explains the six golden rules for making automata alongside detailed step-by-step projects."
+
+### [<cite>Leonardo Automations and Robotics</cite>, by Sara Taglialagamba (ed.)](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2153057)
+
+> "One of the most exciting challenges faced by Leonardo was to create robots made to resemble human or animal, or rather automatic self-operating devices. The technological excellence achieved during the XV century and the impetus in Mechanics and Engineering developed in Leonardo a growing interest in humanoid automata and in self-operating machines that still interests many scholars today. Many researchers share the hypothesis that Leonardo studied automata and attempted to sketch some projects on his manuscripts. In fact, pulleys and gears are the real 'stars' of the famous folio 216v-b [579r] in the Codex Atlanticus, associated with the project of the automaton or robot. Due to the lack of a main project, this drawing leaves some pending questions.
+
+> "This project was the result of the research carried out by the artist in the field of anatomy, studies partially lost and partially recorded in the Codex Huygens, kept at the Pierpont Morgan Library in New York. Therefore Leonardo traced the idea of a sort of Robotics, a so-called anathomia artificialis: studying the human body, he came to the creation of a wonderful humanised machine. The artist-craftsman could not receive a higher consecration. Leonardo's automata are the subject of this book, which collects the results presented by scholars that have studied Leonardo from different points of view."
 
 ### [<cite>In Our Own Image: artificial intelligence, fear, love and the future of mankind</cite>, by George Zarkadakis](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1723804)
 
