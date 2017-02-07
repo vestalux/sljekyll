@@ -11,6 +11,7 @@ We&#8217;re lending eReaders so you can access our collection of over 7,000 eBoo
 ### Libraries that lend eReaders
 
 * [Gainsborough Community Library](/libraries/gainsborough-community-library)
+* [Lakenheath Library](/libraries/lakenheath-library)
 * [Thurston Library](/libraries/thurston-library)
 * [Woodbridge Library](/libraries/woodbridge-library)
 
