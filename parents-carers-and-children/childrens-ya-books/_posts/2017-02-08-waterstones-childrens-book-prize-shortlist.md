@@ -5,13 +5,13 @@ date: 2017-02-08
 author: alice-violett
 category: childrens-ya-books
 excerpt: "Optimism and inspiration leap from the pages of this year's nominations for the Waterstones Children's Book Prize."
-featured-image: /images/featured/featured-waterstones-childrens-2017.jpg
+featured-image: /images/featured/featured-waterstones-children.jpg
 featured-alt: "There's a Tiger in the Garden, Wolf Hollow, Hour of the Bees"
 featured-link-text: "Check out the picture books and books for younger and older children nominated for the Waterstones Book Prize"
 breadcrumb: childrens-ya-books
 ---
 
-![There's a Tiger in the Garden, Wolf Hollow, Hour of the Bees](/images/featured/featured-waterstones-childrens-2017.jpg)
+![There's a Tiger in the Garden, Wolf Hollow, Hour of the Bees](/images/featured/featured-waterstones-children.jpg)
 
 The shortlist for the 2017 Waterstones Children's Prize has been announced today. Winners in the categories of Illustrated Books, Younger Readers and Older Readers, as well as an overall winner, will be announced on Thursday 30 March.  
 
