@@ -7,7 +7,7 @@ event-start-date: 2017-02-16
 event-start-time: 1500
 event-end-time: 1600
 event-price: free
-event-category: older
+event-category: health
 breadcrumb: y
 ---
 

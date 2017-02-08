@@ -6,6 +6,7 @@ location-text: Framlingham Library
 event-start-date: 2017-05-09
 event-start-time: 1000
 event-end-time: 1400
+event-category: health
 breadcrumb: y
 ---
 

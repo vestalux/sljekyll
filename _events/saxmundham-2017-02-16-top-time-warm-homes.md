@@ -5,7 +5,8 @@ location: saxmundham-library
 location-text: Saxmundham Library
 event-start-date: 2017-02-16
 event-start-time: 1000
-event-end=time: 1200
+event-end-time: 1200
+event-category: health
 event-ticket-price: 1
 breadcrumb: y
 ---

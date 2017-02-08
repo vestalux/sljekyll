@@ -3,10 +3,10 @@ id: woodbridge-qi-going
 name: "Chair based exercise (qi gong) and meditiation session"
 location: woodbridge-library
 location-text: Woodbridge Library
-event-start-date: 2017-03-27
+event-start-date: 2017-03-30
 event-start-time: 1400
 event-end-time: 1500
-event-category: older
+event-category: health
 breadcrumb: y
 ---
 

@@ -6,6 +6,7 @@ location-text: Thurston Library
 event-start-date: 2017-03-15
 event-start-time: 1100
 event-end-time: 1200
+event-category: health
 breadcrumb: y
 ---
 
