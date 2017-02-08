@@ -14,7 +14,7 @@ featured-link-text: Check out our fiction, non-fiction and DVDs about Russia
 
 ![The Master & Margarita, The Last Englishman, Revolution: Russian art 1917-1932, Russian Revolutionary Posters, The Commissar Vanishes](/images/featured/featured-russian-titles.jpg)
 
-In the centenary year of the Russian Revolution, as you inspired to learn about Russia in the early twentieth century, through fiction, non-fiction, or DVDs? We've compiled a list of titles to get you started.
+In the centenary year of the Russian Revolution, are you inspired to learn about Russia in the early twentieth century, through fiction, non-fiction, or DVDs? We've compiled a list of titles to get you started.
 
 Prefer ebooks? Check out our [Russian Revolution shelf on OverDrive](https://suffolklibraries.overdrive.com/collection/87722).
 
@@ -22,7 +22,7 @@ This list was compiled with the help of deputy head of IT Leon Paternoster.
 
 ## Fiction
 
-### [<cite>Doctor Zhivago</cite>, by Boris Pasternak</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2079985)
+### [<cite>Doctor Zhivago</cite>, by Boris Pasternak](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2079985)
 
 > "The story of Yuri Zhivago, physician and poet, is both a panoramic, epic portrait of a country in the throes of the most radical revolution in history, and an intense love story."
 
@@ -58,7 +58,7 @@ Better-known for <cite>Swallows and Amazons</cite>, Arthur Ransome worked as a r
 
 > "Simon Sebag Montefiore has unearthed the vast underpinning that sustained Stalin. Not only ministers such as Molotov or secret service chiefs such as Beria, but men and women whose loyalty he trusted only until the next purge. Here is the Stalin story from the inside, full of revelations."
 
-### [<cite>The Last of the Tsars: Nicholas II and the Russian Revolution](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2100633)
+### [<cite>The Last of the Tsars: Nicholas II and the Russian Revolution</cite>, by Robert Service](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2100633)
 
 > "<cite>The Last of the Tsars</cite> is a study of a man who was almost entirely out of his depth, perhaps even wilfully so. It is also a compelling account of the social, economic and political foment in Russia in the aftermath of Alexander Kerensky's February Revolution, the Bolshevik seizure of power in October 1917 and the beginnings of Lenin's Soviet republic."
 
