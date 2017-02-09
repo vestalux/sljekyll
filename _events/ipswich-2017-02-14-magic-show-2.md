@@ -4,7 +4,7 @@ name: "Mr Bean's Magic Show and crafts"
 location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2017-02-14
-event-start-time: 1400-1500 or 1530-1630
+event-start-time: 1530-1630
 event-ticket-price: 4 for the magic show, additional £1 for the optional craft activity
 event-category: children
 breadcrumb: y
