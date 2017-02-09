@@ -1,26 +1,53 @@
 <aside id="sidebar" class="{% include /c/content-box.html %} custom-constrain-img" role="complementary">
 
-    {% if page.sidebar == 'about' %}
+    {% assign sidebar = page.sidebar %}
 
-      <section class="{% include /c/sidebar-section.html %}">
+    {% case sidebar %}
 
-          <h1 class="{% include /c/sidebar-section-title.html %}">In this section</h1>
+        {% when 'about' %}
+        {% include /sidebar/about.html %}
 
-          <ul class="{% include /c/sidebar-section-list.html %}">
+        {% when 'blog' %}
+        {% include /sidebar/blog.html %}
 
-              <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/about/">About us</a></li>
-              <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/about/board-members/">Board members</a></li>
-              <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/about/documents/">Documents (including board meeting minutes)</a></li>
-              <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/about/member-organisations/">Member organisations</a></li>
-              <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/about/jobs/">Jobs</a></li>
+        {% when 'branches' %}
+        {% include /sidebar/branches.html %}
 
-          </ul>
+        {% when 'health' %}
+        {% include /sidebar/health.html %}
 
-      </section>
+        {% when 'help' %}
+        {% include /sidebar/help.html %}
 
-    {% endif %}
+        {% when 'hub' %}
+        {% include /sidebar/hub.html %}
+
+        {% when 'information-resources' %}
+        {% include /sidebar/information-resources.html %}
+
+        {% when 'literacy' %}
+        {% include /sidebar/literacy.html %}
+
+        {% when 'meet-the-author' %}
+        {% include /sidebar/meet-the-author.html %}
+
+        {% when 'mobile-home' %}
+        {% include /sidebar/mobile-home.html %}
+
+        {% when 'news' %}
+        {% include /sidebar/news.html %}
+
+        {% when 'schools' %}
+        {% include /sidebar/schools.html %}
+
+        {% when 'summer-reading-challenge' %}
+        {% include /sidebar/summer-reading-challenge.html %}
+
+    {% endcase %}
 
     {% if page.breadcrumb == 'blog' %}
+
+        {% include /sidebar/blog.html %}
 
         <section class="{% include /c/sidebar-section.html %}">
 
@@ -50,66 +77,6 @@
 
     {% endif %}
 
-    {% if page.sidebar == 'blog' %}
-
-    <section class="{% include /c/sidebar-section.html %}">
-
-        <h1 class="{% include /c/sidebar-section-title.html %}">About our blog</h1>
-
-        <p class="ma0 mb2 f6 f5-ns">A behind the scenes look at Suffolk Libraries.</p>
-
-    </section>
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">Keep updated</h1>
-
-            <p class="ma0 mb2 f6 f5-ns">Never miss a blog post and get the latest staff picks.</p>
-
-            <ul class="{% include /c/sidebar-section-list.html %}">
-
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/newsletter/">Email newsletter</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="https://facebook.com/suffolklibraries">Facebook</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="https://twitter.com/suffolklibrary">Twitter</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="https://instagram.com/suffolklibraries">Instagram</a></li>
-
-            </ul>
-
-        </section>
-
-    {% endif %}
-
-    {% if page.sidebar == 'meet-the-author' %}
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">About meet the author</h1>
-
-            <p class="ma0 mb2 f6 f5-ns">Regular interviews with some of the world's biggest-selling authors.</p>
-
-        </section>
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">Keep updated</h1>
-
-            <p class="ma0 mb2 f6 f5-ns">Never miss an interview or our latest staff picks.</p>
-
-            <ul class="{% include /c/sidebar-section-list.html %}">
-
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/newsletter/">Email newsletter</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="https://facebook.com/suffolklibraries">Facebook</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="https://twitter.com/suffolklibrary">Twitter</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="https://instagram.com/suffolklibraries">Instagram</a></li>
-
-            </ul>
-
-        </section>
-
-    {% endif %}
-
-
-
     {% if page.breadcrumb == 'elibrary' %}
 
         <section class="{% include /c/sidebar-section.html %}">
@@ -130,174 +97,9 @@
 
     {% endif %}
 
-    {% if page.sidebar == 'health' %}
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">In this section</h1>
-
-            <ul class="{% include /c/sidebar-section-list.html %}">
-
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/health/">New Chapters Home</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/health/events/">Events</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/health/links/">Links</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/health/contact/">Contact</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/health/lists/">Reading lists</a></li>
-
-            </ul>
-
-        </section>
-
-        <section>
-
-            <img src="/images/article/new-chapters-logo.png" class="pb3" alt="New Chapters logo"/>
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">About</h1>
-
-            <p class="ma0 mb2 f6 f5-ns">My name is Sarah Lungley and I am the coordinator for Suffolk Libraries Mental Health and Wellbeing Information Service.</p>
-
-            <p class="ma0 mb2 f6 f5-ns">My role is to help provide information on local services and to promote events in our libraries and the community that can support mental health and wellbeing.</p>
-
-            <p class="ma0 mb2 f6 f5-ns">The service also aims to support our library staff, to ensure they are able to access useful and up-to-date information for our customers should they request it.</p>
-
-            <p class="ma0 mb2 f6 f5-ns">Libraries are a fantastic resource, not only for books and information but for community, friendships and fun too. So pop in to your local branch or explore our website to find out more about what we do – we hope to see you soon!</p>
-
-            <img src="/images/article/suffolk-information-standard-logo.jpg" class="pb3" alt="Suffolk Information Standard logo"/>
-
-        </section>
-
-    {% endif %}
-
-    {% if page.sidebar == 'help' %}
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">Using the library service</h1>
-
-            <ul class="pa0 ma0 list pb2 f6 f5-ns">
-
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/joining-the-library/">Joining the library</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/find-and-reserve-print-titles-dvds-and-cds/">Finding, reserving and borrowing titles</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/renewing-titles/">Renewing titles</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/reminders/">Getting availability and overdue reminders</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/suggest-a-title/">Suggesting a title</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/using-our-online-catalogue/">Using our online catalogue</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/borrowing-titles-from-cambridgeshire-libraries/">Borrowing Cambridgeshire titles</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/reregistering-an-expired-library-card/">Re–registering an expired library card</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href=" /help/lost-and-replacement-cards/">Lost and replacement cards</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/opening-times-and-holidays/">Opening times and holidays</a></li>
-
-            </ul>
-
-        </section>
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">Charges &amp; fines</h1>
-
-            <ul class="{% include /c/sidebar-section-list.html %}">
-
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/reservations-requests-inter-library-loans/">Reservation, request &amp; inter-library loan charges</a></li>
-
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/book-cd-audiobook-game-dvd-borrowing-overdues/">Borrowing periods &amp; overdue fines</a></li>
-
-            </ul>
-
-        </section>
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">eBooks, eAudio books, streaming &amp; downloads</h1>
-
-            <ul class="{% include /c/sidebar-section-list.html %}">
-
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/elibrary">Using our eLibrary services</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/borrowing-ereaders-and-ipads/">Borrowing eReaders and iPads</a></li>
-
-            </ul>
-
-        </section>
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">Wifi, computers and printing in libraries</h1>
-
-            <ul class="{% include /c/sidebar-section-list.html %}">
-
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/printing-copying-scanning/">Printing, copying, scanning &amp; faxing</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/using-library-pcs/">Using library computers</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/using-wifi-in-libraries/">Using wifi in libraries</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/what-we-filter-on-public-pcs-and-our-wifi-service/">What we filter on public PCs and our WiFi service</a></li>
-
-            </ul>
-
-        </section>
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">Privacy &amp; legal</h1>
-
-            <ul class="pa0 ma0 list pb2 f6 f5-ns">
-
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/privacy-and-cookies/">Privacy &amp; cookies</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/help/library-byelaws/">Library byelaws</a></li>
-
-            </ul>
-
-        </section>
-
-    {% endif %}
-
-    {% if page.sidebar == 'hub' %}
-
-      <section class="{% include /c/sidebar-section.html %}">
-
-          <h1 class="{% include /c/sidebar-section-title.html %}">In this section</h1>
-
-          <ul class="{% include /c/sidebar-section-list.html %}">
-
-              <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/branches/hub/">Home</a></li>
-              <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="https://uk.bookingbug.com/home/45066-Enterprise-+-Innovation-Hub">Book a space, room or advisor</a></li>
-              <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/branches/hub/makerspace">MakerSpace</a></li>
-              <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/branches/hub/conditions-of-use">Conditions of use</a></li>
-              <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="http://eepurl.com/bB1SUb">Hub newsletter</a></li>
-
-          </ul>
-
-      </section>
-
-    {% endif %}
-
-    {% if page.sidebar == 'news' %}
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">Keep updated</h1>
-
-            <p class="ma0 mb2 f6 f5-ns">Keep up to date with news, events and staff picks.</p>
-
-            <ul class="{% include /c/sidebar-section-list.html %}">
-
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/newsletter/">Email newsletter</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="https://facebook.com/suffolklibraries">Facebook</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="https://twitter.com/suffolklibrary">Twitter</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="https://instagram.com/suffolklibraries">Instagram</a></li>
-
-            </ul>
-
-        </section>
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">Press &amp; media enquiries</h1>
-
-            <p class="ma0 mb2 f6 f5-ns">Contact our marketing and communications manager <strong>james.powell@suffolklibraries.co.uk</strong></p>
-
-        </section>
-
-    {% endif %}
-
     {% if page.breadcrumb == 'news' %}
+
+        {% include /sidebar/news.html %}
 
         <section class="{% include /c/sidebar-section.html %}">
 
@@ -308,95 +110,6 @@
             {% for post in site.categories.['news'] limit:10 %}
                 <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
             {% endfor %}
-
-            </ul>
-
-        </section>
-
-    {% endif %}
-
-    {% if page.sidebar == 'literacy' %}
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">In this section</h1>
-
-            <ul class="{% include /c/sidebar-section-list.html %}">
-
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/literacy/"><em>Beyond the Book</em> Home</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/literacy/schools/">Schools</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/literacy/resources/">Resources</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/literacy/parents-carers/">Parents and carers</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/literacy/cool-links/">Cool links</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools-literacy/literacy/contact/">Contact</a></li>
-
-            </ul>
-
-            <img src="/images/article/beyond-the-book-logo.jpg" alt="Beyond the Book logo" />
-
-        </section>
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">About</h1>
-
-            <p class="ma0 mb2 f6 f5-ns">My name is Matt Shenton and I am working for Suffolk Libraries as a dedicated ‘Literacy Ambassador’ for the next year. My role is to work with schools, statutory and voluntary organisations and other interested parties to promote reading for pleasure and the importance of literacy to young people and their families in Suffolk.</p>
-
-        </section>
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">Tag cloud</h1>
-
-            {% assign tags = site.tags | sort %}
-            {% for tag in site.tags %}
-             <li class="dib mr1 mb2">
-                <a href="/schools-literacy/literacy/tag/{{ tag | first | slugify }}/" class="f6 f5-ns b db pa2 link dim dark-gray ba b--black-20">
-                        {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
-                </a>
-             </li>
-            {% endfor %}
-
-        </section>
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <form class="pure-form pure-form-stacked" action="//suffolklibraries.us4.list-manage.com/subscribe/post?u=8fdb8e824d6cb5f95be2c5b88&amp;id=5c9e20d507" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">Subscribe to the literacy newsletter</h1>
-
-            <p class="ma0 mb2 f6 f5-ns">You will receive an email confirmation to subscribe to the newsletter.</p>
-
-              <fieldset>
-                <label class="ma0 mb2 f6 f5-ns">Email address</label>
-                <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8fdb8e824d6cb5f95be2c5b88_5c9e20d507" tabindex="-1" value=""></div>
-                <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="pure-button pure-button-primary"></div>
-                </div>
-
-            </form>
-
-            <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-            <!--End mc_embed_signup-->
-
-        </section>
-
-    {% endif %}
-
-    {% if page.sidebar == 'schools' %}
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">LBaRTS services</h1>
-
-            <ul class="{% include /c/sidebar-section-list.html %}">
-
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools/advisory-librarian-support">Advisory librarian support</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools/curriculum-support">Curriculum support</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools/staff-training-and-cpd">Staff training and CPD</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools/student-awards-and-events">Student awards and events</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/schools/online-resources">Online resources</a></li>
 
             </ul>
 
@@ -536,76 +249,6 @@
             {% endif %}
 
         {% endfor %}
-
-    {% endif %}
-
-    {% if page.sidebar == 'information-resources' %}
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">In this section</h1>
-
-            <ul class="{% include /c/sidebar-section-list.html %}">
-
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/information-resources/">Information resources</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/music-and-drama">Music and Drama Library</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/special-collections">Special collections</a></li>
-
-            </ul>
-
-        </section>
-
-    {% endif %}
-
-    {% if page.sidebar == 'summer-reading-challenge' %}
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">In this section</h1>
-
-            <ul class="{% include /c/sidebar-section-list.html %}">
-
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/events-activities/summer-reading-challenge/">Home</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/events-activities/summer-reading-challenge/summer-reading-challenge-volunteer-application-form/">Volunteer application form</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/events-activities/summer-reading-challenge/gold-ticket-family-prize-draw/">Gold ticket family prize draw</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/events-activities/summer-reading-challenge/imagination/">ImagiNation: for 11-18 year olds</a></li>
-
-            </ul>
-
-        </section>
-
-    {% endif %}
-
-    {% if page.sidebar == 'mobile-home' %}
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">Mobiles &amp; home service</h1>
-
-            <ul class="{% include /c/sidebar-section-list.html %}">
-
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/mobiles-home/">All mobile library stops</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/mobiles-home/using-the-mobile-library-service/">How to use the mobile library service</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/mobiles-home/mobile-route-schedules/">Mobile route timetables</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/mobiles-home/home/">About the Home Library Service</a></li>
-
-            </ul>
-
-        </section>
-
-    {% endif %}
-
-    {% if page.sidebar == 'branches' %}
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">Ipswich Entrerprise + Innovation Hub</h1>
-
-            <p class="ma0 mb2 f6 f5-ns">Use our Makerspace and hire meeting rooms and work desks.</p>
-
-            <p class="ma0 mb2 f6 f5-ns"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/branches/hub/">Find out more about the Enterprise + Innovation Hub</a></p>
-
-        </section>
 
     {% endif %}
 
