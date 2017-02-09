@@ -7,6 +7,7 @@ event-start-date: 2017-02-13
 event-start-time: 1400
 event-end-time: 1600
 event-category: half-term
+event-ticket-price: free
 breadcrumb: y
 ---
 

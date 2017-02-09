@@ -9,4 +9,4 @@ event-end-time: 1600
 breadcrumb: y
 ---
 
-Come and celebrate the library's 50th birthday with games for children, a quiz for all ages, birthday cake and refreshments.
+Come and celebrate the library's 50th birthday with 60s-themed games and crafts for children, a quiz for all ages, refreshments and a special birthday cake cut by the mayor of Ipswich.
