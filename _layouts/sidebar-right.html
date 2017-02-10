@@ -22,7 +22,7 @@
 
                     <header>
 
-                        <h1 class="{% include /c/page-title.html %}}">{{ page.title }}</h1>
+                        <h1 {% if page.category %}itemprop="name headline"{% endif %}class="{% include /c/page-title.html %}}">{{ page.title }}</h1>
 
                         {% if page.category %}
 
@@ -32,7 +32,7 @@
 
                     </header>
 
-                    <div class="{% include /c/prose.html %}">
+                    <div {% if page.category %}itemprop="articleBody"{% endif %}class="{% include /c/prose.html %}">
 
                         {{ content }}
 
