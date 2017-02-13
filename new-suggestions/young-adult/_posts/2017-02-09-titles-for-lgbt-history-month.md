@@ -79,11 +79,11 @@ Sequel to <cite>Adaptation</cite>.
 
 > "Inspired by a true story, this is an edgy, extravagant novel for young people and others, full of gender-bending teen glamour, dark mischief and enough melodrama to incite the paparazzi."
 
-## [<cite>More Than This</cite>, by Patrick Ness](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1581437)
+## [<cite>More Than This</cite>, by Patrick Ness](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1581437) [Also available as an eBook](https://suffolklibraries.overdrive.com/media/1396720)
 
 > "A boy called Seth drowns, desperate and alone in his final moments, losing his life as the pounding sea claims him. But then he wakes. How is that possible? And where is this place? It looks like the suburban English town where he lived as a child, before an unthinkable tragedy happened and his family moved to America. But the neighbourhood around his old house is overgrown, covered in dust and completely abandoned. What's going on?"
 
-## [<cite>The Rest Of Us Just Live Here</cite>, by Patrick Ness](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1958138)
+## [<cite>The Rest Of Us Just Live Here</cite>, by Patrick Ness](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1958138) [Also available as an eBook](https://suffolklibraries.overdrive.com/media/2347120)
 
 > "This bold, irreverent novel powerfully asks what if you weren't the 'chosen one'? The one who's supposed to fight the zombies, or the soul-eating ghosts, or whatever this new thing is, with the blue lights and the death? What if you were like Mikey? Who just wants to graduate and go to prom and maybe finally work up the courage to ask Henna out before someone goes and blows up his high school. Again. Because sometimes there are problems bigger than this week's end of the world and sometimes you just have to find the extraordinary in your ordinary life. Even if your best friend might just be the God of mountain lions!"
 
@@ -103,7 +103,7 @@ Sequel to <cite>Adaptation</cite>.
 
 > "Nine months. Two weeks. Six days. That's how long recovering addict Sophie's been drug-free. Four months ago her best friend Mina died in what everyone believes was a drug deal gone wrong - a deal they think Sophie set up. Only Sophie knows the truth. She and Mina shared a secret, but there was no drug deal. Mina was deliberately murdered. Forced into rehab for a drug addiction she'd already beaten, Sophie's finally out and on the trail of the killer. But can she track them down before they come for her?"
 
-## [<cite>Boy Meets Boy</cite>, by David Levithan](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1458588)
+## [<cite>Boy Meets Boy</cite>, by David Levithan](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1458588) [Also available as an eBook](https://suffolklibraries.overdrive.com/media/1300213)
 
 > "Paul has been gay his whole life and he's confident about almost everything. He doesn't have to hide his feelings like best friend Tony. Or even cope with loving the wrong guy like his other best friend Joni. But heartbreak can happen to anyone. Falling in love changes everything."
 
@@ -121,15 +121,15 @@ Sequel to <cite>Adaptation</cite>.
 
 > "Jem is determined to avenge the death of her beloved best friend who was driven to desperation after being outed by the popular crew at school. She's going to take down those responsible, one by one. But what if Kai was keeping secrets from Jem?"
 
-## [<cite>Clariel</cite>, by Garth Nix](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1769849)
+## [<cite>Clariel</cite>, by Garth Nix](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1769849) [Also available as an eBook](https://suffolklibraries.overdrive.com/media/1760738)
 
 > "Sixteen-year-old Clariel is not adjusting well to her new life in the city of Belisaere, the capital of the Old Kingdom. She misses roaming freely within the forests of Estwael, and she feels trapped within the stone city walls. And in Belisaere she is forced to follow the plans, plots and demands of everyone, from her parents to her maid to the sinister Guildmaster Kilip. Clariel can see her freedom slipping away. It seems too that the city itself is descending into chaos, as the ancient rules binding Abhorsen, King and Clayr appear to be disintegrating."
 
-## [<cite>I'll Give You The Sun</cite>, by Jandy Nelson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1737136)
+## [<cite>I'll Give You The Sun</cite>, by Jandy Nelson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1737136) [Also available as an eBook](https://suffolklibraries.overdrive.com/media/2356366)
 
 > "Jude and her twin Noah were incredibly close - until a tragedy drove them apart, and now they are barely speaking. Then Jude meets a cocky, broken, beautiful boy as well as a captivating new mentor, both of whom may just need her as much as she needs them. What the twins don't realise is that each of them has only half the story and if they can just find their way back to one another, they have a chance to remake their world."
 
-## [<cite>Aristotle and Dante Discover the Secrets of the Universe</cite>, by Benjamin Alire Sáenz](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1620305)
+## [<cite>Aristotle and Dante Discover the Secrets of the Universe</cite>, by Benjamin Alire Sáenz](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1620305) [Also available as an eBook](https://suffolklibraries.overdrive.com/media/778161)
 
 > "Aristotle is an angry teen with a brother in prison. Dante is a know-it-all who has an unusual way of looking at the world. When they meet at the swimming pool, they seem to have nothing in common. But as the two loners start spending time together, they discover that they share a special kind of friendship - the kind of friendship that changes lives and lasts a lifetime. And it is through their friendship that Ari and Dante will learn the most important truths about themselves - and about the kind of people they want to be."
 
@@ -211,7 +211,7 @@ Third in the <cite>Half Bad</cite> series.
 
 > "Before Ardor, we let ourselves be defined by labels - the athlete, the slut, the slacker, the overachiever. But then we all looked up and everything changed. They said the asteroid would be here in two months. That gave us two months to leave our labels behind. Two months to become something bigger than what we'd been, something that would last even after the end. Two months to really live."
 
-## [<cite>Maggot Moon</cite>, by Sally Gardner](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1416607)
+## [<cite>Maggot Moon</cite>, by Sally Gardner](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1416607) [Also available as an eBook](https://suffolklibraries.overdrive.com/media/1332751)
 
 > "When his best friend Hector is suddenly taken away, Standish Treadwell realises that it is up to him, his grandfather and a small band of rebels to confront and defeat the ever-present oppressive forces of The Motherland."
 
@@ -219,7 +219,7 @@ Third in the <cite>Half Bad</cite> series.
 
 > "17-year-old Louisa Cosgrove longs to break free from her respectable life as a Victorian doctor's daughter. But her dreams become a nightmare when Louisa is sent to Wildthorn Hall: labelled a lunatic, deprived of her liberty and even her real name. She must be honest with herself - and others - in order to be set free."
 
-## [<cite>Because You'll Never Meet Me</cite>, by Leah Thomas](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1787097)
+## [<cite>Because You'll Never Meet Me</cite>, by Leah Thomas](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1787097) [Also available as an eBook](https://suffolklibraries.overdrive.com/media/1332751)
 
 > "Ollie and Moritz are two teenagers who will never meet. Each of them lives with a life-affecting illness. Contact with electricity sends Ollie into debilitating seizures, while Moritz has a heart defect and is kept alive by an electronic pacemaker. If they did meet, Ollie would seize, but turning off the pacemaker would kill Moritz.
 

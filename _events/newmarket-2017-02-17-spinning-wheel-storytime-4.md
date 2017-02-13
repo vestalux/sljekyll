@@ -6,7 +6,7 @@ location-text: Newmarket Library
 event-start-date: 2017-02-17
 event-start-time: 1100
 event-ticket-price: free
-event-category: children
+event-category: half-term
 breadcrumb: y
 ---
 
