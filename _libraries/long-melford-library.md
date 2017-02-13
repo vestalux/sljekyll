@@ -16,7 +16,6 @@ branch-tel: 01787 377525
 branch-friends: Friends of Long Melford Library
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/long-melford-library
 branch-parking: free parking available on street
-branch-bookdrop: y
 branch-toilet: y
 branch-wifi: y
 branch-netloan: new

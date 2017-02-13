@@ -5,7 +5,7 @@ location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2017-02-14
 event-start-time: 1530-1630
-event-ticket-price: 4 for the magic show, additional £1 for the optional craft activity
+event-ticket-price: ' <span class="pa2 bg-red white">Sold out!</span>'
 event-category: children
 breadcrumb: y
 ---

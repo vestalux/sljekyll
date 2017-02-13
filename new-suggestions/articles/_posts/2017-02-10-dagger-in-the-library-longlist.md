@@ -6,13 +6,13 @@ author: alice-violett
 category: articles
 excerpt: "The Dagger in the Library prize recognises the best UK and Irish crime writers, and the longlist is chosen by the absolute authorities on books - library staff."
 featured-image: /images/featured/featured-dagger-library-2017.jpg
-featured-alt: ""
+featured-alt: "The Backs, The Ashes of London, Little Girl Lost, Dark Tides, Dominion, Written in Bones, The Death Season, The Silent Room, The Death of Lucy Kyte, Faithful Place"
 breadcrumb: articles
-featured-excerpt: ""
+featured-excerpt: "The Dagger in the Library prize recognises the best UK and Irish crime writers, and the longlist is chosen by the absolute authorities on books - library staff."
 featured-link-text: Check out titles from this year's Dagger in the Library nominees
 ---
 
-![](/images/featured/featured-dagger-library-2017.jpg)
+![The Backs, The Ashes of London, Little Girl Lost, Dark Tides, Dominion, Written in Bones, The Death Season, The Silent Room, The Death of Lucy Kyte, Faithful Place](/images/featured/featured-dagger-library-2017.jpg)
 
 The Crime Writers' Association Dagger in the Library longlist was announced this week. This prize is unusual in two ways. Firstly, rather than being for individual books, this prestigious award goes to an author with a worthy body of work. Secondly, unlike other crime writing awards, the longlist is nominated solely by library staff.
 
