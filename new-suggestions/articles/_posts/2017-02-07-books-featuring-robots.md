@@ -4,11 +4,11 @@ title: Recommended robot-related titles to complement the Science Museum's new e
 date: 2017-02-07
 author: jo-dixon
 category: articles
-excerpt: "To mark the opening of the Science Museum's major new <cite>Robots</cite> exhibition, as well as the beginning of the Radio 4 series <cite>The Rise of the Robots</cite>, we've picked out a selection of great books and DVDs for all ages that feature robots."
+excerpt: "To mark the opening of the Science Museum's major new <cite>Robots</cite> exhibition, as well as the beginning of the Radio 4 series <cite>The Rise of the Robots</cite>, we've picked out a selection of great robot-related books, DVDs and music for all ages."
 featured-image: /images/featured/featured-robots.jpg
 featured-alt: Robot Rumpus, The Stepford Wives, Rise of the Robots
 breadcrumb: articles
-featured-excerpt: "To mark the opening of the Science Museum's major new <cite>Robots</cite> exhibition, as well as the beginning of the Radio 4 series <cite>The Rise of the Robots</cite>, we've picked out a selection of great books and DVDs for all ages that feature robots."
+featured-excerpt: "To mark the opening of the Science Museum's major new <cite>Robots</cite> exhibition, as well as the beginning of the Radio 4 series <cite>The Rise of the Robots</cite>, we've picked out a selection of great robot-related books, DVDs and music for all ages."
 featured-link-text: Check out our recommended books featuring robots
 ---
 
@@ -16,9 +16,11 @@ featured-link-text: Check out our recommended books featuring robots
 
 To mark the opening of [the Science Museum's major new <cite>Robots</cite> exhibition](https://beta.sciencemuseum.org.uk/robots/), as well as the beginning of the [Radio 4 series <cite>The Rise of the Robots</cite>](http://www.bbc.co.uk/programmes/b08fg08m), we've picked out a selection of great books for all ages that feature robots.
 
+Prefer eBooks and eAudio? We've also put together a [Rise of the Robots OverDrive shelf](https://suffolklibraries.overdrive.com/collection/87587).
+
 Ever wondered why they're called 'robots'? Czech playwright Karel Čapek coined the word from the Czech verb 'robota', 'to work'.
 
-This list was compiled with the help of Lakenheath Library manager Chris Howard.
+This list was compiled with the help of Lakenheath Library manager Chris Howard and information and content librarian Lisa Brennan.
 
 ## Board books
 
@@ -235,3 +237,17 @@ The title story in this collection is about robot butler NDR, aka Andrew, who in
 > "When money troubles prompt Wallace to take in a lodger, life at West Wallaby Street gets complicated for poor Gromit. Forced out of his room to make way for a cool-as-a-cucumber penguin called Feathers McGraw, it’s not long before he feels well and truly usurped as Wallace’s faithful companion.
 
 > "There’s something not right about this penguin and when Gromit spots a ‘Wanted’ poster for a criminal ‘chicken’, it would seem his suspicions are correct. Meanwhile, the helpless Wallace finds himself under Feathers’ control – quite literally! The dastardly penguin has adapted Wallace’s Techno Trousers for his latest heist and he’s going to get Wallace to carry out his dirty work..."
+
+## Music
+
+### [Alan Parsons - <cite>I Robot</cite>](https://suffolklibraries.freegalmusic.com/artists/view/QWxhbiBQYXJzb25z/22675684/c29ueQ/)
+
+This album draws conceptually on author Isaac Asimov's science fiction <cite>Robot</cite> trilogy, exploring philosophical themes regarding artificial intelligence.
+
+### [Rexanthony - <cite>War Robots</cite>](https://suffolklibraries.freegalmusic.com/artists/view/UmV4YW50aG9ueQ==/884385705701/aW9kYQ/)
+
+War Robots is a crossover of various styles such as psycho-trance, post-techno and minimal-electro. Its concept is to support human rights and a higher consciousness of social problems through sounds and lyrics.
+
+### [<cite>Star Wars: The Clone Wars Original Motion Picture Soundtrack</cite>](https://suffolklibraries.freegalmusic.com/artists/view/T3JpZ2luYWwgTW90aW9uIFBpY3R1cmUgU291bmR0cmFjaw==/16553323/c29ueQ/)
+
+### [Various - <cite>Transformers The Movie</cite> soundtrack](https://suffolklibraries.freegalmusic.com/artists/view/VmFyaW91cw==/12164276/c29ueQ/)
