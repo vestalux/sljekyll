@@ -9,3 +9,5 @@ event-end-time: 1530
 event-category: older
 breadcrumb: y
 ---
+
+Pete Norman will be at the library talking about and showing pictures of the local area in the past.
