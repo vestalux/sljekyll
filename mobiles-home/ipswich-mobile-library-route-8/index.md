@@ -163,6 +163,6 @@ Telephone: 01473 263838
 
 **2016:** 23 December
 
-**2017:** 20 January, 17 February, 17 March, **no visit in April**, 12 May, 9 June, 4 August, 1 September, 29 September, 27 October, 24 November, 22 December
+**2017:** 20 January, 17 February, 17 March, **no visit in April**, 12 May, 9 June, 7 July, 4 August, 1 September, 29 September, 27 October, 24 November, 22 December
 
 **2018:** 19 January
