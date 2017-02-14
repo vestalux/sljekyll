@@ -11,7 +11,7 @@ sidebar: health
 
 ![Reading Well Books on Prescription](/images/featured/featured-books-on-prescription.jpg)
 
-Have you ever borrowed one of our [<cite>Reading Well Books on Prescription</cite>](/health/lists/health-lists/books-on-prescription-self-help-reading/)self-help titles? Exeter University are running a survey to help them evaluate and improve the scheme.
+Have you ever borrowed one of our [<cite>Reading Well Books on Prescription</cite>](/health/lists/health-lists/books-on-prescription-self-help-reading/) self-help titles? Exeter University are running a survey to help them evaluate and improve the scheme.
 
 The survey should take around 10-15 minutes to complete. It is completely anonymous and confidential, and three people who complete it will be randomly selected to win a £20 book token.
 
