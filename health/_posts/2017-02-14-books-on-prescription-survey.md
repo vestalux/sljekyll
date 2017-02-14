@@ -4,7 +4,7 @@ title: Share your views on <cite>Reading Well Books on Prescription</cite>
 date: 2017-02-14
 author: alice-violett
 category: health
-excerpt: Have you ever borrowed a <cite>Reading Well</cite> self-help title? Please help us improve the <cite>Books on Prescription</cite> scheme by taking this survey.
+excerpt: Have you ever borrowed a <cite>Reading Well</cite> self-help title? Please help improve the <cite>Books on Prescription</cite> scheme by taking this survey.
 breadcrumb: health
 sidebar: health
 ---
