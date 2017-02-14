@@ -1,6 +1,8 @@
 ---
 title: Volunteering with Suffolk Libraries
 layout: sidebar-right
+hero-image: hero-volunteering.jpg
+hero-alt: Thurston Friends group
 sidebar: volunteering
 breadcrumb: home
 ---
