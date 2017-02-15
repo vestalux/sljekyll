@@ -92,5 +92,9 @@
 /new-suggestions/staff-picks/* /new-suggestions/reviews/reviews/:splat
 /meet-the-author/* /new-suggestions/reviews/meet-the-author/:splat
 /lbart /schools
+/schools/curriculum-topic-loan/ /schools/topic-box-loan/
+/schools/reading-for-pleasure-loan/ /schools/classroom-collection-loan/
+/schools/staff-training-and-cpd/ /schools/training-opportunities/
+/schools/student-awards-and-events/ /schools/student-events/
 
 /*   /404/index.html   404

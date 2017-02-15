@@ -14,4 +14,4 @@ breadcrumb: schools
 * <strong>Books to meet special requests</strong>: Dual and foreign language books for EAL learners, and large print books.
 * <strong>Group reading sets</strong>: each set contains 6 copies of a book to support reading development. Each set is a termly loan.
 
-[Contact the LBRTS team for more info →](/schools/contact/)
+[Contact the LBRTS team for more information →](/schools/contact/)

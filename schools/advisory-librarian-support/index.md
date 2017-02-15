@@ -25,4 +25,4 @@ hnav: lbarts
 *	Setting up Book Clubs and recommending book titles to use
 * Compiling bespoke book lists.  
 
-We can work with groups or classes of pupils and we are flexible with our time and ideas for how we can best support your school. For more information, please **[contact us →](/schools/contact/)**.
+We can work with groups or classes of pupils and we are flexible with our time and ideas for how we can best support your school. For more information, please [contact us →](/schools/contact/).
