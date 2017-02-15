@@ -8,7 +8,7 @@ excerpt: 'Yesterday Suffolk County Council approved its budget for 2017-18 which
 breadcrumb: news
 ---
 
-Yesterday Suffolk County Council approved its budget for 2017-18 which includes a £200,000 reduction in the funding which Suffolk Libraries receives.
+On Thursday 9 February Suffolk County Council approved its budget for 2017-18 which includes a £200,000 reduction in the funding which Suffolk Libraries receives.
 
 Tony Brown, Chair of Suffolk Libraries Board, said: "In November 2016, Suffolk Libraries informed staff, customers and our community groups of the county council’s [budget proposals for 2017/18 which at the time included a further reduction in the library service budget of £230,000](/news/response-to-council-budget-proposals/).
 
