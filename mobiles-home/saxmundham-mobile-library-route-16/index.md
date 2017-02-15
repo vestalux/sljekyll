@@ -197,4 +197,4 @@ Telephone: 01473 263838
 
 **Calling every 4 weeks on Fridays:**
 
-**2017:** 6 January, 3 February, 31 March, 28 April, 26 May, 23 June, 21 July, 18 August, 15 September, 13 October, 10 November, 8 December
+**2017:** 6 January, 3 February, 3 March, 31 March, 28 April, 26 May, 23 June, 21 July, 18 August, 15 September, 13 October, 10 November, 8 December
