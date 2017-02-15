@@ -3,6 +3,7 @@ layout: sidebar-right
 title: Artefact box list
 breadcrumb: schools
 sidebar: schools
+hnav: lbarts
 ---
 Take a look through this list and use the [artefact loan form](/schools/artefact-loan/) to request resources from us.
 
