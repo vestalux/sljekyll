@@ -27,5 +27,5 @@ branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/kedington-library
 branch-borrowing-ereaders-and-ipads: an iPad
 breadcrumb: y
-branch-news: "Unfortunately, due to staff shortages, Kedington Library will not be opening on Wednesday 15 February. We're sorry for any inconvenience this causes. For renewals and other assistance, please call our customer service line on [01473 351249](tel:01473351249)."
+branch-news: "Unfortunately, due to staff shortages, Kedington Library will not be opening on Wednesday 15 February. We're sorry for any inconvenience this causes. For renewals and other assistance, please call our customer service line on 01473 351249."
 ---
