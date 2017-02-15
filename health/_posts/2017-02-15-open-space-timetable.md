@@ -1,10 +1,10 @@
 ---
 layout: sidebar-right
-title: 'Open Space &#8211; New Timetable'
+title: 'Open Space &#8211; New Timetable for Ipswich County Library'
 date: 2017-02-15
 author: sarah-lungley
 category: health
-excerpt: Here is the new timetable for Open Space! Lots of exciting things coming up and some great discussions.
+excerpt: Here is the new timetable for Open Space at Ipswich County Library! Lots of exciting things coming up and some great discussions.
 breadcrumb: health
 sidebar: health
 ---
@@ -12,7 +12,7 @@ sidebar: health
 
 Here is the new timetable for Open Space! Lots of exciting things coming up and some great discussions.
 
-If you have any questions please do get in touch, or just come along to a session on Wednesdays at [Ipswich County Library](libraries/ipswich-county-library/) or [Bury St Edmunds Library](/libraries/bury-st-edmunds-library/) &#8211; all are welcome!
+If you have any questions please do get in touch, or just come along to a session on Wednesdays at [Ipswich County Library](libraries/ipswich-county-library/)&#8211; all are welcome!
 
 <table class="pure-table">
 <tr>
