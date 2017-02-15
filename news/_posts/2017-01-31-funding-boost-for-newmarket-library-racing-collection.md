@@ -24,4 +24,4 @@ Kate Ashton, Manager of Newmarket Library, said: "We are very grateful to the Ra
 
 Rob Hezel, Chief Executive of the Racing Foundation, said: "We are delighted to be supporting the refurbishment of the Racing Collection, which is home to a unique and impressive range of historic publications, reference books and biographies. The development of a more modern facility will raise greater awareness of the collection and increase its accessibility. It will help promote the cultural richness of horse racing and provide a reference resource for those keen to learn more."
 
-Work on the Racing Collection room will be carried out in late March and there will be no access to the collection for two weeks during this period.
+Work on the Racing Collection room will be taking place between Monday 13 and Monday 27 March. Please note that there will be no access to the Racing Collection during this period, noise levels may be considerably higher than usual at times, and there may be paint fumes.
