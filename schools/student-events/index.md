@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: Student awards and events
+title: Events
 breadcrumb: schools
 sidebar: schools
 hnav: lbarts
