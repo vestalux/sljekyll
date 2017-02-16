@@ -11,7 +11,7 @@ featured-link-text: "Check out the 2017 CILIP Carnegie Medal longlist"
 breadcrumb: childrens-ya-books
 ---
 
-![](/images/featured/featured-carnegie-2017.jpg)
+![Time Travelling with a Hamster, Pax, Dreaming the Bear, Beck, The Marvels, Whisper To Me](/images/featured/featured-carnegie-2017.jpg)
 
 The 2017 CILIP Carnegie Medal longlist has been announced. This prestigious book prize recognises the best children's and Young Adult titles published each year.
 
