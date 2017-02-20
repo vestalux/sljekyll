@@ -4,94 +4,112 @@ category: health
 title: Events for your health and wellbeing
 breadcrumb: health
 sidebar: health
+jquery: true
+dynatable: true
 ---
 <img src="/images/article/alzheimers-society.jpg" alt="Alzheimers society" />
 
 <h2>What’s happening in my library?</h2>
 
-<p>Here at Suffolk Libraries we pride ourselves on being so much more than just books and lovely knowledgeable staff. Did you know there’s a wide range of activities and events happening all the time in libraries all across Suffolk? Well you do now!</p>
+<p>We host a wide range of activities and events across all our libraries.</p>
 
-<p><a href="/libraries/">Select your local library to see what events are happening.</a></p>
-
-<h2>Upcoming health-based events</h2>
+<h2>Upcoming special events</h2>
 
 {% assign special-event-check = false %}
 
-  {% assign events = site.events | where: "event-category", "health" | sort: 'event-start-date' %}
+<table class="pure-table pure-table-bordered">
+
+    <thead>
+        <tr>
+            <th data-dynatable-column="event">Event</th>
+            <th data-dynatable-column="library">Library</th>
+            <th data-dynatable-column="date">Date</th>
+            <th data-dynatable-column="time">Time</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+    {% assign events = site.events | where: 'event-category', 'health' | sort: 'event-start-date'%}
 
     {% for event in events %}
 
-        {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
+    {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
+
+    {% if event.event-end-date %}
+
+        {% capture event-time-seconds %}{{event.event-end-date | date: '%s' }}{% endcapture %}
+
+    {% else %}
 
         {% capture event-time-seconds %}{{event.event-start-date | date: '%s' }}{% endcapture %}
 
-        {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
+    {% endif %}
 
-        {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+    {% capture event-time %}{{ event-time-seconds | divided_by: 86400}}{% endcapture %}
 
-          {% if now-unix <= event-time %}
+    {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
 
-            {% assign special-event-check = true %}
+    {% if now-unix <= event-time %}
 
-              <div class="{% include /c/listing.html %}">
+        {% assign special-event-check = true %}
 
-                  <h3 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h3>
+        <tr>
 
-                  <p class="{% include /c/page-meta.html %}">
+            <td><a href="{{ event.url }}">{{ event.name }}</a></td>
+            <td>{{ event.location-text }}</td>
+            <td>{{ event.event-start-date | date: "%a %-d %b, %Y" }}{% if event.event-end-date %} &#8211; {{ event.event-end-date | date: "%a %-d %b, %Y" }}{% endif %}</td>
+            <td>{{ event.event-start-time }}</td>
 
-                  {% if event.event-end-date %}
+        </tr>
 
-                      <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-date | date: "%a %-d %b" }}</span> <span>{{ event.event-end-time }}</span>
-
-                      {% else %}
-
-                      <span>{{ event.event-start-date | date: "%a %-d %b, %Y" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-time }}</span>
-
-                  {% endif %}
-
-                  <br><a href="/libraries/{{ event.location}}">{{ event.location-text}}</a>
-                  </p>
-
-              </div>
-
-          {% endif %}
+    {% endif %}
 
     {% endfor %}
+
+    </tbody>
+
+</table>
 
 {% if special-event-check == false %}
   <p class="{% include /c/page-meta.html %} mb3">No upcoming events.</p>
 {% endif %}
 
-<h2>Regular health-based events</h2>
+<h2>Regular events</h2>
 
 {% assign health-check = false %}
 
-  {% assign recurrents = site.recurrents | sort: 'recurrent-category' %}
+{% include dynatable-library-list.html %}
 
+<table id="search-table" class="pure-table pure-table-bordered">
+  <thead>
+    <tr>
+      <th data-dynatable-column="library">Library</th>
+      <th data-dynatable-column="activity">Activity</th>
+      <th data-dynatable-column="day">Day</th>
+      <th data-dynatable-column="times">Times</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% assign recurrents = site.recurrents | where: "recurrent-category", "health" | sort: 'recurrent-location' %}
     {% for recurrent in recurrents %}
-
-      {% if recurrent.recurrent-category == "health" %}
-
-        {% assign health-check = true %}
-
-          <div class="{% include /c/listing.html %}">
-
-            <h3 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h3>
-
-            <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}<br><a href="/libraries/{{ recurrent.recurrent-location }}">{{ recurrent.recurrent-location-display-name }}</a></p>
-
-          </div>
-
-      {% endif %}
-
+    {% assign health-check = true %}
+    <tr>
+      <td>{{ recurrent.recurrent-location-display-name }}</td>
+      <td><a href="{{ recurrent.recurrent-location-display-url }}">{{ recurrent.recurrent-title }}</a></td>
+      <td>{{ recurrent.recurrent-day }}</td>
+      <td>{{ recurrent.recurrent-times }} </td>
+    </tr>
     {% endfor %}
+  </tbody>
+</table>
 
 {% if health-check == false %}
   <p class="{% include /c/page-meta.html %} mb3">No health events.</p>
 {% endif %}
 
-<img src="/images/article/suffolk-family-carers.jpg" alt="Suffolk family carers" />
+<img class="mb3 db" src="/images/article/suffolk-family-carers.jpg" alt="Suffolk family carers" />
 
 <h2>What’s happening in my community?</h2>
 
-<p>As well as all of the marvelous activities and events in your local library, there are lots of other things happening in your community too. We always want to hear if you are doing anything to support mental health and wellbeing, so if you’re not already included below, please use the contact form to tell us more!</p>
+<p>As well as the activities and events in your local library, there are lots of other things happening in your community. If you are doing anything to support mental health and wellbeing, please <a href="/health/contact/">contact us</a>.</p>
