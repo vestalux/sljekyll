@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: Guinevere Glasfurd'
-date: 2017-02-27
+date: 2017-02-21
 author: brandon-king
 category: meet-the-author
 excerpt: "Guinevere Glasfurd gives us a fascinating insight into her new historical novel, <cite>The Words in my Hand</cite>."
