@@ -141,7 +141,7 @@
  	<li><a href="/assets/pdf/src-volunteer-policy.pdf">Volunteer policy</a> (PDF)</li>
 </ul>
 
-<form id="form" class="pure-form pure-form-stacked" netlify netlify-honeypot="bot-field" name="volunteering-generic" action="/volunteering/volunteer-application-form/confirmation/">
+<form id="form" class="pure-form pure-form-stacked" netlify netlify-honeypot="bot-field" name="volunteering-generic" action="/volunteer/volunteer-application-form/confirmation/">
 
     <fieldset>
 
@@ -151,8 +151,8 @@
         <label class="f5 db pt2">Last name</label>
         <input class="border-box w-100" type="text" name="last-name">
 
-        <label class="f5 db pt2">Date of birth (if under 18)<span class="red">*</span></label>
-        <input class="border-box w-100" type="number" name="age" min="1" max="150" required>
+        <label class="f5 db pt2">Date of birth (if under 18)</label>
+        <input class="border-box w-100" type="date" name="age">
 
         <label class="f5 db pt2">Phone number</label>
         <input class="border-box w-100" type="tel" name="phone" maxlength="13">
