@@ -93,5 +93,6 @@
 /meet-the-author/* /new-suggestions/reviews/meet-the-author/:splat
 /events/ /events-activities
 /activities/ /events-activities
+/new-suggestions/health-lists/* /health/lists/:splat
 
 /*   /404/index.html   404
