@@ -8,7 +8,7 @@ excerpt: "Matt shares how we used the power of Lego and stop motion video to pro
 breadcrumb: blog
 ---
 
-Reading Well for Young People, or ‘Shelf Help’, is a national scheme delivered by The Reading Agency which provides a recommended reading list to young people to help them understand and manage their mental health and emotional wellbeing. [We stock 35 titles on the recommended reading list](https://www.suffolklibraries.co.uk/health/reading-well-for-young-people/), and to promote the scheme our libraries had created some amazing displays and stocked information leaflets.
+Reading Well for Young People, or ‘Shelf Help’, is a national scheme delivered by The Reading Agency which provides a recommended reading list to young people to help them understand and manage their mental health and emotional wellbeing. [We stock 35 titles on the recommended reading list](/health/lists/health-lists/reading-well-for-young-people/), and to promote the scheme our libraries had created some amazing displays and stocked information leaflets.
 
 We wanted to develop a different way to get information about Shelf Help out to young people using social media. From experience we knew that whatever we did needed to be short, fun and engaging. After some serious thought we decided that Lego was the way forward! Lego is easily recognisable and we had both seen some great stop-motion videos using Lego.
 

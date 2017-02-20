@@ -12,7 +12,7 @@ sidebar: health
 
 Here is the new timetable for Open Space! Lots of exciting things coming up and some great discussions.
 
-If you have any questions please do get in touch, or just come along to a session on Wednesdays at [Ipswich County Library](libraries/ipswich-county-library/)&#8211; all are welcome!
+If you have any questions please do get in touch, or just come along to a session on Wednesdays at [Ipswich County Library](/libraries/ipswich-county-library/)&#8211; all are welcome!
 
 <table class="pure-table">
 <tr>

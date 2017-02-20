@@ -43,7 +43,7 @@ New collection of short stories from one of our finest writers.
 
 <h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5889927?QRY=CTIBIB%3C%20IRN(66831902)&QRYTEXT=Small%20great%20things"><cite>Small Great Things</cite>, by Jodi Picoult</a></h2>
 
-When a newborn baby dies after a routine hospital procedure, there is no doubt about who will be held responsible: the nurse who had been banned from looking after him by his father. What the nurse, her lawyer and the father of the child cannot know is how this death will irrevocably change all of their lives, in ways both expected and not. Jodi Picoult discusses this book in her <a href="https://www.suffolklibraries.co.uk/meet-the-author/meet-the-author-jodi-picoult/">recent interview with Suffolk Libraries</a>.
+When a newborn baby dies after a routine hospital procedure, there is no doubt about who will be held responsible: the nurse who had been banned from looking after him by his father. What the nurse, her lawyer and the father of the child cannot know is how this death will irrevocably change all of their lives, in ways both expected and not. Jodi Picoult discusses this book in her <a href="/new-suggestions/meet-the-author/meet-the-author-jodi-picoult/">recent interview with Suffolk Libraries</a>.
 
 <h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/5890939?QRY=CTIBIB%3C%20IRN(67086393)&QRYTEXT=Virgins"><cite>Virgins</cite>, by Diana Gabaldon</a></h2>
 
