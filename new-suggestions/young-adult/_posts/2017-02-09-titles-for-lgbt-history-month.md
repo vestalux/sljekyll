@@ -13,7 +13,7 @@ breadcrumb: young-adult
 
 ![Oranges are not The only Fruit, Girl Meets Boy, What We Left Behind, Cruel Summer, Starring Kitty, Aristotle and Dante Discover the Secrets of the Universe, The Big Life, Half Wild](/images/featured/featured-lgbt-2017.jpg)
 
-To mark LGBT History Month 2017, we've expanded our [list of LGBT books for children and young people from 2016](/parents-carers-and-children/childrens-ya-books/2015-12-16-lgbt-history-month-for-young-people-in-2016/) to make a bumper list of recommended titles for young adults.
+To mark LGBT History Month 2017, we've expanded our [list of LGBT books for children and young people from 2016](/parents-carers-and-children/childrens-ya-books/lgbt-history-month-for-young-people-in-2016/) to make a bumper list of recommended titles for young adults.
 
 A lot of these books have come from [Juno Dawson's list of diverse YA books](http://www.junodawson.com/2015/06/28/yougotdiversebooks/).
 

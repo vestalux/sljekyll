@@ -27,7 +27,7 @@ Alan has visited Suffolk before, speaking about his earlier two volumes <cite>Th
 
 Alan will be in conversation with journalist, Catherine Larner. He will be available to sign copies of his book from 8.30pm.
 
-<div class="{% include /c/generic-panel.html %}"><p class="mb0"><a href="/meet-the-author/meet-the-author-alan-johnson/">Read our interview with Alan Johnson</a>.</p></div>
+<div class="{% include /c/generic-panel.html %}"><p class="mb0"><a href="/new=suggestions/meet-the-author/meet-the-author-alan-johnson/">Read our interview with Alan Johnson</a>.</p></div>
 
 <div class="cf">
 

@@ -16,7 +16,7 @@ PD James died in November 2014. This volume collects together four of her best s
 
 <h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20439569?QRY=CTIBIB%3C%20IRN(62779755)&QRYTEXT=The%20flame%20bearer"><cite>The Flame Bearer</cite>, by Bernard Cornwell</a></h2>
 
-Bernard Cornwell's latest novel in his bestselling series on the making of England and the fate of his great hero, Uhtred of Bebbanburg. This was the book he mentioned in [his recent interview with Suffolk Libraries](/meet-the-author/meet-the-author-bernard-cornwell/).
+Bernard Cornwell's latest novel in his bestselling series on the making of England and the fate of his great hero, Uhtred of Bebbanburg. This was the book he mentioned in [his recent interview with Suffolk Libraries](/new-suggestions/meet-the-author/meet-the-author-bernard-cornwell/).
 
 
 <h2><a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/20442962?QRY=CTIBIB%3C%20IRN(66008264)&QRYTEXT=Hag-seed%20%3A%20the%20Tempest%20retold"><cite>Hag-seed: the Tempest Retold</cite>, by Margaret Atwood</a></h2>

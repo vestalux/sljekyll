@@ -15,7 +15,7 @@ breadcrumb: fiction
 
 ## [<cite>Cast Iron</cite>, by Peter May](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2079953)
 
-One of Suffolk’s favourite authors, Peter May, has a new book out to get 2017 off to a flying start. We already have a list for this one so get your reservation in quickly! [Read Peter May’s interview with us](/meet-the-author/meet-the-author-peter-may/).
+One of Suffolk’s favourite authors, Peter May, has a new book out to get 2017 off to a flying start. We already have a list for this one so get your reservation in quickly! [Read Peter May’s interview with us](/new-suggestions/meet-the-author/meet-the-author-peter-may/).
 
 > "In 1989, a killer dumped the body of twenty-year-old Lucie Martin into a lake in the West of France. Fourteen years later, during a summer heat wave, a drought exposed her remains. No one was ever convicted of her murder. But now, forensic expert Enzo Macleod is reviewing this stone cold case - the toughest of those he has been challenged to solve. Yet when Enzo finds a flaw in the original evidence surrounding Lucie's murder, he opens a Pandora's box that not only raises old ghosts but endangers his entire family."
 
