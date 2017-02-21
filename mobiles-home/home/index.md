@@ -12,8 +12,7 @@ Our volunteers work with library staff to regularly visit customers, providing s
 The minimum volunteers contribute is a morning or afternoon each month. They need access to a car, driving themselves or pairing up with another volunteer.
 
 # Contact
-Lynette Brooks<br>
-HLS Coordinator<br>
+Lynette Brooks, volunteer coordinator<br>
 Ipswich County Library<br>
 Northgate Street<br>
 Ipswich, IP1 3DE<br>
