@@ -16,7 +16,7 @@ breadcrumb: meet-the-author
 
 Guinevere Glasfurd is a British writer. Originally from the north of England, Guinevere now lives and works in Cambridgeshire. She has a background in historical research and has worked for [BBC History Online](http://www.bbc.co.uk/history). Her short fiction has been published by <cite>Mslexia</cite> and <cite>The Scotsman</cite> and she has won awards from Arts Council England and the British Council for her work.
 
-[<cite>The Words in My Hand</cite>(https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2098928), her first novel, is based on the little-known story of Helena Jans, who worked as a Dutch maid and was Descartes' lover. Although many books have been written about Descartes, about Helena almost nothing is known. What survives is tantalising. Descartes is often thought of as a terrible loner, alone with his thoughts. Helena's story will make you question that. <cite>The Words in my Hand</cite> was shortlisted for the Costa First Novel Award 2016.
+[<cite>The Words in My Hand</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2098928), her first novel, is based on the little-known story of Helena Jans, who worked as a Dutch maid and was Descartes' lover. Although many books have been written about Descartes, about Helena almost nothing is known. What survives is tantalising. Descartes is often thought of as a terrible loner, alone with his thoughts. Helena's story will make you question that. <cite>The Words in my Hand</cite> was shortlisted for the Costa First Novel Award 2016.
 
 ## 1. Who were your literary influences as you were growing up?
 
