@@ -11,7 +11,7 @@ featured-link-text: Check out the latest music we have in stock.
 breadcrumb: music
 ---
 
-![Elbow, AMy MacDonald](/images/featured/featured-music-february-2017.jpg)
+![Elbow, Amy MacDonald](/images/featured/featured-music-february-2017.jpg)
 
 ## [Rag 'n' Bone Man - <cite>Human</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2124642)
 
