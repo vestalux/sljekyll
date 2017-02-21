@@ -7,7 +7,7 @@ excerpt: "This production of Oscar Wilde’s superb satire on Victorian manners 
 event-start-date: 2017-03-17
 event-start-time: 1900
 event-doors-open: 1830
-event-ticket-price: "7.50 (cash bar available)"
+event-ticket-price: ' <span class="pa2 bg-red white">Sold out!</span>'
 event-image-small: featured/featured-presents-earnest.jpg
 event-category: presents
 breadcrumb: y
