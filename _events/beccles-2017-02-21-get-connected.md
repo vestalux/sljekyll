@@ -10,7 +10,7 @@ event-ticket-price: free
 breadcrumb: y
 ---
 
-We're marking the launch of Felixstowe Library's new iPad lending scheme with a special Get Connected event.
+We're marking the launch of Beccles Library's new iPad lending scheme with a special Get Connected event.
 
 You can put your name down on the waiting list to borrow one of our two iPad minis,  supplied by Hughes Electrical and funded by the Friends of Beccles Library. Like our physical books they will be completely FREE (provided you return them before the due date!) and you will get to keep them for up to 3 weeks.
 
