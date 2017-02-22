@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Street dance, colouring and table tennis"
+recurrent-title: "Colouring"
 recurrent-day: Thursday
 recurrent-times: 1630-1730
 recurrent-location: chantry-library
