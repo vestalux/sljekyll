@@ -5,8 +5,6 @@ author: brandon-king
 category: non-fiction
 date: 2016-11-28
 excerpt: "This month's new non-fiction features lots of health and fitness titles in time for the new year, as well as some intriguing reads for the Christmas break"
-featured-image: /images/featured/featured-december-non-fiction-740.jpg
-featured-alt: Tom's Daily Plan, Leap Year, Forever Words
 featured-link-text: Check out our new non-fiction titles for December.
 breadcrumb: non-fiction
 ---
