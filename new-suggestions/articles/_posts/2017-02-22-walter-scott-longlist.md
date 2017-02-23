@@ -1,18 +1,18 @@
 ---
 layout: sidebar-right
 title: Lose yourself in a great historical novel from the 2017 Walter Scott Prize longlist
-date: 2017-02-24
+date: 2017-02-23
 author: alice-violett
 category: articles
 excerpt: "This year's Walter Scott Prize longlist encompasses the 17th to 20th centuries in the UK, Ireland, Paris, Switzerland, Russia, America and Canada."
 featured-image: /images/featured/featured-walter-scott-2017.jpg
-featured-alt: "Days Without End, The Dark Cirlce, The Vanishing Futurist"
+featured-alt: "Days Without End, The Dark Circle, The Vanishing Futurist"
 breadcrumb: articles
 featured-excerpt: "This year's Walter Scott Prize longlist encompasses the 17th to 20th centuries in the UK, Ireland, Paris, Switzerland, Russia, America and Canada."
 featured-link-text: See the titles on this year's Walter Scott Prize longlist
 ---
 
-![Days Without End, The Dark Cirlce, The Vanishing Futurist](/images/featured/featured-walter-scott-2017.jpg)
+![Days Without End, The Dark Circle, The Vanishing Futurist](/images/featured/featured-walter-scott-2017.jpg)
 
 This year's Walter Scott Prize longlist encompasses the 17th to 20th centuries in the UK, Ireland, Paris, Switzerland, Russia, America and Canada.
 
@@ -32,7 +32,7 @@ The award, founded in 2010, celebrates 'quality, innovation and longevity of wri
 
 > "Having signed up for the US army in the 1850s, aged barely 17, Thomas McNulty and his brother-in-arms, John Cole, go on to fight in the Indian wars and, ultimately, the Civil War. Orphans of terrible hardships themselves, they find these days to be vivid and alive, despite the horrors they both see and are complicit in."
 
-## [<cite>Crane Pond</cite>, by Richard Francis]()
+## [<cite>Crane Pond</cite>, by Richard Francis](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2009356)
 
 > "The story of Samuel Sewall, loving father and husband, anti-slavery advocate, defender of Native American rights, and presiding judge at the Salem Witchcraft Trials in 1692, where he sentenced 20 innocent women to death. He was the only judge to later admit his terrible mistake, and ask for forgiveness.
 
@@ -44,7 +44,7 @@ The award, founded in 2010, celebrates 'quality, innovation and longevity of wri
 
 > "They discover that a cure is tantalisingly just out of reach and only by inciting wholesale rebellion can freedom be snatched."
 
-## [<cite>The Vanishing Futurist</cite>, by Charlotte Hobson]()
+## [<cite>The Vanishing Futurist</cite>, by Charlotte Hobson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1947415)
 
 > "When 22-year-old Gerty Freely travels to Russia to work as a governess in early 1914, she has no idea of the vast political upheavals ahead, nor how completely her fate will be shaped by them. Yet as her intimacy with the charismatic inventor Nikita Slavkin deepens, she's inspired by his belief in a future free of bourgeois clutter, alight with creativity and sleek as a machine.
 

@@ -29,7 +29,7 @@ I have at least always written stories. I was very much a storytelling child. Wh
 
 When I was a bit older, I forced my parents to listen to my written work – a sort of combination between Nancy Drew and Marshall Grover, that would have the authors turning in the grave had they heard them. My parents were very supportive, but kindly suggested I should, perhaps, write about something a bit closer to home. Of course, I went on to write a book about Iowa, so I guess I never listened to that advice.  
 
-## 3. Sara in 'The Readers of Broken Wheel Recommend' is a wonderful character. Did you base her on anyone you know?
+## 3. Sara in <cite>The Readers of Broken Wheel Recommend</cite> is a wonderful character. Did you base her on anyone you know?
 
 I most emphatically did not base her on me.
 
@@ -50,7 +50,7 @@ Or, that’s not completely true. I knew two things about it. One, that they had
 ## 5. Why is Scandinavia producing so many good writers at the moment?
 I don’t know. Perhaps it’s a sort of national-confidence thing? If one can do it, more feel that they can. Or a publisher-confidence thing – if one book has been published, then they are more likely to think that the next will be successful.
 
-We have seen it with Swedish crime, of course, but I think we are also seeing it with Swedish feelgood novels. [<cite>A Man Called Ove</cite>, by Fredrik Backman</cite](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1712148), for example (if you haven’t read it – do! It’s a wonderful story).
+We have seen it with Swedish crime, of course, but I think we are also seeing it with Swedish feelgood novels. [<cite>A Man Called Ove</cite>, by Fredrik Backman](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1712148), for example (if you haven’t read it – do! It’s a wonderful story).
 
 ## 6. Do you think the hardcopy book and libraries can survive in a world dominated by online?
 Oh yes. You can’t smell books online. You can’t escape into an online bookshop. And you are less likely to find new authors or unexpected books online than in a physical store or a library. I think they have even done research on it – people go to an online bookstore to buy books they know about, but are more likely to surprise themselves in a bookshop.

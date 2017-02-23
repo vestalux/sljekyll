@@ -3,7 +3,7 @@ layout: sidebar-right
 title: New non-fiction for March 2017
 author: brandon-king
 category: non-fiction
-date: 2017-02-28
+date: 2017-02-23
 excerpt: This month's best non-fiction includes autobiography, poetry, sailing and cooking
 featured-image: /images/featured/featured-march-non-fiction.jpg
 featured-alt: "Who I Am, Home Cook, Gizelle's Bucket List"
