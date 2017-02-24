@@ -29,7 +29,6 @@ branch-netloan: old
 branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y
-branch-faxing: y
 branch-room-hire: /libraries/room-hire/beccles-library
 branch-display-space: Double-sided noticeboard for non-commercial event posters
 branch-borrowing-ereaders-and-ipads: an iPad
