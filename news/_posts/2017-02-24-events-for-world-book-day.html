@@ -1,0 +1,38 @@
+---
+layout: sidebar-right
+title: "Celebrate World Book Day at Suffolk Libraries"
+date: 2017-02-24
+author: alice-violett
+category: news
+excerpt: "On Thursday 2 March, it's World Book Day. Some of our libraries are holding special events to mark the occasion."
+breadcrumb: news
+---
+
+<p>On Thursday 2 March, it's World Book Day. Some of our libraries are holding special events to mark the occasion.</p>
+
+{% assign world-book-day-events = site.events | where: "event-category", "world-book-day" %}
+
+{% for event in world-book-day-events %}
+
+    <article class="{% include /c/listing.html %}">
+
+        <h1 class="{% include /c/listing-title.html %}"><a href="{{ event.url }}">{{ event.name }}</a></h1>
+
+        <p class="{% include /c/page-meta.html %}">
+
+        {% if event.event-end-date %}
+
+            <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-date | date: "%a %-d %b" }}</span> <span>{{ event.event-end-time }}</span>
+
+            {% else %}
+
+            <span>{{ event.event-start-date | date: "%a %-d %b" }}</span> <span>{{ event.event-start-time }}</span> &#8211; <span>{{ event.event-end-time }}</span>
+
+        {% endif %}
+
+        <br><a href="/libraries/{{ event.location}}">{{ event.location-text}}</a>
+        </p>
+
+    </article>
+
+{% endfor %}
