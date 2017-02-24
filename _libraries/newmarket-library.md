@@ -31,6 +31,8 @@ branch-colour-printing: available
 branch-photocopying: available in A3 and A4, black and white and colour
 branch-scan-to-email: y
 branch-faxing: y
+branch-for-sale: "Poetry book collated by Newmarket Library Friend Christine - £5 each with all proceeds to Friends of Newmarket Library and St Nicholas Hospice.
+Three volumes of poetry by local poet Yvonne Zellen - £5 each with all proceeds to charity. £1 from every sale goes to Newmarket Library."
 breadcrumb: y
-branch-news: 'The Racing Collection will be closed from Monday 6 and Monday 27 March for <a href="/news/funding-boost-for-newmarket-library-racing-collection/">extensive redecoration and refurbishment</a>. We apologise for any inconvenience caused.'
+branch-news: 'The Racing Collection will be closed from Monday 6 to Monday 27 March for <a href="/news/funding-boost-for-newmarket-library-racing-collection/">extensive redecoration and refurbishment</a>. We apologise for any inconvenience caused.'
 ---
