@@ -233,6 +233,4 @@ Telephone: 01473 263838
 
 **Calling every 4 weeks on Saturdays:**
 
-**2016:** **no visit in December**
-
 **2017:** 21 January, 18 February, 18 March, 15 April, May 13, 10 June, 8 July, 5 August, 30 September, 28 October, 25 November, 23 December

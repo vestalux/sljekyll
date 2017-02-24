@@ -453,6 +453,4 @@ Telephone: 01473 263838
 
 **Calling every 4 weeks on Saturdays:**
 
-**2016:** 17 December
-
 **2017:** 14 Janaury, 11 February, 11 March, 8 April, 6 May, 3 June, 1 July, 29 July, 26 August, 23 September, 21 October, 18 November, 16 December
