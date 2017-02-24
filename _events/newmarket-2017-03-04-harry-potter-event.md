@@ -6,7 +6,7 @@ location-text: Newmarket Library
 event-start-date: 2017-03-04
 event-start-time: 0900
 event-end-time: 1700
-event-category: children's
+event-category: world-book-day
 breadcrumb: y
 ---
 
