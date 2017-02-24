@@ -25,9 +25,11 @@ An album of classic covers originally recorded by C&W luminaries like Glen Campb
 
 <cite>Semper Femina</cite> is Laura’s 6th studio album in a little over 9 years. It is a record that addresses questions of how society views sexuality and gender but without seeking to provide definitive answers. <cite>Semper Femina</cite> is a typically mature and raw listen by one of our most talented and prolific young musicians.
 
-## [Ed Sheeran - <cite>Divide</cite>]()
+## Ed Sheeran - <cite>Divide</cite>
 
 Latest CD from Framlingham’s finest. Songs from the album have already topped the singles chart. <cite>Shape Of You</cite> and <cite>Castle on the Hill</cite>, the 2 singles released so far, have received over 1 billion combined streams on Spotify.
+
+We don't have a catalogue link for this title yet, but we'll update this page as soon as we have one!
 
 ## [Frances - Things I've Never Said](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1929877)
 
