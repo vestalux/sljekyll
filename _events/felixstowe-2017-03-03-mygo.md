@@ -3,7 +3,7 @@ id: felixstowe-mygo
 name: "MyGo drop-in session"
 location: felixstowe-library
 location-text: Felixstowe Library
-event-start-date: 2017-03-04
+event-start-date: 2017-03-03
 event-start-time: 1500
 event-end-time: 1700
 breadcrumb: y
