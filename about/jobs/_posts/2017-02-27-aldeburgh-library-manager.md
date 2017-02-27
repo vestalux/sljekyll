@@ -24,8 +24,6 @@ We're looking for a manager at Aldeburgh Library. We're looking for a dynamic an
 
 - Work with the Aldeburgh Library Foundation to further benefit the residents of Aldeburgh and the local community
 
-- Understands Suffolk Libraries' services and what it delivers
-
 This position is for 22.25 hours on average per week in the following work pattern:
 
 Monday 7.25 hours - Wednesday 7.5 hours - Thursday 7.5 hours
