@@ -14,13 +14,13 @@ The new hours will mean the library is open for the same number of hours, but wi
 
 The new opening hours will come into effect on Saturday 1 April and the changes are as follows:
 
-Monday - closed (no change)<br>
-Tuesday - 9am to 1pm (opening 30 mins earlier)<br>
-Wednesday - 9am to 1pm and 2pm to 6pm (open 30 mins earlier and closing 30 mins later)<br>
-Thursday - 2pm to 5pm (closing 30 mins earlier)<br>
-Friday - 9am to 1pm and 2pm to 5pm (opening 30 mins earlier and closing two hours earlier)<br>
-Saturday - 9am – 1pm (opening 30 mins earlier)<br>
-Sunday - 10am to 3pm (no change)
+* Monday - closed (no change)
+* Tuesday - 9am-1pm (opening 30 mins earlier)
+* Wednesday - 9am-1pm and 2pm-6pm (open 30 mins earlier and closing 30 mins later)
+* Thursday - 2pm-5pm (closing 30 mins earlier)
+* Friday - 9am-1pm and 2pm-5pm (opening 30 mins earlier and closing two hours earlier)
+* Saturday - 9am–1pm (opening 30 mins earlier)
+* Sunday - 10am-3pm (no change)
 
 Customers and local people were asked about the changes with 100 people responding and Suffolk Libraries Board, Suffolk County Council and Eye Library Friends have all approved the change.
 
