@@ -28,14 +28,12 @@ Not yet.
 
 I'm quite happy in the present!
 
-## 4. Best advice you've been given?
+## 4. What is the best piece of advice you were ever given?
 
 DO IT NOW, from my mother.
 
-## 5. What is the best piece of advice you were ever given?
+## 5. You have been interviewed dozens of times. Can you tell us one thing about yourself that your readers might not know?
 
 That I'm an orange belt in Tae Kwan Do (but it's good to keep secrets I think!).
-
-## 6 You have been interviewed dozens of times. Can you tell us one thing about yourself that your readers might not know?
 
 My mother lived in Long Melford and loved your libraries. Do keep them open.
