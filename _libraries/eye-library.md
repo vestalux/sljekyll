@@ -22,5 +22,6 @@ branch-netloan: old
 branch-colour-printing: available
 branch-photocopying: A4 available
 branch-scan-to-email: y
+branch-news: [Eye Library to change opening hours on Saturday 1 April](/news/new-opening-hours-for-eye-library/)
 breadcrumb: y
 ---
