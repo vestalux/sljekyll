@@ -34,6 +34,8 @@ DO IT NOW, from my mother.
 
 ## 5. What is the best piece of advice you were ever given?
 
-That I'm an orange belt in Tae Kwan Do (but it's good to keep secrets I think!)
+That I'm an orange belt in Tae Kwan Do (but it's good to keep secrets I think!).
+
+## 6 You have been interviewed dozens of times. Can you tell us one thing about yourself that your readers might not know?
 
 My mother lived in Long Melford and loved your libraries. Do keep them open.
