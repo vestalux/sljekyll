@@ -26,9 +26,9 @@ We're looking for a manager at Aldeburgh Library. We're looking for a dynamic an
 
 This position is for 22.25 hours on average per week in the following work pattern:
 
-Monday 7.25 hours - Wednesday 7.5 hours - Thursday 7.5 hours
+Monday 7.25 hours &#8212; Wednesday 7.5 hours &#8212; Thursday 7.5 hours
 
-The rate of pay is &pound;19,504.76 pro-rata - &pound;10.11 per hour.
+The rate of pay is &pound;19,504.76 pro-rata &#8212; &pound;10.11 per hour.
 
 If you are interested, please send a CV and supporting statement outlining what you could bring to this position and Suffolk Libraries to: **recruitment@suffolklibraries.co.uk**
 
