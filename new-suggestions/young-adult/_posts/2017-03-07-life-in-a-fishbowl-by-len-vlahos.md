@@ -1,26 +1,34 @@
 ---
 layout: sidebar-right
-title: "We Come Apart by Sarah Crossan & Brian Conaghan"
-date: 2017-03-09
-author: emma-maguire
+title: Life in a Fishbowl by Len Vlahos
+date: 2017-03-07
+author: emily-mitchell
 category: young-adult
-excerpt: 'Emma found <cite>We Come Apart</cite> "beautifully written, heartbreaking but at the same time wonderful to read."'
-featured-image: /images/featured/featured-we-come-apart.jpg
-featured-alt: We Come Apart
-featured-link-text: "Read Emma's review of <cite>We Come Apart</cite>, by Sarah Crossan & Brian Conaghan."
+excerpt: 'In <cite>Life in a Fishbowl</cite>, Len Vlahos creates "a bittersweet fusion of emotions that won’t let you go."'
+featured-image: /images/featured/featured-life-in-a-fishbowl.jpg
+featured-alt: Life in a Fishbowl
+featured-link-text: "Read library volunteer Emily's review of <cite>Life in a Fishbowl</cite>, by Len Vlahos."
 breadcrumb: young-adult
 ---
 
-![We Come Apart](/images/featured/featured-we-come-apart.jpg)
+![Life in a Fishbowl](/images/featured/featured-life-in-a-fishbowl.jpg)
 
-**[See <cite>We Come Apart</cite> in our catalogue](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1998151).**
+**[See <cite>Life in a Fishbowl</cite> in our catalogue](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2083324).**
 
-> "Jess would never have looked twice at Nicu if her friends hadn't left her in the lurch. Nicu is all big eyes and ill-fitting clothes. He's working on his English but he has to practice with the teachers because no one speaks to him. He's so not her type. Appearances matter to Jess. She's got a lot to hide.
+<cite>Life in A Fishbowl</cite> is one of those books that stays with you long after you’ve read the final page.
 
-> "Nicu thinks Jess is beautiful. His dad brought Nicu and his mum here for a better life, but now all they talk about is going back home to find Nicu a wife. The last thing he wants is to get married. He wants to get educated, do better, stay here in England. But his dad's fists are the most powerful force in Nicu's life, and in the end, he'll have to do what his dad wants."
+Fifteen-year-old Jackie Stone is a prisoner in her own house. Everything she says and does 24/7 is being taped and broadcast to every television in America. Why? Because her dad is dying of a brain tumour and he has auctioned his life on eBay to the highest bidder: a ruthless TV reality show executive at ATN.
 
-One of the first verse novels written using social media; Sarah Crossan wrote the part of Jess while Brian Conaghan wrote the part of Nicu. These characters meet after both being enrolled in a rehabilitation scheme for young offenders. Jess is struggling with a violent home life while Nicu has emigrated from Romania. They come together in a time when they are both looking for a place to belong.
+Her sister's trust is gone, ever since she's been dazzled by the cameras and her new-found infamy. Her privacy is gone. The whole family's dignity is gone, as ATN twists their words and makes a public mockery of their lives on <cite>Life and Death</cite>. But most of all, Jackie fears that one day very soon her father will just be ... gone.
 
-<cite>We Come Apart</cite> kept me gripped from the very first page to the last. It is beautifully written, heartbreaking but at the same time wonderful to read.
+Armed only with her ingenuity and the power of the internet, Jackie is determined to end the show and reclaim all of their lives, even in death.
 
-If you have read [<cite>One</cite> by Sarah Crossan](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1976758) you will love this. If not, make it your next read after <cite>We Come Apart</cite>. She is fast becoming my favourite author.
+I loved this book. I’m going to be honest though, you will need some tissues while you’re reading it as there are a few highly emotional moments.
+
+Vlahos deals with issues in such a sensitive, poignant and searingly honest way to create this intensely realistic book that you just can’t put down. It certainly doesn’t pull any punches, with harrowing opening pages and a twist that will leave you reeling.
+
+There is a highly-entertaining cast of characters that range from an unhinged billionaire playboy to a fame-obsessed nun. Each character is developed over the course of the book and their stories intertwine, weaving an intricate tapestry of what fame really costs.
+
+Above all of those, is a unique and thought-provoking perspective that changed the entire plot and for me, was what really made this book stand out. However, I can’t mention any details without giving away parts of the plot, so trust me when I say it’s just a brilliant idea.
+
+<cite>Life in A Fishbowl</cite> is a bittersweet fusion of emotions that won’t let you go.
