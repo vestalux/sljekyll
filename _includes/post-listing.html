@@ -114,6 +114,12 @@
 
 {% endfor %}
 
+{% if page.cat-archive %}
+
+    <p><a href="/new-suggestions/{{ page.category }}/archive/" class="pure-button pure-button-primary custom-force-white">See the archive of all posts &rarr;</a></p>
+
+{% endif %}
+
 {% if posts-check != true %}
 
     <p>Unfortunately there are currently no {{ page.category  | downcase }}.</p>
