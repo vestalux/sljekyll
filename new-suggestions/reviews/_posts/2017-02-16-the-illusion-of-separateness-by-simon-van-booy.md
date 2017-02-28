@@ -7,7 +7,7 @@ category: staff-picks
 excerpt: 'The Borrowers book group found <cite>The Illusion of Separateness</cite> "a very unusual and intense book" that is "poignantly and beautifully written."'
 featured-image: /images/featured/featured-illusion-of-separateness.jpg
 featured-alt: The Illusion of Separateness
-featured-link-text: ""
+featured-link-text: "Check out the Borrowers' review of <cite>The Illusion of Separateness</cite>"
 breadcrumb: staff-picks
 ---
 
