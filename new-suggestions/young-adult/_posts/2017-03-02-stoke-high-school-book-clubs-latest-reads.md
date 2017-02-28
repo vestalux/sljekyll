@@ -15,6 +15,8 @@ breadcrumb: young-adult
 
 ## [<cite>Miss Peregrine's Home for Peculiar Children</cite>, by Ransom Riggs](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1944494), reviewed by Michelle Noubissi
 
+![Miss Peregrine's Home for Peculiar Children](/images/featured/featured-miss-peregrine.jpg)
+
 <cite>Miss Peregrine's Home for Peculiar Children</cite> is about a boy, Jack, who has a kind of power: he can see things that nobody else can see. His grandpa was the same.
 
 Jack is a Peculiar. When he discovered his powers, he did not want them, until he knew he had them for a good reason.
@@ -24,6 +26,8 @@ My favourite part is when a strong little girl carries Jack because he got knock
 I recommend this book because it helps you discover another world.
 
 ## [<cite>Girl Online: going solo</cite>, by Zoe Sugg](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2046704), reviewed by Mercedes Knox
+
+![Girl Online: going solo](/images/featured/featured-going-solo.jpg)
 
 <cite>Girl Online: going solo</cite> is about a girl called Penny Porter. It's a romance and adventure.
 
@@ -35,6 +39,8 @@ I definitely am recommending this book to my friends. I also recommend this book
 
 ## [<cite>Username: regenerated</cite>, by Joe Sugg](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2052242), reviewed by Isabella Mayhew
 
+![Username: regenerated](/images/featured/featured-username-regenerated.jpg)
+
 <cite>Username: regenerated</cite> is the sequel to [<cite>Username: Evie</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1810902).
 
 The main character, Evie, has left someone behind in 'e.scape' (the virtual world her father created for her) and now she can't return to the world. In this book, you get to know more about the characters, and their past lives.
@@ -43,6 +49,8 @@ If you like short reads, then you will enjoy this, but you should read <cite>Use
 
 ## [<cite>A Monster Calls</cite>, by Patrick Ness](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2055328), reviewed by Mercedes Knox
 
+![A Monster Calls](/images/featured/featured-a-monster-calls2.jpg)
+
 Conor, who everyone ignores and is treated differently by his teachers since his mum fell ill from cancer, unknowingly calls a monster during a terrible nightmare.
 
 I liked how this book emotionally connected to me. I also liked the suspense, as I got to guess at what happened at the end.
@@ -50,6 +58,8 @@ I liked how this book emotionally connected to me. I also liked the suspense, as
 I liked everything about this book. My favourite part was when the monster tried to get Conor to tell the truth, but he couldn't because the truth wasn't good.
 
 ## [<cite>The Midnight Gang</cite>, by David Walliams](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2014807), reviewed by Sian Young
+
+![The Midnight Gang](/images/featured/featured-the-midnight-gang.jpg)
 
 <cite>The Midnight Gang</cite> is written by David Walliams, who has written several other books and is also a judge on <cite>Britain's Got Talent</cite>. This book is great to read.
 
@@ -60,6 +70,8 @@ My favourite part of the book was when Tom first woke up and saw the terrifying 
 I recommend this book to anyone who likes funny and exciting books.
 
 ## [<cite>Night Shift</cite>, by Debi Gliori](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2078880), reviewed by Joley Dale
+
+![Night Shift](/images/featured/featured-night-shift2.jpg)
 
 <cite>Night Shift</cite> is a picture book aimed at young adults that helps them to understand about mental health and difficulties.
 
