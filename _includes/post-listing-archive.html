@@ -4,7 +4,7 @@
 
 {% endif %}
 
-{% for post in site.categories.[page.category] limit:20 %}
+{% for post in site.categories.[page.category] %}
 
   {% if post.expiry-date %}
 
@@ -20,7 +20,7 @@
 
             <article class="{% include /c/slot.html %}">
 
-                <header class="{% include /c/slot-header.html %}">
+                <div class="{% include /c/slot-header.html %}">
 
                     {% assign posts-check = true %}
 
@@ -28,19 +28,7 @@
 
                     <p class="{% include /c/page-meta.html %}">{% if post.author %}Written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{% assign author = site.data.authors[post.author] %}{{ author.name }}</span></span> &middot; {% endif %}Published {{ post.date | date: "%b %-d, %Y" }}</p>
 
-                </header>
-
-                {% if post.featured-image %}
-
-                    <a href="{{ post.url }}" class="white"><img class="db mb2" src="{{ post.featured-image }}" alt="post.featured-alt"></a>
-
-                    <p class="{% include /c/slot-excerpt.html %} dib-ns">{{ post.excerpt }}</p>
-
-                {% else %}
-
-                    <p class="{% include /c/slot-excerpt.html %}">{{ post.excerpt }}</p>
-
-                {% endif %}
+                </div>
 
             </article>
 
@@ -54,7 +42,7 @@
 
                 <article class="{% include /c/slot.html %}">
 
-                    <header class="{% include /c/slot-header.html %}">
+                    <div class="{% include /c/slot-header.html %}">
 
                         {% assign posts-check = true %}
 
@@ -62,19 +50,7 @@
 
                         <p class="{% include /c/page-meta.html %}">{% if post.author %}Written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{% assign author = site.data.authors[post.author] %}{{ author.name }}</span></span> &middot; {% endif %}Published {{ post.date | date: "%b %-d, %Y" }}</p>
 
-                    </header>
-
-                    {% if post.featured-image %}
-
-                        <a href="{{ post.url }}" class="white"><img class="db mb2" src="{{ post.featured-image }}" alt="post.featured-alt"></a>
-
-                        <p class="{% include /c/slot-excerpt.html %} dib-ns">{{ post.excerpt }}</p>
-
-                    {% else %}
-
-                        <p class="{% include /c/slot-excerpt.html %}">{{ post.excerpt }}</p>
-
-                    {% endif %}
+                    </div>
 
                 </article>
 
@@ -84,7 +60,7 @@
 
             <article class="{% include /c/slot.html %}">
 
-                <header class="{% include /c/slot-header.html %}">
+                <div class="{% include /c/slot-header.html %}">
 
                     {% assign posts-check = true %}
 
@@ -92,19 +68,7 @@
 
                     <p class="{% include /c/page-meta.html %}">{% if post.author %}Written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{% assign author = site.data.authors[post.author] %}{{ author.name }}</span></span> &middot; {% endif %}Published {{ post.date | date: "%b %-d, %Y" }}</p>
 
-                </header>
-
-                {% if post.featured-image %}
-
-                    <a href="{{ post.url }}" class="white"><img class="db mb2" src="{{ post.featured-image }}" alt="post.featured-alt"></a>
-
-                    <p class="{% include /c/slot-excerpt.html %} dib-ns">{{ post.excerpt }}</p>
-
-                {% else %}
-
-                    <p class="{% include /c/slot-excerpt.html %}">{{ post.excerpt }}</p>
-
-                {% endif %}
+                </div>
 
             </article>
 
@@ -113,12 +77,6 @@
     {% endif %}
 
 {% endfor %}
-
-{% if page.cat-archive %}
-
-    <p><a href="/new-suggestions/{{ page.category }}/archive/" class="pure-button pure-button-primary custom-force-white">See the archive of all posts &rarr;</a></p>
-
-{% endif %}
 
 {% if posts-check != true %}
 
