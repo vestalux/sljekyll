@@ -1,0 +1,85 @@
+{% if page.excerpt %}
+
+    <p class="{% include /c/page-excerpt.html %}">{{ page.excerpt }}</p>
+
+{% endif %}
+
+{% for post in site.categories.[page.category] %}
+
+  {% if post.expiry-date %}
+
+        {% capture now-unix-seconds %}{{'now' | date: '%s' }}{% endcapture %}
+
+        {% capture expires %}{{post.expiry-date | date: '%s' }}{% endcapture %}
+
+        {% capture expires-date %}{{ expires | divided_by: 86400}}{% endcapture %}
+
+        {% capture now-unix %}{{ now-unix-seconds | divided_by: 86400}}{% endcapture %}
+
+        {% if now-unix <= expires-date %}
+
+            <article class="{% include /c/slot.html %}">
+
+                <div class="{% include /c/slot-header.html %}">
+
+                    {% assign posts-check = true %}
+
+                    <h1 class="{% include /c/slot-title.html %}"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+
+                    <p class="{% include /c/page-meta.html %}">{% if post.author %}Written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{% assign author = site.data.authors[post.author] %}{{ author.name }}</span></span> &middot; {% endif %}Published {{ post.date | date: "%b %-d, %Y" }}</p>
+
+                </div>
+
+            </article>
+
+        {% endif %}
+
+    {% else %}
+
+        {% if page.category == 'health' %}
+
+            {% if post.category != 'health-lists' %}
+
+                <article class="{% include /c/slot.html %}">
+
+                    <div class="{% include /c/slot-header.html %}">
+
+                        {% assign posts-check = true %}
+
+                        <h1 class="{% include /c/slot-title.html %}"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+
+                        <p class="{% include /c/page-meta.html %}">{% if post.author %}Written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{% assign author = site.data.authors[post.author] %}{{ author.name }}</span></span> &middot; {% endif %}Published {{ post.date | date: "%b %-d, %Y" }}</p>
+
+                    </div>
+
+                </article>
+
+            {% endif %}
+
+        {% else %}
+
+            <article class="{% include /c/slot.html %}">
+
+                <div class="{% include /c/slot-header.html %}">
+
+                    {% assign posts-check = true %}
+
+                    <h1 class="{% include /c/slot-title.html %}"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+
+                    <p class="{% include /c/page-meta.html %}">{% if post.author %}Written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{% assign author = site.data.authors[post.author] %}{{ author.name }}</span></span> &middot; {% endif %}Published {{ post.date | date: "%b %-d, %Y" }}</p>
+
+                </div>
+
+            </article>
+
+        {% endif %}
+
+    {% endif %}
+
+{% endfor %}
+
+{% if posts-check != true %}
+
+    <p>Unfortunately there are currently no {{ page.category  | downcase }}.</p>
+
+{% endif %}
