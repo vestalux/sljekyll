@@ -1,17 +1,19 @@
 ---
 layout: sidebar-right
-title: Stoke High School Book Club review their latest reads
+title: Stoke High School Friday Book Club review their latest reads
 date: 2017-03-02
 author: stoke-book-club
 category: young-adult
 excerpt: 'Looking for your next YA read? These short reviews from Stoke High School students might help you decide.'
 featured-image: /images/featured/featured-stoke-high-reviews1.jpg
 featured-alt: "Miss Peregrine's Home for Peculiar Children, Girl Online: Going Solo, Username: Regenerated, A Monster Calls, The Midnight Gang, Night Shift"
-featured-link-text: "See what Stoke High School Book Club have been reading recently"
+featured-link-text: "See what Stoke High School Friday Book Club have been reading recently"
 breadcrumb: young-adult
 ---
 
 ![Miss Peregrine's Home for Peculiar Children, Girl Online: Going Solo, Username: Regenerated, A Monster Calls, The Midnight Gang, Night Shift](/images/featured/featured-stoke-high-reviews1.jpg)
+
+Stoke High School's Friday Book Club is made up of year 8 and 9 students who meet at Stoke Library at lunchtime on Fridays for book-related chat and activities. They choose books from the library to read and review.
 
 ## [<cite>Miss Peregrine's Home for Peculiar Children</cite>, by Ransom Riggs](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1944494), reviewed by Michelle Noubissi
 
