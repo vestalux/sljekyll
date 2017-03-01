@@ -27,5 +27,6 @@ branch-photocopying: available
 branch-scan-to-email: y
 branch-faxing: y
 branch-borrowing-ereaders-and-ipads: iPad
+branch-news: '<a class="blue" href="/news/ixworth-library-refurbishment/">Ixworth Library to close for refurbishment from 10 to 24 April</a>'
 breadcrumb: y
 ---
