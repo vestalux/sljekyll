@@ -4,6 +4,7 @@ name: "Meet the Author: Dave Tonge"
 location: long-melford-library
 location-text: Long Melford Library
 event-start-date: 2017-03-15
+event-start-time: 1430
 event-ticket-price: 2
 breadcrumb: y
 ---
