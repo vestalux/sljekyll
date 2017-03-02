@@ -10,7 +10,7 @@ breadcrumb: y
 
 ![Pauline Manders books](/images/featured/featured-manders-books.jpg)
 
-Talk and book signing with Suffolk author Pauline Manders, who has written 6 crime novels set in Suffolk: <cite>Utterly Explosive</cite>, <cite>Utterly Fuelled</cite>, <cite>Utterly Rafted</cite>, <cite>Utterly Reclaimed</cite>, <cite>Utterly Knotted</cite> and <cite>Utterly Crushed</cite>.
+Talk and book signing with Suffolk author Pauline Manders, who has written 6 crime novels set in Suffolk: []<cite>Utterly Explosive</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1429950), [<cite>Utterly Fuelled</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1469170), []<cite>Utterly Rafted</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1567361), [<cite>Utterly Reclaimed</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1715338), [<cite>Utterly Knotted</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1925629) and [<cite>Utterly Crushed</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2107391).
 
 In the latest in the series, <cite>Utterly Crushed</cite>:
 
