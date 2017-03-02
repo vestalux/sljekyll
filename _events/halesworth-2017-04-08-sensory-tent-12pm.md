@@ -6,7 +6,7 @@ location-text: Halesworth Library
 event-start-date: 2017-04-08
 event-start-time: 1200
 event-ticket-price: 2 for both adults and children
-event-category: children
+event-category: easter
 breadcrumb: y
 ---
 

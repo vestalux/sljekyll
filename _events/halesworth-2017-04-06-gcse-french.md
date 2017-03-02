@@ -7,6 +7,7 @@ event-start-date: 2017-04-06
 event-start-time: 1330
 event-end-time: 1630
 event-ticket-price: 30
+event-cateogry: easter
 breadcrumb: y
 ---
 

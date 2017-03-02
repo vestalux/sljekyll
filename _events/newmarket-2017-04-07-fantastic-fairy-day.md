@@ -7,6 +7,7 @@ event-start-date: 2017-04-07
 event-start-time: 1400
 event-end-time: 1530
 event-ticket-price: 1 per fairy
+event-category: easter
 breadcrumb: y
 ---
 
