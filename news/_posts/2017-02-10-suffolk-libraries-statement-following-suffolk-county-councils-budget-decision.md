@@ -4,7 +4,7 @@ title: Suffolk Libraries' statement following Suffolk County Council’s budget 
 date: 2017-02-10
 author: alice-violett
 category: news
-excerpt: 'Yesterday Suffolk County Council approved its budget for 2017-18 which includes a £200,000 reduction in the funding which Suffolk Libraries receives.'
+excerpt: 'On Thursday 9 February Suffolk County Council approved its budget for 2017-18 which includes a £200,000 reduction in the funding which Suffolk Libraries receives.'
 breadcrumb: news
 ---
 

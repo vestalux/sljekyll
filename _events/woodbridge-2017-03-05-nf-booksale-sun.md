@@ -1,6 +1,6 @@
 ---
 id: woodbridge-non-fiction-sale-sun
-name: "Sale of ex-library fiction books: Sunday"
+name: "Sale of ex-library non-fiction books: Sunday"
 location: woodbridge-library
 location-text: Woodbridge Library
 event-start-date: 2017-03-05

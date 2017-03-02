@@ -6,7 +6,7 @@ location-text: Woodbridge Library
 event-start-date: 2017-03-11
 event-start-time: 1015
 event-end-time: 1145
-event-price: 5
+event-ticket-price: 5
 breadcrumb: y
 ---
 
