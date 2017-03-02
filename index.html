@@ -1,259 +1,78 @@
 ---
 layout: default
 title: Suffolk Libraries reserve, renew, branches and eLibrary
+featured-story: false
 ---
 
-<section class="mb2">
+<section class="pb3 pb4-ns">
 
-    <h1 class="dn">Sections</h1>
+    <h1 class="f4 f3-ns pa0 ma0 mb2 pt2 pb2 bb b--light-gray">More</h1>
 
-    <section>
+    <ul class="list ma0 mb2 pa0 f5">
 
-        <h1 class="dn">Library services</h1>
+        <li class="db dib-ns pv1 mr3-ns"><a href="/news" class="blue link">News</a></li>
+        <li class="db dib-ns pv1 mr3-ns"><a href="/blog" class="blue link">Blog</a></li>
+        <li class="db dib-ns pv1 mr3-ns"><a href="/about/jobs/" class="blue">Jobs</a></li>
+        <li class="db dib-ns pv1 mr3-ns"><a href="/about/" class="blue">About us</a></li>
+        <li class="db dib-ns pv1 mr3-ns"><a href="/health/lists/health-lists/books-on-prescription-self-help-reading/" class="blue">Books on Prescription</a></li>
+        <li class="db dib-ns pv1 mr3-ns"><a href="/music-and-drama" class="blue link">Music &amp; Drama Library</a></li>
+        <li class="db dib-ns pv1 mr3-ns"><a href="/special-collections" class="blue link">Special collections</a></li>
+        <li class="db dib-ns pv1 mr3-ns"><a href="http://www.fundingcentral.org.uk/default.aspx" class="blue link">Project funding</a></li>
+        <li class="db dib-ns pv1 mr3-ns"><a href="/prison-libraries" class="blue link">Prisons</a></li>
+        <li class="db dib-ns pv1 mr3-ns"><a href="/volunteer" class="blue link">Volunteering</a></li>
 
-        <div class="cf">
+    </ul>
 
-            <div class="custom-g-l2">
+ </section>
 
-                <section class="{% include /c/block.html %}">
+ {% if page.featured-story %}
 
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/elibrary">eLibrary</a></h1>
+     {% assign featured_pages = (site.posts | where: "featured", "true") %}
 
-                    <p class="{% include /c/block-graf.html %}">Download free eBooks, eAudio, magazines &amp; MP3s</p>
+     {% for post in featured_pages limit:1 %}
 
-                </section>
+         <article class="cf mv2 mv3-ns mt4-ns pv2 pv3-ns bt b--light-gray">
 
-            </div>
+             <div class="custom-g-l3">
 
-            <div class="custom-g-l2">
+                 <h1 class="ff4 f3-ns pa0 ma0 mb2 pt2 pb2 bb b--light-gray">{{ post.title }}</h1>
 
-                <section class="{% include /c/block.html %}">
+                 <p class="ma0 mb3 {% include /c/prose.html %}">{{ post.featured-excerpt }}</p>
 
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/libraries">Libraries</a></h1>
+                 <p class="b"><a class="blue" href="{{ post.url }}">{{ post.featured-link-text }} &rarr;</a></p>
 
-                    <p class="{% include /c/block-graf.html %}">Library contact details, events, hire library spaces &amp; local, pop-up libraries</p>
+             </div>
 
-                </section>
+             <div class="custom-g-l3 custom-g-nm">
 
-            </div>
+                 <a class="white" href="{{ post.url }}"><img class="custom-constrain-img" src="{{ post.featured-image }}" alt="{{ post.featured-alt }}"></a>
 
-            <div class="custom-g-l2 custom-g-nm">
+             </div>
 
-                <section class="{% include /c/block.html %}">
+         </article>
 
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/mobiles-home">Mobiles &amp; home service</a></h1>
+     {% endfor %}
 
-                    <p class="{% include /c/block-graf.html %}">Mobile library timetables &amp; books delivered to you</p>
+ {% elsif page.featured-story == false %}
 
-                </section>
+     <article class="cf mv2 mv3-ns mt4-ns pv2 pv3-ns">
 
-            </div>
+         <h1 class="f4 f3-ns pa0 ma0 mb2 pt2 pb2 bb b--light-gray">Looking for inspiration?</h1>
 
-        </div> <!-- end .cf -->
+         <div class="custom-g-l3">
 
-        <div class="cf">
+             <p class="ma0 mb3 {% include /c/prose.html %}">Check out our lists, reviews, articles, blogs, podcast and author interviews for readers of all ages.</p>
 
-            <div class="custom-g-l2">
+             <p><a class="pure-button pure-button-primary" href="/new-suggestions/">See our recommendations section &rarr;</a></p>
 
-                <section class="{% include /c/block.html %}">
+         </div>
 
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/help">Help using the service</a></h1>
+         <div class="custom-g-l3 custom-g-nm">
 
-                    <p class="{% include /c/block-graf.html %}">Finding &amp; reserving, renewing, charges &amp; fines, using our computers</p>
+             <a class="white" href="/new-suggestions/"><img class="custom-constrain-img" src="/images/featured/featured-features.jpeg" alt="Books, DVDs, artists, authors collage"></a>
 
-                </section>
+         </div>
 
-            </div>
+     </article>
 
-            <div class="custom-g-l2">
-
-                <section class="{% include /c/block.html %}">
-
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/new-suggestions">New in &amp; suggestions</a></h1>
-
-                    <p class="{% include /c/block-graf.html %}">New titles, reading lists &amp; staff picks</p>
-
-                </section>
-
-            </div>
-
-            <div class="custom-g-l2 custom-g-nm">
-
-                <section class="{% include /c/block.html %}">
-
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/events-activities">Events &amp; activities</a></h1>
-
-                    <p class="{% include /c/block-graf.html %}">Activities for children &amp; older people, free IT courses and special events</p>
-
-                </section>
-
-            </div>
-
-        </div> <!-- end .cf -->
-
-        <div class="cf">
-
-            <div class="custom-g-l2">
-
-                <section class="{% include /c/block.html %}">
-
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/information-resources">Research, study &amp; leisure resources</a></h1>
-
-                    <p class="{% include /c/block-graf.html %}">Free access to Ancestry, Find my Past &amp; other information resources</p>
-
-                </section>
-
-            </div>
-
-            <div class="custom-g-l2">
-
-                <section class="{% include /c/block.html %}">
-
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/schools/">Schools</a></h1>
-
-                    <p class="{% include /c/block-graf.html %}">Classroom resources for teachers</p>
-
-                </section>
-
-            </div>
-
-            <div class="custom-g-l2 custom-g-nm">
-
-                <section class="{% include /c/block.html %}">
-
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/parents-carers-and-children/">Parents, carers &amp; children</a></h1>
-
-                    <p class="{% include /c/block-graf.html %}">Reading ideas and advice for parents and carers of children aged 0-11</p>
-
-                </section>
-
-            </div>
-
-        </div> <!-- end .cf -->
-
-        <div class="cf">
-
-            <div class="custom-g-l2">
-
-                <section class="{% include /c/block.html %}">
-
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/news">News</a></h1>
-
-                    <p class="{% include /c/block-graf.html %}">Updates &amp; press releases</p>
-
-                </section>
-
-            </div>
-
-            <div class="custom-g-l2">
-
-                <section class="{% include /c/block.html %}">
-
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/blog">Blog</a></h1>
-
-                    <p class="{% include /c/block-graf.html %}">A peek behind the scenes at Suffolk Libraries</p>
-
-                </section>
-
-            </div>
-
-            <div class="custom-g-l2 custom-g-nm">
-
-                <section class="{% include /c/block.html %}">
-
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/health">Mental health &amp; wellbeing</a></h1>
-
-                    <p class="{% include /c/block-graf.html %}">Books on Prescription, wellbeing resources, events &amp; a blog</p>
-
-                </section>
-
-            </div>
-
-        </div> <!-- end .cf -->
-
-        <div class="cf">
-
-            <div class="custom-g-l2">
-
-                <section class="{% include /c/block.html %}">
-
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/business-and-room-hire/">Business and room &amp; venue hire</a></h1>
-
-                    <p class="{% include /c/block-graf.html %}">Room &amp; venue hire, free business advice &amp; makerspace</p>
-
-                </section>
-
-            </div>
-
-            <div class="custom-g-l2">
-
-                <section class="{% include /c/block.html %}">
-
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}"   href="/about/jobs">Jobs</a></h1>
-
-                    <p class="{% include /c/block-graf.html %}">See our latest vacancies</p>
-
-                </section>
-
-            </div>
-
-            <div class="custom-g-l2 custom-g-nm">
-
-                <section class="{% include /c/block.html %}">
-
-                    <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/block-title-link.html %}" href="/about">About us</a></h1>
-
-                    <p class="{% include /c/block-graf.html %}">Governance, board members, documents  &amp; community groups</p>
-
-                </section>
-
-            </div>
-
-        </div> <!-- end .cf -->
-
-    </section>
-
-    <section class="pb3 pb4-ns">
-
-        <h1 class="f4 f3-ns pa0 ma0 mb2 pt2 pb2 bb b--light-gray">More</h1>
-
-            <ul class="list ma0 mb2 pa0 f5">
-
-                <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="/health/lists/health-lists/books-on-prescription-self-help-reading/" class="blue link">Books on Prescription</a></li>
-                <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="/music-and-drama/" class="blue link">Music &amp; Drama Library</a></li>
-                <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="/special-collections/" class="blue link">Special collections</a></li>
-                <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="http://www.fundingcentral.org.uk/default.aspx" class="blue link">Get help funding your project</a></li>
-                <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="/prison-libraries/" class="blue link">Prison library service</a></li>
-                <li class="db dib-ns pv1 pv0-ns mr3-ns"><a href="/volunteer/" class="blue link">Volunteering</a></li>
-
-            </ul>
-
-     </section>
-
-</section>
-
-<!-- {% assign featured_pages = (site.posts|where:"featured","true") %}
-
-{% for post in featured_pages limit:1 %}
-
-    <article class="cf mv2 mv3-ns mt4-ns pv2 pv3-ns bt b--light-gray">
-
-        <div class="custom-g-l3">
-
-            <h1 class="f4 f3-ns pa0 ma0 mb2">{{ post.title }}</h1>
-
-            <p class="ma0 mb3 {% include /c/prose.html %}">{{ post.featured-excerpt }}</p>
-
-            <p class="b"><a class="blue" href="{{ post.url }}">{{ post.featured-link-text }} &rarr;</a></p>
-
-        </div>
-
-        <div class="custom-g-l3 custom-g-nm">
-
-            <a class="white" href="{{ post.url }}"><img class="custom-constrain-img" src="{{ post.featured-image }}" alt="{{ post.featured-alt }}"></a>
-
-        </div>
-
-    </article>
-
-{% endfor %} -->
+ {% endif %}
