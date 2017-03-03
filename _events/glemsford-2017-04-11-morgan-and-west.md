@@ -18,4 +18,4 @@ breadcrumb: y
 
 > "Mixing brain busting illusion and good old fashioned tom-foolery, Morgan & West present a show for all the family, where magic and silliness abound! Fun for all from ages 5 to 105*.
 
-> "105 is rather an arbitrary upper age limit really – it just seemed to flow well in the prose..."
+> "* 105 is rather an arbitrary upper age limit really – it just seemed to flow well in the prose..."
