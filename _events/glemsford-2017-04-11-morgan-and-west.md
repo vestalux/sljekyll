@@ -16,6 +16,6 @@ breadcrumb: y
 
 > "Time travelling Victorian magic duo Morgan & West unload another boxful of bafflement and impossibility. Witness a mountain of mysterious magic, a hatful of hyper-reality, and of course a truck full of tricks and tea. (Sadly there are no actual mountains or trucks on stage during the show, Mr West simply would not have them.)
 
-> "Mixing brain busting illusion and good old fashioned tom-foolery, Morgan & West present a show for all the family, where magic and silliness abound! Fun for all from ages 5 to 105&ast;.
+> "Mixing brain busting illusion and good old fashioned tom-foolery, Morgan & West present a show for all the family, where magic and silliness abound! Fun for all from ages 5 to 105*.
 
-> &ast; 105 is rather an arbitrary upper age limit really – it just seemed to flow well in the prose..."
+> "105 is rather an arbitrary upper age limit really – it just seemed to flow well in the prose..."
