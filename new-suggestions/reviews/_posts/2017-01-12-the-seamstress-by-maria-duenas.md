@@ -9,6 +9,8 @@ featured-image: /images/featured/featured-the-seamstress.jpg
 featured-alt: The Seamstress
 featured-link-text: "Read The Borrowers book group's review of <cite>The Seamstress</cite>, by Maria Duenas."
 breadcrumb: staff-picks
+genre: historical
+genre-image: 
 ---
 
 ![The Seamstress](/images/featured/featured-the-seamstress.jpg)

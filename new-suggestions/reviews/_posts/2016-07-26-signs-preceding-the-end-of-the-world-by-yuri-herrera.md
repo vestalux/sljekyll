@@ -6,7 +6,10 @@ author: richard-baker
 category: staff-picks
 excerpt: Library and information advisor at Woodbridge, Richard Baker, reviews one of the Brave New Reads.
 breadcrumb: staff-picks
+genre: literary-fiction
+genre-image: /images/featured/featured-signs-preceding-the-end-of-the-world-genre.jpg
 ---
+
 ![Signs Preceding the End of the World by Yuri Herrera](/images/featured/featured-signs-preceding-the-end-of-the-world.jpg)
 
 When you read a novel entitled <cite>Signs Preceding the End of the World</cite>, you find yourself looking for small details to see if you can detect any of these signs. The trick the author plays on the reader is to make the scope and frame of the novel so epic and vast that small details seem in short supply. The reader’s search for signs echoes that of the novels central character Makina and her search for her younger brother, who has crossed the border between Mexico and the United States.

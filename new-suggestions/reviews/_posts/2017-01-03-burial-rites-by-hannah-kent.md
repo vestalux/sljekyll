@@ -9,6 +9,8 @@ featured-image: /images/featured/featured-burial-rites.jpg
 featured-alt: Burial Rites
 featured-link-text: "Read The Borrowers book group's review of <cite>Burial Rites</cite>, by Hannah Kent."
 breadcrumb: staff-picks
+genre: historical
+genre-image: /images/featured/featured-burial-rites-genre.jpg
 ---
 
 ![Burial Rites](/images/featured/featured-burial-rites.jpg)

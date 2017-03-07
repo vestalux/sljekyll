@@ -9,6 +9,8 @@ featured-image: /images/featured/featured-cleaner-of-chartres.jpg
 featured-alt: The Cleaner of Chartres
 featured-link-text: "Read The Borrowers book group's review of <cite>The Cleaner of Chartres</cite>, by Salley Vickers."
 breadcrumb: staff-picks
+genre: literary-fiction
+genre-image: /images/featured/featured-cleaner-of-chartres-genre.jpg
 ---
 
 ![The Cleaner of Chartres](/images/featured/featured-cleaner-of-chartres.jpg)

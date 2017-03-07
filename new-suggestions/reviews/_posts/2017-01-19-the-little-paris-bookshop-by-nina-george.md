@@ -9,6 +9,8 @@ featured-image: /images/featured/featured-little-paris-bookshop.jpg
 featured-alt: The Little Paris Bookshop
 featured-link-text: "Read The Borrowers book group's review of <cite>The Little Paris Bookshop</cite>, by Nina George."
 breadcrumb: staff-picks
+genre: literary-fiction
+genre-image: /images/featured/featured-little-paris-bookshop-genre.jpg
 ---
 
 ![The Little Paris Bookshop](/images/featured/featured-little-paris-bookshop.jpg)

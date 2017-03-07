@@ -9,6 +9,8 @@ featured-image: /images/featured/featured-illusion-of-separateness.jpg
 featured-alt: The Illusion of Separateness
 featured-link-text: "Check out the Borrowers' review of <cite>The Illusion of Separateness</cite>"
 breadcrumb: staff-picks
+genre: historical
+genre-image: /images/featured/featured-illusion-of-separateness-genre.jpg
 ---
 
 ![The Illusion of Separateness](/images/featured/featured-illusion-of-separateness.jpg)

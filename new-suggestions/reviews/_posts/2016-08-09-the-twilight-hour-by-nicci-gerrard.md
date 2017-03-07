@@ -6,7 +6,10 @@ author: gill-mason
 category: staff-picks
 excerpt: Library and information advisor at Felixstowe, Gill Mason, reviews Nicci Gerrard's novel about a woman with a dark past.
 breadcrumb: staff-picks
+genre: literary-fiction
+genre-image: /images/featured/featured-the-twilight-hour-genre.jpg
 ---
+
 ![The Twilight Hour by Nicci Gerrard](/images/featured/featured-the-twilight-hour.jpg)
 
 The highlight of the book festival for me was meeting Nicci Gerrard, one half of the Nicci French team who pen brilliant psychological thrillers from their Suffolk home. Away from that genre, Nicci’s latest solo novel, <cite>The Twilight Hour</cite>, caught my eye.
