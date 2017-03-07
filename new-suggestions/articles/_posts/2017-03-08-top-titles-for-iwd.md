@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: Check out our most popular titles by women authors for International Women's Day 2017
-date: 2017-03-07
+date: 2017-03-08
 author: alice-violett
 category: articles
 excerpt: "To mark International Women's Day, we've compiled a list of the most-borrowed books by female authors for children, young adults and adults in our libraries from the past month."
