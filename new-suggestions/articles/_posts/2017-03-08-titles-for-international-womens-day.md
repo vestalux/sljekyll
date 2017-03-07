@@ -2,7 +2,7 @@
 layout: sidebar-right
 title: "Mark International Women's Day with our curated OverDrive collection"
 date: 2017-03-08
-author: alice-violett
+author: brandon-king
 category: articles
 excerpt: "To celebrate International Women's Day, we've put together a list of brilliant digital titles from fantastic female authors."
 featured-image: /images/featured/featured-iwd-2017.jpg
