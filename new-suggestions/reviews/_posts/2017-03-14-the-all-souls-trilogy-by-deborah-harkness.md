@@ -6,7 +6,7 @@ author: andrea-salt
 category: staff-picks
 excerpt: 'Book club member Andrea found the <cite>All Souls</cite> series "spellbinding".'
 featured-image: /images/featured/featured-all-souls.jpg
-featured-alt: The All SOuls trilogy
+featured-alt: The All Souls trilogy
 featured-link-text: "Check out Andrea's review of the <cite>All Souls</cite> series"
 breadcrumb: staff-picks
 ---
