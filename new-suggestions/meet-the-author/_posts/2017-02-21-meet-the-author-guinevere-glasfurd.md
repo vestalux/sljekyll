@@ -12,7 +12,7 @@ top-feature: true
 breadcrumb: meet-the-author
 ---
 
-{% include /c/figure.html alt="Wendy Holden with infant Holocaust survivor Eva Clarke" src="/images/featured/featured-guinevere-glasfurd.jpg" caption="Guinevere Glasfurd &copy; Stefano Masse 2014" %}
+{% include /c/figure.html alt="Guinevere Glasfurd" src="/images/featured/featured-guinevere-glasfurd.jpg" caption="Guinevere Glasfurd &copy; Stefano Masse 2014" %}
 
 Guinevere Glasfurd is a British writer. Originally from the north of England, Guinevere now lives and works in Cambridgeshire. She has a background in historical research and has worked for [BBC History Online](http://www.bbc.co.uk/history). Her short fiction has been published by <cite>Mslexia</cite> and <cite>The Scotsman</cite> and she has won awards from Arts Council England and the British Council for her work.
 

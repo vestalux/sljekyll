@@ -66,7 +66,7 @@ It takes place in a small, fictional town in Oregon, at a rather run-down motel 
 A happy read, first of all. It’s lighthearted fun. It is not, I think, a book that takes itself too seriously. It is also filled with book recommendations. The people in it are strange and struggling, finding friendship, community and books at unexpected places.
 
 I like to think that there is also depth hidden within in, if a reader looks for it.
-And if a book group do decide to read my book, please feel free to invite me for a Skype-conversation about it. Or send me an email and tell me what you thought of it: **katarina@katarinabivald.se**.
+And if a book group do decide to read my book, please feel free to invite me for a Skype conversation about it. Or send me an email and tell me what you thought of it: **katarina@katarinabivald.se**.
 
 ## 9. Can you describe yourself in three words?
 I like to see myself as a strange, kind book nerd (that is only three words in Swedish, as we say ”booknerd”).

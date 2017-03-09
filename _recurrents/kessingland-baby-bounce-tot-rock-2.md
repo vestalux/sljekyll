@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers"
+recurrent-title: "Baby Bounce and Tot Rock: songs and rhymes for babies and toddlers - no session on 9 March"
 recurrent-day: Thursday
 recurrent-times: 1000-1100
 recurrent-location: kessingland-library

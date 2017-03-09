@@ -10,7 +10,7 @@ event-ticket-price: 3 per person
 breadcrumb: y
 ---
 
-Join us for a book-themed quiz. Maximum 4 people per team.
+Join us for a book-themed quiz. Maximum 6 people per team.
 
 All proceeds go to Friends of Woodbridge Library.
 
