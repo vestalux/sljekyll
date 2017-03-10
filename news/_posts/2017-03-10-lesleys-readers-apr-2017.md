@@ -11,7 +11,7 @@ breadcrumb: news
 Each month BBC Radio Suffolk presenter Lesley Dolphin discusses a book with
 journalist Catherine Larner as part of Lesley's Readers Monthly book group.
 
-This month's chosen book is [<cite>The Trouble With Goats and Sheep](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2072201), by Joanna Cannon:
+This month's chosen book is [<cite>The Trouble With Goats and Sheep</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2072201), by Joanna Cannon:
 
 > "England, 1976. Mrs Creasy is missing and The Avenue is alive with whispers. As the summer shimmers endlessly on, ten-year-olds Grace and Tilly decide to take matters into their own hands. And as the cul-de-sac starts giving up its secrets, the amateur detectives will find much more than they imagined."
 
