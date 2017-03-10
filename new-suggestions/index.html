@@ -14,7 +14,7 @@ breadcrumb: home
 
     <section class="{% include /c/block.html %}">
 
-        <h1 class="{% include /c/block-title.html %}">{% if current.stub !='staff-picks' and current.stub !='childrens-ya-books' %}<a class="blue" href="/new-suggestions/{{ current.stub }}">{{ current.full-name }}</a>{% elsif current.stub == 'staff-picks' %}<a class="blue" href="/new-suggestions/reviews/">{{ current.full-name }}{% elsif current.stub == 'childrens-ya-books' %}<a class="blue" href="/parents-carers-and-children/childrens-ya-books/">Children's books</a>{% endif %}</h1>
+        <h1 class="{% include /c/block-title.html %}">{% if current.stub !='staff-picks' and current.stub !='childrens-ya-books' and current.stub !='health-lists' %}<a class="blue" href="/new-suggestions/{{ current.stub }}">{{ current.full-name }}</a>{% elsif current.stub == 'staff-picks' %}<a class="blue" href="/new-suggestions/reviews/">{{ current.full-name }}{% elsif current.stub == 'childrens-ya-books' %}<a class="blue" href="/parents-carers-and-children/childrens-ya-books/">Children's books</a>{% elsif current.stub == 'health-lists' %}<a class="blue" href="/health/lists/">Health &amp; wellbeing</a>{% endif %}</h1>
 
         {% for post in site.categories.[current.stub] limit:1 %}
 
@@ -32,7 +32,7 @@ breadcrumb: home
           {% endfor %}
       </ul>
 
-      {% if current.stub != 'staff-picks' and current.stub != 'childrens-ya-books' %}
+      {% if current.stub != 'staff-picks' and current.stub != 'childrens-ya-books' and current.stub != 'health-lists' %}
 
         <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/new-suggestions/{{ current.stub }}">All {{ current.full-name }} &rarr;</a></strong></p>
 
@@ -45,6 +45,10 @@ breadcrumb: home
         {% elsif current.stub == 'childrens-ya-books' %}
 
             <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/parents-carers-and-children/childrens-ya-books/">All {{ current.full-name }} &rarr;</a></strong></p>
+
+        {% elsif current.stub == 'health-lists' %}
+
+            <p class="{% include /c/block-graf.html %}"><strong><a class="{% include /c/block-title-link.html %}" href="/health/lists/">All {{ current.full-name }} &rarr;</a></strong></p>
 
         {% endif %}
 
