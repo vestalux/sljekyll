@@ -43,6 +43,9 @@
         {% when 'summer-reading-challenge' %}
         {% include /sidebar/summer-reading-challenge.html %}
 
+        {% when 'volunteering' %}
+        {% include /sidebar/volunteering.html %}
+
     {% endcase %}
 
     {% if page.breadcrumb == 'blog' %}
@@ -72,6 +75,18 @@
             <h1 class="{% include /c/sidebar-section-title.html %}">About meet the author</h1>
 
             <p class="ma0 mb2 f6 f5-ns">Regular interviews with some of the world's biggest-selling authors.</p>
+
+        </section>
+
+    {% endif %}
+
+    {% if page.category == 'young-adult' %}
+
+        <section class="{% include /c/sidebar-section.html %}">
+
+            <h1 class="{% include /c/sidebar-section-title.html %}">About our Young Adult section</h1>
+
+            <p class="ma0 mb2 f6 f5-ns">Book reviews, reading suggestions and blog posts from our staff and young adult readers. Want to write for our website? Email us at <strong>help@suffolklibraries.co.uk</strong>.</p>
 
         </section>
 
@@ -251,76 +266,5 @@
         {% endfor %}
 
     {% endif %}
-
-    {% if page.sidebar == 'summer-reading-challenge' %}
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">In this section</h1>
-
-            <ul class="{% include /c/sidebar-section-list.html %}">
-
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/events-activities/summer-reading-challenge/">Home</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/events-activities/summer-reading-challenge/summer-reading-challenge-volunteer-application-form/">Volunteer application form</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/events-activities/summer-reading-challenge/gold-ticket-family-prize-draw/">Gold ticket family prize draw</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/events-activities/summer-reading-challenge/imagination/">ImagiNation: for 11-18 year olds</a></li>
-
-            </ul>
-
-        </section>
-
-    {% endif %}
-
-    {% if page.sidebar == 'mobile-home' %}
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">Mobiles &amp; home service</h1>
-
-            <ul class="{% include /c/sidebar-section-list.html %}">
-
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/mobiles-home/">All mobile library stops</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/mobiles-home/using-the-mobile-library-service/">How to use the mobile library service</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/mobiles-home/mobile-route-schedules/">Mobile route timetables</a></li>
-                <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/mobiles-home/home/">About the Home Library Service</a></li>
-
-            </ul>
-
-        </section>
-
-    {% endif %}
-
-    {% if page.sidebar == 'branches' %}
-
-        <section class="{% include /c/sidebar-section.html %}">
-
-            <h1 class="{% include /c/sidebar-section-title.html %}">Ipswich Entrerprise + Innovation Hub</h1>
-
-            <p class="ma0 mb2 f6 f5-ns">Use our Makerspace and hire meeting rooms and work desks.</p>
-
-            <p class="ma0 mb2 f6 f5-ns"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/branches/hub/">Find out more about the Enterprise + Innovation Hub</a></p>
-
-        </section>
-
-    {% endif %}
-
-    {% if page.sidebar == 'volunteering' %}
-
-      <section class="{% include /c/sidebar-section.html %}">
-
-          <h1 class="{% include /c/sidebar-section-title.html %}">In this section</h1>
-
-          <ul class="{% include /c/sidebar-section-list.html %}">
-
-              <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/volunteer/">Volunteering with Suffolk Libraries</a></li>
-              <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/volunteer/volunteer-application-form">Volunteer application form</a></li>
-              <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/volunteer/volunteer-case-studies/">Volunteer case studies</a></li>
-              <li class="{% include /c/sidebar-section-list-item.html %}"><a class="{% include /c/sidebar-section-list-item-link.html %}" href="/mobiles-home/home/">Home Library Service</a></li>
-
-          </ul>
-
-      </section>
-
-      {% endif %}
 
 </aside>
