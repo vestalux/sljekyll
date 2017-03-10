@@ -23,7 +23,7 @@ branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-coun
 branch-parking: two public car parks within 5 minutes' walk
 branch-bookdrop: y
 branch-special-collections: Racing collection
-branch-other-facilities: <a href="http://www.westsuffolk.gov.uk/parking/Travel/shopmobility.cfm">Shopmobility:</a> hire a manual or electric wheelchair or scooter from Newmarket Library if you have any mobility problems
+branch-other-facilities: <a href="http://www.westsuffolk.gov.uk/parking/Travel/shopmobility.cfm">Shopmobility:</a> hire an electric wheelchair or scooter from Newmarket Library if you have any mobility problems
 branch-display-space: Wall space available for exhibition hire
 branch-wifi: y
 branch-netloan: new
