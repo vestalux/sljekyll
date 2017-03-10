@@ -9,6 +9,8 @@ featured-image: /images/featured/featured-bubble-boy.jpg
 featured-alt: The Bubble Boy
 tag: advent
 breadcrumb: staff-picks
+genre: literary-fiction
+genre-image: /images/featured/featured-bubble-boy-genre.jpg
 ---
 
 Every day until Christmas Eve, a member of Suffolk Libraries staff will reveal a book, CD or DVD they will be giving as a Christmas present, and why. Today, libraries innovation and development manager Krystal Vittles recommends <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1958192"><cite>The Bubble Boy</cite></a>, by Stewart Foster.

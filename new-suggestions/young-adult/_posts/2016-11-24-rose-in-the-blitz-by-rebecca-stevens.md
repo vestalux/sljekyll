@@ -5,7 +5,9 @@ date: 2016-11-24
 author: emily-mitchell
 category: young-adult
 excerpt: Emily finds <cite>Rose in the Blitz</cite> cleverly mixes past and present, deals sensitively with the subject of dementia, and effectively delivers the message that love conquers all.
-breadcrumb: young-adult 
+breadcrumb: young-adult
+genre: historical
+genre-image: /images/featured/featured-rose-in-the-blitz-genre.jpg
 ---
 
 ![Rose in the Blitz](/images/featured/featured-rose-in-the-blitz.jpg)

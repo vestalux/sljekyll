@@ -9,6 +9,8 @@ featured-image: /images/featured/featured-girl-with-no-name.jpg
 featured-alt: The Girl With No Name
 tag: advent
 breadcrumb: staff-picks
+genre: historical
+genre-image: /images/featured/featured-girl-with-no-name-genre.jpg
 ---
 
 Every day until Christmas Eve, a member of Suffolk Libraries staff will reveal a book, CD or DVD they will be giving as a Christmas present, and why. Today, web content editor Alice Violett recommends <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1938118"><cite>The Girl With No Name</cite></a>, by Diney Costeloe.

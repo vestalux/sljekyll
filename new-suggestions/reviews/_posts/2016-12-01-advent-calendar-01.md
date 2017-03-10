@@ -9,6 +9,8 @@ featured-image: /images/featured/featured-secret-diary.jpg
 featured-alt: The Secret Diary of Hendrik Groen, 83 &frac14;
 tag: advent
 breadcrumb: staff-picks
+genre: literary-fiction
+genre-image: /images/featured/featured-secret-diary-genre.jpg
 ---
 
 Every day until Christmas Eve, a member of Suffolk Libraries staff will reveal a book, CD or DVD they will be giving as a Christmas present, and why. Today, stock team member Jo Dixon recommends <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY=hendrik+groen&ENTRY_NAME=BS&ENTRY_TYPE=K&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FOPAC%2FBSEARCH%3FHOMEPRMS%3DBSEARCHPARAMS&SORTS=SQL_REL_TITLE&ISGLB=0&GQ=hendrik+groen"><cite>The Secret Diary of Hendrik Groen, 83 &frac14;</cite></a>, by an anonymous Dutch author.

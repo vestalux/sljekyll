@@ -9,6 +9,8 @@ featured-image: /images/featured/featured-panic.jpg
 featured-alt: Panic
 featured-link-text: "Read Emily Mitchell's review of <cite>Panic</cite>, by Lauren Oliver."
 breadcrumb: young-adult
+genre: crime
+genre-image: /images/featured/featured-panic-genre.jpg
 ---
 
 ![Panic](/images/featured/featured-panic.jpg)
