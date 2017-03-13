@@ -9,7 +9,6 @@ Our member organisations elect our board.
 ## Board members
 
 * Tony Brown (Beccles Library Community Trust) — board chair
-* Peter Callaghan (Friends of Brandon Library)
 * Sylvia Knights (Bungay Community Library) — board vice chair
 * Jonathan Ogden (Kesgrave Library Community)
 * Maureen Garratt Simpson (Ipswich County Library Friends Group) - board honorary secretary
@@ -27,12 +26,6 @@ Tony worked in marketing after graduating from Oxford with a degree in English. 
 He moved to Suffolk in 1991 when he was appointed director of Management Education by the University of East Anglia. He subsequently held senior academic and management roles at UEA, including dean of Continuing Education, and Business Development director.
 
 He has led successful bids to national and regional funding bodies, and implemented change management programmes with, among others, Virgin and Norfolk Constabulary.
-
-### Peter Callaghan
-
-Peter is a governor at a Brandon primary school and is involved with the school’s literacy and reading programmes. He is interested in developing library activities at a primary level in partnership with the schools’ library service and very keen on investigating the use of new technologies within the library service.
-
-The Friends of Brandon Library have contributed two Chromebooks and a Wi-Fi printer for general use, and these services have proved effective and popular. Peter believes that there is potential for further developments through the use of e-readers linked to the Overdrive system, especially for older and partially sighted people.
 
 ### Sylvia Knights
 
@@ -66,7 +59,7 @@ Maureen would be a great asset to the Board, being able to put the point of view
 
 ### Alison Wheeler
 
-Alison is general manager of the IPS. As the chief executive officer she is accountable to the board for the day to day management of the IPS. She's also a member of the IPS Board.
+Alison is chief executive of the IPS. As the chief executive officer she is accountable to the board for the day to day management of the IPS. She's also a member of the IPS Board.
 
 Alison has lived and worked in Suffolk for over 32 years.
 
