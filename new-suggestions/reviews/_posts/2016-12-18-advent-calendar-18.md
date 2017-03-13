@@ -9,6 +9,9 @@ featured-image: /images/featured/featured-elizabeth-is-missing.jpg
 featured-alt: Elizabeth Is Missing
 tag: advent
 breadcrumb: staff-picks
+genre: literary-fiction
+genre-image: /images/featured/featured-elizabeth-is-missing-genre.jpg
+genre-alt: Elizabeth is Missing
 ---
 
 Every day until Christmas Eve, a member of Suffolk Libraries staff will reveal a book, CD or DVD they will be giving as a Christmas present, and why. Today, library and information advisor Audrey Woodley recommends <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1679694"><cite>Elizabeth Is Missing</cite></a>, by Emma Healey.

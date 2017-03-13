@@ -19,4 +19,4 @@ Louise O’Neill offers layer upon layer, wave after wave, hit after hit of mena
 
 This gripping and complex book by Louise O’Neill deserves wider recognition and readership, as does her second novel <cite>Asking For It</cite>.
 
-[Order <cite>Only ever yours</cite> from our catalogue →](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3264406?QRY=CTIBIB%3C%20IRN(39261153)&QRYTEXT=Only%20ever%20yours)
+[Order <cite>Only Ever Yours</cite> from our catalogue →](http://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/3264406?QRY=CTIBIB%3C%20IRN(39261153)&QRYTEXT=Only%20ever%20yours)

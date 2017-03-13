@@ -6,7 +6,11 @@ author: amanda-king
 category: staff-picks
 excerpt: Amanda King, manager of Bungay Library reviews this thriller.
 breadcrumb: staff-picks
+genre: crime-and-thriller
+genre-image: /images/featured/featured-disclaimer-genre.jpg
+genre-alt: Disclaimer
 ---
+
 ![Disclaimer by Renee Knight](/images/featured/featured-disclaimer.jpg)
 
 Catherine Ravenscroft is a successful documentary filmmaker, happily married with a grown son. However, she is still tortured by an event from many years ago and has never spoken to anyone else about it.

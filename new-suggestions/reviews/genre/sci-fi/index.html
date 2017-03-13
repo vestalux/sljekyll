@@ -1,0 +1,26 @@
+---
+layout: default
+title: Science fiction reviews
+breadcrumb: staff-picks
+hnav: genre
+---
+
+<h1 class="{% include /c/page-title.html %} dib mb4-ns">Science fiction reviews</h1>
+
+<div class="custom-flex-container">
+
+{% assign science_fiction_posts = (site.posts | where: "genre", "sci-fi" ) %}
+
+{% for post in science_fiction_posts limit:24 %}
+
+    <figure class="custom-flex-row-4 pv2 bt b--light-gray">
+
+        <a class="white" href="{{ post.url }}"><img class="custom-constrain-img" src="{{ post.genre-image }}" alt="{{ post.genre-alt }}"></a>
+
+        <figcaption class="ma0 pa0"><p class="f5 fw6 ma0 pa0 pr2"><a href="{{ post.url }}" class="blue">{{ post.title }}</a></p></figcaption>
+
+    </figure>
+
+{% endfor %}
+
+</div>

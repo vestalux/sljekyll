@@ -6,7 +6,11 @@ author: alexandra-carter
 category: staff-picks
 excerpt: Alexandra Carter from the Woodbridge Library Readers’ Circle reviews Xialou Guo's novel about a translator.
 breadcrumb: staff-picks
+genre: literary-fiction
+genre-image: /images/featured/featured-i-am-china-genre.jpg
+genre-alt: I am China
 ---
+
 ![I am China by Xiaolu Guo](/images/featured/featured-i-am-china.jpg)
 
 The narrative thread of the book is conventional: a young but wayward translator, Iona, makes her way through letters exchanged between two Chinese lovers who are apart for reasons unknown. Iona – and the reader – have to make sense of their story, for the letters are undated and the facts of their lives are vague. The jigsaw slowly locks in to place and the final picture presents both tragedy and redemption. The excitement of rebellion, the finding of identity both personally and collectively are set against the horrors of Maoist China.

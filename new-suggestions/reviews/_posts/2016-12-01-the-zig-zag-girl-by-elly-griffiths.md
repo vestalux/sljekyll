@@ -9,6 +9,9 @@ featured-image: /images/featured/featured-zig-zag-girl.jpg
 featured-alt: The Zig Zag Girl
 featured-link-text: Read Bev Dann's review of <cite>The Zig Zag Girl</cite>, by Elly Griffiths.
 breadcrumb: staff-picks
+genre: crime-and-thriller
+genre-image: /images/featured/featured-zig-zag-girl-genre.jpg
+genre-alt: The Zig Zag Girl
 ---
 
 ![The Zig Zag Girl](/images/featured/featured-zig-zag-girl.jpg)

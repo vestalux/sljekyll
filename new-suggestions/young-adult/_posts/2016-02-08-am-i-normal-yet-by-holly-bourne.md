@@ -1,11 +1,14 @@
 ---
 layout: sidebar-right
-title: Am I normal yet? by Holly Bourne
+title: Am I Normal Yet? by Holly Bourne
 date: 2016-02-08 10:14:08+00:00
 author: matt-shenton
 category: young-adult
 excerpt: Literacy ambassador Matt Shenton reviews a YA novel addressing OCD.
 breadcrumb: young-adult
+genre: literary-fiction
+genre-image: /images/featured/featured-am-i-normal-yet-genre.jpg
+genre-alt: Am I Normal Yet?
 ---
 ![Am I normal yet? by Holly Bourne](/images/featured/featured-am-i-normal-yet.jpg)
 
@@ -17,4 +20,4 @@ The book soon blew away my own ignorance of OCD and made me think about other co
 
 By the end of the book and after rollercoaster ride involving first relationships, a revolving door of friends, parties, a terrible heavy metal band and a lot of fun you realise that there is no ‘yet’. Not for the main character of Evie, nor anyone else.
 
-[Order <cite>Am I normal yet?</cite> from our catalogue →](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6176020?QRY=CTIBIB%3C%20IRN(51020055)&QRYTEXT=Am%20I%20normal%20yet%3F)
+[Order <cite>Am I Normal Yet?</cite> from our catalogue →](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ/6176020?QRY=CTIBIB%3C%20IRN(51020055)&QRYTEXT=Am%20I%20normal%20yet%3F)

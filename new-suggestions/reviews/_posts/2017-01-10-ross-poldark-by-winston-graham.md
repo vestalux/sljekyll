@@ -9,6 +9,9 @@ featured-image: /images/featured/featured-ross-poldark-2.jpg
 featured-alt: Ross Poldark
 featured-link-text: "Read The Borrowers book group's review of <cite>Ross Poldark</cite>, by Winston Graham."
 breadcrumb: staff-picks
+genre: historical
+genre-image: /images/featured/featured-ross-poldark-genre.jpg
+genre-alt: Ross Poldark
 ---
 
 ![Ross Poldark](/images/featured/featured-ross-poldark-2.jpg)

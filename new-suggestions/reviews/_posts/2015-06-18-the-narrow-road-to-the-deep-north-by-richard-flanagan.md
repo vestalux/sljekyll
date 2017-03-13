@@ -1,17 +1,20 @@
 ---
 layout: sidebar-right
-title: The narrow road to the deep north by Richard Flanagan
+title: The Narrow Road to the Deep North by Richard Flanagan
 date: 2015-06-18 13:33:45+00:00
 author: helen-scrivener
 category: staff-picks
 excerpt: Woodbridge Library manager Helen Scrivener reviews the 2014 Man Booker Prize winner, <cite>The narrow road to the deep north</cite>.
 breadcrumb: staff-picks
+genre: historical
+genre-image: /images/featured/featured-the-narrow-road-to-the-deep-north-genre.jpg
+genre-alt: The Narrow Road to the Deep North
 ---
 ![The narrow road to the deep north by Richard Flanagan](/images/featured/featured-the-narrow-road-to-the-deep-north.jpg)
 
 This 2014 Man Booker Prize winner is set largely during the construction of the Burma death railway during the Second World War. It follows the trials of Australian POWs and in particular the surgeon and reluctant war hero Dorringo Evans.
 
-Although it is difficult to escape the realities of war in our media saturated times, <cite>The narrow road to the deep north</cite> compels us to look closer at the unimaginable suffering and dehumanisation. Like the Matsuo Basho haiku that influenced the title, it is also poetic and beautifully written, mesmerising the reader throughout. Equally impressive is the complexity of the characters and in particular Evans, who is as haunted by the intense love affair that precedes and frames the hell to come.
+Although it is difficult to escape the realities of war in our media saturated times, <cite>The Narrow Road to the Deep North</cite> compels us to look closer at the unimaginable suffering and dehumanisation. Like the Matsuo Basho haiku that influenced the title, it is also poetic and beautifully written, mesmerising the reader throughout. Equally impressive is the complexity of the characters and in particular Evans, who is as haunted by the intense love affair that precedes and frames the hell to come.
 
 Ultimately, like the sketchbook that narrowly survives the cholera funeral pyre, the novel highlights the importance of preserving a record beyond the memory of the survivors. This is further illuminated by the fact that the author’s father was a POW who worked on the railway and died shortly before the book was published.
 
