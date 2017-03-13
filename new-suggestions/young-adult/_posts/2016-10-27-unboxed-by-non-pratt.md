@@ -8,6 +8,7 @@ excerpt: Emily finds <cite>Unboxed</cite> delicate, honest and poignant.
 breadcrumb: young-adult
 genre: literary-fiction
 genre-image: /images/featured/featured-unboxed-genre.jpg
+genre-alt: Unboxed
 ---
 
 ![Unboxed](/images/featured/featured-unboxed.jpg)

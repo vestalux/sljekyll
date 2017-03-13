@@ -8,6 +8,7 @@ excerpt: Woodbridge Library manager Helen Scrivener reviews <cite>The Book of St
 breadcrumb: staff-picks
 genre: sci-fi
 genre-image: /images/featured/featured-the-book-of-strange-new-things-genre.jpg
+genre-alt: The Book of Strange New Things
 ---
 ![The book of strange new things by Michel Faber](/images/featured/featured-the-book-of-strange-new-things.jpg)
 

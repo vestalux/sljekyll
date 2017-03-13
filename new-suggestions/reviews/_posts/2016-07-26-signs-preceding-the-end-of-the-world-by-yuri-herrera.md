@@ -8,6 +8,7 @@ excerpt: Library and information advisor at Woodbridge, Richard Baker, reviews o
 breadcrumb: staff-picks
 genre: literary-fiction
 genre-image: /images/featured/featured-signs-preceding-the-end-of-the-world-genre.jpg
+genre-alt: Signs Preceding the End of the World
 ---
 
 ![Signs Preceding the End of the World by Yuri Herrera](/images/featured/featured-signs-preceding-the-end-of-the-world.jpg)

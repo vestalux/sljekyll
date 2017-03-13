@@ -11,6 +11,7 @@ featured-link-text: "Read library volunteer Emily's review of <cite>Life in a Fi
 breadcrumb: young-adult
 genre: literary-fiction
 genre-image: /images/featured/featured-life-in-a-fishbowl-genre.jpg
+genre-alt: Life in a Fishbowl
 ---
 
 ![Life in a Fishbowl](/images/featured/featured-life-in-a-fishbowl.jpg)

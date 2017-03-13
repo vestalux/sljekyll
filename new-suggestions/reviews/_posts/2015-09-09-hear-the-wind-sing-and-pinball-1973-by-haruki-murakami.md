@@ -8,6 +8,7 @@ excerpt: Literacy ambassador Matt Shenton reviews <cite>Hear the wind sing and P
 breadcrumb: staff-picks
 genre: literary-fiction
 genre-image: /images/featured/featured-hear-the-wind-sing-and-pinball-1973-genre.jpg
+genre-alt: Hear the wind sing and Pinball, 1973
 ---
 ![Hear the wind sing and Pinball, 1973 by Haruki Murakami](/images/featured/featured-hear-the-wind-sing-and-pinball-1973.jpg)
 

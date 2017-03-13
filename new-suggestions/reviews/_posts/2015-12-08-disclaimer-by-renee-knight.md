@@ -6,8 +6,9 @@ author: amanda-king
 category: staff-picks
 excerpt: Amanda King, manager of Bungay Library reviews this thriller.
 breadcrumb: staff-picks
-genre: crime
+genre: crime-and-thriller
 genre-image: /images/featured/featured-disclaimer-genre.jpg
+genre-alt: Disclaimer
 ---
 
 ![Disclaimer by Renee Knight](/images/featured/featured-disclaimer.jpg)

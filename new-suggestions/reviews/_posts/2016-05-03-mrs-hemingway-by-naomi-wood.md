@@ -8,6 +8,7 @@ excerpt: Woodbridge Library Manager Helen Scrivener reviews a book based on Erne
 breadcrumb: staff-picks
 genre: literary-fiction
 genre-image: /images/featured/featured-mrs-hemingway-genre.jpg
+genre-alt: Mrs Hemingway
 ---
 ![Mrs Hemingway by Naomi Wood](/images/featured/featured-mrs-hemingway.jpg)
 

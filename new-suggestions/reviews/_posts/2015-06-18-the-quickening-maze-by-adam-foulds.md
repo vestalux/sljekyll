@@ -8,6 +8,7 @@ excerpt: Woodbridge Library manager Helen Scrivener reviews <cite>The quickening
 breadcrumb: staff-picks
 genre: historical
 genre-image: /images/featured/featured-the-quickening-maze-genre.jpg
+genre-alt: The Quickening Maze
 ---
 ![The quickening maze by Adam Foulds](/images/featured/featured-the-quickening-maze.jpg)
 

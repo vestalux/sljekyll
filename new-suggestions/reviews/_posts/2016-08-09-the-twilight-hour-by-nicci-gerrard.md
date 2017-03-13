@@ -8,6 +8,7 @@ excerpt: Library and information advisor at Felixstowe, Gill Mason, reviews Nicc
 breadcrumb: staff-picks
 genre: literary-fiction
 genre-image: /images/featured/featured-the-twilight-hour-genre.jpg
+genre-alt: The Twilight Hour
 ---
 
 ![The Twilight Hour by Nicci Gerrard](/images/featured/featured-the-twilight-hour.jpg)

@@ -11,6 +11,7 @@ featured-link-text: "Read The Borrowers book group's review of <cite>The Garden 
 breadcrumb: staff-picks
 genre: historical
 genre-image: /images/featured/featured-garden-evening-mists-genre.jpg
+genre-alt: The Garden of Evening Mists
 ---
 
 ![The Garden of Evening Mists](/images/featured/featured-garden-evening-mists.jpg)

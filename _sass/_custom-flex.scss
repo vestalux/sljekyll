@@ -38,4 +38,21 @@
         flex: 1 0 auto;
     }
 
+    .custom-flex-row-4 {
+
+        -webkit-box-flex: 1;      /* OLD - iOS 6-, Safari 3.1-6 */
+        -moz-box-flex: 1;         /* OLD - Firefox 19- */
+        min-width: 11em;
+        width: 11em; /* Gives us thirds roughly, but I could be a bit more width agnostic here */
+        max-width: 11em;
+        -webkit-flex: 1;          /* Chrome */
+        -ms-flex: 1;              /* IE 10 */
+        flex: 1;
+        margin-bottom: 1rem;
+        -ms-flex-direction: row;
+        -webkit-flex-direction: row;
+        flex-direction: row;
+        flex: 1 0 auto;
+    }
+
 }

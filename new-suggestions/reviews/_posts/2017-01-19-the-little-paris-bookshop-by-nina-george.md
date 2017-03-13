@@ -11,6 +11,7 @@ featured-link-text: "Read The Borrowers book group's review of <cite>The Little 
 breadcrumb: staff-picks
 genre: literary-fiction
 genre-image: /images/featured/featured-little-paris-bookshop-genre.jpg
+genre-alt: The Little Paris Bookshop
 ---
 
 ![The Little Paris Bookshop](/images/featured/featured-little-paris-bookshop.jpg)

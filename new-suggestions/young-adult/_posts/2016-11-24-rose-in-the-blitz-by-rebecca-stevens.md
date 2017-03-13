@@ -8,6 +8,7 @@ excerpt: Emily finds <cite>Rose in the Blitz</cite> cleverly mixes past and pres
 breadcrumb: young-adult
 genre: historical
 genre-image: /images/featured/featured-rose-in-the-blitz-genre.jpg
+genre-alt: Rose in the Blitz
 ---
 
 ![Rose in the Blitz](/images/featured/featured-rose-in-the-blitz.jpg)

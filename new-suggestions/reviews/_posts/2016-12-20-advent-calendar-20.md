@@ -11,6 +11,7 @@ tag: advent
 breadcrumb: staff-picks
 genre: historical
 genre-image: /images/featured/featured-a-place-called-winter-genre.jpg
+genre-alt: A Place Called Winter
 ---
 
 Every day until Christmas Eve, a member of Suffolk Libraries staff will reveal a book, CD or DVD they will be giving as a Christmas present, and why. Today, library and information advisor Theo Clarke recommends <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1810899"><cite>A Place Called Winter</cite></a>, by Patrick Gale.

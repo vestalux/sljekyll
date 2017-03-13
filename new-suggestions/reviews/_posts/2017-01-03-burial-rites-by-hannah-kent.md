@@ -11,6 +11,7 @@ featured-link-text: "Read The Borrowers book group's review of <cite>Burial Rite
 breadcrumb: staff-picks
 genre: historical
 genre-image: /images/featured/featured-burial-rites-genre.jpg
+genre-alt: Burial Rites
 ---
 
 ![Burial Rites](/images/featured/featured-burial-rites.jpg)

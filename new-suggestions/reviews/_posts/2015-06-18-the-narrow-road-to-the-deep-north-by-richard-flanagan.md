@@ -8,6 +8,7 @@ excerpt: Woodbridge Library manager Helen Scrivener reviews the 2014 Man Booker 
 breadcrumb: staff-picks
 genre: historical
 genre-image: /images/featured/featured-the-narrow-road-to-the-deep-north-genre.jpg
+genre-alt: The Narrow Road to the Deep North
 ---
 ![The narrow road to the deep north by Richard Flanagan](/images/featured/featured-the-narrow-road-to-the-deep-north.jpg)
 

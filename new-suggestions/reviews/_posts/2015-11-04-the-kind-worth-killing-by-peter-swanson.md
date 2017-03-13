@@ -6,8 +6,9 @@ author: amanda-king
 category: staff-picks
 excerpt: Bungay Library manager Amanda King reviews a compelling thriller.
 breadcrumb: staff-picks
-genre: crime
+genre: crime-and-thriller
 genre-image: /images/featured/featured-the-kind-worth-killing-genre.jpg
+genre-alt: The Kind Worth Killing
 ---
 
 ![The kind worth killing by Peter Swanson](/images/featured/featured-the-kind-worth-killing.jpg)

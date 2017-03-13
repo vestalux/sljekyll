@@ -8,6 +8,7 @@ excerpt: Alexandra Carter from the Woodbridge Library Readers’ Circle reviews 
 breadcrumb: staff-picks
 genre: literary-fiction
 genre-image: /images/featured/featured-i-am-china-genre.jpg
+genre-alt: I am China
 ---
 
 ![I am China by Xiaolu Guo](/images/featured/featured-i-am-china.jpg)

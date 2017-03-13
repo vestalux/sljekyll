@@ -9,8 +9,9 @@ featured-image: /images/featured/featured-body-in-barcelona.jpg
 featured-alt: A Body in Barcelona
 tag: advent
 breadcrumb: staff-picks
-genre: crime
+genre: crime-and-thriller
 genre-image: /images/featured/featured-body-in-barcelona-genre.jpg
+genre-alt: A Body in Barcelona
 ---
 
 Every day until Christmas Eve, a member of Suffolk Libraries staff will reveal a book, CD or DVD they will be giving as a Christmas present, and why. Today, stock team member Jo Dixon recommends <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2006053"><cite>A Body in Barcelona</cite></a>, by Jason Webster.

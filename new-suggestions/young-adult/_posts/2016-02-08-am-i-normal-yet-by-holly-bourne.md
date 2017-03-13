@@ -8,6 +8,7 @@ excerpt: Literacy ambassador Matt Shenton reviews a YA novel addressing OCD.
 breadcrumb: young-adult
 genre: literary-fiction
 genre-image: /images/featured/featured-am-i-normal-yet-genre.jpg
+genre-alt: Am I Normal Yet?
 ---
 ![Am I normal yet? by Holly Bourne](/images/featured/featured-am-i-normal-yet.jpg)
 

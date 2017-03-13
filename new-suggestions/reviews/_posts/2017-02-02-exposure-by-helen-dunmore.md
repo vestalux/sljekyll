@@ -11,6 +11,7 @@ featured-link-text: "Read Chantry Journeys book group's review of <cite>Exposure
 breadcrumb: staff-picks
 genre: historical
 genre-image: /images/featured/featured-exposure-genre.jpg
+genre-alt: Exposure
 ---
 
 ![Exposure](/images/featured/featured-exposure.jpg)
