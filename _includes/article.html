@@ -43,11 +43,11 @@
             {% endif %}
 
 
-            {% if page.author and page.category == 'blog' %}
+            {% unless page.category == 'news' %}
 
               {% include post-bio.html %}
 
-            {% endif %}
+            {% endunless %}
 
             {% if page.category == 'literacy' %}
 
