@@ -5,6 +5,9 @@ date: 2015-12-30 10:06:57+00:00
 author: kate-ashton
 category: staff-picks
 excerpt: Haverhill Library assistant manager Kate Ashton reviews young adult novel, <cite>A monster calls</cite>.
+genre: sci-fi-and-fantasy
+genre-image: /images/featured/featured-a-monster-calls-genre.jpg
+genre-alt: A Monster Calls
 breadcrumb: staff-picks
 ---
 ![A monster calls by Patrick Ness](/images/featured/featured-a-monster-calls.jpg)

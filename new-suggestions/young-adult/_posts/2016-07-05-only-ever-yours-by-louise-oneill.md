@@ -6,6 +6,9 @@ author: matt-shenton
 category: young-adult
 excerpt: Literacy ambassador Matt Shenton reviews dystopian novel <cite>Only Ever Yours</cite>.
 breadcrumb: young-adult
+genre: sci-fi-and-fantasy
+genre-image: /images/featured/featured-only-ever-yours-genre.jpg
+genre-alt: Only Ever Yours
 ---
 ![Only Ever Yours by Louise O’Neill](/images/featured/featured-only-ever-yours.jpg)
 

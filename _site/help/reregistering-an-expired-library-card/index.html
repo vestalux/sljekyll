@@ -99,6 +99,183 @@
 
             <article>
 
+                <div class="bg-white pa2 pa5-ns pv4-ns cf mb2 border-box b--light-gray
+">
+
+                    
+
+    
+
+        <div class="pa2 bg-near-white ba b--light-gray mb3 mb4-ns">
+
+            <p class="ma0 pa0 f6 f5-ns custom-lh-copy"><a class="icon-home pv2 pv0-ns link blue" href="/">Home</a> &rarr; <a class="pv2 pv0-ns link blue" href="/help">Help using the service</a> &rarr; Re–registering an expired library card</p>
+
+        </div>
+
+    
+
+    
+
+
+                    <header>
+
+                        <h1 class="custom-lh-title f2 pa0 ma0 mb3
+}">Re–registering an expired library card</h1>
+
+                        
+
+                    </header>
+
+                    <div class="custom-lh-copy custom-hyphens custom-prose
+">
+
+                        <p>Your library card membership expires automatically after 3 years. This helps us keep your information up to date.</p>
+
+<p>You can continue to use our services when this happens, but confirming your details will help us provide a better service.</p>
+
+<p>Fields marked with a <span class="red">*</span> are required.</p>
+
+<form class="pure-form pure-form-stacked" netlify name="re-register-library-card" action="/help/reregistering-an-expired-library-card/confirmation" netlify-honeypot="bot-field">
+
+    <fieldset>
+
+        <label class="f5 pt2 mb2">Name <span class="red">*</span></label>
+        <input class="border-box w-100" type="text" required name="name">
+
+        <label class="f5 pt2 mb2">Title</label>
+        <select name="title">
+          <option value="miss">Miss</option>
+          <option value="mr">Mr</option>
+          <option value="mrs">Mrs</option>
+          <option value="ms">Ms</option>
+          <option value="other">Other</option>
+        </select>
+
+        <label class="f5 pt2 mb2">Please specify title if you selected 'other'</label>
+        <input type="text" name="other-title">
+
+        <h2>Library card number (with no spaces)</h2>
+
+        <label class="f5 pt2 mb2">This is the number across the middle of your library card beginning 20127 <span class="red">*</span></label>
+        <input class="border-box w-100" required type="text" name="number" minlength="14" maxlength="14">
+
+        <h2>Date of birth</h2>
+
+        <label class="f5 pt2 mb2">Day <span class="red">*</span></label>
+        <select required name="day">
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+          <option value="6">6</option>
+          <option value="7">7</option>
+          <option value="8">8</option>
+          <option value="9">9</option>
+          <option value="10">10</option>
+          <option value="11">11</option>
+          <option value="12">12</option>
+          <option value="13">13</option>
+          <option value="14">14</option>
+          <option value="15">15</option>
+          <option value="16">16</option>
+          <option value="17">17</option>
+          <option value="18">18</option>
+          <option value="19">19</option>
+          <option value="20">20</option>
+          <option value="21">21</option>
+          <option value="22">22</option>
+          <option value="23">23</option>
+          <option value="24">24</option>
+          <option value="25">25</option>
+          <option value="26">26</option>
+          <option value="27">27</option>
+          <option value="28">28</option>
+          <option value="29">29</option>
+          <option value="30">30</option>
+          <option value="31">31</option>
+        </select>
+
+        <label class="f5 pt2 mb2">Month <span class="red">*</span></label>
+        <select required name="month">
+          <option value="january">January</option>
+          <option value="february">February</option>
+          <option value="march">March</option>
+          <option value="april">April</option>
+          <option value="may">May</option>
+          <option value="june">June</option>
+          <option value="july">July</option>
+          <option value="august">August</option>
+          <option value="september">September</option>
+          <option value="october">October</option>
+          <option value="november">November</option>
+          <option value="december">December</option>
+        </select>
+
+        <label class="f5 pt2 mb2">Year (XXXX, e.g. 1945, 2004) <span class="red">*</span></label>
+        <input required type="text" name="year" maxlength="4">
+
+        <label class="f5 pt2 mb2">Email <span class="red">*</span></label>
+        <input class="border-box w-100" required type="email" name="email">
+
+        <label class="f5 pt2 mb2">Address you have registered with us <span class="red">*</span></label>
+        <textarea name="address" required class="border-box w-100"></textarea>
+
+        <label class="f5 pt2 mb2">Your current address (if different)</label>
+        <textarea name="new-address" class="border-box w-100"></textarea>
+
+        <label class="f5 pt2 mb2">Phone number</label>
+        <input type="tel" name="phone">
+
+        <label class="f5 pt2 mb2">Any further information</label>
+        <textarea name="further-info" class="border-box w-100"></textarea>
+
+        <label class="f5 pt2 mb2">Receive our monthly email newsletter? <input type="checkbox" name="newsletter" id="newsletter" value="yes"></label>
+
+        <p class="mt0 custom-lh-title"><small>We can send you a monthly email with our latest books, films, DVDs and music. We don't share your email with anyone else and you can unsubscribe at any time.</small></p>
+
+        <p class="dn"><input name="bot-field"></p>
+
+        <button type="submit" class="pure-button pure-button-primary">Submit</button>
+
+</form>
+
+<p>Alternatively, you can:</p>
+
+<ul>
+  <li>call customer service on <strong>01473 263838</strong></li>
+  <li>take your library card to any library in Suffolk</li>
+</ul>
+
+You won’t need to apply for a new library card to re–register.
+
+If you are new to Suffolk Libraries, you can <a href="https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/JOIN">apply for a new library card</a>.
+
+
+                    <footer>
+
+                        
+
+                        
+
+
+                        
+
+                        
+
+                        
+
+
+                    </footer>
+
+                    </div>
+
+                </div>
+
+            </article>
+=======
+            <article>
+
     <div class="bg-white pa2 pa5-ns pv4-ns cf mb2 border-box b--light-gray
 ">
 
@@ -274,6 +451,7 @@ If you are new to Suffolk Libraries, you can <a href="https://suffolk.spydus.co
 
 </article>
 
+>>>>>>> genre
 
         </div>
 
