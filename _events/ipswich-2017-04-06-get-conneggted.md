@@ -4,8 +4,8 @@ name: "Get conn-EGG-ted - free digital fun for ages 6+"
 location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2017-04-06
-event-start-time: 1030
-event-end-time: 1115
+event-start-time: 1430
+event-end-time: 1630
 event-ticket-price: free
 event-category: easter
 breadcrumb: y
