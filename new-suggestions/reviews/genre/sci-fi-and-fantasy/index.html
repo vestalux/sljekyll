@@ -5,13 +5,13 @@ breadcrumb: staff-picks
 hnav: genre
 ---
 
-<h1 class="{% include /c/page-title.html %} dib mb4-ns">Science fiction reviews</h1>
+<h1 class="{% include /c/page-title.html %} dib mb4-ns">Science fiction and fantasy reviews</h1>
 
 <div class="custom-flex-container">
 
-{% assign science_fiction_posts = (site.posts | where: "genre", "sci-fi" ) %}
+{% assign science_fiction_and_fantasy_posts = (site.posts | where: "genre", "sci-fi-and-fantasy" ) %}
 
-{% for post in science_fiction_posts limit:24 %}
+{% for post in science_fiction_and_fantasy_posts limit:24 %}
 
     <figure class="custom-flex-row-4 pv2 bt b--light-gray">
 

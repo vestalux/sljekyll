@@ -9,6 +9,9 @@ featured-image: /images/featured/featured-all-souls.jpg
 featured-alt: The All Souls trilogy
 featured-link-text: "Check out Andrea's review of the <cite>All Souls</cite> series"
 breadcrumb: staff-picks
+genre: sci-fi-and-fantasy
+genre-image: /images/featured/featured-a-discovery-of-witches-genre.jpg
+genre-alt: A Discovery of Witches
 ---
 
 ![The All Souls trilogy](/images/featured/featured-all-souls.jpg)
