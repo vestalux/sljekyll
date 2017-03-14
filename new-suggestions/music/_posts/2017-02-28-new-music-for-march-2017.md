@@ -25,11 +25,11 @@ An album of classic covers originally recorded by C&W luminaries like Glen Campb
 
 <cite>Semper Femina</cite> is Laura’s 6th studio album in a little over 9 years. It is a record that addresses questions of how society views sexuality and gender but without seeking to provide definitive answers. <cite>Semper Femina</cite> is a typically mature and raw listen by one of our most talented and prolific young musicians.
 
-## Ed Sheeran - [<cite>Divide</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2140891)
+## [Ed Sheeran - <cite>Divide</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2140891)
 
 Latest CD from Framlingham’s finest. Songs from the album have already topped the singles chart. <cite>Shape Of You</cite> and <cite>Castle on the Hill</cite>, the 2 singles released so far, have received over 1 billion combined streams on Spotify.
 
-## [Frances - Things I've Never Said](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1929877)
+## [Frances - <cite>Things I've Never Said</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1929877)
 
 This one has hit album written all over it. <cite>Things I've Never Said</cite> finds Frances working alongside collaborators such as Greg Kurstin (Adele), Jimmy Napes (Sam Smith, Alicia Keys) and Howard Lawrence (Disclosure). Frances was nominated for the Brits Critics' Choice Award in 2016 and her music has been streamed over 30 million times.
 
