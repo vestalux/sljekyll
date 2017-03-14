@@ -1,6 +1,6 @@
 ---
 id: slaughter-paul-harrison
-name: "Paul Harrison: <cite>Revenge of the Malakim</cite>"
+name: "Meet the Author: Paul Harrison"
 location: southwold-library
 location-text: Southwold Library
 event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, Southwold, IP18 6JP"
@@ -8,16 +8,18 @@ event-start-date: 2017-06-17
 event-start-time: 1000
 event-ticket-price: 5 for individual events, £15 for the day, £30 for the weekend
 event-ticket-url: https://www.ticketsource.co.uk/event/EKIMJF
-event-category: slaughter
+event-category: slaughter-author
 hnav: slaughter
 breadcrumb: y
 ---
 
 **A retired police officer with a career that spanned over three decades, Paul Harrison was an undercover football hooligan and one of the first British officers to work with the FBI psychological serial killer profiling unit in Quantico, Virginia.**
 
+<img src="/images/featured/featured-paul-harrison.jpg" alt="Paul Harrison" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
+
 On retiring from the police, Paul worked for a High Court Judge at the Royal Courts of Justice (London). He is now the bestselling author of 35 non-fiction books but has now written a crime fiction trilogy beginning with <cite>Revenge of the Malakim</cite>.
 
-<img src="/images/featured/featured-paul-harrison-73.jpg" alt="Paul Harrison" class="custom-br-50 {% include /c/img-float-right.html %}" />
+<img src="/images/featured/featured-paul-harrison.jpg" alt="Paul Harrison" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
 
 As a media crime and police consultant and through working with authors, he is behind the creation of many well-known television detectives.
 
