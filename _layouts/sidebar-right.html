@@ -14,79 +14,7 @@
 
         <div class="custom-g-l4">
 
-            <article>
-
-                <div class="{% include /c/content-box.html %}">
-
-                    {% include breadcrumb.html %}
-
-                    <header>
-
-                        <h1 {% if page.category %}itemprop="name headline"{% endif %}class="{% include /c/page-title.html %}}">{{ page.title }}</h1>
-
-                        {% if page.category %}
-
-                            {% include post-meta.html %}
-
-                        {% endif %}
-
-                    </header>
-
-                    <div {% if page.category %}itemprop="articleBody"{% endif %}class="{% include /c/prose.html %}">
-
-                        {{ content }}
-
-                    <footer>
-
-                        {% if page.tag == 'advent' %}
-
-                            <div class="{% include /c/generic-panel.html %}">
-
-                                <p class="ma0 custom-icon-xmas-24">This is one of our advent calendar suggestions for 2016. <a href="/new-suggestions/staff-picks/advent-calendar-2016/">See the whole calendar &rarr;</a><p>
-
-                            </div>
-
-                        {% endif %}
-
-                        {% if page.tag == 'childrens-advent' %}
-
-                            <div class="{% include /c/generic-panel.html %}">
-
-                                <p class="ma0 custom-icon-xmas-24">This is one of our children's books advent calendar suggestions for 2016. <a href="/parents-carers-and-children/childrens-ya-books/childrens-advent-calendar-2016/">See the whole calendar &rarr;</a><p>
-
-                            </div>
-
-                        {% endif %}
-
-
-                        {% if page.author  %}
-
-                            {% unless page.category == 'news' %}
-
-                                {% include post-bio.html %}
-
-                            {% endunless %}
-
-                        {% endif %}
-
-                        {% if page.category == 'literacy' %}
-
-                            {% include tag-listing.html %}
-
-                        {% endif %}
-
-                        {% include comments.html %}
-
-                    </footer>
-
-                    </div>
-
-                </div>
-
-            </article>
-=======
             {% include article.html %}
->>>>>>> genre
 
         </div>
 
