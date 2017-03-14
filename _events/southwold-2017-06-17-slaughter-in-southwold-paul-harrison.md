@@ -19,8 +19,6 @@ breadcrumb: y
 
 On retiring from the police, Paul worked for a High Court Judge at the Royal Courts of Justice (London). He is now the bestselling author of 35 non-fiction books but has now written a crime fiction trilogy beginning with <cite>Revenge of the Malakim</cite>.
 
-<img src="/images/featured/featured-paul-harrison.jpg" alt="Paul Harrison" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
-
 As a media crime and police consultant and through working with authors, he is behind the creation of many well-known television detectives.
 
 A book signing will follow this event, with books for sale courtesy of Beccles Books.

@@ -15,3 +15,5 @@ breadcrumb: y
 Get together a team of 4 and take part in our fun quiz, with rounds on crime from TV, films and books.
 
 Teams of 4. There will be a bar, but bring your own snacks. There will also be a raffle.
+
+We recommend booking in advance. Tickets are available from the library or on [01502 722519](tel: 01502722519).

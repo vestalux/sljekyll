@@ -1,6 +1,6 @@
 ---
 id: slaughter-lunch-1
-name: "Lunch can be murder with Rosie's Home Cooking"
+name: "Lunch can be murder, with Rosie's Home Cooking"
 location: southwold-library
 location-text: Southwold Library
 event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, Southwold, IP18 6JP"
