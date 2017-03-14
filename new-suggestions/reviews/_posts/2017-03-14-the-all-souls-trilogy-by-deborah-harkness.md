@@ -15,7 +15,7 @@ breadcrumb: staff-picks
 
 The descriptive and atmospheric <cite>All Souls</cite> trilogy is set around the Bodleian Library in Oxford and features its staff and members. Its author, Deborah Harkness, is a historian who published several non-fiction books before turning to fiction. These books held me spellbound.
 
-## [<cite>A Discovery of Witches](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=425041)
+## [<cite>A Discovery of Witches</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=425041)
 
 When I first received this book as a Mother's Day present from my daughter, my initial thought was 'oh, witches in pointy black hats with warts on their noses'. I was pleasantly surprised, as the books could not be further from this traditional image.
 
