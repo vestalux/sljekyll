@@ -6,7 +6,7 @@ author: helen-scrivener
 category: staff-picks
 excerpt: Woodbridge Library Manager Helen Scrivener reviews a book based on Ernest Hemingway's marriages.
 breadcrumb: staff-picks
-genre: literary-fiction
+genre: historical
 genre-image: /images/featured/featured-mrs-hemingway-genre.jpg
 genre-alt: Mrs Hemingway
 ---

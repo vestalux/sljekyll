@@ -9,6 +9,9 @@ featured-image: /images/featured/featured-blame.jpg
 featured-alt: Blame
 featured-link-text: "Read Kate Ashton's review of <cite>Blame</cite>, by Simon Mayo."
 breadcrumb: young-adult
+genre: sci-fi-and-fantasy
+genre-image: /images/featured/featured-blame-genre.jpg
+genre-alt: Blame
 ---
 
 ![Blame](/images/featured/featured-blame.jpg)
