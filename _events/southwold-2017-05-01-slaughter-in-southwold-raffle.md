@@ -9,6 +9,7 @@ event-ticket-price: 1 per strip
 event-category: slaughter-food-fun
 hnav: slaughter
 breadcrumb: y
+event-image: /featured/featured-raffle-tickets.jpg
 ---
 
 Buy a strip of raffle tickets for £1 from the library or during the [Slaughter in Southwold weekend](/slaughter/) for the chance to win a luxury crime themed hamper.

@@ -11,6 +11,7 @@ event-ticket-url: https://www.ticketsource.co.uk/event/EKIMJJ
 event-category: slaughter-author
 hnav: slaughter
 breadcrumb: y
+event-image: /featured/featured-guy-fraser-sampson.jpg
 ---
 
 **Guy Fraser-Sampson is an established writer, having published not only fiction but also books on a diverse range of subjects including finance, investment, economics and cricket. His darkly disturbing <cite>The Mess We're In</cite> was nominated for the Orwell Prize.**

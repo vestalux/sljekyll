@@ -94,5 +94,7 @@
 /events/ /events-activities
 /activities/ /events-activities
 /new-suggestions/health-lists/* /health/lists/:splat
+/slaughter/ /events-activities/slaughter-in-southwold/
+/slaughter-in-southwold/ /events-activities/slaughter-in-southwold/
 
 /*   /404/index.html   404

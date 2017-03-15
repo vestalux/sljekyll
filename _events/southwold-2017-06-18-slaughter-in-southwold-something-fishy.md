@@ -11,6 +11,7 @@ event-ticket-price: 10 (with fish) £7 (meet/veggie)
 event-category: slaughter-food-fun
 hnav: slaughter
 breadcrumb: y
+event-image: /featured/featured-something-fishy.jpg
 ---
 
 Have lunch, cake and hot drinks with the authors visiting for [Slaughter in Southwold](/slaughter). Choose from:
@@ -23,4 +24,4 @@ Have lunch, cake and hot drinks with the authors visiting for [Slaughter in Sout
 
 With a slice of cake & a hot drink for dessert.
 
-Tickets are available from the library or on [01502 722519](tel: 01502722519). Please book by 3 June with choice stated.
+This event is not included in Slaughter in Southwold day or weekend passes. Tickets are available from the library or on [01502 722519](tel: 01502722519). Please book by 3 June with choice stated.

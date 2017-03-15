@@ -11,6 +11,7 @@ event-ticket-url: https://www.ticketsource.co.uk/event/EKIMJI
 event-category: slaughter-author
 hnav: slaughter
 breadcrumb: y
+event-image: /featured/featured-m-j-arlidge.jpg
 ---
 
 **M. J. Arlidge has worked in television for the last 15 years, specialising in high-end drama production, including the prime-time crime serials <cite>Torn</cite>, <cite>The Little House</cite> and <cite>Silent Witness</cite>. Arlidge is also piloting original crime series for both UK and US networks. In 2015 his audio exclusive <cite>Six Degrees of Assassination</cite> was a number one bestseller.**

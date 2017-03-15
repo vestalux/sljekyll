@@ -11,6 +11,7 @@ event-ticket-url: https://www.ticketsource.co.uk/event/EKIMJG
 event-category: slaughter-author
 hnav: slaughter
 breadcrumb: y
+event-image: /featured/featured-harry-brett.jpg
 ---
 
 **Harry Brett is a pseudonym for Henry Sutton, who is the author of nine previous novels including <cite>My Criminal World</cite> and <cite>Get Me Out of Here</cite> He also co-authored the DS Jack Frost Novel, <cite>First Frost</cite>, under the pseudonym James Henry.**

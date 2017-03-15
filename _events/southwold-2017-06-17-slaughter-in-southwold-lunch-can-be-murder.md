@@ -11,6 +11,7 @@ event-ticket-price: 10
 event-category: slaughter-food-fun
 hnav: slaughter
 breadcrumb: y
+event-image: /featured/featured-rosies-home-cooking.jpg
 ---
 
 Have lunch, cake and hot drinks with authors visiting for [Slaughter in Southwold](/slaughter). Choose from:
@@ -25,4 +26,4 @@ Have lunch, cake and hot drinks with authors visiting for [Slaughter in Southwol
 
 All with a roll and butter and a choice of cake for dessert.
 
-Tickets are available from the library or on [01502 722519](tel: 01502722519). Please book by 3 June with choice stated.
+This event is not included in Slaughter in Southwold day or weekend passes. Tickets are available from the library or on [01502 722519](tel: 01502722519). Please book by 3 June with choice stated.

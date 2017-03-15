@@ -11,6 +11,7 @@ event-ticket-url: https://www.ticketsource.co.uk/event/EKIMJF
 event-category: slaughter-author
 hnav: slaughter
 breadcrumb: y
+event-image: /featured/featured-paul-harrison.jpg
 ---
 
 **A retired police officer with a career that spanned over three decades, Paul Harrison was an undercover football hooligan and one of the first British officers to work with the FBI psychological serial killer profiling unit in Quantico, Virginia.**

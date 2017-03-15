@@ -11,6 +11,7 @@ event-ticket-url: https://www.ticketsource.co.uk/event/EKIMJL
 event-category: slaughter-author
 hnav: slaughter
 breadcrumb: y
+event-image: /featured/featured-ruth-dugdall.jpg
 ---
 
 **Ruth Dugdall worked as a probation officer in Suffolk for almost a decade. Ruth's writing is heavily influenced by her professional background, providing authenticity and credibility to the crime genre.**

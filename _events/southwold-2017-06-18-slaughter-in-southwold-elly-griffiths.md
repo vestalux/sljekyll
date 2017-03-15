@@ -11,6 +11,7 @@ event-ticket-url: https://www.ticketsource.co.uk/event/EKIMKF
 event-category: slaughter-author
 hnav: slaughter
 breadcrumb: y
+event-image: /featured/featured-elly-griffiths-square.jpg
 ---
 
 **Elly Griffiths is the author of the bestselling <cite>Dr Ruth Galloway</cite> mysteries and the <cite>Stephens and Mephisto</cite> books. Elly's books have been shortlisted for the Theakston Old Peculier Crime Novel of the Year three times. In 2016, she was awards the CWA Dagger in the Library for her body of work.**

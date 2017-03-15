@@ -11,6 +11,7 @@ event-ticket-url: https://www.ticketsource.co.uk/event/EKIMKJ
 event-category: slaughter-author
 hnav: slaughter
 breadcrumb: y
+event-image: /featured/featured-isabelle-grey.jpg
 ---
 
 **Isabelle Grey is a former journalist who has also written non-ficiton, radio drama, film and many hours of prime-time television. She has published two novels of psychological suspence, one of which, the Amazon number one bestseller <cite>The Bad Mother</cite>, is set in a fictional town bearing an uncanny resemblance to Southwold.**

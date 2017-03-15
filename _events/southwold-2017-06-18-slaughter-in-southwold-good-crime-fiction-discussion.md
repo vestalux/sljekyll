@@ -11,6 +11,7 @@ event-ticket-url: https://www.ticketsource.co.uk/event/EKIMJM
 event-category: slaughter-author
 hnav: slaughter
 breadcrumb: y
+event-image: /featured/featured-nightingale-and-sutherland.jpg
 ---
 
 **Many critics draw a distinction between genre and so called 'literary' fiction and discount popular taste. John Nightingale and John Sutherland will discuss whether crime fiction deserves to be taken more seriously and challenge the audience to a crime quiz.**
