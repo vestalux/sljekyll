@@ -3,7 +3,7 @@ id: sudbury-storytelling
 name: "Storytime: professional storytelling and activities for children aged 8 and under"
 location: sudbury-library
 location-text: Sudbury Library
-event-start-date: 2017-03-15
+event-start-date: 2017-04-03
 event-start-time: 1100
 event-end-time: 1200
 event-ticket-price: 1
