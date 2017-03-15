@@ -6,13 +6,13 @@ author: alice-violett
 category: articles
 excerpt: "To mark International Women's Day, we've compiled a list of the most-borrowed books by female authors for children, young adults and adults in our libraries from the past month."
 featured-image: /images/featured/featured-iwd-2017.jpg
-featured-alt: ""
+featured-alt: "Tabby McTat, The Lie Tree, Cartes Postales from Greece"
 breadcrumb: articles
 featured-excerpt: "To mark International Women's Day, we've compiled a list of the most-borrowed books by female authors for children, young adults and adults in our libraries from the past month."
 featured-link-text: See Suffolk Libraries' most popular titles written by women over the past month
 ---
 
-![](/images/featured/featured-iwd-2017.jpg)
+![Tabby McTat, The Lie Tree, Cartes Postales from Greece](/images/featured/featured-iwd-2017.jpg)
 
 To mark International Women's Day, we've compiled a list of the most-borrowed books by female authors for children, young adults and adults in our libraries from the past month.
 

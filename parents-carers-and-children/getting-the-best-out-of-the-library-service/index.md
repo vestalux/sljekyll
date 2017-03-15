@@ -41,6 +41,7 @@ Your child will often want to borrow the same book several times. Choosing their
 * [Bookstart](http://www.bookstart.org.uk/), who specialise in young children's reading journey
 * Featured books for babies and toddlers from [Lovereading4kids](http://www.lovereading4kids.co.uk/genre/tod/Baby-and-Toddler.html)
 * Advice from [Ladybird books](http://issuu.com/ladybirdpuffinpenguin/docs/milestones_guide_2012) on getting your child reading before they start school
+* [DKfindout!](http://www.dkfindout.com/uk/) supplements <cite>DKfindout!</cite> educational titles. Great for homework or finding out more about a particular subject.
 
 ## Primary school children
 
