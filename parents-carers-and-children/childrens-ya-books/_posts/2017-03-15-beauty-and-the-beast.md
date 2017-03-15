@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: "Great titles to complement the new live-action <cite>Beauty and the Beast film</cite>"
+title: "Great children's titles to complement the new live-action <cite>Beauty and the Beast film</cite>"
 date: 2017-03-15
 author: jo-dixon
 category: articles
