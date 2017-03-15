@@ -8,7 +8,7 @@ event-start-date: 2017-04-28
 event-doors-open: 1830
 event-start-time: 1900
 event-ticket-price: 7.50
-event-image-small: featured/featured-presents-the-artists-garden.jpg
+event-image-small: featured/featured-the-artists-garden.jpg
 event-category: presents
 breadcrumb: y
 ---
