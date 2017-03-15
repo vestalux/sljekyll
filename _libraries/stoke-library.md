@@ -1,7 +1,7 @@
 ---
 branch-unique-id: stoke-library
 branch-name: Stoke Library
-branch-image: /images/branches/stoke-library.jpg
+branch-image: /images/branches/stoke-library-2.jpg
 branch-monday-hours: Closed
 branch-tuesday-hours:	0930 – 1230, 1400 – 1700
 branch-wednesday-hours: 1400 – 1700
