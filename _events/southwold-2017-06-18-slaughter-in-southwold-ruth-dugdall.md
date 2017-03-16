@@ -7,11 +7,13 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2017-06-18
 event-start-time: 1000
 event-ticket-price: 5 for individual events, £15 for the day, £30 for the weekend
+event-ticket-price-page: 5
 event-ticket-url: https://www.ticketsource.co.uk/event/EKIMJL
 event-category: slaughter-author
 hnav: slaughter
 breadcrumb: y
-event-image: /featured/featured-ruth-dugdall.jpg
+event-image: /images/featured/featured-ruth-dugdall.jpg
+event-image-alt: Ruth Dugdall
 ---
 
 **Ruth Dugdall worked as a probation officer in Suffolk for almost a decade. Ruth's writing is heavily influenced by her professional background, providing authenticity and credibility to the crime genre.**

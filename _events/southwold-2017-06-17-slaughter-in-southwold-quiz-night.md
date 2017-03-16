@@ -10,7 +10,8 @@ event-ticket-price: 3 per person
 event-category: slaughter-food-fun
 hnav: slaughter
 breadcrumb: y
-event-image: featured/featured-magnifying-glass.jpg
+event-image: /images/featured/featured-magnifying-glass.jpg
+event-image-alt: A magnifying glass
 ---
 
 Get together a team of 4 and take part in our fun quiz, with rounds on crime from TV, films and books.

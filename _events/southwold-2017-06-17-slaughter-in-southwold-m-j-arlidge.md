@@ -7,11 +7,13 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2017-06-17
 event-start-time: 1400
 event-ticket-price: 5 for individual events, £15 for the day, £30 for the weekend
+event-ticket-price-page: 5
 event-ticket-url: https://www.ticketsource.co.uk/event/EKIMJI
 event-category: slaughter-author
 hnav: slaughter
 breadcrumb: y
-event-image: /featured/featured-m-j-arlidge.jpg
+event-image: /images/featured/featured-m-j-arlidge.jpg
+event-image-alt: "M. J. Arlidge"
 ---
 
 **M. J. Arlidge has worked in television for the last 15 years, specialising in high-end drama production, including the prime-time crime serials <cite>Torn</cite>, <cite>The Little House</cite> and <cite>Silent Witness</cite>. Arlidge is also piloting original crime series for both UK and US networks. In 2015 his audio exclusive <cite>Six Degrees of Assassination</cite> was a number one bestseller.**

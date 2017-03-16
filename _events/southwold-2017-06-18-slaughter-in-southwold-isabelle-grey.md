@@ -7,11 +7,13 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2017-06-18
 event-start-time: 1530
 event-ticket-price: 5 for individual events, £15 for the day, £30 for the weekend
+event-ticket-price-page: 5
 event-ticket-url: https://www.ticketsource.co.uk/event/EKIMKJ
 event-category: slaughter-author
 hnav: slaughter
 breadcrumb: y
-event-image: /featured/featured-isabelle-grey.jpg
+event-image: /images/featured/featured-isabelle-grey.jpg
+event-image-alt: Isabelle Grey
 ---
 
 **Isabelle Grey is a former journalist who has also written non-ficiton, radio drama, film and many hours of prime-time television. She has published two novels of psychological suspence, one of which, the Amazon number one bestseller <cite>The Bad Mother</cite>, is set in a fictional town bearing an uncanny resemblance to Southwold.**

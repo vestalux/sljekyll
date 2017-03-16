@@ -7,11 +7,13 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2017-06-17
 event-start-time: 1000
 event-ticket-price: 5 for individual events, £15 for the day, £30 for the weekend
+event-ticket-price-page: 5
 event-ticket-url: https://www.ticketsource.co.uk/event/EKIMJF
 event-category: slaughter-author
 hnav: slaughter
 breadcrumb: y
-event-image: /featured/featured-paul-harrison.jpg
+event-image: /images/featured/featured-paul-harrison.jpg
+event-image-alt: Paul Harrison
 ---
 
 **A retired police officer with a career that spanned over three decades, Paul Harrison was an undercover football hooligan and one of the first British officers to work with the FBI psychological serial killer profiling unit in Quantico, Virginia.**

@@ -11,7 +11,8 @@ event-ticket-price: 10 (with fish) £7 (meet/veggie)
 event-category: slaughter-food-fun
 hnav: slaughter
 breadcrumb: y
-event-image: /featured/featured-something-fishy.jpg
+event-image: /images/featured/featured-something-fishy.jpg
+event-image-alt: Fishes
 ---
 
 Have lunch, cake and hot drinks with the authors visiting for [Slaughter in Southwold](/slaughter). Choose from:

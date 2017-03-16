@@ -9,7 +9,8 @@ event-ticket-price: 1 per sheet
 event-category: slaughter-food-fun
 hnav: slaughter
 breadcrumb: y
-event-image: /featured/featured-handcuffs.jpg
+event-image: /images/featured/featured-handcuffs.jpg
+event-image-alt: A pair of handcuffs
 ---
 
 Pick up our crime puzzle sheet for £1 from the library or during the [Slaughter in Southwold weekend](/slaughter/) for the chance to win a £10 book token.

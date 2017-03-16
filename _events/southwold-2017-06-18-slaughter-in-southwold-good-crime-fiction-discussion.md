@@ -7,11 +7,13 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2017-06-18
 event-start-time: 1130
 event-ticket-price: 5 for individual events, £15 for the day, £30 for the weekend
+event-ticket-price-page: 5
 event-ticket-url: https://www.ticketsource.co.uk/event/EKIMJM
 event-category: slaughter-author
 hnav: slaughter
 breadcrumb: y
-event-image: /featured/featured-nightingale-and-sutherland.jpg
+event-image: /images/featured/featured-nightingale-and-sutherland.jpg
+event-image-alt: John Nightingale and John Sutherland
 ---
 
 **Many critics draw a distinction between genre and so called 'literary' fiction and discount popular taste. John Nightingale and John Sutherland will discuss whether crime fiction deserves to be taken more seriously and challenge the audience to a crime quiz.**

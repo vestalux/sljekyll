@@ -11,7 +11,8 @@ event-ticket-price: 10
 event-category: slaughter-food-fun
 hnav: slaughter
 breadcrumb: y
-event-image: /featured/featured-rosies-home-cooking.jpg
+event-image: /images/featured/featured-rosies-home-cooking.jpg
+event-image-alt: Rosie's Home Cooking
 ---
 
 Have lunch, cake and hot drinks with authors visiting for [Slaughter in Southwold](/slaughter). Choose from:

@@ -7,11 +7,13 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2017-06-18
 event-start-time: 1400
 event-ticket-price: 5 for individual events, £15 for the day, £30 for the weekend
+event-ticket-price-page: 5
 event-ticket-url: https://www.ticketsource.co.uk/event/EKIMKF
 event-category: slaughter-author
 hnav: slaughter
 breadcrumb: y
-event-image: /featured/featured-elly-griffiths-square.jpg
+event-image: /images/featured/featured-elly-griffiths-square.jpg
+event-image-alt: Elly Griffiths
 ---
 
 **Elly Griffiths is the author of the bestselling <cite>Dr Ruth Galloway</cite> mysteries and the <cite>Stephens and Mephisto</cite> books. Elly's books have been shortlisted for the Theakston Old Peculier Crime Novel of the Year three times. In 2016, she was awards the CWA Dagger in the Library for her body of work.**

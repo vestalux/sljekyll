@@ -8,10 +8,12 @@ event-start-date: 2017-06-17
 event-start-time: 1130
 event-ticket-price: 5 for individual events, £15 for the day, £30 for the weekend
 event-ticket-url: https://www.ticketsource.co.uk/event/EKIMJG
+event-ticket-price-page: 5
 event-category: slaughter-author
 hnav: slaughter
 breadcrumb: y
-event-image: /featured/featured-harry-brett.jpg
+event-image: /images/featured/featured-harry-brett.jpg
+event-image-alt: Harry Brett
 ---
 
 **Harry Brett is a pseudonym for Henry Sutton, who is the author of nine previous novels including <cite>My Criminal World</cite> and <cite>Get Me Out of Here</cite> He also co-authored the DS Jack Frost Novel, <cite>First Frost</cite>, under the pseudonym James Henry.**
