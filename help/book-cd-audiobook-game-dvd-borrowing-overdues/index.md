@@ -3,6 +3,13 @@ layout: full-width
 title: Book, CD, audiobook, game and DVD borrowing periods and overdue charges
 breadcrumb: help
 ---
+
+<div class="{% include /c/generic-panel.html %}">
+
+    <p class="ma0">Note: We don't charge a fee for reserving a title, unless we need to get it from another library service.</p>
+
+</div>
+
 <table class="pure-table pure-table-bordered">
   <thead>
     <th>
