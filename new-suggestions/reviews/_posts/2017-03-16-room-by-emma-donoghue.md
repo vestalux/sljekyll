@@ -10,7 +10,7 @@ featured-alt: Room
 featured-link-text: "Check out Andrea's review of <cite>Room</cite>"
 breadcrumb: staff-picks
 genre: literary-fiction
-genre-image: /images/featured/room-genre.jpg
+genre-image: /images/featured/featured-room-genre.jpg
 ---
 
 ![Room](/images/featured/featured-room-book.jpg)
