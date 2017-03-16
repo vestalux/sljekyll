@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Storytime: stories and rhymes for pre-school children"
+recurrent-title: "Storytime: stories and rhymes for babies and toddlers"
 recurrent-day: Monday
 recurrent-times: 1415-1445
 recurrent-location: needham-market-library

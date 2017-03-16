@@ -7,7 +7,7 @@ category: articles
 excerpt: "The live action version of <cite>Beauty and the Beast</cite>, starring Emma Watson and Dan Stevens, is showing in cinemas from Friday 17 March. To mark the occasion, we've picked up some top <cite>Beauty and the Beast</cite>-related titles."
 featured-image: /images/featured/featured-beauty-and-the-beast-titles.jpg
 featured-alt: "Beauty and the Beast titles"
-breadcrumb: articles
+breadcrumb: childrens-ya-books
 featured-excerpt: "The live action version of <cite>Beauty and the Beast</cite>, starring Emma Watson and Dan Stevens, is showing in cinemas from Friday 17 March. To mark the occasion, we've picked out some top <cite>Beauty and the Beast</cite>-related titles."
 featured-link-text: "See our <cite>Beauty and the Beast</cite>-related titles"
 ---
