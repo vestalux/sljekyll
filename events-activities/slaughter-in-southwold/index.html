@@ -6,65 +6,91 @@ breadcrumb: events
 
 <h1 class="{% include /c/page-title.html %} tc">Slaughter in Southwold</h1>
 
-<p>The Friends of Southwold Library and the Crime Writers' Association present the third annual Slaughter in Southwold crime writers' festival at Southwold Arts Centre on Saturday 17 and Sunday 18 June.</p>
+<p class="tc b f4">Saturday 17 and Sunday 18 June 2017</p>
 
-<p>You can buy tickets to individual events or our great value <a href="https://www.ticketsource.co.uk/event/EKIMIM">Saturday passes</a> and <a href="https://www.ticketsource.co.uk/event/EKIMJE">Sunday passes</a> and <a href="https://www.ticketsource.co.uk/event/EKIMII">weekend passes</a> Tickets and passes are also available at <a href="/libraries/southwold-library/">Southwold Library</a> or on <a href="tel:01502722519">01502 722519</a>.</p>
+      <div class="cf">
 
-<p>For further information please email <strong>charlotte.clark@suffolklibraries.co.uk</strong></p>
+          <div class="custom-g-l3">
 
-<h2>Saturday, 17 June</h2>
+              <p class="ma0 mb2">Join us for author talks, food and a quiz at the fifth annual Slaughter in Southwold crime writers' festival.</p>
 
-<div class="custom-flex-container">
+              <p class="ma0 mb2">You can also win prizes in the <a class="blue" href="/events/southwold-2017-05-01-slaughter-in-southwold-raffle/">Slaughter in Southwold raffle</a> and by solving the <a class="blue" href="/events/southwold-2017-05-01-slaughter-in-southwold-whodunnit/">Slaughter in Southwold 'Whodunnit' puzzle sheet.</a></p>
 
-{% assign slaughter_author_events = (site.events | where: "event-category", "slaughter-author" | where: "event-start-date", "2017-06-17" | sort: "event-start-time" ) %}
+          </div>
 
-{% for event in slaughter_author_events %}
+          <div class="custom-g-l3 custom-g-nm">
 
-    <article class="custom-flex-row pb2">
+              <div class="{% include /c/generic-panel.html %}">
+
+                <p class="ma0 mb2">Buy tickets for individual events or take advantage of our great value <a class="blue" href="https://www.ticketsource.co.uk/event/EKIMIM">Saturday passes</a>, <a class="blue" href="https://www.ticketsource.co.uk/event/EKIMJE">Sunday passes</a> and <a class="blue" href="https://www.ticketsource.co.uk/event/EKIMII">weekend passes</a>.</p>
+
+                <p class ="ma0 mb2">Tickets and passes are also available at <a class="blue" href="/libraries/southwold-library/">Southwold Library</a> or on <a class="blue" href="tel:01502722519">01502 722519</a>.</p>
+
+              </div>
+
+          </div>
+
+      </div>
+
+<h2 class="mb3">Saturday 17 June</h2>
+
+<div class="cf">
+
+{% assign slaughter_events = (site.events | where: "event-category", "slaughter" | where: "event-start-date", "2017-06-17" | sort: "event-start-time" ) %}
+
+{% for event in slaughter_events %}
+
+    <article class="fl-ns mb3 w-50-ns ph3 border-box pb2">
 
         <div class="cf">
 
           <div class="custom-g-l2">
 
-            <a class="white" href="{{ event.url }}"><img class="custom-br-50" src="{{ event.event-image }}" alt="{{ event.event-image-alt }}"></a>
+            <a class="white custom-no-underline" href="{{ event.url }}"><img class="custom-br-50" src="{{ event.event-image }}" alt="{{ event.event-image-alt }}"></a>
 
           </div>
 
           <div class="custom-g-l4 custom-g-nm">
 
-            <p class="f5 ma0 pa0"><a href="{{ event.url }}" class="blue">{{ event.name }}</a>, {{ event.event-start-date | date: "%a %-d %b" }}, {{ event.event-start-time }}, £{{ event.event-ticket-price-page }}</p>
+            <p class="f5 ma0 pa0"><a class="blue" href="{{ event.url }}" class="blue">{{ event.name }}</a><br>{{ event.event-start-date | date: "%a %-d %b" }}, {{ event.event-start-time }}, £{{ event.event-ticket-price-page }}</p>
 
           </div>
 
-        </div>
-
     </article>
 
 {% endfor %}
 
 </div>
 
-<h2>Food and activities</h2>
+<h2 class="mb3">Sunday 18 June</h2>
 
-<div class="custom-flex-container">
+<div class="cf">
 
-{% assign slaughter_food_fun_events = (site.events | where: "event-category", "slaughter-food-fun" | sort: 'event-start-date' | sort: 'event-start-time' ) %}
+{% assign slaughter_events = (site.events | where: "event-category", "slaughter" | where: "event-start-date", "2017-06-18" | sort: "event-start-time" ) %}
 
-{% for event in slaughter_food_fun_events limit:24 %}
+{% for event in slaughter_events %}
 
-    <article class="custom-flex-row-2 pb2">
+    <article class="fl-ns mb3 w-50-ns ph3 border-box pb2">
 
-        <a class="white" href="{{ event.url }}"><img class="custom-br-50 mw-40 {% include /c/img-float-left.html %}" src="{{ event.event-image }}" alt="{{ event.event-image-alt }}"></a>
+        <div class="cf">
 
-        <p class="f5 fw6 ma0 pa0 pr2"><a href="{{ event.url }}" class="blue">{{ event.name }}, {{ event.event-start-date | date: "%a %-d %b" }}, {{ event.event-start-time }}, £{{ event.event-ticket-price }}</a></p>
+          <div class="custom-g-l2">
+
+            <a class="white custom-no-underline" href="{{ event.url }}"><img class="custom-br-50" src="{{ event.event-image }}" alt="{{ event.event-image-alt }}"></a>
+
+          </div>
+
+          <div class="custom-g-l4 custom-g-nm">
+
+            <p class="f5 ma0 pa0"><a class="blue" href="{{ event.url }}" class="blue">{{ event.name }}</a><br>{{ event.event-start-date | date: "%a %-d %b" }}, {{ event.event-start-time }}, £{{ event.event-ticket-price-page }}</p>
+
+          </div>
 
     </article>
 
 {% endfor %}
 
 </div>
-
-
 
 <footer class="{% include /c/content-block.html %} pt2 bt b--light-gray">
 

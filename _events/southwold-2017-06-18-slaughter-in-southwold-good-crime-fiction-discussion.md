@@ -9,8 +9,7 @@ event-start-time: 1130
 event-ticket-price: 5 for individual events, £15 for the day, £30 for the weekend
 event-ticket-price-page: 5
 event-ticket-url: https://www.ticketsource.co.uk/event/EKIMJM
-event-category: slaughter-author
-hnav: slaughter
+event-category: slaughter
 breadcrumb: y
 event-image: /images/featured/featured-nightingale-and-sutherland.jpg
 event-image-alt: John Nightingale and John Sutherland

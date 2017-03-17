@@ -6,10 +6,10 @@ location-text: Southwold Library
 event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, Southwold, IP18 6JP"
 event-start-date: 2017-06-18
 event-start-time: 1300
-event-end-timme: 1400
-event-ticket-price: 10 (with fish) £7 (meet/veggie)
-event-category: slaughter-food-fun
-hnav: slaughter
+event-end-time: 1400
+event-ticket-price: 10 (with fish) £7 (meat/veggie)
+event-ticket-price-page: 10 (with fish) £7 (meat/veggie)
+event-category: slaughter
 breadcrumb: y
 event-image: /images/featured/featured-something-fishy.jpg
 event-image-alt: Fishes

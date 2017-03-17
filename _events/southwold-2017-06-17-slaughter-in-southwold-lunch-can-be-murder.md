@@ -8,8 +8,8 @@ event-start-date: 2017-06-17
 event-start-time: 1300
 event-end-timme: 1400
 event-ticket-price: 10
-event-category: slaughter-food-fun
-hnav: slaughter
+event-ticket-price-page: 10
+event-category: slaughter
 breadcrumb: y
 event-image: /images/featured/featured-rosies-home-cooking.jpg
 event-image-alt: Rosie's Home Cooking

@@ -7,10 +7,9 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2017-06-17
 event-start-time: 1130
 event-ticket-price: 5 for individual events, £15 for the day, £30 for the weekend
-event-ticket-url: https://www.ticketsource.co.uk/event/EKIMJG
 event-ticket-price-page: 5
-event-category: slaughter-author
-hnav: slaughter
+event-ticket-url: https://www.ticketsource.co.uk/event/EKIMJG
+event-category: slaughter
 breadcrumb: y
 event-image: /images/featured/featured-harry-brett.jpg
 event-image-alt: Harry Brett

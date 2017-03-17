@@ -9,8 +9,7 @@ event-start-time: 1530
 event-ticket-price: 5 for individual events, £15 for the day, £30 for the weekend
 event-ticket-price-page: 5
 event-ticket-url: https://www.ticketsource.co.uk/event/EKIMJJ
-event-category: slaughter-author
-hnav: slaughter
+event-category: slaughter
 breadcrumb: y
 event-image: /images/featured/featured-guy-fraser-sampson.jpg
 event-image-alt: "Guy Fraser-Sampson"

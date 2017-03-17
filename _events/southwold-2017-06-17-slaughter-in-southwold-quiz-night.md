@@ -7,8 +7,8 @@ event-alt-location: "Southwold Arts Centre, St Edmund's Hall, Cumberland Road, S
 event-start-date: 2017-06-17
 event-start-time: 1900
 event-ticket-price: 3 per person
-event-category: slaughter-food-fun
-hnav: slaughter
+event-ticket-price-page: 3 per person
+event-category: slaughter
 breadcrumb: y
 event-image: /images/featured/featured-magnifying-glass.jpg
 event-image-alt: A magnifying glass
