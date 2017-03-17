@@ -1,6 +1,6 @@
 ---
 layout: sidebar-right
-title: Suffolk Libraries part of new partnership to create a new Time to Change hub in Suffolk
+title: Suffolk Libraries part of new partnership to create a Time to Change hub in Suffolk
 date: 2017-03-17
 author: sarah-lungley
 category: news
