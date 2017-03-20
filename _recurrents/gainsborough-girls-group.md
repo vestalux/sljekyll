@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Girls group"
+recurrent-title: "Girls' group"
 recurrent-day: Monday
 recurrent-times: 1600-1700
 recurrent-location: gainsborough-community-library

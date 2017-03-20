@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Games club: scrabble and dominoes"
+recurrent-title: "Games club: Scrabble and dominoes"
 recurrent-day: fourth Thursday of the month
 recurrent-times: 1400-1500
 recurrent-location: woodbridge-library

@@ -1,5 +1,5 @@
 ---
-recurrent-title: Boys group
+recurrent-title: Boys' group
 recurrent-day: Friday
 recurrent-times: 1600-1700
 recurrent-location: gainsborough-community-library

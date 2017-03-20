@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Girls self-esteem workshop"
+recurrent-title: "Girls' self-esteem workshop"
 recurrent-day: Monday
 recurrent-times: 1700-1800
 recurrent-location: gainsborough-community-library

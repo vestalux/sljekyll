@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Lego animation club - starts 7 November"
+recurrent-title: "Lego animation club"
 recurrent-day: Monday
 recurrent-times: 1600-1800
 recurrent-location: gainsborough-community-library

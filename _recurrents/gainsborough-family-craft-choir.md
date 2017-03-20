@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Family craft and choir - starting 4 November"
+recurrent-title: "Family craft and choir"
 recurrent-day: Friday
 recurrent-times: 1600-1800
 recurrent-location: gainsborough-community-library

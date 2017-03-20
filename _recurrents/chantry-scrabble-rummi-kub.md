@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Scrabble or Rummi-Kub"
+recurrent-title: "Scrabble or Rummikub"
 recurrent-day: Friday
 recurrent-times: 1030-1230
 recurrent-location: chantry-library

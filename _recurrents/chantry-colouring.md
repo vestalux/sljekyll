@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Colouring"
+recurrent-title: "Colouring for children"
 recurrent-day: Thursday
 recurrent-times: 1630-1730
 recurrent-location: chantry-library

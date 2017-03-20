@@ -5,5 +5,5 @@ recurrent-times: 1100-1300
 recurrent-location: chantry-library
 recurrent-location-display-name: Chantry Library
 recurrent-location-display-url: /branches/chantry-library/
-recurrent-category: health
+recurrent-category: older
 ---

@@ -16,7 +16,7 @@ If you don't have a card number or don't remember your PIN please contact custom
 - [Beccles Library](http://netloan.suffolklibraries.co.uk/)
 - [Brandon Library](http://netloan.suffolklibraries.co.uk/)
 - [Broomhill Library (formerly Westbourne)](http://netloan.suffolklibraries.co.uk/)
-- [Bungay Library](http://netloan.suffolklibraries.co.uk/)
+- [Bungay Library](http://78.31.106.220/netloan/Login.aspx)
 - [Bury St Edmunds Library](http://netloan.suffolklibraries.co.uk/)
 - [Capel St Mary Library](http://netloan.suffolklibraries.co.uk/)
 - [Chantry Library](http://netloan.suffolklibraries.co.uk/)

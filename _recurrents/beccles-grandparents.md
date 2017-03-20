@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Grandparents and grandchildren Sessions: free play and talk for grandparents and 0-5 years old grandchildren"
+recurrent-title: "Grandparents and grandchildren sessions: free play and talk for grandparents and 0-5 years old grandchildren"
 recurrent-day: Wednesday
 recurrent-times: 0945-1115
 recurrent-location: beccles-library

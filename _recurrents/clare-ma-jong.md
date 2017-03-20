@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Ma-jong"
+recurrent-title: "Mah-jong"
 recurrent-day: Friday
 recurrent-times: 1530-1700
 recurrent-location: clare-library
