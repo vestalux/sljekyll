@@ -11,7 +11,7 @@ featured-link-text: Check out our new non-fiction titles for March.
 breadcrumb: non-fiction
 ---
 
-![Who I Am, Home Cook, Gizelle's Bucket List](/images/featured/featured-february-non-fiction.jpg)
+![Who I Am, Home Cook, Gizelle's Bucket List](/images/featured/featured-march-non-fiction.jpg)
 
 ## [<cite>Who I Am</cite>, by Charlotte Rampling and Christophe Bataille](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2113359)
 
