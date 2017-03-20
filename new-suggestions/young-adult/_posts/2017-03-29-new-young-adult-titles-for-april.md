@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: New Young Adult books for April 2017
-date: 2017-03-20
+date: 2017-03-29
 author: jo-dixon
 category: young-adult
 excerpt: New titles from Jenny McLachlan, Brigid Kemmerer and Jeff Zentner
