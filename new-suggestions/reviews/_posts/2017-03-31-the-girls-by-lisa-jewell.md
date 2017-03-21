@@ -13,9 +13,9 @@ genre: crime-and-thriller
 genre-image: /images/featured/the-girls-genre.jpg
 ---
 
-![The Girls](/images/featured/the-girls-genre.jpg)
+![The Girls](/images/featured/featured-the-girls.jpg)
 
-**[See <cite>The Girls in our catalogue](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1784579)**
+**[See <cite>The Girls</cite> in our catalogue](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=1784579)**
 
 > "You live on a picturesque communal garden square, an oasis in urban London where your children run free, in and out of other people's houses. You've known your neighbours for years and you trust them implicitly. You think your children are safe, but are they really?
 
