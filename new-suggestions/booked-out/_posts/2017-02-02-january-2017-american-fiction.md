@@ -5,8 +5,8 @@ date: 2017-02-02
 author: booked-out-team
 category: booked-out
 excerpt: "Richard and guests discuss some of their favourite works of American fiction including: <cite>The World According to Garp</cite> by John Irving, <cite>Dark Town</cite> by Thomas Mullen, <cite>The Border Trilogy</cite> by Cormac McCarthy and <cite>Butcher's Crossing</cite> by John Williams."
-featured-image: /images/featured/featured-booked-out-team.jpg
-featured-alt: The Booked Out team
+featured-image: /images/featured/featured-booked-out-jan-2017.jpg
+featured-alt: The World According to Garp, Dark Town, Butcher's Crossing
 featured-link-text: Listen to the latest podcast from Woodbridge Library.
 breadcrumb: booked-out
 ---
