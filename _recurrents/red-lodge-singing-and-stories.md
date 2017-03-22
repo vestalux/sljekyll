@@ -5,5 +5,5 @@ recurrent-times: 1315-1415
 recurrent-location: red-lodge
 recurrent-location-display-name: Red Lodge (Suffolk Libraries Local)
 recurrent-location-display-url: /branches/red-lodge/
-recurrent-category: computer-courses
+recurrent-category: children
 ---
