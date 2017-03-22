@@ -14,4 +14,4 @@ The new hub is being created to combine insights from the Time to Change campaig
 
 Time to Change Suffolk is led by the local Health and Wellbeing Board and is a partnership between Suffolk County Council, Healthwatch Suffolk, Suffolk User Forum, Suffolk Mind, Suffolk Family Carers and Suffolk Libraries, local Time to Change champions and regional co-ordinators.
 
-For more information please visit [the Healthwatch Suffolk website](http://www.healthwatchsuffolk.co.uk/news/suffolk-wins-bid-to-become-one-of-the-first-time-to-change-hubs-set-up-to-change-how-we-all-think-and-act-about-mental-health/)
+For more information please visit [the Healthwatch Suffolk website](http://www.healthwatchsuffolk.co.uk/news/suffolk-wins-bid-to-become-one-of-the-first-time-to-change-hubs-set-up-to-change-how-we-all-think-and-act-about-mental-health/).
