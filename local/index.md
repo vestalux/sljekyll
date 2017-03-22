@@ -26,9 +26,7 @@ breadcrumb: home
 
 <h2>Suffolk Libraries Local in Red Lodge</h2>
 
-<p>Our first pilot branch will begin at the Millennium Centre, Red Lodge, on Thursday 16 March 2017. Please visit the <a href="/libraries/red-lodge/">Red Lodge (Suffolk Libraries Local) library page</a> for further information.</p>
-
-<p>We will be holding a consultation in March to share more information, answer further questions, and find out what activities residents would like. You can also share your views by taking the <a href="https://www.surveymonkey.com/r/SLLRedLodge">Suffolk Libraries Local Red Lodge online survey</a>.</p>
+<p>Our first pilot branch began at the Millennium Centre, Red Lodge, on Thursday 16 March 2017. Please visit the <a href="/libraries/red-lodge/">Red Lodge (Suffolk Libraries Local) library page</a> for further information.</p>
 
 <p><a href="/mobiles-home/bury-st-edmunds-mobile-library-route-15/">Bury St Edmunds Mobile Library Route 15</a> will continue to visit Heathersett Way in Red Lodge every fourth Sunday from 2:10pm to 2:30pm.</p>
 

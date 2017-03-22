@@ -8,6 +8,7 @@ event-start-time: 1800
 event-end-time: 1830
 event-ticket-price: free
 breadcrumb: y
+event-category: easter
 ---
 
 Enjoy some favourite bedtime picture books with milk & cookies.

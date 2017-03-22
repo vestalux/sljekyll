@@ -361,6 +361,32 @@
 
                             {% assign current = page.branch-unique-id %}
 
+                            {% assign recurrents = site.recurrents | where: "recurrent-category", "sll-services" | where: "recurrent-location", current %}
+
+                            {% if recurrents.size > 0 %}
+
+                                <section class="pb2">
+
+                                    <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Library services</h1>
+
+                                    {% for recurrent in recurrents %}
+
+                                        <article class="{% include /c/listing.html %}">
+
+                                        <h1 class="{% include /c/listing-title.html %}">{{ recurrent.recurrent-title }}</h1>
+
+                                        <p class="{% include /c/page-meta.html %}">{{ recurrent.recurrent-day }}, {{ recurrent.recurrent-times }}</p>
+
+                                        </article>
+
+                                    {% endfor %}
+
+                                </section>
+
+                            {% endif %}
+
+                            {% assign current = page.branch-unique-id %}
+
                             {% assign recurrents = site.recurrents | where: "recurrent-category", "reading-groups" | where: "recurrent-location", current %}
 
                             {% if recurrents.size > 0 %}
@@ -419,7 +445,7 @@
 
                                 <section class="pb2">
 
-                                    <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">Computer courses</h1>
+                                    <h1 class="f4 ma0 mb2 custom-lh-title pt2 bt b--light-gray">IT help</h1>
 
                                     {% for recurrent in recurrents %}
 
