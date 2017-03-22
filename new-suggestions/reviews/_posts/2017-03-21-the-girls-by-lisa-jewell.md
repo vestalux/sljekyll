@@ -10,7 +10,7 @@ featured-alt: The Girls
 featured-link-text: "Read The Borrowers book group's review of <cite>The Girls</cite>"
 breadcrumb: staff-picks
 genre: crime-and-thriller
-genre-image: /images/featured/the-girls-genre.jpg
+genre-image: /images/featured/featured-the-girls-genre.jpg
 ---
 
 ![The Girls](/images/featured/featured-the-girls.jpg)
