@@ -1,7 +1,7 @@
 ---
-recurrent-title: "Laptop training sessions for beginners: book in advance (£5 per session)"
-recurrent-day: Wednesday
-recurrent-times: 1515-1615
+recurrent-title: "One to one sessions for absolute beginners (£15 per hour)"
+recurrent-day: Sessions arranged on a mutually convenient basis
+recurrent-times: N/a
 recurrent-location: halesworth-library
 recurrent-location-display-name: Halesworth Library
 recurrent-location-display-url: /branches/halesworth-library/
