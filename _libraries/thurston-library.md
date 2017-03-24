@@ -16,6 +16,7 @@ branch-tel: 01359 235048
 branch-friends: Friends of Thurston Library
 branch-friends-url: /about/member-organisations/friends-of-thurston-library
 branch-social-media: y
+branch-facebook: Friends-of-Thurston-Library-1013454488771360/
 branch-twitter: thurstonlibrary
 branch-accessibility: http://www.disabledgo.com/access-guide/suffolk-county-council/thurston-library-2
 branch-parking: available
