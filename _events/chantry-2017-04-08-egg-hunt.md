@@ -6,6 +6,7 @@ location-text: Chantry Library
 event-start-date: 2017-04-08
 event-start-time: 1000
 event-end-time: 1200
+event-ticket-price: 1
 event-category: easter
 breadcrumb: y
 ---
