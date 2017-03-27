@@ -26,5 +26,7 @@ branch-colour-printing: available
 branch-photocopying: available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/rosehill-library
+branch-news: '<p>Please note that Rosehill Library will be <strong>closed on Thursday 4 May 2017</strong>. We apologise for any inconvenience this causes.</p>
+<p>Please call customer services on <a href="tel:01473351249</a>">01473 351249</a> or email <strong>help@suffolklibraries.co.uk</strong> if you have any queries.</p>'
 breadcrumb: y
 ---
