@@ -7,6 +7,8 @@ branch-local-hours: 1230-1545
 branch-manager: Ellie Longman
 branch-address: Red Lodge Millennium Centre, Lavender Close, Red Lodge, Bury St Edmunds
 branch-post-code: IP28 8TT
+branch-social-media: y
+branch-facebook: SLLRedLodge
 branch-local-internet: y
 branch-news: '<ul>
                 <li>Sign up for a library card, browse and reserve books and use the internet between 12:30-13:15 and 14:45-15:45.</li>
