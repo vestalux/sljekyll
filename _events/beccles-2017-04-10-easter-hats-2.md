@@ -5,7 +5,7 @@ location: beccles-library
 location-text: Beccles Library
 event-start-date: 2017-04-10
 event-start-time: 1100
-event-doors-open: 1215
+event-end-time: 1215
 event-ticket-price: free but donations appreciated
 event-category: easter
 breadcrumb: y

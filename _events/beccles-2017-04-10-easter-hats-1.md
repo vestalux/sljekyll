@@ -1,11 +1,11 @@
 ---
 id: beccles-easter-hats-1
-name: "Children's craft session: Easter hats"
+name: "Children's craft session: Easter hats - 9:45am"
 location: beccles-library
 location-text: Beccles Library
 event-start-date: 2017-04-10
 event-start-time: 0945
-event-doors-open: 1045
+event-end-time: 1045
 event-ticket-price: free but donations appreciated
 event-category: easter
 breadcrumb: y
