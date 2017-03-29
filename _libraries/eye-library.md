@@ -3,11 +3,11 @@ branch-unique-id: eye-library
 branch-name: Eye Library
 branch-image: /images/branches/eye-library.jpg
 branch-monday-hours: Closed
-branch-tuesday-hours:	0930 – 1300
-branch-wednesday-hours: 0930 – 1300, 1400 – 1730
-branch-thursday-hours: 1400 – 1730
-branch-friday-hours: 0930 – 1300, 1400 – 1900
-branch-saturday-hours: 0930 – 1300
+branch-tuesday-hours:	0900 – 1300
+branch-wednesday-hours: 0900 – 1300, 1400 – 1800
+branch-thursday-hours: 1400 – 1700
+branch-friday-hours: 0900 – 1300, 1400 – 1700
+branch-saturday-hours: 0900 – 1300
 branch-sunday-hours: 1000 – 1500
 branch-manager: Julie Shepherd
 branch-address: Buckshorn Lane, Eye
@@ -22,6 +22,6 @@ branch-netloan: old
 branch-colour-printing: available
 branch-photocopying: A4 available
 branch-scan-to-email: y
-branch-news: '<a class="blue" href="/news/new-opening-hours-for-eye-library/">Eye Library to change opening hours on Saturday 1 April</a>'
+branch-news: 'Please note: the library will be open <strong>0930-1300 and 1400-1730 on Wednesday 29 March</strong>, <strong>1400-1730 on Thursday 30 March</strong> and <strong>0930-1300 and 1400-1900 on Friday 31 March</strong>'
 breadcrumb: y
 ---
