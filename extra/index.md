@@ -4,7 +4,11 @@ title: Suffolk Libraries Extra
 breadcrumb: home
 ---
 
-Thanks for showing an interest in Suffolk Libraries Extra. Leave your name and email address and we'll contact you when we launch the scheme.
+Suffolk Libraries Extra is a new supporter scheme offering people the chance to make an annual donation to get more involved and help the library service.
+
+Individuals and local businesses are invited to join the scheme which will help us raise additional income to enhance the service we provide. Becoming a Suffolk Libraries Extra member will also provide you with extra benefits. 
+
+We’ll be adding more information soon but if you’d like to know more please leave your name and email address and we’ll be in touch.
 
 <form class="pure-form pure-form-stacked" netlify name="sl-extra" action="/extra/confirmation/" netlify-honeypot="bot-field">
 
