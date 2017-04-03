@@ -33,3 +33,5 @@ breadcrumb: branch-room-hire
 ## Other information
 
 St Andrew's pay and display carpark is 5 minutes walk from library
+
+For information and bookings please email **bury.roomhire@suffolklibraries.co.uk**

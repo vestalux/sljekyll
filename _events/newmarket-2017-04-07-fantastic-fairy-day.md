@@ -6,7 +6,7 @@ location-text: Newmarket Library
 event-start-date: 2017-04-07
 event-start-time: 1400
 event-end-time: 1530
-event-ticket-price: 1 per fairy
+event-ticket-price: ' <span class="pa2 bg-red white">Sold out!</span>'
 event-category: easter
 breadcrumb: y
 ---

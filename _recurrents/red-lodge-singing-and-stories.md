@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Singing and stories: bring along your little ones to enjoy some stories and join in with nursery rhymes and songs"
+recurrent-title: "Singing and stories: stories, nursery rhymes and songs for 0-4 year-olds"
 recurrent-day: Thursday
 recurrent-times: 1415-1445
 recurrent-location: red-lodge
