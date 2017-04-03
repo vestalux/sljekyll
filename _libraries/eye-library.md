@@ -22,6 +22,5 @@ branch-netloan: old
 branch-colour-printing: available
 branch-photocopying: A4 available
 branch-scan-to-email: y
-branch-news: 'Please note: the library will be open <strong>0930-1300 and 1400-1730 on Wednesday 29 March</strong>, <strong>1400-1730 on Thursday 30 March</strong> and <strong>0930-1300 and 1400-1900 on Friday 31 March</strong>'
 breadcrumb: y
 ---
