@@ -1,6 +1,6 @@
 ---
 id: ipswich-survey
-name: "Help Suffolk Libraries plan for the future - talk to staff and fill in our survey"
+name: "Have your say about the future direction of Suffolk Libraries"
 location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2017-04-08

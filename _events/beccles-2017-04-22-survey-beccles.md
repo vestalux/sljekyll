@@ -1,6 +1,6 @@
 ---
 id: beccles-survey
-name: "Help Suffolk Libraries plan for the future - talk to staff and fill in our survey"
+name: "Have your say about the future direction of Suffolk Libraries"
 location: beccles-library
 location-text: Beccles Library
 event-start-date: 2017-04-22

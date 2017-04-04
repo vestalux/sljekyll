@@ -30,9 +30,9 @@ Suffolk Libraries are running a customer survey until 8 May 2017. [Complete the 
 
 There will also be events at Ipswich, Beccles and Lowestoft Libraries where people can talk to library staff or fill in the survey. These will all run from 10am to 1pm as follows:
 
-- Ipswich Library on Saturday 8 April
-- Beccles Library on Saturday 22 April
-- Bury Library on Saturday 8 May.
+- [Ipswich Library on Saturday 8 April](/events/ipswich-2017-04-08-survey-ipswich/)
+- [Beccles Library on Saturday 22 April](/events/beccles-2017-04-22-survey-beccles/)
+- [Bury Library on Saturday 8 May](/events/bury-2017-05-08-survey-bury/)
 
 Tony Brown added, “We anticipate that council funding will continue to shrink so we will keep looking for alternative funding to supplement what we get from the county council.  Our community groups who support libraries have been a big part of this and have raised thousands of pounds every year which have funded things like refurbishments, equipment in many libraries and the cost of wi-fi.
 

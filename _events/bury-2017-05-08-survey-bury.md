@@ -1,6 +1,6 @@
 ---
 id: bury-survey
-name: "Help Suffolk Libraries plan for the future - talk to staff and fill in our survey"
+name: "Have your say about the future direction of Suffolk Libraries"
 location: bury-st-edmunds-library
 location-text: Bury St Edmunds Library
 event-start-date: 2017-05-08
