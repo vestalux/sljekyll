@@ -3,7 +3,7 @@ id: bury-survey
 name: "Have your say about the future direction of Suffolk Libraries"
 location: bury-st-edmunds-library
 location-text: Bury St Edmunds Library
-event-start-date: 2017-05-08
+event-start-date: 2017-05-06
 event-start-time: 1000
 event-end-time: 1300
 breadcrumb: y

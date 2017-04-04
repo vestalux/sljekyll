@@ -32,7 +32,7 @@ There will also be events at Ipswich, Beccles and Lowestoft Libraries where peop
 
 - [Ipswich Library on Saturday 8 April](/events/ipswich-2017-04-08-survey-ipswich/)
 - [Beccles Library on Saturday 22 April](/events/beccles-2017-04-22-survey-beccles/)
-- [Bury Library on Saturday 8 May](/events/bury-2017-05-08-survey-bury/)
+- [Bury Library on Saturday 6 May](/events/bury-2017-05-06-survey-bury/)
 
 Tony Brown added, “We anticipate that council funding will continue to shrink so we will keep looking for alternative funding to supplement what we get from the county council.  Our community groups who support libraries have been a big part of this and have raised thousands of pounds every year which have funded things like refurbishments, equipment in many libraries and the cost of wi-fi.
 
