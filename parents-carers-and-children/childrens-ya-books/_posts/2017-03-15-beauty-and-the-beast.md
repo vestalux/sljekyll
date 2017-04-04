@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Great children's titles to complement the new live-action <cite>Beauty and the Beast film</cite>"
 date: 2017-03-15
 author: jo-dixon
-category: articles
+category: childrens-ya-books
 excerpt: "The live action version of <cite>Beauty and the Beast</cite>, starring Emma Watson and Dan Stevens, is showing in cinemas from Friday 17 March. To mark the occasion, we've picked up some top <cite>Beauty and the Beast</cite>-related titles."
 featured-image: /images/featured/featured-beauty-and-the-beast-titles.jpg
 featured-alt: "Beauty and the Beast titles"
