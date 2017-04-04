@@ -6,7 +6,7 @@ breadcrumb: home
 
 <div class="{% include /c/generic-panel.html %}">
 
-<p>Check out our <a href="/news//easter-holidays-events/">Easter holiday events for children</a></p>
+<p>Check out our <a class="blue" href="/news//easter-holidays-events/">Easter holiday events for children</a></p>
 
 </div>
 
