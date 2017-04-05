@@ -4,6 +4,8 @@ name: "Suffolk Libraries Local Shotley launch events and Easter crafts"
 location: shotley
 location-text: Shotley (Suffolk Libraries Local)
 event-start-date: 2017-04-10
+event-start-time: 1300
+event-end-time: 1700
 event-category: easter
 breadcrumb: y
 ---
