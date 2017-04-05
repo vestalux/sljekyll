@@ -10,7 +10,7 @@ event-ticket-url: https://www.ticketsource.co.uk/ficl
 breadcrumb: y
 ---
 
-A fashion show in the library in conjunction with local fashion shops Cake and Catwalk, Elvish tailors and Marianna.
+A fashion show in the library in conjunction with local fashion businesses Cake & Catwalk, Cake & Revolution, Déjà Vu Boutique, The Elvish Tailor and Moxie Lady.
 
 Ticket price includes a glass of Prosecco and nibbles.
 
