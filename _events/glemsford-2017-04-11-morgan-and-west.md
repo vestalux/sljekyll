@@ -6,7 +6,7 @@ location-text: Glemsford Library
 event-start-date: 2017-04-11
 event-start-time: 1400
 event-end-time: 1500
-event-ticket-price: 1 (+ 66p booking charge if booked online)
+event-ticket-price: ' <span class="pa2 bg-red white">Sold out!</span>'
 event-ticket-url: https://www.eventbrite.co.uk/e/morgan-and-wests-utterly-spiffing-spectacular-magic-show-tickets-31578156115
 event-category: easter
 breadcrumb: y
