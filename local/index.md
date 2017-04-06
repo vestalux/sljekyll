@@ -26,13 +26,13 @@ breadcrumb: home
 
 <section class="cf">
 
-		<div class="custom-g-l2">
+		<div class="custom-g-l1">
 
-				<img class="mt3 mr1 br-100" src="/images/featured/featured-sll-red-lodge.jpg" alt="Suffolk Libraries Local in Red Lodge">
+				<img class="mt3 mr1 br-100 db center" src="/images/featured/featured-sll-red-lodge.jpg" alt="Suffolk Libraries Local in Red Lodge">
 
 		</div>
 
-		<div class="custom-g-l4 custom-g-nm">
+		<div class="custom-g-l5 custom-g-nm">
 
 				<h2>Suffolk Libraries Local in Red Lodge</h2>
 
