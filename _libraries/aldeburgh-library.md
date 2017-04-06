@@ -9,7 +9,7 @@ branch-thursday-hours: 0900 – 1300
 branch-friday-hours: 0900 – 1300
 branch-saturday-hours: 1000 – 1230, 1300 – 1530
 branch-sunday-hours: 1000 – 1230, 1300 – 1530
-branch-manager: Caroline Boyd
+branch-manager: Sue Osben
 branch-address: Victoria Road, Aldeburgh
 branch-post-code: IP15 5EG
 branch-tel: 01728 452502
