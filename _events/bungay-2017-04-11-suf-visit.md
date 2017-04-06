@@ -1,11 +1,11 @@
 ---
-id: sudbury-better-together
+id: bungay-better-together
 name: "Suffolk User Forum Better Together drop-in with coffee and cake"
-location: sudbury-library
-location-text: Sudbury Library
-event-start-date: 2017-04-13
-event-start-time: 1100
-event-end-time: 1400
+location: bungay-library
+location-text: Bungay Library
+event-start-date: 2017-04-11
+event-start-time: 1000
+event-end-time: 1200
 breadcrumb: y
 ---
 
