@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: Joanna Cannon'
-date: 2017-04-18
+date: 2017-04-11
 author: brandon-king
 category: meet-the-author
 excerpt: "Joanna Cannon tells us about writing <cite>The Trouble with Goats and Sheep</cite> early in the morning and during her lunch breaks while working as a psychiatrist."
