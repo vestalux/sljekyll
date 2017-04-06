@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: 'Meet the Author: Sophie Hannah'
-date: 2017-05-02
+date: 2017-04-25
 author: brandon-king
 category: meet-the-author
 excerpt: "Sophie Hannah shares her love for Agatha Christie and tells us about her next book."
