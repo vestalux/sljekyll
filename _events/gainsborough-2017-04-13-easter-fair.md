@@ -10,4 +10,4 @@ event-category: easter
 breadcrumb: y
 ---
 
-Join us for craft activities, a raffle an egg hunt and games.
+Join us for craft activities, a raffle, an egg hunt and games.
