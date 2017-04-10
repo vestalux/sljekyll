@@ -23,7 +23,7 @@ If you don't have a card number or don't remember your PIN please contact custom
 - [Clare Library](http://78.31.106.220/netloan/Login.aspx)
 - [Debenham Library](http://78.31.106.220/netloan/Login.aspx)
 - [Elmswell Library](http://78.31.106.220/netloan/Login.aspx)
-- [Eye Library](http://netloan.suffolklibraries.co.uk/)
+- [Eye Library](http://78.31.106.220/netloan/Login.aspx)
 - [Felixstowe Library](http://netloan.suffolklibraries.co.uk/)
 - [Framlingham Library](http://netloan.suffolklibraries.co.uk/)
 - [Gainsborough Community Library](http://netloan.suffolklibraries.co.uk/)
