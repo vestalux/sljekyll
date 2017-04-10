@@ -14,7 +14,7 @@ breadcrumb: meet-the-author
 
 ![Joanna Cannon](/images/featured/featured-joanna-cannon.jpg)
 
-Joanna Cannon was born in a small Derbyshire town, at the very edge of the Peak District National Park. As an only child of an only child, a great number of her friends lived within the pages of books, and she picked up a lifelong fascination with words, stories and character.
+Joanna Cannon was born in a small Derbyshire town, at the very edge of the Peak District National Park. s a child she discovered what would become a life-long fascination with words, stories and character.
 
 Her love of narrative had always drawn her towards psychiatry, but it wasn’t until her thirties that she decided to go back to college and finally complete the A-levels she’d abandoned some 15 years earlier.
 
