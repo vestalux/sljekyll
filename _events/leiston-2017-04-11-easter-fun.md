@@ -11,4 +11,4 @@ event-category: easter
 breadcrumb: y
 ---
 
-Join us for an Easter bunny hunt, crafts, mini face painying and the chance to win prizes.
+Join us for an Easter bunny hunt, crafts, mini face painting and the chance to win prizes.
