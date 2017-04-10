@@ -1,6 +1,7 @@
 ---
 layout: sidebar-right
 title: "Suffolk Libraries' statement regarding Suffolk County Council budget proposals"
+date: 2016-11-22
 author: james-powell
 excerpt: Our response to Council proposals that include a further reduction to the Suffolk Libraries budget of £230,000 for 2017-18. This follows a cut of £350,000 for the current year (2016-2017).
 category: news

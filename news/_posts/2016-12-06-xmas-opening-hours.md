@@ -1,6 +1,7 @@
 ---
 layout: sidebar-right
 title: Christmas opening hours 2016
+date: 2016-12-06
 author: james-powell
 excerpt: "We would like to advise customers of our library opening hours during the festive period."
 category: news

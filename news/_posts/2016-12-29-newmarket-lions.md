@@ -1,6 +1,7 @@
 ---
 layout: sidebar-right
 title: Newmarket Lions to fund children's library improvements
+date: 2016-12-29
 author: alice-violett
 excerpt: "The Newmarket Lions Club have kindly donated £1,000 to give Newmarket Library’s children’s area a fresh new look."
 category: news
@@ -19,6 +20,6 @@ Chris Rawlinson, Newmarket Lions PR Officer, said, "We are delighted to be in a 
 
 Newmarket Lions is a very small club of people who raise money for local charities and causes. They raise money from holding various events throughout the year including race nights, street collections and Santa's grotto. Their most successful event this year was the re-established firework event.
 
-An additional £145 has been raised via a crowdfunding webpage from Newmarket Tesco who have also contributed towards the project. The improvements to the children’s library come only a few months after the completion of a significant refurbishment project at the library which involved complete redecoration. Funding has also recently been secured to improve the library’s racing collection. 
+An additional £145 has been raised via a crowdfunding webpage from Newmarket Tesco who have also contributed towards the project. The improvements to the children’s library come only a few months after the completion of a significant refurbishment project at the library which involved complete redecoration. Funding has also recently been secured to improve the library’s racing collection.
 
 Please see [our Facebook album](https://www.facebook.com/pg/SuffolkLibraries/photos/?tab=album&album_id=838079923000391) for photos of the refurbished library and members of the Newmarket Lions presenting the library with a cheque for £1,000.

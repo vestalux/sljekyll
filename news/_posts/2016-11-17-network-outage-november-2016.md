@@ -1,6 +1,7 @@
 ---
 layout: sidebar-right
 title: "Major computer and network outage Sat 19 - Sun 20 Nov 2016"
+date: 2016-11-17
 author: leon-paternoster
 excerpt: Most of our PCs and some of our wifi services won't be available over this weekend at 32 of our 44 libraries.
 category: news

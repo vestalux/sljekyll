@@ -1,6 +1,7 @@
 ---
 layout: sidebar-right
 title: "Share your opinions on Eye Library's proposed new opening hours"
+date: 2016-11-24
 author: alice-violett
 excerpt: Eye Library are considering changing their opening hours in order to meet more customers' needs.
 category: news

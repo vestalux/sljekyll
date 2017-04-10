@@ -1,6 +1,7 @@
 ---
 layout: sidebar-right
 title: "Suffolk Libraries work with Red Rose Chain and young library users to produce a short film about mental health and wellbeing"
+date: 2016-11-23
 author: sarah-lungley
 excerpt: Suffolk Libraries have recently teamed up with local theatre company Red Rose Chain for a unique and exciting project to make a short film, looking at the relationship young people have with their local library and how their library can support their wellbeing.
 category: news

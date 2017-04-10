@@ -1,6 +1,7 @@
 ---
 layout: sidebar-right
 title: Help us test our new self-service system
+date: 2016-11-30
 author: leon-paternoster
 excerpt: "Test our new self-service system from home or in a library and get a free Premier DVD loan and a chance to win Waterstones vouchers."
 category: news

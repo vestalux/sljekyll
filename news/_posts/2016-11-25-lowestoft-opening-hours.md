@@ -1,6 +1,7 @@
 ---
 layout: sidebar-right
 title: "Lowestoft Library to close earlier for 12 weeks due to anti-social behaviour"
+date: 2016-11-25
 author: james-powell
 excerpt: The branch is closing earlier following increased incidents of anti-social behaviour and is working with the police.
 category: news
