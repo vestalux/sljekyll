@@ -104,13 +104,25 @@ breadcrumb: home
 
     </div>
 
-    <div class="custom-g-l2 custom-g-nm">
+    <div class="custom-g-l2">
 
         <section class="{% include /c/block.html %}">
 
             <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/suffolk-writes">Suffolk Writes</a></h1>
 
             <p class="{% include /c/block-graf.html %}">Suffolk Writes is a project giving you the opportunity to make your written work available to Suffolk Libraries customers to borrow.</p>
+
+        </section>
+
+    </div>
+
+    <div class="custom-g-l2 custom-g-nm">
+
+        <section class="{% include /c/block.html %}">
+
+            <h1 class="{% include /c/block-title.html %}"><a class="{% include /c/card-title-link.html %}" href="/events-activities/slaughter-in-southwold">Slaughter in Southwold</a></h1>
+
+            <p class="{% include /c/block-graf.html %}">Join us for author talks, food and a quiz at the fifth annual Slaughter in Southwold crime writers' festival.</p>
 
         </section>
 
