@@ -13,11 +13,11 @@ It&#8217;s free. Children and young people up to the age of 16 need a guarantor.
 
 ## Costs
 
-Books on mobile libraries can be borrowed for 8 weeks. If you don&#8217;t return a book om time we&#8217;ll apply an overdue charge. The charge rises for each mobile library visit you miss. If the mobile library is unable to call we&#8217;ll take this into account when we calculate the charge.
+Books on mobile libraries can be borrowed for 8 weeks. If you don&#8217;t return a book on time we&#8217;ll apply an overdue charge. The charge rises for each mobile library visit you miss. If the mobile library is unable to call we&#8217;ll take this into account when we calculate the charge.
 
 ### Charges
 
-<table class="pure-table">
+<table class="pure-table pure-table-bordered">
   <tr>
     <td>
       <strong>Media type</strong>
@@ -325,16 +325,8 @@ Books on mobile libraries can be borrowed for 8 weeks. If you don&#8217;t return
       £2.59
     </td>
   </tr>
-
-  <tr>
-    <td>
-      * Overdue charge for each mobile library visit missed
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      If you don&#8217;t return items we&#8217;ll send overdue notices after the 4th and 7th visit you miss. We&#8217;ll send a bill for replacement after the 10th visit missed. The bill includes the overdue charge as well as the replacement cost. NB Overdues are charged to a maximum of 7 visits missed.
-    </td>
-  </tr>
 </table>
+
+\* Overdue charge for each mobile library visit missed
+
+If you don&#8217;t return items we&#8217;ll send overdue notices after the 4th and 7th visit you miss. We&#8217;ll send a bill for replacement after the 10th visit missed. The bill includes the overdue charge as well as the replacement cost. NB Overdues are charged to a maximum of 7 visits missed.

@@ -6,6 +6,7 @@ location-text: Chantry Library
 event-start-date: 2017-04-12
 event-start-time: 1000
 event-end-time: 1300
+event-category: health
 breadcrumb: y
 ---
 

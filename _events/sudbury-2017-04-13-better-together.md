@@ -6,6 +6,7 @@ location-text: Sudbury Library
 event-start-date: 2017-04-13
 event-start-time: 1100
 event-end-time: 1400
+event-category: health
 breadcrumb: y
 ---
 

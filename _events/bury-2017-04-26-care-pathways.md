@@ -7,6 +7,7 @@ event-start-date: 2017-04-26
 event-start-time: 1030
 event-end-time: 1230
 event-ticket-price: free
+event-category: health
 breadcrumb: y
 ---
 

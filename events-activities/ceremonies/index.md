@@ -12,7 +12,7 @@ published: true
 
     <div class="cf">
 
-        <div class="custom-g-l4">
+        <div class="measure-wide center">
 
             <p><strong>Ipswich County Library’s Northgate Room is now licensed to hold weddings, civil ceremonies and other celebrations.</strong></p>
 
@@ -48,7 +48,7 @@ published: true
 
     <div class="cf">
 
-        <div class="custom-g-l4">
+        <div class="measure-wide center">
 
             <p>The Northgate Room offers a unique and historic venue for ceremonies in the heart of Ipswich. It would be a great choice for book lovers, regular library customers or anyone looking for a reasonably priced venue with a difference.</p>
 

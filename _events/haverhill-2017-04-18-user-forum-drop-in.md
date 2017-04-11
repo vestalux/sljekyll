@@ -6,6 +6,7 @@ location-text: Haverhill Library
 event-start-date: 2017-04-18
 event-start-time: 1100
 event-end-time: 1300
+event-category: health
 breadcrumb: y
 ---
 
