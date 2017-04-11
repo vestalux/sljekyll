@@ -10,8 +10,10 @@ branch-post-code: IP9 1LX
 branch-social-media: y
 branch-facebook: Suffolk-Libraries-Local-Shotley-274635152948530
 branch-local-internet: y
-branch-news: '<p>Launches 10 April 2017. For more information and to take part in a local consultation, please see the <a class="blue" href="/local">Suffolk Libraries Local page</a>.</p>
-<p><strong>Please note:</strong> Suffolk Libraries Local branches do not have the facility to take payments for fines, replacement cards, etc. Please call customer services on <a href="tel:01473351249">01473 351249</a> for assistance.</p>'
+branch-news: '<ul>
+                <li>Sign up for a library card, browse and reserve books and use the internet between 16:00-17:00.</li>
+                <li>Payment facilities not available at Suffolk Libraries Local branches. Call <a class="blue" href="tel:01473351249">01473 351249</a> for any payments.</li>
+              </ul>'
 breadcrumb: y
 branch-local: y
 ---
