@@ -1,7 +1,7 @@
 ---
 layout: sidebar-right
 title: New music for April 2017
-date: 2017-03-20
+date: 2017-03-29
 author: brandon-king
 category: music
 excerpt: 'New releases from Ray Davies, The Jesus & Mary Chain, Texas and more'
