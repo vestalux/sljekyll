@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Baby Bounce: soothing songs and gentle nursery rhymes for babies"
+recurrent-title: "Baby Bounce: soothing songs and gentle nursery rhymes for babies - no need to book"
 recurrent-day: Monday
 recurrent-times: 1015-1045
 recurrent-location: eye-library
