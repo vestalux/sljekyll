@@ -29,4 +29,5 @@ branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/clare-library
 branch-borrowing-ereaders-and-ipads: an iPad
 breadcrumb: y
+branch-news: "Clare Library will be closed on Wednesday 12 April due to staff sickness. We apologise for any inconvenience caused. Please call customer services on [01473 351240](tel:01473351240) if you require any assistance."
 ---
