@@ -9,7 +9,6 @@ branch-thursday-hours: 1000 – 1300, 1400 – 1700
 branch-friday-hours: 1000 – 1300, 1400 – 1800
 branch-saturday-hours: 1000 – 1300, 1400 – 1700
 branch-sunday-hours: 1100 – 1600
-branch-manager: Tracy Etheridge
 branch-address: Council Offices, 92 Bridge Road, Oulton Broad
 branch-post-code: NR32 3LR
 branch-tel: 01502 583135
