@@ -6,7 +6,7 @@ location-text: Ipswich County Library
 event-start-date: 2017-11-11
 event-start-time: 2000
 event-doors-open: 1930
-event-ticket-price: 11 or two for £20 (plus booking fee if booked online)
+event-ticket-price: 7
 event-ticket-url: https://www.ticketsource.co.uk/date/335647
 breadcrumb: y
 ---

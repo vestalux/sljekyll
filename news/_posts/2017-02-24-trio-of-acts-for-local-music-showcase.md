@@ -20,6 +20,6 @@ For more information about the evening and to book tickets, please see the [Hele
 
 <section class="{% include /c/generic-panel.html %}">
 
-  <p>Later in the year, on Saturday 11 November, the library will host The Vagaband from Norwich, a highly acclaimed Americana/folk/ rock band, supported by Tony Shevlin, who’s something of a legend of the local music scene. Tickets cost £11 each or two for £20. For more information, please see <a href="/events/ipswich-2017-11-11-the-vagaband/">The Vagaband event details</a>.</p>
+  <p>Later in the year, on Saturday 11 November, the library will host The Vagaband from Norwich, a highly acclaimed Americana/folk/ rock band, supported by Tony Shevlin, who’s something of a legend of the local music scene. Tickets cost £7. For more information, please see <a href="/events/ipswich-2017-11-11-the-vagaband/">The Vagaband event details</a>.</p>
 
 </section>
