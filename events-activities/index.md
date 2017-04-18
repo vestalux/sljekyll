@@ -4,12 +4,6 @@ title: Events and activities
 breadcrumb: home
 ---
 
-<div class="{% include /c/generic-panel.html %}">
-
-<p>Check out our <a class="blue" href="/news//easter-holidays-events/">Easter holiday events for children</a></p>
-
-</div>
-
 <div class="cf">
 
     <div class="custom-g-l2">

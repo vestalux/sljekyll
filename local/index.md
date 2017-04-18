@@ -38,7 +38,7 @@ breadcrumb: home
 
 				<p>Our first pilot branch began at the Millennium Centre, Red Lodge, on Thursday 16 March 2017. Please visit the <a href="/libraries/red-lodge/">Red Lodge (Suffolk Libraries Local) library page</a> for further information.</p>
 
-				<p><a href="/mobiles-home/bury-st-edmunds-mobile-library-route-15/">Bury St Edmunds Mobile Library Route 15</a> will continue to visit Heathersett Way in Red Lodge every fourth Sunday from 2:10pm to 2:30pm.</p>
+				<p><a href="/mobiles-home/bury-st-edmunds-mobile-library-route-15/">Bury St Edmunds Mobile Library Route 15</a> continues to visit Heathersett Way in Red Lodge every fourth Sunday from 2:10pm to 2:30pm.</p>
 
 		</div>
 
@@ -48,10 +48,8 @@ breadcrumb: home
 
 		<h2>Suffolk Libraries Local in Shotley</h2>
 
-		<p>Our Shotley branch will begin at Shotley Village Hall on Monday 10 April 2017. Please visit the <a href="/libraries/shotley/">Shotley (Suffolk Libraries Local) library page</a> for further information.</p>
+		<p>Our Shotley branch began at Shotley Village Hall on Monday 10 April 2017. Please visit the <a href="/libraries/shotley/">Shotley (Suffolk Libraries Local) library page</a> for further information.</p>
 
-		<p>We will be holding a consultation in March to share more information, answer further questions, and find out what activities residents would like. You can also share your views by taking the <a href="https://www.surveymonkey.co.uk/r/SLLShotley">Suffolk Libraries Local Shotley online survey</a>.</p>
-
-		<p><a href="/mobiles-home/ipswich-mobile-library-route-17/">Ipswich Mobile Library Route 17</a> will continue to serve various stops in Shotley every fourth Friday</p>
+		<p><a href="/mobiles-home/ipswich-mobile-library-route-17/">Ipswich Mobile Library Route 17</a> continues to serve various stops in Shotley every fourth Friday</p>
 
 </div>

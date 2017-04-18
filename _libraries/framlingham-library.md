@@ -22,5 +22,5 @@ branch-colour-printing: available
 branch-photocopying: available
 branch-room-hire: /libraries/room-hire/framlingham-library
 breadcrumb: y
-branch-news: '<a class ="blue" href="/news/framlingham-town-council-to-move-to-the-library/">Framlingham Town Council to move to the library</a>'
+branch-other-facilities: 'Framlingham Town Council offices open Monday-Thursday 10am-4pm and at other times by arrangement. Please see <a href="http://www.framlingham.com/council.php">http://www.framlingham.com/council.php</a> for more information.'
 ---
