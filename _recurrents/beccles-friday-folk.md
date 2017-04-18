@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Friday Folk and board games for adults: sing and/or play music, or play a board game for free. No need to book. Refreshments available."
-recurrent-day: every other Friday
+recurrent-day: second and fourth Friday of the month
 recurrent-times: 1800
 recurrent-location: beccles-library
 recurrent-location-display-name: Beccles Library
