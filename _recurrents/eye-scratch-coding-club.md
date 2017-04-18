@@ -1,6 +1,6 @@
 ---
 recurrent-title: 'Scratch coding club sessions for children aged 8+ - book in advance by contacting the library'
-recurrent-day: every other Sunday
+recurrent-day: every other Saturday
 recurrent-times: 1030-1200
 recurrent-location: eye-library
 recurrent-location-display-name: Eye Library
