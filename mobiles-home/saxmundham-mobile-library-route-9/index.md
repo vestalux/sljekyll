@@ -4,12 +4,6 @@ title: Saxmundham Mobile Library Route 9
 breadcrumb: mobiles-home
 ---
 
-<div class="{% include /c/generic-panel.html %}">
-
-    <p>We’re afraid Saxmundham Mobile Library route 9 won’t be running on Tuesday 18 April as the van is off the road. Apologies for any inconvenience.</p>
-
-</div>
-
 ## Contact us:
 
 Manager: Helen Hudson and Peter Fiske
