@@ -7,7 +7,7 @@ category: young-adult
 excerpt: 'Emma found <cite>Charisma</cite> intriguing and enjoyable.'
 featured-image: /images/featured/featured-charisma.jpg
 featured-alt: Charisma
-featured-link-text: "Read Emma's review of <cite>Charisma</cite>, by Annabel Jeanne Ryan."
+featured-link-text: "Read Emma's review of <cite>Charisma</cite>, by Jeanne Ryan."
 breadcrumb: young-adult
 genre: crime-and-thriller
 genre-image: /images/featured/featured-charisma-genre.jpg

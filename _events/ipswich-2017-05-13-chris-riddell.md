@@ -1,6 +1,6 @@
 ---
 id: ipswich-riddell
-name: Chris Riddell: Ask a Laureate
+name: "Chris Riddell: Ask a Laureate"
 location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2017-05-13

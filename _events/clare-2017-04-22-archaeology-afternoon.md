@@ -9,6 +9,8 @@ event-ticket-price: free
 breadcrumb: y
 ---
 
-Community event suitable for all ages.
+Corrine Cox from Stour Valley Archaeology who will be giving a talk and presentation about archaeology followed by a chance to ask questions.
 
-Please book in advance. This event is free, but donations are appreciated and will support Suffolk Libraries.
+Travels in Time will also be running a practical hands-on dig outside for families with primary aged children from 3pm to 6pm.
+
+Please book your place in advance.

@@ -1,6 +1,6 @@
 ---
 id: ipswich-davies
-name: Meet the Author: Linda Davies
+name: "Meet the Author: Linda Davies"
 location: ipswich-county-library
 location-text: Ipswich County Library
 event-start-date: 2017-05-13
