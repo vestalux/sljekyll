@@ -1,6 +1,6 @@
 ---
 id: chantry-crafts
-name: "Spring rafts for all"
+name: "Spring crafts for all"
 location: chantry-library
 location-text: Chantry Library
 event-start-date: 2017-04-23
