@@ -101,7 +101,7 @@ First published in 1977, this is the second of the classic Bagthorpe Sagas reiss
 
 > "Something strange is happening in the Bagsthorpe house. Ever since Uncle Parker won a luxury cruise in a competition, the family’s gone competition crazy. Only Jack and his trusty dog Zero are staying out of it. So just how does the mixed-up mutt become the most famous dog in Britain?"
 
-### [<cite>Tilly and the Time Machine</cite>, by Adrian Edmondson]()
+### [<cite>Tilly and the Time Machine</cite>, by Adrian Edmondson](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2136646)
 
 > "Tilly is seven and a half. She lives with her dad, a scientist who used to invent things for the government. They are very happy, but they are both missing Mummy, who died about a year ago.
 
