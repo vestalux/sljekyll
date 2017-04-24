@@ -60,7 +60,7 @@ Telephone: 01473 263838
     </td>
 
     <td valign="bottom" width="176">
-      Rendham Road
+      Village Hall
     </td>
 
     <td valign="bottom" width="97">
