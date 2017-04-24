@@ -1,5 +1,5 @@
 ---
-recurrent-title: "Chapter Chasers kids' book club - April's session will be on 23 April due to Easter"
+recurrent-title: "Chapter Chasers kids' book club"
 recurrent-day: third Sunday of the month
 recurrent-times: 1030-1130
 recurrent-location: haverhill-library
