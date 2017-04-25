@@ -2,7 +2,7 @@
 layout: sidebar-right
 title: Bath, Book, Bed booklet launched in Suffolk's Libraries
 date: 2017-04-24
-author: alice-violett
+author: james-powell
 category: news
 excerpt: 'Suffolk Libraries is supporting a campaign by the charity BookTrust which aims to help children (and parents) get a good night’s sleep.'
 breadcrumb: news

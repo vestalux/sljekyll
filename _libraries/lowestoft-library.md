@@ -33,4 +33,5 @@ branch-scan-to-email: y
 branch-faxing: y
 branch-room-hire: /libraries/room-hire/lowestoft-library
 breadcrumb: y
+branch-news: "Please note that the library will be <strong>closed until 10am on Thursday 27 April</strong> for staff training. We apologise for any inconvenience."
 ---
