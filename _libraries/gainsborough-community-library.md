@@ -2,13 +2,14 @@
 branch-unique-id: gainsborough-community-library
 branch-name: Gainsborough Community Library
 branch-image: /images/branches/gainsborough-library.jpg
-branch-monday-hours: 0930 – 1800
-branch-tuesday-hours:	0930 – 1700
-branch-wednesday-hours: 0930 – 1700
-branch-thursday-hours: 0930 – 1700
-branch-friday-hours: 0930 – 1800
-branch-saturday-hours: 0930 – 1700
+branch-monday-hours: 0900 – 1800
+branch-tuesday-hours:	0900 – 1700
+branch-wednesday-hours: 0900 – 1700
+branch-thursday-hours: 0900 – 1700
+branch-friday-hours: 0900 – 1800
+branch-saturday-hours: 0900 – 1700
 branch-sunday-hours: 1100 – 1600
+branch-news: "Please note that the library is <strong>self-service only</strong> until 9:30am Monday-Saturday."
 branch-manager: Mandy Grimwood
 branch-address: Clapgate Lane, Ipswich
 branch-post-code: IP3 0RL

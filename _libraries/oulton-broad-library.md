@@ -25,4 +25,5 @@ branch-photocopying: A4 available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/oulton-broad-library
 breadcrumb: y
+branch-news: "Please note that the library will be <strong>closed until 10:30am on Thursday 27 April</strong> for staff training. We apologise for any inconvenience."
 ---
