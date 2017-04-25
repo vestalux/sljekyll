@@ -1,8 +1,6 @@
 ---
 layout: sidebar-right
 title: Summer Reading Challenge
-hero-image: hero-src-2017.jpg
-hero-alt: Summer Reading Challenge Animal Agents logo
 breadcrumb: events
 sidebar: summer-reading-challenge
 ---
@@ -12,9 +10,7 @@ It's nearly time for The Reading Agency's Summer Reading Challenge 2017. We're i
 <img src="/images/featured/featured-src-bart.jpg" alt="Bart the bloodhound" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
 
 * Reading 6 books of their choice from our libraries
-
 * Talking about them with our Summer Reading Challenge volunteers
-
 * Receiving stickers and other incentives along the way.
 
 <img src="/images/featured/featured-src-bernice.jpg" alt="Bernice the bear" class="custom-br-50 mw-40 {% include /c/img-float-left.html %}" />
@@ -39,6 +35,7 @@ The Summer Reading Challenge helps to get &frac34; million children into librari
 
   <ul class="cf list ma0 pa0 mb2 tc custom-prose center">
 
+    <li class="dib mr2 mr3-ns"><a class="custom-no-underline" href="https://animal-agents.org.uk/"><img src="/images/featured/featured-aa-src-logo.jpg" alt="The Summer Reading Challenge Animal Agents logo" /></a></li>
     <li class="dib mr2 mr3-ns"><a class="custom-no-underline" href="https://summerreadingchallenge.org.uk/"><img src="/images/featured/featured-src-tra-logos.jpg" alt="The Reading Agency Summer Reading Challenge" /></a></li>
     <li class="dib mr2 mr3-ns"><a class="custom-no-underline" href="http://www.artscouncil.org.uk/"><img src="/images/featured/featured-arts-council-england-logo.jpg" alt="Arts Council England" /></a></li>
   </ul>
