@@ -9,7 +9,7 @@ event-end-time: 2000
 breadcrumb: y
 ---
 
-Ruth Dugdall's will be launching her new book, [<cite>My Sister and Other Liars</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2177890) here at the library.
+Ruth Dugdall will be launching her new book, [<cite>My Sister and Other Liars</cite>](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?BRN=2177890) here at the library.
 
 Join us for a great talk from Ruth and to mark the occasion of her latest publication.
 

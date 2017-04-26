@@ -5,7 +5,7 @@ location: newmarket-library
 location-text: Newmarket Library
 event-start-date: 2017-05-18
 event-start-time: 1130
-event-end-time: 1330
+event-end-time: 1300
 breadcrumb: y
 ---
 
