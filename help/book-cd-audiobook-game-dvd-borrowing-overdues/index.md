@@ -74,8 +74,30 @@ breadcrumb: help
     </tr>
     <tr>
       <td>
-        <a title="eLibrary" href="/elibrary/">
-          eBooks
+        <a title="OverDrive" href="/elibrary/overdrive/">
+          eBooks and eAudio (OverDrive)
+        </a>
+      </td>
+      <td>
+        3 weeks
+      </td>
+      <td>
+        10
+      </td>
+      <td>
+        Free
+      </td>
+      <td>
+        n/a as download expires after 3 weeks
+      </td>
+      <td>
+        n/a
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a title="BorrowBox" href="/elibrary/borrowbox/">
+          eAudio (BorrowBox)
         </a>
       </td>
       <td>
