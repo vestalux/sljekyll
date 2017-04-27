@@ -20,7 +20,7 @@ breadcrumb: home
 
             <div class="custom-g-l2">
 
-                <p class="ma0 mb2 mb0-ns">We offer free access to <strong>4 services</strong>. You can sign up for any number of them with your card. Each has a separate website and apps for your device.</p>
+                <p class="ma0 mb2 mb0-ns">We offer free access to <strong>4 services</strong>. Each has a separate website and apps for your device. <a class="blue" href="/help/book-cd-audiobook-game-dvd-borrowing-overdues/">Borrowing allowances and periods &rarr;</a></p>
 
             </div>
 
