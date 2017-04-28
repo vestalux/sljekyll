@@ -1,6 +1,6 @@
 ---
 recurrent-title: "Scrabble club - standard and large print sets provided"
-recurrent-day: Mondays from 24 April
+recurrent-day: Mondays
 recurrent-times: 1000
 recurrent-location: bury-st-edmunds-library
 recurrent-location-display-name: Bury St Edmunds Library

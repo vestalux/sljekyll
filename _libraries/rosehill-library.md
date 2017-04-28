@@ -27,6 +27,7 @@ branch-photocopying: available
 branch-scan-to-email: y
 branch-room-hire: /libraries/room-hire/rosehill-library
 branch-news: '<p>Please note that Rosehill Library will be <strong>closed on Thursday 4 May</strong> as it is being used as a polling station. We apologise for any inconvenience this causes.</p>
-<p>Please call customer services on <a href="tel:01473351249</a>">01473 351249</a> or email <strong>help@suffolklibraries.co.uk</strong> if you have any queries.</p>'
+<p>Please call customer services on <a href="tel:01473351249</a>">01473 351249</a> or email <strong>help@suffolklibraries.co.uk</strong> if you have any queries.</p>
+<p>Please note that the car park will be closed from Monday 8 May due to building work.</p>'
 breadcrumb: y
 ---
