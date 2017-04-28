@@ -4,7 +4,7 @@ title: New fiction for May 2017
 date: 2017-04-28
 author: brandon-king
 category: fiction
-excerpt: New titles from
+excerpt: New titles from Paula Hawkins, Lee Child and Peter James
 featured-image: /images/featured/featured-may-fiction.jpg
 featured-alt: Into The Water, Need You Dead, Sidney Chambers and the Persistence of Love
 featured-link-text: Check out our new fiction titles for May 2017
